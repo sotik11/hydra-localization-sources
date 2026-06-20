@@ -13,6 +13,7 @@
 import { writeFile, mkdir } from "node:fs/promises";
 import { fileURLToPath } from "node:url";
 import { dirname, join } from "node:path";
+import * as cheerio from "cheerio";
 
 const ROOT = join(dirname(fileURLToPath(import.meta.url)), "..");
 
@@ -82,11 +83,51 @@ function extractMirrors(html) {
   return out;
 }
 
+/**
+ * Reads the game page's <dt>label</dt><dd>value</dd> spec rows:
+ *   "Вид русификации"      -> hasVoice / hasText
+ *   "Версия русификатора"  -> version + updatedAt ("1.14 от 06.08.2024")
+ *   "Требуемая версия игры" -> requiredGameVersion
+ * (Changelog / install tabs are client-rendered, so not available here.)
+ */
+function parseDetail(html) {
+  const $ = cheerio.load(html);
+  const specs = {};
+  $("dt").each((_, el) => {
+    const label = $(el).text().trim().replace(/:\s*$/, "");
+    const value = $(el).next("dd").text().trim();
+    if (label && value) specs[label] = value;
+  });
+
+  const detail = {};
+
+  const kind = specs["Вид русификации"];
+  if (kind) {
+    detail.hasVoice = /звук|озвуч/i.test(kind);
+    detail.hasText = /текст/i.test(kind);
+  }
+
+  const ver = specs["Версия русификатора"];
+  if (ver) {
+    const m = ver.match(/^(.*?)\s+от\s+(\d{1,2}\.\d{2}\.\d{4})/);
+    detail.version = (m ? m[1] : ver).trim();
+    detail.updatedAt = m ? m[2] : null;
+  }
+
+  const required = specs["Требуемая версия игры"];
+  if (required) detail.requiredGameVersion = required;
+
+  return detail;
+}
+
 async function buildEntry(game) {
   const pageUrl = `${SITE}/game/${game.alias}/`;
   let mirrors = [];
+  let detail = {};
   try {
-    mirrors = extractMirrors(await getText(pageUrl));
+    const html = await getText(pageUrl);
+    mirrors = extractMirrors(html);
+    detail = parseDetail(html);
   } catch (err) {
     console.warn(`\n  ! detail failed for ${game.alias}: ${err.message}`);
   }
@@ -95,8 +136,11 @@ async function buildEntry(game) {
     studio: STUDIO,
     studioUrl: STUDIO_URL,
     language: LANGUAGE,
-    hasVoice: true,
-    hasText: false,
+    hasVoice: detail.hasVoice ?? true,
+    hasText: detail.hasText ?? false,
+    version: detail.version ?? null,
+    updatedAt: detail.updatedAt ?? null,
+    requiredGameVersion: detail.requiredGameVersion ?? null,
     pageUrl,
     inDevelopment: game.is_in_progress === true || game.is_in_progress === 1,
     mirrors,
@@ -128,9 +172,11 @@ async function main() {
 
   const withMirrors = localizations.filter((l) => l.mirrors.length > 0).length;
   const inDev = localizations.filter((l) => l.inDevelopment).length;
+  const withVersion = localizations.filter((l) => l.version).length;
+  const withReq = localizations.filter((l) => l.requiredGameVersion).length;
   console.log(`[MVO] done → ${outPath}`);
   console.log(
-    `[MVO] total=${localizations.length}, with mirrors=${withMirrors}, in-development=${inDev}`
+    `[MVO] total=${localizations.length}, mirrors=${withMirrors}, in-dev=${inDev}, version=${withVersion}, req-game-version=${withReq}`
   );
 }
 
