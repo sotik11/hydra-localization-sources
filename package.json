@@ -1,0 +1,10 @@
+{
+  "name": "hydra-localization-sources",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Generators that build LocalizationFile JSON feeds for Hydra fan-localization sources.",
+  "scripts": {
+    "gen:mvo": "node generators/mvo.mjs"
+  }
+}
