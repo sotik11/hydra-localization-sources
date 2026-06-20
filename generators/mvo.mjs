@@ -164,7 +164,13 @@ function parseDetail(html) {
   }
 
   const required = specs["Требуемая версия игры"];
-  if (required) detail.requiredGameVersion = required;
+  if (required) {
+    // No version number ("Любая [Steam]") -> "any version": drop the store tags
+    // so it reads cleanly ("Любая"). With digits we keep the per-store builds.
+    detail.requiredGameVersion = /\d/.test(required)
+      ? required
+      : required.replace(/\s*\[[^\]]*\]/g, "").trim() || required.trim();
+  }
 
   return detail;
 }
