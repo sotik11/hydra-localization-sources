@@ -83,6 +83,55 @@ function extractMirrors(html) {
   return out;
 }
 
+const STEAM_SEARCH = "https://store.steampowered.com/api/storesearch/";
+
+function normalizeTitle(t) {
+  return (t || "")
+    .toLowerCase()
+    .replace(/['’:.,!?®™&–—_-]/g, " ")
+    .replace(/\s+/g, " ")
+    .trim();
+}
+
+/** Drops a trailing "(Remake)" / "(2016)" / edition note for a 2nd attempt. */
+function stripSuffix(t) {
+  let prev;
+  let out = t.trim();
+  do {
+    prev = out;
+    out = out.replace(/\s*\([^)]*\)\s*$/, "").trim();
+  } while (out !== prev);
+  return out;
+}
+
+async function steamSearch(term) {
+  try {
+    const json = await getJson(
+      `${STEAM_SEARCH}?term=${encodeURIComponent(term)}&cc=us&l=en`
+    );
+    return Array.isArray(json?.items) ? json.items : [];
+  } catch {
+    return [];
+  }
+}
+
+/**
+ * Resolves a Steam app id by exact (normalized) title match — tries the raw
+ * title, then a suffix-stripped variant ("Silent Hill 2 (Remake)" -> "...2").
+ * Returns null when unsure, so we never attach a wrong app id.
+ */
+async function resolveSteamAppId(title) {
+  const variants = [...new Set([title, stripSuffix(title)])];
+  const targets = new Set(variants.map(normalizeTitle));
+  for (const term of variants) {
+    const items = await steamSearch(term);
+    const hit = items.find((it) => targets.has(normalizeTitle(it.name)));
+    if (hit?.id) return String(hit.id);
+    await sleep(200);
+  }
+  return null;
+}
+
 /**
  * Reads the game page's <dt>label</dt><dd>value</dd> spec rows:
  *   "Вид русификации"      -> hasVoice / hasText
@@ -131,7 +180,9 @@ async function buildEntry(game) {
   } catch (err) {
     console.warn(`\n  ! detail failed for ${game.alias}: ${err.message}`);
   }
+  const steamAppId = await resolveSteamAppId(game.title);
   return {
+    steamAppId: steamAppId ?? undefined,
     title: game.title,
     studio: STUDIO,
     studioUrl: STUDIO_URL,
@@ -174,9 +225,10 @@ async function main() {
   const inDev = localizations.filter((l) => l.inDevelopment).length;
   const withVersion = localizations.filter((l) => l.version).length;
   const withReq = localizations.filter((l) => l.requiredGameVersion).length;
+  const withAppId = localizations.filter((l) => l.steamAppId).length;
   console.log(`[MVO] done → ${outPath}`);
   console.log(
-    `[MVO] total=${localizations.length}, mirrors=${withMirrors}, in-dev=${inDev}, version=${withVersion}, req-game-version=${withReq}`
+    `[MVO] total=${localizations.length}, mirrors=${withMirrors}, in-dev=${inDev}, version=${withVersion}, req-version=${withReq}, steam-appid=${withAppId}`
   );
 }
 
