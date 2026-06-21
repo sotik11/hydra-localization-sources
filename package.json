@@ -5,7 +5,8 @@
   "type": "module",
   "description": "Generators that build LocalizationFile JSON feeds for Hydra fan-localization sources.",
   "scripts": {
-    "gen:mvo": "node generators/mvo.mjs"
+    "gen:mvo": "node generators/mvo.mjs",
+    "gen:lbk": "node generators/lbk.mjs"
   },
   "dependencies": {
     "cheerio": "^1.2.0"
