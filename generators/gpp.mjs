@@ -166,16 +166,23 @@ function metaValue($, label) {
   return value;
 }
 
-/** Follows the gppdl 302 to the real file URL without downloading the body. */
+/**
+ * Follows the gppdl 302 to the real file URL without downloading the body.
+ * The Location is sometimes absolute (…/wp-content/uploads/…) and sometimes
+ * root-relative (/dwn/…/Game_PL.exe) — we resolve both against the gppdl base so
+ * the stored mirror is the actual file (a clean filename for auto-extract). The
+ * /dwn/ files are hotlink-protected and need a Referer, which the in-app
+ * downloader and the link probe both send (see localization-download-manager).
+ */
 async function resolveDirectUrl(gppdlUrl) {
   try {
     const res = await fetch(gppdlUrl, {
       method: "GET",
       redirect: "manual",
-      headers: { "User-Agent": UA, Range: "bytes=0-0" },
+      headers: { "User-Agent": UA, Referer: `${SITE}/`, Range: "bytes=0-0" },
     });
     const loc = res.headers.get("location");
-    if (loc && /^https?:\/\//i.test(loc)) return loc;
+    if (loc) return new URL(loc, gppdlUrl).href;
   } catch {
     // fall through to the gppdl URL itself
   }
