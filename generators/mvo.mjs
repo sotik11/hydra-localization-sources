@@ -25,6 +25,13 @@ const STUDIO = "Mechanics VoiceOver";
 const STUDIO_URL = "https://rgmvo.ru";
 const LANGUAGE = "Русский";
 
+// MVO ships the same installer/uninstaller flow for every game.
+const HOW_TO_INSTALL =
+  `<p><strong>Установка:</strong></p>` +
+  `<p>Следуйте инструкциям инсталлятора. Установка полностью автоматическая.</p>` +
+  `<p><strong>Удаление:</strong></p>` +
+  `<p>Зайдите в директорию Install_Rus_Snd и запустите файл unins***.exe.</p>`;
+
 const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
 
 async function getJson(url) {
@@ -198,6 +205,7 @@ async function buildEntry(game) {
     version: detail.version ?? null,
     updatedAt: detail.updatedAt ?? null,
     requiredGameVersion: detail.requiredGameVersion ?? null,
+    howToInstallHtml: HOW_TO_INSTALL,
     pageUrl,
     inDevelopment: game.is_in_progress === true || game.is_in_progress === 1,
     mirrors,
