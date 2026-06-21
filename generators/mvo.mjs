@@ -231,7 +231,7 @@ async function main() {
   }
   console.log("");
 
-  const file = { name: STUDIO, language: LANGUAGE, localizations };
+  const file = { name: STUDIO, language: LANGUAGE, category: "studio", localizations };
   await mkdir(join(ROOT, "data"), { recursive: true });
   const outPath = join(ROOT, "data", "mvo.json");
   await writeFile(outPath, JSON.stringify(file, null, 2), "utf8");
