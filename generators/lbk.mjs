@@ -43,20 +43,16 @@ function formatDate(iso) {
   return m ? `${m[3]}.${m[2]}.${m[1]}` : null;
 }
 
-function howToInstall(pageUrl) {
-  return (
-    `<p>Локалізація встановлюється лише через лаунчер <strong>LBK</strong> — ` +
-    `прямого завантаження файлу немає.</p>` +
-    `<ol>` +
-    `<li>Завантажте LBK Launcher — безкоштовну програму для встановлення ` +
-    `українських перекладів ігор із <a href="${SITE}">${SITE}</a>.</li>` +
-    `<li>Знайдіть гру у каталозі ігор лаунчера</li>` +
-    `<li>Натисніть "Встановити" — переклад автоматично завантажиться та встановиться</li>` +
-    `<li>Запустіть гру та насолоджуйтеся українською локалізацією!</li>` +
-    `</ol>` +
-    `<p>Сторінка гри: <a href="${pageUrl}">${pageUrl}</a></p>`
-  );
-}
+const HOW_TO_INSTALL =
+  `<p>Локалізація встановлюється лише через лаунчер <strong>LBK</strong> — ` +
+  `прямого завантаження файлу немає.</p>` +
+  `<ol>` +
+  `<li>Завантажте LBK Launcher — безкоштовну програму для встановлення ` +
+  `українських перекладів ігор із <a href="${SITE}">${SITE}</a>.</li>` +
+  `<li>Знайдіть гру у каталозі ігор лаунчера</li>` +
+  `<li>Натисніть "Встановити" — переклад автоматично завантажиться та встановиться</li>` +
+  `<li>Запустіть гру та насолоджуйтеся українською локалізацією!</li>` +
+  `</ol>`;
 
 function buildEntry(game) {
   const pageUrl = `${SITE}/games/${game.slug}`;
@@ -74,7 +70,7 @@ function buildEntry(game) {
     version: game.version ?? null,
     updatedAt: formatDate(game.updated_at),
     pageUrl,
-    howToInstallHtml: howToInstall(pageUrl),
+    howToInstallHtml: HOW_TO_INSTALL,
     inDevelopment: (game.translation_progress ?? 100) < 100,
     // No mirrors — downloads are gated behind LBK's tracked Edge Function.
     mirrors: [],
