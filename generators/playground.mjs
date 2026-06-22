@@ -363,7 +363,7 @@ async function main() {
   await writeFile(
     join(ROOT, "data", "synthvoiceru.json"),
     JSON.stringify(
-      { name: "SynthVoiceRu", language: LANGUAGE, category: "studio", localizations: synth },
+      { name: "SynthVoiceRu", language: LANGUAGE, category: "neural-studio", localizations: synth },
       null,
       2
     ),

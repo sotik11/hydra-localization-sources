@@ -158,7 +158,7 @@ async function main() {
     await sleep(150);
   }
 
-  const file = { name: STUDIO, language: LANGUAGE, category: "studio", localizations: out };
+  const file = { name: STUDIO, language: LANGUAGE, category: "neural-studio", localizations: out };
   await writeFile(outPath, JSON.stringify(file, null, 2), "utf8");
   const withAppId = out.filter((l) => l.steamAppId).length;
   console.log(
