@@ -1,0 +1,387 @@
+{
+  "name": "ReVoiceAI",
+  "language": "Русский",
+  "category": "neural-studio",
+  "localizations": [
+    {
+      "steamAppId": "338390",
+      "title": "The Technomancer",
+      "studio": "ReVoiceAI",
+      "studioUrl": "https://boosty.to/revoice",
+      "language": "Русский",
+      "hasText": false,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralText": false,
+      "hasNeuralDub": true,
+      "hasNeuralVoice": true,
+      "version": null,
+      "updatedAt": null,
+      "pageUrl": "https://www.playground.ru/technomancer/file/the_technomancer_polnaya_ii_ozvuchka_dublyazh_i_zakadr-1853861",
+      "howToInstallHtml": "<p>Нейроозвучка от <strong>ReVoiceAI</strong>. Скачай через одно из зеркал выше (ShareMods — облако, PlayGround — их страница) и запусти <code>.exe</code>-установщик, указав путь к игре. Поддержать авторов можно на их <a href=\"https://boosty.to/revoice\">Boosty</a>.</p>",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "ShareMods (Дубляж)",
+          "url": "https://sharemods.com/bdb4ryhqqo0c/The_Technomancer_dub.zip.html",
+          "kind": "other"
+        },
+        {
+          "label": "ShareMods (Закадр)",
+          "url": "https://sharemods.com/fg0udm2cy1n0/The_Technomancer_voiceover.zip.html",
+          "kind": "other"
+        },
+        {
+          "label": "Boosty (поддержать авторов)",
+          "url": "https://boosty.to/revoice/posts/c884ed54-7ef8-4cd9-9dc5-772f12438739",
+          "kind": "other"
+        }
+      ]
+    },
+    {
+      "steamAppId": "216910",
+      "title": "Of Orcs And Men",
+      "studio": "ReVoiceAI",
+      "studioUrl": "https://boosty.to/revoice",
+      "language": "Русский",
+      "hasText": false,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralText": false,
+      "hasNeuralDub": false,
+      "hasNeuralVoice": true,
+      "version": null,
+      "updatedAt": null,
+      "pageUrl": "https://www.playground.ru/of_orcs_and_men/file/of_orcs_and_men_polnaya_ii_ozvuchka_dublyazh_i_zakadr-1853854",
+      "howToInstallHtml": "<p>Нейроозвучка от <strong>ReVoiceAI</strong>. Скачай через одно из зеркал выше (ShareMods — облако, PlayGround — их страница) и запусти <code>.exe</code>-установщик, указав путь к игре. Поддержать авторов можно на их <a href=\"https://boosty.to/revoice\">Boosty</a>.</p>",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Boosty (поддержать авторов)",
+          "url": "https://boosty.to/revoice/posts/4bb34470-522e-4b33-b034-e2655c827418",
+          "kind": "other"
+        }
+      ]
+    },
+    {
+      "steamAppId": "2255370",
+      "title": "Directive 8020",
+      "studio": "ReVoiceAI",
+      "studioUrl": "https://boosty.to/revoice",
+      "language": "Русский",
+      "hasText": false,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralText": false,
+      "hasNeuralDub": true,
+      "hasNeuralVoice": true,
+      "version": null,
+      "updatedAt": null,
+      "pageUrl": "https://www.playground.ru/directive_8020/file/directive_8020_polnaya_ii_ozvuchka_dublyazh_i_zakadr-1853847",
+      "howToInstallHtml": "<p>Нейроозвучка от <strong>ReVoiceAI</strong>. Скачай через одно из зеркал выше (ShareMods — облако, PlayGround — их страница) и запусти <code>.exe</code>-установщик, указав путь к игре. Поддержать авторов можно на их <a href=\"https://boosty.to/revoice\">Boosty</a>.</p>",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "MEGA (Дубляж)",
+          "url": "https://mega.nz/file/L3BT3S5Z#rLp3U-G7enKLA19nDnxFv9LratZ6HYINmUag2BaVlRU",
+          "kind": "other"
+        },
+        {
+          "label": "ShareMods (Дубляж)",
+          "url": "https://sharemods.com/0k4nhmgkbpka/Directive_8020_dub.zip.html",
+          "kind": "other"
+        },
+        {
+          "label": "MEGA (Закадр)",
+          "url": "https://mega.nz/file/PvZXxSiQ#HwtxbVAsMRsAmH35aIG9TqQqZx4LQo9ioP7M825guuc",
+          "kind": "other"
+        },
+        {
+          "label": "ShareMods (Закадр)",
+          "url": "https://sharemods.com/jgsmzayzlawo/Directive_8020_voiceover.zip.html",
+          "kind": "other"
+        },
+        {
+          "label": "Boosty (поддержать авторов)",
+          "url": "https://boosty.to/revoice/posts/7f1a55ea-974a-4d2e-9fe2-7d861acff8f3",
+          "kind": "other"
+        }
+      ]
+    },
+    {
+      "steamAppId": "232750",
+      "title": "Mars: War Logs",
+      "studio": "ReVoiceAI",
+      "studioUrl": "https://boosty.to/revoice",
+      "language": "Русский",
+      "hasText": false,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralText": false,
+      "hasNeuralDub": true,
+      "hasNeuralVoice": true,
+      "version": null,
+      "updatedAt": null,
+      "pageUrl": "https://boosty.to/revoice/posts/55596428-5ebf-4d9d-a885-fc8b4a08ba4e",
+      "howToInstallHtml": "<p>Нейроозвучка от <strong>ReVoiceAI</strong>. Скачай через одно из зеркал выше (ShareMods — облако, PlayGround — их страница) и запусти <code>.exe</code>-установщик, указав путь к игре. Поддержать авторов можно на их <a href=\"https://boosty.to/revoice\">Boosty</a>.</p>",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "ShareMods (Дубляж)",
+          "url": "https://sharemods.com/1fjdkvvngql4/dub_Mars_War_Logs.zip.html",
+          "kind": "other"
+        },
+        {
+          "label": "ShareMods (Закадр)",
+          "url": "https://sharemods.com/06rrk0kepjs1/voiceover_Mars_War_Logs.zip.html",
+          "kind": "other"
+        },
+        {
+          "label": "Boosty (поддержать авторов)",
+          "url": "https://boosty.to/revoice/posts/55596428-5ebf-4d9d-a885-fc8b4a08ba4e",
+          "kind": "other"
+        }
+      ]
+    },
+    {
+      "steamAppId": "606880",
+      "title": "GreedFall",
+      "studio": "ReVoiceAI",
+      "studioUrl": "https://boosty.to/revoice",
+      "language": "Русский",
+      "hasText": false,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralText": false,
+      "hasNeuralDub": true,
+      "hasNeuralVoice": true,
+      "version": null,
+      "updatedAt": null,
+      "pageUrl": "https://boosty.to/revoice/posts/8dd0d455-0504-4abb-9e3b-0088baeda00e",
+      "howToInstallHtml": "<p>Нейроозвучка от <strong>ReVoiceAI</strong>. Скачай через одно из зеркал выше (ShareMods — облако, PlayGround — их страница) и запусти <code>.exe</code>-установщик, указав путь к игре. Поддержать авторов можно на их <a href=\"https://boosty.to/revoice\">Boosty</a>.</p>",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "MEGA (Дубляж Matched)",
+          "url": "https://mega.nz/file/XyITVQ5J#VziyazuQYqzkvzZykgeNesZR263bIEGhEN-NqNZWv5M",
+          "kind": "other"
+        },
+        {
+          "label": "ShareMods (Дубляж Matched)",
+          "url": "https://sharemods.com/4jjmaiy61pfx/greedfall_dub_matched.zip.html",
+          "kind": "other"
+        },
+        {
+          "label": "MEGA (Дубляж Extended)",
+          "url": "https://mega.nz/file/XnZ1QQrI#7Ldqo8RIoRVruOE9iNXT94ftN6q8dcoIm9JKSpBGToA",
+          "kind": "other"
+        },
+        {
+          "label": "ShareMods (Дубляж Extended)",
+          "url": "https://sharemods.com/l1eg01c5iltj/greedfall_dub_extended.zip.html",
+          "kind": "other"
+        },
+        {
+          "label": "MEGA (Закадр)",
+          "url": "https://mega.nz/file/miA0XARS#lWBzBDO1Fu04sPdg3m_3ZeJC3Dh-rOmd68a4iLmuaT8",
+          "kind": "other"
+        },
+        {
+          "label": "ShareMods (Закадр)",
+          "url": "https://sharemods.com/fs4o51ena0hi/greedfall_voiceover.zip.html",
+          "kind": "other"
+        },
+        {
+          "label": "ShareMods (Дубляж)",
+          "url": "https://sharemods.com/2swbsule5wzz/Greedfall_dub.zip.html",
+          "kind": "other"
+        },
+        {
+          "label": "ShareMods (Закадр)",
+          "url": "https://sharemods.com/2ugymrywhumy/Greedfall_voiceover.zip.html",
+          "kind": "other"
+        },
+        {
+          "label": "Boosty (поддержать авторов)",
+          "url": "https://boosty.to/revoice/posts/8dd0d455-0504-4abb-9e3b-0088baeda00e",
+          "kind": "other"
+        }
+      ]
+    },
+    {
+      "steamAppId": "260210",
+      "title": "Assassin’s Creed® Liberation HD",
+      "studio": "ReVoiceAI",
+      "studioUrl": "https://boosty.to/revoice",
+      "language": "Русский",
+      "hasText": false,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralText": false,
+      "hasNeuralDub": false,
+      "hasNeuralVoice": true,
+      "version": null,
+      "updatedAt": null,
+      "pageUrl": "https://www.playground.ru/assassins_creed_3_liberation/file/assassins_creed_liberation_hd_remastered_polnaya_ii_ozvuchka_dublyazh_i_zakadr-1844110",
+      "howToInstallHtml": "<p>Нейроозвучка от <strong>ReVoiceAI</strong>. Скачай через одно из зеркал выше (ShareMods — облако, PlayGround — их страница) и запусти <code>.exe</code>-установщик, указав путь к игре. Поддержать авторов можно на их <a href=\"https://boosty.to/revoice\">Boosty</a>.</p>",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "ShareMods (Remastered)",
+          "url": "https://sharemods.com/x4pwvc4tj2ex/Assassins_Creed_Liberation_Remastered.zip.html",
+          "kind": "other"
+        },
+        {
+          "label": "MEGA (HD)",
+          "url": "https://mega.nz/file/GqB3SQrR#27U3-kd_WxZFOZqdD5MC-BnXUmfLdeQM27sRIA7zGvY",
+          "kind": "other"
+        },
+        {
+          "label": "ShareMods (HD)",
+          "url": "https://sharemods.com/lu8s28jr4lp0/Assassins_Creed_Liberation_HD.zip.html\n",
+          "kind": "other"
+        },
+        {
+          "label": "Boosty (поддержать авторов)",
+          "url": "https://boosty.to/revoice/posts/b0c43a4b-cf7c-49e9-9211-4c6837d66c46",
+          "kind": "other"
+        }
+      ]
+    },
+    {
+      "steamAppId": "243930",
+      "title": "Bound By Flame",
+      "studio": "ReVoiceAI",
+      "studioUrl": "https://boosty.to/revoice",
+      "language": "Русский",
+      "hasText": false,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralText": false,
+      "hasNeuralDub": true,
+      "hasNeuralVoice": true,
+      "version": "2.0",
+      "updatedAt": null,
+      "pageUrl": "https://www.playground.ru/bound_by_flame/file/bound_by_flame_polnaya_russkaya_ozvuchka_ii_dublyazh_zakadr-1843830",
+      "howToInstallHtml": "<p>Нейроозвучка от <strong>ReVoiceAI</strong>. Скачай через одно из зеркал выше (ShareMods — облако, PlayGround — их страница) и запусти <code>.exe</code>-установщик, указав путь к игре. Поддержать авторов можно на их <a href=\"https://boosty.to/revoice\">Boosty</a>.</p>",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "MEGA",
+          "url": "https://mega.nz/file/u6pHxTDR#ME6oxlOkrZYlnj6Gu9tyhfktZojudd1sJ-q6IcKWm7Y",
+          "kind": "other"
+        },
+        {
+          "label": "ShareMods",
+          "url": "https://sharemods.com/t4kvuqrb8a9n/Bound_By_Flame.zip.html",
+          "kind": "other"
+        },
+        {
+          "label": "ShareMods (Дубляж)",
+          "url": "https://sharemods.com/pn03zu75lnpr/Bound_By_Flame_dub.zip.html",
+          "kind": "other"
+        },
+        {
+          "label": "ShareMods (Закадр)",
+          "url": "https://sharemods.com/2poyke7de9lw/Bound_By_Flame_voiceover.zip.html",
+          "kind": "other"
+        },
+        {
+          "label": "Boosty (поддержать авторов)",
+          "url": "https://boosty.to/revoice/posts/a5979056-d410-4513-981b-580d63d33553",
+          "kind": "other"
+        }
+      ]
+    },
+    {
+      "steamAppId": "2668510",
+      "title": "Red Dead Redemption",
+      "studio": "ReVoiceAI",
+      "studioUrl": "https://boosty.to/revoice",
+      "language": "Русский",
+      "hasText": false,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralText": false,
+      "hasNeuralDub": true,
+      "hasNeuralVoice": true,
+      "version": "0.5.1",
+      "updatedAt": null,
+      "pageUrl": "https://www.playground.ru/red_dead_redemption/file/russkaya_ii_ozvuchka_dlya_rdr_1-1831123",
+      "howToInstallHtml": "<p>Нейроозвучка от <strong>ReVoiceAI</strong>. Скачай через одно из зеркал выше (ShareMods — облако, PlayGround — их страница) и запусти <code>.exe</code>-установщик, указав путь к игре. Поддержать авторов можно на их <a href=\"https://boosty.to/revoice\">Boosty</a>.</p>",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "MEGA (Дубляж)",
+          "url": "https://mega.nz/file/63ww2ZaK#i1tY1nN6UPrUoFKK6CZ8N-lxW0L90ugaN-lWvu5VWqI",
+          "kind": "other"
+        },
+        {
+          "label": "Google Drive (Дубляж)",
+          "url": "https://drive.google.com/file/d/17nw2aZcW3S7ytZTRJHn2-FgitUFhXEkz/view",
+          "kind": "other"
+        },
+        {
+          "label": "ShareMods (Дубляж)",
+          "url": "https://sharemods.com/q88uhy4pqtdn/RDR_dub_v0.5.1.zip.html",
+          "kind": "other"
+        },
+        {
+          "label": "ShareMods (Закадр)",
+          "url": "https://sharemods.com/g11nvqjljc7p/RDR_voiceover_v0.5.1.zip.html",
+          "kind": "other"
+        },
+        {
+          "label": "MEGA (Закадр)",
+          "url": "https://mega.nz/file/OnwwlQ4S#EupHZ33YO8j-ila6aS48uoPu6u53-Obkvf5zxjyvFeg",
+          "kind": "other"
+        },
+        {
+          "label": "Boosty (поддержать авторов)",
+          "url": "https://boosty.to/revoice/posts/b869ac6a-7722-4520-bdbd-bdd3660a6cae",
+          "kind": "other"
+        }
+      ]
+    },
+    {
+      "steamAppId": "3035570",
+      "title": "Assassin's Creed Mirage",
+      "studio": "ReVoiceAI",
+      "studioUrl": "https://boosty.to/revoice",
+      "language": "Русский",
+      "hasText": false,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralText": false,
+      "hasNeuralDub": false,
+      "hasNeuralVoice": true,
+      "version": null,
+      "updatedAt": null,
+      "pageUrl": "https://www.playground.ru/assassins_creed_mirage/file/assassins_creed_mirage_nejrosetevaya_russkaya_ozvuchka-1825790",
+      "howToInstallHtml": "<p>Нейроозвучка от <strong>ReVoiceAI</strong>. Скачай через одно из зеркал выше (ShareMods — облако, PlayGround — их страница) и запусти <code>.exe</code>-установщик, указав путь к игре. Поддержать авторов можно на их <a href=\"https://boosty.to/revoice\">Boosty</a>.</p>",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "MEGA (Закадр)",
+          "url": "https://mega.nz/file/fjAF2SgC#l_Pdj9laD9-E1DAkuwiYtmkT2CXuHQplTcVAMNvMV6E",
+          "kind": "other"
+        },
+        {
+          "label": "ShareMods (Закадр)",
+          "url": "https://sharemods.com/w2z0a8ck47bt/Assassins_Creed_Mirage.zip.html",
+          "kind": "other"
+        },
+        {
+          "label": "MEGA",
+          "url": "https://mega.nz/file/O6pDnASD#qcHgQSqdiCveVUi2Iq6Ci3E4DQI12E1P-3BVyM2HeEE",
+          "kind": "other"
+        },
+        {
+          "label": "Boosty (поддержать авторов)",
+          "url": "https://boosty.to/revoice/posts/b470ca04-9acc-4bc8-bfd3-a2008662cb72",
+          "kind": "other"
+        }
+      ]
+    }
+  ]
+}
