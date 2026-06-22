@@ -1,2 +1,7 @@
 node_modules/
 *.log
+
+# local run backups / raw dumps — not source
+data/*.prev.json
+data/*.bak.json
+data/*.full-*.json
