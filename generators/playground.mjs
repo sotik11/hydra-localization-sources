@@ -132,7 +132,10 @@ const RUSSIFIER_RE =
   /rusifikator|rusifikatsiya|rusik|perevod|pereklad|lokaliz|ozvuch|dublyazh|dubljazh|nejro|mashinn|_teksta|tekst_/i;
 // Mods that merely *mention* a translation (the localization is secondary):
 // fixes, cheats, trainers, adult mods, etc.
-const MOD_RE = /ispravleni|_mod[_-]|cheat|trener|trainer|\bseks|18_plus|hotscenes|basemental/i;
+// Mods that merely *mention* a translation (the localization is secondary):
+// fixes, cheats, adult mods, and "<mod> с русским переводом / с переводом".
+const MOD_RE =
+  /ispravleni|_mod[_-]|cheat|trener|trainer|\bseks|18_plus|hotscenes|basemental|s_russkim_perevodom|s_russkim_yazykom|s_perevodom/i;
 // Studios we already have as their own (better) source — a PlayGround re-upload
 // of their work is a duplicate, so drop it.
 const KNOWN_STUDIO_SLUG_RE =
