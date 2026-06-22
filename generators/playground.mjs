@@ -119,13 +119,46 @@ function largestSize(html) {
   return sizes.sort((a, b) => sizeToBytes(b) - sizeToBytes(a))[0];
 }
 
+// Only real russifiers (the /file/rus feed also lists mods like "Hotscenes").
+const RUSSIFIER_RE =
+  /rusifikator|rusifikatsiya|rusik|perevod|pereklad|lokaliz|ozvuch|dublyazh|dubljazh|nejro|_teksta|tekst_/i;
+const isRussifier = (slug) => RUSSIFIER_RE.test(slug);
+
+/**
+ * Strips the localization descriptor from the h1 to get the bare game name:
+ *   `Starfield "Русификатор текста"`        -> Starfield   (quoted)
+ *   `Batman: Arkham Origins. Нейросетевая…` -> Batman: Arkham Origins (". <desc>")
+ */
+function cleanTitle(h1, slug) {
+  let t = h1.replace(/\s+/g, " ").trim();
+  t = t.split(/["«]/)[0].trim();
+  // Leading descriptor: "Русификатор [текста и озвучки] <Game>".
+  t = t
+    .replace(
+      /^(?:Русификатор|Русифікатор|Русик|Локализаци\w+|Локалізаці\w+|Перевод|Переклад|Нейроперевод|Нейроозвучк\w+|Озвучк\w+|Дубляж)(?:\s+(?:текста|озвучки|звука|речи|и|интерфейса|графики|текстур|полн\w+|русск\w+|для|на|от))*\s+/i,
+      ""
+    )
+    .trim();
+  // Trailing descriptor after ". / - / :".
+  t = t
+    .replace(
+      /\s*[.\-—:]\s*(?:Русификатор|Русифікатор|Локализац|Перевод|Нейро|Озвуч|Дубляж|Закадр|Текстур|Машинн|Полная локал|Любительск)[\s\S]*$/i,
+      ""
+    )
+    .trim();
+  // Trailing junk: "+ Фикс", "и патч…", "[Steam]…", "[vX]".
+  t = t
+    .replace(/\s*(?:[+]\s[\s\S]*|и\s+(?:патч|фикс|исправлени)\w*[\s\S]*|\[[^\]]*\][\s\S]*)$/i, "")
+    .trim();
+  return t || slug;
+}
+
 function buildEntry(url, html) {
   const $ = cheerio.load(html);
   const slug = (url.match(/\/file\/([a-z0-9_-]+)-\d+/i) || [])[1] || "";
 
-  // Game title: h1 is `<Game> "Русификатор …"` — keep the part before the quote.
   const h1 = $("h1").first().text().replace(/\s+/g, " ").trim();
-  const title = h1.split(/["«]/)[0].trim() || slug;
+  const title = cleanTitle(h1, slug);
 
   // The download filename is in the page (archive preferred over a game .exe
   // that the install guide might mention). Size is JS-rendered, so unavailable.
@@ -162,25 +195,105 @@ function buildEntry(url, html) {
   };
 }
 
+/* --------------------------- steam app id lookup -------------------------- */
+
+const STEAM_SEARCH = "https://store.steampowered.com/api/storesearch/";
+
+function normalizeTitle(t) {
+  return (t || "")
+    .toLowerCase()
+    .replace(/['’:.,!?®™&–—_-]/g, " ")
+    .replace(/\s+/g, " ")
+    .trim();
+}
+
+function stripSuffix(t) {
+  let prev;
+  let out = t.trim();
+  do {
+    prev = out;
+    out = out.replace(/\s*\([^)]*\)\s*$/, "").trim();
+  } while (out !== prev);
+  return out;
+}
+
+async function resolveSteamAppId(title) {
+  const variants = [...new Set([title, stripSuffix(title)])];
+  const targets = new Set(variants.map(normalizeTitle));
+  for (const term of variants) {
+    try {
+      const json = await (
+        await fetch(`${STEAM_SEARCH}?term=${encodeURIComponent(term)}&cc=us&l=en`, {
+          headers: { Accept: "application/json", "User-Agent": UA },
+        })
+      ).json();
+      const hit = (json?.items || []).find((it) => targets.has(normalizeTitle(it.name)));
+      if (hit?.id) return String(hit.id);
+    } catch {
+      /* ignore */
+    }
+    await sleep(200);
+  }
+  return null;
+}
+
 /* ---------------------------------- main ---------------------------------- */
+
+const TYPE_FLAGS = [
+  "hasText",
+  "hasVoice",
+  "hasTextures",
+  "hasNeuralText",
+  "hasNeuralVoice",
+  "hasNeuralDub",
+];
 
 async function main() {
   console.log("[PG] fetching catalogue…");
   const urls = await fetchCatalogue();
-  console.log(`[PG] ${urls.length} files`);
+  // Drop non-russifiers (mods) up front, by slug — saves fetching their pages.
+  const russifiers = urls.filter((u) =>
+    isRussifier((u.match(/\/file\/([a-z0-9_-]+)-\d+/i) || [])[1] || "")
+  );
+  console.log(`[PG] ${urls.length} files, ${russifiers.length} russifiers`);
 
-  const localizations = [];
+  const built = [];
   let i = 0;
-  for (const url of urls) {
+  for (const url of russifiers) {
     i += 1;
     try {
-      localizations.push(buildEntry(url, await getText(url)));
+      built.push(buildEntry(url, await getText(url)));
     } catch (err) {
       console.warn(`\n  ! ${url}: ${err.message}`);
     }
-    if (i % 20 === 0 || i === urls.length)
-      process.stdout.write(`\r[PG] file ${i}/${urls.length}     `);
+    if (i % 20 === 0 || i === russifiers.length)
+      process.stdout.write(`\r[PG] file ${i}/${russifiers.length}     `);
     await sleep(90);
+  }
+  console.log("");
+
+  // Dedup: same game + same type combo = different versions -> keep the newest
+  // (catalogue is newest-first, so the first occurrence wins).
+  const byKey = new Map();
+  for (const e of built) {
+    const sig = TYPE_FLAGS.filter((f) => e[f]).join(",");
+    const key = `${e.title.toLowerCase()}|${sig}`;
+    if (!byKey.has(key)) byKey.set(key, e);
+  }
+  const localizations = [...byKey.values()];
+  console.log(`[PG] ${built.length} -> ${localizations.length} after dedup`);
+
+  // Resolve a Steam app id by title (cached per game) for exact matching + grid.
+  const appCache = new Map();
+  let j = 0;
+  for (const e of localizations) {
+    j += 1;
+    const key = e.title.toLowerCase();
+    if (!appCache.has(key)) appCache.set(key, await resolveSteamAppId(e.title));
+    const appid = appCache.get(key);
+    if (appid) e.steamAppId = appid;
+    if (j % 20 === 0 || j === localizations.length)
+      process.stdout.write(`\r[PG] appid ${j}/${localizations.length}     `);
   }
   console.log("");
 
@@ -190,9 +303,9 @@ async function main() {
   await writeFile(outPath, JSON.stringify(file, null, 2), "utf8");
 
   const neural = localizations.filter((l) => l.hasNeuralText || l.hasNeuralVoice || l.hasNeuralDub).length;
-  const guide = localizations.filter((l) => l.howToInstallHtml).length;
+  const appid = localizations.filter((l) => l.steamAppId).length;
   console.log(`[PG] done → ${outPath}`);
-  console.log(`[PG] total=${localizations.length}, neural=${neural}, with-guide=${guide}`);
+  console.log(`[PG] total=${localizations.length}, appid=${appid}, neural=${neural}`);
 }
 
 main().catch((err) => {
