@@ -86,7 +86,15 @@ async function fetchCatalogue() {
  */
 function typeFlags(slug, title) {
   const s = (slug + " " + (title || "")).toLowerCase();
-  const neuro = /nejro|neuro|нейро|машинн/.test(s);
+  // "Нейро…", "Машинный", "Нейросетевой", "ИИ-озвучка" — and a translation made
+  // "с помощью DeepSeek/ChatGPT/…" (a named AI model) — all mean AI-generated.
+  // Named AI models + neural TTS tools (a translation made "by" one is AI).
+  const aiModel =
+    /deepseek|chatgpt|gpt[\s_-]?[0-9o]|\bclaude\b|gemini|gigachat|yandexgpt|\bdeepl\b|\bllama\b|mistral|\bqwen\b|copilot|revoiceai|elevenlabs|silero|\bxtts\b|tortoise|\brvc\b/i;
+  const neuro =
+    /nejro|neuro|нейро|машинн|mashinn|ии[\s_-]?(?:озвуч|дубляж|перевод|текст)|ii[_-](?:ozvuch|dub|perevod|tekst)|от[\s_-]?ии(?:[\s_).\]]|$)|ot[\s_-]ii(?:[\s_]|$)/.test(
+      s
+    ) || aiModel.test(s);
   const isText = (/tekst/.test(s) && !/tekstur/.test(s)) || /текст/.test(s);
   const isTextures = /tekstur|текстур/.test(s);
   const isVoice = /ozvuch|озвуч|закадр/.test(s);
@@ -121,8 +129,40 @@ function largestSize(html) {
 
 // Only real russifiers (the /file/rus feed also lists mods like "Hotscenes").
 const RUSSIFIER_RE =
-  /rusifikator|rusifikatsiya|rusik|perevod|pereklad|lokaliz|ozvuch|dublyazh|dubljazh|nejro|_teksta|tekst_/i;
-const isRussifier = (slug) => RUSSIFIER_RE.test(slug);
+  /rusifikator|rusifikatsiya|rusik|perevod|pereklad|lokaliz|ozvuch|dublyazh|dubljazh|nejro|mashinn|_teksta|tekst_/i;
+// Mods that merely *mention* a translation (the localization is secondary):
+// fixes, cheats, trainers, adult mods, etc.
+const MOD_RE = /ispravleni|_mod[_-]|cheat|trener|trainer|\bseks|18_plus|hotscenes|basemental/i;
+// Studios we already have as their own (better) source — a PlayGround re-upload
+// of their work is a duplicate, so drop it.
+const KNOWN_STUDIO_SLUG_RE =
+  /gamesvoice|mechanics[\s_-]?voiceover|r[\s_.-]?g[\s_.-]?mvo|siberian[\s_-]?studio|shlyakbitraf/i;
+const KNOWN_STUDIOS = new Set([
+  "gamesvoice",
+  "mechanicsvoiceover",
+  "mvo",
+  "rgmvo",
+  "siberianstudio",
+  "шлякбитраф",
+  "grajpopolsku",
+  "magyaritasok",
+  "kuli",
+  "кулі",
+  "lbk",
+]);
+const normStudio = (n) => (n || "").toLowerCase().replace(/[^a-zа-яё0-9]/gi, "");
+const isKnownStudio = (n) => KNOWN_STUDIOS.has(normStudio(n));
+const isRussifier = (slug) =>
+  RUSSIFIER_RE.test(slug) && !MOD_RE.test(slug) && !KNOWN_STUDIO_SLUG_RE.test(slug);
+
+/** Per-entry language — the /file/rus feed sometimes has BY/UA/EN, named in the title. */
+function detectLanguage(slug, title) {
+  const s = (slug + " " + (title || "")).toLowerCase();
+  if (/belorussk|білорус|белорус|беларус/.test(s)) return "Белорусский";
+  if (/ukrainsk|україн|украинск/.test(s)) return "Українська";
+  if (/anglijsk|английск|na_english/.test(s)) return "English";
+  return "Русский";
+}
 
 /**
  * Strips the localization descriptor from the h1 to get the bare game name:
@@ -131,6 +171,7 @@ const isRussifier = (slug) => RUSSIFIER_RE.test(slug);
  */
 function cleanTitle(h1, slug) {
   let t = h1.replace(/\s+/g, " ").trim();
+  t = t.replace(/\{[^}]*\}/g, " ").trim(); // drop author tag {SynthVoiceRu}
   t = t.split(/["«]/)[0].trim();
   // Leading descriptor: "Русификатор [текста и озвучки] <Game>".
   t = t
@@ -159,6 +200,10 @@ function buildEntry(url, html) {
 
   const h1 = $("h1").first().text().replace(/\s+/g, " ").trim();
   const title = cleanTitle(h1, slug);
+  // ~90% of titles end with the team in braces: "… {SynthVoiceRu}".
+  const braceAuthor = (h1.match(/\{([^}]+)\}/) || [])[1]?.trim();
+  // A re-upload of a studio we already have (e.g. {GamesVoice}) is a duplicate.
+  if (braceAuthor && isKnownStudio(braceAuthor)) return null;
 
   // The download filename is in the page (archive preferred over a game .exe
   // that the install guide might mention). Size is JS-rendered, so unavailable.
@@ -179,10 +224,11 @@ function buildEntry(url, html) {
 
   return {
     title,
-    studio: AUTHOR,
+    studio: braceAuthor || AUTHOR,
     studioUrl: url,
-    language: LANGUAGE,
-    ...typeFlags(slug, `${title} ${variantLabels}`),
+    language: detectLanguage(slug, h1),
+    // Detect type/neural from the RAW h1 (the descriptor cleanTitle stripped).
+    ...typeFlags(slug, `${h1} ${variantLabels}`),
     version,
     size: largestSize(html),
     updatedAt: null,
@@ -262,7 +308,8 @@ async function main() {
   for (const url of russifiers) {
     i += 1;
     try {
-      built.push(buildEntry(url, await getText(url)));
+      const entry = buildEntry(url, await getText(url));
+      if (entry) built.push(entry);
     } catch (err) {
       console.warn(`\n  ! ${url}: ${err.message}`);
     }
