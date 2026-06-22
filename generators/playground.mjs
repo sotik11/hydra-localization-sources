@@ -344,15 +344,35 @@ async function main() {
   }
   console.log("");
 
-  const file = { name: STUDIO, language: LANGUAGE, category: "aggregator", localizations };
   await mkdir(join(ROOT, "data"), { recursive: true });
-  const outPath = join(ROOT, "data", "playground.json");
-  await writeFile(outPath, JSON.stringify(file, null, 2), "utf8");
 
-  const neural = localizations.filter((l) => l.hasNeuralText || l.hasNeuralVoice || l.hasNeuralDub).length;
-  const appid = localizations.filter((l) => l.steamAppId).length;
-  console.log(`[PG] done → ${outPath}`);
-  console.log(`[PG] total=${localizations.length}, appid=${appid}, neural=${neural}`);
+  // SynthVoiceRu (a neural-voice studio) gets its own source; synthvoiceru.mjs
+  // then enriches it with Boosty links + Boosty-only projects.
+  const synth = localizations.filter((l) => l.studio === "SynthVoiceRu");
+  const rest = localizations.filter((l) => l.studio !== "SynthVoiceRu");
+
+  await writeFile(
+    join(ROOT, "data", "playground.json"),
+    JSON.stringify(
+      { name: STUDIO, language: LANGUAGE, category: "aggregator", localizations: rest },
+      null,
+      2
+    ),
+    "utf8"
+  );
+  await writeFile(
+    join(ROOT, "data", "synthvoiceru.json"),
+    JSON.stringify(
+      { name: "SynthVoiceRu", language: LANGUAGE, category: "studio", localizations: synth },
+      null,
+      2
+    ),
+    "utf8"
+  );
+
+  const appid = rest.filter((l) => l.steamAppId).length;
+  const neural = rest.filter((l) => l.hasNeuralText || l.hasNeuralVoice || l.hasNeuralDub).length;
+  console.log(`[PG] done → playground=${rest.length} (appid=${appid}, neural=${neural}), synthvoiceru=${synth.length}`);
 }
 
 main().catch((err) => {
