@@ -114,11 +114,35 @@ async function main() {
   const boosty = await fetchBoostyProjects();
   console.log(`[SVR] ${pgEntries.length} on PlayGround, ${boosty.size} on Boosty`);
 
+  // A studio's dub of one game may be split into several PlayGround files (parts
+  // / versions). For a studio source we want ONE card per game, so collapse by
+  // title and merge the content flags.
+  const FLAGS = [
+    "hasNeuralVoice",
+    "hasNeuralDub",
+    "hasNeuralText",
+    "hasVoice",
+    "hasText",
+    "hasTextures",
+  ];
+  const pgByTitle = new Map();
+  for (const e of pgEntries) {
+    const key = normTitle(e.title);
+    const existing = pgByTitle.get(key);
+    if (existing) {
+      for (const f of FLAGS) existing[f] = existing[f] || e[f];
+      if (!existing.steamAppId && e.steamAppId) existing.steamAppId = e.steamAppId;
+    } else {
+      pgByTitle.set(key, { ...e });
+    }
+  }
+  const pgGames = [...pgByTitle.values()];
+
   const seen = new Set();
   const out = [];
 
   // 1) PlayGround entries — keep free PG page (pageUrl) + add a Boosty link.
-  for (const e of pgEntries) {
+  for (const e of pgGames) {
     const key = normTitle(e.title);
     seen.add(key);
     const boostyUrl = boosty.get(key)?.url || SHOWCASE;
@@ -162,7 +186,7 @@ async function main() {
   await writeFile(outPath, JSON.stringify(file, null, 2), "utf8");
   const withAppId = out.filter((l) => l.steamAppId).length;
   console.log(
-    `[SVR] done → ${out.length} total (PG=${pgEntries.length}, boosty-only=${onlyBoosty}), appid=${withAppId}`
+    `[SVR] done → ${out.length} total (PG=${pgGames.length}, boosty-only=${onlyBoosty}), appid=${withAppId}`
   );
 }
 
