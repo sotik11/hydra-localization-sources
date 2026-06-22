@@ -12,7 +12,7 @@
  * closely). Type / neural is encoded in the file slug
  * (…rusifikator_teksta_nejroperevod / _ozvuchka / _nejrodublyazh).
  */
-import { writeFile, mkdir } from "node:fs/promises";
+import { readFile, writeFile, mkdir } from "node:fs/promises";
 import { fileURLToPath } from "node:url";
 import { dirname, join } from "node:path";
 import * as cheerio from "cheerio";
@@ -42,10 +42,45 @@ const MAX_PAGES = Number(process.env.PG_MAX_PAGES) || Infinity;
 
 const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
 
-async function getText(url) {
-  const res = await fetch(url, { headers: { "User-Agent": UA } });
-  if (!res.ok) throw new Error(`GET ${url} -> ${res.status}`);
-  return res.text();
+const TIMEOUT_MS = 8000;
+
+/** fetch with an abort timeout — one dead socket must not hang the whole run. */
+async function fetchTimeout(url, opts = {}, ms = TIMEOUT_MS) {
+  const ctrl = new AbortController();
+  const timer = setTimeout(() => ctrl.abort(), ms);
+  try {
+    return await fetch(url, { ...opts, signal: ctrl.signal });
+  } finally {
+    clearTimeout(timer);
+  }
+}
+
+/** Runs fn over items at a fixed concurrency, preserving result order. */
+async function mapPool(items, concurrency, fn) {
+  const out = new Array(items.length);
+  let next = 0;
+  const worker = async () => {
+    while (next < items.length) {
+      const i = next;
+      next += 1;
+      out[i] = await fn(items[i], i);
+    }
+  };
+  await Promise.all(Array.from({ length: Math.min(concurrency, items.length) }, worker));
+  return out;
+}
+
+async function getText(url, tries = 2) {
+  for (let t = 1; ; t += 1) {
+    try {
+      const res = await fetchTimeout(url, { headers: { "User-Agent": UA } });
+      if (!res.ok) throw new Error(`GET ${url} -> ${res.status}`);
+      return res.text();
+    } catch (err) {
+      if (t >= tries) throw err;
+      await sleep(300);
+    }
+  }
 }
 
 /* ----------------------------- catalogue index ---------------------------- */
@@ -71,7 +106,7 @@ async function fetchCatalogue() {
     }
     process.stdout.write(`\r[PG] catalogue page ${page}, ${urls.size} files     `);
     if (urls.size === before) break; // past the last page (no new files)
-    await sleep(80);
+    await sleep(50);
   }
   console.log("");
   return [...urls.values()];
@@ -139,7 +174,7 @@ const MOD_RE =
 // Studios we already have as their own (better) source — a PlayGround re-upload
 // of their work is a duplicate, so drop it.
 const KNOWN_STUDIO_SLUG_RE =
-  /gamesvoice|mechanics[\s_-]?voiceover|r[\s_.-]?g[\s_.-]?mvo|siberian[\s_-]?studio|shlyakbitraf/i;
+  /gamesvoice|mechanics[\s_-]?voiceover|r[\s_.-]?g[\s_.-]?mvo|siberian[\s_-]?studio|shlyakbitraf|revoiceai/i;
 const KNOWN_STUDIOS = new Set([
   "gamesvoice",
   "mechanicsvoiceover",
@@ -152,6 +187,7 @@ const KNOWN_STUDIOS = new Set([
   "kuli",
   "кулі",
   "lbk",
+  "revoiceai",
 ]);
 const normStudio = (n) => (n || "").toLowerCase().replace(/[^a-zа-яё0-9]/gi, "");
 const isKnownStudio = (n) => KNOWN_STUDIOS.has(normStudio(n));
@@ -271,17 +307,15 @@ async function resolveSteamAppId(title) {
   const targets = new Set(variants.map(normalizeTitle));
   for (const term of variants) {
     try {
-      const json = await (
-        await fetch(`${STEAM_SEARCH}?term=${encodeURIComponent(term)}&cc=us&l=en`, {
-          headers: { Accept: "application/json", "User-Agent": UA },
-        })
-      ).json();
+      const res = await fetchTimeout(`${STEAM_SEARCH}?term=${encodeURIComponent(term)}&cc=us&l=en`, {
+        headers: { Accept: "application/json", "User-Agent": UA },
+      });
+      const json = await res.json();
       const hit = (json?.items || []).find((it) => targets.has(normalizeTitle(it.name)));
       if (hit?.id) return String(hit.id);
     } catch {
-      /* ignore */
+      /* ignore — the abort timeout turns a hung request into a miss, not a stall */
     }
-    await sleep(200);
   }
   return null;
 }
@@ -306,20 +340,21 @@ async function main() {
   );
   console.log(`[PG] ${urls.length} files, ${russifiers.length} russifiers`);
 
-  const built = [];
-  let i = 0;
-  for (const url of russifiers) {
-    i += 1;
-    try {
-      const entry = buildEntry(url, await getText(url));
-      if (entry) built.push(entry);
-    } catch (err) {
-      console.warn(`\n  ! ${url}: ${err.message}`);
-    }
-    if (i % 20 === 0 || i === russifiers.length)
-      process.stdout.write(`\r[PG] file ${i}/${russifiers.length}     `);
-    await sleep(90);
-  }
+  let done = 0;
+  const built = (
+    await mapPool(russifiers, 8, async (url) => {
+      let entry = null;
+      try {
+        entry = buildEntry(url, await getText(url));
+      } catch (err) {
+        console.warn(`\n  ! ${url}: ${err.message}`);
+      }
+      done += 1;
+      if (done % 20 === 0 || done === russifiers.length)
+        process.stdout.write(`\r[PG] file ${done}/${russifiers.length}     `);
+      return entry;
+    })
+  ).filter(Boolean);
   console.log("");
 
   // Dedup: same game + same type combo = different versions -> keep the newest
@@ -334,25 +369,50 @@ async function main() {
   console.log(`[PG] ${built.length} -> ${localizations.length} after dedup`);
 
   // Resolve a Steam app id by title (cached per game) for exact matching + grid.
+  // Cache the PROMISE so concurrent duplicates share one request, not race it.
   const appCache = new Map();
+  const resolveCached = (title) => {
+    const key = title.toLowerCase();
+    if (!appCache.has(key)) appCache.set(key, resolveSteamAppId(title));
+    return appCache.get(key);
+  };
   let j = 0;
-  for (const e of localizations) {
-    j += 1;
-    const key = e.title.toLowerCase();
-    if (!appCache.has(key)) appCache.set(key, await resolveSteamAppId(e.title));
-    const appid = appCache.get(key);
+  await mapPool(localizations, 5, async (e) => {
+    const appid = await resolveCached(e.title);
     if (appid) e.steamAppId = appid;
+    j += 1;
     if (j % 20 === 0 || j === localizations.length)
       process.stdout.write(`\r[PG] appid ${j}/${localizations.length}     `);
-  }
+  });
   console.log("");
 
   await mkdir(join(ROOT, "data"), { recursive: true });
 
+  // Drop aggregator cards that duplicate a studio source's own voice-over (same
+  // Steam app id) — e.g. ReVoiceAI uploads its dubs to PlayGround too, but those
+  // games belong to the richer ReVoiceAI card, not here. A *text* russifier of
+  // the same game is a different localization and stays.
+  const STUDIO_VOICE_SOURCES = ["revoiceai.json"];
+  const studioVoiceIds = new Set();
+  for (const f of STUDIO_VOICE_SOURCES) {
+    try {
+      const j = JSON.parse(await readFile(join(ROOT, "data", f), "utf8"));
+      for (const l of j.localizations || []) if (l.steamAppId) studioVoiceIds.add(String(l.steamAppId));
+    } catch {
+      /* studio source not generated yet — skip */
+    }
+  }
+  const isVoiceCard = (l) => l.hasVoice || l.hasNeuralVoice || l.hasNeuralDub;
+  const beforeDrop = localizations.length;
+  const deduped = localizations.filter(
+    (l) => !(l.steamAppId && studioVoiceIds.has(l.steamAppId) && isVoiceCard(l))
+  );
+  console.log(`[PG] dropped ${beforeDrop - deduped.length} studio-source voice duplicates`);
+
   // SynthVoiceRu (a neural-voice studio) gets its own source; synthvoiceru.mjs
   // then enriches it with Boosty links + Boosty-only projects.
-  const synth = localizations.filter((l) => l.studio === "SynthVoiceRu");
-  const rest = localizations.filter((l) => l.studio !== "SynthVoiceRu");
+  const synth = deduped.filter((l) => l.studio === "SynthVoiceRu");
+  const rest = deduped.filter((l) => l.studio !== "SynthVoiceRu");
 
   await writeFile(
     join(ROOT, "data", "playground.json"),

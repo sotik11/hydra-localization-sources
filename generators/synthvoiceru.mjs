@@ -36,6 +36,17 @@ const HOW_TO_INSTALL =
 
 const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
 
+/** fetch with an abort timeout — a dead socket must not hang the run. */
+async function fetchTimeout(url, opts = {}, ms = 8000) {
+  const ctrl = new AbortController();
+  const timer = setTimeout(() => ctrl.abort(), ms);
+  try {
+    return await fetch(url, { ...opts, signal: ctrl.signal });
+  } finally {
+    clearTimeout(timer);
+  }
+}
+
 const normTitle = (t) =>
   (t || "").toLowerCase().replace(/['’:.,!?®™&–—_-]/g, " ").replace(/\bii\b/g, "2").replace(/\s+/g, " ").trim();
 
@@ -61,7 +72,7 @@ async function fetchBoostyProjects() {
     const url = `https://api.boosty.to/v1/blog/synthvoiceru/post/?limit=100${
       offset ? `&offset=${encodeURIComponent(offset)}` : ""
     }`;
-    const res = await fetch(url, {
+    const res = await fetchTimeout(url, {
       headers: { "User-Agent": UA, Accept: "application/json", Referer: SHOWCASE },
     });
     if (!res.ok) break;
@@ -85,7 +96,7 @@ async function fetchBoostyProjects() {
 async function resolveSteamAppId(title) {
   try {
     const json = await (
-      await fetch(
+      await fetchTimeout(
         `https://store.steampowered.com/api/storesearch/?term=${encodeURIComponent(title)}&cc=us&l=en`,
         { headers: { Accept: "application/json", "User-Agent": UA } }
       )
