@@ -64,8 +64,8 @@ async function getText(url, tries = 4) {
       return res.text();
     } catch (err) {
       if (t >= tries) throw err;
-      // Lokalizace.net rate-limits — back off longer on 429.
-      await sleep(/429/.test(err.message) ? 900 * t : 300);
+      // Lokalizace.net rate-limits — back off longer on throttle (429/5xx).
+      await sleep(/(?:429|50\d)/.test(err.message) ? 900 * t : 300);
     }
   }
 }

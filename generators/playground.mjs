@@ -69,7 +69,7 @@ async function mapPool(items, concurrency, fn) {
   return out;
 }
 
-async function getText(url, tries = 2) {
+async function getText(url, tries = 4) {
   for (let t = 1; ; t += 1) {
     try {
       const res = await fetchTimeout(url, { headers: { "User-Agent": UA } });
@@ -77,7 +77,9 @@ async function getText(url, tries = 2) {
       return res.text();
     } catch (err) {
       if (t >= tries) throw err;
-      await sleep(300);
+      // PlayGround throttles us with 429/5xx under load — back off longer so the
+      // site can breathe instead of hammering it into a deeper hole.
+      await sleep(/(?:429|50\d)/.test(err.message) ? 1000 * t : 300);
     }
   }
 }
@@ -86,14 +88,22 @@ async function getText(url, tries = 2) {
 
 async function fetchCatalogue() {
   const urls = new Map();
+  let fails = 0;
   for (let page = 1; page <= MAX_PAGES; page += 1) {
     let html;
     try {
       // Catalogue base is /file/rus (singular, no slash); pagination is ?p=N.
       html = await getText(`${SITE}/file/rus?p=${page}`);
+      fails = 0;
     } catch (err) {
       console.warn(`\n  ! catalogue page ${page}: ${err.message}`);
-      break;
+      // One throttled page must not truncate the whole catalogue — skip it and
+      // keep walking. Only bail after many consecutive hard failures, and give
+      // the site a real cooldown between attempts (it 503s us under load).
+      fails += 1;
+      if (fails >= 6) break;
+      await sleep(5000);
+      continue;
     }
     const found = [
       ...new Set((html.match(/\/[a-z0-9_-]+\/file\/[a-z0-9_-]+-\d+/gi) || [])),
@@ -344,7 +354,7 @@ async function main() {
 
   let done = 0;
   const built = (
-    await mapPool(russifiers, 8, async (url) => {
+    await mapPool(russifiers, 4, async (url) => {
       let entry = null;
       try {
         entry = buildEntry(url, await getText(url));

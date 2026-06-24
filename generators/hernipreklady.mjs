@@ -60,7 +60,7 @@ async function mapPool(items, concurrency, fn) {
   return out;
 }
 
-async function getText(url, tries = 2) {
+async function getText(url, tries = 4) {
   for (let t = 1; ; t += 1) {
     try {
       const res = await fetchTimeout(url, { headers: { "User-Agent": UA } });
@@ -68,7 +68,8 @@ async function getText(url, tries = 2) {
       return res.text();
     } catch (err) {
       if (t >= tries) throw err;
-      await sleep(300);
+      // Back off longer when throttled (429/5xx) so we don't hammer the site.
+      await sleep(/(?:429|50\d)/.test(err.message) ? 1000 * t : 300);
     }
   }
 }
@@ -260,7 +261,7 @@ async function main() {
 
   let done = 0;
   const built = (
-    await mapPool(urls, 8, async (url) => {
+    await mapPool(urls, 4, async (url) => {
       let entry = null;
       try {
         entry = buildEntry(url, await getText(url));

@@ -75,7 +75,7 @@ async function getText(url, tries = 4) {
       return res.text();
     } catch (err) {
       if (t >= tries) throw err;
-      await sleep(/429/.test(err.message) ? 900 * t : 300);
+      await sleep(/(?:429|50\d)/.test(err.message) ? 900 * t : 300);
     }
   }
 }
