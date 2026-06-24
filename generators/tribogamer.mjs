@@ -38,6 +38,15 @@ const SITE = "https://tribogamer.com";
 const STUDIO = "Tribo Gamer";
 const LANGUAGE = "Português (Brasil)";
 
+// Every Tribo Gamer release ships as an .exe installer, so the install guide is
+// always the same — a standard note in the source language (pt-BR). (The page's
+// "Observações" block is free-form release notes, not install steps, so we don't
+// scrape it.)
+const HOW_TO_INSTALL =
+  `<p>As traduções da Tribo Gamer são instaladores (.exe). ` +
+  `Baixe o arquivo, execute o instalador e siga as instruções na tela — ` +
+  `a instalação é automática.</p>`;
+
 // Créditos roles we surface, in the source language (kept Portuguese on purpose).
 const CREDIT_ROLES = [
   "Administrador",
@@ -122,23 +131,6 @@ function buildAuthors(fields) {
   return rows.length ? rows.join("") : null;
 }
 
-/** The Observações note (Portuguese), as HTML, with Cloudflare junk stripped. */
-function extractObservacoes(html) {
-  const i = html.search(/Observações<\/[^>]+>/i);
-  if (i < 0) return null;
-  const after = html.slice(i);
-  // Content lives in the box-content right after the Observações divider; stop at
-  // the next box section / sidebar.
-  const m = after.match(/box-content"[^>]*>([\s\S]*?)<\/div>\s*<\/div>\s*<\/div>/i);
-  if (!m) return null;
-  let body = m[1]
-    .replace(/\son[a-z]+="[^"]*"/gi, "") // strip onclick=… handlers
-    .replace(/\sdata-cf-[a-z-]+="[^"]*"/gi, "") // strip Cloudflare data-cf-*
-    .replace(/\s+/g, " ")
-    .trim();
-  return body ? `<div>${body}</div>` : null;
-}
-
 function buildEntry(pageUrl, html, download) {
   const fields = parseFields(html);
 
@@ -152,9 +144,10 @@ function buildEntry(pageUrl, html, download) {
   const size = fields.get("Tamanho") || download?.size || null;
   const updatedAt = fields.get("Lançamento") || download?.date || null;
 
-  // These are subtitle/text translations; flag voice only if the page says so.
-  const blob = `${title} ${extractObservacoes(html) || ""}`.toLowerCase();
-  const hasVoice = /dublagem|dublad[oa]|\bvoz(?:es)?\b|áudio|dublag/.test(blob);
+  // Mostly subtitle/text translations; flag voice only when the page title (the
+  // translation's own title, not the sidebar) calls it a dub.
+  const pageTitle = (html.match(/<title>([^<]*)<\/title>/i) || [])[1] || "";
+  const hasVoice = /dublagem|dublad[oa]/i.test(pageTitle);
 
   const mirrors = download?.url
     ? [{ label: STUDIO, url: download.url, kind: "direct" }]
@@ -174,7 +167,7 @@ function buildEntry(pageUrl, html, download) {
     version,
     updatedAt,
     pageUrl,
-    howToInstallHtml: extractObservacoes(html),
+    howToInstallHtml: HOW_TO_INSTALL,
     changelogHtml: null,
     // Aggregator: the translating team (Créditos) is the author.
     authorsHtml: buildAuthors(fields),
