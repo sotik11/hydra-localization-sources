@@ -2,6 +2,7 @@
   "name": "Graj Po Polsku",
   "language": "Polski",
   "category": "aggregator",
+  "siteUrl": "https://grajpopolsku.pl",
   "localizations": [
     {
       "steamAppId": "410110",
@@ -2287,7 +2288,7 @@
       ]
     },
     {
-      "steamAppId": "1505430",
+      "steamAppId": "212410",
       "title": "Inversion",
       "studio": "Graj Po Polsku",
       "studioUrl": "https://grajpopolsku.pl",

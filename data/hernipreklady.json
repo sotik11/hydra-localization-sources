@@ -2,6 +2,7 @@
   "name": "HerníPřeklady",
   "language": "Čeština",
   "category": "aggregator",
+  "siteUrl": "https://hernipreklady.cz",
   "localizations": [
     {
       "title": "Wartales + DLC",
@@ -4208,7 +4209,8 @@
           "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=62",
           "kind": "direct"
         }
-      ]
+      ],
+      "steamAppId": "906100"
     },
     {
       "title": "Invisible hours",
@@ -4373,8 +4375,7 @@
           "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=162",
           "kind": "direct"
         }
-      ],
-      "steamAppId": "985830"
+      ]
     },
     {
       "title": "Twin Mirror",

@@ -2,6 +2,7 @@
   "name": "КУЛІ",
   "language": "Українська",
   "category": "aggregator",
+  "siteUrl": "https://kuli.com.ua",
   "localizations": [
     {
       "steamAppId": "2186990",
@@ -1022,7 +1023,7 @@
       "hasNeuralVoice": false,
       "hasNeuralDub": false,
       "version": null,
-      "updatedAt": "25.04.2026",
+      "updatedAt": "24.06.2026",
       "pageUrl": "https://kuli.com.ua/call-of-juarez",
       "howToInstallHtml": "<ol><li>Завантаж українізатор за посиланням вище.</li><li>Якщо це інсталятор (.exe) — запусти його; якщо архів — розпакуй.</li><li>Скопіюй файли до теки з грою (за запиту — замінити файли).</li><li>Запусти гру — локалізація має застосуватися. Інколи мову треба вибрати в налаштуваннях гри.</li></ol>",
       "inDevelopment": false,
@@ -1365,6 +1366,30 @@
         {
           "label": "Google Drive",
           "url": "https://drive.google.com/drive/folders/1zE-ADv6Rp74gzILLFk0O8j3tPWgEmkFG",
+          "kind": "google"
+        }
+      ]
+    },
+    {
+      "steamAppId": "2618920",
+      "title": "Forgotten Hill The Third Axis",
+      "studio": "«Кавунові переклади»",
+      "studioUrl": "https://kuli.com.ua/forgotten-hill-the-third-axis",
+      "language": "Українська",
+      "hasText": true,
+      "hasVoice": false,
+      "hasNeuralText": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "version": null,
+      "updatedAt": "19.01.2026",
+      "pageUrl": "https://kuli.com.ua/forgotten-hill-the-third-axis",
+      "howToInstallHtml": "<ol><li>Завантаж українізатор за посиланням вище.</li><li>Якщо це інсталятор (.exe) — запусти його; якщо архів — розпакуй.</li><li>Скопіюй файли до теки з грою (за запиту — замінити файли).</li><li>Запусти гру — локалізація має застосуватися. Інколи мову треба вибрати в налаштуваннях гри.</li></ol>",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Google Drive",
+          "url": "https://drive.google.com/file/d/1bLASKwVnmbHsHQhDfkSuJYTffMjEsWPL/view?usp=sharing",
           "kind": "google"
         }
       ]

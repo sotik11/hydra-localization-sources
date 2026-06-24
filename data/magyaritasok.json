@@ -2,6 +2,7 @@
   "name": "Magyarítások",
   "language": "Magyar",
   "category": "aggregator",
+  "siteUrl": "https://magyaritasok.hu",
   "localizations": [
     {
       "steamAppId": "753640",
@@ -2292,7 +2293,7 @@
       "language": "Magyar",
       "hasText": true,
       "hasVoice": false,
-      "version": "3.2.2",
+      "version": "3.2.3",
       "updatedAt": null,
       "pageUrl": "https://magyaritasok.hu/games/dying-light-2-stay-human",
       "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
@@ -2300,7 +2301,7 @@
       "mirrors": [
         {
           "label": "Magyarítások",
-          "url": "https://magyaritasok.hu/dl/DyingLight2/DyingLight2_hun_v3.2.2.exe",
+          "url": "https://magyaritasok.hu/dl/DyingLight2/DyingLight2_hun_v3.2.3.exe",
           "kind": "direct"
         }
       ]
