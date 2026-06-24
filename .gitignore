@@ -5,3 +5,4 @@ node_modules/
 data/*.prev.json
 data/*.bak.json
 data/*.full-*.json
+data/*.json.backup
