@@ -21,13 +21,11 @@ import { writeFile, mkdir } from "node:fs/promises";
 import { fileURLToPath } from "node:url";
 import { dirname, join } from "node:path";
 import * as cheerio from "cheerio";
+import { UA, sleep, fetchTimeout, mapPool, getText } from "../lib/net.mjs";
 
 const ROOT = join(dirname(fileURLToPath(import.meta.url)), "..");
 
 const SITE = "https://magyaritasok.hu";
-const UA =
-  "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 " +
-  "(KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36";
 
 const STUDIO = "Magyarítások";
 const LANGUAGE = "Magyar";
@@ -45,16 +43,6 @@ const HOW_TO_INSTALL =
   `<li>Indítsd el a játékot — a magyarítás életbe lép. ` +
   `Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li>` +
   `</ol>`;
-
-const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
-
-async function getText(url, referer) {
-  const res = await fetch(url, {
-    headers: { "User-Agent": UA, ...(referer ? { Referer: referer } : {}) },
-  });
-  if (!res.ok) throw new Error(`GET ${url} -> ${res.status}`);
-  return res.text();
-}
 
 /* ----------------------------- catalogue index ---------------------------- */
 
@@ -103,7 +91,7 @@ async function fetchCatalogue() {
 async function resolveFileUrl(id) {
   const action = `${SITE}/download/${id}`;
   try {
-    const res = await fetch(action, {
+    const res = await fetchTimeout(action, {
       method: "GET",
       redirect: "follow",
       headers: {
@@ -213,24 +201,24 @@ async function main() {
   const { games, pages } = await fetchCatalogue();
   console.log(`[MH] ${games.length} games across ${pages} catalogue pages`);
 
-  const localizations = [];
-  let i = 0;
-  let windows = 0;
-  for (const game of games) {
-    i += 1;
+  // Each game needs two fetches (page + file resolve); a fixed pool turns the old
+  // ~73-min sequential crawl into a few minutes without hammering the site.
+  let scanned = 0;
+  let kept = 0;
+  const built = await mapPool(games, 5, async (game) => {
+    let entry = null;
     try {
-      const entry = await buildEntry(game);
-      if (entry) {
-        localizations.push(entry);
-        windows += 1;
-      }
+      entry = await buildEntry(game);
     } catch (err) {
       console.warn(`\n  ! ${game.slug}: ${err.message}`);
     }
-    if (i % 25 === 0 || i === games.length)
-      process.stdout.write(`\r[MH] scanned ${i}/${games.length}, kept ${windows}        `);
-    await sleep(70);
-  }
+    scanned += 1;
+    if (entry) kept += 1;
+    if (scanned % 25 === 0 || scanned === games.length)
+      process.stdout.write(`\r[MH] scanned ${scanned}/${games.length}, kept ${kept}        `);
+    return entry;
+  });
+  const localizations = built.filter(Boolean);
   console.log("");
 
   const file = { name: STUDIO, language: LANGUAGE, category: "aggregator", siteUrl: SITE, localizations };
