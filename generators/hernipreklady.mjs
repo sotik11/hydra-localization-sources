@@ -15,13 +15,11 @@
 import { writeFile, mkdir } from "node:fs/promises";
 import { fileURLToPath } from "node:url";
 import { dirname, join } from "node:path";
+import { UA, fetchTimeout, mapPool, getText } from "../lib/net.mjs";
 
 const ROOT = join(dirname(fileURLToPath(import.meta.url)), "..");
 
 const SITE = "https://hernipreklady.cz";
-const UA =
-  "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 " +
-  "(KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36";
 
 const STUDIO = "HerníPřeklady";
 const LANGUAGE = "Čeština";
@@ -32,47 +30,6 @@ const HOW_TO_INSTALL =
   `<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. ` +
   `Instalace je plně automatická.</p>`;
 
-const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
-
-/** fetch with an abort timeout — one dead socket must not hang the whole run. */
-async function fetchTimeout(url, opts = {}, ms = 8000) {
-  const ctrl = new AbortController();
-  const timer = setTimeout(() => ctrl.abort(), ms);
-  try {
-    return await fetch(url, { ...opts, signal: ctrl.signal });
-  } finally {
-    clearTimeout(timer);
-  }
-}
-
-/** Runs fn over items at a fixed concurrency, preserving order. */
-async function mapPool(items, concurrency, fn) {
-  const out = new Array(items.length);
-  let next = 0;
-  const worker = async () => {
-    while (next < items.length) {
-      const i = next;
-      next += 1;
-      out[i] = await fn(items[i], i);
-    }
-  };
-  await Promise.all(Array.from({ length: Math.min(concurrency, items.length) }, worker));
-  return out;
-}
-
-async function getText(url, tries = 4) {
-  for (let t = 1; ; t += 1) {
-    try {
-      const res = await fetchTimeout(url, { headers: { "User-Agent": UA } });
-      if (!res.ok) throw new Error(`GET ${url} -> ${res.status}`);
-      return res.text();
-    } catch (err) {
-      if (t >= tries) throw err;
-      // Back off longer when throttled (429/5xx) so we don't hammer the site.
-      await sleep(/(?:429|50\d)/.test(err.message) ? 1000 * t : 300);
-    }
-  }
-}
 
 // Common named entities incl. the Czech diacritics the site uses.
 const ENT = {

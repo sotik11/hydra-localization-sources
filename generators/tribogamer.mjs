@@ -22,14 +22,18 @@
 import { writeFile, mkdir } from "node:fs/promises";
 import { fileURLToPath } from "node:url";
 import { dirname, join } from "node:path";
-import { execFile } from "node:child_process";
+import {
+  UA,
+  sleep,
+  fetchTimeout,
+  mapPool,
+  getTextCurl as getText,
+  decodeReversedB64,
+} from "../lib/net.mjs";
 
 const ROOT = join(dirname(fileURLToPath(import.meta.url)), "..");
 
 const SITE = "https://tribogamer.com";
-const UA =
-  "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 " +
-  "(KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36";
 
 const STUDIO = "Tribo Gamer";
 const LANGUAGE = "Português (Brasil)";
@@ -45,79 +49,6 @@ const CREDIT_ROLES = [
   "Instalador",
   "Ferramentas",
 ];
-
-const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
-
-/** fetch with an abort timeout — one dead socket must not hang the whole run. */
-async function fetchTimeout(url, opts = {}, ms = 8000) {
-  const ctrl = new AbortController();
-  const timer = setTimeout(() => ctrl.abort(), ms);
-  try {
-    return await fetch(url, { ...opts, signal: ctrl.signal });
-  } finally {
-    clearTimeout(timer);
-  }
-}
-
-/** Runs fn over items at a fixed concurrency, preserving result order. */
-async function mapPool(items, concurrency, fn) {
-  const out = new Array(items.length);
-  let next = 0;
-  const worker = async () => {
-    while (next < items.length) {
-      const i = next;
-      next += 1;
-      out[i] = await fn(items[i], i);
-    }
-  };
-  await Promise.all(Array.from({ length: Math.min(concurrency, items.length) }, worker));
-  return out;
-}
-
-/**
- * Tribo Gamer sits behind Cloudflare, which 403s Node's fetch (undici's TLS
- * fingerprint). The system curl (Schannel) is waved through, so page fetches go
- * through it. Steam's API has no such block and keeps using fetch.
- */
-function curl(url) {
-  return new Promise((resolve, reject) => {
-    execFile(
-      "curl",
-      ["-s", "-S", "-L", "-m", "25", "-A", UA, "-w", "\\n%{http_code}", url],
-      { maxBuffer: 32 * 1024 * 1024, encoding: "utf8" },
-      (err, stdout) => {
-        if (err) return reject(err);
-        const nl = stdout.lastIndexOf("\n");
-        const status = Number(stdout.slice(nl + 1).trim());
-        const body = stdout.slice(0, nl);
-        if (!status || status >= 400) return reject(new Error(`GET ${url} -> ${status || "curl"}`));
-        resolve(body);
-      }
-    );
-  });
-}
-
-async function getText(url, tries = 4) {
-  for (let t = 1; ; t += 1) {
-    try {
-      return await curl(url);
-    } catch (err) {
-      if (t >= tries) throw err;
-      // Back off longer when throttled (429/5xx) so the site can breathe.
-      await sleep(/(?:429|50\d)/.test(err.message) ? 1000 * t : 300);
-    }
-  }
-}
-
-/** Tribo Gamer encodes download fields as reversed base64 (reverse, then b64). */
-function decodeField(s) {
-  try {
-    const rev = decodeURIComponent(s).split("").reverse().join("");
-    return Buffer.from(rev, "base64").toString("utf8");
-  } catch {
-    return null;
-  }
-}
 
 const decodeEntities = (s) =>
   (s || "")
@@ -261,13 +192,13 @@ async function resolveDownload(pageUrl) {
     const link = (html.match(/href="(https?:\/\/[^"]*\/direct\/\?[^"]*duf=[^"]*)"/i) || [])[1];
     if (!link) return null;
     const q = Object.fromEntries(new URL(link.replace(/&amp;/g, "&")).searchParams);
-    const url = decodeField(q.duf);
+    const url = decodeReversedB64(q.duf);
     if (!url || !/^https?:\/\//.test(url)) return null;
     return {
       url,
-      size: q.filesizef ? decodeField(q.filesizef) : null,
-      date: q.filedatef ? decodeField(q.filedatef) : null,
-      version: q.fileversionf ? decodeField(q.fileversionf) : null,
+      size: q.filesizef ? decodeReversedB64(q.filesizef) : null,
+      date: q.filedatef ? decodeReversedB64(q.filedatef) : null,
+      version: q.fileversionf ? decodeReversedB64(q.fileversionf) : null,
     };
   } catch {
     return null;

@@ -16,12 +16,9 @@
 import { readFile, writeFile } from "node:fs/promises";
 import { fileURLToPath } from "node:url";
 import { dirname, join } from "node:path";
+import { UA, sleep, fetchTimeout } from "../lib/net.mjs";
 
 const ROOT = join(dirname(fileURLToPath(import.meta.url)), "..");
-
-const UA =
-  "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 " +
-  "(KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36";
 
 const STUDIO = "SynthVoiceRu";
 const LANGUAGE = "Русский";
@@ -34,18 +31,6 @@ const HOW_TO_INSTALL =
   `установке. Поддержать авторов и получить официальную версию можно на их ` +
   `<a href="${SHOWCASE}">Boosty</a>.</p>`;
 
-const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
-
-/** fetch with an abort timeout — a dead socket must not hang the run. */
-async function fetchTimeout(url, opts = {}, ms = 8000) {
-  const ctrl = new AbortController();
-  const timer = setTimeout(() => ctrl.abort(), ms);
-  try {
-    return await fetch(url, { ...opts, signal: ctrl.signal });
-  } finally {
-    clearTimeout(timer);
-  }
-}
 
 const normTitle = (t) =>
   (t || "").toLowerCase().replace(/['’:.,!?®™&–—_-]/g, " ").replace(/\bii\b/g, "2").replace(/\s+/g, " ").trim();

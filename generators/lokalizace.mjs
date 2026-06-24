@@ -19,56 +19,14 @@
 import { writeFile, mkdir } from "node:fs/promises";
 import { fileURLToPath } from "node:url";
 import { dirname, join } from "node:path";
+import { UA, sleep, fetchTimeout, mapPool, getText } from "../lib/net.mjs";
 
 const ROOT = join(dirname(fileURLToPath(import.meta.url)), "..");
 
 const SITE = "https://lokalizace.net";
-const UA =
-  "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 " +
-  "(KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36";
 
 const STUDIO = "Lokalizace.net";
 const LANGUAGE = "Čeština";
-
-const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
-
-async function fetchTimeout(url, opts = {}, ms = 8000) {
-  const ctrl = new AbortController();
-  const timer = setTimeout(() => ctrl.abort(), ms);
-  try {
-    return await fetch(url, { ...opts, signal: ctrl.signal });
-  } finally {
-    clearTimeout(timer);
-  }
-}
-
-async function mapPool(items, concurrency, fn) {
-  const out = new Array(items.length);
-  let next = 0;
-  const worker = async () => {
-    while (next < items.length) {
-      const i = next;
-      next += 1;
-      out[i] = await fn(items[i], i);
-    }
-  };
-  await Promise.all(Array.from({ length: Math.min(concurrency, items.length) }, worker));
-  return out;
-}
-
-async function getText(url, tries = 4) {
-  for (let t = 1; ; t += 1) {
-    try {
-      const res = await fetchTimeout(url, { headers: { "User-Agent": UA } });
-      if (!res.ok) throw new Error(res.status === 429 ? "429" : `GET ${url} -> ${res.status}`);
-      return res.text();
-    } catch (err) {
-      if (t >= tries) throw err;
-      // Lokalizace.net rate-limits — back off longer on throttle (429/5xx).
-      await sleep(/(?:429|50\d)/.test(err.message) ? 900 * t : 300);
-    }
-  }
-}
 
 /** Decodes the <... escapes Nuxt uses inside string fields. */
 const unescapeJs = (s) =>
