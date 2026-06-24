@@ -401,7 +401,7 @@ async function main() {
     await sleep(150);
   }
 
-  const file = { name: STUDIO, language: LANGUAGE, category: "neural-studio", localizations };
+  const file = { name: STUDIO, language: LANGUAGE, category: "neural-studio", siteUrl: BOOSTY, localizations };
   await mkdir(join(ROOT, "data"), { recursive: true });
   const outPath = join(ROOT, "data", "revoiceai.json");
   await writeFile(outPath, JSON.stringify(file, null, 2), "utf8");

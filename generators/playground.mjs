@@ -27,9 +27,8 @@ const UA =
 const STUDIO = "PlayGround";
 const LANGUAGE = "Русский";
 
-// Per the source's nature, the studio is always the portal (uploaders vary and
-// aren't the translators); a specific author isn't reliably extractable.
-const AUTHOR = "Playground.ru";
+// The studio is always the portal (PlayGround); the per-translation author (the
+// {brace} tag in the title) goes into the Authors modal instead.
 
 // Install differs per russifier and the page's guide is huge/variable, so we
 // point the user to the file page (where the guide + download button live).
@@ -263,8 +262,11 @@ function buildEntry(url, html) {
 
   return {
     title,
-    studio: braceAuthor || AUTHOR,
+    // Aggregator: the studio is always the portal; the actual translator (the
+    // {brace} author) goes into the Authors modal instead.
+    studio: STUDIO,
     studioUrl: url,
+    authorsHtml: braceAuthor ? `<p>${braceAuthor}</p>` : null,
     language: detectLanguage(slug, h1),
     // Detect type/neural from the RAW h1 (the descriptor cleanTitle stripped).
     ...typeFlags(slug, `${h1} ${variantLabels}`),
@@ -411,13 +413,15 @@ async function main() {
 
   // SynthVoiceRu (a neural-voice studio) gets its own source; synthvoiceru.mjs
   // then enriches it with Boosty links + Boosty-only projects.
-  const synth = deduped.filter((l) => l.studio === "SynthVoiceRu");
-  const rest = deduped.filter((l) => l.studio !== "SynthVoiceRu");
+  // studio is now always "PlayGround", so split SynthVoiceRu off by its author.
+  const isSynth = (l) => /SynthVoiceRu/i.test(l.authorsHtml || "");
+  const synth = deduped.filter(isSynth);
+  const rest = deduped.filter((l) => !isSynth(l));
 
   await writeFile(
     join(ROOT, "data", "playground.json"),
     JSON.stringify(
-      { name: STUDIO, language: LANGUAGE, category: "aggregator", localizations: rest },
+      { name: STUDIO, language: LANGUAGE, category: "aggregator", siteUrl: SITE, localizations: rest },
       null,
       2
     ),
@@ -426,7 +430,7 @@ async function main() {
   await writeFile(
     join(ROOT, "data", "synthvoiceru.json"),
     JSON.stringify(
-      { name: "SynthVoiceRu", language: LANGUAGE, category: "neural-studio", localizations: synth },
+      { name: "SynthVoiceRu", language: LANGUAGE, category: "neural-studio", siteUrl: "https://boosty.to/synthvoiceru", localizations: synth },
       null,
       2
     ),

@@ -255,7 +255,7 @@ async function main() {
   await writeFile(
     join(ROOT, "data", "lokalizace.json"),
     JSON.stringify(
-      { name: STUDIO, language: LANGUAGE, category: "aggregator", localizations: built },
+      { name: STUDIO, language: LANGUAGE, category: "aggregator", siteUrl: SITE, localizations: built },
       null,
       2
     ),

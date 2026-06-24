@@ -233,7 +233,7 @@ async function main() {
   }
   console.log("");
 
-  const file = { name: STUDIO, language: LANGUAGE, category: "aggregator", localizations };
+  const file = { name: STUDIO, language: LANGUAGE, category: "aggregator", siteUrl: SITE, localizations };
   await mkdir(join(ROOT, "data"), { recursive: true });
   const outPath = join(ROOT, "data", "magyaritasok.json");
   await writeFile(outPath, JSON.stringify(file, null, 2), "utf8");

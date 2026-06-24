@@ -84,7 +84,7 @@ async function main() {
 
   const localizations = games.map(buildEntry);
 
-  const file = { name: SOURCE_NAME, language: LANGUAGE, category: "aggregator", localizations };
+  const file = { name: SOURCE_NAME, language: LANGUAGE, category: "aggregator", siteUrl: SITE, localizations };
   await mkdir(join(ROOT, "data"), { recursive: true });
   const outPath = join(ROOT, "data", "lbk.json");
   await writeFile(outPath, JSON.stringify(file, null, 2), "utf8");

@@ -243,7 +243,7 @@ async function main() {
   await writeFile(
     join(ROOT, "data", "komunitni-preklady.json"),
     JSON.stringify(
-      { name: STUDIO, language: "Čeština", category: "aggregator", localizations: built },
+      { name: STUDIO, language: "Čeština", category: "aggregator", siteUrl: SITE, localizations: built },
       null,
       2
     ),
