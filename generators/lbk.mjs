@@ -14,6 +14,7 @@
 import { writeFile, mkdir } from "node:fs/promises";
 import { fileURLToPath } from "node:url";
 import { dirname, join } from "node:path";
+import { getJson } from "../lib/net.mjs";
 
 const ROOT = join(dirname(fileURLToPath(import.meta.url)), "..");
 
@@ -30,11 +31,9 @@ async function fetchGames() {
     `${SUPABASE}/rest/v1/games?select=name,slug,steam_app_id,team,status,` +
     `translation_progress,version,archive_path,voice_archive_path,updated_at` +
     `&approved=eq.true&hide=eq.false&order=name.asc&limit=2000`;
-  const res = await fetch(url, {
+  return getJson(url, {
     headers: { apikey: ANON, Authorization: `Bearer ${ANON}` },
   });
-  if (!res.ok) throw new Error(`GET games -> ${res.status}`);
-  return res.json();
 }
 
 /** "2026-03-09T13:29:03Z" -> "09.03.2026" */
@@ -60,8 +59,8 @@ function buildEntry(game) {
     steamAppId:
       game.steam_app_id != null ? String(game.steam_app_id) : undefined,
     title: game.name,
-    // LBK aggregates 350+ teams (some with long multi-author credits) — using
-    // a single source name keeps cards clean; the team is on the game page.
+    // Aggregator: the card shows the portal (LBK); the translating team (from
+    // the API) goes into the Authors modal.
     studio: SOURCE_NAME,
     studioUrl: SITE,
     language: LANGUAGE,
@@ -71,6 +70,7 @@ function buildEntry(game) {
     updatedAt: formatDate(game.updated_at),
     pageUrl,
     howToInstallHtml: HOW_TO_INSTALL,
+    authorsHtml: game.team ? `<p>${String(game.team).trim()}</p>` : null,
     inDevelopment: (game.translation_progress ?? 100) < 100,
     // No mirrors — downloads are gated behind LBK's tracked Edge Function.
     mirrors: [],
