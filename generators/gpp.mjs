@@ -18,14 +18,11 @@ import { writeFile, mkdir } from "node:fs/promises";
 import { fileURLToPath } from "node:url";
 import { dirname, join } from "node:path";
 import * as cheerio from "cheerio";
+import { UA, sleep, fetchTimeout, mapPool, getText, getJson } from "../lib/net.mjs";
 
 const ROOT = join(dirname(fileURLToPath(import.meta.url)), "..");
 
 const SITE = "https://grajpopolsku.pl";
-// The site 403s the default UA, so we present a normal browser string.
-const UA =
-  "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 " +
-  "(KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36";
 
 const STUDIO = "Graj Po Polsku";
 const STUDIO_URL = SITE;
@@ -58,22 +55,6 @@ const PL_MONTHS = {
   grudnia: "12",
 };
 
-const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
-
-async function getText(url) {
-  const res = await fetch(url, { headers: { "User-Agent": UA } });
-  if (!res.ok) throw new Error(`GET ${url} -> ${res.status}`);
-  return res.text();
-}
-
-async function getJson(url) {
-  const res = await fetch(url, {
-    headers: { Accept: "application/json", "User-Agent": UA },
-  });
-  if (!res.ok) throw new Error(`GET ${url} -> ${res.status}`);
-  return res.json();
-}
-
 /* ----------------------------- catalogue index ---------------------------- */
 
 /** Reads (slug, title) pairs + the highest page number from one index page. */
@@ -100,8 +81,9 @@ function parseIndexPage(html) {
 async function fetchCatalogue() {
   const first = parseIndexPage(await getText(`${SITE}/downloads/pc/`));
   const bySlug = new Map(first.games.map((g) => [g.slug, g]));
+  const maxPages = Math.min(first.lastPage, Number(process.env.GPP_MAX_PAGES) || Infinity);
 
-  for (let page = 2; page <= first.lastPage; page += 1) {
+  for (let page = 2; page <= maxPages; page += 1) {
     try {
       const { games } = parseIndexPage(
         await getText(`${SITE}/downloads/pc/page/${page}/`)
@@ -155,6 +137,54 @@ function extractInstall($) {
   return html;
 }
 
+/**
+ * Pulls the "Autorzy" / "Autor spolszczenia" credits block from the page body
+ * into clean HTML (plain text + <br>). Length varies wildly — from one line to
+ * a full cast — so we cut the per-character voice list ("Głosu użyczyli"), the
+ * thanks ("Podziękowania"), the author's homepage, and cap very long blocks.
+ */
+function extractAuthors($) {
+  const root = $(".single-content").first();
+  if (!root.length) return null;
+  const inner = root.html() || "";
+
+  const sm = inner.match(/Autor(?:zy)?\b[^<]*/i);
+  if (!sm) return null;
+  let block = inner.slice(inner.indexOf(sm[0]));
+
+  for (const stop of [
+    /G[łl]osu u[zż]yczyli/i,
+    /Podzi[ęe]kowania/i,
+    /Strona autora/i,
+    /Instrukcja instalacji/i,
+    /Instalacja\b/i,
+    /Jak zainstalowa/i,
+    /\bPOBIERZ\b/i,
+  ]) {
+    const idx = block.search(stop);
+    if (idx > 0) block = block.slice(0, idx);
+  }
+
+  block = block
+    .replace(/<\/(p|section|div|header|li)>/gi, "<br>")
+    .replace(/<li[^>]*>/gi, "")
+    .replace(/<(?!\/?br\b)[^>]*>/gi, "") // keep only <br> (drop strong/span/etc.)
+    .replace(/<br\s*\/?>/gi, "<br>")
+    .replace(/&nbsp;/gi, " ")
+    .replace(/[ \t]+/g, " ")
+    .replace(/(\s*<br>\s*){2,}/gi, "<br>")
+    .replace(/^(?:\s|<br>)+|(?:\s|<br>)+$/gi, "")
+    .trim();
+
+  // Safety cap for any still-huge block (cut on a <br> boundary, add ellipsis).
+  if (block.length > 900) {
+    const cut = block.lastIndexOf("<br>", 900);
+    block = (cut > 200 ? block.slice(0, cut) : block.slice(0, 900)) + "<br>…";
+  }
+
+  return block ? `<div>${block}</div>` : null;
+}
+
 /** Reads a "meta-title" box's trailing value text (after its icon). */
 function metaValue($, label) {
   let value = null;
@@ -176,7 +206,7 @@ function metaValue($, label) {
  */
 async function resolveDirectUrl(gppdlUrl) {
   try {
-    const res = await fetch(gppdlUrl, {
+    const res = await fetchTimeout(gppdlUrl, {
       method: "GET",
       redirect: "manual",
       headers: { "User-Agent": UA, Referer: `${SITE}/`, Range: "bytes=0-0" },
@@ -192,6 +222,7 @@ async function resolveDirectUrl(gppdlUrl) {
 async function buildEntry(game) {
   const pageUrl = `${SITE}/download/${game.slug}/`;
   const $ = cheerio.load(await getText(pageUrl));
+  const authorsHtml = extractAuthors($);
 
   const title = $("h1.single-title").first().text().trim() || game.title;
 
@@ -228,6 +259,7 @@ async function buildEntry(game) {
     updatedAt,
     pageUrl,
     howToInstallHtml: extractInstall($) ?? FALLBACK_INSTALL,
+    authorsHtml,
     inDevelopment: false,
     mirrors,
   };
@@ -285,22 +317,20 @@ async function main() {
   const { games, pages } = await fetchCatalogue();
   console.log(`[GPP] ${games.length} games across ${pages} index pages`);
 
-  const localizations = [];
-  let i = 0;
-  for (const game of games) {
-    i += 1;
+  let scanned = 0;
+  const built = await mapPool(games, 4, async (game) => {
+    let entry = null;
     try {
-      const entry = await buildEntry(game);
-      localizations.push(entry);
-      process.stdout.write(
-        `\r[GPP] ${i}/${games.length} — ${entry.title.slice(0, 30)} ` +
-          `(${entry.mirrors.length ? "direct" : "no-dl"})            `
-      );
+      entry = await buildEntry(game);
     } catch (err) {
       console.warn(`\n  ! ${game.slug} failed: ${err.message}`);
     }
-    await sleep(120);
-  }
+    scanned += 1;
+    if (scanned % 20 === 0 || scanned === games.length)
+      process.stdout.write(`\r[GPP] ${scanned}/${games.length}            `);
+    return entry;
+  });
+  const localizations = built.filter(Boolean);
   console.log("");
 
   const file = { name: STUDIO, language: LANGUAGE, category: "aggregator", siteUrl: SITE, localizations };
