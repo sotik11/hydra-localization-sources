@@ -7,8 +7,8 @@
 set -u
 cd "$(dirname "$0")"
 
-BASES="gpp hernipreklady komunitni-preklady kuli lbk lokalizace magyaritasok mvo playground revoiceai synthvoiceru tribogamer"
-ORDER="revoiceai playground synthvoiceru gpp hernipreklady komunitni-preklady kuli lbk lokalizace magyaritasok mvo tribogamer"
+BASES="gpp hernipreklady komunitni-preklady kuli lbk lokalizace magyaritasok mvo playground revoiceai synthvoiceru tribogamer turkce-yama calypsoceviri"
+ORDER="revoiceai playground synthvoiceru gpp hernipreklady komunitni-preklady kuli lbk lokalizace magyaritasok mvo tribogamer turkce-yama calypsoceviri"
 
 count() { node -e 'try{console.log(JSON.parse(require("fs").readFileSync(process.argv[1],"utf8")).localizations.length)}catch{console.log(0)}' "$1" 2>/dev/null; }
 
