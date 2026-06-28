@@ -152,27 +152,30 @@ async function buildEntry(game) {
     const idMatch = (dl || "").match(/\/download\/(\d+)/);
     if (!idMatch) return; // only magyaritasok-hosted downloads (drops discord/site/video)
 
-    const cells = $tr.find("td").toArray().map((td) => $(td).text().replace(/\s+/g, " ").trim());
-    // Translators are linked to their profiles; fall back to a "( … )" cell.
-    const byProfile = $tr
-      .find("a[href*='/profile/']")
+    const statusText = $tr
+      .find("td")
       .toArray()
-      .map((a) => $(a).text().replace(/\s+/g, " ").trim())
-      .filter(Boolean);
-    const translators = byProfile.length
-      ? byProfile.join(", ")
-      : (cells.find((c) => /\(.+\)/.test(c)) || "")
-          .replace(/^.*\(([^)]*)\).*$/, "$1")
-          .trim();
-    const statusText = cells.join(" ");
+      .map((td) => $(td).text().replace(/\s+/g, " ").trim())
+      .join(" ");
     pick = {
       id: idMatch[1],
-      translators,
       inDevelopment: /Folyamatban|Tervbe véve/i.test(statusText),
     };
   });
 
   if (!pick) return null;
+
+  // Translator(s) come from the page's profile links (the per-game credits). The
+  // portal's own account (profile/magyaritasok.hu) is its social handle, not an
+  // author, so it's excluded.
+  const translators = [
+    ...new Set(
+      [...html.matchAll(/\/profile\/([a-z0-9._-]+)"[^>]*>([^<]+)</gi)]
+        .filter((m) => m[1].toLowerCase() !== "magyaritasok.hu")
+        .map((m) => m[2].replace(/\s+/g, " ").trim())
+        .filter(Boolean)
+    ),
+  ].join(", ");
 
   const fileUrl = await resolveFileUrl(pick.id);
   if (!fileUrl) return null; // no reachable direct file -> skip
@@ -180,7 +183,9 @@ async function buildEntry(game) {
   return {
     steamAppId: appId ?? undefined,
     title: game.name,
-    studio: pick.translators || STUDIO,
+    // Aggregator: the card shows the portal (Magyarítások); the actual
+    // translator goes into the Authors modal.
+    studio: STUDIO,
     studioUrl: SITE,
     language: LANGUAGE,
     hasText: true,
@@ -189,6 +194,7 @@ async function buildEntry(game) {
     updatedAt: null,
     pageUrl,
     howToInstallHtml: HOW_TO_INSTALL,
+    authorsHtml: translators ? `<p>${translators}</p>` : null,
     inDevelopment: pick.inDevelopment,
     mirrors: [{ label: STUDIO, url: fileUrl, kind: "direct" }],
   };
