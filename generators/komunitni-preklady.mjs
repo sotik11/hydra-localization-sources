@@ -26,6 +26,17 @@ const SITE = "https://komunitni-preklady.org";
 const STUDIO = "Komunitní překlady";
 const LANG_NAME = { cs: "Čeština", sk: "Slovenčina" };
 
+const ROMAN = /^(?:i{1,3}|iv|vi{0,3}|ix|xi{0,2})$/i;
+/** Last-resort name when the page has no VideoGame block: "a-b-ii" -> "A B II". */
+const deslugify = (slug) =>
+  slug
+    .replace(/-(?:sk|cs)$/i, "")
+    .replace(/-+$/g, "")
+    .split("-")
+    .filter(Boolean)
+    .map((w) => (ROMAN.test(w) ? w.toUpperCase() : w[0].toUpperCase() + w.slice(1)))
+    .join(" ");
+
 // Standard install note (we don't scrape the long per-translation guide), in the
 // translation's own language — content language rule.
 const HOW_TO_INSTALL = {
@@ -92,7 +103,8 @@ function buildEntry(slug, html) {
   // "name" is "<lang> do hry <game>"; the site also stopped putting name right
   // after the @type, so the old match fell back to the slug for every entry).
   const name =
-    strip((html.match(/"VideoGame","@id":"[^"]*","name":"([^"]+)"/i) || [])[1] || "") || slug;
+    strip((html.match(/"VideoGame","@id":"[^"]*","name":"([^"]+)"/i) || [])[1] || "") ||
+    deslugify(slug);
   const team = ld(/"author":\{"@type":"Organization","name":"([^"]+)"/);
 
   const gameVer =
