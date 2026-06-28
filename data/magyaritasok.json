@@ -13995,10 +13995,10 @@
       "language": "Magyar",
       "hasText": true,
       "hasVoice": false,
-      "version": "1.07",
-      "updatedAt": "01.08.2023",
+      "version": "1.09",
+      "updatedAt": "28.06.2026",
       "requiredGameVersion": "1.407",
-      "size": "1.19 MB",
+      "size": "5.47 MB",
       "pageUrl": "https://magyaritasok.hu/games/graveyard-keeper",
       "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
       "authorsHtml": null,
@@ -14006,7 +14006,7 @@
       "mirrors": [
         {
           "label": "Magyarítások",
-          "url": "https://magyaritasok.hu/dl/GraveyardKeeper/GraveyardKeeperHUNbyTRC_v1.07.zip",
+          "url": "https://magyaritasok.hu/dl/GraveyardKeeper/GraveyardKeeperHUNbyTRC_1.09.zip",
           "kind": "direct"
         }
       ]
@@ -19562,10 +19562,10 @@
       "language": "Magyar",
       "hasText": true,
       "hasVoice": false,
-      "version": "1.12",
-      "updatedAt": "24.06.2023",
-      "requiredGameVersion": "v.1.39",
-      "size": "396 KB",
+      "version": "1.13",
+      "updatedAt": "28.06.2026",
+      "requiredGameVersion": "v.1.32",
+      "size": "5.28 MB",
       "pageUrl": "https://magyaritasok.hu/games/punch-club",
       "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
       "authorsHtml": "<p>Panyi</p>",
@@ -19573,7 +19573,7 @@
       "mirrors": [
         {
           "label": "Magyarítások",
-          "url": "https://magyaritasok.hu/dl/punchclub/PunchClubHUNbyTRC_1.12.zip",
+          "url": "https://magyaritasok.hu/dl/punchclub/PunchClubHUNbyTRC_1.13.zip",
           "kind": "direct"
         }
       ]
@@ -38015,6 +38015,29 @@
         {
           "label": "Magyarítások",
           "url": "https://magyaritasok.hu/dl/bfme2/bfme2_hun.exe",
+          "kind": "direct"
+        }
+      ]
+    },
+    {
+      "title": "The House of the Dead 2",
+      "studio": "Magyarítások",
+      "studioUrl": "https://magyaritasok.hu",
+      "language": "Magyar",
+      "hasText": true,
+      "hasVoice": false,
+      "version": "1.0",
+      "updatedAt": "28.05.2014",
+      "requiredGameVersion": null,
+      "size": "805 KB",
+      "pageUrl": "https://magyaritasok.hu/games/the-house-of-the-dead-2",
+      "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
+      "authorsHtml": "<p>EVM</p>",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Magyarítások",
+          "url": "https://magyaritasok.hu/dl/thehouseofthedead2/thehouseofthedead2_hun_1.0.zip",
           "kind": "direct"
         }
       ]

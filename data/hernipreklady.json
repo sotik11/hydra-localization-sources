@@ -5,6 +5,83 @@
   "siteUrl": "https://hernipreklady.cz",
   "localizations": [
     {
+      "title": "Civilization VII",
+      "studio": "HerníPřeklady",
+      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/civilization-vii",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": "1.07",
+      "updatedAt": null,
+      "requiredGameVersion": "1.4.1 (PC - Win)",
+      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/civilization-vii",
+      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
+      "authorsHtml": "<p><strong>Překlad:</strong> Jetro, Ralph Shepard, Coffin Corner, Sushi<br><strong>Korektura:</strong> Jetro<br><strong>Testování:</strong> Ralph Shepard, Andrewek, Jetro</p>",
+      "inDevelopment": false,
+      "size": "3.30 MB",
+      "mirrors": [
+        {
+          "label": "HerníPřeklady",
+          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=585",
+          "kind": "direct"
+        }
+      ]
+    },
+    {
+      "title": "Terra Invicta",
+      "studio": "HerníPřeklady",
+      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/terra-invicta",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": null,
+      "updatedAt": null,
+      "requiredGameVersion": "1.0.38",
+      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/terra-invicta",
+      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
+      "authorsHtml": "<p><strong>Překlad:</strong> Ralph Shepard</p>",
+      "inDevelopment": false,
+      "size": "789 KB",
+      "mirrors": [
+        {
+          "label": "HerníPřeklady",
+          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=584",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "1176470"
+    },
+    {
+      "title": "Directive 8020",
+      "studio": "HerníPřeklady",
+      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/directive-8020",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": null,
+      "updatedAt": null,
+      "requiredGameVersion": "Aktuální na Steamu",
+      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/directive-8020",
+      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
+      "authorsHtml": null,
+      "inDevelopment": true,
+      "size": null,
+      "mirrors": [],
+      "steamAppId": "2255370"
+    },
+    {
       "title": "Wartales + DLC",
       "studio": "HerníPřeklady",
       "studioUrl": "https://hernipreklady.cz/seznam-prekladu/wartales-dlc",
@@ -52,56 +129,6 @@
       "size": null,
       "mirrors": [],
       "steamAppId": "1237970"
-    },
-    {
-      "title": "Terra Invicta",
-      "studio": "HerníPřeklady",
-      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/terra-invicta",
-      "language": "Čeština",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": null,
-      "updatedAt": null,
-      "requiredGameVersion": "1.0.29",
-      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/terra-invicta",
-      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
-      "authorsHtml": "<p><strong>Překlad:</strong> Ralph Shepard</p>",
-      "inDevelopment": false,
-      "size": "767 KB",
-      "mirrors": [
-        {
-          "label": "HerníPřeklady",
-          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=581",
-          "kind": "direct"
-        }
-      ],
-      "steamAppId": "1176470"
-    },
-    {
-      "title": "Directive 8020",
-      "studio": "HerníPřeklady",
-      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/directive-8020",
-      "language": "Čeština",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": null,
-      "updatedAt": null,
-      "requiredGameVersion": "Aktuální na Steamu",
-      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/directive-8020",
-      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
-      "authorsHtml": null,
-      "inDevelopment": true,
-      "size": null,
-      "mirrors": [],
-      "steamAppId": "2255370"
     },
     {
       "title": "No Man's Sky",
@@ -187,34 +214,6 @@
       ]
     },
     {
-      "title": "Cairn",
-      "studio": "HerníPřeklady",
-      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/cairn",
-      "language": "Čeština",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": "1.2",
-      "updatedAt": "13.04.2026",
-      "requiredGameVersion": "1.1.393s_1942",
-      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/cairn",
-      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
-      "authorsHtml": "<p><strong>Překlad a test:</strong> Andrewek</p>",
-      "inDevelopment": false,
-      "size": "2.71 MB",
-      "mirrors": [
-        {
-          "label": "HerníPřeklady",
-          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=551",
-          "kind": "direct"
-        }
-      ],
-      "steamAppId": "1588550"
-    },
-    {
       "title": "The Last Caretaker",
       "studio": "HerníPřeklady",
       "studioUrl": "https://hernipreklady.cz/seznam-prekladu/the-last-caretaker",
@@ -241,6 +240,60 @@
         }
       ],
       "steamAppId": "1783560"
+    },
+    {
+      "title": "Anno 117",
+      "studio": "HerníPřeklady",
+      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/anno-117",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": "1.05",
+      "updatedAt": "14.05.2026",
+      "requiredGameVersion": "1.5.1.1659400+",
+      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/anno-117",
+      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
+      "authorsHtml": "<p><strong>Překlad:</strong> Jetro, Ralph Shepard,<br><strong>Korektura:</strong> Jetro<br><strong>Testování:</strong> Andrewek, Jetro,</p>",
+      "inDevelopment": false,
+      "size": "3.53 MB",
+      "mirrors": [
+        {
+          "label": "HerníPřeklady",
+          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=576",
+          "kind": "direct"
+        }
+      ]
+    },
+    {
+      "title": "Disco Elysium - The Final Cut",
+      "studio": "HerníPřeklady",
+      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/disco-elysium-the-final-cut",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": "1.8",
+      "updatedAt": "25.12.2025",
+      "requiredGameVersion": "Build (Steam) patch 17/12/25 (GOG) (EPIC)",
+      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/disco-elysium-the-final-cut",
+      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
+      "authorsHtml": "<p><strong>Technika a systém překladu:</strong> Flu<br><strong>Textury a grafická úprava:</strong> Luc2as</p>",
+      "inDevelopment": false,
+      "size": "106.2 MB",
+      "mirrors": [
+        {
+          "label": "HerníPřeklady",
+          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=494",
+          "kind": "direct"
+        }
+      ]
     },
     {
       "title": "Evotinction",
@@ -296,6 +349,34 @@
           "kind": "direct"
         }
       ]
+    },
+    {
+      "title": "Cairn",
+      "studio": "HerníPřeklady",
+      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/cairn",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": "1.2",
+      "updatedAt": "13.04.2026",
+      "requiredGameVersion": "1.1.393s_1942",
+      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/cairn",
+      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
+      "authorsHtml": "<p><strong>Překlad a test:</strong> Andrewek</p>",
+      "inDevelopment": false,
+      "size": "2.71 MB",
+      "mirrors": [
+        {
+          "label": "HerníPřeklady",
+          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=551",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "1588550"
     },
     {
       "title": "Silver Chains",
@@ -542,33 +623,6 @@
         }
       ],
       "steamAppId": "3612850"
-    },
-    {
-      "title": "Anno 117",
-      "studio": "HerníPřeklady",
-      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/anno-117",
-      "language": "Čeština",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": "1.05",
-      "updatedAt": "14.05.2026",
-      "requiredGameVersion": "1.5.1.1659400+",
-      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/anno-117",
-      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
-      "authorsHtml": "<p><strong>Překlad:</strong> Jetro, Ralph Shepard,<br><strong>Korektura:</strong> Jetro<br><strong>Testování:</strong> Andrewek, Jetro,</p>",
-      "inDevelopment": false,
-      "size": "3.53 MB",
-      "mirrors": [
-        {
-          "label": "HerníPřeklady",
-          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=576",
-          "kind": "direct"
-        }
-      ]
     },
     {
       "title": "Two Point Campus",
@@ -837,33 +891,6 @@
         }
       ],
       "steamAppId": "361420"
-    },
-    {
-      "title": "Civilization VII",
-      "studio": "HerníPřeklady",
-      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/civilization-vii",
-      "language": "Čeština",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": "1.06",
-      "updatedAt": "02.03.2026",
-      "requiredGameVersion": "1.3.2 Patch 2, 1.3.2 Patch 1 i 1.3.2 (PC - Win)",
-      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/civilization-vii",
-      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
-      "authorsHtml": "<p><strong>Překlad:</strong> Jetro, Ralph Shepard, Coffin Corner, Sushi<br><strong>Korektura:</strong> Jetro<br><strong>Testování:</strong> Ralph Shepard, Andrewek, Jetro</p>",
-      "inDevelopment": false,
-      "size": "3.21 MB",
-      "mirrors": [
-        {
-          "label": "HerníPřeklady",
-          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=536",
-          "kind": "direct"
-        }
-      ]
     },
     {
       "title": "SCP: Fragmented Minds",
@@ -2504,33 +2531,6 @@
         }
       ],
       "steamAppId": "916440"
-    },
-    {
-      "title": "Disco Elysium - The Final Cut",
-      "studio": "HerníPřeklady",
-      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/disco-elysium-the-final-cut",
-      "language": "Čeština",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": "1.8",
-      "updatedAt": "25.12.2025",
-      "requiredGameVersion": "Build (Steam) patch 17/12/25 (GOG) (EPIC)",
-      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/disco-elysium-the-final-cut",
-      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
-      "authorsHtml": "<p><strong>Technika a systém překladu:</strong> Flu<br><strong>Textury a grafická úprava:</strong> Luc2as</p>",
-      "inDevelopment": false,
-      "size": "106.2 MB",
-      "mirrors": [
-        {
-          "label": "HerníPřeklady",
-          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=494",
-          "kind": "direct"
-        }
-      ]
     },
     {
       "title": "Into the Radius VR",
@@ -4209,8 +4209,7 @@
           "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=62",
           "kind": "direct"
         }
-      ],
-      "steamAppId": "906100"
+      ]
     },
     {
       "title": "Invisible hours",
@@ -4375,7 +4374,8 @@
           "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=162",
           "kind": "direct"
         }
-      ]
+      ],
+      "steamAppId": "985830"
     },
     {
       "title": "Twin Mirror",

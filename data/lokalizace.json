@@ -5,6 +5,67 @@
   "siteUrl": "https://lokalizace.net",
   "localizations": [
     {
+      "title": "Armikrog",
+      "studio": "Lokalizace.net",
+      "studioUrl": "https://lokalizace.net/localizations/armikrog",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": "1.1",
+      "updatedAt": "28.06.2026",
+      "pageUrl": "https://lokalizace.net/localizations/armikrog",
+      "howToInstallHtml": "<p>Stáhněte ZIP soubor a rozbalte ho do složky hry, nebo použijte aplikaci CZManager pro automatickou instalaci češtiny.</p>",
+      "changelogHtml": "<div><p><strong>Nová verze 1.1</strong></p><p>Přidán dlouhý text ze zdi planetária o rodičích dítěte Pi, český překlad tohoto dlouhého textu je AI, vložen je i anglický originál.</p><p>Nahrána nová verze překladu: 1.0</p></div>",
+      "authorsHtml": "<p>Cyber</p>",
+      "size": "1.40 MB",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Lokalizace.net",
+          "url": "https://lokalizace.net/api/download/1623",
+          "kind": "direct"
+        },
+        {
+          "label": "Версия 1.0",
+          "url": "https://lokalizace.net/api/download/1622",
+          "kind": "other"
+        }
+      ],
+      "steamAppId": "334120"
+    },
+    {
+      "title": "Commandos: Origins",
+      "studio": "Lokalizace.net",
+      "studioUrl": "https://lokalizace.net/localizations/commandos-origins",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": "1.0",
+      "updatedAt": "24.06.2026",
+      "pageUrl": "https://lokalizace.net/localizations/commandos-origins",
+      "howToInstallHtml": "<p>Stáhněte ZIP soubor a rozbalte ho do složky hry, nebo použijte aplikaci CZManager pro automatickou instalaci češtiny.</p>",
+      "changelogHtml": "<div><p>Nahrána nová verze překladu: 1.0</p></div>",
+      "authorsHtml": "<p>Sygfrost</p>",
+      "size": "1.10 MB",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Lokalizace.net",
+          "url": "https://lokalizace.net/api/download/1607",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "1479730"
+    },
+    {
       "title": "Evospace",
       "studio": "Lokalizace.net",
       "studioUrl": "https://lokalizace.net/localizations/evospace",
@@ -620,23 +681,23 @@
       "hasNeuralVoice": false,
       "hasNeuralDub": false,
       "hasNeuralText": false,
-      "version": "1.0.2",
-      "updatedAt": "19.06.2026",
+      "version": "1.0.3",
+      "updatedAt": "25.06.2026",
       "pageUrl": "https://lokalizace.net/localizations/peak",
       "howToInstallHtml": "<p>Stáhněte ZIP soubor a rozbalte ho do složky hry, nebo použijte aplikaci CZManager pro automatickou instalaci češtiny.</p>",
-      "changelogHtml": "<div><p><strong>Nová verze 1.0.2</strong></p><p>Aktualizovaná čeština na v1.63.a</p><p><strong>Nová verze 1.0.1</strong></p><p>Aktualizace na verzi v1.62.a</p></div>",
+      "changelogHtml": "<div><p><strong>Nová verze 1.0.3</strong></p><p>Aktualizovaná čeština na v1.64.a</p><p><strong>Nová verze 1.0.2</strong></p><p>Aktualizovaná čeština na v1.63.a</p></div>",
       "authorsHtml": "<p>HALU Studio</p>",
       "size": "15.6 MB",
       "inDevelopment": false,
       "mirrors": [
         {
           "label": "Lokalizace.net",
-          "url": "https://lokalizace.net/api/download/1594",
+          "url": "https://lokalizace.net/api/download/1609",
           "kind": "direct"
         },
         {
-          "label": "Версия 1.0.1",
-          "url": "https://lokalizace.net/api/download/1526",
+          "label": "Версия 1.0.2",
+          "url": "https://lokalizace.net/api/download/1594",
           "kind": "other"
         }
       ],
@@ -1020,17 +1081,17 @@
       "hasNeuralDub": false,
       "hasNeuralText": false,
       "version": "1.1",
-      "updatedAt": "12.04.2026",
+      "updatedAt": "26.06.2026",
       "pageUrl": "https://lokalizace.net/localizations/stronghold-definitive-edition",
       "howToInstallHtml": "<p>Stáhněte ZIP soubor a rozbalte ho do složky hry, nebo použijte aplikaci CZManager pro automatickou instalaci češtiny.</p>",
-      "changelogHtml": "<div><p>Nahrána nová verze překladu: 1.1</p></div>",
+      "changelogHtml": "<div><p><strong>Nová verze 1.1</strong></p><p>Doplněné chybějící hlášky lukostřelců.</p></div>",
       "authorsHtml": "<p>Fenrir Dabing</p>",
       "size": "1.42 GB",
       "inDevelopment": false,
       "mirrors": [
         {
           "label": "Lokalizace.net",
-          "url": "https://lokalizace.net/api/download/1461",
+          "url": "https://lokalizace.net/api/download/1614",
           "kind": "direct"
         }
       ],
@@ -1991,7 +2052,8 @@
           "url": "https://lokalizace.net/api/download/1313",
           "kind": "direct"
         }
-      ]
+      ],
+      "steamAppId": "239160"
     },
     {
       "title": "Sinking Island",
@@ -2930,19 +2992,24 @@
       "hasNeuralVoice": false,
       "hasNeuralDub": false,
       "hasNeuralText": false,
-      "version": "1.1.2.0-1163",
-      "updatedAt": "22.05.2026",
+      "version": "1.1.3.0-1206-Steam",
+      "updatedAt": "27.06.2026",
       "pageUrl": "https://lokalizace.net/localizations/replaced-demo",
       "howToInstallHtml": "<p>Stáhněte ZIP soubor a rozbalte ho do složky hry, nebo použijte aplikaci CZManager pro automatickou instalaci češtiny.</p>",
-      "changelogHtml": "<div><p><strong>Nová verze 1.1.2.0-1163</strong></p><p>Aktualizace pro verzi 1.1.2.0 (a.k.a. 1163 na Steame)</p><p><strong>Nová verze 1.0.1097-GOG</strong></p><p>Nahrána verze překladu pro GOG release v1.0.1097</p><p><strong>Nová verze 1.1.001</strong></p><p>Překlad upraven na nejnovější verzi hry 1.1.001.</p><p>To by nebyl Murphyho zákon, kdyby hned po vydání překladu nevydali autoři významný update hry na verzi 1.1.000. A aby to nebylo málo, hned po opravení překladu připraveného na zveřejnění vydali i další hotfix na verzi 1.1.001.</p></div>",
+      "changelogHtml": "<div><p><strong>Nová verze 1.1.3.0-1206-Steam</strong></p><p>+Instalace skrz CZ Manažera</p><p><strong>Nová verze 1.1.2.0-1163</strong></p><p>Aktualizace pro verzi 1.1.2.0 (a.k.a. 1163 na Steame)</p><p><strong>Nová verze 1.0.1097-GOG</strong></p><p>Nahrána verze překladu pro GOG release v1.0.1097</p><p><strong>Nová verze 1.1.001</strong></p><p>Překlad upraven na nejnovější verzi hry 1.1.001.</p><p>To by nebyl Murphyho zákon, kdyby hned po vydání překladu nevydali autoři významný update hry na verzi 1.1.000. A aby to nebylo málo, hned po opravení překladu připraveného na zveřejnění vydali i další hotfix na verzi 1.1.001.</p></div>",
       "authorsHtml": "<p>miracle.flame</p>",
-      "size": "143.7 MB",
+      "size": "147.9 MB",
       "inDevelopment": false,
       "mirrors": [
         {
           "label": "Lokalizace.net",
-          "url": "https://lokalizace.net/api/download/1541",
+          "url": "https://lokalizace.net/api/download/1617",
           "kind": "direct"
+        },
+        {
+          "label": "Версия 1.1.2.0-1163",
+          "url": "https://lokalizace.net/api/download/1541",
+          "kind": "other"
         },
         {
           "label": "Версия 1.0.1097-GOG",
@@ -2956,6 +3023,33 @@
         }
       ],
       "steamAppId": "1663850"
+    },
+    {
+      "title": "METAL GEAR & METAL GEAR 2: SOLID SNAKE - Master Collection - Steam",
+      "studio": "Lokalizace.net",
+      "studioUrl": "https://lokalizace.net/localizations/metal-gear-metal-gear-2-solid-snake-steam-only",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": "1.0.7",
+      "updatedAt": "28.06.2026",
+      "pageUrl": "https://lokalizace.net/localizations/metal-gear-metal-gear-2-solid-snake-steam-only",
+      "howToInstallHtml": "<p>Stáhněte ZIP soubor a rozbalte ho do složky hry, nebo použijte aplikaci CZManager pro automatickou instalaci češtiny.</p>",
+      "changelogHtml": "<div><p><strong>Nová verze 1.0.7</strong></p><p>HOTOVO! PREKLAD KOMPLETNÝ :) Kto by ešte našiel nejakú chybu môže kludne nahlásiť</p></div>",
+      "authorsHtml": "<p>PERTIM CZ</p>",
+      "size": "581 KB",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Lokalizace.net",
+          "url": "https://lokalizace.net/api/download/1621",
+          "kind": "direct"
+        }
+      ]
     },
     {
       "title": "Prince of Persia®: The Sands of Time",
@@ -4330,19 +4424,24 @@
       "hasNeuralVoice": false,
       "hasNeuralDub": false,
       "hasNeuralText": false,
-      "version": "1.19.1-BETA",
-      "updatedAt": "19.06.2026",
+      "version": "1.19.1",
+      "updatedAt": "24.06.2026",
       "pageUrl": "https://lokalizace.net/localizations/hearts-of-iron-4",
       "howToInstallHtml": "<p>Stáhněte ZIP soubor a rozbalte ho do složky hry, nebo použijte aplikaci CZManager pro automatickou instalaci češtiny.</p>",
-      "changelogHtml": "<div><p><strong>Nová verze 1.19.1-BETA</strong></p><p>Nejsou přeloženy 3 soubory. Kompletní překlad bude brzy.</p><p>Nahrána nová verze překladu: 1.18.3</p><p>Nahrána nová verze překladu: 1.18.2</p><p>Nahrána nová verze překladu: 1.18.1</p><p><strong>Nová verze 1.18.0</strong></p><p>plná verze překladu </p><p><strong>Nová verze 1.18.0-beta</strong></p><p>Jedna se o beta verzi. Stavající soubory doplněny na aktualní verzi. Z novych chybí přeložit tři soubory. Ty jsou v beta verzi v originale.</p><p><strong>Nová verze 1.17.5</strong></p><p>čeština pro verzi 1.17.5</p><p>Nahrána nová verze překladu: 1.17.4</p><p><strong>Nová verze 1.17.3</strong></p><p>Oprava chyb v překladu</p></div>",
+      "changelogHtml": "<div><p><strong>Nová verze 1.19.1</strong></p><p>Kompletní čeština pro verzi 1.19.1</p><p><strong>Nová verze 1.19.1-BETA</strong></p><p>Nejsou přeloženy 3 soubory. Kompletní překlad bude brzy.</p><p>Nahrána nová verze překladu: 1.18.3</p><p>Nahrána nová verze překladu: 1.18.2</p><p>Nahrána nová verze překladu: 1.18.1</p><p><strong>Nová verze 1.18.0</strong></p><p>plná verze překladu </p><p><strong>Nová verze 1.18.0-beta</strong></p><p>Jedna se o beta verzi. Stavající soubory doplněny na aktualní verzi. Z novych chybí přeložit tři soubory. Ty jsou v beta verzi v originale.</p><p><strong>Nová verze 1.17.5</strong></p><p>čeština pro verzi 1.17.5</p><p>Nahrána nová verze překladu: 1.17.4</p><p><strong>Nová verze 1.17.3</strong></p><p>Oprava chyb v překladu</p></div>",
       "authorsHtml": "<p>Paradox češtiny</p>",
       "size": "4.60 MB",
       "inDevelopment": false,
       "mirrors": [
         {
           "label": "Lokalizace.net",
-          "url": "https://lokalizace.net/api/download/1591",
+          "url": "https://lokalizace.net/api/download/1603",
           "kind": "direct"
+        },
+        {
+          "label": "Версия 1.19.1-BETA",
+          "url": "https://lokalizace.net/api/download/1591",
+          "kind": "other"
         },
         {
           "label": "Версия 1.18.3",
@@ -5065,19 +5164,24 @@
       "hasNeuralVoice": false,
       "hasNeuralDub": false,
       "hasNeuralText": false,
-      "version": "1.3",
-      "updatedAt": "21.06.2026",
+      "version": "1.3-CZ-hotfix-1",
+      "updatedAt": "27.06.2026",
       "pageUrl": "https://lokalizace.net/localizations/system-shock-2-25th-anniversary-remaster",
       "howToInstallHtml": "<p>Stáhněte ZIP soubor a rozbalte ho do složky hry, nebo použijte aplikaci CZManager pro automatickou instalaci češtiny.</p>",
-      "changelogHtml": "<div><p><strong>Nová verze 1.3</strong></p><p>Aktualizace na verzi hry 1.3:</p><ul><li><p>Nové texty v Trezoru</p></li><li><p>Nové položky v mapování kláves</p></li><li><p>Portugalština ve výběru jazyků</p></li><li><p>Drobné opravy</p></li></ul><p></p></div>",
+      "changelogHtml": "<div><p><strong>Nová verze 1.3-CZ-hotfix-1</strong></p><p>Opravena nahlášená grafická chyba ve MFG. Díky za report.</p><p><strong>Nová verze 1.3</strong></p><p>Aktualizace na verzi hry 1.3:</p><ul><li><p>Nové texty v Trezoru</p></li><li><p>Nové položky v mapování kláves</p></li><li><p>Portugalština ve výběru jazyků</p></li><li><p>Drobné opravy</p></li></ul><p></p></div>",
       "authorsHtml": "<p>miracle.flame</p>",
       "size": "7.00 MB",
       "inDevelopment": false,
       "mirrors": [
         {
           "label": "Lokalizace.net",
-          "url": "https://lokalizace.net/api/download/1596",
+          "url": "https://lokalizace.net/api/download/1618",
           "kind": "direct"
+        },
+        {
+          "label": "Версия 1.3",
+          "url": "https://lokalizace.net/api/download/1596",
+          "kind": "other"
         },
         {
           "label": "Версия 1.00",
@@ -5347,34 +5451,6 @@
         }
       ],
       "steamAppId": "1143810"
-    },
-    {
-      "title": "The Precinct",
-      "studio": "Lokalizace.net",
-      "studioUrl": "https://lokalizace.net/localizations/the-precinct",
-      "language": "Čeština",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": "1.11.22854",
-      "updatedAt": "03.04.2026",
-      "pageUrl": "https://lokalizace.net/localizations/the-precinct",
-      "howToInstallHtml": "<p>Stáhněte ZIP soubor a rozbalte ho do složky hry, nebo použijte aplikaci CZManager pro automatickou instalaci češtiny.</p>",
-      "changelogHtml": "<div><p><strong>Nová verze 1.11.22854</strong></p><p>Vydán překlad pro verzi hry 1.11.22854</p></div>",
-      "authorsHtml": "<p>Sumilek86</p>",
-      "size": "10.4 MB",
-      "inDevelopment": false,
-      "mirrors": [
-        {
-          "label": "Lokalizace.net",
-          "url": "https://lokalizace.net/api/download/1415",
-          "kind": "direct"
-        }
-      ],
-      "steamAppId": "490110"
     },
     {
       "title": "Chessmaster 11: Grandmaster Edition",
@@ -13440,116 +13516,6 @@
       "steamAppId": "301200"
     },
     {
-      "title": "South Park: The Fractured But Whole",
-      "studio": "Lokalizace.net",
-      "studioUrl": "https://lokalizace.net/localizations/south-park-the-fractured-but-whole",
-      "language": "Čeština",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": "0.9b",
-      "updatedAt": "12.08.2024",
-      "pageUrl": "https://lokalizace.net/localizations/south-park-the-fractured-but-whole",
-      "howToInstallHtml": "<p>Stáhněte ZIP soubor a rozbalte ho do složky hry, nebo použijte aplikaci CZManager pro automatickou instalaci češtiny.</p>",
-      "changelogHtml": null,
-      "authorsHtml": "<p>martanius</p>",
-      "size": "24.4 MB",
-      "inDevelopment": false,
-      "mirrors": [
-        {
-          "label": "Lokalizace.net",
-          "url": "https://lokalizace.net/api/download/305",
-          "kind": "direct"
-        }
-      ],
-      "steamAppId": "488790"
-    },
-    {
-      "title": "The Curse of Monkey Island",
-      "studio": "Lokalizace.net",
-      "studioUrl": "https://lokalizace.net/localizations/the-curse-of-monkey-island",
-      "language": "Čeština",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": "1.1",
-      "updatedAt": "04.08.2024",
-      "pageUrl": "https://lokalizace.net/localizations/the-curse-of-monkey-island",
-      "howToInstallHtml": "<p>Stáhněte ZIP soubor a rozbalte ho do složky hry, nebo použijte aplikaci CZManager pro automatickou instalaci češtiny.</p>",
-      "changelogHtml": null,
-      "authorsHtml": "<p>Lost And Found</p>",
-      "size": "229 KB",
-      "inDevelopment": false,
-      "mirrors": [
-        {
-          "label": "Lokalizace.net",
-          "url": "https://lokalizace.net/api/download/300",
-          "kind": "direct"
-        }
-      ],
-      "steamAppId": "730820"
-    },
-    {
-      "title": "System Shock 2",
-      "studio": "Lokalizace.net",
-      "studioUrl": "https://lokalizace.net/localizations/system-shock-2",
-      "language": "Čeština",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": "0.98beta",
-      "updatedAt": "07.08.2024",
-      "pageUrl": "https://lokalizace.net/localizations/system-shock-2",
-      "howToInstallHtml": "<p>Stáhněte ZIP soubor a rozbalte ho do složky hry, nebo použijte aplikaci CZManager pro automatickou instalaci češtiny.</p>",
-      "changelogHtml": null,
-      "authorsHtml": "<p>miracle.flame</p>",
-      "size": "124.1 MB",
-      "inDevelopment": false,
-      "mirrors": [
-        {
-          "label": "Lokalizace.net",
-          "url": "https://lokalizace.net/api/download/303",
-          "kind": "direct"
-        }
-      ]
-    },
-    {
-      "title": "Vampire the Maquerade: Bloodlines",
-      "studio": "Lokalizace.net",
-      "studioUrl": "https://lokalizace.net/localizations/vampire-the-maquerade-bloodlines",
-      "language": "Čeština",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": "UP10.0 Final",
-      "updatedAt": "17.01.2025",
-      "pageUrl": "https://lokalizace.net/localizations/vampire-the-maquerade-bloodlines",
-      "howToInstallHtml": "<p>Stáhněte ZIP soubor a rozbalte ho do složky hry, nebo použijte aplikaci CZManager pro automatickou instalaci češtiny.</p>",
-      "changelogHtml": null,
-      "authorsHtml": "<p>miracle.flame</p>",
-      "size": "675.0 MB",
-      "inDevelopment": false,
-      "mirrors": [
-        {
-          "label": "Lokalizace.net",
-          "url": "https://lokalizace.net/api/download/632",
-          "kind": "direct"
-        }
-      ]
-    },
-    {
       "title": "Nuclear Blaze",
       "studio": "Lokalizace.net",
       "studioUrl": "https://lokalizace.net/localizations/nuclear-blaze",
@@ -15177,6 +15143,135 @@
       "steamAppId": "557340"
     },
     {
+      "title": "Pillars of Eternity CE",
+      "studio": "Lokalizace.net",
+      "studioUrl": "https://lokalizace.net/localizations/pillars-of-eternity-ce",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": "3.3.1",
+      "updatedAt": "08.04.2026",
+      "pageUrl": "https://lokalizace.net/localizations/pillars-of-eternity-ce",
+      "howToInstallHtml": "<p>Stáhněte ZIP soubor a rozbalte ho do složky hry, nebo použijte aplikaci CZManager pro automatickou instalaci češtiny.</p>",
+      "changelogHtml": "<div><p><strong>Nová verze 3.3.1</strong></p><ul><li><p>oprava lokalizace</p></li><li><p>dopřeložení textů</p></li></ul><p style=\"text-align: center\"><span style=\"color: rgb(239, 68, 68)\">Prosím zkontrolujte, že vše funguje a dejte popřípadě vědět. Díky</span></p><p></p></div>",
+      "authorsHtml": "<p>Lokalizace.Net</p>",
+      "size": "3.60 MB",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Lokalizace.net",
+          "url": "https://lokalizace.net/api/download/1447",
+          "kind": "direct"
+        },
+        {
+          "label": "Версия 3.0.2",
+          "url": "https://lokalizace.net/api/download/469",
+          "kind": "other"
+        },
+        {
+          "label": "Версия 2.9.1",
+          "url": "https://lokalizace.net/api/download/192",
+          "kind": "other"
+        }
+      ]
+    },
+    {
+      "title": "Freelancer",
+      "studio": "Lokalizace.net",
+      "studioUrl": "https://lokalizace.net/localizations/freelancer",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": "Freelancer HD Edition",
+      "updatedAt": "28.07.2024",
+      "pageUrl": "https://lokalizace.net/localizations/freelancer",
+      "howToInstallHtml": "<p>Stáhněte ZIP soubor a rozbalte ho do složky hry, nebo použijte aplikaci CZManager pro automatickou instalaci češtiny.</p>",
+      "changelogHtml": null,
+      "authorsHtml": "<p>Starsoul</p>",
+      "size": "1.10 MB",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Lokalizace.net",
+          "url": "https://lokalizace.net/api/download/289",
+          "kind": "direct"
+        },
+        {
+          "label": "Версия Freelancer Unofficial 1.4",
+          "url": "https://lokalizace.net/api/download/288",
+          "kind": "other"
+        },
+        {
+          "label": "Версия Freelancer 1.0",
+          "url": "https://lokalizace.net/api/download/287",
+          "kind": "other"
+        }
+      ]
+    },
+    {
+      "title": "Half-Life - 25th Anniversary",
+      "studio": "Lokalizace.net",
+      "studioUrl": "https://lokalizace.net/localizations/half-life-25th-anniversary",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": "1.0.0",
+      "updatedAt": "07.06.2024",
+      "pageUrl": "https://lokalizace.net/localizations/half-life-25th-anniversary",
+      "howToInstallHtml": "<p>Stáhněte ZIP soubor a rozbalte ho do složky hry, nebo použijte aplikaci CZManager pro automatickou instalaci češtiny.</p>",
+      "changelogHtml": null,
+      "authorsHtml": "<p>Starsoul</p>",
+      "size": "958 KB",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Lokalizace.net",
+          "url": "https://lokalizace.net/api/download/191",
+          "kind": "direct"
+        }
+      ]
+    },
+    {
+      "title": "Q.U.B.E. 2",
+      "studio": "Lokalizace.net",
+      "studioUrl": "https://lokalizace.net/localizations/qube-2",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": "1.0",
+      "updatedAt": "03.06.2024",
+      "pageUrl": "https://lokalizace.net/localizations/qube-2",
+      "howToInstallHtml": "<p>Stáhněte ZIP soubor a rozbalte ho do složky hry, nebo použijte aplikaci CZManager pro automatickou instalaci češtiny.</p>",
+      "changelogHtml": null,
+      "authorsHtml": "<p>siSINka</p>",
+      "size": "45 KB",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Lokalizace.net",
+          "url": "https://lokalizace.net/api/download/188",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "359100"
+    },
+    {
       "title": "Voices of the Void (Fix only)",
       "studio": "Lokalizace.net",
       "studioUrl": "https://lokalizace.net/localizations/voices-of-the-void",
@@ -15651,7 +15746,7 @@
           "kind": "direct"
         }
       ],
-      "steamAppId": "212410"
+      "steamAppId": "1505430"
     },
     {
       "title": "Stellaris",
@@ -19355,6 +19450,28 @@
       "inDevelopment": true,
       "mirrors": [],
       "steamAppId": "1182310"
+    },
+    {
+      "title": "The Precinct",
+      "studio": "Lokalizace.net",
+      "studioUrl": "https://lokalizace.net/localizations/the-precinct",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": null,
+      "updatedAt": null,
+      "pageUrl": "https://lokalizace.net/localizations/the-precinct",
+      "howToInstallHtml": "<p>Stáhněte ZIP soubor a rozbalte ho do složky hry, nebo použijte aplikaci CZManager pro automatickou instalaci češtiny.</p>",
+      "changelogHtml": null,
+      "authorsHtml": "<p>Sumilek86</p>",
+      "size": null,
+      "inDevelopment": true,
+      "mirrors": [],
+      "steamAppId": "490110"
     },
     {
       "title": "Pathfinder - Wrath of the Righteous",
