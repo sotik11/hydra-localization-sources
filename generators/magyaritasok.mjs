@@ -21,7 +21,7 @@ import { writeFile, mkdir } from "node:fs/promises";
 import { fileURLToPath } from "node:url";
 import { dirname, join } from "node:path";
 import * as cheerio from "cheerio";
-import { UA, sleep, fetchTimeout, mapPool, getText } from "../lib/net.mjs";
+import { UA, sleep, fetchTimeout, mapPool, getText, normalizeSize } from "../lib/net.mjs";
 
 const ROOT = join(dirname(fileURLToPath(import.meta.url)), "..");
 
@@ -124,6 +124,49 @@ function versionFromFile(url) {
   return vtag ? "v" + vtag[1] : null;
 }
 
+const HU_MONTHS = {
+  január: "01", február: "02", március: "03", április: "04",
+  május: "05", június: "06", július: "07", augusztus: "08",
+  szeptember: "09", október: "10", november: "11", december: "12",
+};
+
+/** "2024. december 24. - 10:57" -> "24.12.2024" */
+function parseHuDate(text) {
+  const m = (text || "").match(/(\d{4})\.\s*([a-záéíóöőúüű]+)\s*(\d{1,2})\./i);
+  if (!m) return null;
+  const month = HU_MONTHS[m[2].toLowerCase()];
+  return month ? `${m[3].padStart(2, "0")}.${month}.${m[1]}` : null;
+}
+
+/**
+ * The download page (/download/<id>/<slug>) carries the rich metadata the game
+ * page lacks: file size, the localization version, the compatible game version,
+ * the update date, and any "további fordítók" (extra translators).
+ */
+async function fetchDownloadMeta(id, slug) {
+  const field = (html, label) => {
+    const re = new RegExp(
+      `${label}:</div>\\s*<div class="text-white">\\s*([^<]+?)\\s*</div>`,
+      "i"
+    );
+    const m = html.match(re);
+    const v = m ? m[1].replace(/\s+/g, " ").trim() : null;
+    return v && !/^[-–—.]+$/.test(v) ? v : null; // "---" placeholder -> null
+  };
+  try {
+    const html = await getText(`${SITE}/download/${id}/${slug}`);
+    return {
+      size: normalizeSize(field(html, "Fájlméret")),
+      version: field(html, "Verzió"),
+      requiredGameVersion: field(html, "Kompatibilis játékverzió"),
+      updatedAt: parseHuDate(field(html, "Frissítve")),
+      extraTranslators: field(html, "További fordítók"),
+    };
+  } catch {
+    return {};
+  }
+}
+
 async function buildEntry(game) {
   const pageUrl = `${SITE}/games/${game.slug}`;
   const html = await getText(pageUrl);
@@ -180,6 +223,19 @@ async function buildEntry(game) {
   const fileUrl = await resolveFileUrl(pick.id);
   if (!fileUrl) return null; // no reachable direct file -> skip
 
+  // The download page carries size / version / game version / date / extra
+  // translators that the game page doesn't expose.
+  const meta = await fetchDownloadMeta(pick.id, game.slug);
+  const allAuthors = [
+    ...new Set(
+      [translators, meta.extraTranslators]
+        .filter(Boolean)
+        .flatMap((s) => s.split(/,\s*/))
+        .map((s) => s.trim())
+        .filter(Boolean)
+    ),
+  ].join(", ");
+
   return {
     steamAppId: appId ?? undefined,
     title: game.name,
@@ -190,11 +246,14 @@ async function buildEntry(game) {
     language: LANGUAGE,
     hasText: true,
     hasVoice: false,
-    version: versionFromFile(fileUrl),
-    updatedAt: null,
+    // Strip a leading "v" — the UI prepends its own ("v0.85" must not become "vv0.85").
+    version: (meta.version || versionFromFile(fileUrl) || "").replace(/^v\.?\s*/i, "") || null,
+    updatedAt: meta.updatedAt ?? null,
+    requiredGameVersion: meta.requiredGameVersion ?? null,
+    size: meta.size ?? null,
     pageUrl,
     howToInstallHtml: HOW_TO_INSTALL,
-    authorsHtml: translators ? `<p>${translators}</p>` : null,
+    authorsHtml: allAuthors ? `<p>${allAuthors}</p>` : null,
     inDevelopment: pick.inDevelopment,
     mirrors: [{ label: STUDIO, url: fileUrl, kind: "direct" }],
   };
