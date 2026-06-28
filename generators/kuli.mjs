@@ -19,13 +19,11 @@ import { writeFile, mkdir } from "node:fs/promises";
 import { fileURLToPath } from "node:url";
 import { dirname, join } from "node:path";
 import * as cheerio from "cheerio";
+import { UA, sleep, fetchTimeout, mapPool, getText, formatBytes } from "../lib/net.mjs";
 
 const ROOT = join(dirname(fileURLToPath(import.meta.url)), "..");
 
 const SITE = "https://kuli.com.ua";
-const UA =
-  "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 " +
-  "(KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36";
 
 const STUDIO = "КУЛІ";
 const LANGUAGE = "Українська";
@@ -44,14 +42,6 @@ const HOW_TO_INSTALL =
   `<li>Запусти гру — локалізація має застосуватися. Інколи мову треба ` +
   `вибрати в налаштуваннях гри.</li>` +
   `</ol>`;
-
-const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
-
-async function getText(url) {
-  const res = await fetch(url, { headers: { "User-Agent": UA } });
-  if (!res.ok) throw new Error(`GET ${url} -> ${res.status}`);
-  return res.text();
-}
 
 /* ----------------------------- catalogue index ---------------------------- */
 
@@ -115,7 +105,7 @@ const CLOUD_RULES = [
 async function resolveDownload(id) {
   let res;
   try {
-    res = await fetch(`${SITE}/download/translate/${id}`, {
+    res = await fetchTimeout(`${SITE}/download/translate/${id}`, {
       headers: { "User-Agent": UA, Range: "bytes=0-0" },
       redirect: "follow",
     });
@@ -129,13 +119,20 @@ async function resolveDownload(id) {
 
   for (const rule of CLOUD_RULES) {
     if (rule.host.test(url)) {
-      return { label: rule.label, url, kind: rule.kind };
+      return { label: rule.label, url, kind: rule.kind, size: null };
     }
   }
 
-  // kuli-hosted file streamed directly (no redirect) => in-app downloadable.
+  // kuli-hosted file streamed directly (no redirect) => in-app downloadable. The
+  // server ignores our Range probe and returns the whole file, so Content-Length
+  // is the real file size.
   if (/kuli\.com\.ua/i.test(url) && !/text\/html/i.test(type)) {
-    return { label: STUDIO, url: `${SITE}/download/translate/${id}`, kind: "direct" };
+    return {
+      label: STUDIO,
+      url: `${SITE}/download/translate/${id}`,
+      kind: "direct",
+      size: formatBytes(Number(res.headers.get("content-length"))),
+    };
   }
 
   // store page / github / nexus / anything else: not a clean download.
@@ -217,14 +214,15 @@ async function buildEntries(game) {
         .split(/\s+(?:через|додаєт|доступ|можна)/i)[0]
         .replace(/[,\s]+$/, "")
         .trim() ||
-      $c.find(".header__autor-name").first().text().replace(/\s+/g, " ").trim() ||
-      STUDIO;
+      $c.find(".header__autor-name").first().text().replace(/\s+/g, " ").trim();
     const readiness = params["Готовність"] || "";
 
     entries.push({
       steamAppId: appId ?? undefined,
       title,
-      studio: author,
+      // Aggregator: the card shows the portal (КУЛІ); the actual translator goes
+      // into the Authors modal.
+      studio: STUDIO,
       studioUrl: pageUrl,
       language: LANGUAGE,
       ...typeFlags(typeSuffixes, machine),
@@ -232,6 +230,8 @@ async function buildEntries(game) {
       updatedAt: params["Останнє оновлення"] || null,
       pageUrl,
       howToInstallHtml: HOW_TO_INSTALL,
+      authorsHtml: author ? `<p>${author}</p>` : null,
+      size: mirror.size ?? null,
       inDevelopment: /\d/.test(readiness) && !/100/.test(readiness),
       mirrors: [mirror],
     });
@@ -247,22 +247,24 @@ async function main() {
   const games = await fetchCatalogue();
   console.log(`[KÜLI] ${games.length} candidate games`);
 
-  const localizations = [];
-  let i = 0;
+  // buildEntries does a page fetch + a download-resolve per card; a fixed pool
+  // turns the ~900-game sequential crawl into a few minutes.
+  let scanned = 0;
   let kept = 0;
-  for (const game of games) {
-    i += 1;
+  const built = await mapPool(games, 4, async (game) => {
+    let entries = [];
     try {
-      const entries = await buildEntries(game);
-      localizations.push(...entries);
-      kept += entries.length;
+      entries = await buildEntries(game);
     } catch (err) {
       console.warn(`\n  ! ${game.slug}: ${err.message}`);
     }
-    if (i % 20 === 0 || i === games.length)
-      process.stdout.write(`\r[KÜLI] scanned ${i}/${games.length}, kept ${kept}        `);
-    await sleep(70);
-  }
+    scanned += 1;
+    kept += entries.length;
+    if (scanned % 20 === 0 || scanned === games.length)
+      process.stdout.write(`\r[KÜLI] scanned ${scanned}/${games.length}, kept ${kept}        `);
+    return entries;
+  });
+  const localizations = built.flat();
   console.log("");
 
   const file = { name: STUDIO, language: LANGUAGE, category: "aggregator", siteUrl: SITE, localizations };

@@ -29,6 +29,7 @@ import {
   mapPool,
   getTextCurl as getText,
   decodeReversedB64,
+  normalizeSize,
 } from "../lib/net.mjs";
 
 const ROOT = join(dirname(fileURLToPath(import.meta.url)), "..");
@@ -141,7 +142,7 @@ function buildEntry(pageUrl, html, download) {
   if (!title) return null;
 
   const version = fields.get("Versão") || download?.version || null;
-  const size = fields.get("Tamanho") || download?.size || null;
+  const size = normalizeSize(fields.get("Tamanho") || download?.size || null);
   const updatedAt = fields.get("Lançamento") || download?.date || null;
 
   // Mostly subtitle/text translations; flag voice only when the page title (the

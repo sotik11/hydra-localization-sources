@@ -16,7 +16,7 @@ import { readFile, writeFile, mkdir } from "node:fs/promises";
 import { fileURLToPath } from "node:url";
 import { dirname, join } from "node:path";
 import * as cheerio from "cheerio";
-import { UA, sleep, fetchTimeout, mapPool, getText } from "../lib/net.mjs";
+import { UA, sleep, fetchTimeout, mapPool, getText, normalizeSize } from "../lib/net.mjs";
 
 const ROOT = join(dirname(fileURLToPath(import.meta.url)), "..");
 
@@ -235,7 +235,7 @@ function buildEntry(url, html) {
     // Detect type/neural from the RAW h1 (the descriptor cleanTitle stripped).
     ...typeFlags(slug, `${h1} ${variantLabels}`),
     version,
-    size: largestSize(html),
+    size: normalizeSize(largestSize(html)),
     updatedAt: null,
     pageUrl: url,
     howToInstallHtml: HOW_TO_INSTALL,

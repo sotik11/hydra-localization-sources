@@ -15,7 +15,7 @@
 import { writeFile, mkdir } from "node:fs/promises";
 import { fileURLToPath } from "node:url";
 import { dirname, join } from "node:path";
-import { UA, fetchTimeout, mapPool, getText } from "../lib/net.mjs";
+import { UA, fetchTimeout, mapPool, getText, normalizeSize } from "../lib/net.mjs";
 
 const ROOT = join(dirname(fileURLToPath(import.meta.url)), "..");
 
@@ -140,7 +140,7 @@ function buildEntry(url, html) {
     /class="dp-attachment__title">([^<]+)<\/span>\s*(?:<span class="dp-attachment__size">\[([^\]]+)\]<\/span>\s*)?<a href="([^"]*attachment\.download[^"]*)"/i
   );
   const downloadUrl = dl ? SITE + dl[3].replace(/&amp;/g, "&") : null;
-  const size = dl?.[2] ? dl[2].replace(/\s+/g, " ").trim() : null;
+  const size = normalizeSize(dl?.[2] ? dl[2].replace(/\s+/g, " ").trim() : null);
 
   const mirrors = downloadUrl
     ? [{ label: STUDIO, url: downloadUrl, kind: "direct" }]

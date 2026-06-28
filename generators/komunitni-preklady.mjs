@@ -17,7 +17,7 @@
 import { writeFile, mkdir } from "node:fs/promises";
 import { fileURLToPath } from "node:url";
 import { dirname, join } from "node:path";
-import { UA, sleep, fetchTimeout, mapPool, getText } from "../lib/net.mjs";
+import { UA, sleep, fetchTimeout, mapPool, getText, normalizeSize } from "../lib/net.mjs";
 
 const ROOT = join(dirname(fileURLToPath(import.meta.url)), "..");
 
@@ -85,7 +85,7 @@ function buildEntry(slug, html) {
 
   const ld = (re) => (html.match(re) || [])[1] || null;
   const version = ld(/"softwareVersion":"([^"]+)"/);
-  const size = ld(/"fileSize":"([^"]+)"/);
+  const size = normalizeSize(ld(/"fileSize":"([^"]+)"/));
   const updatedAt = isoToDate(ld(/"dateModified":"([^"]+)"/));
   const downloadUrl = ld(/"downloadUrl":"([^"]+)"/)?.replace(/\\u0026/gi, "&") || null;
   const name = ld(/"SoftwareApplication","name":"([^"]+)"/) || slug;

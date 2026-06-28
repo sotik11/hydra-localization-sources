@@ -19,7 +19,7 @@
 import { writeFile, mkdir } from "node:fs/promises";
 import { fileURLToPath } from "node:url";
 import { dirname, join } from "node:path";
-import { UA, sleep, fetchTimeout, mapPool, getText } from "../lib/net.mjs";
+import { UA, sleep, fetchTimeout, mapPool, getText, normalizeSize } from "../lib/net.mjs";
 
 const ROOT = join(dirname(fileURLToPath(import.meta.url)), "..");
 
@@ -129,7 +129,7 @@ function buildEntry(slug, html) {
     changelogHtml,
     // Aggregator: the translating team is the author.
     authorsHtml: teamName ? `<p>${teamName}</p>` : null,
-    size: newest?.size || null,
+    size: normalizeSize(newest?.size || null),
     // In development when not public, or no released file yet.
     inDevelopment: status !== "public" || files.length === 0,
     mirrors,
