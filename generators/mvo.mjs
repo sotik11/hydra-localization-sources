@@ -14,12 +14,12 @@ import { writeFile, mkdir } from "node:fs/promises";
 import { fileURLToPath } from "node:url";
 import { dirname, join } from "node:path";
 import * as cheerio from "cheerio";
+import { sleep, mapPool, getJson, getText } from "../lib/net.mjs";
 
 const ROOT = join(dirname(fileURLToPath(import.meta.url)), "..");
 
 const API = "https://api.rgmvo.ru/api";
 const SITE = "https://rgmvo.ru";
-const UA = "hydra-localization-sources/0.1 (localization mirror indexer)";
 
 const STUDIO = "Mechanics VoiceOver";
 const STUDIO_URL = "https://rgmvo.ru";
@@ -32,22 +32,6 @@ const HOW_TO_INSTALL =
   `<br>` +
   `<p><strong>Удаление:</strong></p>` +
   `<p>Зайдите в директорию Install_Rus_Snd и запустите файл unins***.exe.</p>`;
-
-const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
-
-async function getJson(url) {
-  const res = await fetch(url, {
-    headers: { Accept: "application/json", "User-Agent": UA },
-  });
-  if (!res.ok) throw new Error(`GET ${url} -> ${res.status}`);
-  return res.json();
-}
-
-async function getText(url) {
-  const res = await fetch(url, { headers: { "User-Agent": UA } });
-  if (!res.ok) throw new Error(`GET ${url} -> ${res.status}`);
-  return res.text();
-}
 
 /** Pages through /api/games/all, deduped by alias (guards pagination quirks). */
 async function fetchAllGames() {
@@ -218,17 +202,14 @@ async function main() {
   const games = (await fetchAllGames()).filter((g) => g.is_active);
   console.log(`[MVO] ${games.length} active games`);
 
-  const localizations = [];
   let i = 0;
-  for (const game of games) {
-    i += 1;
+  const localizations = await mapPool(games, 4, async (game) => {
     const entry = await buildEntry(game);
-    localizations.push(entry);
-    process.stdout.write(
-      `\r[MVO] detail ${i}/${games.length} — ${entry.title.slice(0, 30)} (${entry.mirrors.length} mirrors)        `
-    );
-    await sleep(120);
-  }
+    i += 1;
+    if (i % 10 === 0 || i === games.length)
+      process.stdout.write(`\r[MVO] detail ${i}/${games.length}        `);
+    return entry;
+  });
   console.log("");
 
   const file = { name: STUDIO, language: LANGUAGE, category: "studio", siteUrl: SITE, localizations };
