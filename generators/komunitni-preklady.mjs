@@ -88,7 +88,11 @@ function buildEntry(slug, html) {
   const size = normalizeSize(ld(/"fileSize":"([^"]+)"/));
   const updatedAt = isoToDate(ld(/"dateModified":"([^"]+)"/));
   const downloadUrl = ld(/"downloadUrl":"([^"]+)"/)?.replace(/\\u0026/gi, "&") || null;
-  const name = ld(/"SoftwareApplication","name":"([^"]+)"/) || slug;
+  // Clean game name from the VideoGame JSON-LD block (the SoftwareApplication's
+  // "name" is "<lang> do hry <game>"; the site also stopped putting name right
+  // after the @type, so the old match fell back to the slug for every entry).
+  const name =
+    strip((html.match(/"VideoGame","@id":"[^"]*","name":"([^"]+)"/i) || [])[1] || "") || slug;
   const team = ld(/"author":\{"@type":"Organization","name":"([^"]+)"/);
 
   const gameVer =
