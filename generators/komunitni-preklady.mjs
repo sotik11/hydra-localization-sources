@@ -99,7 +99,11 @@ function buildEntry(slug, html) {
   // Type from the page's method badge class: method-rucni (human) vs method-ai
   // (machine) / method-kombinace (machine + human correction) -> both neural.
   const neural = /method-(ai|kombinace)\b/.test(html);
-  const lang = ld(/"inLanguage":"([a-z]{2})/) || "cs";
+  // Take the language from the TRANSLATION's JSON-LD block (#translation), not the
+  // first "inLanguage" on the page — the site now emits a site-level cs block
+  // first, which would mislabel every Slovak translation as Czech.
+  const lang =
+    (html.match(/#translation[^"]*"[\s\S]*?"inLanguage":"([a-z]{2})"/i) || [])[1] || "cs";
 
   const mirrors = downloadUrl ? [{ label: STUDIO, url: downloadUrl, kind: "direct" }] : [];
 
