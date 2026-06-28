@@ -15,13 +15,9 @@
 import { writeFile, mkdir } from "node:fs/promises";
 import { fileURLToPath } from "node:url";
 import { dirname, join } from "node:path";
+import { sleep, mapPool, getJson, getText } from "../lib/net.mjs";
 
 const ROOT = join(dirname(fileURLToPath(import.meta.url)), "..");
-
-const UA =
-  "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 " +
-  "(KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36";
-const H = { "User-Agent": UA, Accept: "application/json", Referer: "https://boosty.to/revoice" };
 
 const STUDIO = "ReVoiceAI";
 const LANGUAGE = "Русский";
@@ -32,8 +28,6 @@ const HOW_TO_INSTALL =
   `выше (ShareMods — облако, PlayGround — их страница) и запусти ` +
   `<code>.exe</code>-установщик, указав путь к игре. Поддержать авторов можно ` +
   `на их <a href="${BOOSTY}">Boosty</a>.</p>`;
-
-const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
 
 const normTitle = (t) =>
   (t || "").toLowerCase().replace(/['’:.,!?®™&–—_-]/g, " ").replace(/\bii\b/g, "2").replace(/\s+/g, " ").trim();
@@ -148,9 +142,12 @@ async function fetchPostList() {
     const u = `https://api.boosty.to/v1/blog/revoice/post/?limit=50${
       offset ? `&offset=${encodeURIComponent(offset)}` : ""
     }`;
-    const r = await fetch(u, { headers: H });
-    if (!r.ok) break;
-    const j = await r.json();
+    let j;
+    try {
+      j = await getJson(u, { headers: { Referer: BOOSTY } });
+    } catch {
+      break;
+    }
     posts.push(...(j.data || []).map((p) => ({ id: p.id, title: (p.title || "").replace(/\s+/g, " ").trim() })));
     if (j.extra?.isLast || !(j.data || []).length) break;
     offset = j.extra?.offset;
@@ -185,9 +182,14 @@ function blockText(b) {
 
 /** Reads a post's links: cloud mirrors (url + section) + the PlayGround page. */
 async function fetchPostLinks(id) {
-  const r = await fetch(`https://api.boosty.to/v1/blog/revoice/post/${id}`, { headers: H });
-  if (!r.ok) return { cloud: [], pg: null };
-  const j = await r.json();
+  let j;
+  try {
+    j = await getJson(`https://api.boosty.to/v1/blog/revoice/post/${id}`, {
+      headers: { Referer: BOOSTY },
+    });
+  } catch {
+    return { cloud: [], pg: null };
+  }
   const cloud = [];
   let pg = null;
   let section = null; // "dub" | "voice" | null — from the nearest heading above
@@ -280,12 +282,9 @@ async function resolveSteam(name) {
   const coreTargets = new Set(variants.map(core));
   for (const term of variants) {
     try {
-      const json = await (
-        await fetch(
-          `https://store.steampowered.com/api/storesearch/?term=${encodeURIComponent(term)}&cc=us&l=en`,
-          { headers: { Accept: "application/json", "User-Agent": UA } }
-        )
-      ).json();
+      const json = await getJson(
+        `https://store.steampowered.com/api/storesearch/?term=${encodeURIComponent(term)}&cc=us&l=en`
+      );
       // Exact match (then edition-insensitive) — a wrong app id attaches the dub
       // to the wrong game, so never fall back to a fuzzy "first result".
       const items = json?.items || [];
@@ -313,7 +312,7 @@ const decodeEntities = (s) =>
 /** Clean game name from the PG page h1 (drops the "…ИИ-озвучка" descriptor). */
 async function titleFromPg(pgUrl) {
   try {
-    const html = await (await fetch(pgUrl, { headers: { "User-Agent": UA } })).text();
+    const html = await getText(pgUrl);
     const h1 = (html.match(/<h1[^>]*>([\s\S]*?)<\/h1>/i) || [])[1] || "";
     const txt = decodeEntities(h1.replace(/<[^>]+>/g, "")).replace(/\s+/g, " ").trim();
     const name = txt
@@ -360,8 +359,7 @@ async function main() {
   }
   console.log("");
 
-  const localizations = [];
-  for (const g of byGame.values()) {
+  const localizations = await mapPool([...byGame.values()], 4, async (g) => {
     // Title: the PG page h1 gives the proper game name (apostrophes, "The …");
     // fall back to the slug. Then resolve the Steam app id off that clean name.
     let title = titleize(g.slug);
@@ -377,7 +375,7 @@ async function main() {
     const slugWords = new Set(normTitle(g.slug).split(" ").filter(Boolean));
     // Type comes from the post titles + the mirror file names (…_dub, …_voiceover).
     const text = `${g.titles.join(" ")} ${g.cloud.map((c) => c.url).join(" ")}`;
-    localizations.push({
+    return {
       steamAppId: appid ?? undefined,
       title,
       studio: STUDIO,
@@ -397,9 +395,8 @@ async function main() {
         })),
         { label: "Boosty (поддержать авторов)", url: `${BOOSTY}/posts/${g.postId}`, kind: "other" },
       ],
-    });
-    await sleep(150);
-  }
+    };
+  });
 
   const file = { name: STUDIO, language: LANGUAGE, category: "neural-studio", siteUrl: BOOSTY, localizations };
   await mkdir(join(ROOT, "data"), { recursive: true });
