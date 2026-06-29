@@ -17,10 +17,7 @@
 import { writeFile, mkdir } from "node:fs/promises";
 import { fileURLToPath } from "node:url";
 import { dirname, join } from "node:path";
-// Experiment: fetch via system curl (Schannel TLS) instead of undici. undici's TLS
-// fingerprint gets the catalogue served an empty page from GitHub's datacenter IPs;
-// curl already pierces Cloudflare for the Turkish sources from the same runners.
-import { UA, sleep, fetchTimeout, mapPool, getTextCurl as getText, normalizeSize } from "../lib/net.mjs";
+import { UA, sleep, fetchTimeout, mapPool, getText, normalizeSize } from "../lib/net.mjs";
 
 const ROOT = join(dirname(fileURLToPath(import.meta.url)), "..");
 
