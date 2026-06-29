@@ -7,24 +7,34 @@
 # Scheduled Task on a residential connection and push just these three.
 #
 # Same degradation guard as regen_all.sh: a throttled/blocked run never clobbers
-# good data. All output is teed to refresh_local.log (gitignored) so runs can be
-# inspected after the fact.
+# good data. All output is teed to refresh_local.log (gitignored). Start/finish are
+# announced as Windows toasts via notify.ps1 (best-effort — never fail the refresh).
 set -u
 cd "$(dirname "$0")"
 
+DIR="$(pwd)"
 LOG="refresh_local.log"
 exec > >(tee -a "$LOG") 2>&1
+
+PS_NOTIFY="$(cygpath -w "$DIR/notify.ps1" 2>/dev/null || echo "")"
+notify() { # $1=title $2=message — best-effort, must never abort the run
+  [ -n "$PS_NOTIFY" ] && powershell.exe -NoProfile -ExecutionPolicy Bypass \
+    -File "$PS_NOTIFY" -Title "$1" -Message "$2" >/dev/null 2>&1
+  return 0
+}
 
 SOURCES="komunitni-preklady magyaritasok tribogamer"
 
 echo ""
 echo "######## refresh_local $(date '+%Y-%m-%d %H:%M:%S %z') ########"
+notify "Hydra refresh — старт" "Обновляю: komunitni-preklady, magyaritasok, tribogamer…"
 
 # 1. Sync with the cloud cron's commits first, so the push at the end fast-forwards.
 echo "=== 1. git pull --rebase ==="
 if ! git pull --rebase origin main; then
   echo "  !! git pull --rebase failed (dirty tree or conflict) — aborting, will retry next run"
   git rebase --abort 2>/dev/null
+  notify "Hydra refresh — ОШИБКА" "git pull --rebase не прошёл (конфликт/грязное дерево). Повтор в следующий запуск."
   exit 1
 fi
 
@@ -33,6 +43,8 @@ count() { node -e 'try{console.log(JSON.parse(require("fs").readFileSync(process
 # 2. snapshot -> regen -> degradation guard, for the three blocked sources.
 echo "=== 2. regenerate ($SOURCES) ==="
 SUMMARY=""
+TOAST=""
+SEP=""
 for g in $SOURCES; do
   [ -f "data/$g.json" ] && cp -f "data/$g.json" "data/$g.json.backup"
   echo ">>> $g ($(date +%H:%M:%S))"
@@ -42,9 +54,12 @@ for g in $SOURCES; do
     echo "  !! $g degraded ($new < 50% of $bak) -> restoring backup"
     cp -f "data/$g.json.backup" "data/$g.json"
     SUMMARY="$SUMMARY\n  $g: $new (DEGRADED -> restored $bak)"
+    TOAST="$TOAST$SEP$g: $bak (откат!)"
   else
     SUMMARY="$SUMMARY\n  $g: $new (backup $bak)"
+    TOAST="$TOAST$SEP$g: $new"
   fi
+  SEP=" · "
 done
 echo "=== итог (new / backup) ==="
 echo -e "$SUMMARY"
@@ -54,10 +69,16 @@ echo "=== 3. commit & push ==="
 git add $(for g in $SOURCES; do echo "data/$g.json"; done)
 if git diff --staged --quiet; then
   echo "  no data changes — nothing to commit"
+  STATUS="без изменений"
 else
-  git commit -m "data: local refresh (komunitni-preklady / magyaritasok / tribogamer) [skip ci]" \
-    && git push origin main \
-    && echo "  pushed" || echo "  !! commit/push failed"
+  if git commit -m "data: local refresh (komunitni-preklady / magyaritasok / tribogamer) [skip ci]" && git push origin main; then
+    echo "  pushed"
+    STATUS="запушено ✓"
+  else
+    echo "  !! commit/push failed"
+    STATUS="ошибка push ✗"
+  fi
 fi
 
 echo "######## DONE $(date '+%Y-%m-%d %H:%M:%S') ########"
+notify "Hydra refresh — готово ($STATUS)" "$TOAST"
