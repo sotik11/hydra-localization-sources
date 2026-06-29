@@ -5,6 +5,40 @@
   "siteUrl": "https://boosty.to/revoice",
   "localizations": [
     {
+      "title": "GreedFall 2 / GreedFall - The Dying World",
+      "studio": "ReVoiceAI",
+      "studioUrl": "https://boosty.to/revoice",
+      "language": "Русский",
+      "hasText": false,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralText": false,
+      "hasNeuralDub": true,
+      "hasNeuralVoice": true,
+      "version": null,
+      "updatedAt": null,
+      "pageUrl": "https://www.playground.ru/greedfall_2/file/greedfall_2_greedfall_the_dying_world_polnaya_ii_ozvuchka_dublyazh_i_zakadr-1855734",
+      "howToInstallHtml": "<p>Нейроозвучка от <strong>ReVoiceAI</strong>. Скачай через одно из зеркал выше (ShareMods — облако, PlayGround — их страница) и запусти <code>.exe</code>-установщик, указав путь к игре. Поддержать авторов можно на их <a href=\"https://boosty.to/revoice\">Boosty</a>.</p>",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "ShareMods (Дубляж Matched)",
+          "url": "https://sharemods.com/m2dp2xsunv83/GreedFall2_dub_matched.zip.html",
+          "kind": "other"
+        },
+        {
+          "label": "ShareMods (Закадр)",
+          "url": "https://sharemods.com/vdsp5h2t746n/GreedFall2_voiceover.zip.html",
+          "kind": "other"
+        },
+        {
+          "label": "Boosty (поддержать авторов)",
+          "url": "https://boosty.to/revoice/posts/ffb365d2-bf1f-49ba-b499-7f3ba018c7af",
+          "kind": "other"
+        }
+      ]
+    },
+    {
       "steamAppId": "338390",
       "title": "The Technomancer",
       "studio": "ReVoiceAI",

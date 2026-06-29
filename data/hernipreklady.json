@@ -214,6 +214,33 @@
       ]
     },
     {
+      "title": "Disco Elysium - The Final Cut",
+      "studio": "HerníPřeklady",
+      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/disco-elysium-the-final-cut",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": "1.8",
+      "updatedAt": "25.12.2025",
+      "requiredGameVersion": "Build (Steam) patch 17/12/25 (GOG) (EPIC)",
+      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/disco-elysium-the-final-cut",
+      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
+      "authorsHtml": "<p><strong>Technika a systém překladu:</strong> Flu<br><strong>Textury a grafická úprava:</strong> Luc2as</p>",
+      "inDevelopment": false,
+      "size": "106.2 MB",
+      "mirrors": [
+        {
+          "label": "HerníPřeklady",
+          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=494",
+          "kind": "direct"
+        }
+      ]
+    },
+    {
       "title": "The Last Caretaker",
       "studio": "HerníPřeklady",
       "studioUrl": "https://hernipreklady.cz/seznam-prekladu/the-last-caretaker",
@@ -264,33 +291,6 @@
         {
           "label": "HerníPřeklady",
           "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=576",
-          "kind": "direct"
-        }
-      ]
-    },
-    {
-      "title": "Disco Elysium - The Final Cut",
-      "studio": "HerníPřeklady",
-      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/disco-elysium-the-final-cut",
-      "language": "Čeština",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": "1.8",
-      "updatedAt": "25.12.2025",
-      "requiredGameVersion": "Build (Steam) patch 17/12/25 (GOG) (EPIC)",
-      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/disco-elysium-the-final-cut",
-      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
-      "authorsHtml": "<p><strong>Technika a systém překladu:</strong> Flu<br><strong>Textury a grafická úprava:</strong> Luc2as</p>",
-      "inDevelopment": false,
-      "size": "106.2 MB",
-      "mirrors": [
-        {
-          "label": "HerníPřeklady",
-          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=494",
           "kind": "direct"
         }
       ]
