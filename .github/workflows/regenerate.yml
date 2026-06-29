@@ -12,7 +12,12 @@ name: regenerate
 on:
   schedule:
     - cron: "0 3 * * *" # daily, 03:00 UTC
-  workflow_dispatch: {} # allow manual runs
+  workflow_dispatch:
+    inputs:
+      source:
+        description: "Single generator name (e.g. komunitni-preklady) — runs ONLY it, NO commit (block test). Empty = full regen + commit."
+        required: false
+        default: ""
 
 permissions:
   contents: write
@@ -34,10 +39,17 @@ jobs:
 
       - run: npm ci || npm install
 
-      - name: Regenerate all sources (with degradation guard)
-        run: bash regen_all.sh
+      - name: Regenerate (single source = no-commit block test; empty = full regen with guard)
+        run: |
+          if [ -n "${{ github.event.inputs.source }}" ]; then
+            echo "=== single-source TEST: ${{ github.event.inputs.source }} (no commit) ==="
+            node "generators/${{ github.event.inputs.source }}.mjs"
+          else
+            bash regen_all.sh
+          fi
 
       - name: Commit refreshed data
+        if: ${{ github.event.inputs.source == '' }}
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
