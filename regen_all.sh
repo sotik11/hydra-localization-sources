@@ -10,6 +10,25 @@ cd "$(dirname "$0")"
 BASES="gpp hernipreklady komunitni-preklady kuli lbk lokalizace magyaritasok mvo playground revoiceai synthvoiceru tribogamer turkce-yama calypsoceviri"
 ORDER="revoiceai playground synthvoiceru gpp hernipreklady komunitni-preklady kuli lbk lokalizace magyaritasok mvo tribogamer turkce-yama calypsoceviri"
 
+# Optional skip-list (space-separated). CI sets SKIP_SOURCES to the sources whose
+# sites block GitHub's datacenter IPs (komunitni-preklady / magyaritasok / tribogamer);
+# those are refreshed locally from a residential IP instead (see refresh_local.sh).
+# Empty by default => run everything (so a local full run still covers all 14).
+SKIP_SOURCES="${SKIP_SOURCES:-}"
+filter() {
+  out=""
+  for x in $1; do
+    case " $SKIP_SOURCES " in *" $x "*) continue ;; esac
+    out="$out $x"
+  done
+  echo "$out"
+}
+if [ -n "$SKIP_SOURCES" ]; then
+  BASES="$(filter "$BASES")"
+  ORDER="$(filter "$ORDER")"
+  echo "=== SKIP_SOURCES: $SKIP_SOURCES — пропускаю (обновляются локально) ==="
+fi
+
 count() { node -e 'try{console.log(JSON.parse(require("fs").readFileSync(process.argv[1],"utf8")).localizations.length)}catch{console.log(0)}' "$1" 2>/dev/null; }
 
 echo "=== 1. snapshot -> .backup ==="

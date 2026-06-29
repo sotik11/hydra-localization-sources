@@ -40,6 +40,11 @@ jobs:
       - run: npm ci || npm install
 
       - name: Regenerate (single source = no-commit block test; empty = full regen with guard)
+        # Sources whose sites block GitHub's datacenter IPs are skipped here and
+        # refreshed locally from a residential IP instead (see refresh_local.sh).
+        # Only affects the full regen_all.sh path; the single-source test ignores it.
+        env:
+          SKIP_SOURCES: "komunitni-preklady magyaritasok tribogamer"
         run: |
           if [ -n "${{ github.event.inputs.source }}" ]; then
             echo "=== single-source TEST: ${{ github.event.inputs.source }} (no commit) ==="
