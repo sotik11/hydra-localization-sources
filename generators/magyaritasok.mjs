@@ -69,7 +69,17 @@ function parseCatalogue(html) {
 }
 
 async function fetchCatalogue() {
-  const first = parseCatalogue(await getText(`${SITE}/games?page=1`));
+  let first;
+  try {
+    first = parseCatalogue(await getText(`${SITE}/games?page=1`));
+  } catch (err) {
+    // First catalogue page failed — typically a datacenter-IP block / challenge
+    // page when this runs on CI (the site is fine from a residential IP). Degrade
+    // to empty so the regen guard restores the last-good data instead of the run
+    // crashing with a stack trace.
+    console.warn(`  ! catalogue page 1 failed (${err.message}) — returning empty (CI/IP block?)`);
+    return { games: [], pages: 0 };
+  }
   const bySlug = new Map(first.games.map((g) => [g.slug, g]));
   const lastPage = Math.min(first.lastPage, MAX_PAGES);
 
