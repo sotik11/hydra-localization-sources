@@ -5,6 +5,28 @@
   "siteUrl": "https://hernipreklady.cz",
   "localizations": [
     {
+      "title": "Titanfall 2",
+      "studio": "HerníPřeklady",
+      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/titanfall-2",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": "1.0",
+      "updatedAt": null,
+      "requiredGameVersion": "2.0.11.0",
+      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/titanfall-2",
+      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
+      "authorsHtml": null,
+      "inDevelopment": true,
+      "size": null,
+      "mirrors": [],
+      "steamAppId": "1237970"
+    },
+    {
       "title": "Civilization VII",
       "studio": "HerníPřeklady",
       "studioUrl": "https://hernipreklady.cz/seznam-prekladu/civilization-vii",
@@ -109,28 +131,6 @@
       ]
     },
     {
-      "title": "Titanfall 2",
-      "studio": "HerníPřeklady",
-      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/titanfall-2",
-      "language": "Čeština",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": "1.0",
-      "updatedAt": null,
-      "requiredGameVersion": "2.0.11.0",
-      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/titanfall-2",
-      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
-      "authorsHtml": null,
-      "inDevelopment": true,
-      "size": null,
-      "mirrors": [],
-      "steamAppId": "1237970"
-    },
-    {
       "title": "No Man's Sky",
       "studio": "HerníPřeklady",
       "studioUrl": "https://hernipreklady.cz/seznam-prekladu/no-man-s-sky",
@@ -214,6 +214,34 @@
       ]
     },
     {
+      "title": "Indiana Jones and The Great Circle",
+      "studio": "HerníPřeklady",
+      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/indiana-jones-and-the-great-circle",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": "1.80",
+      "updatedAt": "13.05.2026",
+      "requiredGameVersion": "Update 8",
+      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/indiana-jones-and-the-great-circle",
+      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
+      "authorsHtml": null,
+      "inDevelopment": false,
+      "size": "118.4 MB",
+      "mirrors": [
+        {
+          "label": "HerníPřeklady",
+          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=573",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "2677660"
+    },
+    {
       "title": "Disco Elysium - The Final Cut",
       "studio": "HerníPřeklady",
       "studioUrl": "https://hernipreklady.cz/seznam-prekladu/disco-elysium-the-final-cut",
@@ -267,33 +295,6 @@
         }
       ],
       "steamAppId": "1783560"
-    },
-    {
-      "title": "Anno 117",
-      "studio": "HerníPřeklady",
-      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/anno-117",
-      "language": "Čeština",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": "1.05",
-      "updatedAt": "14.05.2026",
-      "requiredGameVersion": "1.5.1.1659400+",
-      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/anno-117",
-      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
-      "authorsHtml": "<p><strong>Překlad:</strong> Jetro, Ralph Shepard,<br><strong>Korektura:</strong> Jetro<br><strong>Testování:</strong> Andrewek, Jetro,</p>",
-      "inDevelopment": false,
-      "size": "3.53 MB",
-      "mirrors": [
-        {
-          "label": "HerníPřeklady",
-          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=576",
-          "kind": "direct"
-        }
-      ]
     },
     {
       "title": "Evotinction",
@@ -623,6 +624,33 @@
         }
       ],
       "steamAppId": "3612850"
+    },
+    {
+      "title": "Anno 117",
+      "studio": "HerníPřeklady",
+      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/anno-117",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": "1.05",
+      "updatedAt": "14.05.2026",
+      "requiredGameVersion": "1.5.1.1659400+",
+      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/anno-117",
+      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
+      "authorsHtml": "<p><strong>Překlad:</strong> Jetro, Ralph Shepard,<br><strong>Korektura:</strong> Jetro<br><strong>Testování:</strong> Andrewek, Jetro,</p>",
+      "inDevelopment": false,
+      "size": "3.53 MB",
+      "mirrors": [
+        {
+          "label": "HerníPřeklady",
+          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=576",
+          "kind": "direct"
+        }
+      ]
     },
     {
       "title": "Two Point Campus",
@@ -1001,34 +1029,6 @@
           "kind": "direct"
         }
       ]
-    },
-    {
-      "title": "Indiana Jones and The Great Circle",
-      "studio": "HerníPřeklady",
-      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/indiana-jones-and-the-great-circle",
-      "language": "Čeština",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": "1.80",
-      "updatedAt": "13.05.2026",
-      "requiredGameVersion": "Update 8",
-      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/indiana-jones-and-the-great-circle",
-      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
-      "authorsHtml": null,
-      "inDevelopment": false,
-      "size": "118.4 MB",
-      "mirrors": [
-        {
-          "label": "HerníPřeklady",
-          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=573",
-          "kind": "direct"
-        }
-      ],
-      "steamAppId": "2677660"
     },
     {
       "title": "Once Alive",

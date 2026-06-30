@@ -255,33 +255,6 @@
       "steamAppId": "1903340"
     },
     {
-      "title": "Divinity: Original Sin 2 - Definitive Edition",
-      "studio": "SynthVoiceRu",
-      "studioUrl": "https://www.playground.ru/divinity_original_sin_2/file/divinity_original_sin_2_definitive_edition_rusifikator_zvuka_nejrosetevoj_dublyazh_v30_04_2025_synthvoiceru-1715866",
-      "authorsHtml": "<p>SynthVoiceRu</p>",
-      "language": "Русский",
-      "hasText": false,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralText": false,
-      "hasNeuralVoice": true,
-      "hasNeuralDub": true,
-      "version": "30.04.2025",
-      "size": "4.45 GB",
-      "updatedAt": null,
-      "pageUrl": "https://www.playground.ru/divinity_original_sin_2/file/divinity_original_sin_2_definitive_edition_rusifikator_zvuka_nejrosetevoj_dublyazh_v30_04_2025_synthvoiceru-1715866",
-      "howToInstallHtml": "<p>Нейроозвучка от <strong>SynthVoiceRu</strong>. Бесплатная версия — на странице PlayGround («Открыть в браузере» ниже), там же инструкция по установке. Поддержать авторов и получить официальную версию можно на их <a href=\"https://boosty.to/synthvoiceru/showcase\">Boosty</a>.</p>",
-      "inDevelopment": false,
-      "fileName": "DivinityOriginalSin2_s.zip",
-      "mirrors": [
-        {
-          "label": "Boosty (поддержать авторов)",
-          "url": "https://boosty.to/synthvoiceru/showcase",
-          "kind": "other"
-        }
-      ]
-    },
-    {
       "title": "Disco Elysium",
       "studio": "SynthVoiceRu",
       "studioUrl": "https://www.playground.ru/disco_elysium/file/disco_elysium_russkaya_ozvuchka_nejrosetevoj_dublyazh_v1_0_synthvoiceru-1746064",
@@ -304,6 +277,33 @@
         {
           "label": "Boosty (поддержать авторов)",
           "url": "https://boosty.to/synthvoiceru/posts/b74ea55f-d106-4de9-9eeb-b4e056afba5a",
+          "kind": "other"
+        }
+      ]
+    },
+    {
+      "title": "Divinity: Original Sin 2 - Definitive Edition",
+      "studio": "SynthVoiceRu",
+      "studioUrl": "https://www.playground.ru/divinity_original_sin_2/file/divinity_original_sin_2_definitive_edition_rusifikator_zvuka_nejrosetevoj_zakadr_v30_04_2025_synthvoiceru-1716553",
+      "authorsHtml": "<p>SynthVoiceRu</p>",
+      "language": "Русский",
+      "hasText": false,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralText": false,
+      "hasNeuralVoice": true,
+      "hasNeuralDub": false,
+      "version": "30.04.2025",
+      "size": "4.93 GB",
+      "updatedAt": null,
+      "pageUrl": "https://www.playground.ru/divinity_original_sin_2/file/divinity_original_sin_2_definitive_edition_rusifikator_zvuka_nejrosetevoj_zakadr_v30_04_2025_synthvoiceru-1716553",
+      "howToInstallHtml": "<p>Нейроозвучка от <strong>SynthVoiceRu</strong>. Бесплатная версия — на странице PlayGround («Открыть в браузере» ниже), там же инструкция по установке. Поддержать авторов и получить официальную версию можно на их <a href=\"https://boosty.to/synthvoiceru/showcase\">Boosty</a>.</p>",
+      "inDevelopment": false,
+      "fileName": "DivinityOriginalSin2_zakadr_s.zip",
+      "mirrors": [
+        {
+          "label": "Boosty (поддержать авторов)",
+          "url": "https://boosty.to/synthvoiceru/showcase",
           "kind": "other"
         }
       ]
