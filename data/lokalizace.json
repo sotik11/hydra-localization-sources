@@ -5,6 +5,34 @@
   "siteUrl": "https://lokalizace.net",
   "localizations": [
     {
+      "title": "Tomb Raider IV-VI Remastered",
+      "studio": "Lokalizace.net",
+      "studioUrl": "https://lokalizace.net/localizations/tomb-raider-iv-vi-remastered",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": "1.0.0",
+      "updatedAt": "30.06.2026",
+      "pageUrl": "https://lokalizace.net/localizations/tomb-raider-iv-vi-remastered",
+      "howToInstallHtml": "<p>Stáhněte ZIP soubor a rozbalte ho do složky hry, nebo použijte aplikaci CZManager pro automatickou instalaci češtiny.</p>",
+      "changelogHtml": "<div><p><strong>Nová verze 1.0.0</strong></p><p></p></div>",
+      "authorsHtml": "<p>NobodyxCZ</p>",
+      "size": "158 KB",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Lokalizace.net",
+          "url": "https://lokalizace.net/api/download/1627",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "2525380"
+    },
+    {
       "title": "Armikrog",
       "studio": "Lokalizace.net",
       "studioUrl": "https://lokalizace.net/localizations/armikrog",
@@ -4340,19 +4368,24 @@
       "hasNeuralVoice": false,
       "hasNeuralDub": false,
       "hasNeuralText": false,
-      "version": "v1.2.0.0 (802403)",
-      "updatedAt": "29.11.2025",
+      "version": "1.1",
+      "updatedAt": "30.06.2026",
       "pageUrl": "https://lokalizace.net/localizations/spongebob-squarepants-titans-of-the-tide",
       "howToInstallHtml": "<p>Stáhněte ZIP soubor a rozbalte ho do složky hry, nebo použijte aplikaci CZManager pro automatickou instalaci češtiny.</p>",
-      "changelogHtml": null,
+      "changelogHtml": "<div><p><strong>Nová verze 1.1</strong></p><p>100% funkční Čeština. </p><p>Čeština je pro novější verzi: 1.2.0.0</p><p>Návod jak instalovat Češtinu najdete v .txt</p></div>",
       "authorsHtml": "<p>DickzillaTranslator</p>",
-      "size": "258 KB",
+      "size": "1.70 MB",
       "inDevelopment": false,
       "mirrors": [
         {
           "label": "Lokalizace.net",
-          "url": "https://lokalizace.net/api/download/1078",
+          "url": "https://lokalizace.net/api/download/1625",
           "kind": "direct"
+        },
+        {
+          "label": "Версия v1.2.0.0 (802403)",
+          "url": "https://lokalizace.net/api/download/1078",
+          "kind": "other"
         }
       ],
       "steamAppId": "2479650"
