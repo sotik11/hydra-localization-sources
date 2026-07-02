@@ -50,7 +50,8 @@
       "authorsHtml": null,
       "inDevelopment": true,
       "size": null,
-      "mirrors": []
+      "mirrors": [],
+      "steamAppId": "1237970"
     },
     {
       "title": "Civilization VII",
@@ -104,7 +105,8 @@
           "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=584",
           "kind": "direct"
         }
-      ]
+      ],
+      "steamAppId": "1176470"
     },
     {
       "title": "Directive 8020",
@@ -125,7 +127,8 @@
       "authorsHtml": null,
       "inDevelopment": true,
       "size": null,
-      "mirrors": []
+      "mirrors": [],
+      "steamAppId": "2255370"
     },
     {
       "title": "Wartales + DLC",
@@ -179,7 +182,8 @@
           "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=580",
           "kind": "direct"
         }
-      ]
+      ],
+      "steamAppId": "275850"
     },
     {
       "title": "Tormented Souls 2",
@@ -206,34 +210,8 @@
           "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=579",
           "kind": "direct"
         }
-      ]
-    },
-    {
-      "title": "Songs of Conquest",
-      "studio": "HerníPřeklady",
-      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/songs-of-conquest",
-      "language": "Čeština",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": "1.53",
-      "updatedAt": "20.03.2026",
-      "requiredGameVersion": "1.9.3",
-      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/songs-of-conquest",
-      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
-      "authorsHtml": "<p><strong>Překlad:</strong> Jetro<br><strong>Testování:</strong> Jetro, Paras</p>",
-      "inDevelopment": false,
-      "size": "38.9 MB",
-      "mirrors": [
-        {
-          "label": "HerníPřeklady",
-          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=544",
-          "kind": "direct"
-        }
-      ]
+      ],
+      "steamAppId": "2464280"
     },
     {
       "title": "Indiana Jones and The Great Circle",
@@ -260,12 +238,13 @@
           "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=573",
           "kind": "direct"
         }
-      ]
+      ],
+      "steamAppId": "2677660"
     },
     {
-      "title": "Disco Elysium - The Final Cut",
+      "title": "Songs of Conquest",
       "studio": "HerníPřeklady",
-      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/disco-elysium-the-final-cut",
+      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/songs-of-conquest",
       "language": "Čeština",
       "hasText": true,
       "hasVoice": false,
@@ -273,21 +252,22 @@
       "hasNeuralVoice": false,
       "hasNeuralDub": false,
       "hasNeuralText": false,
-      "version": "1.8",
-      "updatedAt": "25.12.2025",
-      "requiredGameVersion": "Build (Steam) patch 17/12/25 (GOG) (EPIC)",
-      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/disco-elysium-the-final-cut",
+      "version": "1.53",
+      "updatedAt": "20.03.2026",
+      "requiredGameVersion": "1.9.3",
+      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/songs-of-conquest",
       "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
-      "authorsHtml": "<p><strong>Technika a systém překladu:</strong> Flu<br><strong>Textury a grafická úprava:</strong> Luc2as</p>",
+      "authorsHtml": "<p><strong>Překlad:</strong> Jetro<br><strong>Testování:</strong> Jetro, Paras</p>",
       "inDevelopment": false,
-      "size": "106.2 MB",
+      "size": "38.9 MB",
       "mirrors": [
         {
           "label": "HerníPřeklady",
-          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=494",
+          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=544",
           "kind": "direct"
         }
-      ]
+      ],
+      "steamAppId": "867210"
     },
     {
       "title": "Evotinction",
@@ -314,7 +294,8 @@
           "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=535",
           "kind": "direct"
         }
-      ]
+      ],
+      "steamAppId": "2005090"
     },
     {
       "title": "Code Vein 2",
@@ -368,7 +349,8 @@
           "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=551",
           "kind": "direct"
         }
-      ]
+      ],
+      "steamAppId": "1588550"
     },
     {
       "title": "Silver Chains",
@@ -395,7 +377,8 @@
           "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=499",
           "kind": "direct"
         }
-      ]
+      ],
+      "steamAppId": "975470"
     },
     {
       "title": "SLEEP AWAKE",
@@ -422,7 +405,8 @@
           "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=506",
           "kind": "direct"
         }
-      ]
+      ],
+      "steamAppId": "2446540"
     },
     {
       "title": "Summer of '58",
@@ -449,7 +433,8 @@
           "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=484",
           "kind": "direct"
         }
-      ]
+      ],
+      "steamAppId": "1609080"
     },
     {
       "title": "Pieces of Me",
@@ -476,7 +461,8 @@
           "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=475",
           "kind": "direct"
         }
-      ]
+      ],
+      "steamAppId": "2479740"
     },
     {
       "title": "ROUTINE",
@@ -503,7 +489,8 @@
           "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=539",
           "kind": "direct"
         }
-      ]
+      ],
+      "steamAppId": "606160"
     },
     {
       "title": "Hail to the Rainbow",
@@ -524,7 +511,8 @@
       "authorsHtml": null,
       "inDevelopment": true,
       "size": null,
-      "mirrors": []
+      "mirrors": [],
+      "steamAppId": "1699230"
     },
     {
       "title": "Portrait of a Torn",
@@ -551,7 +539,8 @@
           "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=471",
           "kind": "direct"
         }
-      ]
+      ],
+      "steamAppId": "3059500"
     },
     {
       "title": "The Last Case of John Morley",
@@ -578,7 +567,8 @@
           "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=472",
           "kind": "direct"
         }
-      ]
+      ],
+      "steamAppId": "3636620"
     },
     {
       "title": "The Last Caretaker",
@@ -605,7 +595,8 @@
           "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=525",
           "kind": "direct"
         }
-      ]
+      ],
+      "steamAppId": "1783560"
     },
     {
       "title": "The Lightkeeper",
@@ -632,7 +623,8 @@
           "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=457",
           "kind": "direct"
         }
-      ]
+      ],
+      "steamAppId": "3612850"
     },
     {
       "title": "Two Point Campus",
@@ -653,7 +645,8 @@
       "authorsHtml": null,
       "inDevelopment": true,
       "size": null,
-      "mirrors": []
+      "mirrors": [],
+      "steamAppId": "1649080"
     },
     {
       "title": "Alien: Rogue Incursion Evolved Edition",
@@ -680,7 +673,8 @@
           "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=463",
           "kind": "direct"
         }
-      ]
+      ],
+      "steamAppId": "3655390"
     },
     {
       "title": "Millennia",
@@ -701,7 +695,8 @@
       "authorsHtml": "<p><strong>Překlad:</strong> Ralph Shepard<br><strong>Technika:</strong> Flu, Luc2as</p>",
       "inDevelopment": true,
       "size": null,
-      "mirrors": []
+      "mirrors": [],
+      "steamAppId": "1268590"
     },
     {
       "title": "Cronos: The New Dawn",
@@ -728,7 +723,8 @@
           "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=529",
           "kind": "direct"
         }
-      ]
+      ],
+      "steamAppId": "2101960"
     },
     {
       "title": "Stone Simulator - Just Be a Rock",
@@ -782,7 +778,8 @@
           "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=575",
           "kind": "direct"
         }
-      ]
+      ],
+      "steamAppId": "2488370"
     },
     {
       "title": "Stellar Blade",
@@ -809,7 +806,8 @@
           "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=513",
           "kind": "direct"
         }
-      ]
+      ],
+      "steamAppId": "3489700"
     },
     {
       "title": "Two Point Museum",
@@ -836,7 +834,8 @@
           "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=572",
           "kind": "direct"
         }
-      ]
+      ],
+      "steamAppId": "2185060"
     },
     {
       "title": "Lost Records: Bloom & Rage",
@@ -863,7 +862,8 @@
           "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=443",
           "kind": "direct"
         }
-      ]
+      ],
+      "steamAppId": "1902960"
     },
     {
       "title": "This War of Mine",
@@ -890,7 +890,8 @@
           "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=346",
           "kind": "direct"
         }
-      ]
+      ],
+      "steamAppId": "282070"
     },
     {
       "title": "Astroneer",
@@ -917,7 +918,8 @@
           "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=542",
           "kind": "direct"
         }
-      ]
+      ],
+      "steamAppId": "361420"
     },
     {
       "title": "SCP: Fragmented Minds",
@@ -944,7 +946,8 @@
           "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=342",
           "kind": "direct"
         }
-      ]
+      ],
+      "steamAppId": "1184790"
     },
     {
       "title": "Diablo II Lord of Destruction",
@@ -998,7 +1001,8 @@
           "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=552",
           "kind": "direct"
         }
-      ]
+      ],
+      "steamAppId": "2536520"
     },
     {
       "title": "Go Home Annie",
@@ -1052,7 +1056,8 @@
           "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=325",
           "kind": "direct"
         }
-      ]
+      ],
+      "steamAppId": "2336440"
     },
     {
       "title": "Alien: Rogue Incursion VR",
@@ -1079,7 +1084,8 @@
           "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=464",
           "kind": "direct"
         }
-      ]
+      ],
+      "steamAppId": "1850050"
     },
     {
       "title": "A Quiet Place: The Road Ahead",
@@ -1106,7 +1112,8 @@
           "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=315",
           "kind": "direct"
         }
-      ]
+      ],
+      "steamAppId": "2233120"
     },
     {
       "title": "Thronefall",
@@ -1133,7 +1140,8 @@
           "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=305",
           "kind": "direct"
         }
-      ]
+      ],
+      "steamAppId": "2239150"
     },
     {
       "title": "Until Dawn",
@@ -1160,7 +1168,8 @@
           "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=308",
           "kind": "direct"
         }
-      ]
+      ],
+      "steamAppId": "2172010"
     },
     {
       "title": "The Casting of Frank Stone",
@@ -1187,7 +1196,8 @@
           "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=316",
           "kind": "direct"
         }
-      ]
+      ],
+      "steamAppId": "2223840"
     },
     {
       "title": "Cult of the Lamb",
@@ -1214,7 +1224,8 @@
           "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=558",
           "kind": "direct"
         }
-      ]
+      ],
+      "steamAppId": "1313140"
     },
     {
       "title": "Black Myth: Wukong",
@@ -1241,7 +1252,8 @@
           "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=367",
           "kind": "direct"
         }
-      ]
+      ],
+      "steamAppId": "2358720"
     },
     {
       "title": "Blade and Sorcery",
@@ -1268,7 +1280,8 @@
           "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=352",
           "kind": "direct"
         }
-      ]
+      ],
+      "steamAppId": "629730"
     },
     {
       "title": "This Bed We Made",
@@ -1295,7 +1308,8 @@
           "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=322",
           "kind": "direct"
         }
-      ]
+      ],
+      "steamAppId": "1243850"
     },
     {
       "title": "Nobody Wants to Die",
@@ -1322,7 +1336,8 @@
           "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=264",
           "kind": "direct"
         }
-      ]
+      ],
+      "steamAppId": "1939970"
     },
     {
       "title": "Flintlock: The SIege of Dawn",
@@ -1349,7 +1364,8 @@
           "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=383",
           "kind": "direct"
         }
-      ]
+      ],
+      "steamAppId": "1832040"
     },
     {
       "title": "Daymare: 1994 Sandcastle",
@@ -1376,7 +1392,8 @@
           "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=252",
           "kind": "direct"
         }
-      ]
+      ],
+      "steamAppId": "1530470"
     },
     {
       "title": "Ghostrunner 2",
@@ -1403,7 +1420,8 @@
           "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=265",
           "kind": "direct"
         }
-      ]
+      ],
+      "steamAppId": "2144740"
     },
     {
       "title": "Titan station + VR DLC",
@@ -1457,7 +1475,8 @@
           "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=442",
           "kind": "direct"
         }
-      ]
+      ],
+      "steamAppId": "731040"
     },
     {
       "title": "Still Wakes the Deep",
@@ -1484,7 +1503,8 @@
           "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=556",
           "kind": "direct"
         }
-      ]
+      ],
+      "steamAppId": "1622910"
     },
     {
       "title": "Reveil",
@@ -1511,7 +1531,8 @@
           "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=225",
           "kind": "direct"
         }
-      ]
+      ],
+      "steamAppId": "809060"
     },
     {
       "title": "Return to Grace",
@@ -1538,7 +1559,8 @@
           "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=209",
           "kind": "direct"
         }
-      ]
+      ],
+      "steamAppId": "2243670"
     },
     {
       "title": "Ereban: Shadow Legacy",
@@ -1565,7 +1587,8 @@
           "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=240",
           "kind": "direct"
         }
-      ]
+      ],
+      "steamAppId": "1671360"
     },
     {
       "title": "Indika",
@@ -1592,7 +1615,8 @@
           "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=192",
           "kind": "direct"
         }
-      ]
+      ],
+      "steamAppId": "1373960"
     },
     {
       "title": "Frostpunk 2",
@@ -1619,7 +1643,8 @@
           "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=527",
           "kind": "direct"
         }
-      ]
+      ],
+      "steamAppId": "1601580"
     },
     {
       "title": "Alone in the Dark",
@@ -1646,7 +1671,8 @@
           "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=327",
           "kind": "direct"
         }
-      ]
+      ],
+      "steamAppId": "1310410"
     },
     {
       "title": "Gotham Knights",
@@ -1673,7 +1699,8 @@
           "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=208",
           "kind": "direct"
         }
-      ]
+      ],
+      "steamAppId": "1496790"
     },
     {
       "title": "Road 96",
@@ -1727,7 +1754,8 @@
           "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=372",
           "kind": "direct"
         }
-      ]
+      ],
+      "steamAppId": "1684350"
     },
     {
       "title": "SpellRogue",
@@ -1754,7 +1782,8 @@
           "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=176",
           "kind": "direct"
         }
-      ]
+      ],
+      "steamAppId": "1990110"
     },
     {
       "title": "Banishers: Ghosts of New Eden",
@@ -1781,7 +1810,8 @@
           "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=376",
           "kind": "direct"
         }
-      ]
+      ],
+      "steamAppId": "1493640"
     },
     {
       "title": "Voidtrain",
@@ -1808,7 +1838,8 @@
           "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=533",
           "kind": "direct"
         }
-      ]
+      ],
+      "steamAppId": "1159690"
     },
     {
       "title": "RoboCop: Rogue City",
@@ -1835,7 +1866,8 @@
           "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=273",
           "kind": "direct"
         }
-      ]
+      ],
+      "steamAppId": "1681430"
     },
     {
       "title": "Alan Wake 2",
@@ -1889,7 +1921,8 @@
           "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=519",
           "kind": "direct"
         }
-      ]
+      ],
+      "steamAppId": "1605220"
     },
     {
       "title": "Shadow Gambit: The Cursed Crew Complete Edition",
@@ -1970,7 +2003,8 @@
           "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=90",
           "kind": "direct"
         }
-      ]
+      ],
+      "steamAppId": "1454970"
     },
     {
       "title": "Aliens: Dark Descent",
@@ -1997,7 +2031,8 @@
           "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=319",
           "kind": "direct"
         }
-      ]
+      ],
+      "steamAppId": "1150440"
     },
     {
       "title": "Dyson Sphere Program",
@@ -2024,7 +2059,8 @@
           "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=554",
           "kind": "direct"
         }
-      ]
+      ],
+      "steamAppId": "1366540"
     },
     {
       "title": "Fort Solis",
@@ -2051,7 +2087,8 @@
           "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=183",
           "kind": "direct"
         }
-      ]
+      ],
+      "steamAppId": "1931730"
     },
     {
       "title": "Signalis",
@@ -2078,7 +2115,8 @@
           "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=288",
           "kind": "direct"
         }
-      ]
+      ],
+      "steamAppId": "1262350"
     },
     {
       "title": "Ixion",
@@ -2105,7 +2143,8 @@
           "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=110",
           "kind": "direct"
         }
-      ]
+      ],
+      "steamAppId": "1113120"
     },
     {
       "title": "Propagation Paradise Hotel",
@@ -2132,7 +2171,8 @@
           "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=52",
           "kind": "direct"
         }
-      ]
+      ],
+      "steamAppId": "1824960"
     },
     {
       "title": "Demeo PC / VR",
@@ -2186,7 +2226,8 @@
           "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=217",
           "kind": "direct"
         }
-      ]
+      ],
+      "steamAppId": "2134770"
     },
     {
       "title": "Northgard",
@@ -2240,7 +2281,8 @@
           "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=86",
           "kind": "direct"
         }
-      ]
+      ],
+      "steamAppId": "966680"
     },
     {
       "title": "Lies of P",
@@ -2267,7 +2309,8 @@
           "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=425",
           "kind": "direct"
         }
-      ]
+      ],
+      "steamAppId": "1627720"
     },
     {
       "title": "The Expanse - A Telltale Series",
@@ -2321,7 +2364,8 @@
           "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=84",
           "kind": "direct"
         }
-      ]
+      ],
+      "steamAppId": "1367590"
     },
     {
       "title": "Deliver Us Mars",
@@ -2348,7 +2392,8 @@
           "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=83",
           "kind": "direct"
         }
-      ]
+      ],
+      "steamAppId": "1345890"
     },
     {
       "title": "Graveyard Keeper",
@@ -2375,7 +2420,8 @@
           "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=550",
           "kind": "direct"
         }
-      ]
+      ],
+      "steamAppId": "599140"
     },
     {
       "title": "Moss",
@@ -2456,6 +2502,34 @@
           "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=297",
           "kind": "direct"
         }
+      ],
+      "steamAppId": "916440"
+    },
+    {
+      "title": "Disco Elysium - The Final Cut",
+      "studio": "HerníPřeklady",
+      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/disco-elysium-the-final-cut",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": "1.8",
+      "updatedAt": "25.12.2025",
+      "requiredGameVersion": "Build (Steam) patch 17/12/25 (GOG) (EPIC)",
+      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/disco-elysium-the-final-cut",
+      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
+      "authorsHtml": "<p><strong>Technika a systém překladu:</strong> Flu<br><strong>Textury a grafická úprava:</strong> Luc2as</p>",
+      "inDevelopment": false,
+      "size": "106.2 MB",
+      "mirrors": [
+        {
+          "label": "HerníPřeklady",
+          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=494",
+          "kind": "direct"
+        }
       ]
     },
     {
@@ -2483,7 +2557,8 @@
           "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=47",
           "kind": "direct"
         }
-      ]
+      ],
+      "steamAppId": "1012790"
     },
     {
       "title": "State Of Mind",
@@ -2510,7 +2585,8 @@
           "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=81",
           "kind": "direct"
         }
-      ]
+      ],
+      "steamAppId": "437630"
     },
     {
       "title": "Eternal Threads",
@@ -2537,7 +2613,8 @@
           "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=48",
           "kind": "direct"
         }
-      ]
+      ],
+      "steamAppId": "1046790"
     },
     {
       "title": "Kena: Bridge of Spirit",
@@ -2618,7 +2695,8 @@
           "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=486",
           "kind": "direct"
         }
-      ]
+      ],
+      "steamAppId": "839770"
     },
     {
       "title": "Atomic Heart",
@@ -2645,7 +2723,8 @@
           "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=574",
           "kind": "direct"
         }
-      ]
+      ],
+      "steamAppId": "668580"
     },
     {
       "title": "This Land Is My Land",
@@ -2672,7 +2751,8 @@
           "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=149",
           "kind": "direct"
         }
-      ]
+      ],
+      "steamAppId": "1069640"
     },
     {
       "title": "Jurassic World Evolution 2",
@@ -2699,7 +2779,8 @@
           "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=379",
           "kind": "direct"
         }
-      ]
+      ],
+      "steamAppId": "1244460"
     },
     {
       "title": "Punch Club 2",
@@ -2753,7 +2834,8 @@
           "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=141",
           "kind": "direct"
         }
-      ]
+      ],
+      "steamAppId": "1084160"
     },
     {
       "title": "Miasma Chronicles",
@@ -2780,7 +2862,8 @@
           "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=46",
           "kind": "direct"
         }
-      ]
+      ],
+      "steamAppId": "1649010"
     },
     {
       "title": "System Shock Remake",
@@ -2834,7 +2917,8 @@
           "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=165",
           "kind": "direct"
         }
-      ]
+      ],
+      "steamAppId": "1293730"
     },
     {
       "title": "Amnesia: The Bunker",
@@ -2861,7 +2945,8 @@
           "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=231",
           "kind": "direct"
         }
-      ]
+      ],
+      "steamAppId": "1944430"
     },
     {
       "title": "Darksiders Genesis",
@@ -2888,7 +2973,8 @@
           "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=45",
           "kind": "direct"
         }
-      ]
+      ],
+      "steamAppId": "710920"
     },
     {
       "title": "Alfred Hitchcock – Vertigo",
@@ -2942,7 +3028,8 @@
           "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=76",
           "kind": "direct"
         }
-      ]
+      ],
+      "steamAppId": "1577120"
     },
     {
       "title": "The Walking Dead: Saints & Sinners - Chapter 2: Retribution VR",
@@ -3023,7 +3110,8 @@
           "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=75",
           "kind": "direct"
         }
-      ]
+      ],
+      "steamAppId": "428660"
     },
     {
       "title": "Returnal",
@@ -3050,7 +3138,8 @@
           "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=42",
           "kind": "direct"
         }
-      ]
+      ],
+      "steamAppId": "1649240"
     },
     {
       "title": "Endzone - A World Apart",
@@ -3185,7 +3274,8 @@
           "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=122",
           "kind": "direct"
         }
-      ]
+      ],
+      "steamAppId": "684450"
     },
     {
       "title": "Conway: Disappearance at Dahlia View",
@@ -3239,7 +3329,8 @@
           "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=72",
           "kind": "direct"
         }
-      ]
+      ],
+      "steamAppId": "1196090"
     },
     {
       "title": "Industries of Titan",
@@ -3266,7 +3357,8 @@
           "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=123",
           "kind": "direct"
         }
-      ]
+      ],
+      "steamAppId": "427940"
     },
     {
       "title": "The Town of Light",
@@ -3293,7 +3385,8 @@
           "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=71",
           "kind": "direct"
         }
-      ]
+      ],
+      "steamAppId": "433100"
     },
     {
       "title": "F1® Manager 2022",
@@ -3374,7 +3467,8 @@
           "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=33",
           "kind": "direct"
         }
-      ]
+      ],
+      "steamAppId": "1255560"
     },
     {
       "title": "Terminator: Resistance",
@@ -3401,7 +3495,8 @@
           "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=164",
           "kind": "direct"
         }
-      ]
+      ],
+      "steamAppId": "954740"
     },
     {
       "title": "Red Matter 2",
@@ -3428,7 +3523,8 @@
           "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=70",
           "kind": "direct"
         }
-      ]
+      ],
+      "steamAppId": "2081470"
     },
     {
       "title": "Down The Rabbit Hole VR",
@@ -3536,7 +3632,8 @@
           "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=232",
           "kind": "direct"
         }
-      ]
+      ],
+      "steamAppId": "1577250"
     },
     {
       "title": "Age of Darkness",
@@ -3617,7 +3714,8 @@
           "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=67",
           "kind": "direct"
         }
-      ]
+      ],
+      "steamAppId": "515960"
     },
     {
       "title": "Thymesia",
@@ -3644,7 +3742,8 @@
           "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=167",
           "kind": "direct"
         }
-      ]
+      ],
+      "steamAppId": "1343240"
     },
     {
       "title": "In Sound Mind",
@@ -3671,7 +3770,8 @@
           "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=26",
           "kind": "direct"
         }
-      ]
+      ],
+      "steamAppId": "1119980"
     },
     {
       "title": "Moss Book II",
@@ -3725,7 +3825,8 @@
           "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=166",
           "kind": "direct"
         }
-      ]
+      ],
+      "steamAppId": "1414650"
     },
     {
       "title": "Frostpunk",
@@ -3752,7 +3853,8 @@
           "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=126",
           "kind": "direct"
         }
-      ]
+      ],
+      "steamAppId": "323190"
     },
     {
       "title": "Tales of Tomorrow: Experiment",
@@ -3779,7 +3881,8 @@
           "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=65",
           "kind": "direct"
         }
-      ]
+      ],
+      "steamAppId": "1189730"
     },
     {
       "title": "Draugen",
@@ -3806,7 +3909,8 @@
           "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=25",
           "kind": "direct"
         }
-      ]
+      ],
+      "steamAppId": "770390"
     },
     {
       "title": "The Ascent",
@@ -3833,7 +3937,8 @@
           "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=64",
           "kind": "direct"
         }
-      ]
+      ],
+      "steamAppId": "979690"
     },
     {
       "title": "Wolcen: Lords of Mayhem",
@@ -3860,7 +3965,8 @@
           "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=103",
           "kind": "direct"
         }
-      ]
+      ],
+      "steamAppId": "424370"
     },
     {
       "title": "Mutant Year Zero: Road to Eden",
@@ -3887,7 +3993,8 @@
           "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=92",
           "kind": "direct"
         }
-      ]
+      ],
+      "steamAppId": "760060"
     },
     {
       "title": "Good Company",
@@ -3914,7 +4021,8 @@
           "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=235",
           "kind": "direct"
         }
-      ]
+      ],
+      "steamAppId": "911430"
     },
     {
       "title": "Boneworks VR",
@@ -3989,7 +4097,8 @@
           "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=63",
           "kind": "direct"
         }
-      ]
+      ],
+      "steamAppId": "1153640"
     },
     {
       "title": "The Gunk",
@@ -4016,7 +4125,8 @@
           "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=22",
           "kind": "direct"
         }
-      ]
+      ],
+      "steamAppId": "1087760"
     },
     {
       "title": "Siege Survival: Gloria Victis",
@@ -4043,7 +4153,8 @@
           "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=150",
           "kind": "direct"
         }
-      ]
+      ],
+      "steamAppId": "1167140"
     },
     {
       "title": "XCOM: Enemy Unknown (2012)",
@@ -4070,7 +4181,8 @@
           "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=128",
           "kind": "direct"
         }
-      ]
+      ],
+      "steamAppId": "200510"
     },
     {
       "title": "Observation",
@@ -4151,7 +4263,8 @@
           "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=17",
           "kind": "direct"
         }
-      ]
+      ],
+      "steamAppId": "1104380"
     },
     {
       "title": "The Shore",
@@ -4178,7 +4291,8 @@
           "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=61",
           "kind": "direct"
         }
-      ]
+      ],
+      "steamAppId": "1297300"
     },
     {
       "title": "Breathedge",
@@ -4205,7 +4319,8 @@
           "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=105",
           "kind": "direct"
         }
-      ]
+      ],
+      "steamAppId": "738520"
     },
     {
       "title": "The Dark Pictures: House of Ashes",
@@ -4259,7 +4374,8 @@
           "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=162",
           "kind": "direct"
         }
-      ]
+      ],
+      "steamAppId": "985830"
     },
     {
       "title": "Twin Mirror",
@@ -4286,7 +4402,8 @@
           "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=161",
           "kind": "direct"
         }
-      ]
+      ],
+      "steamAppId": "1552810"
     },
     {
       "title": "Transient",
@@ -4340,7 +4457,8 @@
           "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=58",
           "kind": "direct"
         }
-      ]
+      ],
+      "steamAppId": "1159540"
     },
     {
       "title": "Blair Witch",
@@ -4367,7 +4485,8 @@
           "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=57",
           "kind": "direct"
         }
-      ]
+      ],
+      "steamAppId": "1092660"
     },
     {
       "title": "Observer",
@@ -4421,7 +4540,8 @@
           "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=261",
           "kind": "direct"
         }
-      ]
+      ],
+      "steamAppId": "1386900"
     },
     {
       "title": "The Descendant",
@@ -4448,7 +4568,8 @@
           "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=55",
           "kind": "direct"
         }
-      ]
+      ],
+      "steamAppId": "351940"
     },
     {
       "title": "Tacoma",
@@ -4475,7 +4596,8 @@
           "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=54",
           "kind": "direct"
         }
-      ]
+      ],
+      "steamAppId": "343860"
     },
     {
       "title": "Remothered: Broken Porcelain",
@@ -4502,7 +4624,8 @@
           "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=53",
           "kind": "direct"
         }
-      ]
+      ],
+      "steamAppId": "1142390"
     },
     {
       "title": "The Uncertain: Light At The End",
@@ -4529,7 +4652,8 @@
           "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=41",
           "kind": "direct"
         }
-      ]
+      ],
+      "steamAppId": "925570"
     },
     {
       "title": "The Uncertain: Last Quiet Day",
@@ -4556,7 +4680,8 @@
           "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=40",
           "kind": "direct"
         }
-      ]
+      ],
+      "steamAppId": "406970"
     },
     {
       "title": "Code Vein",
@@ -4583,7 +4708,8 @@
           "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=160",
           "kind": "direct"
         }
-      ]
+      ],
+      "steamAppId": "678960"
     },
     {
       "title": "The Medium",
@@ -4610,7 +4736,8 @@
           "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=38",
           "kind": "direct"
         }
-      ]
+      ],
+      "steamAppId": "1293160"
     },
     {
       "title": "Amnesia: Rebirth",
@@ -4637,7 +4764,8 @@
           "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=159",
           "kind": "direct"
         }
-      ]
+      ],
+      "steamAppId": "999220"
     },
     {
       "title": "Kona",
@@ -4664,7 +4792,8 @@
           "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=36",
           "kind": "direct"
         }
-      ]
+      ],
+      "steamAppId": "365160"
     },
     {
       "title": "Rimworld mody",
@@ -4712,7 +4841,8 @@
           "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=35",
           "kind": "direct"
         }
-      ]
+      ],
+      "steamAppId": "565120"
     },
     {
       "title": "Adr1ft",
@@ -4739,7 +4869,8 @@
           "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=34",
           "kind": "direct"
         }
-      ]
+      ],
+      "steamAppId": "300060"
     },
     {
       "title": "Song Of Horror",
@@ -4793,7 +4924,8 @@
           "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=31",
           "kind": "direct"
         }
-      ]
+      ],
+      "steamAppId": "842100"
     },
     {
       "title": "Kingdom Rush Vengeance",
@@ -4847,7 +4979,8 @@
           "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=91",
           "kind": "direct"
         }
-      ]
+      ],
+      "steamAppId": "633360"
     },
     {
       "title": "Invisible Inc.",
@@ -4874,7 +5007,8 @@
           "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=130",
           "kind": "direct"
         }
-      ]
+      ],
+      "steamAppId": "243970"
     },
     {
       "title": "Startup Company",
@@ -4901,7 +5035,8 @@
           "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=131",
           "kind": "direct"
         }
-      ]
+      ],
+      "steamAppId": "606800"
     },
     {
       "title": "The Beast Inside",
@@ -4928,7 +5063,8 @@
           "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=237",
           "kind": "direct"
         }
-      ]
+      ],
+      "steamAppId": "792300"
     },
     {
       "title": "Close to the Sun",
@@ -4955,7 +5091,8 @@
           "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=28",
           "kind": "direct"
         }
-      ]
+      ],
+      "steamAppId": "968870"
     },
     {
       "title": "Moons Of Madness",
@@ -4982,7 +5119,8 @@
           "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=18",
           "kind": "direct"
         }
-      ]
+      ],
+      "steamAppId": "1012840"
     },
     {
       "title": "Darksiders 3",
