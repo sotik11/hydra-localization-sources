@@ -1891,10 +1891,10 @@
       "language": "Magyar",
       "hasText": true,
       "hasVoice": false,
-      "version": "1.12",
-      "updatedAt": "31.03.2026",
-      "requiredGameVersion": "1.03.2",
-      "size": "95.2 MB",
+      "version": "1.13",
+      "updatedAt": "03.07.2026",
+      "requiredGameVersion": "1.03.3",
+      "size": "95.3 MB",
       "pageUrl": "https://magyaritasok.hu/games/elden-ring-nightreign",
       "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
       "authorsHtml": "<p>The_Reaper_CooL</p>",
@@ -1902,7 +1902,7 @@
       "mirrors": [
         {
           "label": "Magyarítások",
-          "url": "https://magyaritasok.hu/dl/EldenRing_Nightreign/ERNightreign_HUN_by_TRC_1.12.zip",
+          "url": "https://magyaritasok.hu/dl/EldenRing_Nightreign/ERNightreign_HUN_by_TRC_1.13.zip",
           "kind": "direct"
         }
       ]
@@ -4947,10 +4947,10 @@
       "language": "Magyar",
       "hasText": true,
       "hasVoice": false,
-      "version": "1.02",
-      "updatedAt": "04.12.2024",
-      "requiredGameVersion": "2.2.0-cs57553",
-      "size": "1.38 MB",
+      "version": "1.03",
+      "updatedAt": "01.07.2026",
+      "requiredGameVersion": "3.0.0-cs73341",
+      "size": "1.46 MB",
       "pageUrl": "https://magyaritasok.hu/games/blasphemous-ii",
       "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
       "authorsHtml": "<p>The_Reaper_CooL</p>",
@@ -4958,7 +4958,7 @@
       "mirrors": [
         {
           "label": "Magyarítások",
-          "url": "https://magyaritasok.hu/dl/Blasphemous2/Blasphemous2HUNbyTRC_1.02.zip",
+          "url": "https://magyaritasok.hu/dl/Blasphemous2/Blasphemous2HUNbyTRC_1.03.zip",
           "kind": "direct"
         }
       ]
@@ -9738,10 +9738,10 @@
       "language": "Magyar",
       "hasText": true,
       "hasVoice": false,
-      "version": "1.12",
-      "updatedAt": "14.10.2023",
+      "version": "1.14",
+      "updatedAt": "01.07.2026",
       "requiredGameVersion": "4.0.67 - DLC3",
-      "size": "1.83 MB",
+      "size": "1.10 MB",
       "pageUrl": "https://magyaritasok.hu/games/blasphemous",
       "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
       "authorsHtml": null,
@@ -9749,7 +9749,7 @@
       "mirrors": [
         {
           "label": "Magyarítások",
-          "url": "https://magyaritasok.hu/dl/Blasphemous/BlasphemousByTRC_1.12.zip",
+          "url": "https://magyaritasok.hu/dl/Blasphemous/BlasphemousByTRC_1.14.zip",
           "kind": "direct"
         }
       ]
@@ -29140,53 +29140,6 @@
         {
           "label": "Magyarítások",
           "url": "https://magyaritasok.hu/dl/thestanleyparable/TSPHU-v1.01.exe",
-          "kind": "direct"
-        }
-      ]
-    },
-    {
-      "steamAppId": "21980",
-      "title": "Call Of Juarez: Bound In Blood",
-      "studio": "Magyarítások",
-      "studioUrl": "https://magyaritasok.hu",
-      "language": "Magyar",
-      "hasText": true,
-      "hasVoice": false,
-      "version": null,
-      "updatedAt": "16.08.2015",
-      "requiredGameVersion": null,
-      "size": "9.17 MB",
-      "pageUrl": "https://magyaritasok.hu/games/call-of-juarez-bound-in-blood",
-      "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
-      "authorsHtml": "<p>GameHunter TEAM</p>",
-      "inDevelopment": false,
-      "mirrors": [
-        {
-          "label": "Magyarítások",
-          "url": "https://magyaritasok.hu/dl/callofuarez_boundinblood/cojbib_hun.exe",
-          "kind": "direct"
-        }
-      ]
-    },
-    {
-      "title": "Mass Effect 3",
-      "studio": "Magyarítások",
-      "studioUrl": "https://magyaritasok.hu",
-      "language": "Magyar",
-      "hasText": true,
-      "hasVoice": false,
-      "version": "1.1.0.1",
-      "updatedAt": "16.05.2021",
-      "requiredGameVersion": "1.5",
-      "size": "2.43 MB",
-      "pageUrl": "https://magyaritasok.hu/games/mass-effect-3",
-      "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
-      "authorsHtml": "<p>Panyi, Cyrus, Evin, Minigun, masseffect.hu</p>",
-      "inDevelopment": false,
-      "mirrors": [
-        {
-          "label": "Magyarítások",
-          "url": "https://magyaritasok.hu/dl/masseffect3/ME3_hun_1.1_setup.exe",
           "kind": "direct"
         }
       ]

@@ -5,6 +5,310 @@
   "siteUrl": "https://komunitni-preklady.org",
   "localizations": [
     {
+      "title": "7 Days to Die 3.0 CZ",
+      "studio": "Komunitní překlady",
+      "studioUrl": "https://komunitni-preklady.org/preklad/7-days-to-die-30-cz",
+      "language": "Čeština",
+      "hasText": false,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": true,
+      "version": "0.18",
+      "updatedAt": "03.07.2026",
+      "requiredGameVersion": "3.0",
+      "pageUrl": "https://komunitni-preklady.org/preklad/7-days-to-die-30-cz",
+      "howToInstallHtml": "<p>Každý překlad má vlastní postup instalace. Otevřete stránku překladu (tlačítko „Otevřít v prohlížeči“ níže) — najdete tam úplný návod k instalaci i tlačítko ke stažení.</p>",
+      "authorsHtml": "<p>GREG-RAY CZ</p>",
+      "size": "3.60 MB",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Komunitní překlady",
+          "url": "https://komunitni-preklady.org/download/853?sig=-Oh6W8VlvUlPVlPwkDYkAg",
+          "kind": "direct"
+        }
+      ]
+    },
+    {
+      "title": "Broken Arrow",
+      "studio": "Komunitní překlady",
+      "studioUrl": "https://komunitni-preklady.org/preklad/broken-arrow",
+      "language": "Čeština",
+      "hasText": false,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": true,
+      "version": "0.2",
+      "updatedAt": "03.07.2026",
+      "requiredGameVersion": "1.1.0.3",
+      "pageUrl": "https://komunitni-preklady.org/preklad/broken-arrow",
+      "howToInstallHtml": "<p>Každý překlad má vlastní postup instalace. Otevřete stránku překladu (tlačítko „Otevřít v prohlížeči“ níže) — najdete tam úplný návod k instalaci i tlačítko ke stažení.</p>",
+      "authorsHtml": "<p>Livi8D</p>",
+      "size": "2.70 MB",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Komunitní překlady",
+          "url": "https://komunitni-preklady.org/download/834?sig=AVOmOFcTnEGsj1zkEI5jUg",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "1604270"
+    },
+    {
+      "title": "Gothic 1 Remake CZ",
+      "studio": "Komunitní překlady",
+      "studioUrl": "https://komunitni-preklady.org/preklad/gothic-1-remake-cz",
+      "language": "Čeština",
+      "hasText": false,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": true,
+      "version": "0.35",
+      "updatedAt": "03.07.2026",
+      "requiredGameVersion": "1.0.3 / CL170287",
+      "pageUrl": "https://komunitni-preklady.org/preklad/gothic-1-remake-cz",
+      "howToInstallHtml": "<p>Každý překlad má vlastní postup instalace. Otevřete stránku překladu (tlačítko „Otevřít v prohlížeči“ níže) — najdete tam úplný návod k instalaci i tlačítko ke stažení.</p>",
+      "authorsHtml": "<p>Livi8D</p>",
+      "size": "35.5 MB",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Komunitní překlady",
+          "url": "https://komunitni-preklady.org/download/835?sig=Zd-ozK7Z_ltNdqszRlWCqg",
+          "kind": "direct"
+        }
+      ]
+    },
+    {
+      "title": "Into the Dead: Our Darkest Days",
+      "studio": "Komunitní překlady",
+      "studioUrl": "https://komunitni-preklady.org/preklad/into-the-dead-our-darkest-days",
+      "language": "Čeština",
+      "hasText": false,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": true,
+      "version": "0.2",
+      "updatedAt": "02.07.2026",
+      "requiredGameVersion": "0.14.1.19644.Early.Access",
+      "pageUrl": "https://komunitni-preklady.org/preklad/into-the-dead-our-darkest-days",
+      "howToInstallHtml": "<p>Každý překlad má vlastní postup instalace. Otevřete stránku překladu (tlačítko „Otevřít v prohlížeči“ níže) — najdete tam úplný návod k instalaci i tlačítko ke stažení.</p>",
+      "authorsHtml": "<p>Livi8D</p>",
+      "size": "262 KB",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Komunitní překlady",
+          "url": "https://komunitni-preklady.org/download/840?sig=jN7iiEdf9iqnps3DjhLevw",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "2239710"
+    },
+    {
+      "title": "Project Werewulf",
+      "studio": "Komunitní překlady",
+      "studioUrl": "https://komunitni-preklady.org/preklad/project-werewulf",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": "1.0",
+      "updatedAt": "02.07.2026",
+      "requiredGameVersion": "20.12.2025",
+      "pageUrl": "https://komunitni-preklady.org/preklad/project-werewulf",
+      "howToInstallHtml": "<p>Každý překlad má vlastní postup instalace. Otevřete stránku překladu (tlačítko „Otevřít v prohlížeči“ níže) — najdete tam úplný návod k instalaci i tlačítko ke stažení.</p>",
+      "authorsHtml": "<p>Ďáblorožec</p>",
+      "size": null,
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Komunitní překlady",
+          "url": "https://komunitni-preklady.org/go/247",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "2343900"
+    },
+    {
+      "title": "Wicked Island",
+      "studio": "Komunitní překlady",
+      "studioUrl": "https://komunitni-preklady.org/preklad/wicked-island",
+      "language": "Čeština",
+      "hasText": false,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": true,
+      "version": "0.17",
+      "updatedAt": "02.07.2026",
+      "requiredGameVersion": "02.07.2026",
+      "pageUrl": "https://komunitni-preklady.org/preklad/wicked-island",
+      "howToInstallHtml": "<p>Každý překlad má vlastní postup instalace. Otevřete stránku překladu (tlačítko „Otevřít v prohlížeči“ níže) — najdete tam úplný návod k instalaci i tlačítko ke stažení.</p>",
+      "authorsHtml": "<p>Ďáblorožec</p>",
+      "size": null,
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Komunitní překlady",
+          "url": "https://komunitni-preklady.org/go/250",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "1943730"
+    },
+    {
+      "title": "World of Warcraft Retail",
+      "studio": "Komunitní překlady",
+      "studioUrl": "https://komunitni-preklady.org/preklad/world-of-warcraft-retail",
+      "language": "Čeština",
+      "hasText": false,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": true,
+      "version": "0.54",
+      "updatedAt": "02.07.2026",
+      "requiredGameVersion": "World of Warcraft - Retail",
+      "pageUrl": "https://komunitni-preklady.org/preklad/world-of-warcraft-retail",
+      "howToInstallHtml": "<p>Každý překlad má vlastní postup instalace. Otevřete stránku překladu (tlačítko „Otevřít v prohlížeči“ níže) — najdete tam úplný návod k instalaci i tlačítko ke stažení.</p>",
+      "authorsHtml": "<p>Ďáblorožec</p>",
+      "size": "15.7 MB",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Komunitní překlady",
+          "url": "https://komunitni-preklady.org/download/507?sig=s2OeTKWHDf2BdSGdqC_wxQ",
+          "kind": "direct"
+        }
+      ]
+    },
+    {
+      "title": "Tourist Bus Simulator",
+      "studio": "Komunitní překlady",
+      "studioUrl": "https://komunitni-preklady.org/preklad/tourist-bus-simulator",
+      "language": "Čeština",
+      "hasText": false,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": true,
+      "version": "0.1",
+      "updatedAt": "01.07.2026",
+      "requiredGameVersion": "1.10.81093",
+      "pageUrl": "https://komunitni-preklady.org/preklad/tourist-bus-simulator",
+      "howToInstallHtml": "<p>Každý překlad má vlastní postup instalace. Otevřete stránku překladu (tlačítko „Otevřít v prohlížeči“ níže) — najdete tam úplný návod k instalaci i tlačítko ke stažení.</p>",
+      "authorsHtml": "<p>Darth Darkman</p>",
+      "size": "62 KB",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Komunitní překlady",
+          "url": "https://komunitni-preklady.org/download/852?sig=yvz418df1EN-9SMYB57hKg",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "953580"
+    },
+    {
+      "title": "Fernbus Simulator",
+      "studio": "Komunitní překlady",
+      "studioUrl": "https://komunitni-preklady.org/preklad/fernbus-simulator",
+      "language": "Čeština",
+      "hasText": false,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": true,
+      "version": "0.1",
+      "updatedAt": "01.07.2026",
+      "requiredGameVersion": "1.34.80547",
+      "pageUrl": "https://komunitni-preklady.org/preklad/fernbus-simulator",
+      "howToInstallHtml": "<p>Každý překlad má vlastní postup instalace. Otevřete stránku překladu (tlačítko „Otevřít v prohlížeči“ níže) — najdete tam úplný návod k instalaci i tlačítko ke stažení.</p>",
+      "authorsHtml": "<p>Darth Darkman</p>",
+      "size": "614 KB",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Komunitní překlady",
+          "url": "https://komunitni-preklady.org/download/851?sig=ZWj_hZ-Q8NFfdkpHogBjIA",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "427100"
+    },
+    {
+      "title": "Hearts of Iron 4",
+      "studio": "Komunitní překlady",
+      "studioUrl": "https://komunitni-preklady.org/preklad/hearts-of-iron-4",
+      "language": "Čeština",
+      "hasText": false,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": true,
+      "version": "v132",
+      "updatedAt": "01.07.2026",
+      "requiredGameVersion": null,
+      "pageUrl": "https://komunitni-preklady.org/preklad/hearts-of-iron-4",
+      "howToInstallHtml": "<p>Každý překlad má vlastní postup instalace. Otevřete stránku překladu (tlačítko „Otevřít v prohlížeči“ níže) — najdete tam úplný návod k instalaci i tlačítko ke stažení.</p>",
+      "authorsHtml": "<p>Paradox CZ/SK</p>",
+      "size": "4.70 MB",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Komunitní překlady",
+          "url": "https://komunitni-preklady.org/download/364?sig=sLjuSdFqDwcImZPc06TjEA",
+          "kind": "direct"
+        }
+      ]
+    },
+    {
+      "title": "Slay the Spire 2",
+      "studio": "Komunitní překlady",
+      "studioUrl": "https://komunitni-preklady.org/preklad/slay-the-spire-2",
+      "language": "Čeština",
+      "hasText": false,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": true,
+      "version": "1.0107.1",
+      "updatedAt": "01.07.2026",
+      "requiredGameVersion": "V.0107.1",
+      "pageUrl": "https://komunitni-preklady.org/preklad/slay-the-spire-2",
+      "howToInstallHtml": "<p>Každý překlad má vlastní postup instalace. Otevřete stránku překladu (tlačítko „Otevřít v prohlížeči“ níže) — najdete tam úplný návod k instalaci i tlačítko ke stažení.</p>",
+      "authorsHtml": "<p>Překlady z Masyafu</p>",
+      "size": "49.3 MB",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Komunitní překlady",
+          "url": "https://komunitni-preklady.org/download/761?sig=uWZaGC67YQNNJQhlXm2NCA",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "2868840"
+    },
+    {
       "title": "Vampire The Masquerade Bloodlines 2",
       "studio": "Komunitní překlady",
       "studioUrl": "https://komunitni-preklady.org/preklad/vampire-the-masquerade-bloodlines-2",
@@ -394,33 +698,6 @@
       "steamAppId": "3321460"
     },
     {
-      "title": "Gothic 1 Remake CZ",
-      "studio": "Komunitní překlady",
-      "studioUrl": "https://komunitni-preklady.org/preklad/gothic-1-remake-cz",
-      "language": "Čeština",
-      "hasText": false,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": true,
-      "version": "0.34",
-      "updatedAt": "24.06.2026",
-      "requiredGameVersion": "1.0 / CL169494",
-      "pageUrl": "https://komunitni-preklady.org/preklad/gothic-1-remake-cz",
-      "howToInstallHtml": "<p>Každý překlad má vlastní postup instalace. Otevřete stránku překladu (tlačítko „Otevřít v prohlížeči“ níže) — najdete tam úplný návod k instalaci i tlačítko ke stažení.</p>",
-      "authorsHtml": "<p>Livi8D</p>",
-      "size": "35.5 MB",
-      "inDevelopment": false,
-      "mirrors": [
-        {
-          "label": "Komunitní překlady",
-          "url": "https://komunitni-preklady.org/download/835?sig=Zd-ozK7Z_ltNdqszRlWCqg",
-          "kind": "direct"
-        }
-      ]
-    },
-    {
       "title": "Dragon\\u0027s Dogma 2",
       "studio": "Komunitní překlady",
       "studioUrl": "https://komunitni-preklady.org/preklad/dragons-dogma-2",
@@ -805,34 +1082,6 @@
       "steamAppId": "2427700"
     },
     {
-      "title": "Into the Dead: Our Darkest Days",
-      "studio": "Komunitní překlady",
-      "studioUrl": "https://komunitni-preklady.org/preklad/into-the-dead-our-darkest-days",
-      "language": "Čeština",
-      "hasText": false,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": true,
-      "version": "0.1",
-      "updatedAt": "17.06.2026",
-      "requiredGameVersion": "0.14.1.19644.Early.Access",
-      "pageUrl": "https://komunitni-preklady.org/preklad/into-the-dead-our-darkest-days",
-      "howToInstallHtml": "<p>Každý překlad má vlastní postup instalace. Otevřete stránku překladu (tlačítko „Otevřít v prohlížeči“ níže) — najdete tam úplný návod k instalaci i tlačítko ke stažení.</p>",
-      "authorsHtml": "<p>Livi8D</p>",
-      "size": "262 KB",
-      "inDevelopment": false,
-      "mirrors": [
-        {
-          "label": "Komunitní překlady",
-          "url": "https://komunitni-preklady.org/download/840?sig=jN7iiEdf9iqnps3DjhLevw",
-          "kind": "direct"
-        }
-      ],
-      "steamAppId": "2239710"
-    },
-    {
       "title": "Conan Exiles Enhanced",
       "studio": "Komunitní překlady",
       "studioUrl": "https://komunitni-preklady.org/preklad/conan-exiles-enhanced",
@@ -915,33 +1164,6 @@
         }
       ],
       "steamAppId": "666140"
-    },
-    {
-      "title": "Hearts of Iron 4",
-      "studio": "Komunitní překlady",
-      "studioUrl": "https://komunitni-preklady.org/preklad/hearts-of-iron-4",
-      "language": "Čeština",
-      "hasText": false,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": true,
-      "version": "v130",
-      "updatedAt": "14.06.2026",
-      "requiredGameVersion": null,
-      "pageUrl": "https://komunitni-preklady.org/preklad/hearts-of-iron-4",
-      "howToInstallHtml": "<p>Každý překlad má vlastní postup instalace. Otevřete stránku překladu (tlačítko „Otevřít v prohlížeči“ níže) — najdete tam úplný návod k instalaci i tlačítko ke stažení.</p>",
-      "authorsHtml": "<p>Paradox CZ/SK</p>",
-      "size": "4.70 MB",
-      "inDevelopment": false,
-      "mirrors": [
-        {
-          "label": "Komunitní překlady",
-          "url": "https://komunitni-preklady.org/download/364?sig=sLjuSdFqDwcImZPc06TjEA",
-          "kind": "direct"
-        }
-      ]
     },
     {
       "title": "1666: Amsterdam",
@@ -1138,34 +1360,6 @@
         }
       ],
       "steamAppId": "2953480"
-    },
-    {
-      "title": "Broken Arrow",
-      "studio": "Komunitní překlady",
-      "studioUrl": "https://komunitni-preklady.org/preklad/broken-arrow",
-      "language": "Čeština",
-      "hasText": false,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": true,
-      "version": "0.1",
-      "updatedAt": "11.06.2026",
-      "requiredGameVersion": "1.1.0.2",
-      "pageUrl": "https://komunitni-preklady.org/preklad/broken-arrow",
-      "howToInstallHtml": "<p>Každý překlad má vlastní postup instalace. Otevřete stránku překladu (tlačítko „Otevřít v prohlížeči“ níže) — najdete tam úplný návod k instalaci i tlačítko ke stažení.</p>",
-      "authorsHtml": "<p>Livi8D</p>",
-      "size": "2.70 MB",
-      "inDevelopment": false,
-      "mirrors": [
-        {
-          "label": "Komunitní překlady",
-          "url": "https://komunitni-preklady.org/download/834?sig=AVOmOFcTnEGsj1zkEI5jUg",
-          "kind": "direct"
-        }
-      ],
-      "steamAppId": "1604270"
     },
     {
       "title": "Palia",
@@ -1752,34 +1946,6 @@
         }
       ],
       "steamAppId": "1962700"
-    },
-    {
-      "title": "Slay the Spire 2",
-      "studio": "Komunitní překlady",
-      "studioUrl": "https://komunitni-preklady.org/preklad/slay-the-spire-2",
-      "language": "Čeština",
-      "hasText": false,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": true,
-      "version": "1.0103.3",
-      "updatedAt": "30.05.2026",
-      "requiredGameVersion": "V.0103.3",
-      "pageUrl": "https://komunitni-preklady.org/preklad/slay-the-spire-2",
-      "howToInstallHtml": "<p>Každý překlad má vlastní postup instalace. Otevřete stránku překladu (tlačítko „Otevřít v prohlížeči“ níže) — najdete tam úplný návod k instalaci i tlačítko ke stažení.</p>",
-      "authorsHtml": "<p>Překlady z Masyafu</p>",
-      "size": "49.2 MB",
-      "inDevelopment": false,
-      "mirrors": [
-        {
-          "label": "Komunitní překlady",
-          "url": "https://komunitni-preklady.org/download/761?sig=uWZaGC67YQNNJQhlXm2NCA",
-          "kind": "direct"
-        }
-      ],
-      "steamAppId": "2868840"
     },
     {
       "title": "Farmers Dynasty 2",
@@ -2551,33 +2717,6 @@
         }
       ],
       "steamAppId": "2432860"
-    },
-    {
-      "title": "World of Warcraft Retail",
-      "studio": "Komunitní překlady",
-      "studioUrl": "https://komunitni-preklady.org/preklad/world-of-warcraft-retail",
-      "language": "Čeština",
-      "hasText": false,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": true,
-      "version": "0.53",
-      "updatedAt": "24.04.2026",
-      "requiredGameVersion": "World of Warcraft - Retail",
-      "pageUrl": "https://komunitni-preklady.org/preklad/world-of-warcraft-retail",
-      "howToInstallHtml": "<p>Každý překlad má vlastní postup instalace. Otevřete stránku překladu (tlačítko „Otevřít v prohlížeči“ níže) — najdete tam úplný návod k instalaci i tlačítko ke stažení.</p>",
-      "authorsHtml": "<p>Ďáblorožec</p>",
-      "size": "15.6 MB",
-      "inDevelopment": false,
-      "mirrors": [
-        {
-          "label": "Komunitní překlady",
-          "url": "https://komunitni-preklady.org/download/507?sig=s2OeTKWHDf2BdSGdqC_wxQ",
-          "kind": "direct"
-        }
-      ]
     },
     {
       "title": "Seers Isle",
@@ -6463,34 +6602,6 @@
           "kind": "direct"
         }
       ]
-    },
-    {
-      "title": "Wicked Island",
-      "studio": "Komunitní překlady",
-      "studioUrl": "https://komunitni-preklady.org/preklad/wicked-island",
-      "language": "Čeština",
-      "hasText": false,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": true,
-      "version": "0.16",
-      "updatedAt": "03.02.2026",
-      "requiredGameVersion": "24.1.2025",
-      "pageUrl": "https://komunitni-preklady.org/preklad/wicked-island",
-      "howToInstallHtml": "<p>Každý překlad má vlastní postup instalace. Otevřete stránku překladu (tlačítko „Otevřít v prohlížeči“ níže) — najdete tam úplný návod k instalaci i tlačítko ke stažení.</p>",
-      "authorsHtml": "<p>Ďáblorožec</p>",
-      "size": "644 KB",
-      "inDevelopment": false,
-      "mirrors": [
-        {
-          "label": "Komunitní překlady",
-          "url": "https://komunitni-preklady.org/download/250?sig=7baQ5qrdm8jrHTyMSJEIOw",
-          "kind": "direct"
-        }
-      ],
-      "steamAppId": "1943730"
     },
     {
       "title": "Plane Accident",
@@ -11544,34 +11655,6 @@
       ]
     },
     {
-      "title": "Project Werewulf",
-      "studio": "Komunitní překlady",
-      "studioUrl": "https://komunitni-preklady.org/preklad/project-werewulf",
-      "language": "Čeština",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": "1",
-      "updatedAt": "23.12.2025",
-      "requiredGameVersion": "20.12.2025",
-      "pageUrl": "https://komunitni-preklady.org/preklad/project-werewulf",
-      "howToInstallHtml": "<p>Každý překlad má vlastní postup instalace. Otevřete stránku překladu (tlačítko „Otevřít v prohlížeči“ níže) — najdete tam úplný návod k instalaci i tlačítko ke stažení.</p>",
-      "authorsHtml": "<p>Ďáblorožec</p>",
-      "size": "176 KB",
-      "inDevelopment": false,
-      "mirrors": [
-        {
-          "label": "Komunitní překlady",
-          "url": "https://komunitni-preklady.org/download/247?sig=Hn19ayWymaK1tlYIfDKTxg",
-          "kind": "direct"
-        }
-      ],
-      "steamAppId": "2343900"
-    },
-    {
       "title": "Aviators",
       "studio": "Komunitní překlady",
       "studioUrl": "https://komunitni-preklady.org/preklad/aviators",
@@ -15428,11 +15511,11 @@
       "hasNeuralDub": false,
       "hasNeuralText": true,
       "version": null,
-      "updatedAt": "30.06.2026",
+      "updatedAt": "03.07.2026",
       "requiredGameVersion": null,
       "pageUrl": "https://komunitni-preklady.org/preklad/divinity-ii-dragon-knight-saga-",
       "howToInstallHtml": "<p>Každý překlad má vlastní postup instalace. Otevřete stránku překladu (tlačítko „Otevřít v prohlížeči“ níže) — najdete tam úplný návod k instalaci i tlačítko ke stažení.</p>",
-      "authorsHtml": "<p>Lokalizační penetrátor</p>",
+      "authorsHtml": "<p>GREG-RAY CZ</p>",
       "size": null,
       "inDevelopment": true,
       "mirrors": []
