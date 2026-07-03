@@ -115,34 +115,6 @@
       ]
     },
     {
-      "title": "Dragon's Dogma 2",
-      "studio": "SynthVoiceRu",
-      "studioUrl": "https://www.playground.ru/dragons_dogma_2/file/dragons_dogma_2_russkij_nejrodublyazh_synthvoiceru_29_11_25-1739190",
-      "authorsHtml": "<p>SynthVoiceRu</p>",
-      "language": "Русский",
-      "hasText": false,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralText": false,
-      "hasNeuralVoice": true,
-      "hasNeuralDub": true,
-      "version": null,
-      "size": "2.61 GB",
-      "updatedAt": null,
-      "pageUrl": "https://www.playground.ru/dragons_dogma_2/file/dragons_dogma_2_russkij_nejrodublyazh_synthvoiceru_29_11_25-1739190",
-      "howToInstallHtml": "<p>Нейроозвучка от <strong>SynthVoiceRu</strong>. Бесплатная версия — на странице PlayGround («Открыть в браузере» ниже), там же инструкция по установке. Поддержать авторов и получить официальную версию можно на их <a href=\"https://boosty.to/synthvoiceru/showcase\">Boosty</a>.</p>",
-      "inDevelopment": false,
-      "fileName": "SynthVoiceRu_DD2_DUB.exe",
-      "mirrors": [
-        {
-          "label": "Boosty (поддержать авторов)",
-          "url": "https://boosty.to/synthvoiceru/posts/fa5cd667-5cda-4eb3-aefd-1de0509f2da5",
-          "kind": "other"
-        }
-      ],
-      "steamAppId": "2054970"
-    },
-    {
       "title": "Starfield",
       "studio": "SynthVoiceRu",
       "studioUrl": "https://www.playground.ru/starfield/file/starfield_rusifikator_zvuka_nejrosetevoj_dublyazh_shattered_space_v18_05_2025_synthvoiceru-1725636",
@@ -169,6 +141,34 @@
         }
       ],
       "steamAppId": "1716740"
+    },
+    {
+      "title": "Dragon's Dogma 2",
+      "studio": "SynthVoiceRu",
+      "studioUrl": "https://www.playground.ru/dragons_dogma_2/file/dragons_dogma_2_russkij_nejrodublyazh_synthvoiceru_29_11_25-1739190",
+      "authorsHtml": "<p>SynthVoiceRu</p>",
+      "language": "Русский",
+      "hasText": false,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralText": false,
+      "hasNeuralVoice": true,
+      "hasNeuralDub": true,
+      "version": null,
+      "size": "2.61 GB",
+      "updatedAt": null,
+      "pageUrl": "https://www.playground.ru/dragons_dogma_2/file/dragons_dogma_2_russkij_nejrodublyazh_synthvoiceru_29_11_25-1739190",
+      "howToInstallHtml": "<p>Нейроозвучка от <strong>SynthVoiceRu</strong>. Бесплатная версия — на странице PlayGround («Открыть в браузере» ниже), там же инструкция по установке. Поддержать авторов и получить официальную версию можно на их <a href=\"https://boosty.to/synthvoiceru/showcase\">Boosty</a>.</p>",
+      "inDevelopment": false,
+      "fileName": "SynthVoiceRu_DD2_DUB.exe",
+      "mirrors": [
+        {
+          "label": "Boosty (поддержать авторов)",
+          "url": "https://boosty.to/synthvoiceru/posts/fa5cd667-5cda-4eb3-aefd-1de0509f2da5",
+          "kind": "other"
+        }
+      ],
+      "steamAppId": "2054970"
     },
     {
       "title": "Kingdom Come Deliverance",
