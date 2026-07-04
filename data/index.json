@@ -1,17 +1,66 @@
 [
-  { "file": "playground.json", "locale": "ru" },
-  { "file": "mvo.json", "locale": "ru" },
-  { "file": "synthvoiceru.json", "locale": "ru" },
-  { "file": "revoiceai.json", "locale": "ru" },
-  { "file": "kuli.json", "locale": "uk" },
-  { "file": "lbk.json", "locale": "uk" },
-  { "file": "lokalizace.json", "locale": "cs" },
-  { "file": "komunitni-preklady.json", "locale": "cs" },
-  { "file": "hernipreklady.json", "locale": "cs" },
-  { "file": "magyaritasok.json", "locale": "hu" },
-  { "file": "gpp.json", "locale": "pl" },
-  { "file": "tribogamer.json", "locale": "pt-BR" },
-  { "file": "turkce-yama.json", "locale": "tr" },
-  { "file": "calypsoceviri.json", "locale": "tr" },
-  { "file": "schote.json", "locale": "de" }
+  {
+    "file": "playground.json",
+    "locale": "ru"
+  },
+  {
+    "file": "mvo.json",
+    "locale": "ru"
+  },
+  {
+    "file": "synthvoiceru.json",
+    "locale": "ru"
+  },
+  {
+    "file": "revoiceai.json",
+    "locale": "ru"
+  },
+  {
+    "file": "kuli.json",
+    "locale": "uk"
+  },
+  {
+    "file": "lbk.json",
+    "locale": "uk"
+  },
+  {
+    "file": "lokalizace.json",
+    "locale": "cs"
+  },
+  {
+    "file": "komunitni-preklady.json",
+    "locale": "cs"
+  },
+  {
+    "file": "hernipreklady.json",
+    "locale": "cs"
+  },
+  {
+    "file": "magyaritasok.json",
+    "locale": "hu"
+  },
+  {
+    "file": "gpp.json",
+    "locale": "pl"
+  },
+  {
+    "file": "tribogamer.json",
+    "locale": "pt-BR"
+  },
+  {
+    "file": "turkce-yama.json",
+    "locale": "tr"
+  },
+  {
+    "file": "calypsoceviri.json",
+    "locale": "tr"
+  },
+  {
+    "file": "schote.json",
+    "locale": "de"
+  },
+  {
+    "file": "traductionjeux.json",
+    "locale": "fr"
+  }
 ]
