@@ -31,12 +31,11 @@ const CATALOGUE_URL = `${SITE}/archiv-sprachdateien-deutschpatches`;
 
 const STUDIO = "schote.biz";
 const LANGUAGE = "Deutsch";
-const ARCHIVE_PASSWORD = "www.schote.biz";
 
 const HOW_TO_INSTALL = [
   `<p>Jeder Deutschpatch von schote.biz hat eine eigene Installationsanleitung — `,
   `öffne die Spielseite (Button „Im Browser öffnen" unten) und folge den Schritten dort. `,
-  `Das Archiv ist mit dem Passwort <code>${ARCHIVE_PASSWORD}</code> geschützt.</p>`,
+  `Wenn das Archiv passwortgeschützt ist, wird das Passwort oberhalb der Downloads angezeigt.</p>`,
 ].join("");
 
 const strip = (s) =>
@@ -48,6 +47,20 @@ const strip = (s) =>
     .replace(/&#039;|&apos;/g, "'")
     .replace(/\s+/g, " ")
     .trim();
+
+// schote uses "-", "–", empty, "kein Passwort" for unprotected files. Some rows
+// also stuff the password column with a comment instead of a password ("Nur
+// Anleitung", "Part 1", "Link zum Discord", "Hoster: usersdrive"). Since real
+// schote passwords are always a single word (usually a domain), we treat any
+// value with whitespace as commentary and drop it.
+const normalizePassword = (raw) => {
+  const s = strip(raw);
+  if (!s) return null;
+  if (/^[-–—]+$/.test(s)) return null;
+  if (/\s/.test(s)) return null;
+  if (/^(kein|keine|keins|none|no)$/i.test(s)) return null;
+  return s;
+};
 
 /* ----------------------------- catalogue index ---------------------------- */
 
@@ -125,7 +138,7 @@ function parsePacks(html) {
         url: r[1].trim(),
         siteLabel: strip(labelHtml),
         size: strip(r[3]),
-        password: strip(r[4]),
+        password: normalizePassword(r[4]),
       });
     }
 
@@ -169,9 +182,10 @@ function buildEntries(slug, html) {
   for (const pack of packs) {
     if (!pack.rows.length) continue;
 
-    // Pack's own archive password — schote uses the same one everywhere, but
-    // we honour whatever the page says in case that changes for some entry.
-    const password = pack.rows.find((r) => r.password)?.password || ARCHIVE_PASSWORD;
+    // Pack's archive password comes straight from the site — no fallback: if the
+    // "Passwort" column says the file isn't protected, we leave the field null so
+    // the modal doesn't render a password row for it.
+    const password = pack.rows.find((r) => r.password)?.password || null;
 
     // Aggregate size: schote lists a size per mirror row, but they mirror the
     // same archive, so any row's size works. Prefer the first non-empty one.
