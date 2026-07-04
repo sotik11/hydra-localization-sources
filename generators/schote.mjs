@@ -107,12 +107,26 @@ function parsePacks(html) {
       tailHtml.match(/Geeignet\s+f(?:&uuml;|ü)r:\s*([^<\n]+?)\s*(?=<|$)/i) || []
     )[1];
 
-    // Each mirror row: <td><a class="download-expand__file-download" href="URL"...>
-    // ...<td>size</td><td align="right">password</td>
-    const RE_ROW = /<a\s+class="download-expand__file-download"\s+href="([^"]+)"[\s\S]*?<\/a>\s*<\/td>\s*<td[^>]*>([^<]*)<\/td>\s*<td[^>]*>([^<]*)<\/td>/g;
+    // Each mirror row: <td><a class="download-expand__file-download" href="URL">
+    //   <span class="material-icons">download_for_offline</span>LABEL</a></td>
+    //   <td>size</td><td align="right">password</td>
+    // The href often points at filecrypt.cc (a container), but the visible LABEL is
+    // the real hoster (Rapidgator / 4shared / Turbobit) — keep that as the mirror name.
+    const RE_ROW = /<a\s+class="download-expand__file-download"\s+href="([^"]+)"[^>]*>([\s\S]*?)<\/a>\s*<\/td>\s*<td[^>]*>([^<]*)<\/td>\s*<td[^>]*>([^<]*)<\/td>/g;
     const rows = [];
     for (const r of body.matchAll(RE_ROW)) {
-      rows.push({ url: r[1].trim(), size: strip(r[2]), password: strip(r[3]) });
+      // Strip the material-icons <span> first — its inner text is the icon name
+      // ("download_for_offline"), not something we want in the mirror label.
+      const labelHtml = r[2].replace(
+        /<span[^>]*material-icons[^>]*>[\s\S]*?<\/span>/gi,
+        ""
+      );
+      rows.push({
+        url: r[1].trim(),
+        siteLabel: strip(labelHtml),
+        size: strip(r[3]),
+        password: strip(r[4]),
+      });
     }
 
     packs.push({
@@ -165,11 +179,12 @@ function buildEntries(slug, html) {
 
     const mirrors = [];
     for (const row of pack.rows) {
+      const label = row.siteLabel || hosterFromUrl(row.url);
       const direct = pixeldrainDirect(row.url);
       if (direct) {
-        mirrors.push({ label: hosterFromUrl(row.url), url: direct, kind: "direct" });
+        mirrors.push({ label, url: direct, kind: "direct" });
       } else {
-        mirrors.push({ label: hosterFromUrl(row.url), url: row.url, kind: "other" });
+        mirrors.push({ label, url: row.url, kind: "other" });
       }
     }
 
