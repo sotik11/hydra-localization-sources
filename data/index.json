@@ -62,5 +62,9 @@
   {
     "file": "traductionjeux.json",
     "locale": "fr"
+  },
+  {
+    "file": "ctrltrad.json",
+    "locale": "it"
   }
 ]
