@@ -298,33 +298,6 @@
       "steamAppId": "298110"
     },
     {
-      "title": "The Witcher 3: Wild Hunt",
-      "studio": "Türkçe Yama",
-      "studioUrl": "https://turkce-yama.com/the-witcher-3-wild-hunt-turkce-yama.htm",
-      "language": "Türkçe",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": null,
-      "updatedAt": "17.03.2018",
-      "pageUrl": "https://turkce-yama.com/the-witcher-3-wild-hunt-turkce-yama.htm",
-      "howToInstallHtml": "<ol><li>Yama dosyasını yukarıdaki «İndir» butonuyla indirin.</li><li>Kurulum dosyasıysa (.exe) çalıştırın; arşivse (.rar/.zip) çıkartın.</li><li>Oyunun kurulu olduğu klasörü gösterin / dosyaları oraya kopyalayın.</li><li>Oyunu başlatın — Türkçe yama uygulanmış olacaktır.</li></ol>",
-      "authorsHtml": null,
-      "size": "45.6 MB",
-      "inDevelopment": false,
-      "mirrors": [
-        {
-          "label": "Türkçe Yama",
-          "url": "https://turkce-yama.com/the-witcher-3-wild-hunt-turkce-yama.htm",
-          "kind": "other"
-        }
-      ],
-      "steamAppId": "292030"
-    },
-    {
       "title": "Far Cry 3",
       "studio": "Türkçe Yama",
       "studioUrl": "https://turkce-yama.com/far-cry-3-turkce-yama.htm",
@@ -377,6 +350,32 @@
         }
       ],
       "steamAppId": "371660"
+    },
+    {
+      "title": "Mafia 2",
+      "studio": "Türkçe Yama",
+      "studioUrl": "https://turkce-yama.com/mafia-2-turkce-yama.htm",
+      "language": "Türkçe",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": null,
+      "updatedAt": "21.04.2014",
+      "pageUrl": "https://turkce-yama.com/mafia-2-turkce-yama.htm",
+      "howToInstallHtml": "<ol><li>Yama dosyasını yukarıdaki «İndir» butonuyla indirin.</li><li>Kurulum dosyasıysa (.exe) çalıştırın; arşivse (.rar/.zip) çıkartın.</li><li>Oyunun kurulu olduğu klasörü gösterin / dosyaları oraya kopyalayın.</li><li>Oyunu başlatın — Türkçe yama uygulanmış olacaktır.</li></ol>",
+      "authorsHtml": "<p>OyunÇeviri ve BSC</p>",
+      "size": "21.9 MB",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Türkçe Yama",
+          "url": "https://turkce-yama.com/mafia-2-turkce-yama.htm",
+          "kind": "other"
+        }
+      ]
     },
     {
       "title": "Battlefield 4",
@@ -433,32 +432,6 @@
       "steamAppId": "391540"
     },
     {
-      "title": "Grand Theft Auto: San Andreas",
-      "studio": "Türkçe Yama",
-      "studioUrl": "https://turkce-yama.com/grand-theft-auto-san-andreas-turkce-yama.htm",
-      "language": "Türkçe",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": null,
-      "updatedAt": "21.04.2014",
-      "pageUrl": "https://turkce-yama.com/grand-theft-auto-san-andreas-turkce-yama.htm",
-      "howToInstallHtml": "<ol><li>Yama dosyasını yukarıdaki «İndir» butonuyla indirin.</li><li>Kurulum dosyasıysa (.exe) çalıştırın; arşivse (.rar/.zip) çıkartın.</li><li>Oyunun kurulu olduğu klasörü gösterin / dosyaları oraya kopyalayın.</li><li>Oyunu başlatın — Türkçe yama uygulanmış olacaktır.</li></ol>",
-      "authorsHtml": "<p>Gta Bullet</p>",
-      "size": "589 KB",
-      "inDevelopment": false,
-      "mirrors": [
-        {
-          "label": "Türkçe Yama",
-          "url": "https://turkce-yama.com/grand-theft-auto-san-andreas-turkce-yama.htm",
-          "kind": "other"
-        }
-      ]
-    },
-    {
       "title": "Shadow of the Tomb Raider",
       "studio": "Türkçe Yama",
       "studioUrl": "https://turkce-yama.com/shadow-of-the-tomb-raider-turkce-yama.htm",
@@ -485,9 +458,9 @@
       ]
     },
     {
-      "title": "Mafia 2",
+      "title": "The Witcher 3: Wild Hunt",
       "studio": "Türkçe Yama",
-      "studioUrl": "https://turkce-yama.com/mafia-2-turkce-yama.htm",
+      "studioUrl": "https://turkce-yama.com/the-witcher-3-wild-hunt-turkce-yama.htm",
       "language": "Türkçe",
       "hasText": true,
       "hasVoice": false,
@@ -496,19 +469,20 @@
       "hasNeuralDub": false,
       "hasNeuralText": false,
       "version": null,
-      "updatedAt": "21.04.2014",
-      "pageUrl": "https://turkce-yama.com/mafia-2-turkce-yama.htm",
+      "updatedAt": "17.03.2018",
+      "pageUrl": "https://turkce-yama.com/the-witcher-3-wild-hunt-turkce-yama.htm",
       "howToInstallHtml": "<ol><li>Yama dosyasını yukarıdaki «İndir» butonuyla indirin.</li><li>Kurulum dosyasıysa (.exe) çalıştırın; arşivse (.rar/.zip) çıkartın.</li><li>Oyunun kurulu olduğu klasörü gösterin / dosyaları oraya kopyalayın.</li><li>Oyunu başlatın — Türkçe yama uygulanmış olacaktır.</li></ol>",
-      "authorsHtml": "<p>OyunÇeviri ve BSC</p>",
-      "size": "21.9 MB",
+      "authorsHtml": null,
+      "size": "45.6 MB",
       "inDevelopment": false,
       "mirrors": [
         {
           "label": "Türkçe Yama",
-          "url": "https://turkce-yama.com/mafia-2-turkce-yama.htm",
+          "url": "https://turkce-yama.com/the-witcher-3-wild-hunt-turkce-yama.htm",
           "kind": "other"
         }
-      ]
+      ],
+      "steamAppId": "292030"
     },
     {
       "title": "Pro Evolution Soccer 2013",
@@ -16488,6 +16462,32 @@
         }
       ],
       "steamAppId": "42700"
+    },
+    {
+      "title": "Grand Theft Auto: San Andreas",
+      "studio": "Türkçe Yama",
+      "studioUrl": "https://turkce-yama.com/grand-theft-auto-san-andreas-turkce-yama.htm",
+      "language": "Türkçe",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": null,
+      "updatedAt": "21.04.2014",
+      "pageUrl": "https://turkce-yama.com/grand-theft-auto-san-andreas-turkce-yama.htm",
+      "howToInstallHtml": "<ol><li>Yama dosyasını yukarıdaki «İndir» butonuyla indirin.</li><li>Kurulum dosyasıysa (.exe) çalıştırın; arşivse (.rar/.zip) çıkartın.</li><li>Oyunun kurulu olduğu klasörü gösterin / dosyaları oraya kopyalayın.</li><li>Oyunu başlatın — Türkçe yama uygulanmış olacaktır.</li></ol>",
+      "authorsHtml": "<p>Gta Bullet</p>",
+      "size": "589 KB",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Türkçe Yama",
+          "url": "https://turkce-yama.com/grand-theft-auto-san-andreas-turkce-yama.htm",
+          "kind": "other"
+        }
+      ]
     },
     {
       "title": "Half Life 2: Episode One",

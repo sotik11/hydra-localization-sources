@@ -13108,59 +13108,6 @@
       ]
     },
     {
-      "title": "7 Days to Die",
-      "studio": "Lokalizace.net",
-      "studioUrl": "https://lokalizace.net/localizations/7-days-to-die",
-      "language": "Čeština",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": "verze 0.03 pro 2.2",
-      "updatedAt": "09.08.2025",
-      "pageUrl": "https://lokalizace.net/localizations/7-days-to-die",
-      "howToInstallHtml": "<p>Stáhněte ZIP soubor a rozbalte ho do složky hry, nebo použijte aplikaci CZManager pro automatickou instalaci češtiny.</p>",
-      "changelogHtml": null,
-      "authorsHtml": "<p>Tuax</p>",
-      "size": "1.50 MB",
-      "inDevelopment": false,
-      "mirrors": [
-        {
-          "label": "Lokalizace.net",
-          "url": "https://lokalizace.net/api/download/968",
-          "kind": "direct"
-        },
-        {
-          "label": "Версия verze 0.02 pro 2.1",
-          "url": "https://lokalizace.net/api/download/937",
-          "kind": "other"
-        },
-        {
-          "label": "Версия erze 0.02 pro 2.1",
-          "url": "https://lokalizace.net/api/download/936",
-          "kind": "other"
-        },
-        {
-          "label": "Версия verze 0.01 pro verzi hry 2.0",
-          "url": "https://lokalizace.net/api/download/930",
-          "kind": "other"
-        },
-        {
-          "label": "Версия v0.13 pro verze hry 1.2 b333+",
-          "url": "https://lokalizace.net/api/download/605",
-          "kind": "other"
-        },
-        {
-          "label": "Версия 0.12 pro verze hry 1.0 B333+",
-          "url": "https://lokalizace.net/api/download/334",
-          "kind": "other"
-        }
-      ],
-      "steamAppId": "251570"
-    },
-    {
       "title": "Star Wars Outlaws",
       "studio": "Lokalizace.net",
       "studioUrl": "https://lokalizace.net/localizations/star-wars-outlaws",

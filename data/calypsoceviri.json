@@ -258,8 +258,8 @@
       "hasNeuralVoice": false,
       "hasNeuralDub": false,
       "hasNeuralText": false,
-      "version": "3",
-      "updatedAt": "23.06.2026",
+      "version": "4",
+      "updatedAt": "04.07.2026",
       "pageUrl": "https://www.calypsoceviri.com/turkce-yamalar/gothic-1-remake-t%C3%BCrk%C3%A7e-yama",
       "howToInstallHtml": "<div>Aşağıda vermiş olduğumuz linkten indirdiğiniz Rar dosyasındaki Türkçe Yama exesini, oyunun kurulu olduğu ana dosya konumuna atarak, Türkçe yama exesini çalıştırın. Oyunun ana dosya konumunun seçili olduğunu kontrol ettikten sonra, hangi platformdan oynuyorsanız, o platformun yükle butonuna basarak yamayı yükleyebilirsiniz. <br><br>Yamayı kaldırmak için oyunun dosya konumundaki \"Gothic1Remake_YamaKaldır.exe\"'sini çalıştırabilirsiniz.</div>",
       "authorsHtml": "<p>VolkTyson, CrimsonSwift, Indra, N.</p>",
@@ -268,7 +268,7 @@
       "mirrors": [
         {
           "label": "Calypso Çeviri",
-          "url": "https://www.calypsoceviri.com/_files/archives/7d262d_af2015cc676c453c9329688fb5b9e445.rar?dn=Gothic%25201%2520Remake%2520T%25C3%25BCrk%25C3%25A7e%2520Yama%2520V3.rar",
+          "url": "https://www.calypsoceviri.com/_files/archives/7d262d_a26218861bb3422490f62b62acf08d47.rar?dn=Gothic%25201%2520Remake%2520T%25C3%25BCrk%25C3%25A7e%2520Yama%2520V4.rar",
           "kind": "direct"
         }
       ],
@@ -771,7 +771,7 @@
       "version": "1",
       "updatedAt": "23.06.2026",
       "pageUrl": "https://www.calypsoceviri.com/turkce-yamalar/little-nightmares-2-turkce-yama-indir",
-      "howToInstallHtml": "<div>Aşağıda vermiş olduğumuz linkten indirdiğiniz Rar dosyasındaki Türkçe Yama exesini, oyunun kurulu olduğu ana dosya konumuna atarak, Türkçe yama exesini çalıştırın. Oyunun ana dosya konumunun seçili olduğunu kontrol ettikten sonra, hangi platformdan oynuyorsanız, o platformun yükle butonuna basarak yamayı yükleyebilirsiniz. <br><br>Yamayı kaldırmak için oyunun dosya konumundaki \"LittleNightmare2_YamaKaldır.exe\"'sini çalıştırarak kaldırabilirsiniz.</div>",
+      "howToInstallHtml": "<div>Aşağıda vermiş olduğumuz linkten indirdiğiniz Rar dosyasındaki Türkçe Yama exesini, oyunun kurulu olduğu ana dosya konumuna atarak, Türkçe yama exesini çalıştır\u0000ın. Oyunun ana dosya konumunun seçili olduğunu kontrol ettikten sonra, hangi platformdan oynuyorsanız, o platformun yükle butonuna basarak yamayı yükleyebilirsiniz. <br><br>Yamayı kaldırmak için oyunun dosya konumundaki \"LittleNightmare2_YamaKaldır.exe\"'sini çalıştırarak kaldırabilirsiniz.</div>",
       "authorsHtml": "<p>CrimsonSwift</p>",
       "size": "3.37 MB",
       "inDevelopment": false,
@@ -2101,17 +2101,17 @@
       "hasNeuralVoice": false,
       "hasNeuralDub": false,
       "hasNeuralText": false,
-      "version": "5",
-      "updatedAt": "23.06.2026",
+      "version": "6",
+      "updatedAt": "04.07.2026",
       "pageUrl": "https://www.calypsoceviri.com/turkce-yamalar/the-last-caretaker-turkce-yama-indir",
       "howToInstallHtml": "<div>Aşağıda vermiş olduğumuz linkten indirdiğiniz Rar dosyasındaki Türkçe Yama exesini, oyunun kurulu olduğu ana dosya konumuna atarak, Türkçe yama exesini çalıştırın. Oyunun ana dosya konumunun seçili olduğunu kontrol ettikten sonra, hangi platformdan oynuyorsanız, o platformun yükle butonuna basarak yamayı yükleyebilirsiniz.<br><br>Yamayı kaldırmak için oyunun dosya konumundaki TheLastCaretaker_YamaKaldır.exe'sinden kaldırabilirsin.</div>",
       "authorsHtml": "<p>VolkTyson, HndGames</p>",
-      "size": "3.92 MB",
+      "size": "3.98 MB",
       "inDevelopment": false,
       "mirrors": [
         {
           "label": "Calypso Çeviri",
-          "url": "https://www.calypsoceviri.com/_files/archives/7d262d_98cedd9578a4448599c5d870633c48b1.rar?dn=The%2520Last%2520Caretaker%2520T%25C3%25BCrk%25C3%25A7e%2520Yama%2520V5.rar",
+          "url": "https://www.calypsoceviri.com/_files/archives/7d262d_fc46495b9311483bb201113910090685.rar?dn=The%2520Last%2520Caretaker%2520T%25C3%25BCrk%25C3%25A7e%2520Yama%2520V6.rar",
           "kind": "direct"
         }
       ],
@@ -6551,7 +6551,7 @@
       "steamAppId": "2840770"
     },
     {
-      "title": "Atomic Heart",
+      "title": "Atomic Heart Full DLC",
       "studio": "Calypso Çeviri",
       "studioUrl": "https://www.calypsoceviri.com",
       "language": "Türkçe",
@@ -6561,21 +6561,20 @@
       "hasNeuralVoice": false,
       "hasNeuralDub": false,
       "hasNeuralText": false,
-      "version": null,
-      "updatedAt": "23.06.2026",
+      "version": "2",
+      "updatedAt": "04.07.2026",
       "pageUrl": "https://www.calypsoceviri.com/turkce-yamalar/atomic-heart-turkce-yama-indir",
       "howToInstallHtml": "<div>Aşağıda vermiş olduğumuz linkten indirdiğiniz Rar dosyasındaki Türkçe Yama exesini, oyunun kurulu olduğu ana dosya konumuna atarak, Türkçe yama exesini çalıştırın. Oyunun ana dosya konumunun seçili olduğunu kontrol ettikten sonra, hangi platformdan oynuyorsanız, o platformun yükle butonuna basarak yamayı yükleyebilirsiniz.<br><br>Yamayı kaldırmak için dosya konumundaki AtomicHeart_YamaKaldir.exe den yamayı kaldırabilirsiniz.</div>",
-      "authorsHtml": "<p>VolkTyson</p>",
-      "size": "2.14 MB",
+      "authorsHtml": "<p>VolkTyson, CrimsonSwift</p>",
+      "size": "4.28 MB",
       "inDevelopment": false,
       "mirrors": [
         {
           "label": "Calypso Çeviri",
-          "url": "https://www.calypsoceviri.com/_files/archives/7d262d_b7279bb4bbf34c56af34ab26abb1e632.rar?dn=Atomic%2520Heart%2520T%25C3%25BCrk%25C3%25A7e%2520Yama.rar",
+          "url": "https://www.calypsoceviri.com/_files/archives/7d262d_17050bfea4fb4a0892c882be778adbcf.rar?dn=Atomic%2520Heart%2520T%25C3%25BCrk%25C3%25A7e%2520Yama%2520V2.rar",
           "kind": "direct"
         }
-      ],
-      "steamAppId": "668580"
+      ]
     },
     {
       "title": "Atomfall",

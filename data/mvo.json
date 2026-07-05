@@ -2790,6 +2790,22 @@
       "pageUrl": "https://rgmvo.ru/game/007-first-light/",
       "inDevelopment": true,
       "mirrors": []
+    },
+    {
+      "steamAppId": "3094480",
+      "title": "Bad Cheese",
+      "studio": "Mechanics VoiceOver",
+      "studioUrl": "https://rgmvo.ru",
+      "language": "Русский",
+      "hasVoice": true,
+      "hasText": false,
+      "version": null,
+      "updatedAt": null,
+      "requiredGameVersion": null,
+      "howToInstallHtml": "<p><strong>Установка:</strong></p><p>Следуйте инструкциям инсталлятора. Установка полностью автоматическая.</p><br><p><strong>Удаление:</strong></p><p>Зайдите в директорию Install_Rus_Snd и запустите файл unins***.exe.</p>",
+      "pageUrl": "https://rgmvo.ru/game/bad-cheese/",
+      "inDevelopment": true,
+      "mirrors": []
     }
   ]
 }
