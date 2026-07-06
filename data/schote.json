@@ -1415,7 +1415,8 @@
           "url": "https://pixeldrain.com/api/file/sdUeENYN?download",
           "kind": "direct"
         }
-      ]
+      ],
+      "steamAppId": "1281630"
     },
     {
       "title": "Anno 1404 - Venedig",
@@ -1473,7 +1474,8 @@
           "url": "https://pixeldrain.com/api/file/yHhVP76T?download",
           "kind": "direct"
         }
-      ]
+      ],
+      "steamAppId": "2820110"
     },
     {
       "title": "Anno 1701",
@@ -1502,7 +1504,8 @@
           "url": "https://pixeldrain.com/api/file/y6DB1M44?download",
           "kind": "direct"
         }
-      ]
+      ],
+      "steamAppId": "2820140"
     },
     {
       "title": "Anno 2070",
@@ -2040,7 +2043,7 @@
           "kind": "other"
         }
       ],
-      "steamAppId": "3159330"
+      "steamAppId": "15100"
     },
     {
       "title": "Assassin's Creed 2",
@@ -2159,8 +2162,7 @@
           "url": "https://pixeldrain.com/api/file/cKf6ArMU?download",
           "kind": "direct"
         }
-      ],
-      "steamAppId": "911400"
+      ]
     },
     {
       "title": "Assassin's Creed 4 - Black Flag",
@@ -2597,7 +2599,8 @@
           "url": "https://pixeldrain.com/api/file/h6Ggdo3o?download",
           "kind": "direct"
         }
-      ]
+      ],
+      "steamAppId": "1086940"
     },
     {
       "title": "Baldurs Gate 3",
@@ -2626,7 +2629,8 @@
           "url": "https://steamcommunity.com/app/1086940/discussions/0/600777838736477659/",
           "kind": "other"
         }
-      ]
+      ],
+      "steamAppId": "1086940"
     },
     {
       "title": "Baldurs Gate: Enhanced Edition",
@@ -4139,7 +4143,8 @@
           "url": "https://pixeldrain.com/api/file/fcq9g5mW?download",
           "kind": "direct"
         }
-      ]
+      ],
+      "steamAppId": "313500"
     },
     {
       "title": "Blood Omen 2: Legacy of Kain",
@@ -4232,7 +4237,8 @@
           "url": "https://www.filecrypt.cc/Container/5FD9A31DDC.html",
           "kind": "other"
         }
-      ]
+      ],
+      "steamAppId": "1373510"
     },
     {
       "title": "BloodRayne",
@@ -4261,7 +4267,8 @@
           "url": "https://rapidgator.net/file/1de05bfa835459881d6a0e76d050627e/Blood_Rayne_%5BGerman_Mod%5D_-_Schote.biz.rar.html",
           "kind": "other"
         }
-      ]
+      ],
+      "steamAppId": "1373510"
     },
     {
       "title": "BloodRayne 2: Terminal Cut",
@@ -8574,17 +8581,12 @@
       "authorsHtml": null,
       "size": "8.00 MB",
       "inDevelopment": false,
-      "archivePassword": "www.schote.biz",
+      "archivePassword": null,
       "mirrors": [
         {
-          "label": "KatFile",
-          "url": "https://www.filecrypt.cc/Container/B2C309207D.html",
-          "kind": "other"
-        },
-        {
-          "label": "Rapidgator",
-          "url": "https://www.filecrypt.cc/Container/408C8526C4.html",
-          "kind": "other"
+          "label": "pixeldrain",
+          "url": "https://pixeldrain.com/api/file/FR2BbyhE?download",
+          "kind": "direct"
         }
       ],
       "steamAppId": "245470"
@@ -9110,7 +9112,8 @@
           "url": "https://www.filecrypt.cc/Container/72CD198BA6.html",
           "kind": "other"
         }
-      ]
+      ],
+      "steamAppId": "6910"
     },
     {
       "title": "Deus Ex",
@@ -9139,7 +9142,8 @@
           "url": "https://www.compiware-forum.de/downloads/file/522-deus-ex-game-of-the-year-edition-german-patch",
           "kind": "other"
         }
-      ]
+      ],
+      "steamAppId": "6910"
     },
     {
       "title": "Deus Ex: Human Revolution",
@@ -9273,7 +9277,8 @@
           "url": "https://www.filecrypt.cc/Container/AF015BD170.html",
           "kind": "other"
         }
-      ]
+      ],
+      "steamAppId": "631510"
     },
     {
       "title": "Diablo",
@@ -10410,8 +10415,7 @@
           "url": "https://pixeldrain.com/api/file/inLT7d5Q?download",
           "kind": "direct"
         }
-      ],
-      "steamAppId": "1066400"
+      ]
     },
     {
       "title": "Dont Starve",
@@ -10559,7 +10563,8 @@
           "url": "https://pixeldrain.com/api/file/PFayhEPk?download",
           "kind": "direct"
         }
-      ]
+      ],
+      "steamAppId": "1238040"
     },
     {
       "title": "Dragon Age Inquisition",
@@ -10648,7 +10653,8 @@
           "url": "https://pixeldrain.com/api/file/gARzj69c?download",
           "kind": "direct"
         }
-      ]
+      ],
+      "steamAppId": "47810"
     },
     {
       "title": "Dragon Age Origins",
@@ -10677,7 +10683,8 @@
           "url": "https://pixeldrain.com/api/file/6J586Dmo?download",
           "kind": "direct"
         }
-      ]
+      ],
+      "steamAppId": "47810"
     },
     {
       "title": "Drakan: Order of the Flame",
@@ -11845,7 +11852,8 @@
           "url": "http://uploaded.net/file/i9hvpl7o/Empire%20Earth%20-%20Deutsche%20Texte.rar",
           "kind": "other"
         }
-      ]
+      ],
+      "steamAppId": "254760"
     },
     {
       "title": "Empire Earth",
@@ -11874,7 +11882,8 @@
           "url": "https://www.compiware-forum.de/downloads/file/240-empire-earth-german-patch",
           "kind": "other"
         }
-      ]
+      ],
+      "steamAppId": "254760"
     },
     {
       "title": "Empire Earth - Zeitalter der Eroberung",
@@ -11932,7 +11941,8 @@
           "url": "https://pixeldrain.com/api/file/MWGwi4PM?download",
           "kind": "direct"
         }
-      ]
+      ],
+      "steamAppId": "254780"
     },
     {
       "title": "Empire Earth 2",
@@ -11961,7 +11971,8 @@
           "url": "https://pixeldrain.com/api/file/w8FKjKD5?download",
           "kind": "direct"
         }
-      ]
+      ],
+      "steamAppId": "254780"
     },
     {
       "title": "Empire Earth 2: The Art of Supremacy",
@@ -12402,8 +12413,7 @@
           "url": "https://www.filecrypt.cc/Container/2BD0752BCD.html",
           "kind": "other"
         }
-      ],
-      "steamAppId": "1569240"
+      ]
     },
     {
       "title": "Exodus from the earth",
@@ -15179,7 +15189,8 @@
           "url": "https://pixeldrain.com/api/file/3iQG1XG5?download",
           "kind": "direct"
         }
-      ]
+      ],
+      "steamAppId": "39510"
     },
     {
       "title": "Gothic 3",
@@ -16690,14 +16701,14 @@
       "pageUrl": "https://www.schote.biz/archiv-sprachdateien-deutschpatches/hidden-dangerous-2-sabre-squadron",
       "howToInstallHtml": "<p>Jeder Deutschpatch von schote.biz hat eine eigene Installationsanleitung — öffne die Spielseite (Button „Im Browser öffnen\" unten) und folge den Schritten dort. Wenn das Archiv passwortgeschützt ist, wird das Passwort oberhalb der Downloads angezeigt.</p>",
       "authorsHtml": null,
-      "size": "2.00 MB",
+      "size": "9.00 MB",
       "inDevelopment": false,
-      "archivePassword": "www.schote.biz",
+      "archivePassword": null,
       "mirrors": [
         {
-          "label": "Rapidgator",
-          "url": "https://www.filecrypt.cc/Container/BCE9684362.html",
-          "kind": "other"
+          "label": "pixeldrain",
+          "url": "https://pixeldrain.com/api/file/jNWQviAz?download",
+          "kind": "direct"
         }
       ]
     },
@@ -17031,7 +17042,8 @@
           "url": "https://www.filecrypt.cc/Container/99F57BA5DB.html",
           "kind": "other"
         }
-      ]
+      ],
+      "steamAppId": "244160"
     },
     {
       "title": "Homeworld Remastered Collection",
@@ -17491,7 +17503,8 @@
           "url": "https://www.filecrypt.cc/Container/37B3C3BF2A.html",
           "kind": "other"
         }
-      ]
+      ],
+      "steamAppId": "321800"
     },
     {
       "title": "Ikenfell",
@@ -17906,7 +17919,8 @@
           "url": "https://pixeldrain.com/api/file/DRbAfpcU?download",
           "kind": "direct"
         }
-      ]
+      ],
+      "steamAppId": "7110"
     },
     {
       "title": "Jagged Alliance",
@@ -19303,7 +19317,8 @@
           "url": "https://www.filecrypt.cc/Container/4EC20AF665.html",
           "kind": "other"
         }
-      ]
+      ],
+      "steamAppId": "32440"
     },
     {
       "title": "Leisure Suit Larry 6: Reiß' auf oder schieb ab!",
@@ -20487,7 +20502,7 @@
           "kind": "direct"
         }
       ],
-      "steamAppId": "4780"
+      "steamAppId": "4700"
     },
     {
       "title": "Medieval 2: Total War",
@@ -20517,7 +20532,7 @@
           "kind": "direct"
         }
       ],
-      "steamAppId": "4780"
+      "steamAppId": "4700"
     },
     {
       "title": "Men of Valor",
@@ -20706,7 +20721,7 @@
           "kind": "other"
         }
       ],
-      "steamAppId": "393360"
+      "steamAppId": "2131630"
     },
     {
       "title": "Metal Gear Solid",
@@ -20736,7 +20751,7 @@
           "kind": "other"
         }
       ],
-      "steamAppId": "393360"
+      "steamAppId": "2131630"
     },
     {
       "title": "Metro 2033",
@@ -21338,7 +21353,7 @@
           "kind": "direct"
         }
       ],
-      "steamAppId": "34050"
+      "steamAppId": "34030"
     },
     {
       "title": "NecroVisioN",
@@ -21954,7 +21969,8 @@
           "url": "https://www.filecrypt.cc/Container/EF9147060E.html",
           "kind": "other"
         }
-      ]
+      ],
+      "steamAppId": "704450"
     },
     {
       "title": "Neverwinter Nights 2",
@@ -21983,7 +21999,8 @@
           "url": "https://pixeldrain.com/api/file/x7ncQpqz?download",
           "kind": "direct"
         }
-      ]
+      ],
+      "steamAppId": "2738630"
     },
     {
       "title": "Nina: Agent Chronicles",
@@ -23244,7 +23261,8 @@
           "url": "https://www.compiware-forum.de/downloads/file/183-planescape-torment-german-patch",
           "kind": "other"
         }
-      ]
+      ],
+      "steamAppId": "466300"
     },
     {
       "title": "Plants vs. Zombies",
@@ -25444,7 +25462,8 @@
           "url": "https://pixeldrain.com/api/file/aqKd7nvQ?download",
           "kind": "direct"
         }
-      ]
+      ],
+      "steamAppId": "12320"
     },
     {
       "title": "Sacred",
@@ -25473,7 +25492,8 @@
           "url": "https://www.compiware-forum.de/downloads/file/186-sacred-gold-german-patch/",
           "kind": "other"
         }
-      ]
+      ],
+      "steamAppId": "12320"
     },
     {
       "title": "Sacred 2 - Gold Edition",
@@ -25854,7 +25874,7 @@
           "kind": "other"
         }
       ],
-      "steamAppId": "41000"
+      "steamAppId": "41050"
     },
     {
       "title": "Serious Sam: The Second Encounter",
@@ -25884,7 +25904,7 @@
           "kind": "other"
         }
       ],
-      "steamAppId": "41014"
+      "steamAppId": "41060"
     },
     {
       "title": "Shadow Man",
@@ -26508,7 +26528,8 @@
           "url": "https://www.filecrypt.cc/Container/167895B9EC.html",
           "kind": "other"
         }
-      ]
+      ],
+      "steamAppId": "24780"
     },
     {
       "title": "Singularity",
@@ -26869,7 +26890,8 @@
           "url": "https://pixeldrain.com/api/file/xP9VwTyn?download",
           "kind": "direct"
         }
-      ]
+      ],
+      "steamAppId": "297920"
     },
     {
       "title": "Spellforce 2: Dragon Storm",
@@ -28588,7 +28610,7 @@
           "kind": "direct"
         }
       ],
-      "steamAppId": "857200"
+      "steamAppId": "40960"
     },
     {
       "title": "Stronghold 3",
@@ -29079,7 +29101,8 @@
           "url": "https://www.compiware-forum.de/downloads/file/590-tales-of-monkey-island-german-patch/",
           "kind": "other"
         }
-      ]
+      ],
+      "steamAppId": "31170"
     },
     {
       "title": "Techno Mage",
@@ -29379,8 +29402,7 @@
           "url": "https://pixeldrain.com/l/6i5daSPb",
           "kind": "other"
         }
-      ],
-      "steamAppId": "1271420"
+      ]
     },
     {
       "title": "The Curse of Monkey Island",
@@ -29530,7 +29552,7 @@
           "kind": "other"
         }
       ],
-      "steamAppId": "2623190"
+      "steamAppId": "22330"
     },
     {
       "title": "The Elder Scrolls 4: Oblivion Remastered",
@@ -29620,7 +29642,7 @@
           "kind": "direct"
         }
       ],
-      "steamAppId": "611670"
+      "steamAppId": "489830"
     },
     {
       "title": "The Elder Scrolls 5: Skyrim",
@@ -29650,7 +29672,7 @@
           "kind": "direct"
         }
       ],
-      "steamAppId": "611670"
+      "steamAppId": "489830"
     },
     {
       "title": "The Evil Within",
@@ -30217,8 +30239,7 @@
           "url": "https://www.filecrypt.cc/Container/71F6BA8041.html",
           "kind": "other"
         }
-      ],
-      "steamAppId": "4263110"
+      ]
     },
     {
       "title": "The Walking Dead",
@@ -30282,7 +30303,8 @@
           "url": "https://www.filecrypt.cc/Container/934E1C5F4C.html",
           "kind": "other"
         }
-      ]
+      ],
+      "steamAppId": "261030"
     },
     {
       "title": "The Walking Dead: 400 Days",
@@ -30342,7 +30364,7 @@
           "kind": "direct"
         }
       ],
-      "steamAppId": "207610"
+      "steamAppId": "429570"
     },
     {
       "title": "The Wheel Of Time",
@@ -30850,7 +30872,7 @@
           "kind": "other"
         }
       ],
-      "steamAppId": "7000"
+      "steamAppId": "203160"
     },
     {
       "title": "Tomb Raider (2013)",
@@ -30885,7 +30907,7 @@
           "kind": "other"
         }
       ],
-      "steamAppId": "7000"
+      "steamAppId": "203160"
     },
     {
       "title": "Tomb Raider I",
@@ -31655,7 +31677,8 @@
           "url": "https://pixeldrain.com/api/file/vBkiTYen?download",
           "kind": "direct"
         }
-      ]
+      ],
+      "steamAppId": "1930"
     },
     {
       "title": "Two Worlds",
@@ -31684,7 +31707,8 @@
           "url": "https://pixeldrain.com/api/file/qM49tT6K?download",
           "kind": "direct"
         }
-      ]
+      ],
+      "steamAppId": "1930"
     },
     {
       "title": "Two Worlds",
@@ -31713,7 +31737,8 @@
           "url": "https://pixeldrain.com/api/file/J5pAHokc?download",
           "kind": "direct"
         }
-      ]
+      ],
+      "steamAppId": "1930"
     },
     {
       "title": "Two Worlds II",
@@ -32876,8 +32901,7 @@
           "url": "https://rapidgator.net/file/c118d996436822de159d684b62226202/24z98fweh4tzo82fw9eoih4z2wfe.rar.html",
           "kind": "other"
         }
-      ],
-      "steamAppId": "1361210"
+      ]
     },
     {
       "title": "Warhammer 40.000: Dawn of War - Soulstorm",
@@ -32936,8 +32960,7 @@
           "url": "https://pixeldrain.com/api/file/RLjwqDMA?download",
           "kind": "direct"
         }
-      ],
-      "steamAppId": "1361210"
+      ]
     },
     {
       "title": "Warhammer 40.000: Dawn of War II",
@@ -32966,7 +32989,8 @@
           "url": "https://pixeldrain.com/api/file/fK63apxR?download",
           "kind": "direct"
         }
-      ]
+      ],
+      "steamAppId": "15620"
     },
     {
       "title": "Warhammer 40.000: Dawn of War II",
@@ -32995,7 +33019,8 @@
           "url": "https://pixeldrain.com/api/file/pzoRAGTW?download",
           "kind": "direct"
         }
-      ]
+      ],
+      "steamAppId": "15620"
     },
     {
       "title": "Warhammer 40.000: Dawn of War II",
@@ -33024,7 +33049,8 @@
           "url": "https://pixeldrain.com/api/file/XLTSgeoK?download",
           "kind": "direct"
         }
-      ]
+      ],
+      "steamAppId": "15620"
     },
     {
       "title": "Warhammer 40.000: Rites of War",
@@ -33084,7 +33110,7 @@
           "kind": "direct"
         }
       ],
-      "steamAppId": "55410"
+      "steamAppId": "55150"
     },
     {
       "title": "Warhammer 40.000: Space Marine",
@@ -33114,7 +33140,7 @@
           "kind": "direct"
         }
       ],
-      "steamAppId": "55410"
+      "steamAppId": "55150"
     },
     {
       "title": "Warhammer: Mark of Chaos",
@@ -33143,7 +33169,8 @@
           "url": "https://rapidgator.net/file/1e44ac52725455f1020d9f120b40aae3/Warhammer_Mark_of_Chaos_-_Deutsche_Texte.rar.html",
           "kind": "other"
         }
-      ]
+      ],
+      "steamAppId": "4280940"
     },
     {
       "title": "Warlock - Master of the Arcane",
@@ -33709,7 +33736,7 @@
           "kind": "direct"
         }
       ],
-      "steamAppId": "2270"
+      "steamAppId": "10170"
     },
     {
       "title": "Wolfenstein (2009)",
@@ -33739,7 +33766,7 @@
           "kind": "direct"
         }
       ],
-      "steamAppId": "2270"
+      "steamAppId": "10170"
     },
     {
       "title": "Wolfenstein II: The New Colossus",

@@ -2194,7 +2194,8 @@
           "url": "https://lokalizace.net/api/download/1306",
           "kind": "direct"
         }
-      ]
+      ],
+      "steamAppId": "32450"
     },
     {
       "title": "LEGO Harry Potter years 5-7",
@@ -2907,7 +2908,7 @@
           "kind": "other"
         }
       ],
-      "steamAppId": "208650"
+      "steamAppId": "200260"
     },
     {
       "title": "Batman Arkham Asylum - GOTY",
@@ -2940,7 +2941,7 @@
           "kind": "other"
         }
       ],
-      "steamAppId": "35020"
+      "steamAppId": "35140"
     },
     {
       "title": "Back to the Future - ep5 - Outatime",
@@ -3662,7 +3663,8 @@
           "url": "https://lokalizace.net/api/download/1202",
           "kind": "direct"
         }
-      ]
+      ],
+      "steamAppId": "1920780"
     },
     {
       "title": "Fossilfuel 2",
@@ -4088,7 +4090,8 @@
           "url": "https://lokalizace.net/api/download/1146",
           "kind": "other"
         }
-      ]
+      ],
+      "steamAppId": "33670"
     },
     {
       "title": "Parasite Eve 1 (PSX, Android)",
@@ -8390,7 +8393,8 @@
           "url": "https://lokalizace.net/api/download/827",
           "kind": "direct"
         }
-      ]
+      ],
+      "steamAppId": "1721470"
     },
     {
       "title": "FAR: Lone Sails (2018)",
@@ -12755,7 +12759,8 @@
           "url": "https://lokalizace.net/api/download/1232",
           "kind": "direct"
         }
-      ]
+      ],
+      "steamAppId": "844260"
     },
     {
       "title": "Battlefield V",
@@ -14924,6 +14929,118 @@
       "steamAppId": "1796220"
     },
     {
+      "title": "They Always Run",
+      "studio": "Lokalizace.net",
+      "studioUrl": "https://lokalizace.net/localizations/they-always-run",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": "CZ_1.00_HRA_1.0.15.919(1befe5dd9)_(v2)",
+      "updatedAt": "21.06.2024",
+      "pageUrl": "https://lokalizace.net/localizations/they-always-run",
+      "howToInstallHtml": "<p>Stáhněte ZIP soubor a rozbalte ho do složky hry, nebo použijte aplikaci CZManager pro automatickou instalaci češtiny.</p>",
+      "changelogHtml": null,
+      "authorsHtml": "<p>GWynter</p>",
+      "size": "29.9 MB",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Lokalizace.net",
+          "url": "https://lokalizace.net/api/download/220",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "1585440"
+    },
+    {
+      "title": "Yonder: The Cloud Catcher Chronicles",
+      "studio": "Lokalizace.net",
+      "studioUrl": "https://lokalizace.net/localizations/yonder-the-cloud-catcher-chronicles",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": "CZ_1.00_HRA_S_UPDATE_8(600)(143144)_(v2)",
+      "updatedAt": "21.06.2024",
+      "pageUrl": "https://lokalizace.net/localizations/yonder-the-cloud-catcher-chronicles",
+      "howToInstallHtml": "<p>Stáhněte ZIP soubor a rozbalte ho do složky hry, nebo použijte aplikaci CZManager pro automatickou instalaci češtiny.</p>",
+      "changelogHtml": null,
+      "authorsHtml": "<p>GWynter</p>",
+      "size": "52.4 MB",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Lokalizace.net",
+          "url": "https://lokalizace.net/api/download/219",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "580200"
+    },
+    {
+      "title": "Huntdown",
+      "studio": "Lokalizace.net",
+      "studioUrl": "https://lokalizace.net/localizations/huntdown",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": "1.00_HRA_(poslední_steam)_(v2)",
+      "updatedAt": "21.06.2024",
+      "pageUrl": "https://lokalizace.net/localizations/huntdown",
+      "howToInstallHtml": "<p>Stáhněte ZIP soubor a rozbalte ho do složky hry, nebo použijte aplikaci CZManager pro automatickou instalaci češtiny.</p>",
+      "changelogHtml": null,
+      "authorsHtml": "<p>GWynter</p>",
+      "size": "2.10 MB",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Lokalizace.net",
+          "url": "https://lokalizace.net/api/download/218",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "598550"
+    },
+    {
+      "title": "Zombotron",
+      "studio": "Lokalizace.net",
+      "studioUrl": "https://lokalizace.net/localizations/zombotron",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": "CZ_1.00_HRA_1.2.1_(v2)",
+      "updatedAt": "21.06.2024",
+      "pageUrl": "https://lokalizace.net/localizations/zombotron",
+      "howToInstallHtml": "<p>Stáhněte ZIP soubor a rozbalte ho do složky hry, nebo použijte aplikaci CZManager pro automatickou instalaci češtiny.</p>",
+      "changelogHtml": null,
+      "authorsHtml": "<p>GWynter</p>",
+      "size": "9.50 MB",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Lokalizace.net",
+          "url": "https://lokalizace.net/api/download/217",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "664830"
+    },
+    {
       "title": "Valfaris",
       "studio": "Lokalizace.net",
       "studioUrl": "https://lokalizace.net/localizations/valfaris",
@@ -15082,7 +15199,7 @@
           "kind": "direct"
         }
       ],
-      "steamAppId": "257190"
+      "steamAppId": "217920"
     },
     {
       "title": "The Final Station",
@@ -16332,7 +16449,7 @@
       "size": null,
       "inDevelopment": true,
       "mirrors": [],
-      "steamAppId": "207610"
+      "steamAppId": "429570"
     },
     {
       "title": "The Walking Dead 2",
@@ -16770,7 +16887,8 @@
           "url": "https://lokalizace.net/api/download/1634",
           "kind": "direct"
         }
-      ]
+      ],
+      "steamAppId": "1086940"
     },
     {
       "title": "Middle-earth: Shadow of Mordor",
@@ -17512,7 +17630,8 @@
       "authorsHtml": "<p>ADV Dream</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": []
+      "mirrors": [],
+      "steamAppId": "31170"
     },
     {
       "title": "Fable",
@@ -17579,94 +17698,6 @@
       "inDevelopment": true,
       "mirrors": [],
       "steamAppId": "465280"
-    },
-    {
-      "title": "Ankh 3: Battle of the Gods",
-      "studio": "Lokalizace.net",
-      "studioUrl": "https://lokalizace.net/localizations/ankh-3-battle-of-the-gods",
-      "language": "Čeština",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": null,
-      "updatedAt": null,
-      "pageUrl": "https://lokalizace.net/localizations/ankh-3-battle-of-the-gods",
-      "howToInstallHtml": "<p>Stáhněte ZIP soubor a rozbalte ho do složky hry, nebo použijte aplikaci CZManager pro automatickou instalaci češtiny.</p>",
-      "changelogHtml": null,
-      "authorsHtml": "<p>ADV Dream</p>",
-      "size": null,
-      "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "12450"
-    },
-    {
-      "title": "Undercover Missions: Operation Kursk K-141",
-      "studio": "Lokalizace.net",
-      "studioUrl": "https://lokalizace.net/localizations/undercover-missions-operation-kursk-k-141",
-      "language": "Čeština",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": null,
-      "updatedAt": null,
-      "pageUrl": "https://lokalizace.net/localizations/undercover-missions-operation-kursk-k-141",
-      "howToInstallHtml": "<p>Stáhněte ZIP soubor a rozbalte ho do složky hry, nebo použijte aplikaci CZManager pro automatickou instalaci češtiny.</p>",
-      "changelogHtml": null,
-      "authorsHtml": "<p>ADV Dream</p>",
-      "size": null,
-      "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "403390"
-    },
-    {
-      "title": "Call of Juarez Gunslinger",
-      "studio": "Lokalizace.net",
-      "studioUrl": "https://lokalizace.net/localizations/call-of-juarez-gunslinger",
-      "language": "Čeština",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": null,
-      "updatedAt": null,
-      "pageUrl": "https://lokalizace.net/localizations/call-of-juarez-gunslinger",
-      "howToInstallHtml": "<p>Stáhněte ZIP soubor a rozbalte ho do složky hry, nebo použijte aplikaci CZManager pro automatickou instalaci češtiny.</p>",
-      "changelogHtml": null,
-      "authorsHtml": "<p>Lokalizace.Net</p>",
-      "size": null,
-      "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "204450"
-    },
-    {
-      "title": "Everspace",
-      "studio": "Lokalizace.net",
-      "studioUrl": "https://lokalizace.net/localizations/everspace",
-      "language": "Čeština",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": null,
-      "updatedAt": null,
-      "pageUrl": "https://lokalizace.net/localizations/everspace",
-      "howToInstallHtml": "<p>Stáhněte ZIP soubor a rozbalte ho do složky hry, nebo použijte aplikaci CZManager pro automatickou instalaci češtiny.</p>",
-      "changelogHtml": null,
-      "authorsHtml": "<p>Lokalizace.Net</p>",
-      "size": null,
-      "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "396750"
     },
     {
       "title": "Darksiders 3",
@@ -19062,7 +19093,7 @@
       "size": null,
       "inDevelopment": true,
       "mirrors": [],
-      "steamAppId": "849308"
+      "steamAppId": "750920"
     },
     {
       "title": "Far Cry 6",

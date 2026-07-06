@@ -5,6 +5,34 @@
   "siteUrl": "https://komunitni-preklady.org",
   "localizations": [
     {
+      "title": "Crimson Desert",
+      "studio": "Komunitní překlady",
+      "studioUrl": "https://komunitni-preklady.org/preklad/crimson-desert-sk",
+      "language": "Slovenčina",
+      "hasText": false,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": true,
+      "version": "2.5",
+      "updatedAt": "06.07.2026",
+      "requiredGameVersion": "1.13.00",
+      "pageUrl": "https://komunitni-preklady.org/preklad/crimson-desert-sk",
+      "howToInstallHtml": "<p>Každý preklad má vlastný postup inštalácie. Otvorte stránku prekladu (tlačidlo „Otvoriť v prehliadači“ nižšie) — nájdete tam úplný návod na inštaláciu aj tlačidlo na stiahnutie.</p>",
+      "authorsHtml": "<p>Flego</p>",
+      "size": "8.10 MB",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Komunitní překlady",
+          "url": "https://komunitni-preklady.org/download/758?sig=p8UTlFkphufGApvCDC0-fg",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "3321460"
+    },
+    {
       "title": "7 Days to Die 3.0 CZ",
       "studio": "Komunitní překlady",
       "studioUrl": "https://komunitni-preklady.org/preklad/7-days-to-die-30-cz",
@@ -115,34 +143,6 @@
         }
       ],
       "steamAppId": "3976500"
-    },
-    {
-      "title": "Crimson Desert",
-      "studio": "Komunitní překlady",
-      "studioUrl": "https://komunitni-preklady.org/preklad/crimson-desert-sk",
-      "language": "Slovenčina",
-      "hasText": false,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": true,
-      "version": "2.4",
-      "updatedAt": "04.07.2026",
-      "requiredGameVersion": "1.13.00",
-      "pageUrl": "https://komunitni-preklady.org/preklad/crimson-desert-sk",
-      "howToInstallHtml": "<p>Každý preklad má vlastný postup inštalácie. Otvorte stránku prekladu (tlačidlo „Otvoriť v prehliadači“ nižšie) — nájdete tam úplný návod na inštaláciu aj tlačidlo na stiahnutie.</p>",
-      "authorsHtml": "<p>Flego</p>",
-      "size": "8.10 MB",
-      "inDevelopment": false,
-      "mirrors": [
-        {
-          "label": "Komunitní překlady",
-          "url": "https://komunitni-preklady.org/download/758?sig=p8UTlFkphufGApvCDC0-fg",
-          "kind": "direct"
-        }
-      ],
-      "steamAppId": "3321460"
     },
     {
       "title": "Broken Arrow",
@@ -309,7 +309,8 @@
           "url": "https://komunitni-preklady.org/download/507?sig=s2OeTKWHDf2BdSGdqC_wxQ",
           "kind": "direct"
         }
-      ]
+      ],
+      "steamAppId": "22000"
     },
     {
       "title": "Tourist Bus Simulator",
@@ -783,34 +784,6 @@
           "kind": "direct"
         }
       ]
-    },
-    {
-      "title": "God Save Birmingham",
-      "studio": "Komunitní překlady",
-      "studioUrl": "https://komunitni-preklady.org/preklad/god-save-birmingham",
-      "language": "Slovenčina",
-      "hasText": false,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": true,
-      "version": "0.1",
-      "updatedAt": "23.06.2026",
-      "requiredGameVersion": "DEMO",
-      "pageUrl": "https://komunitni-preklady.org/preklad/god-save-birmingham",
-      "howToInstallHtml": "<p>Každý preklad má vlastný postup inštalácie. Otvorte stránku prekladu (tlačidlo „Otvoriť v prehliadači“ nižšie) — nájdete tam úplný návod na inštaláciu aj tlačidlo na stiahnutie.</p>",
-      "authorsHtml": "<p>Flego</p>",
-      "size": "52.8 MB",
-      "inDevelopment": false,
-      "mirrors": [
-        {
-          "label": "Komunitní překlady",
-          "url": "https://komunitni-preklady.org/download/846?sig=cmR4fK1bx9W6UCk33sNY-Q",
-          "kind": "direct"
-        }
-      ],
-      "steamAppId": "3073940"
     },
     {
       "title": "Bylina",
@@ -5663,7 +5636,8 @@
           "url": "https://komunitni-preklady.org/download/612?sig=BRwVNxO5ll7B8mWXMuH4dg",
           "kind": "direct"
         }
-      ]
+      ],
+      "steamAppId": "844260"
     },
     {
       "title": "Battlefield V",
@@ -6715,7 +6689,8 @@
           "url": "https://komunitni-preklady.org/download/528/steam?sig=f1-4NdsHnhVwmqX2sLHBGA",
           "kind": "direct"
         }
-      ]
+      ],
+      "steamAppId": "1920780"
     },
     {
       "title": "Fabledom",
@@ -9852,8 +9827,7 @@
           "url": "https://komunitni-preklady.org/download/408?sig=22HntVuXBKo77YHJZkebeA",
           "kind": "direct"
         }
-      ],
-      "steamAppId": "1310410"
+      ]
     },
     {
       "title": "Monster Hunter: World",
@@ -13693,8 +13667,7 @@
           "url": "https://komunitni-preklady.org/download/9?sig=ol3VwHv25TTxA3TUBLHr4g",
           "kind": "direct"
         }
-      ],
-      "steamAppId": "1934680"
+      ]
     },
     {
       "title": "Age Of Mythology",
@@ -15319,8 +15292,7 @@
           "url": "https://komunitni-preklady.org/download/36?sig=G0BzYYR5KdFrDDrHRFRaLw",
           "kind": "direct"
         }
-      ],
-      "steamAppId": "1354690"
+      ]
     },
     {
       "title": "American McGee\\u0027s Alice",
@@ -15615,7 +15587,7 @@
       "requiredGameVersion": null,
       "pageUrl": "https://komunitni-preklady.org/preklad/divinity-ii-dragon-knight-saga-",
       "howToInstallHtml": "<p>Každý překlad má vlastní postup instalace. Otevřete stránku překladu (tlačítko „Otevřít v prohlížeči“ níže) — najdete tam úplný návod k instalaci i tlačítko ke stažení.</p>",
-      "authorsHtml": "<p>GREG-RAY CZ</p>",
+      "authorsHtml": "<p>Flego</p>",
       "size": null,
       "inDevelopment": true,
       "mirrors": []
@@ -15978,7 +15950,8 @@
           "url": "https://komunitni-preklady.org/download/172?sig=RUpe-72mJdeercdCiiYtaw",
           "kind": "direct"
         }
-      ]
+      ],
+      "steamAppId": "35700"
     },
     {
       "title": "X-Men Origins: Wolverine",
@@ -16115,8 +16088,7 @@
           "url": "https://komunitni-preklady.org/download/163?sig=XhcorEg9U7PgA1P69sxYtw",
           "kind": "direct"
         }
-      ],
-      "steamAppId": "845050"
+      ]
     },
     {
       "title": "Doom 3: Resurrection of Evil",
@@ -16861,7 +16833,8 @@
           "url": "https://komunitni-preklady.org/download/25?sig=L8ipuLUnA3wxVHEbBFBlmg",
           "kind": "direct"
         }
-      ]
+      ],
+      "steamAppId": "1373510"
     },
     {
       "title": "Will Rock",
@@ -16971,8 +16944,7 @@
           "url": "https://komunitni-preklady.org/download/166?sig=gVqF9IQ-2Ffnxywtg44ymw",
           "kind": "direct"
         }
-      ],
-      "steamAppId": "4263110"
+      ]
     },
     {
       "title": "Arx Fatalis",
