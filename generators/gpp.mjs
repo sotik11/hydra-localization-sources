@@ -19,6 +19,7 @@ import { fileURLToPath } from "node:url";
 import { dirname, join } from "node:path";
 import * as cheerio from "cheerio";
 import { UA, sleep, fetchTimeout, mapPool, getText, getJson } from "../lib/net.mjs";
+import { resolveSteamAppIdWithScore } from "../lib/steam-search.mjs";
 
 const ROOT = join(dirname(fileURLToPath(import.meta.url)), "..");
 
@@ -245,7 +246,8 @@ async function buildEntry(game) {
   // themselves in the file name, so default to text and flag voice from there.
   const hasVoice = /\bdub(bing)?\b/i.test(file) || /\bdub(bing)?\b/i.test(title);
 
-  const steamAppId = await resolveSteamAppId(title);
+  const r = await resolveSteamAppIdWithScore(title);
+  const steamAppId = r?.appId && r.score >= 60 ? r.appId : null;
 
   return {
     steamAppId: steamAppId ?? undefined,
@@ -266,49 +268,8 @@ async function buildEntry(game) {
 }
 
 /* --------------------------- steam app id lookup -------------------------- */
-
-const STEAM_SEARCH = "https://store.steampowered.com/api/storesearch/";
-
-function normalizeTitle(t) {
-  return (t || "")
-    .toLowerCase()
-    .replace(/['’:.,!?®™&–—_-]/g, " ")
-    .replace(/\s+/g, " ")
-    .trim();
-}
-
-function stripSuffix(t) {
-  let prev;
-  let out = t.trim();
-  do {
-    prev = out;
-    out = out.replace(/\s*\([^)]*\)\s*$/, "").trim();
-  } while (out !== prev);
-  return out;
-}
-
-async function steamSearch(term) {
-  try {
-    const json = await getJson(
-      `${STEAM_SEARCH}?term=${encodeURIComponent(term)}&cc=us&l=en`
-    );
-    return Array.isArray(json?.items) ? json.items : [];
-  } catch {
-    return [];
-  }
-}
-
-async function resolveSteamAppId(title) {
-  const variants = [...new Set([title, stripSuffix(title)])];
-  const targets = new Set(variants.map(normalizeTitle));
-  for (const term of variants) {
-    const items = await steamSearch(term);
-    const hit = items.find((it) => targets.has(normalizeTitle(it.name)));
-    if (hit?.id) return String(hit.id);
-    await sleep(200);
-  }
-  return null;
-}
+// Uses the shared lib/steam-search.mjs helper — variant generation, 4-level
+// fuzzy scoring, type=app filter.
 
 /* ---------------------------------- main ---------------------------------- */
 
