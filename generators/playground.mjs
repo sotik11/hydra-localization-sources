@@ -184,9 +184,11 @@ function cleanTitle(h1, slug) {
     )
     .trim();
   // Trailing descriptor after ". / - / :".
+  // "Русификация" / "Русифікація" are the noun-forms that slipped past the
+  // stem list above — added explicitly.
   t = t
     .replace(
-      /\s*[.\-—:]\s*(?:Русификатор|Русифікатор|Локализац|Перевод|Нейро|Озвуч|Дубляж|Закадр|Текстур|Машинн|Полная локал|Любительск)[\s\S]*$/i,
+      /\s*[.\-—:]\s*(?:Русификатор|Русифікатор|Русификаци\w+|Русифікаці\w+|Локализац|Перевод|Нейро|Озвуч|Дубляж|Закадр|Текстур|Машинн|Полная локал|Любительск)[\s\S]*$/i,
       ""
     )
     .trim();
@@ -194,6 +196,12 @@ function cleanTitle(h1, slug) {
   t = t
     .replace(/\s*(?:[+]\s[\s\S]*|и\s+(?:патч|фикс|исправлени)\w*[\s\S]*|\[[^\]]*\][\s\S]*)$/i, "")
     .trim();
+  // If the quote-split or trailing-junk stripping above cut inside a
+  // parenthetical (e.g. "Dragon Age: Origins (+ Awakening, + DLC)" -> the
+  // "+ Awakening..." gets stripped and we're left with a dangling "("),
+  // drop the dangling open bracket at the very end. Must run AFTER trailing
+  // junk so it can catch the newly-exposed bracket.
+  t = t.replace(/\s*[\(\[\{]\s*$/, "").trim();
   return t || slug;
 }
 
