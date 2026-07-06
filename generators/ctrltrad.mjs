@@ -27,7 +27,8 @@ import { writeFile, mkdir } from "node:fs/promises";
 import { fileURLToPath } from "node:url";
 import { dirname, join } from "node:path";
 import * as cheerio from "cheerio";
-import { UA, sleep, fetchTimeout, mapPool, getText, getJson } from "../lib/net.mjs";
+import { sleep, mapPool, getText, getJson } from "../lib/net.mjs";
+import { resolveSteamAppIdWithScore } from "../lib/steam-search.mjs";
 
 const ROOT = join(dirname(fileURLToPath(import.meta.url)), "..");
 
@@ -135,44 +136,9 @@ async function buildEntry(slug) {
 }
 
 /* --------------------------- steam app id lookup -------------------------- */
-
-const STEAM_SEARCH = "https://store.steampowered.com/api/storesearch/";
-const normalizeTitle = (t) =>
-  (t || "")
-    .toLowerCase()
-    .replace(/['’:.,!?®™&–—_-]/g, " ")
-    .replace(/\s+/g, " ")
-    .trim();
-const stripSuffix = (t) => {
-  let prev,
-    out = t.trim();
-  do {
-    prev = out;
-    out = out.replace(/\s*\([^)]*\)\s*$/, "").trim();
-  } while (out !== prev);
-  return out;
-};
-
-async function resolveSteamAppId(title) {
-  const variants = [...new Set([title, stripSuffix(title)])];
-  const targets = new Set(variants.map(normalizeTitle));
-  for (const term of variants) {
-    try {
-      const res = await fetchTimeout(
-        `${STEAM_SEARCH}?term=${encodeURIComponent(term)}&cc=us&l=en`,
-        { headers: { Accept: "application/json", "User-Agent": UA } }
-      );
-      const json = await res.json();
-      const hit = (json?.items || []).find((it) =>
-        targets.has(normalizeTitle(it.name))
-      );
-      if (hit?.id) return String(hit.id);
-    } catch {
-      /* timeout — miss, not stall */
-    }
-  }
-  return null;
-}
+// Uses the shared lib/steam-search.mjs helper — variant generation, 4-level
+// fuzzy scoring (exact / substring / token overlap / Levenshtein), and a
+// type=app filter that keeps soundtracks and demos out.
 
 /* ---------------------------------- main ---------------------------------- */
 
@@ -196,13 +162,22 @@ async function main() {
   const appCache = new Map();
   const resolveCached = (title) => {
     const key = title.toLowerCase();
-    if (!appCache.has(key)) appCache.set(key, resolveSteamAppId(title));
+    if (!appCache.has(key)) appCache.set(key, resolveSteamAppIdWithScore(title));
     return appCache.get(key);
   };
+  const candidates = []; // low-score / null hits — for a future overrides list
   let j = 0;
   await mapPool(built, 4, async (e) => {
-    const appid = await resolveCached(e.title);
-    if (appid) e.steamAppId = appid;
+    const r = await resolveCached(e.title);
+    if (r?.appId && r.score >= 60) e.steamAppId = r.appId;
+    if (!r?.appId || r.score < 100) {
+      candidates.push({
+        title: e.title,
+        appId: r?.appId ?? null,
+        matched: r?.matchedName ?? null,
+        score: r?.score ?? 0,
+      });
+    }
     j += 1;
     if (j % 10 === 0 || j === built.length)
       process.stdout.write(`\r[ctrltrad] appid ${j}/${built.length}     `);
@@ -229,6 +204,19 @@ async function main() {
   const appid = built.filter((l) => l.steamAppId).length;
   console.log(
     `[ctrltrad] done → ${built.length} entries | appid=${appid} (${Math.round((100 * appid) / (built.length || 1))}%)`
+  );
+
+  // Dump non-perfect resolutions to a file for manual review — these are the
+  // candidates for a future lib/steam-overrides.json.
+  await writeFile(
+    join(ROOT, "data", "ctrltrad.candidates.json"),
+    JSON.stringify(candidates, null, 2),
+    "utf8"
+  );
+  const nulls = candidates.filter((c) => !c.appId).length;
+  const low = candidates.filter((c) => c.appId && c.score < 100).length;
+  console.log(
+    `[ctrltrad] candidates → nulls=${nulls}, sub-100=${low} (written to data/ctrltrad.candidates.json)`
   );
 }
 

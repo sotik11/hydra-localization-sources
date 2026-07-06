@@ -5,6 +5,65 @@
   "siteUrl": "https://lokalizace.net",
   "localizations": [
     {
+      "title": "Neverhood",
+      "studio": "Lokalizace.net",
+      "studioUrl": "https://lokalizace.net/localizations/neverhood",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": "1.0",
+      "updatedAt": "05.07.2026",
+      "pageUrl": "https://lokalizace.net/localizations/neverhood",
+      "howToInstallHtml": "<p>Stáhněte ZIP soubor a rozbalte ho do složky hry, nebo použijte aplikaci CZManager pro automatickou instalaci češtiny.</p>",
+      "changelogHtml": "<div><p>Nahrána nová verze překladu: 1.0</p></div>",
+      "authorsHtml": "<p>Cyber</p>",
+      "size": "287 KB",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Lokalizace.net",
+          "url": "https://lokalizace.net/api/download/1641",
+          "kind": "direct"
+        }
+      ]
+    },
+    {
+      "title": "Little Nightmares I",
+      "studio": "Lokalizace.net",
+      "studioUrl": "https://lokalizace.net/localizations/little-nightmares-i",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": "1.0.1",
+      "updatedAt": "05.07.2026",
+      "pageUrl": "https://lokalizace.net/localizations/little-nightmares-i",
+      "howToInstallHtml": "<p>Stáhněte ZIP soubor a rozbalte ho do složky hry, nebo použijte aplikaci CZManager pro automatickou instalaci češtiny.</p>",
+      "changelogHtml": "<div><p><strong>Nová verze 1.0.1</strong></p><p>Přidaná možnost stažení v Manageru.</p><p><strong>Nová verze 1.0.0</strong></p><p>První Verze, Může obsahovat chyby, nefunkční font nebo nepřeložený obsah. Některý nešel přeložit. Některý šel</p></div>",
+      "authorsHtml": "<p>GamerView Translations</p>",
+      "size": "12 KB",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Lokalizace.net",
+          "url": "https://lokalizace.net/api/download/1639",
+          "kind": "direct"
+        },
+        {
+          "label": "Версия 1.0.0",
+          "url": "https://lokalizace.net/api/download/1635",
+          "kind": "other"
+        }
+      ]
+    },
+    {
       "title": "Amnesia The Bunker",
       "studio": "Lokalizace.net",
       "studioUrl": "https://lokalizace.net/localizations/amnesia-the-bunker",
@@ -399,6 +458,34 @@
         }
       ],
       "steamAppId": "433340"
+    },
+    {
+      "title": "Primordia",
+      "studio": "Lokalizace.net",
+      "studioUrl": "https://lokalizace.net/localizations/primordia",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": "1.0",
+      "updatedAt": "03.07.2026",
+      "pageUrl": "https://lokalizace.net/localizations/primordia",
+      "howToInstallHtml": "<p>Stáhněte ZIP soubor a rozbalte ho do složky hry, nebo použijte aplikaci CZManager pro automatickou instalaci češtiny.</p>",
+      "changelogHtml": "<div><p><strong>Nová verze 1.0</strong></p><p>Ahoj fanoušci adventur,</p><p>vydáváme český překlad pro hru Primordia.</p><p>Pokud máte rádi inteligentní sci-fi příběhy, atmosférické světy a klasické point-and-click adventury, pak byste si Primordii rozhodně neměli nechat ujít. Čeká vás cesta do postapokalyptického světa, ve kterém lidstvo dávno zmizelo a jeho místo zaujaly stroje. V roli robota Horatia a jeho sarkastického společníka Crispina se vydáte pátrat po ukradeném zdroji energie, což vás zavede k odhalení dávných tajemství, filozofických otázek i vlastní minulosti.</p><p>Primordia nabízí výborně napsané dialogy, nezapomenutelné postavy, nádhernou pixelartovou grafiku a jeden z nejlepších příběhů, jaké v moderních adventurách najdete. Hra dokáže být zároveň vážná, melancholická i vtipná a právem patří mezi nejlépe hodnocené adventury posledních let.</p><p>Váš tým</p><p>ADV Dream</p></div>",
+      "authorsHtml": "<p>ADV Dream</p>",
+      "size": "13.5 MB",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Lokalizace.net",
+          "url": "https://lokalizace.net/api/download/1633",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "227000"
     },
     {
       "title": "Librarian: Tidy Up the Arcane Library!",
@@ -13053,59 +13140,6 @@
       ]
     },
     {
-      "title": "7 Days to Die",
-      "studio": "Lokalizace.net",
-      "studioUrl": "https://lokalizace.net/localizations/7-days-to-die",
-      "language": "Čeština",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": "verze 0.03 pro 2.2",
-      "updatedAt": "09.08.2025",
-      "pageUrl": "https://lokalizace.net/localizations/7-days-to-die",
-      "howToInstallHtml": "<p>Stáhněte ZIP soubor a rozbalte ho do složky hry, nebo použijte aplikaci CZManager pro automatickou instalaci češtiny.</p>",
-      "changelogHtml": null,
-      "authorsHtml": "<p>Tuax</p>",
-      "size": "1.50 MB",
-      "inDevelopment": false,
-      "mirrors": [
-        {
-          "label": "Lokalizace.net",
-          "url": "https://lokalizace.net/api/download/968",
-          "kind": "direct"
-        },
-        {
-          "label": "Версия verze 0.02 pro 2.1",
-          "url": "https://lokalizace.net/api/download/937",
-          "kind": "other"
-        },
-        {
-          "label": "Версия erze 0.02 pro 2.1",
-          "url": "https://lokalizace.net/api/download/936",
-          "kind": "other"
-        },
-        {
-          "label": "Версия verze 0.01 pro verzi hry 2.0",
-          "url": "https://lokalizace.net/api/download/930",
-          "kind": "other"
-        },
-        {
-          "label": "Версия v0.13 pro verze hry 1.2 b333+",
-          "url": "https://lokalizace.net/api/download/605",
-          "kind": "other"
-        },
-        {
-          "label": "Версия 0.12 pro verze hry 1.0 B333+",
-          "url": "https://lokalizace.net/api/download/334",
-          "kind": "other"
-        }
-      ],
-      "steamAppId": "251570"
-    },
-    {
       "title": "Star Wars Outlaws",
       "studio": "Lokalizace.net",
       "studioUrl": "https://lokalizace.net/localizations/star-wars-outlaws",
@@ -16644,18 +16678,18 @@
       "hasNeuralVoice": false,
       "hasNeuralDub": false,
       "hasNeuralText": false,
-      "version": "23",
-      "updatedAt": "08.04.2026",
+      "version": "1.0",
+      "updatedAt": "04.07.2026",
       "pageUrl": "https://lokalizace.net/localizations/baldurs-gate-3",
       "howToInstallHtml": "<p>Stáhněte ZIP soubor a rozbalte ho do složky hry, nebo použijte aplikaci CZManager pro automatickou instalaci češtiny.</p>",
-      "changelogHtml": "<div><p><strong>Nová verze 23</strong></p><p>Várka oprav a úprav z nahlášených objevů + update na hotfix.</p></div>",
+      "changelogHtml": "<div><p><strong>Nová verze 1.0</strong></p><p>Vydána \"finální\" verze bez Xsek. Pokud objevíte nějaké chyby, můžete stále hlásit.</p></div>",
       "authorsHtml": "<p>COTT</p>",
-      "size": "47.2 MB",
+      "size": "47.4 MB",
       "inDevelopment": false,
       "mirrors": [
         {
           "label": "Lokalizace.net",
-          "url": "https://lokalizace.net/api/download/1443",
+          "url": "https://lokalizace.net/api/download/1634",
           "kind": "direct"
         }
       ]
@@ -18959,6 +18993,71 @@
       "steamAppId": "2369390"
     },
     {
+      "title": "Hello Neighbor: Search and Rescue",
+      "studio": "Lokalizace.net",
+      "studioUrl": "https://lokalizace.net/localizations/hello-neighbor-search-and-rescue",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": null,
+      "updatedAt": null,
+      "pageUrl": "https://lokalizace.net/localizations/hello-neighbor-search-and-rescue",
+      "howToInstallHtml": "<p>Stáhněte ZIP soubor a rozbalte ho do složky hry, nebo použijte aplikaci CZManager pro automatickou instalaci češtiny.</p>",
+      "changelogHtml": "<div><p><strong>Nová verze 0.5.0</strong></p><p>První vydání, není možné stáhnout přes Manager, a Fonty nemusí fungovat</p></div>",
+      "authorsHtml": "<p>GamerView Translations</p>",
+      "size": null,
+      "inDevelopment": true,
+      "mirrors": []
+    },
+    {
+      "title": "Hollowbody",
+      "studio": "Lokalizace.net",
+      "studioUrl": "https://lokalizace.net/localizations/hollowbody",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": null,
+      "updatedAt": null,
+      "pageUrl": "https://lokalizace.net/localizations/hollowbody",
+      "howToInstallHtml": "<p>Stáhněte ZIP soubor a rozbalte ho do složky hry, nebo použijte aplikaci CZManager pro automatickou instalaci češtiny.</p>",
+      "changelogHtml": null,
+      "authorsHtml": "<p>PERTIM CZ</p>",
+      "size": null,
+      "inDevelopment": true,
+      "mirrors": [],
+      "steamAppId": "2123640"
+    },
+    {
+      "title": "Crow Country",
+      "studio": "Lokalizace.net",
+      "studioUrl": "https://lokalizace.net/localizations/crow-country",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": null,
+      "updatedAt": null,
+      "pageUrl": "https://lokalizace.net/localizations/crow-country",
+      "howToInstallHtml": "<p>Stáhněte ZIP soubor a rozbalte ho do složky hry, nebo použijte aplikaci CZManager pro automatickou instalaci češtiny.</p>",
+      "changelogHtml": null,
+      "authorsHtml": "<p>PERTIM CZ</p>",
+      "size": null,
+      "inDevelopment": true,
+      "mirrors": [],
+      "steamAppId": "1996010"
+    },
+    {
       "title": "Bye Sweet Carole",
       "studio": "Lokalizace.net",
       "studioUrl": "https://lokalizace.net/localizations/bye-sweet-carole",
@@ -19045,28 +19144,6 @@
       "inDevelopment": true,
       "mirrors": [],
       "steamAppId": "1222690"
-    },
-    {
-      "title": "Primordia",
-      "studio": "Lokalizace.net",
-      "studioUrl": "https://lokalizace.net/localizations/primordia",
-      "language": "Čeština",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": null,
-      "updatedAt": null,
-      "pageUrl": "https://lokalizace.net/localizations/primordia",
-      "howToInstallHtml": "<p>Stáhněte ZIP soubor a rozbalte ho do složky hry, nebo použijte aplikaci CZManager pro automatickou instalaci češtiny.</p>",
-      "changelogHtml": null,
-      "authorsHtml": "<p>ADV Dream</p>",
-      "size": null,
-      "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "227000"
     },
     {
       "title": "Trigon: Space Story",

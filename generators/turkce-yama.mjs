@@ -19,6 +19,7 @@ import { writeFile, mkdir } from "node:fs/promises";
 import { fileURLToPath } from "node:url";
 import { dirname, join } from "node:path";
 import { sleep, mapPool, getTextCurl as getText, getJson, normalizeSize } from "../lib/net.mjs";
+import { resolveSteamAppIdWithScore } from "../lib/steam-search.mjs";
 
 const ROOT = join(dirname(fileURLToPath(import.meta.url)), "..");
 
@@ -98,32 +99,8 @@ function field(html, label) {
 }
 
 /* --------------------------- steam app id lookup -------------------------- */
-
-const STEAM_SEARCH = "https://store.steampowered.com/api/storesearch/";
-const normalizeTitle = (t) =>
-  (t || "").toLowerCase().replace(/['’:.,!?®™&–—_-]/g, " ").replace(/\s+/g, " ").trim();
-const stripSuffix = (t) => {
-  let prev, out = t.trim();
-  do {
-    prev = out;
-    out = out.replace(/\s*\([^)]*\)\s*$/, "").trim();
-  } while (out !== prev);
-  return out;
-};
-
-async function resolveSteamAppId(title) {
-  for (const term of [...new Set([title, stripSuffix(title)])]) {
-    try {
-      const json = await getJson(`${STEAM_SEARCH}?term=${encodeURIComponent(term)}&cc=us&l=en`);
-      const target = normalizeTitle(term);
-      const hit = (json?.items || []).find((it) => normalizeTitle(it.name) === target);
-      if (hit?.id) return String(hit.id);
-    } catch {
-      /* ignore */
-    }
-  }
-  return null;
-}
+// Uses the shared lib/steam-search.mjs helper — variant generation, 4-level
+// fuzzy scoring, type=app filter.
 
 function buildEntry(pageUrl, html) {
   const h1 = decodeEntities((html.match(/<h1[^>]*>([^<]+)<\/h1>/i) || [])[1] || "").trim();
@@ -185,13 +162,24 @@ async function main() {
   const appCache = new Map();
   const resolveCached = (title) => {
     const key = title.toLowerCase();
-    if (!appCache.has(key)) appCache.set(key, resolveSteamAppId(title));
+    if (!appCache.has(key)) appCache.set(key, resolveSteamAppIdWithScore(title));
     return appCache.get(key);
   };
+  const candidates = [];
+  const seenCandidates = new Set();
   let j = 0;
   await mapPool(built, 5, async (e) => {
-    const appid = await resolveCached(e.title);
-    if (appid) e.steamAppId = appid;
+    const r = await resolveCached(e.title);
+    if (r?.appId && r.score >= 60) e.steamAppId = r.appId;
+    if ((!r?.appId || r.score < 100) && !seenCandidates.has(e.title)) {
+      seenCandidates.add(e.title);
+      candidates.push({
+        title: e.title,
+        appId: r?.appId ?? null,
+        matched: r?.matchedName ?? null,
+        score: r?.score ?? 0,
+      });
+    }
     j += 1;
     if (j % 25 === 0 || j === built.length)
       process.stdout.write(`\r[TY] appid ${j}/${built.length}     `);
@@ -214,6 +202,17 @@ async function main() {
   const withAuthors = built.filter((l) => l.authorsHtml).length;
   console.log(
     `[TY] done → ${built.length} (appid=${appid}, size=${withSize}, authors=${withAuthors})`
+  );
+
+  await writeFile(
+    join(ROOT, "data", "turkce-yama.candidates.json"),
+    JSON.stringify(candidates, null, 2),
+    "utf8"
+  );
+  const nulls = candidates.filter((c) => !c.appId).length;
+  const low = candidates.filter((c) => c.appId && c.score < 100).length;
+  console.log(
+    `[TY] candidates → nulls=${nulls}, sub-100=${low} (written to data/turkce-yama.candidates.json)`
   );
 }
 

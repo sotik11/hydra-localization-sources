@@ -17,6 +17,7 @@ import { readFile, writeFile } from "node:fs/promises";
 import { fileURLToPath } from "node:url";
 import { dirname, join } from "node:path";
 import { UA, sleep, fetchTimeout } from "../lib/net.mjs";
+import { resolveSteamAppIdWithScore } from "../lib/steam-search.mjs";
 
 const ROOT = join(dirname(fileURLToPath(import.meta.url)), "..");
 
@@ -77,22 +78,8 @@ async function fetchBoostyProjects() {
 }
 
 /* --------------------------- steam app id lookup -------------------------- */
-
-async function resolveSteamAppId(title) {
-  try {
-    const json = await (
-      await fetchTimeout(
-        `https://store.steampowered.com/api/storesearch/?term=${encodeURIComponent(title)}&cc=us&l=en`,
-        { headers: { Accept: "application/json", "User-Agent": UA } }
-      )
-    ).json();
-    const target = normTitle(title);
-    const hit = (json?.items || []).find((it) => normTitle(it.name) === target);
-    return hit?.id ? String(hit.id) : null;
-  } catch {
-    return null;
-  }
-}
+// Uses the shared lib/steam-search.mjs helper — variant generation, 4-level
+// fuzzy scoring, series-number sanity, type=app filter.
 
 /* ---------------------------------- main ---------------------------------- */
 
@@ -155,7 +142,8 @@ async function main() {
   for (const [key, b] of boosty) {
     if (seen.has(key)) continue;
     onlyBoosty += 1;
-    const appid = await resolveSteamAppId(b.game);
+    const r = await resolveSteamAppIdWithScore(b.game);
+    const appid = r?.appId && r.score >= 60 ? r.appId : null;
     out.push({
       steamAppId: appid ?? undefined,
       title: b.game,

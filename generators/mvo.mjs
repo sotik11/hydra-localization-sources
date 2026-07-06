@@ -15,6 +15,7 @@ import { fileURLToPath } from "node:url";
 import { dirname, join } from "node:path";
 import * as cheerio from "cheerio";
 import { sleep, mapPool, getJson, getText } from "../lib/net.mjs";
+import { resolveSteamAppIdWithScore } from "../lib/steam-search.mjs";
 
 const ROOT = join(dirname(fileURLToPath(import.meta.url)), "..");
 
@@ -75,54 +76,9 @@ function extractMirrors(html) {
   return out;
 }
 
-const STEAM_SEARCH = "https://store.steampowered.com/api/storesearch/";
-
-function normalizeTitle(t) {
-  return (t || "")
-    .toLowerCase()
-    .replace(/['’:.,!?®™&–—_-]/g, " ")
-    .replace(/\s+/g, " ")
-    .trim();
-}
-
-/** Drops a trailing "(Remake)" / "(2016)" / edition note for a 2nd attempt. */
-function stripSuffix(t) {
-  let prev;
-  let out = t.trim();
-  do {
-    prev = out;
-    out = out.replace(/\s*\([^)]*\)\s*$/, "").trim();
-  } while (out !== prev);
-  return out;
-}
-
-async function steamSearch(term) {
-  try {
-    const json = await getJson(
-      `${STEAM_SEARCH}?term=${encodeURIComponent(term)}&cc=us&l=en`
-    );
-    return Array.isArray(json?.items) ? json.items : [];
-  } catch {
-    return [];
-  }
-}
-
-/**
- * Resolves a Steam app id by exact (normalized) title match — tries the raw
- * title, then a suffix-stripped variant ("Silent Hill 2 (Remake)" -> "...2").
- * Returns null when unsure, so we never attach a wrong app id.
- */
-async function resolveSteamAppId(title) {
-  const variants = [...new Set([title, stripSuffix(title)])];
-  const targets = new Set(variants.map(normalizeTitle));
-  for (const term of variants) {
-    const items = await steamSearch(term);
-    const hit = items.find((it) => targets.has(normalizeTitle(it.name)));
-    if (hit?.id) return String(hit.id);
-    await sleep(200);
-  }
-  return null;
-}
+// Steam appid lookup uses the shared lib/steam-search.mjs helper — variant
+// generation, 4-level fuzzy scoring (exact / substring / token overlap /
+// Levenshtein), series-number sanity, type=app filter.
 
 /**
  * Reads the game page's <dt>label</dt><dd>value</dd> spec rows:
@@ -178,7 +134,8 @@ async function buildEntry(game) {
   } catch (err) {
     console.warn(`\n  ! detail failed for ${game.alias}: ${err.message}`);
   }
-  const steamAppId = await resolveSteamAppId(game.title);
+  const r = await resolveSteamAppIdWithScore(game.title);
+  const steamAppId = r?.appId && r.score >= 60 ? r.appId : null;
   return {
     steamAppId: steamAppId ?? undefined,
     title: game.title,

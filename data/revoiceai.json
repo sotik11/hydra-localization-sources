@@ -5,6 +5,41 @@
   "siteUrl": "https://boosty.to/revoice",
   "localizations": [
     {
+      "steamAppId": "1283400",
+      "title": "Steelrising",
+      "studio": "ReVoiceAI",
+      "studioUrl": "https://boosty.to/revoice",
+      "language": "Русский",
+      "hasText": false,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralText": false,
+      "hasNeuralDub": true,
+      "hasNeuralVoice": true,
+      "version": null,
+      "updatedAt": null,
+      "pageUrl": "https://www.playground.ru/steelrising/file/steelrising_polnaya_ii_ozvuchka_dublyazh_i_zakadr-1857036",
+      "howToInstallHtml": "<p>Нейроозвучка от <strong>ReVoiceAI</strong>. Скачай через одно из зеркал выше (ShareMods — облако, PlayGround — их страница) и запусти <code>.exe</code>-установщик, указав путь к игре. Поддержать авторов можно на их <a href=\"https://boosty.to/revoice\">Boosty</a>.</p>",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "ShareMods (Дубляж Matched)",
+          "url": "https://sharemods.com/euwqfcg0cz3e/Steelrising_dub_matched.zip.html",
+          "kind": "other"
+        },
+        {
+          "label": "ShareMods (Закадр)",
+          "url": "https://sharemods.com/c4u9cxf2q847/Steelrising_voiceover.zip.html",
+          "kind": "other"
+        },
+        {
+          "label": "Boosty (поддержать авторов)",
+          "url": "https://boosty.to/revoice/posts/90fd87b3-98ce-4ed4-8518-525beee4e382",
+          "kind": "other"
+        }
+      ]
+    },
+    {
       "title": "GreedFall 2 / GreedFall - The Dying World",
       "studio": "ReVoiceAI",
       "studioUrl": "https://boosty.to/revoice",

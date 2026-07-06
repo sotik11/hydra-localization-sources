@@ -5,6 +5,118 @@
   "siteUrl": "https://hernipreklady.cz",
   "localizations": [
     {
+      "title": "The Last Caretaker",
+      "studio": "HerníPřeklady",
+      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/the-last-caretaker",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": "0.93",
+      "updatedAt": null,
+      "requiredGameVersion": "0.8.0.612251",
+      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/the-last-caretaker",
+      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
+      "authorsHtml": "<p><strong>Překlad a test:</strong> Andrewek</p>",
+      "inDevelopment": false,
+      "size": "3.46 MB",
+      "mirrors": [
+        {
+          "label": "HerníPřeklady",
+          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=588",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "1783560"
+    },
+    {
+      "title": "Indiana Jones and The Great Circle",
+      "studio": "HerníPřeklady",
+      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/indiana-jones-and-the-great-circle",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": "1.80",
+      "updatedAt": "13.05.2026",
+      "requiredGameVersion": "Update 8 &ndash; Hotfix 1",
+      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/indiana-jones-and-the-great-circle",
+      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
+      "authorsHtml": null,
+      "inDevelopment": false,
+      "size": "118.4 MB",
+      "mirrors": [
+        {
+          "label": "HerníPřeklady",
+          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=573",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "2677660"
+    },
+    {
+      "title": "Songs of Conquest",
+      "studio": "HerníPřeklady",
+      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/songs-of-conquest",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": "1.54",
+      "updatedAt": null,
+      "requiredGameVersion": "1.10.4",
+      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/songs-of-conquest",
+      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
+      "authorsHtml": "<p><strong>Překlad:</strong> Jetro<br><strong>Testování:</strong> Jetro, Paras</p>",
+      "inDevelopment": false,
+      "size": "41.4 MB",
+      "mirrors": [
+        {
+          "label": "HerníPřeklady",
+          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=587",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "867210"
+    },
+    {
+      "title": "Civilization VII",
+      "studio": "HerníPřeklady",
+      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/civilization-vii",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": "1.07",
+      "updatedAt": null,
+      "requiredGameVersion": "1.4.1 (PC - Win)",
+      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/civilization-vii",
+      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
+      "authorsHtml": "<p><strong>Překlad:</strong> Jetro, Ralph Shepard, Coffin Corner, Sushi<br><strong>Korektura:</strong> Jetro<br><strong>Testování:</strong> Ralph Shepard, Andrewek, Jetro</p>",
+      "inDevelopment": false,
+      "size": "3.30 MB",
+      "mirrors": [
+        {
+          "label": "HerníPřeklady",
+          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=585",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "1295660"
+    },
+    {
       "title": "Anno 117",
       "studio": "HerníPřeklady",
       "studioUrl": "https://hernipreklady.cz/seznam-prekladu/anno-117",
@@ -52,33 +164,6 @@
       "size": null,
       "mirrors": [],
       "steamAppId": "1237970"
-    },
-    {
-      "title": "Civilization VII",
-      "studio": "HerníPřeklady",
-      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/civilization-vii",
-      "language": "Čeština",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": "1.07",
-      "updatedAt": null,
-      "requiredGameVersion": "1.4.1 (PC - Win)",
-      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/civilization-vii",
-      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
-      "authorsHtml": "<p><strong>Překlad:</strong> Jetro, Ralph Shepard, Coffin Corner, Sushi<br><strong>Korektura:</strong> Jetro<br><strong>Testování:</strong> Ralph Shepard, Andrewek, Jetro</p>",
-      "inDevelopment": false,
-      "size": "3.30 MB",
-      "mirrors": [
-        {
-          "label": "HerníPřeklady",
-          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=585",
-          "kind": "direct"
-        }
-      ]
     },
     {
       "title": "Terra Invicta",
@@ -131,9 +216,9 @@
       "steamAppId": "2255370"
     },
     {
-      "title": "Wartales + DLC",
+      "title": "Frostpunk",
       "studio": "HerníPřeklady",
-      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/wartales-dlc",
+      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/frostpunk",
       "language": "Čeština",
       "hasText": true,
       "hasVoice": false,
@@ -141,161 +226,22 @@
       "hasNeuralVoice": false,
       "hasNeuralDub": false,
       "hasNeuralText": false,
-      "version": "2.6",
-      "updatedAt": null,
-      "requiredGameVersion": "1.0.47036",
-      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/wartales-dlc",
+      "version": "1.18",
+      "updatedAt": "06.02.2024",
+      "requiredGameVersion": "1.6.2",
+      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/frostpunk",
       "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
-      "authorsHtml": "<p><strong>Překlad a testování:</strong> Andrewek</p>",
+      "authorsHtml": "<p><strong>Překlad:</strong> Jetro, Coffin Corner, Ralph Shepard<br><strong>Testování:</strong> Ralph Shepard, Jetro, Barbar</p>",
       "inDevelopment": false,
-      "size": "8.49 MB",
+      "size": "10.1 MB",
       "mirrors": [
         {
           "label": "HerníPřeklady",
-          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=582",
-          "kind": "direct"
-        }
-      ]
-    },
-    {
-      "title": "No Man's Sky",
-      "studio": "HerníPřeklady",
-      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/no-man-s-sky",
-      "language": "Čeština",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": null,
-      "updatedAt": null,
-      "requiredGameVersion": "6.44_TheSwarm_169781",
-      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/no-man-s-sky",
-      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
-      "authorsHtml": "<p><strong>Překlad:</strong> Unread</p>",
-      "inDevelopment": false,
-      "size": "6.50 MB",
-      "mirrors": [
-        {
-          "label": "HerníPřeklady",
-          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=580",
+          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=126",
           "kind": "direct"
         }
       ],
-      "steamAppId": "275850"
-    },
-    {
-      "title": "Tormented Souls 2",
-      "studio": "HerníPřeklady",
-      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/tormented-souls-2",
-      "language": "Čeština",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": "1.60",
-      "updatedAt": null,
-      "requiredGameVersion": "Update ze dne 04.06.2026",
-      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/tormented-souls-2",
-      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
-      "authorsHtml": null,
-      "inDevelopment": false,
-      "size": "33.8 MB",
-      "mirrors": [
-        {
-          "label": "HerníPřeklady",
-          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=579",
-          "kind": "direct"
-        }
-      ],
-      "steamAppId": "2464280"
-    },
-    {
-      "title": "Frostpunk 2",
-      "studio": "HerníPřeklady",
-      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/frostpunk-2",
-      "language": "Čeština",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": "1.07",
-      "updatedAt": "20.02.2026",
-      "requiredGameVersion": "1.5.4",
-      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/frostpunk-2",
-      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
-      "authorsHtml": "<p><strong>Překlad:</strong> Jetro, Ralph Shepard,<br><strong>Testování:</strong> Jetro, Andrewek</p>",
-      "inDevelopment": false,
-      "size": "3.27 MB",
-      "mirrors": [
-        {
-          "label": "HerníPřeklady",
-          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=527",
-          "kind": "direct"
-        }
-      ],
-      "steamAppId": "1601580"
-    },
-    {
-      "title": "Astroneer",
-      "studio": "HerníPřeklady",
-      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/astroneer",
-      "language": "Čeština",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": null,
-      "updatedAt": "12.03.2026",
-      "requiredGameVersion": "1.38.7.0",
-      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/astroneer",
-      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
-      "authorsHtml": "<p><strong>Překlad:</strong> Unread</p>",
-      "inDevelopment": false,
-      "size": "3.39 MB",
-      "mirrors": [
-        {
-          "label": "HerníPřeklady",
-          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=542",
-          "kind": "direct"
-        }
-      ],
-      "steamAppId": "361420"
-    },
-    {
-      "title": "Indiana Jones and The Great Circle",
-      "studio": "HerníPřeklady",
-      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/indiana-jones-and-the-great-circle",
-      "language": "Čeština",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": "1.80",
-      "updatedAt": "13.05.2026",
-      "requiredGameVersion": "Update 8",
-      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/indiana-jones-and-the-great-circle",
-      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
-      "authorsHtml": null,
-      "inDevelopment": false,
-      "size": "118.4 MB",
-      "mirrors": [
-        {
-          "label": "HerníPřeklady",
-          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=573",
-          "kind": "direct"
-        }
-      ],
-      "steamAppId": "2677660"
+      "steamAppId": "323190"
     },
     {
       "title": "Evotinction",
@@ -350,7 +296,8 @@
           "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=565",
           "kind": "direct"
         }
-      ]
+      ],
+      "steamAppId": "2362060"
     },
     {
       "title": "Cairn",
@@ -655,6 +602,34 @@
       "steamAppId": "3612850"
     },
     {
+      "title": "Tormented Souls 2",
+      "studio": "HerníPřeklady",
+      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/tormented-souls-2",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": "1.60",
+      "updatedAt": null,
+      "requiredGameVersion": "Update ze dne 04.06.2026",
+      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/tormented-souls-2",
+      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
+      "authorsHtml": null,
+      "inDevelopment": false,
+      "size": "33.8 MB",
+      "mirrors": [
+        {
+          "label": "HerníPřeklady",
+          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=579",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "2464280"
+    },
+    {
       "title": "Two Point Campus",
       "studio": "HerníPřeklady",
       "studioUrl": "https://hernipreklady.cz/seznam-prekladu/two-point-campus",
@@ -779,7 +754,8 @@
           "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=491",
           "kind": "direct"
         }
-      ]
+      ],
+      "steamAppId": "1425980"
     },
     {
       "title": "Cash Cleaner Simulator",
@@ -892,6 +868,34 @@
         }
       ],
       "steamAppId": "1902960"
+    },
+    {
+      "title": "No Man's Sky",
+      "studio": "HerníPřeklady",
+      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/no-man-s-sky",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": null,
+      "updatedAt": null,
+      "requiredGameVersion": "6.44_TheSwarm_169781",
+      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/no-man-s-sky",
+      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
+      "authorsHtml": "<p><strong>Překlad:</strong> Unread</p>",
+      "inDevelopment": false,
+      "size": "6.50 MB",
+      "mirrors": [
+        {
+          "label": "HerníPřeklady",
+          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=580",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "275850"
     },
     {
       "title": "This War of Mine",
@@ -1029,7 +1033,8 @@
           "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=490",
           "kind": "direct"
         }
-      ]
+      ],
+      "steamAppId": "1535030"
     },
     {
       "title": "Once Alive",
@@ -1448,7 +1453,8 @@
           "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=241",
           "kind": "direct"
         }
-      ]
+      ],
+      "steamAppId": "1881120"
     },
     {
       "title": "The Invincible",
@@ -1699,7 +1705,8 @@
           "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=210",
           "kind": "direct"
         }
-      ]
+      ],
+      "steamAppId": "1466640"
     },
     {
       "title": "The Thaumaturge",
@@ -1866,7 +1873,8 @@
           "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=337",
           "kind": "direct"
         }
-      ]
+      ],
+      "steamAppId": "108710"
     },
     {
       "title": "Dune: Spice Wars",
@@ -1921,7 +1929,8 @@
           "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=560",
           "kind": "direct"
         }
-      ]
+      ],
+      "steamAppId": "1545560"
     },
     {
       "title": "Kona 2: Brume",
@@ -1948,35 +1957,8 @@
           "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=538",
           "kind": "direct"
         }
-      ]
-    },
-    {
-      "title": "Songs of Conquest",
-      "studio": "HerníPřeklady",
-      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/songs-of-conquest",
-      "language": "Čeština",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": "1.53",
-      "updatedAt": "20.03.2026",
-      "requiredGameVersion": "1.9.3",
-      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/songs-of-conquest",
-      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
-      "authorsHtml": "<p><strong>Překlad:</strong> Jetro<br><strong>Testování:</strong> Jetro, Paras</p>",
-      "inDevelopment": false,
-      "size": "38.9 MB",
-      "mirrors": [
-        {
-          "label": "HerníPřeklady",
-          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=544",
-          "kind": "direct"
-        }
       ],
-      "steamAppId": "867210"
+      "steamAppId": "1229020"
     },
     {
       "title": "New Tales from the Borderlands",
@@ -2337,7 +2319,8 @@
           "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=85",
           "kind": "direct"
         }
-      ]
+      ],
+      "steamAppId": "1708010"
     },
     {
       "title": "Tormented Souls",
@@ -2475,7 +2458,8 @@
           "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=260",
           "kind": "direct"
         }
-      ]
+      ],
+      "steamAppId": "289070"
     },
     {
       "title": "Anno 1800",
@@ -2530,7 +2514,8 @@
           "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=494",
           "kind": "direct"
         }
-      ]
+      ],
+      "steamAppId": "632470"
     },
     {
       "title": "Into the Radius VR",
@@ -2641,7 +2626,8 @@
           "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=168",
           "kind": "direct"
         }
-      ]
+      ],
+      "steamAppId": "1954200"
     },
     {
       "title": "The Dark Pictures: Man of Medan",
@@ -2668,7 +2654,8 @@
           "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=438",
           "kind": "direct"
         }
-      ]
+      ],
+      "steamAppId": "939850"
     },
     {
       "title": "Phoenix Point",
@@ -2807,7 +2794,8 @@
           "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=291",
           "kind": "direct"
         }
-      ]
+      ],
+      "steamAppId": "394310"
     },
     {
       "title": "Jagged Alliance 3",
@@ -2890,7 +2878,8 @@
           "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=545",
           "kind": "direct"
         }
-      ]
+      ],
+      "steamAppId": "482400"
     },
     {
       "title": "Broken Pieces",
@@ -3001,7 +2990,8 @@
           "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=77",
           "kind": "direct"
         }
-      ]
+      ],
+      "steamAppId": "1449320"
     },
     {
       "title": "The Quarry",
@@ -3056,7 +3046,8 @@
           "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=44",
           "kind": "direct"
         }
-      ]
+      ],
+      "steamAppId": "916840"
     },
     {
       "title": "The Walking Dead: Saints & Sinners VR",
@@ -3083,7 +3074,8 @@
           "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=43",
           "kind": "direct"
         }
-      ]
+      ],
+      "steamAppId": "916840"
     },
     {
       "title": "Deliver Us The Moon",
@@ -3112,6 +3104,34 @@
         }
       ],
       "steamAppId": "428660"
+    },
+    {
+      "title": "Wartales + DLC",
+      "studio": "HerníPřeklady",
+      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/wartales-dlc",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": "2.6",
+      "updatedAt": null,
+      "requiredGameVersion": "1.0.47036",
+      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/wartales-dlc",
+      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
+      "authorsHtml": "<p><strong>Překlad a testování:</strong> Andrewek</p>",
+      "inDevelopment": false,
+      "size": "8.49 MB",
+      "mirrors": [
+        {
+          "label": "HerníPřeklady",
+          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=582",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "1527950"
     },
     {
       "title": "Returnal",
@@ -3166,7 +3186,8 @@
           "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=136",
           "kind": "direct"
         }
-      ]
+      ],
+      "steamAppId": "933820"
     },
     {
       "title": "The Dark Pictures: The Devil In Me",
@@ -3193,7 +3214,8 @@
           "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=74",
           "kind": "direct"
         }
-      ]
+      ],
+      "steamAppId": "1567020"
     },
     {
       "title": "GameDEC",
@@ -3247,7 +3269,8 @@
           "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=107",
           "kind": "direct"
         }
-      ]
+      ],
+      "steamAppId": "3558730"
     },
     {
       "title": "Surviving the Aftermath",
@@ -3413,7 +3436,8 @@
           "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=124",
           "kind": "direct"
         }
-      ]
+      ],
+      "steamAppId": "2591280"
     },
     {
       "title": "The Signifier",
@@ -3440,7 +3464,8 @@
           "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=37",
           "kind": "direct"
         }
-      ]
+      ],
+      "steamAppId": "1571240"
     },
     {
       "title": "Myst",
@@ -3551,7 +3576,8 @@
           "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=30",
           "kind": "direct"
         }
-      ]
+      ],
+      "steamAppId": "1215270"
     },
     {
       "title": "Wanderer VR",
@@ -3578,7 +3604,8 @@
           "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=27",
           "kind": "direct"
         }
-      ]
+      ],
+      "steamAppId": "1599560"
     },
     {
       "title": "The Dark Pictures: Little Hope",
@@ -3605,7 +3632,8 @@
           "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=294",
           "kind": "direct"
         }
-      ]
+      ],
+      "steamAppId": "1194630"
     },
     {
       "title": "The Chant",
@@ -3687,7 +3715,8 @@
           "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=125",
           "kind": "direct"
         }
-      ]
+      ],
+      "steamAppId": "1380410"
     },
     {
       "title": "Martha Is Dead",
@@ -3827,34 +3856,6 @@
         }
       ],
       "steamAppId": "1414650"
-    },
-    {
-      "title": "Frostpunk",
-      "studio": "HerníPřeklady",
-      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/frostpunk",
-      "language": "Čeština",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": "1.18",
-      "updatedAt": "06.02.2024",
-      "requiredGameVersion": "1.6.2",
-      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/frostpunk",
-      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
-      "authorsHtml": "<p><strong>Překlad:</strong> Jetro, Coffin Corner, Ralph Shepard<br><strong>Testování:</strong> Ralph Shepard, Jetro, Barbar</p>",
-      "inDevelopment": false,
-      "size": "10.1 MB",
-      "mirrors": [
-        {
-          "label": "HerníPřeklady",
-          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=126",
-          "kind": "direct"
-        }
-      ],
-      "steamAppId": "323190"
     },
     {
       "title": "Tales of Tomorrow: Experiment",
@@ -4043,7 +4044,8 @@
       "authorsHtml": "<p><strong>Překlad textů a textur:</strong> Luc2as<br><strong>Technika:</strong> Termit</p>",
       "inDevelopment": true,
       "size": null,
-      "mirrors": []
+      "mirrors": [],
+      "steamAppId": "823500"
     },
     {
       "title": "Medal of Honor™: Above and Beyond VR",
@@ -4070,7 +4072,8 @@
           "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=24",
           "kind": "direct"
         }
-      ]
+      ],
+      "steamAppId": "47790"
     },
     {
       "title": "Chorus",
@@ -4209,7 +4212,8 @@
           "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=62",
           "kind": "direct"
         }
-      ]
+      ],
+      "steamAppId": "906100"
     },
     {
       "title": "Invisible hours",
@@ -4236,7 +4240,8 @@
           "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=21",
           "kind": "direct"
         }
-      ]
+      ],
+      "steamAppId": "582560"
     },
     {
       "title": "The Room VR: A Dark Matter",
@@ -4347,7 +4352,8 @@
           "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=500",
           "kind": "direct"
         }
-      ]
+      ],
+      "steamAppId": "1281590"
     },
     {
       "title": "Succubus",
@@ -4513,7 +4519,8 @@
           "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=19",
           "kind": "direct"
         }
-      ]
+      ],
+      "steamAppId": "1738710"
     },
     {
       "title": "Observer: System Redux",
@@ -4952,7 +4959,8 @@
           "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=179",
           "kind": "direct"
         }
-      ]
+      ],
+      "steamAppId": "1367550"
     },
     {
       "title": "Remothered Tormented Fathers",
@@ -5147,7 +5155,8 @@
           "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=158",
           "kind": "direct"
         }
-      ]
+      ],
+      "steamAppId": "606280"
     },
     {
       "title": "Civilization V",
@@ -5201,7 +5210,8 @@
           "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=132",
           "kind": "direct"
         }
-      ]
+      ],
+      "steamAppId": "65980"
     }
   ]
 }
