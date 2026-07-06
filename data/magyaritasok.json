@@ -2670,10 +2670,10 @@
       "language": "Magyar",
       "hasText": true,
       "hasVoice": false,
-      "version": "1.01",
-      "updatedAt": "13.03.2026",
+      "version": "1.02",
+      "updatedAt": "05.07.2026",
       "requiredGameVersion": "1.0 hotfix4",
-      "size": "12.5 MB",
+      "size": "12.4 MB",
       "pageUrl": "https://magyaritasok.hu/games/resident-evil",
       "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
       "authorsHtml": "<p>FEARka, Panyi</p>",
@@ -2681,7 +2681,7 @@
       "mirrors": [
         {
           "label": "Magyarítások",
-          "url": "https://magyaritasok.hu/dl/residentevil/ResidentEvil_v1.01.zip",
+          "url": "https://magyaritasok.hu/dl/residentevil/RE_1996_v1.02.zip",
           "kind": "direct"
         }
       ]
@@ -16495,10 +16495,10 @@
       "language": "Magyar",
       "hasText": true,
       "hasVoice": false,
-      "version": "1.0",
-      "updatedAt": "21.06.2020",
-      "requiredGameVersion": null,
-      "size": "2.10 MB",
+      "version": "1.01",
+      "updatedAt": "04.07.2026",
+      "requiredGameVersion": "1.09",
+      "size": "3.34 MB",
       "pageUrl": "https://magyaritasok.hu/games/lightmatter",
       "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
       "authorsHtml": "<p>Evin</p>",
@@ -16506,7 +16506,7 @@
       "mirrors": [
         {
           "label": "Magyarítások",
-          "url": "https://magyaritasok.hu/dl/Lightmatter/Lightmatter_HUN_1.0.exe",
+          "url": "https://magyaritasok.hu/dl/Lightmatter/Lightmatter_HUN_1.01.exe",
           "kind": "direct"
         }
       ]
@@ -29140,6 +29140,53 @@
         {
           "label": "Magyarítások",
           "url": "https://magyaritasok.hu/dl/thestanleyparable/TSPHU-v1.01.exe",
+          "kind": "direct"
+        }
+      ]
+    },
+    {
+      "steamAppId": "21980",
+      "title": "Call Of Juarez: Bound In Blood",
+      "studio": "Magyarítások",
+      "studioUrl": "https://magyaritasok.hu",
+      "language": "Magyar",
+      "hasText": true,
+      "hasVoice": false,
+      "version": null,
+      "updatedAt": "16.08.2015",
+      "requiredGameVersion": null,
+      "size": "9.17 MB",
+      "pageUrl": "https://magyaritasok.hu/games/call-of-juarez-bound-in-blood",
+      "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
+      "authorsHtml": "<p>GameHunter TEAM</p>",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Magyarítások",
+          "url": "https://magyaritasok.hu/dl/callofuarez_boundinblood/cojbib_hun.exe",
+          "kind": "direct"
+        }
+      ]
+    },
+    {
+      "title": "Mass Effect 3",
+      "studio": "Magyarítások",
+      "studioUrl": "https://magyaritasok.hu",
+      "language": "Magyar",
+      "hasText": true,
+      "hasVoice": false,
+      "version": "1.1.0.1",
+      "updatedAt": "16.05.2021",
+      "requiredGameVersion": "1.5",
+      "size": "2.43 MB",
+      "pageUrl": "https://magyaritasok.hu/games/mass-effect-3",
+      "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
+      "authorsHtml": "<p>Panyi, Cyrus, Evin, Minigun, masseffect.hu</p>",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Magyarítások",
+          "url": "https://magyaritasok.hu/dl/masseffect3/ME3_hun_1.1_setup.exe",
           "kind": "direct"
         }
       ]

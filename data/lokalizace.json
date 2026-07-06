@@ -5,6 +5,34 @@
   "siteUrl": "https://lokalizace.net",
   "localizations": [
     {
+      "title": "7 Days to Die 3.0",
+      "studio": "Lokalizace.net",
+      "studioUrl": "https://lokalizace.net/localizations/7-days-to-die",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": "0.8.8",
+      "updatedAt": "06.07.2026",
+      "pageUrl": "https://lokalizace.net/localizations/7-days-to-die",
+      "howToInstallHtml": "<p>Stáhněte ZIP soubor a rozbalte ho do složky hry, nebo použijte aplikaci CZManager pro automatickou instalaci češtiny.</p>",
+      "changelogHtml": "<div><p>Nahrána nová verze překladu: 0.8.8</p></div>",
+      "authorsHtml": "<p>GREG-RAY_CZ</p>",
+      "size": "3.60 MB",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Lokalizace.net",
+          "url": "https://lokalizace.net/api/download/1651",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "3247640"
+    },
+    {
       "title": "Hello Neighbor: Search and Rescue",
       "studio": "Lokalizace.net",
       "studioUrl": "https://lokalizace.net/localizations/hello-neighbor-search-and-rescue",
@@ -9998,7 +10026,7 @@
           "kind": "direct"
         }
       ],
-      "steamAppId": "1305250"
+      "steamAppId": "1547000"
     },
     {
       "title": "Age of Empires II Definitive Edition",
@@ -13868,7 +13896,8 @@
           "url": "https://lokalizace.net/api/download/303",
           "kind": "direct"
         }
-      ]
+      ],
+      "steamAppId": "866570"
     },
     {
       "title": "Vampire the Maquerade: Bloodlines",
@@ -14893,118 +14922,6 @@
         }
       ],
       "steamAppId": "1796220"
-    },
-    {
-      "title": "They Always Run",
-      "studio": "Lokalizace.net",
-      "studioUrl": "https://lokalizace.net/localizations/they-always-run",
-      "language": "Čeština",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": "CZ_1.00_HRA_1.0.15.919(1befe5dd9)_(v2)",
-      "updatedAt": "21.06.2024",
-      "pageUrl": "https://lokalizace.net/localizations/they-always-run",
-      "howToInstallHtml": "<p>Stáhněte ZIP soubor a rozbalte ho do složky hry, nebo použijte aplikaci CZManager pro automatickou instalaci češtiny.</p>",
-      "changelogHtml": null,
-      "authorsHtml": "<p>GWynter</p>",
-      "size": "29.9 MB",
-      "inDevelopment": false,
-      "mirrors": [
-        {
-          "label": "Lokalizace.net",
-          "url": "https://lokalizace.net/api/download/220",
-          "kind": "direct"
-        }
-      ],
-      "steamAppId": "1585440"
-    },
-    {
-      "title": "Yonder: The Cloud Catcher Chronicles",
-      "studio": "Lokalizace.net",
-      "studioUrl": "https://lokalizace.net/localizations/yonder-the-cloud-catcher-chronicles",
-      "language": "Čeština",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": "CZ_1.00_HRA_S_UPDATE_8(600)(143144)_(v2)",
-      "updatedAt": "21.06.2024",
-      "pageUrl": "https://lokalizace.net/localizations/yonder-the-cloud-catcher-chronicles",
-      "howToInstallHtml": "<p>Stáhněte ZIP soubor a rozbalte ho do složky hry, nebo použijte aplikaci CZManager pro automatickou instalaci češtiny.</p>",
-      "changelogHtml": null,
-      "authorsHtml": "<p>GWynter</p>",
-      "size": "52.4 MB",
-      "inDevelopment": false,
-      "mirrors": [
-        {
-          "label": "Lokalizace.net",
-          "url": "https://lokalizace.net/api/download/219",
-          "kind": "direct"
-        }
-      ],
-      "steamAppId": "580200"
-    },
-    {
-      "title": "Huntdown",
-      "studio": "Lokalizace.net",
-      "studioUrl": "https://lokalizace.net/localizations/huntdown",
-      "language": "Čeština",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": "1.00_HRA_(poslední_steam)_(v2)",
-      "updatedAt": "21.06.2024",
-      "pageUrl": "https://lokalizace.net/localizations/huntdown",
-      "howToInstallHtml": "<p>Stáhněte ZIP soubor a rozbalte ho do složky hry, nebo použijte aplikaci CZManager pro automatickou instalaci češtiny.</p>",
-      "changelogHtml": null,
-      "authorsHtml": "<p>GWynter</p>",
-      "size": "2.10 MB",
-      "inDevelopment": false,
-      "mirrors": [
-        {
-          "label": "Lokalizace.net",
-          "url": "https://lokalizace.net/api/download/218",
-          "kind": "direct"
-        }
-      ],
-      "steamAppId": "598550"
-    },
-    {
-      "title": "Zombotron",
-      "studio": "Lokalizace.net",
-      "studioUrl": "https://lokalizace.net/localizations/zombotron",
-      "language": "Čeština",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": "CZ_1.00_HRA_1.2.1_(v2)",
-      "updatedAt": "21.06.2024",
-      "pageUrl": "https://lokalizace.net/localizations/zombotron",
-      "howToInstallHtml": "<p>Stáhněte ZIP soubor a rozbalte ho do složky hry, nebo použijte aplikaci CZManager pro automatickou instalaci češtiny.</p>",
-      "changelogHtml": null,
-      "authorsHtml": "<p>GWynter</p>",
-      "size": "9.50 MB",
-      "inDevelopment": false,
-      "mirrors": [
-        {
-          "label": "Lokalizace.net",
-          "url": "https://lokalizace.net/api/download/217",
-          "kind": "direct"
-        }
-      ],
-      "steamAppId": "664830"
     },
     {
       "title": "Valfaris",
@@ -16113,7 +16030,7 @@
           "kind": "direct"
         }
       ],
-      "steamAppId": "1555570"
+      "steamAppId": "2521380"
     },
     {
       "title": "Inversion",
@@ -17730,6 +17647,100 @@
       "steamAppId": "204450"
     },
     {
+      "title": "Everspace",
+      "studio": "Lokalizace.net",
+      "studioUrl": "https://lokalizace.net/localizations/everspace",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": null,
+      "updatedAt": null,
+      "pageUrl": "https://lokalizace.net/localizations/everspace",
+      "howToInstallHtml": "<p>Stáhněte ZIP soubor a rozbalte ho do složky hry, nebo použijte aplikaci CZManager pro automatickou instalaci češtiny.</p>",
+      "changelogHtml": null,
+      "authorsHtml": "<p>Lokalizace.Net</p>",
+      "size": null,
+      "inDevelopment": true,
+      "mirrors": [],
+      "steamAppId": "396750"
+    },
+    {
+      "title": "Darksiders 3",
+      "studio": "Lokalizace.net",
+      "studioUrl": "https://lokalizace.net/localizations/darksiders-3",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": null,
+      "updatedAt": null,
+      "pageUrl": "https://lokalizace.net/localizations/darksiders-3",
+      "howToInstallHtml": "<p>Stáhněte ZIP soubor a rozbalte ho do složky hry, nebo použijte aplikaci CZManager pro automatickou instalaci češtiny.</p>",
+      "changelogHtml": null,
+      "authorsHtml": "<p>Lokalizace.Net</p>",
+      "size": null,
+      "inDevelopment": true,
+      "mirrors": [],
+      "steamAppId": "606280"
+    },
+    {
+      "title": "Leisure Suit Larry: Wet Dreams Dry Twice",
+      "studio": "Lokalizace.net",
+      "studioUrl": "https://lokalizace.net/localizations/leisure-suit-larry-wet-dreams-dry-twice",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": "1.0 - bez diakritiky v.3",
+      "updatedAt": "25.12.2024",
+      "pageUrl": "https://lokalizace.net/localizations/leisure-suit-larry-wet-dreams-dry-twice",
+      "howToInstallHtml": "<p>Stáhněte ZIP soubor a rozbalte ho do složky hry, nebo použijte aplikaci CZManager pro automatickou instalaci češtiny.</p>",
+      "changelogHtml": null,
+      "authorsHtml": "<p>ADV Dream</p>",
+      "size": "587 KB",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Lokalizace.net",
+          "url": "https://lokalizace.net/api/download/569",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "1373430"
+    },
+    {
+      "title": "Leisure Suit Larry: Wet Dreams Don't Dry",
+      "studio": "Lokalizace.net",
+      "studioUrl": "https://lokalizace.net/localizations/leisure-suit-larry-wet-dreams-dont-dry",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": null,
+      "updatedAt": null,
+      "pageUrl": "https://lokalizace.net/localizations/leisure-suit-larry-wet-dreams-dont-dry",
+      "howToInstallHtml": "<p>Stáhněte ZIP soubor a rozbalte ho do složky hry, nebo použijte aplikaci CZManager pro automatickou instalaci češtiny.</p>",
+      "changelogHtml": null,
+      "authorsHtml": "<p>ADV Dream</p>",
+      "size": null,
+      "inDevelopment": true,
+      "mirrors": [],
+      "steamAppId": "765870"
+    },
+    {
       "title": "Leisure Suit Larry: Reloaded",
       "studio": "Lokalizace.net",
       "studioUrl": "https://lokalizace.net/localizations/leisure-suit-larry-reloaded",
@@ -18455,7 +18466,8 @@
       "authorsHtml": "<p>Lokalizace.Net</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": []
+      "mirrors": [],
+      "steamAppId": "206420"
     },
     {
       "title": "Resident Evil 3",
@@ -19073,6 +19085,27 @@
       "inDevelopment": true,
       "mirrors": [],
       "steamAppId": "2369390"
+    },
+    {
+      "title": "Amnesia Lifeless: Descent into Abandon",
+      "studio": "Lokalizace.net",
+      "studioUrl": "https://lokalizace.net/localizations/amnesia-lifeless",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": null,
+      "updatedAt": null,
+      "pageUrl": "https://lokalizace.net/localizations/amnesia-lifeless",
+      "howToInstallHtml": "<p>Stáhněte ZIP soubor a rozbalte ho do složky hry, nebo použijte aplikaci CZManager pro automatickou instalaci češtiny.</p>",
+      "changelogHtml": "<div><p>Nahrána nová verze překladu: 2.05</p></div>",
+      "authorsHtml": "<p>Amnesia</p>",
+      "size": null,
+      "inDevelopment": true,
+      "mirrors": []
     },
     {
       "title": "Hollowbody",
@@ -20052,7 +20085,8 @@
       "authorsHtml": "<p>Starsoul</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": []
+      "mirrors": [],
+      "steamAppId": "2653940"
     },
     {
       "title": "Crisis Core Final Fantasy VII Reunion",

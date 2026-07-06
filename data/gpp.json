@@ -2130,6 +2130,7 @@
       ]
     },
     {
+      "steamAppId": "316790",
       "title": "Grim Fandango",
       "studio": "Graj Po Polsku",
       "studioUrl": "https://grajpopolsku.pl",
@@ -2342,6 +2343,7 @@
       ]
     },
     {
+      "steamAppId": "214250",
       "title": "I am Alive",
       "studio": "Graj Po Polsku",
       "studioUrl": "https://grajpopolsku.pl",
@@ -2581,7 +2583,7 @@
       ]
     },
     {
-      "steamAppId": "3832940",
+      "steamAppId": "201830",
       "title": "Jurassic Park: The Game",
       "studio": "Graj Po Polsku",
       "studioUrl": "https://grajpopolsku.pl",
@@ -2689,7 +2691,7 @@
       ]
     },
     {
-      "steamAppId": "2624870",
+      "steamAppId": "319630",
       "title": "Life Is Strange",
       "studio": "Graj Po Polsku",
       "studioUrl": "https://grajpopolsku.pl",
@@ -2968,6 +2970,7 @@
       ]
     },
     {
+      "steamAppId": "237110",
       "title": "Mortal Kombat Komplete Edition",
       "studio": "Graj Po Polsku",
       "studioUrl": "https://grajpopolsku.pl",
@@ -4385,7 +4388,7 @@
       "mirrors": [
         {
           "label": "Graj Po Polsku",
-          "url": "https://grajpopolsku.pl/wp-content/uploads/2024/11/the-count-lucanor-pl-16.zip",
+          "url": "https://grajpopolsku.pl/?gppdl=3215",
           "kind": "direct"
         }
       ]
