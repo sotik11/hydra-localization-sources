@@ -1,0 +1,112 @@
+name: Failsafe snapshot (stable -> main)
+
+# Bi-weekly snapshot of the live `stable` feed into `main` so users on the
+# main-URL always have a known-good backup. See DESIGN.md > "Ветки
+# репозитория hydra-localization-sources" for policy.
+
+on:
+  schedule:
+    # 1st and 15th of every month at 03:00 UTC — ~ every 14 days.
+    # (GitHub Actions doesn't support `*/14 days` reliably.)
+    - cron: "0 3 1,15 * *"
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: "Run sanity checks but skip the merge/push"
+        required: false
+        default: "false"
+        type: choice
+        options: ["false", "true"]
+
+permissions:
+  contents: write
+
+jobs:
+  snapshot:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo (both branches)
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          # We push to main below; use the built-in token.
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Fetch branches
+        run: |
+          git fetch origin main:main stable:stable
+          git checkout main
+
+      - name: Materialize stable data into a sibling dir for comparison
+        run: |
+          mkdir -p /tmp/stable-data
+          git show stable:'./' > /dev/null 2>&1 || true
+          # Copy every data/*.json from the stable ref into /tmp/stable-data
+          git ls-tree -r --name-only stable -- data/ | while read f; do
+            [ -f "$f" ] || true
+            mkdir -p "/tmp/stable-data/$(dirname "$f")"
+            git show "stable:$f" > "/tmp/stable-data/$f"
+          done
+          ls /tmp/stable-data/data | head
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Run sanity check
+        id: sanity
+        continue-on-error: true
+        run: |
+          node .github/scripts/sanity-check.mjs /tmp/stable-data/data ./data
+
+      - name: Telegram — FAIL notification
+        if: steps.sanity.outcome == 'failure'
+        env:
+          TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          CHAT: ${{ secrets.TELEGRAM_CHAT_ID }}
+          SUMMARY: ${{ steps.sanity.outputs.summary }}
+        run: |
+          FAILURES=$(echo "$SUMMARY" | jq -r '.failures | map("• `\(.file)`: \(.reason)") | join("\n")')
+          TEXT="⚠️ *Failsafe snapshot SKIPPED — sanity-check failed*%0A%0A${FAILURES}%0A%0ARepo: hydra-localization-sources%0AWorkflow: [logs](${GITHUB_SERVER_URL}/${GITHUB_REPOSITORY}/actions/runs/${GITHUB_RUN_ID})"
+          curl -s -X POST "https://api.telegram.org/bot${TOKEN}/sendMessage" \
+            -d "chat_id=${CHAT}" \
+            -d "parse_mode=Markdown" \
+            -d "text=${TEXT}"
+          # Fail the job so the schedule shows red
+          exit 1
+
+      - name: Merge stable into main (only if sanity passed and not dry-run)
+        if: steps.sanity.outcome == 'success' && inputs.dry_run != 'true'
+        run: |
+          git config user.name "failsafe-snapshot-bot"
+          git config user.email "actions@github.com"
+          git merge --no-edit stable
+          git push origin main
+
+      - name: Count merged commits
+        if: steps.sanity.outcome == 'success' && inputs.dry_run != 'true'
+        id: merge_stats
+        run: |
+          # Number of commits that were on stable but not on main before this run
+          BEFORE=$(git rev-parse HEAD@{1})
+          COUNT=$(git rev-list --count "$BEFORE"..HEAD)
+          echo "count=$COUNT" >> "$GITHUB_OUTPUT"
+
+      - name: Telegram — OK notification
+        if: steps.sanity.outcome == 'success' && inputs.dry_run != 'true'
+        env:
+          TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          CHAT: ${{ secrets.TELEGRAM_CHAT_ID }}
+          COUNT: ${{ steps.merge_stats.outputs.count }}
+        run: |
+          TEXT="✅ *Failsafe snapshot OK*%0A%0Amain%20%E2%86%90%20stable%2C%20${COUNT}%20commits%20merged%0ANext%20run%3A%20in%20~14%20days"
+          curl -s -X POST "https://api.telegram.org/bot${TOKEN}/sendMessage" \
+            -d "chat_id=${CHAT}" \
+            -d "parse_mode=Markdown" \
+            -d "text=${TEXT}"
+
+      - name: Dry-run summary
+        if: steps.sanity.outcome == 'success' && inputs.dry_run == 'true'
+        run: |
+          echo "Dry-run: sanity passed, merge/push skipped."
