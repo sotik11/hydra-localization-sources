@@ -68,3 +68,16 @@ jobs:
             git commit -m "data: scheduled regeneration [skip ci]"
             git push
           fi
+
+      - name: Telegram — FAIL notification
+        if: failure()
+        env:
+          TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          CHAT: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: |
+          RUN_URL="${GITHUB_SERVER_URL}/${GITHUB_REPOSITORY}/actions/runs/${GITHUB_RUN_ID}"
+          TEXT=$'⚠️ *regenerate workflow FAILED*\n\nRepo: `hydra-localization-sources`\nRun: [logs]('"${RUN_URL}"$')'
+          curl -s -X POST "https://api.telegram.org/bot${TOKEN}/sendMessage" \
+            --data-urlencode "chat_id=${CHAT}" \
+            --data-urlencode "parse_mode=Markdown" \
+            --data-urlencode "text=${TEXT}"
