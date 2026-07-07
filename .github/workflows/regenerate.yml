@@ -54,6 +54,7 @@ jobs:
           fi
 
       - name: Commit refreshed data
+        id: commit
         if: ${{ github.event.inputs.source == '' }}
         run: |
           git config user.name "github-actions[bot]"
@@ -64,19 +65,42 @@ jobs:
           git add -- 'data/*.json' ':(exclude)data/*.candidates.json' ':(exclude)data/steam-applist.json'
           if git diff --staged --quiet; then
             echo "No data changes."
+            echo "changes=false" >> "$GITHUB_OUTPUT"
           else
+            SUMMARY=$(git diff --staged --stat data/ | tail -1)
             git commit -m "data: scheduled regeneration [skip ci]"
             git push
+            echo "changes=true" >> "$GITHUB_OUTPUT"
+            echo "summary=${SUMMARY}" >> "$GITHUB_OUTPUT"
           fi
+
+      - name: Telegram — OK notification
+        if: success() && github.event.inputs.source == ''
+        env:
+          TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          CHAT: ${{ secrets.TELEGRAM_CHAT_ID }}
+          CHANGES: ${{ steps.commit.outputs.changes }}
+          SUMMARY: ${{ steps.commit.outputs.summary }}
+          RUN_URL: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}
+        run: |
+          if [ "${CHANGES}" = "true" ]; then
+            TEXT=$'✅ *regenerate OK — data updated*\n\n'"${SUMMARY}"$'\n\nCommit pushed to `main`. [run]('"${RUN_URL}"$')'
+          else
+            TEXT=$'✅ *regenerate OK — no data changes*\n\nAll sources returned identical output. [run]('"${RUN_URL}"$')'
+          fi
+          curl -s -X POST "https://api.telegram.org/bot${TOKEN}/sendMessage" \
+            --data-urlencode "chat_id=${CHAT}" \
+            --data-urlencode "parse_mode=Markdown" \
+            --data-urlencode "text=${TEXT}"
 
       - name: Telegram — FAIL notification
         if: failure()
         env:
           TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           CHAT: ${{ secrets.TELEGRAM_CHAT_ID }}
+          RUN_URL: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}
         run: |
-          RUN_URL="${GITHUB_SERVER_URL}/${GITHUB_REPOSITORY}/actions/runs/${GITHUB_RUN_ID}"
-          TEXT=$'⚠️ *regenerate workflow FAILED*\n\nRepo: `hydra-localization-sources`\nRun: [logs]('"${RUN_URL}"$')'
+          TEXT=$'⚠️ *regenerate workflow FAILED*\n\nRepo: `hydra-localization-sources`\n[run logs]('"${RUN_URL}"$')'
           curl -s -X POST "https://api.telegram.org/bot${TOKEN}/sendMessage" \
             --data-urlencode "chat_id=${CHAT}" \
             --data-urlencode "parse_mode=Markdown" \
