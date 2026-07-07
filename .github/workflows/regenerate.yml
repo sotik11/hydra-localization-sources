@@ -58,7 +58,10 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/*.json
+          # Exclude gitignored side-outputs so `git add` doesn't fail with
+          # "paths are ignored by one of your .gitignore files" (candidates.json
+          # per source + steam-applist.json cache).
+          git add -- 'data/*.json' ':(exclude)data/*.candidates.json' ':(exclude)data/steam-applist.json'
           if git diff --staged --quiet; then
             echo "No data changes."
           else
