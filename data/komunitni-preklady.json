@@ -5,6 +5,34 @@
   "siteUrl": "https://komunitni-preklady.org",
   "localizations": [
     {
+      "title": "Crimson Desert",
+      "studio": "Komunitní překlady",
+      "studioUrl": "https://komunitni-preklady.org/preklad/crimson-desert-sk",
+      "language": "Slovenčina",
+      "hasText": false,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": true,
+      "version": "2.5",
+      "updatedAt": "06.07.2026",
+      "requiredGameVersion": "1.13.00",
+      "pageUrl": "https://komunitni-preklady.org/preklad/crimson-desert-sk",
+      "howToInstallHtml": "<p>Každý preklad má vlastný postup inštalácie. Otvorte stránku prekladu (tlačidlo „Otvoriť v prehliadači“ nižšie) — nájdete tam úplný návod na inštaláciu aj tlačidlo na stiahnutie.</p>",
+      "authorsHtml": "<p>Flego</p>",
+      "size": "8.10 MB",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Komunitní překlady",
+          "url": "https://komunitni-preklady.org/download/758?sig=p8UTlFkphufGApvCDC0-fg",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "3321460"
+    },
+    {
       "title": "7 Days to Die 3.0 CZ",
       "studio": "Komunitní překlady",
       "studioUrl": "https://komunitni-preklady.org/preklad/7-days-to-die-30-cz",
@@ -15,7 +43,7 @@
       "hasNeuralVoice": false,
       "hasNeuralDub": false,
       "hasNeuralText": true,
-      "version": "0.84",
+      "version": "0.88",
       "updatedAt": "06.07.2026",
       "requiredGameVersion": "3.0",
       "pageUrl": "https://komunitni-preklady.org/preklad/7-days-to-die-30-cz",
@@ -115,34 +143,6 @@
         }
       ],
       "steamAppId": "3976500"
-    },
-    {
-      "title": "Crimson Desert",
-      "studio": "Komunitní překlady",
-      "studioUrl": "https://komunitni-preklady.org/preklad/crimson-desert-sk",
-      "language": "Slovenčina",
-      "hasText": false,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": true,
-      "version": "2.4",
-      "updatedAt": "04.07.2026",
-      "requiredGameVersion": "1.13.00",
-      "pageUrl": "https://komunitni-preklady.org/preklad/crimson-desert-sk",
-      "howToInstallHtml": "<p>Každý preklad má vlastný postup inštalácie. Otvorte stránku prekladu (tlačidlo „Otvoriť v prehliadači“ nižšie) — nájdete tam úplný návod na inštaláciu aj tlačidlo na stiahnutie.</p>",
-      "authorsHtml": "<p>Flego</p>",
-      "size": "8.10 MB",
-      "inDevelopment": false,
-      "mirrors": [
-        {
-          "label": "Komunitní překlady",
-          "url": "https://komunitni-preklady.org/download/758?sig=p8UTlFkphufGApvCDC0-fg",
-          "kind": "direct"
-        }
-      ],
-      "steamAppId": "3321460"
     },
     {
       "title": "Broken Arrow",
@@ -784,34 +784,6 @@
           "kind": "direct"
         }
       ]
-    },
-    {
-      "title": "God Save Birmingham",
-      "studio": "Komunitní překlady",
-      "studioUrl": "https://komunitni-preklady.org/preklad/god-save-birmingham",
-      "language": "Slovenčina",
-      "hasText": false,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": true,
-      "version": "0.1",
-      "updatedAt": "23.06.2026",
-      "requiredGameVersion": "DEMO",
-      "pageUrl": "https://komunitni-preklady.org/preklad/god-save-birmingham",
-      "howToInstallHtml": "<p>Každý preklad má vlastný postup inštalácie. Otvorte stránku prekladu (tlačidlo „Otvoriť v prehliadači“ nižšie) — nájdete tam úplný návod na inštaláciu aj tlačidlo na stiahnutie.</p>",
-      "authorsHtml": "<p>Flego</p>",
-      "size": "52.8 MB",
-      "inDevelopment": false,
-      "mirrors": [
-        {
-          "label": "Komunitní překlady",
-          "url": "https://komunitni-preklady.org/download/846?sig=cmR4fK1bx9W6UCk33sNY-Q",
-          "kind": "direct"
-        }
-      ],
-      "steamAppId": "3073940"
     },
     {
       "title": "Bylina",
@@ -3092,8 +3064,7 @@
           "url": "https://komunitni-preklady.org/download/780/steam?sig=vWtmrE19hdcJHu-vgCbh6g",
           "kind": "direct"
         }
-      ],
-      "steamAppId": "2166060"
+      ]
     },
     {
       "title": "Contraband Police",
@@ -4471,8 +4442,7 @@
           "url": "https://komunitni-preklady.org/download/522/steam?sig=V9hzYuDEJ6jxN9pBhVrEyg",
           "kind": "direct"
         }
-      ],
-      "steamAppId": "1721470"
+      ]
     },
     {
       "title": "Nightingale",
@@ -5666,7 +5636,8 @@
           "url": "https://komunitni-preklady.org/download/612?sig=BRwVNxO5ll7B8mWXMuH4dg",
           "kind": "direct"
         }
-      ]
+      ],
+      "steamAppId": "844260"
     },
     {
       "title": "Battlefield V",
@@ -6718,7 +6689,8 @@
           "url": "https://komunitni-preklady.org/download/528/steam?sig=f1-4NdsHnhVwmqX2sLHBGA",
           "kind": "direct"
         }
-      ]
+      ],
+      "steamAppId": "1920780"
     },
     {
       "title": "Fabledom",
@@ -7271,8 +7243,7 @@
           "url": "https://komunitni-preklady.org/download/546?sig=TwH3vqLrCwsOlW6JrO5H_A",
           "kind": "direct"
         }
-      ],
-      "steamAppId": "2110930"
+      ]
     },
     {
       "title": "Hytale",
@@ -9856,8 +9827,7 @@
           "url": "https://komunitni-preklady.org/download/408?sig=22HntVuXBKo77YHJZkebeA",
           "kind": "direct"
         }
-      ],
-      "steamAppId": "1310410"
+      ]
     },
     {
       "title": "Monster Hunter: World",
@@ -10080,7 +10050,7 @@
           "kind": "direct"
         }
       ],
-      "steamAppId": "1449110"
+      "steamAppId": "1920490"
     },
     {
       "title": "Otherskin",
@@ -10360,7 +10330,7 @@
           "kind": "direct"
         }
       ],
-      "steamAppId": "2561580"
+      "steamAppId": "1151640"
     },
     {
       "title": "Cuphead",
@@ -10443,8 +10413,7 @@
           "url": "https://komunitni-preklady.org/download/331?sig=dV5y7CjfeEjDYSmAeLQpug",
           "kind": "direct"
         }
-      ],
-      "steamAppId": "241540"
+      ]
     },
     {
       "title": "Warcraft I Remastered",
@@ -11915,8 +11884,7 @@
           "url": "https://komunitni-preklady.org/download/223?sig=jeZoLDXnmvigEYUHmOZOEA",
           "kind": "direct"
         }
-      ],
-      "steamAppId": "1173770"
+      ]
     },
     {
       "title": "Agony UNRATED",
@@ -13699,8 +13667,7 @@
           "url": "https://komunitni-preklady.org/download/9?sig=ol3VwHv25TTxA3TUBLHr4g",
           "kind": "direct"
         }
-      ],
-      "steamAppId": "1934680"
+      ]
     },
     {
       "title": "Age Of Mythology",
@@ -13728,7 +13695,7 @@
           "kind": "direct"
         }
       ],
-      "steamAppId": "1934680"
+      "steamAppId": "266840"
     },
     {
       "title": "Resident Evil: Revelations",
@@ -13895,7 +13862,7 @@
           "kind": "direct"
         }
       ],
-      "steamAppId": "532790"
+      "steamAppId": "2600"
     },
     {
       "title": "Tom Clancy\\u0027s The Sum of All Fears",
@@ -14143,8 +14110,7 @@
           "url": "https://komunitni-preklady.org/download/137?sig=IiFSo5Jsgnyqt3YyqVYGeA",
           "kind": "direct"
         }
-      ],
-      "steamAppId": "257420"
+      ]
     },
     {
       "title": "Silent Hill: Homecoming",
@@ -14972,8 +14938,7 @@
           "url": "https://komunitni-preklady.org/download/51?sig=Xw8XBiZ7xgW8TCp2nWLXmQ",
           "kind": "direct"
         }
-      ],
-      "steamAppId": "610370"
+      ]
     },
     {
       "title": "Deadly Dozen",
@@ -15056,8 +15021,7 @@
           "url": "https://komunitni-preklady.org/download/52?sig=mN7WlmtPccexUHlczlj1CA",
           "kind": "direct"
         }
-      ],
-      "steamAppId": "1710350"
+      ]
     },
     {
       "title": "Crusader of Might and Magic",
@@ -15165,8 +15129,7 @@
           "url": "https://komunitni-preklady.org/download/23?sig=qXhZZ25fBZJDJTSw5RZE9w",
           "kind": "direct"
         }
-      ],
-      "steamAppId": "1092660"
+      ]
     },
     {
       "title": "Blair Witch Volume 2: Coffin Rock",
@@ -15193,8 +15156,7 @@
           "url": "https://komunitni-preklady.org/download/22?sig=U62uEO_mAcBeqsfgFl2rsw",
           "kind": "direct"
         }
-      ],
-      "steamAppId": "1092660"
+      ]
     },
     {
       "title": "Blair witch Volume 1: Rustin Parr",
@@ -15221,8 +15183,7 @@
           "url": "https://komunitni-preklady.org/download/21?sig=hysDxnaGKeq8doz08BnXdg",
           "kind": "direct"
         }
-      ],
-      "steamAppId": "1092660"
+      ]
     },
     {
       "title": "Duke Nukem 3D",
@@ -15331,8 +15292,7 @@
           "url": "https://komunitni-preklady.org/download/36?sig=G0BzYYR5KdFrDDrHRFRaLw",
           "kind": "direct"
         }
-      ],
-      "steamAppId": "1354690"
+      ]
     },
     {
       "title": "American McGee\\u0027s Alice",
@@ -15413,8 +15373,7 @@
           "url": "https://komunitni-preklady.org/download/14?sig=8tO9aIt6um-P63D3SDMSeg",
           "kind": "direct"
         }
-      ],
-      "steamAppId": "3730"
+      ]
     },
     {
       "title": "Lucius",
@@ -15581,7 +15540,8 @@
           "url": "https://komunitni-preklady.org/download/161?sig=BKK-Txnz_CXV9d3ORl5vMQ",
           "kind": "direct"
         }
-      ]
+      ],
+      "steamAppId": "57680"
     },
     {
       "title": "Bulletstorm",
@@ -15609,7 +15569,7 @@
           "kind": "direct"
         }
       ],
-      "steamAppId": "2451320"
+      "steamAppId": "501590"
     },
     {
       "title": "Divinity II Dragon Knight Saga",
@@ -15627,7 +15587,7 @@
       "requiredGameVersion": null,
       "pageUrl": "https://komunitni-preklady.org/preklad/divinity-ii-dragon-knight-saga-",
       "howToInstallHtml": "<p>Každý překlad má vlastní postup instalace. Otevřete stránku překladu (tlačítko „Otevřít v prohlížeči“ níže) — najdete tam úplný návod k instalaci i tlačítko ke stažení.</p>",
-      "authorsHtml": "<p>GREG-RAY CZ</p>",
+      "authorsHtml": "<p>Flego</p>",
       "size": null,
       "inDevelopment": true,
       "mirrors": []
@@ -15825,7 +15785,7 @@
           "kind": "direct"
         }
       ],
-      "steamAppId": "2270"
+      "steamAppId": "10170"
     },
     {
       "title": "Divine Divinity 2: Ego Draconis",
@@ -15852,8 +15812,7 @@
           "url": "https://komunitni-preklady.org/download/54?sig=EUqK1cWNv8_iQRw-2zxzUg",
           "kind": "direct"
         }
-      ],
-      "steamAppId": "214170"
+      ]
     },
     {
       "title": "Venetica",
@@ -15880,7 +15839,8 @@
           "url": "https://komunitni-preklady.org/download/178?sig=zzkppiiLayDLRtgVVdwdSw",
           "kind": "direct"
         }
-      ]
+      ],
+      "steamAppId": "338140"
     },
     {
       "title": "The Saboteur",
@@ -15990,7 +15950,8 @@
           "url": "https://komunitni-preklady.org/download/172?sig=RUpe-72mJdeercdCiiYtaw",
           "kind": "direct"
         }
-      ]
+      ],
+      "steamAppId": "35700"
     },
     {
       "title": "X-Men Origins: Wolverine",
@@ -16072,8 +16033,7 @@
           "url": "https://komunitni-preklady.org/download/98?sig=vpiH7m1hl6fRqBD7o2Dbsg",
           "kind": "direct"
         }
-      ],
-      "steamAppId": "3302510"
+      ]
     },
     {
       "title": "World War II Combat: The Road to Berlin",
@@ -16128,8 +16088,7 @@
           "url": "https://komunitni-preklady.org/download/163?sig=XhcorEg9U7PgA1P69sxYtw",
           "kind": "direct"
         }
-      ],
-      "steamAppId": "845050"
+      ]
     },
     {
       "title": "Doom 3: Resurrection of Evil",
@@ -16874,7 +16833,8 @@
           "url": "https://komunitni-preklady.org/download/25?sig=L8ipuLUnA3wxVHEbBFBlmg",
           "kind": "direct"
         }
-      ]
+      ],
+      "steamAppId": "1373510"
     },
     {
       "title": "Will Rock",
@@ -16984,8 +16944,7 @@
           "url": "https://komunitni-preklady.org/download/166?sig=gVqF9IQ-2Ffnxywtg44ymw",
           "kind": "direct"
         }
-      ],
-      "steamAppId": "4263110"
+      ]
     },
     {
       "title": "Arx Fatalis",
@@ -17040,8 +16999,7 @@
           "url": "https://komunitni-preklady.org/download/49?sig=01haTlPNSRzYbUWXq8aHEg",
           "kind": "direct"
         }
-      ],
-      "steamAppId": "514080"
+      ]
     },
     {
       "title": "Need for Speed: Hot Pursuit 2",
@@ -17068,8 +17026,7 @@
           "url": "https://komunitni-preklady.org/download/111?sig=hAb-yuU7da0S-8TG_wwrpw",
           "kind": "direct"
         }
-      ],
-      "steamAppId": "1262540"
+      ]
     },
     {
       "title": "Ring II: Twilight of the Gods",
@@ -17150,8 +17107,7 @@
           "url": "https://komunitni-preklady.org/download/15?sig=Jnuilq4DgDiXXg_pXw3ZLA",
           "kind": "direct"
         }
-      ],
-      "steamAppId": "3730"
+      ]
     },
     {
       "title": "Alfred Hitchcock: The Final Cut",
