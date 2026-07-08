@@ -355,6 +355,33 @@
       "steamAppId": "292030"
     },
     {
+      "title": "Far Cry 5",
+      "studio": "Türkçe Yama",
+      "studioUrl": "https://turkce-yama.com/farcry-5-turkce-yama.htm",
+      "language": "Türkçe",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": null,
+      "updatedAt": "11.04.2020",
+      "pageUrl": "https://turkce-yama.com/farcry-5-turkce-yama.htm",
+      "howToInstallHtml": "<ol><li>Yama dosyasını yukarıdaki «İndir» butonuyla indirin.</li><li>Kurulum dosyasıysa (.exe) çalıştırın; arşivse (.rar/.zip) çıkartın.</li><li>Oyunun kurulu olduğu klasörü gösterin / dosyaları oraya kopyalayın.</li><li>Oyunu başlatın — Türkçe yama uygulanmış olacaktır.</li></ol>",
+      "authorsHtml": null,
+      "size": "4.73 MB",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Türkçe Yama",
+          "url": "https://turkce-yama.com/farcry-5-turkce-yama.htm",
+          "kind": "other"
+        }
+      ],
+      "steamAppId": "552520"
+    },
+    {
       "title": "Mafia 2",
       "studio": "Türkçe Yama",
       "studioUrl": "https://turkce-yama.com/mafia-2-turkce-yama.htm",
@@ -407,60 +434,6 @@
         }
       ],
       "steamAppId": "391540"
-    },
-    {
-      "title": "Far Cry Primal",
-      "studio": "Türkçe Yama",
-      "studioUrl": "https://turkce-yama.com/far-cry-primal-turkce-yama.htm",
-      "language": "Türkçe",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": null,
-      "updatedAt": "10.06.2018",
-      "pageUrl": "https://turkce-yama.com/far-cry-primal-turkce-yama.htm",
-      "howToInstallHtml": "<ol><li>Yama dosyasını yukarıdaki «İndir» butonuyla indirin.</li><li>Kurulum dosyasıysa (.exe) çalıştırın; arşivse (.rar/.zip) çıkartın.</li><li>Oyunun kurulu olduğu klasörü gösterin / dosyaları oraya kopyalayın.</li><li>Oyunu başlatın — Türkçe yama uygulanmış olacaktır.</li></ol>",
-      "authorsHtml": null,
-      "size": "30.5 MB",
-      "inDevelopment": false,
-      "mirrors": [
-        {
-          "label": "Türkçe Yama",
-          "url": "https://turkce-yama.com/far-cry-primal-turkce-yama.htm",
-          "kind": "other"
-        }
-      ],
-      "steamAppId": "371660"
-    },
-    {
-      "title": "Grand Theft Auto: San Andreas",
-      "studio": "Türkçe Yama",
-      "studioUrl": "https://turkce-yama.com/grand-theft-auto-san-andreas-turkce-yama.htm",
-      "language": "Türkçe",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": null,
-      "updatedAt": "21.04.2014",
-      "pageUrl": "https://turkce-yama.com/grand-theft-auto-san-andreas-turkce-yama.htm",
-      "howToInstallHtml": "<ol><li>Yama dosyasını yukarıdaki «İndir» butonuyla indirin.</li><li>Kurulum dosyasıysa (.exe) çalıştırın; arşivse (.rar/.zip) çıkartın.</li><li>Oyunun kurulu olduğu klasörü gösterin / dosyaları oraya kopyalayın.</li><li>Oyunu başlatın — Türkçe yama uygulanmış olacaktır.</li></ol>",
-      "authorsHtml": "<p>Gta Bullet</p>",
-      "size": "589 KB",
-      "inDevelopment": false,
-      "mirrors": [
-        {
-          "label": "Türkçe Yama",
-          "url": "https://turkce-yama.com/grand-theft-auto-san-andreas-turkce-yama.htm",
-          "kind": "other"
-        }
-      ],
-      "steamAppId": "1547000"
     },
     {
       "title": "Pro Evolution Soccer 2013",
@@ -571,6 +544,33 @@
       "steamAppId": "12200"
     },
     {
+      "title": "Far Cry Primal",
+      "studio": "Türkçe Yama",
+      "studioUrl": "https://turkce-yama.com/far-cry-primal-turkce-yama.htm",
+      "language": "Türkçe",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": null,
+      "updatedAt": "10.06.2018",
+      "pageUrl": "https://turkce-yama.com/far-cry-primal-turkce-yama.htm",
+      "howToInstallHtml": "<ol><li>Yama dosyasını yukarıdaki «İndir» butonuyla indirin.</li><li>Kurulum dosyasıysa (.exe) çalıştırın; arşivse (.rar/.zip) çıkartın.</li><li>Oyunun kurulu olduğu klasörü gösterin / dosyaları oraya kopyalayın.</li><li>Oyunu başlatın — Türkçe yama uygulanmış olacaktır.</li></ol>",
+      "authorsHtml": null,
+      "size": "30.5 MB",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Türkçe Yama",
+          "url": "https://turkce-yama.com/far-cry-primal-turkce-yama.htm",
+          "kind": "other"
+        }
+      ],
+      "steamAppId": "371660"
+    },
+    {
       "title": "Outlast 2",
       "studio": "Türkçe Yama",
       "studioUrl": "https://turkce-yama.com/outlast-2-turkce-yama.htm",
@@ -596,33 +596,6 @@
         }
       ],
       "steamAppId": "414700"
-    },
-    {
-      "title": "Far Cry 5",
-      "studio": "Türkçe Yama",
-      "studioUrl": "https://turkce-yama.com/farcry-5-turkce-yama.htm",
-      "language": "Türkçe",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": null,
-      "updatedAt": "11.04.2020",
-      "pageUrl": "https://turkce-yama.com/farcry-5-turkce-yama.htm",
-      "howToInstallHtml": "<ol><li>Yama dosyasını yukarıdaki «İndir» butonuyla indirin.</li><li>Kurulum dosyasıysa (.exe) çalıştırın; arşivse (.rar/.zip) çıkartın.</li><li>Oyunun kurulu olduğu klasörü gösterin / dosyaları oraya kopyalayın.</li><li>Oyunu başlatın — Türkçe yama uygulanmış olacaktır.</li></ol>",
-      "authorsHtml": null,
-      "size": "4.73 MB",
-      "inDevelopment": false,
-      "mirrors": [
-        {
-          "label": "Türkçe Yama",
-          "url": "https://turkce-yama.com/farcry-5-turkce-yama.htm",
-          "kind": "other"
-        }
-      ],
-      "steamAppId": "552520"
     },
     {
       "title": "Unreal Tournament 2004",
@@ -1807,8 +1780,7 @@
           "url": "https://turkce-yama.com/pine-turkce-yama.htm",
           "kind": "other"
         }
-      ],
-      "steamAppId": "1042780"
+      ]
     },
     {
       "title": "The Forgotten City",
@@ -2050,7 +2022,7 @@
           "kind": "other"
         }
       ],
-      "steamAppId": "1238000"
+      "steamAppId": "17460"
     },
     {
       "title": "Europa Universalis IV",
@@ -4846,7 +4818,7 @@
           "kind": "other"
         }
       ],
-      "steamAppId": "212410"
+      "steamAppId": "1505430"
     },
     {
       "title": "Home Sweet Home",
@@ -5169,8 +5141,7 @@
           "url": "https://turkce-yama.com/gun-turkce-yama.htm",
           "kind": "other"
         }
-      ],
-      "steamAppId": "2610"
+      ]
     },
     {
       "title": "Syberia 2",
@@ -6321,8 +6292,7 @@
           "url": "https://turkce-yama.com/ronin-turkce-yama.htm",
           "kind": "other"
         }
-      ],
-      "steamAppId": "274230"
+      ]
     },
     {
       "title": "Wolfenstein: The Old Blood",
@@ -7927,8 +7897,7 @@
           "url": "https://turkce-yama.com/railroad-tycoon-3-turkce-yama.htm",
           "kind": "other"
         }
-      ],
-      "steamAppId": "7610"
+      ]
     },
     {
       "title": "Command & Conquer: Red Alert 3",
@@ -11009,8 +10978,7 @@
           "url": "https://turkce-yama.com/max-payne-turkce-yama.htm",
           "kind": "other"
         }
-      ],
-      "steamAppId": "12140"
+      ]
     },
     {
       "title": "Max Payne 3",
@@ -14892,8 +14860,7 @@
           "url": "https://turkce-yama.com/euro-truck-simulator-turkce-yama.htm",
           "kind": "other"
         }
-      ],
-      "steamAppId": "232010"
+      ]
     },
     {
       "title": "F1 2010",
@@ -16662,6 +16629,33 @@
       "steamAppId": "42700"
     },
     {
+      "title": "Grand Theft Auto: San Andreas",
+      "studio": "Türkçe Yama",
+      "studioUrl": "https://turkce-yama.com/grand-theft-auto-san-andreas-turkce-yama.htm",
+      "language": "Türkçe",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": null,
+      "updatedAt": "21.04.2014",
+      "pageUrl": "https://turkce-yama.com/grand-theft-auto-san-andreas-turkce-yama.htm",
+      "howToInstallHtml": "<ol><li>Yama dosyasını yukarıdaki «İndir» butonuyla indirin.</li><li>Kurulum dosyasıysa (.exe) çalıştırın; arşivse (.rar/.zip) çıkartın.</li><li>Oyunun kurulu olduğu klasörü gösterin / dosyaları oraya kopyalayın.</li><li>Oyunu başlatın — Türkçe yama uygulanmış olacaktır.</li></ol>",
+      "authorsHtml": "<p>Gta Bullet</p>",
+      "size": "589 KB",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Türkçe Yama",
+          "url": "https://turkce-yama.com/grand-theft-auto-san-andreas-turkce-yama.htm",
+          "kind": "other"
+        }
+      ],
+      "steamAppId": "1547000"
+    },
+    {
       "title": "Half Life 2: Episode One",
       "studio": "Türkçe Yama",
       "studioUrl": "https://turkce-yama.com/half-life-2-episode-one-turkce-yama.htm",
@@ -17569,8 +17563,7 @@
           "url": "https://turkce-yama.com/championship-manager-2010-turkce-yama.htm",
           "kind": "other"
         }
-      ],
-      "steamAppId": "35030"
+      ]
     }
   ]
 }
