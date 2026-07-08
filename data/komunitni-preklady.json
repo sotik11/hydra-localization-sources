@@ -5,6 +5,146 @@
   "siteUrl": "https://komunitni-preklady.org",
   "localizations": [
     {
+      "title": "Solasta II",
+      "studio": "Komunitní překlady",
+      "studioUrl": "https://komunitni-preklady.org/preklad/solasta-ii",
+      "language": "Slovenčina",
+      "hasText": false,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": true,
+      "version": "0.3",
+      "updatedAt": "07.07.2026",
+      "requiredGameVersion": "v0.3.8.100677",
+      "pageUrl": "https://komunitni-preklady.org/preklad/solasta-ii",
+      "howToInstallHtml": "<p>Každý preklad má vlastný postup inštalácie. Otvorte stránku prekladu (tlačidlo „Otvoriť v prehliadači“ nižšie) — nájdete tam úplný návod na inštaláciu aj tlačidlo na stiahnutie.</p>",
+      "authorsHtml": "<p>Flego</p>",
+      "size": "10.0 MB",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Komunitní překlady",
+          "url": "https://komunitni-preklady.org/download/746?sig=xUaEnUkb1ZNC8HQfh9opeA",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "2975950"
+    },
+    {
+      "title": "Palia",
+      "studio": "Komunitní překlady",
+      "studioUrl": "https://komunitni-preklady.org/preklad/palia",
+      "language": "Slovenčina",
+      "hasText": false,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": true,
+      "version": "0.3",
+      "updatedAt": "07.07.2026",
+      "requiredGameVersion": "0.204",
+      "pageUrl": "https://komunitni-preklady.org/preklad/palia",
+      "howToInstallHtml": "<p>Každý preklad má vlastný postup inštalácie. Otvorte stránku prekladu (tlačidlo „Otvoriť v prehliadači“ nižšie) — nájdete tam úplný návod na inštaláciu aj tlačidlo na stiahnutie.</p>",
+      "authorsHtml": "<p>Flego</p>",
+      "size": "22.1 MB",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Komunitní překlady",
+          "url": "https://komunitni-preklady.org/download/810?sig=OqsWLLqCuIU2ZZ7Wvq8cng",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "2707930"
+    },
+    {
+      "title": "Amnesia The Bunker",
+      "studio": "Komunitní překlady",
+      "studioUrl": "https://komunitni-preklady.org/preklad/amnesia-the-bunker",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": "0.1",
+      "updatedAt": "07.07.2026",
+      "requiredGameVersion": null,
+      "pageUrl": "https://komunitni-preklady.org/preklad/amnesia-the-bunker",
+      "howToInstallHtml": "<p>Každý překlad má vlastní postup instalace. Otevřete stránku překladu (tlačítko „Otevřít v prohlížeči“ níže) — najdete tam úplný návod k instalaci i tlačítko ke stažení.</p>",
+      "authorsHtml": "<p>Amnesia</p>",
+      "size": "56 KB",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Komunitní překlady",
+          "url": "https://komunitni-preklady.org/download/855?sig=apqPiF-tVN423fzOnwsEFw",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "1944430"
+    },
+    {
+      "title": "Amnesia Rebirth",
+      "studio": "Komunitní překlady",
+      "studioUrl": "https://komunitni-preklady.org/preklad/amnesia-rebirth-cz",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": "1.1",
+      "updatedAt": "07.07.2026",
+      "requiredGameVersion": "1.25",
+      "pageUrl": "https://komunitni-preklady.org/preklad/amnesia-rebirth-cz",
+      "howToInstallHtml": "<p>Každý překlad má vlastní postup instalace. Otevřete stránku překladu (tlačítko „Otevřít v prohlížeči“ níže) — najdete tam úplný návod k instalaci i tlačítko ke stažení.</p>",
+      "authorsHtml": "<p>Amnesia</p>",
+      "size": "142 KB",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Komunitní překlady",
+          "url": "https://komunitni-preklady.org/download/854?sig=rxGJwiOiS6nbsW3uxmWCdw",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "999220"
+    },
+    {
+      "title": "The Elder Scrolls Online",
+      "studio": "Komunitní překlady",
+      "studioUrl": "https://komunitni-preklady.org/preklad/the-elder-scrolls-online",
+      "language": "Čeština",
+      "hasText": false,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": true,
+      "version": "1.3",
+      "updatedAt": "07.07.2026",
+      "requiredGameVersion": null,
+      "pageUrl": "https://komunitni-preklady.org/preklad/the-elder-scrolls-online",
+      "howToInstallHtml": "<p>Každý překlad má vlastní postup instalace. Otevřete stránku překladu (tlačítko „Otevřít v prohlížeči“ níže) — najdete tam úplný návod k instalaci i tlačítko ke stažení.</p>",
+      "authorsHtml": "<p>Crullovy překlady</p>",
+      "size": "21.0 MB",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Komunitní překlady",
+          "url": "https://komunitni-preklady.org/download/363?sig=yGpOUM_XBI779AyQETrQgw",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "306130"
+    },
+    {
       "title": "Crimson Desert",
       "studio": "Komunitní překlady",
       "studioUrl": "https://komunitni-preklady.org/preklad/crimson-desert-sk",
@@ -73,7 +213,7 @@
       "hasNeuralText": true,
       "version": "1.1300",
       "updatedAt": "06.07.2026",
-      "requiredGameVersion": null,
+      "requiredGameVersion": "1.13.00",
       "pageUrl": "https://komunitni-preklady.org/preklad/crimson-desert",
       "howToInstallHtml": "<p>Každý překlad má vlastní postup instalace. Otevřete stránku překladu (tlačítko „Otevřít v prohlížeči“ níže) — najdete tam úplný návod k instalaci i tlačítko ke stažení.</p>",
       "authorsHtml": "<p>Banditi</p>",
@@ -309,7 +449,8 @@
           "url": "https://komunitni-preklady.org/download/507?sig=s2OeTKWHDf2BdSGdqC_wxQ",
           "kind": "direct"
         }
-      ]
+      ],
+      "steamAppId": "22000"
     },
     {
       "title": "Tourist Bus Simulator",
@@ -1031,34 +1172,6 @@
       "steamAppId": "2593320"
     },
     {
-      "title": "The Elder Scrolls Online",
-      "studio": "Komunitní překlady",
-      "studioUrl": "https://komunitni-preklady.org/preklad/the-elder-scrolls-online",
-      "language": "Čeština",
-      "hasText": false,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": true,
-      "version": "1.2",
-      "updatedAt": "19.06.2026",
-      "requiredGameVersion": null,
-      "pageUrl": "https://komunitni-preklady.org/preklad/the-elder-scrolls-online",
-      "howToInstallHtml": "<p>Každý překlad má vlastní postup instalace. Otevřete stránku překladu (tlačítko „Otevřít v prohlížeči“ níže) — najdete tam úplný návod k instalaci i tlačítko ke stažení.</p>",
-      "authorsHtml": "<p>Crullovy překlady</p>",
-      "size": "21.0 MB",
-      "inDevelopment": false,
-      "mirrors": [
-        {
-          "label": "Komunitní překlady",
-          "url": "https://komunitni-preklady.org/download/363?sig=yGpOUM_XBI779AyQETrQgw",
-          "kind": "direct"
-        }
-      ],
-      "steamAppId": "306130"
-    },
-    {
       "title": "Assassin\\u0027s Creed Shadows",
       "studio": "Komunitní překlady",
       "studioUrl": "https://komunitni-preklady.org/preklad/assassins-creed-shadows",
@@ -1392,34 +1505,6 @@
         }
       ],
       "steamAppId": "2953480"
-    },
-    {
-      "title": "Palia",
-      "studio": "Komunitní překlady",
-      "studioUrl": "https://komunitni-preklady.org/preklad/palia",
-      "language": "Slovenčina",
-      "hasText": false,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": true,
-      "version": "0.2",
-      "updatedAt": "10.06.2026",
-      "requiredGameVersion": "0.203",
-      "pageUrl": "https://komunitni-preklady.org/preklad/palia",
-      "howToInstallHtml": "<p>Každý preklad má vlastný postup inštalácie. Otvorte stránku prekladu (tlačidlo „Otvoriť v prehliadači“ nižšie) — nájdete tam úplný návod na inštaláciu aj tlačidlo na stiahnutie.</p>",
-      "authorsHtml": "<p>Flego</p>",
-      "size": "21.3 MB",
-      "inDevelopment": false,
-      "mirrors": [
-        {
-          "label": "Komunitní překlady",
-          "url": "https://komunitni-preklady.org/download/810?sig=OqsWLLqCuIU2ZZ7Wvq8cng",
-          "kind": "direct"
-        }
-      ],
-      "steamAppId": "2707930"
     },
     {
       "title": "Voidling Bound",
@@ -3774,34 +3859,6 @@
         }
       ],
       "steamAppId": "1538550"
-    },
-    {
-      "title": "Solasta II",
-      "studio": "Komunitní překlady",
-      "studioUrl": "https://komunitni-preklady.org/preklad/solasta-ii",
-      "language": "Slovenčina",
-      "hasText": false,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": true,
-      "version": "0.2",
-      "updatedAt": "19.03.2026",
-      "requiredGameVersion": "v0.3.4.82927",
-      "pageUrl": "https://komunitni-preklady.org/preklad/solasta-ii",
-      "howToInstallHtml": "<p>Každý preklad má vlastný postup inštalácie. Otvorte stránku prekladu (tlačidlo „Otvoriť v prehliadači“ nižšie) — nájdete tam úplný návod na inštaláciu aj tlačidlo na stiahnutie.</p>",
-      "authorsHtml": "<p>Flego</p>",
-      "size": "4.10 MB",
-      "inDevelopment": false,
-      "mirrors": [
-        {
-          "label": "Komunitní překlady",
-          "url": "https://komunitni-preklady.org/download/746?sig=xUaEnUkb1ZNC8HQfh9opeA",
-          "kind": "direct"
-        }
-      ],
-      "steamAppId": "2975950"
     },
     {
       "title": "Untold Memories: Potters Field",
@@ -15582,7 +15639,7 @@
       "hasNeuralDub": false,
       "hasNeuralText": true,
       "version": null,
-      "updatedAt": "06.07.2026",
+      "updatedAt": "07.07.2026",
       "requiredGameVersion": null,
       "pageUrl": "https://komunitni-preklady.org/preklad/divinity-ii-dragon-knight-saga-",
       "howToInstallHtml": "<p>Každý překlad má vlastní postup instalace. Otevřete stránku překladu (tlačítko „Otevřít v prohlížeči“ níže) — najdete tam úplný návod k instalaci i tlačítko ke stažení.</p>",
