@@ -5,6 +5,62 @@
   "siteUrl": "https://komunitni-preklady.org",
   "localizations": [
     {
+      "title": "No, I\\u0027m not a Human",
+      "studio": "Komunitní překlady",
+      "studioUrl": "https://komunitni-preklady.org/preklad/no-im-not-a-human",
+      "language": "Čeština",
+      "hasText": false,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": true,
+      "version": "0.2.2",
+      "updatedAt": "08.07.2026",
+      "requiredGameVersion": "1.3.19",
+      "pageUrl": "https://komunitni-preklady.org/preklad/no-im-not-a-human",
+      "howToInstallHtml": "<p>Každý překlad má vlastní postup instalace. Otevřete stránku překladu (tlačítko „Otevřít v prohlížeči“ níže) — najdete tam úplný návod k instalaci i tlačítko ke stažení.</p>",
+      "authorsHtml": "<p>Žižkovské Překlady</p>",
+      "size": "2.90 MB",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Komunitní překlady",
+          "url": "https://komunitni-preklady.org/download/760?sig=pwdc48DcWMgObfuXYvwVxg",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "3180070"
+    },
+    {
+      "title": "Crimson Desert",
+      "studio": "Komunitní překlady",
+      "studioUrl": "https://komunitni-preklady.org/preklad/crimson-desert-sk",
+      "language": "Slovenčina",
+      "hasText": false,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": true,
+      "version": "2.6",
+      "updatedAt": "08.07.2026",
+      "requiredGameVersion": "1.13.01",
+      "pageUrl": "https://komunitni-preklady.org/preklad/crimson-desert-sk",
+      "howToInstallHtml": "<p>Každý preklad má vlastný postup inštalácie. Otvorte stránku prekladu (tlačidlo „Otvoriť v prehliadači“ nižšie) — nájdete tam úplný návod na inštaláciu aj tlačidlo na stiahnutie.</p>",
+      "authorsHtml": "<p>Flego</p>",
+      "size": "9.00 MB",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Komunitní překlady",
+          "url": "https://komunitni-preklady.org/download/758?sig=p8UTlFkphufGApvCDC0-fg",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "3321460"
+    },
+    {
       "title": "Solasta II",
       "studio": "Komunitní překlady",
       "studioUrl": "https://komunitni-preklady.org/preklad/solasta-ii",
@@ -143,34 +199,6 @@
         }
       ],
       "steamAppId": "306130"
-    },
-    {
-      "title": "Crimson Desert",
-      "studio": "Komunitní překlady",
-      "studioUrl": "https://komunitni-preklady.org/preklad/crimson-desert-sk",
-      "language": "Slovenčina",
-      "hasText": false,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": true,
-      "version": "2.5",
-      "updatedAt": "06.07.2026",
-      "requiredGameVersion": "1.13.00",
-      "pageUrl": "https://komunitni-preklady.org/preklad/crimson-desert-sk",
-      "howToInstallHtml": "<p>Každý preklad má vlastný postup inštalácie. Otvorte stránku prekladu (tlačidlo „Otvoriť v prehliadači“ nižšie) — nájdete tam úplný návod na inštaláciu aj tlačidlo na stiahnutie.</p>",
-      "authorsHtml": "<p>Flego</p>",
-      "size": "8.10 MB",
-      "inDevelopment": false,
-      "mirrors": [
-        {
-          "label": "Komunitní překlady",
-          "url": "https://komunitni-preklady.org/download/758?sig=p8UTlFkphufGApvCDC0-fg",
-          "kind": "direct"
-        }
-      ],
-      "steamAppId": "3321460"
     },
     {
       "title": "7 Days to Die 3.0 CZ",
@@ -813,34 +841,6 @@
         }
       ],
       "steamAppId": "1139900"
-    },
-    {
-      "title": "No, I\\u0027m not a Human",
-      "studio": "Komunitní překlady",
-      "studioUrl": "https://komunitni-preklady.org/preklad/no-im-not-a-human",
-      "language": "Čeština",
-      "hasText": false,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": true,
-      "version": "0.2",
-      "updatedAt": "26.06.2026",
-      "requiredGameVersion": "1.3.18",
-      "pageUrl": "https://komunitni-preklady.org/preklad/no-im-not-a-human",
-      "howToInstallHtml": "<p>Každý překlad má vlastní postup instalace. Otevřete stránku překladu (tlačítko „Otevřít v prohlížeči“ níže) — najdete tam úplný návod k instalaci i tlačítko ke stažení.</p>",
-      "authorsHtml": "<p>Žižkovské Překlady</p>",
-      "size": "2.90 MB",
-      "inDevelopment": false,
-      "mirrors": [
-        {
-          "label": "Komunitní překlady",
-          "url": "https://komunitni-preklady.org/download/760?sig=pwdc48DcWMgObfuXYvwVxg",
-          "kind": "direct"
-        }
-      ],
-      "steamAppId": "3180070"
     },
     {
       "title": "Escape from Duckov",
@@ -15639,11 +15639,11 @@
       "hasNeuralDub": false,
       "hasNeuralText": true,
       "version": null,
-      "updatedAt": "07.07.2026",
+      "updatedAt": "08.07.2026",
       "requiredGameVersion": null,
       "pageUrl": "https://komunitni-preklady.org/preklad/divinity-ii-dragon-knight-saga-",
       "howToInstallHtml": "<p>Každý překlad má vlastní postup instalace. Otevřete stránku překladu (tlačítko „Otevřít v prohlížeči“ níže) — najdete tam úplný návod k instalaci i tlačítko ke stažení.</p>",
-      "authorsHtml": "<p>Flego</p>",
+      "authorsHtml": "<p>Žižkovské Překlady</p>",
       "size": null,
       "inDevelopment": true,
       "mirrors": []
