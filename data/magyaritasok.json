@@ -5,6 +5,150 @@
   "siteUrl": "https://magyaritasok.hu",
   "localizations": [
     {
+      "steamAppId": "48190",
+      "title": "Assassin's Creed Brotherhood",
+      "studio": "Magyarítások",
+      "studioUrl": "https://magyaritasok.hu",
+      "language": "Magyar",
+      "hasText": true,
+      "hasVoice": false,
+      "version": "2.02",
+      "updatedAt": "21.08.2022",
+      "requiredGameVersion": "1.03",
+      "size": "4.82 MB",
+      "pageUrl": "https://magyaritasok.hu/games/assassins-creed-brotherhood",
+      "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
+      "authorsHtml": "<p>Evin, HUNosítók Team</p>",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Magyarítások",
+          "url": "https://magyaritasok.hu/dl/assassincreed_brotherhood/ACBR_hun_v2.02.exe",
+          "kind": "direct"
+        }
+      ]
+    },
+    {
+      "steamAppId": "201870",
+      "title": "Assassin's Creed Revelations",
+      "studio": "Magyarítások",
+      "studioUrl": "https://magyaritasok.hu",
+      "language": "Magyar",
+      "hasText": true,
+      "hasVoice": false,
+      "version": "1.02",
+      "updatedAt": "21.08.2022",
+      "requiredGameVersion": "1.03",
+      "size": "4.40 MB",
+      "pageUrl": "https://magyaritasok.hu/games/assassins-creed-revelations",
+      "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
+      "authorsHtml": "<p>Evin, HUNosítók Team</p>",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Magyarítások",
+          "url": "https://magyaritasok.hu/dl/assassincreed_revelations/ACR_hun_v1.02.exe",
+          "kind": "direct"
+        }
+      ]
+    },
+    {
+      "steamAppId": "812140",
+      "title": "Assassin's Creed Odyssey",
+      "studio": "Magyarítások",
+      "studioUrl": "https://magyaritasok.hu",
+      "language": "Magyar",
+      "hasText": true,
+      "hasVoice": false,
+      "version": "1.21",
+      "updatedAt": "19.04.2023",
+      "requiredGameVersion": "1.5.6",
+      "size": "5.58 MB",
+      "pageUrl": "https://magyaritasok.hu/games/assassins-creed-odyssey",
+      "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
+      "authorsHtml": "<p>Lajti, és David200097</p>",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Magyarítások",
+          "url": "https://magyaritasok.hu/dl/AssassinsCreedOdyssey/Acoy_hun_v121.exe",
+          "kind": "direct"
+        }
+      ]
+    },
+    {
+      "steamAppId": "582160",
+      "title": "Assassin's Creed Origins",
+      "studio": "Magyarítások",
+      "studioUrl": "https://magyaritasok.hu",
+      "language": "Magyar",
+      "hasText": true,
+      "hasVoice": false,
+      "version": "1.3",
+      "updatedAt": "09.11.2025",
+      "requiredGameVersion": "1.60, 1.62",
+      "size": "2.07 MB",
+      "pageUrl": "https://magyaritasok.hu/games/assassins-creed-origins",
+      "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
+      "authorsHtml": "<p>Lajti, David200097</p>",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Magyarítások",
+          "url": "https://magyaritasok.hu/dl/assassincreed_origins/Aco_hun_v103.exe",
+          "kind": "direct"
+        }
+      ]
+    },
+    {
+      "steamAppId": "311560",
+      "title": "Assassin's Creed Rogue",
+      "studio": "Magyarítások",
+      "studioUrl": "https://magyaritasok.hu",
+      "language": "Magyar",
+      "hasText": true,
+      "hasVoice": false,
+      "version": "1.0",
+      "updatedAt": "03.04.2017",
+      "requiredGameVersion": null,
+      "size": "1.96 MB",
+      "pageUrl": "https://magyaritasok.hu/games/assassins-creed-rogue",
+      "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
+      "authorsHtml": "<p>Evin, HUNosítók Team</p>",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Magyarítások",
+          "url": "https://magyaritasok.hu/dl/assassincreed_rogue/ACRG_hunv100.exe",
+          "kind": "direct"
+        }
+      ]
+    },
+    {
+      "steamAppId": "418370",
+      "title": "Resident Evil 7: Biohazard",
+      "studio": "Magyarítások",
+      "studioUrl": "https://magyaritasok.hu",
+      "language": "Magyar",
+      "hasText": true,
+      "hasVoice": false,
+      "version": "1.32",
+      "updatedAt": "20.02.2024",
+      "requiredGameVersion": "dx11 és dx12",
+      "size": "20.7 MB",
+      "pageUrl": "https://magyaritasok.hu/games/resident-evil-7-biohazard",
+      "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
+      "authorsHtml": "<p>Evin</p>",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Magyarítások",
+          "url": "https://magyaritasok.hu/dl/residentevil7/RE7_HUN_1.32.exe",
+          "kind": "direct"
+        }
+      ]
+    },
+    {
       "steamAppId": "1172380",
       "title": "Star Wars Jedi: Fallen Order",
       "studio": "Magyarítások",
@@ -6327,10 +6471,10 @@
       "language": "Magyar",
       "hasText": true,
       "hasVoice": false,
-      "version": "0.85",
-      "updatedAt": "24.12.2024",
+      "version": "1.0",
+      "updatedAt": "09.07.2026",
       "requiredGameVersion": "1.7.0",
-      "size": "11.6 MB",
+      "size": "15.0 MB",
       "pageUrl": "https://magyaritasok.hu/games/assassins-creed-valhalla",
       "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
       "authorsHtml": "<p>Lajti, warg</p>",
@@ -6338,7 +6482,7 @@
       "mirrors": [
         {
           "label": "Magyarítások",
-          "url": "https://magyaritasok.hu/dl/AssassinsCreedValhalla/AcV_hun_085.exe",
+          "url": "https://magyaritasok.hu/dl/AssassinsCreedValhalla/AcV_hun_100.exe",
           "kind": "direct"
         }
       ]
@@ -11456,30 +11600,6 @@
       ]
     },
     {
-      "steamAppId": "582160",
-      "title": "Assassin's Creed: Origins",
-      "studio": "Magyarítások",
-      "studioUrl": "https://magyaritasok.hu",
-      "language": "Magyar",
-      "hasText": true,
-      "hasVoice": false,
-      "version": "1.3",
-      "updatedAt": "09.11.2025",
-      "requiredGameVersion": "1.60, 1.62",
-      "size": "2.07 MB",
-      "pageUrl": "https://magyaritasok.hu/games/assassins-creed-origins",
-      "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
-      "authorsHtml": "<p>Lajti, David200097</p>",
-      "inDevelopment": false,
-      "mirrors": [
-        {
-          "label": "Magyarítások",
-          "url": "https://magyaritasok.hu/dl/assassincreed_origins/Aco_hun_v103.exe",
-          "kind": "direct"
-        }
-      ]
-    },
-    {
       "steamAppId": "489830",
       "title": "The Elder Scrolls V: Skyrim Special Edition",
       "studio": "Magyarítások",
@@ -11761,6 +11881,30 @@
         {
           "label": "Magyarítások",
           "url": "https://magyaritasok.hu/dl/LustFromBeyond/Lust_from_Beyond_Prologue_HUN_1.0.exe",
+          "kind": "direct"
+        }
+      ]
+    },
+    {
+      "steamAppId": "1045840",
+      "title": "Intruders: Hide and Seek",
+      "studio": "Magyarítások",
+      "studioUrl": "https://magyaritasok.hu",
+      "language": "Magyar",
+      "hasText": true,
+      "hasVoice": false,
+      "version": "1.0",
+      "updatedAt": "20.04.2021",
+      "requiredGameVersion": null,
+      "size": "2.62 MB",
+      "pageUrl": "https://magyaritasok.hu/games/intruders-hide-and-seek",
+      "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
+      "authorsHtml": "<p>nulladik</p>",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Magyarítások",
+          "url": "https://magyaritasok.hu/dl/intruders_hideandseek/Intruders_Hide_and_Seek_HUN_1.0.exe",
           "kind": "direct"
         }
       ]
@@ -13029,30 +13173,6 @@
         {
           "label": "Magyarítások",
           "url": "https://magyaritasok.hu/dl/Memoranda/Memoranda_HUN_1.1.exe",
-          "kind": "direct"
-        }
-      ]
-    },
-    {
-      "steamAppId": "812140",
-      "title": "Assassin's Creed: Odyssey",
-      "studio": "Magyarítások",
-      "studioUrl": "https://magyaritasok.hu",
-      "language": "Magyar",
-      "hasText": true,
-      "hasVoice": false,
-      "version": "1.21",
-      "updatedAt": "19.04.2023",
-      "requiredGameVersion": "1.5.6",
-      "size": "5.58 MB",
-      "pageUrl": "https://magyaritasok.hu/games/assassins-creed-odyssey",
-      "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
-      "authorsHtml": "<p>Lajti, és David200097</p>",
-      "inDevelopment": false,
-      "mirrors": [
-        {
-          "label": "Magyarítások",
-          "url": "https://magyaritasok.hu/dl/AssassinsCreedOdyssey/Acoy_hun_v121.exe",
           "kind": "direct"
         }
       ]
@@ -18117,30 +18237,6 @@
       ]
     },
     {
-      "steamAppId": "418370",
-      "title": "Resident Evil 7: Biohazard",
-      "studio": "Magyarítások",
-      "studioUrl": "https://magyaritasok.hu",
-      "language": "Magyar",
-      "hasText": true,
-      "hasVoice": false,
-      "version": "1.32",
-      "updatedAt": "20.02.2024",
-      "requiredGameVersion": "dx11 és dx12",
-      "size": "20.7 MB",
-      "pageUrl": "https://magyaritasok.hu/games/resident-evil-7-biohazard",
-      "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
-      "authorsHtml": "<p>Evin</p>",
-      "inDevelopment": false,
-      "mirrors": [
-        {
-          "label": "Magyarítások",
-          "url": "https://magyaritasok.hu/dl/residentevil7/RE7_HUN_1.32.exe",
-          "kind": "direct"
-        }
-      ]
-    },
-    {
       "steamAppId": "427290",
       "title": "Vampyr",
       "studio": "Magyarítások",
@@ -21706,30 +21802,6 @@
       ]
     },
     {
-      "steamAppId": "311560",
-      "title": "Assassin's Creed: Rogue",
-      "studio": "Magyarítások",
-      "studioUrl": "https://magyaritasok.hu",
-      "language": "Magyar",
-      "hasText": true,
-      "hasVoice": false,
-      "version": "1.0",
-      "updatedAt": "03.04.2017",
-      "requiredGameVersion": null,
-      "size": "1.96 MB",
-      "pageUrl": "https://magyaritasok.hu/games/assassin-s-creed-rogue",
-      "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
-      "authorsHtml": "<p>Evin, HUNosítók Team</p>",
-      "inDevelopment": false,
-      "mirrors": [
-        {
-          "label": "Magyarítások",
-          "url": "https://magyaritasok.hu/dl/assassincreed_rogue/ACRG_hunv100.exe",
-          "kind": "direct"
-        }
-      ]
-    },
-    {
       "steamAppId": "233720",
       "title": "Surgeon Simulator 2013",
       "studio": "Magyarítások",
@@ -22940,30 +23012,6 @@
         {
           "label": "Magyarítások",
           "url": "https://magyaritasok.hu/dl/tengami/TengamiHun.rar",
-          "kind": "direct"
-        }
-      ]
-    },
-    {
-      "steamAppId": "48190",
-      "title": "Assassin's Creed: Brotherhood",
-      "studio": "Magyarítások",
-      "studioUrl": "https://magyaritasok.hu",
-      "language": "Magyar",
-      "hasText": true,
-      "hasVoice": false,
-      "version": "2.02",
-      "updatedAt": "21.08.2022",
-      "requiredGameVersion": "1.03",
-      "size": "4.82 MB",
-      "pageUrl": "https://magyaritasok.hu/games/assassin-s-creed-brotherhood",
-      "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
-      "authorsHtml": "<p>Evin, HUNosítók Team</p>",
-      "inDevelopment": false,
-      "mirrors": [
-        {
-          "label": "Magyarítások",
-          "url": "https://magyaritasok.hu/dl/assassincreed_brotherhood/ACBR_hun_v2.02.exe",
           "kind": "direct"
         }
       ]
@@ -25111,30 +25159,6 @@
         {
           "label": "Magyarítások",
           "url": "https://magyaritasok.hu/dl/thevanishingofethancarter/tvoec_hun.exe",
-          "kind": "direct"
-        }
-      ]
-    },
-    {
-      "steamAppId": "201870",
-      "title": "Assassin's Creed: Revelations",
-      "studio": "Magyarítások",
-      "studioUrl": "https://magyaritasok.hu",
-      "language": "Magyar",
-      "hasText": true,
-      "hasVoice": false,
-      "version": "1.02",
-      "updatedAt": "21.08.2022",
-      "requiredGameVersion": "1.03",
-      "size": "4.40 MB",
-      "pageUrl": "https://magyaritasok.hu/games/assassin-s-creed-revelations",
-      "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
-      "authorsHtml": "<p>Evin, HUNosítók Team</p>",
-      "inDevelopment": false,
-      "mirrors": [
-        {
-          "label": "Magyarítások",
-          "url": "https://magyaritasok.hu/dl/assassincreed_revelations/ACR_hun_v1.02.exe",
           "kind": "direct"
         }
       ]

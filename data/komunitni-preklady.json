@@ -5,6 +5,84 @@
   "siteUrl": "https://komunitni-preklady.org",
   "localizations": [
     {
+      "title": "Subnautica 2",
+      "studio": "Komunitní překlady",
+      "studioUrl": "https://komunitni-preklady.org/preklad/subnautica-2",
+      "language": "Čeština",
+      "hasText": false,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": true,
+      "version": "0.64",
+      "updatedAt": "09.07.2026",
+      "requiredGameVersion": "1.1",
+      "pageUrl": "https://komunitni-preklady.org/preklad/subnautica-2",
+      "howToInstallHtml": "<p>Každý překlad má vlastní postup instalace. Otevřete stránku překladu (tlačítko „Otevřít v prohlížeči“ níže) — najdete tam úplný návod k instalaci i tlačítko ke stažení.</p>",
+      "authorsHtml": "<p>NeonFox Loc</p>",
+      "size": "1.90 MB",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Komunitní překlady",
+          "url": "https://komunitni-preklady.org/download/805?sig=hb27APjhbiPLqt49GbQ1vg",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "1962700"
+    },
+    {
+      "title": "Grounded 2",
+      "studio": "Komunitní překlady",
+      "studioUrl": "https://komunitni-preklady.org/preklad/grounded-2",
+      "language": "Slovenčina",
+      "hasText": false,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": true,
+      "version": "0.2",
+      "updatedAt": "09.07.2026",
+      "requiredGameVersion": "0.4.2.1",
+      "pageUrl": "https://komunitni-preklady.org/preklad/grounded-2",
+      "howToInstallHtml": "<p>Každý preklad má vlastný postup inštalácie. Otvorte stránku prekladu (tlačidlo „Otvoriť v prehliadači“ nižšie) — nájdete tam úplný návod na inštaláciu aj tlačidlo na stiahnutie.</p>",
+      "authorsHtml": "<p>Flego</p>",
+      "size": "3.90 MB",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Komunitní překlady",
+          "url": "https://komunitni-preklady.org/download/564?sig=blDb2N1IhDt5U5WI2U66Zw",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "2661300"
+    },
+    {
+      "title": "World of Sea Battle",
+      "studio": "Komunitní překlady",
+      "studioUrl": "https://komunitni-preklady.org/preklad/world-of-sea-battle",
+      "language": "Čeština",
+      "hasText": false,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": true,
+      "version": null,
+      "updatedAt": "09.07.2026",
+      "requiredGameVersion": null,
+      "pageUrl": "https://komunitni-preklady.org/preklad/world-of-sea-battle",
+      "howToInstallHtml": "<p>Každý překlad má vlastní postup instalace. Otevřete stránku překladu (tlačítko „Otevřít v prohlížeči“ níže) — najdete tam úplný návod k instalaci i tlačítko ke stažení.</p>",
+      "authorsHtml": "<p>Sintaxovy překlady</p>",
+      "size": null,
+      "inDevelopment": true,
+      "mirrors": [],
+      "steamAppId": "2948190"
+    },
+    {
       "title": "No, I\\u0027m not a Human",
       "studio": "Komunitní překlady",
       "studioUrl": "https://komunitni-preklady.org/preklad/no-im-not-a-human",
@@ -477,8 +555,7 @@
           "url": "https://komunitni-preklady.org/download/507?sig=s2OeTKWHDf2BdSGdqC_wxQ",
           "kind": "direct"
         }
-      ],
-      "steamAppId": "22000"
+      ]
     },
     {
       "title": "Tourist Bus Simulator",
@@ -2036,34 +2113,6 @@
         }
       ],
       "steamAppId": "3601800"
-    },
-    {
-      "title": "Subnautica 2",
-      "studio": "Komunitní překlady",
-      "studioUrl": "https://komunitni-preklady.org/preklad/subnautica-2",
-      "language": "Čeština",
-      "hasText": false,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": true,
-      "version": "0.63",
-      "updatedAt": "31.05.2026",
-      "requiredGameVersion": null,
-      "pageUrl": "https://komunitni-preklady.org/preklad/subnautica-2",
-      "howToInstallHtml": "<p>Každý překlad má vlastní postup instalace. Otevřete stránku překladu (tlačítko „Otevřít v prohlížeči“ níže) — najdete tam úplný návod k instalaci i tlačítko ke stažení.</p>",
-      "authorsHtml": "<p>NeonFox Loc</p>",
-      "size": "1.90 MB",
-      "inDevelopment": false,
-      "mirrors": [
-        {
-          "label": "Komunitní překlady",
-          "url": "https://komunitni-preklady.org/download/805?sig=hb27APjhbiPLqt49GbQ1vg",
-          "kind": "direct"
-        }
-      ],
-      "steamAppId": "1962700"
     },
     {
       "title": "Farmers Dynasty 2",
@@ -6998,34 +7047,6 @@
           "kind": "direct"
         }
       ]
-    },
-    {
-      "title": "Grounded 2",
-      "studio": "Komunitní překlady",
-      "studioUrl": "https://komunitni-preklady.org/preklad/grounded-2",
-      "language": "Slovenčina",
-      "hasText": false,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": true,
-      "version": "0.1",
-      "updatedAt": "23.01.2026",
-      "requiredGameVersion": "0.3.0.2",
-      "pageUrl": "https://komunitni-preklady.org/preklad/grounded-2",
-      "howToInstallHtml": "<p>Každý preklad má vlastný postup inštalácie. Otvorte stránku prekladu (tlačidlo „Otvoriť v prehliadači“ nižšie) — nájdete tam úplný návod na inštaláciu aj tlačidlo na stiahnutie.</p>",
-      "authorsHtml": "<p>Flego</p>",
-      "size": "454 KB",
-      "inDevelopment": false,
-      "mirrors": [
-        {
-          "label": "Komunitní překlady",
-          "url": "https://komunitni-preklady.org/download/564?sig=blDb2N1IhDt5U5WI2U66Zw",
-          "kind": "direct"
-        }
-      ],
-      "steamAppId": "2661300"
     },
     {
       "title": "LEGO Batman 2",
@@ -12484,7 +12505,7 @@
       "hasNeuralDub": false,
       "hasNeuralText": false,
       "version": "1.0",
-      "updatedAt": "27.04.2026",
+      "updatedAt": "09.07.2026",
       "requiredGameVersion": null,
       "pageUrl": "https://komunitni-preklady.org/preklad/remnant-from-the-ashes",
       "howToInstallHtml": "<p>Každý překlad má vlastní postup instalace. Otevřete stránku překladu (tlačítko „Otevřít v prohlížeči“ níže) — najdete tam úplný návod k instalaci i tlačítko ke stažení.</p>",
@@ -15471,7 +15492,7 @@
       "hasNeuralDub": false,
       "hasNeuralText": false,
       "version": "1.0",
-      "updatedAt": "29.04.2026",
+      "updatedAt": "09.07.2026",
       "requiredGameVersion": null,
       "pageUrl": "https://komunitni-preklady.org/preklad/the-darkness-2",
       "howToInstallHtml": "<p>Každý překlad má vlastní postup instalace. Otevřete stránku překladu (tlačítko „Otevřít v prohlížeči“ níže) — najdete tam úplný návod k instalaci i tlačítko ke stažení.</p>",
@@ -15639,11 +15660,11 @@
       "hasNeuralDub": false,
       "hasNeuralText": true,
       "version": null,
-      "updatedAt": "08.07.2026",
+      "updatedAt": "09.07.2026",
       "requiredGameVersion": null,
       "pageUrl": "https://komunitni-preklady.org/preklad/divinity-ii-dragon-knight-saga-",
       "howToInstallHtml": "<p>Každý překlad má vlastní postup instalace. Otevřete stránku překladu (tlačítko „Otevřít v prohlížeči“ níže) — najdete tam úplný návod k instalaci i tlačítko ke stažení.</p>",
-      "authorsHtml": "<p>Žižkovské Překlady</p>",
+      "authorsHtml": "<p>NeonFox Loc</p>",
       "size": null,
       "inDevelopment": true,
       "mirrors": []
@@ -15716,7 +15737,7 @@
       "hasNeuralDub": false,
       "hasNeuralText": false,
       "version": "1.0",
-      "updatedAt": "29.04.2026",
+      "updatedAt": "09.07.2026",
       "requiredGameVersion": null,
       "pageUrl": "https://komunitni-preklady.org/preklad/lara-croft-and-the-guardian-of-light",
       "howToInstallHtml": "<p>Každý překlad má vlastní postup instalace. Otevřete stránku překladu (tlačítko „Otevřít v prohlížeči“ níže) — najdete tam úplný návod k instalaci i tlačítko ke stažení.</p>",

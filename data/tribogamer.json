@@ -7021,8 +7021,8 @@
       "mirrors": [
         {
           "label": "Tribo Gamer",
-          "url": "https://tribogamer.com/traducoes/251_traducao-do-emergency-2014-para-portugues-do-brasil.html",
-          "kind": "other"
+          "url": "http://s1.ttriber.com/traducoes/download/cdn/683683/emergency_2014_br-v1.00[www.tribogamer.com].exe",
+          "kind": "direct"
         }
       ],
       "steamAppId": "260930"
@@ -7049,8 +7049,8 @@
       "mirrors": [
         {
           "label": "Tribo Gamer",
-          "url": "https://tribogamer.com/traducoes/250_traducao-do-mad-riders-para-portugues-do-brasil.html",
-          "kind": "other"
+          "url": "http://s1.ttriber.com/traducoes/download/cdn/696880/mad_riders_br-v1.00[www.tribogamer.com].exe",
+          "kind": "direct"
         }
       ],
       "steamAppId": "208860"
@@ -7077,11 +7077,39 @@
       "mirrors": [
         {
           "label": "Tribo Gamer",
-          "url": "https://tribogamer.com/traducoes/249_traducao-do-fallout-3-the-pitt-dlc-para-portugues-do-brasil.html",
-          "kind": "other"
+          "url": "http://s1.ttriber.com/traducoes/download/cdn/980187/f3_the_pitt_br-v1.00[www.tribogamer.com].exe",
+          "kind": "direct"
         }
       ],
       "steamAppId": "22420"
+    },
+    {
+      "title": "The Walking Dead - Season Two: In Harm's Way",
+      "studio": "Tribo Gamer",
+      "studioUrl": "https://tribogamer.com/traducoes/248_traducao-do-the-walking-dead-season-two-in-harms-way-para-portugues-do-brasil.html",
+      "language": "Português (Brasil)",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": "1.00",
+      "updatedAt": "26/05/2014",
+      "pageUrl": "https://tribogamer.com/traducoes/248_traducao-do-the-walking-dead-season-two-in-harms-way-para-portugues-do-brasil.html",
+      "howToInstallHtml": "<p>As traduções da Tribo Gamer são instaladores (.exe). Baixe o arquivo, execute o instalador e siga as instruções na tela — a instalação é automática.</p>",
+      "changelogHtml": null,
+      "authorsHtml": "<p><strong>Administrador:</strong> italopimp</p><p><strong>Co-Administrador(es):</strong> squallzell8</p><p><strong>Tradutores:</strong> squallzell8 , italopimp , Jainyestefan , LHCM , Ero_Sennin , walk_ed , FillipeDrago , luban , ManiacBR</p><p><strong>Revisores:</strong> italopimp , squallzell8 , Edição Gráfica e Fontes H3rdell , ItalloIgor</p><p><strong>Tests-ingame:</strong> squallzell8 , LHCM , Queruba</p><p><strong>Instalador:</strong> H3rdell</p><p><strong>Ferramentas:</strong> TriboGamerBrasil</p>",
+      "size": "1.26 MB",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Tribo Gamer",
+          "url": "http://s1.ttriber.com/traducoes/download/cdn/96598/twds2_ep3_br-v1.00[www.tribogamer.com].exe",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "261030"
     },
     {
       "title": "The Wolf Among Us - Episode 3: A Crooked Mile",
