@@ -2091,7 +2091,7 @@
       "version": "1",
       "updatedAt": "23.06.2026",
       "pageUrl": "https://www.calypsoceviri.com/turkce-yamalar/radiolight-turkce-yama-indir",
-      "howToInstallHtml": "<div>Aşağıda vermiş olduğumuz linkten indirdiğiniz Rar dosyasındaki Türkçe Yama exesini, oyunun kurulu olduğu ana dosya konumuna atarak, Türkçe yama exesini çalıştırın. Oyunun ana dosya konumunun seçili olduğunu kontrol ettikten sonra, hangi platformdan oynuyorsanız, o platformun yükle butonuna basarak yamayı yükleyebilirsiniz.<br><br>Yamay\u0000ı kaldırmak için oyunun dosya konumundaki TheLastCaretaker_YamaKaldır.exe'sinden kaldırabilirsin.</div>",
+      "howToInstallHtml": "<div>Aşağıda vermiş olduğumuz linkten indirdiğiniz Rar dosyasındaki Türkçe Yama exesini, oyunun kurulu olduğu ana dosya konumuna atarak, Türkçe yama exesini çalıştırın. Oyunun ana dosya konumunun seçili olduğunu kontrol ettikten sonra, hangi platformdan oynuyorsanız, o platformun yükle butonuna basarak yamayı yükleyebilirsiniz.<br><br>Yamayı kaldırmak için oyunun dosya konumundaki TheLastCaretaker_YamaKaldır.exe'sinden kaldırabilirsin.</div>",
       "authorsHtml": "<p>Indra</p>",
       "size": "1.68 MB",
       "inDevelopment": false,
@@ -6554,33 +6554,6 @@
         }
       ],
       "steamAppId": "2457220"
-    },
-    {
-      "title": "Avatar: Frontiers of Pandora",
-      "studio": "Calypso Çeviri",
-      "studioUrl": "https://www.calypsoceviri.com",
-      "language": "Türkçe",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": null,
-      "updatedAt": "23.06.2026",
-      "pageUrl": "https://www.calypsoceviri.com/turkce-yamalar/avatar-frontiers-of-pandora-turkce-yama-indir",
-      "howToInstallHtml": "<div>Aşağıda vermiş olduğumuz linkten indirdiğiniz Rar dosyasındaki Türkçe Yama exesini, oyunun kurulu olduğu ana dosya konumuna atarak, Türkçe yama exesini çalıştırın. Oyunun ana dosya konumunun seçili olduğunu kontrol ettikten sonra, hangi platformdan oynuyorsanız, o platformun yükle butonuna basarak yamayı yükleyebilirsiniz.<br><br>Yamayı kaldırmak için dosya konumundaki AvatarFrontiersofPandora_YamaKaldir.exe den yamayı kaldırabilirsiniz.</div>",
-      "authorsHtml": "<p>Sweaty, Bugzade</p>",
-      "size": "4.04 MB",
-      "inDevelopment": false,
-      "mirrors": [
-        {
-          "label": "Calypso Çeviri",
-          "url": "https://www.calypsoceviri.com/_files/archives/7d262d_32980ee334df435c9499895b5374b86f.rar?dn=Avatar%2520Frontiers%2520of%2520Pandora%2520T%25C3%25BCrk%25C3%25A7e%2520Yama.rar",
-          "kind": "direct"
-        }
-      ],
-      "steamAppId": "2840770"
     },
     {
       "title": "Atomic Heart Full DLC",

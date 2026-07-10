@@ -5,6 +5,90 @@
   "siteUrl": "https://lokalizace.net",
   "localizations": [
     {
+      "title": "Rayman® Origins",
+      "studio": "Lokalizace.net",
+      "studioUrl": "https://lokalizace.net/localizations/rayman-origins",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": "1.0",
+      "updatedAt": "09.07.2026",
+      "pageUrl": "https://lokalizace.net/localizations/rayman-origins",
+      "howToInstallHtml": "<p>Stáhněte ZIP soubor a rozbalte ho do složky hry, nebo použijte aplikaci CZManager pro automatickou instalaci češtiny.</p>",
+      "changelogHtml": null,
+      "authorsHtml": "<p>Itenko14s Team</p>",
+      "size": "1.59 GB",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Lokalizace.net",
+          "url": "https://lokalizace.net/api/download/1659",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "207490"
+    },
+    {
+      "title": "The Jackbox Party Starter",
+      "studio": "Lokalizace.net",
+      "studioUrl": "https://lokalizace.net/localizations/the-jackbox-party-starter",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": "1.0.0",
+      "updatedAt": "08.07.2026",
+      "pageUrl": "https://lokalizace.net/localizations/the-jackbox-party-starter",
+      "howToInstallHtml": "<p>Stáhněte ZIP soubor a rozbalte ho do složky hry, nebo použijte aplikaci CZManager pro automatickou instalaci češtiny.</p>",
+      "changelogHtml": "<div><p><strong>Nová verze 1.0.0</strong></p><p>První verze překladu</p></div>",
+      "authorsHtml": "<p>DarbyCzech</p>",
+      "size": "340.1 MB",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Lokalizace.net",
+          "url": "https://lokalizace.net/api/download/1658",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "1755580"
+    },
+    {
+      "title": "Darwin's Paradox!",
+      "studio": "Lokalizace.net",
+      "studioUrl": "https://lokalizace.net/localizations/darwin-s-paradox",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": "0.1",
+      "updatedAt": "08.07.2026",
+      "pageUrl": "https://lokalizace.net/localizations/darwin-s-paradox",
+      "howToInstallHtml": "<p>Stáhněte ZIP soubor a rozbalte ho do složky hry, nebo použijte aplikaci CZManager pro automatickou instalaci češtiny.</p>",
+      "changelogHtml": "<div><p>Nahrána nová verze překladu: 0.1</p></div>",
+      "authorsHtml": "<p>DickzillaTranslator</p>",
+      "size": "16.8 MB",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Lokalizace.net",
+          "url": "https://lokalizace.net/api/download/1656",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "2989180"
+    },
+    {
       "title": "Amnesia Lifeless: Descent into Abandon",
       "studio": "Lokalizace.net",
       "studioUrl": "https://lokalizace.net/localizations/amnesia-lifeless",
@@ -16217,7 +16301,7 @@
           "kind": "direct"
         }
       ],
-      "steamAppId": "1505430"
+      "steamAppId": "212410"
     },
     {
       "title": "Stellaris",
@@ -16230,19 +16314,24 @@
       "hasNeuralVoice": false,
       "hasNeuralDub": false,
       "hasNeuralText": false,
-      "version": "4.3.6",
-      "updatedAt": "11.05.2026",
+      "version": "4.4.6",
+      "updatedAt": "09.07.2026",
       "pageUrl": "https://lokalizace.net/localizations/stellaris",
       "howToInstallHtml": "<p>Stáhněte ZIP soubor a rozbalte ho do složky hry, nebo použijte aplikaci CZManager pro automatickou instalaci češtiny.</p>",
-      "changelogHtml": "<div><p><strong>Nová verze 4.3.6</strong></p><p>Aktualizováno na verzi 4.3.6</p><p>Nahrána nová verze překladu: 4.3.5</p><p><strong>Nová verze 4.3.4</strong></p><p>Aktualizováno na verzi 4.3.4</p><p><strong>Nová verze 4.3.3</strong></p><p>Oprava chyb.</p><p><strong>Nová verze 4.3.3</strong></p><p>Aktualizováno na verzi 4.3.3</p><p>Nahrána nová verze překladu: 4.3.2</p><p><strong>Nová verze 4.3.1</strong></p><p>Aktualizováno na verzi 4.3.1</p><p><strong>Nová verze 4.2.4</strong></p><p>Opravena chyba</p><p><strong>Nová verze 4.2.4</strong></p><p>Dokončena korektura textů, kterou provedl dobrovolně a z vlastní vůle PredatorV.</p><p></p><p><strong>Nová verze 4.2.4</strong></p><p>Korekturu textů provedl zcela dobrovolně a z vlastní vůle PredatorV.</p><p>Nechť mu za to vesmír přeje. ;)</p><p>Nahrána nová verze překladu: 4.2.4</p><p><strong>Nová verze 4.2.4</strong></p><p>Pro nouzové použití, prosím použijte některý z odkazů na mód v popisu.</p><p>Pozměněn obsah archivu - smazán obrázek a manifest módu a přidán návod k instalaci.</p></div>",
+      "changelogHtml": "<div><p><strong>Nová verze 4.4.6</strong></p><p>Překlad aktualizován na verzi 4.4.6</p><p>Upozornění na dosud nevyřešený - nevyřešitelný problém. </p><p>Nová herní mechanika (nomádi) s sebou nese i své vlastní náhodně generované názvy. Bohužel je zde problém, neboť kvůli slovosledu a skloňování je přehozena logika generování jmen, což doposud fungovalo a funguje tak jak má u starších názvů. Bohužel u nových názvů a to konkrétně dvouslovných to již nefunguje - týká se to pouze nomádských říší. </p><p>Problém byl už u DLC Clona, kde byl vytvořen sekundární klíč a nastavena logika pro generování názvů enkláv. Jelikož konkrétní script pro náhodné generování čerpá z malého fondu, bylo to 'snadno' proveditelné.</p><p>Bohužel u nomádů toto provést nelze, neboť používají kompletní fond a jakýkoliv zásah rozbije to co doposud funguje a stejně by to nefungovalo. Problém spočívá v tom, že u těchto názvů je ve scriptu na pozici řídícího podstatného jména dané adjektivum - Takže se generátor nemá čeho chytit a nedoplní koncovku.</p><p>pro pochopení: Běžný stav 'Nuursk aliance' - řídící podstatné jméno je 'aliance' rod ženský, čili doplní do adjektiva 'á' - Nurská aliance</p><p>V případě nomádů je to Nomádsk Nuursk - řídící podstatné jméno je adjektivum 'Nuursk' - jelikož je to adjektivum a je řízeno podstatným jménem, kdy samo sebe považuje za podstatné jméno nedokáže doplnit správnou koncovku. - Nefunguje ani vynucené přehození Nuursk Nomádové - přestože druhé slovo je množné číslo, tudíš by to správně mělo doplnit koncovku na Nuurští - tak kvůli logice scriptu je zde adjectivum pořád na řídíci pozici. </p><p>Problém je pouze u dvouslovných názvů, tříslovné názvy fungují správně, i když si to vyžádalo pár pár let života.</p><p>V současné době nevím jak toto vyřešit.</p><p></p><p><strong>Nová verze 4.3.6</strong></p><p>Aktualizováno na verzi 4.3.6</p><p>Nahrána nová verze překladu: 4.3.5</p><p><strong>Nová verze 4.3.4</strong></p><p>Aktualizováno na verzi 4.3.4</p><p><strong>Nová verze 4.3.3</strong></p><p>Oprava chyb.</p><p><strong>Nová verze 4.3.3</strong></p><p>Aktualizováno na verzi 4.3.3</p><p>Nahrána nová verze překladu: 4.3.2</p><p><strong>Nová verze 4.3.1</strong></p><p>Aktualizováno na verzi 4.3.1</p><p><strong>Nová verze 4.2.4</strong></p><p>Opravena chyba</p><p><strong>Nová verze 4.2.4</strong></p><p>Dokončena korektura textů, kterou provedl dobrovolně a z vlastní vůle PredatorV.</p><p></p><p><strong>Nová verze 4.2.4</strong></p><p>Korekturu textů provedl zcela dobrovolně a z vlastní vůle PredatorV.</p><p>Nechť mu za to vesmír přeje. ;)</p><p>Nahrána nová verze překladu: 4.2.4</p><p><strong>Nová verze 4.2.4</strong></p><p>Pro nouzové použití, prosím použijte některý z odkazů na mód v popisu.</p><p>Pozměněn obsah archivu - smazán obrázek a manifest módu a přidán návod k instalaci.</p></div>",
       "authorsHtml": "<p>Tomiket</p>",
-      "size": "4.50 MB",
+      "size": "4.80 MB",
       "inDevelopment": false,
       "mirrors": [
         {
           "label": "Lokalizace.net",
-          "url": "https://lokalizace.net/api/download/1519",
+          "url": "https://lokalizace.net/api/download/1660",
           "kind": "direct"
+        },
+        {
+          "label": "Версия 4.3.6",
+          "url": "https://lokalizace.net/api/download/1519",
+          "kind": "other"
         },
         {
           "label": "Версия 4.3.5",
@@ -19245,28 +19334,6 @@
       "inDevelopment": true,
       "mirrors": [],
       "steamAppId": "2369390"
-    },
-    {
-      "title": "Darwin's Paradox!",
-      "studio": "Lokalizace.net",
-      "studioUrl": "https://lokalizace.net/localizations/darwin-s-paradox",
-      "language": "Čeština",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": null,
-      "updatedAt": null,
-      "pageUrl": "https://lokalizace.net/localizations/darwin-s-paradox",
-      "howToInstallHtml": "<p>Stáhněte ZIP soubor a rozbalte ho do složky hry, nebo použijte aplikaci CZManager pro automatickou instalaci češtiny.</p>",
-      "changelogHtml": null,
-      "authorsHtml": "<p>DickzillaTranslator</p>",
-      "size": null,
-      "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "2989180"
     },
     {
       "title": "Hollowbody",

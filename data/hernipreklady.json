@@ -5,6 +5,34 @@
   "siteUrl": "https://hernipreklady.cz",
   "localizations": [
     {
+      "title": "Blade and Sorcery",
+      "studio": "HerníPřeklady",
+      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/blade-and-sorcery",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": "1.4",
+      "updatedAt": null,
+      "requiredGameVersion": "1.2",
+      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/blade-and-sorcery",
+      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
+      "authorsHtml": "<p><strong>Překlad textů:</strong> Luc2as</p>",
+      "inDevelopment": false,
+      "size": "17.5 MB",
+      "mirrors": [
+        {
+          "label": "HerníPřeklady",
+          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=589",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "629730"
+    },
+    {
       "title": "Titanfall 2",
       "studio": "HerníPřeklady",
       "studioUrl": "https://hernipreklady.cz/seznam-prekladu/titanfall-2",
@@ -194,9 +222,9 @@
       "steamAppId": "1176470"
     },
     {
-      "title": "Directive 8020",
+      "title": "Myst",
       "studio": "HerníPřeklady",
-      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/directive-8020",
+      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/myst",
       "language": "Čeština",
       "hasText": true,
       "hasVoice": false,
@@ -204,16 +232,50 @@
       "hasNeuralVoice": false,
       "hasNeuralDub": false,
       "hasNeuralText": false,
-      "version": null,
-      "updatedAt": null,
-      "requiredGameVersion": "Aktuální na Steamu",
-      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/directive-8020",
+      "version": "1.1",
+      "updatedAt": "03.02.2024",
+      "requiredGameVersion": "Aktuální Steam",
+      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/myst",
       "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
-      "authorsHtml": null,
-      "inDevelopment": true,
-      "size": null,
-      "mirrors": [],
-      "steamAppId": "2255370"
+      "authorsHtml": "<p><strong>Překlad textů a textur:</strong> Luc2as</p>",
+      "inDevelopment": false,
+      "size": "307.1 MB",
+      "mirrors": [
+        {
+          "label": "HerníPřeklady",
+          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=33",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "1255560"
+    },
+    {
+      "title": "Jagged Alliance 3",
+      "studio": "HerníPřeklady",
+      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/jagged-alliance-3",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": "1.4.1",
+      "updatedAt": "16.02.2024",
+      "requiredGameVersion": "1.4.1",
+      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/jagged-alliance-3",
+      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
+      "authorsHtml": "<p><strong>Překlad a testování:</strong> Andrewek a Luc2as<br><strong>Testování:</strong> Barbar, Cobra</p>",
+      "inDevelopment": false,
+      "size": "4.88 MB",
+      "mirrors": [
+        {
+          "label": "HerníPřeklady",
+          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=141",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "1084160"
     },
     {
       "title": "The Dark Pictures: Little Hope",
@@ -244,9 +306,9 @@
       "steamAppId": "1194630"
     },
     {
-      "title": "Blade and Sorcery",
+      "title": "Directive 8020",
       "studio": "HerníPřeklady",
-      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/blade-and-sorcery",
+      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/directive-8020",
       "language": "Čeština",
       "hasText": true,
       "hasVoice": false,
@@ -254,50 +316,16 @@
       "hasNeuralVoice": false,
       "hasNeuralDub": false,
       "hasNeuralText": false,
-      "version": "1.3",
-      "updatedAt": "28.02.2025",
-      "requiredGameVersion": "1.0.7",
-      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/blade-and-sorcery",
+      "version": null,
+      "updatedAt": null,
+      "requiredGameVersion": "Aktuální na Steamu",
+      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/directive-8020",
       "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
-      "authorsHtml": "<p><strong>Překlad textů:</strong> Luc2as</p>",
-      "inDevelopment": false,
-      "size": "17.5 MB",
-      "mirrors": [
-        {
-          "label": "HerníPřeklady",
-          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=352",
-          "kind": "direct"
-        }
-      ],
-      "steamAppId": "629730"
-    },
-    {
-      "title": "Jagged Alliance 3",
-      "studio": "HerníPřeklady",
-      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/jagged-alliance-3",
-      "language": "Čeština",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": "1.4.1",
-      "updatedAt": "16.02.2024",
-      "requiredGameVersion": "1.4.1",
-      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/jagged-alliance-3",
-      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
-      "authorsHtml": "<p><strong>Překlad a testování:</strong> Andrewek a Luc2as<br><strong>Testování:</strong> Barbar, Cobra</p>",
-      "inDevelopment": false,
-      "size": "4.88 MB",
-      "mirrors": [
-        {
-          "label": "HerníPřeklady",
-          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=141",
-          "kind": "direct"
-        }
-      ],
-      "steamAppId": "1084160"
+      "authorsHtml": null,
+      "inDevelopment": true,
+      "size": null,
+      "mirrors": [],
+      "steamAppId": "2255370"
     },
     {
       "title": "Evotinction",
@@ -3493,34 +3521,6 @@
         }
       ],
       "steamAppId": "1571240"
-    },
-    {
-      "title": "Myst",
-      "studio": "HerníPřeklady",
-      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/myst",
-      "language": "Čeština",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": "1.1",
-      "updatedAt": "03.02.2024",
-      "requiredGameVersion": "Aktuální Steam",
-      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/myst",
-      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
-      "authorsHtml": "<p><strong>Překlad textů a textur:</strong> Luc2as</p>",
-      "inDevelopment": false,
-      "size": "307.1 MB",
-      "mirrors": [
-        {
-          "label": "HerníPřeklady",
-          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=33",
-          "kind": "direct"
-        }
-      ],
-      "steamAppId": "1255560"
     },
     {
       "title": "Terminator: Resistance",

@@ -24,12 +24,12 @@
       "mirrors": [
         {
           "label": "ShareMods (Дубляж Matched)",
-          "url": "https://sharemods.com/euwqfcg0cz3e/Steelrising_dub_matched.zip.html",
+          "url": "https://sharemods.com/vwcje9o5s20t/Steelrising_dub_matched.zip.html",
           "kind": "other"
         },
         {
           "label": "ShareMods (Закадр)",
-          "url": "https://sharemods.com/c4u9cxf2q847/Steelrising_voiceover.zip.html",
+          "url": "https://sharemods.com/j0iz5ktigqka/Steelrising_voiceover.zip.html",
           "kind": "other"
         },
         {
@@ -50,20 +50,20 @@
       "hasNeuralText": false,
       "hasNeuralDub": true,
       "hasNeuralVoice": true,
-      "version": null,
+      "version": "1.5",
       "updatedAt": null,
       "pageUrl": "https://www.playground.ru/greedfall_2/file/greedfall_2_greedfall_the_dying_world_polnaya_ii_ozvuchka_dublyazh_i_zakadr-1855734",
       "howToInstallHtml": "<p>Нейроозвучка от <strong>ReVoiceAI</strong>. Скачай через одно из зеркал выше (ShareMods — облако, PlayGround — их страница) и запусти <code>.exe</code>-установщик, указав путь к игре. Поддержать авторов можно на их <a href=\"https://boosty.to/revoice\">Boosty</a>.</p>",
       "inDevelopment": false,
       "mirrors": [
         {
-          "label": "ShareMods (Дубляж Matched)",
-          "url": "https://sharemods.com/m2dp2xsunv83/GreedFall2_dub_matched.zip.html",
+          "label": "ShareMods (Dying World Дубляж Matched)",
+          "url": "https://sharemods.com/2nwqh308v64f/GreedFall_-_The_Dying_World_dub_matched.zip.html",
           "kind": "other"
         },
         {
-          "label": "ShareMods (Закадр)",
-          "url": "https://sharemods.com/vdsp5h2t746n/GreedFall2_voiceover.zip.html",
+          "label": "ShareMods (Dying World Закадр)",
+          "url": "https://sharemods.com/8mn4qxg4xo4k/GreedFall_-_The_Dying_World_voiceover.zip.html",
           "kind": "other"
         },
         {
@@ -449,6 +449,41 @@
         {
           "label": "Boosty (поддержать авторов)",
           "url": "https://boosty.to/revoice/posts/b470ca04-9acc-4bc8-bfd3-a2008662cb72",
+          "kind": "other"
+        }
+      ]
+    },
+    {
+      "steamAppId": "234140",
+      "title": "Mad Max",
+      "studio": "ReVoiceAI",
+      "studioUrl": "https://boosty.to/revoice",
+      "language": "Русский",
+      "hasText": false,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralText": false,
+      "hasNeuralDub": true,
+      "hasNeuralVoice": true,
+      "version": null,
+      "updatedAt": null,
+      "pageUrl": "https://www.playground.ru/mad_max/file/mad_max_2015_russkaya_ozvuchka_ot_ii-1830137",
+      "howToInstallHtml": "<p>Нейроозвучка от <strong>ReVoiceAI</strong>. Скачай через одно из зеркал выше (ShareMods — облако, PlayGround — их страница) и запусти <code>.exe</code>-установщик, указав путь к игре. Поддержать авторов можно на их <a href=\"https://boosty.to/revoice\">Boosty</a>.</p>",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "ShareMods (Дубляж Matched)",
+          "url": "https://sharemods.com/9l5cy76wkqzd/mad_max_dub_matched.zip.html",
+          "kind": "other"
+        },
+        {
+          "label": "ShareMods (Закадр)",
+          "url": "https://sharemods.com/orntwje4iln7/mad_max_voiceover.zip.html",
+          "kind": "other"
+        },
+        {
+          "label": "Boosty (поддержать авторов)",
+          "url": "https://boosty.to/revoice/posts/a2d11f3e-08f1-4991-8f29-f01a3b911a95",
           "kind": "other"
         }
       ]
