@@ -5,6 +5,33 @@
   "siteUrl": "https://lokalizace.net",
   "localizations": [
     {
+      "title": "Grand Theft Auto - Vice City Stories (PSP)",
+      "studio": "Lokalizace.net",
+      "studioUrl": "https://lokalizace.net/localizations/grand-theft-auto-vice-city-stories-psp",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": "1.0",
+      "updatedAt": "11.07.2026",
+      "pageUrl": "https://lokalizace.net/localizations/grand-theft-auto-vice-city-stories-psp",
+      "howToInstallHtml": "<p>Stáhněte ZIP soubor a rozbalte ho do složky hry, nebo použijte aplikaci CZManager pro automatickou instalaci češtiny.</p>",
+      "changelogHtml": "<div><p>Nahrána nová verze překladu: 1.0</p></div>",
+      "authorsHtml": "<p>Starsoul</p>",
+      "size": "36.0 MB",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Lokalizace.net",
+          "url": "https://lokalizace.net/api/download/1664",
+          "kind": "direct"
+        }
+      ]
+    },
+    {
       "title": "Rayman® Origins",
       "studio": "Lokalizace.net",
       "studioUrl": "https://lokalizace.net/localizations/rayman-origins",
@@ -7733,19 +7760,24 @@
       "hasNeuralVoice": false,
       "hasNeuralDub": false,
       "hasNeuralText": false,
-      "version": "1.03 The Jackbox Party Pack 6 (2019)",
-      "updatedAt": "08.03.2025",
+      "version": "1.04",
+      "updatedAt": "10.07.2026",
       "pageUrl": "https://lokalizace.net/localizations/the-jackbox-party-pack-6-2019",
       "howToInstallHtml": "<p>Stáhněte ZIP soubor a rozbalte ho do složky hry, nebo použijte aplikaci CZManager pro automatickou instalaci češtiny.</p>",
-      "changelogHtml": null,
+      "changelogHtml": "<div><p><strong>Nová verze 1.04</strong></p><p>Nová verze češtiny, která opravuje nefunkční překlad po nové aktualizaci, kterou hra dostala v roce 2024. Navíc přeloženo a vymyšleno spoustu nových otázek, mnoho dalších zadání upraveno, vylepšeno. Tohle bude nejspíše poslední větší aktualizace češtiny pro Party Pack 6. Doporučuji přejít na <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" class=\"text-primary underline\" href=\"https://lokalizace.net/localizations/the-jackbox-party-starter\">The Jackbox Party Starter</a>, kde je v Trivii český dabing diktátu a navíc mohou hráči používat v zadáních i diakritiku. K tomu je přeložena i hra Quiplash 3 a Tee K.O.! </p></div>",
       "authorsHtml": "<p>DarbyCzech</p>",
-      "size": "198.0 MB",
+      "size": "173.5 MB",
       "inDevelopment": false,
       "mirrors": [
         {
           "label": "Lokalizace.net",
-          "url": "https://lokalizace.net/api/download/742",
+          "url": "https://lokalizace.net/api/download/1662",
           "kind": "direct"
+        },
+        {
+          "label": "Версия 1.03 The Jackbox Party Pack 6 (2019)",
+          "url": "https://lokalizace.net/api/download/742",
+          "kind": "other"
         }
       ],
       "steamAppId": "1005300"
@@ -16315,18 +16347,23 @@
       "hasNeuralDub": false,
       "hasNeuralText": false,
       "version": "4.4.6",
-      "updatedAt": "09.07.2026",
+      "updatedAt": "10.07.2026",
       "pageUrl": "https://lokalizace.net/localizations/stellaris",
       "howToInstallHtml": "<p>Stáhněte ZIP soubor a rozbalte ho do složky hry, nebo použijte aplikaci CZManager pro automatickou instalaci češtiny.</p>",
-      "changelogHtml": "<div><p><strong>Nová verze 4.4.6</strong></p><p>Překlad aktualizován na verzi 4.4.6</p><p>Upozornění na dosud nevyřešený - nevyřešitelný problém. </p><p>Nová herní mechanika (nomádi) s sebou nese i své vlastní náhodně generované názvy. Bohužel je zde problém, neboť kvůli slovosledu a skloňování je přehozena logika generování jmen, což doposud fungovalo a funguje tak jak má u starších názvů. Bohužel u nových názvů a to konkrétně dvouslovných to již nefunguje - týká se to pouze nomádských říší. </p><p>Problém byl už u DLC Clona, kde byl vytvořen sekundární klíč a nastavena logika pro generování názvů enkláv. Jelikož konkrétní script pro náhodné generování čerpá z malého fondu, bylo to 'snadno' proveditelné.</p><p>Bohužel u nomádů toto provést nelze, neboť používají kompletní fond a jakýkoliv zásah rozbije to co doposud funguje a stejně by to nefungovalo. Problém spočívá v tom, že u těchto názvů je ve scriptu na pozici řídícího podstatného jména dané adjektivum - Takže se generátor nemá čeho chytit a nedoplní koncovku.</p><p>pro pochopení: Běžný stav 'Nuursk aliance' - řídící podstatné jméno je 'aliance' rod ženský, čili doplní do adjektiva 'á' - Nurská aliance</p><p>V případě nomádů je to Nomádsk Nuursk - řídící podstatné jméno je adjektivum 'Nuursk' - jelikož je to adjektivum a je řízeno podstatným jménem, kdy samo sebe považuje za podstatné jméno nedokáže doplnit správnou koncovku. - Nefunguje ani vynucené přehození Nuursk Nomádové - přestože druhé slovo je množné číslo, tudíš by to správně mělo doplnit koncovku na Nuurští - tak kvůli logice scriptu je zde adjectivum pořád na řídíci pozici. </p><p>Problém je pouze u dvouslovných názvů, tříslovné názvy fungují správně, i když si to vyžádalo pár pár let života.</p><p>V současné době nevím jak toto vyřešit.</p><p></p><p><strong>Nová verze 4.3.6</strong></p><p>Aktualizováno na verzi 4.3.6</p><p>Nahrána nová verze překladu: 4.3.5</p><p><strong>Nová verze 4.3.4</strong></p><p>Aktualizováno na verzi 4.3.4</p><p><strong>Nová verze 4.3.3</strong></p><p>Oprava chyb.</p><p><strong>Nová verze 4.3.3</strong></p><p>Aktualizováno na verzi 4.3.3</p><p>Nahrána nová verze překladu: 4.3.2</p><p><strong>Nová verze 4.3.1</strong></p><p>Aktualizováno na verzi 4.3.1</p><p><strong>Nová verze 4.2.4</strong></p><p>Opravena chyba</p><p><strong>Nová verze 4.2.4</strong></p><p>Dokončena korektura textů, kterou provedl dobrovolně a z vlastní vůle PredatorV.</p><p></p><p><strong>Nová verze 4.2.4</strong></p><p>Korekturu textů provedl zcela dobrovolně a z vlastní vůle PredatorV.</p><p>Nechť mu za to vesmír přeje. ;)</p><p>Nahrána nová verze překladu: 4.2.4</p><p><strong>Nová verze 4.2.4</strong></p><p>Pro nouzové použití, prosím použijte některý z odkazů na mód v popisu.</p><p>Pozměněn obsah archivu - smazán obrázek a manifest módu a přidán návod k instalaci.</p></div>",
+      "changelogHtml": "<div><p><strong>Nová verze 4.4.6</strong></p><p>Opravena nelogická chyba - nikoli ve smyslu, že bych udělal nelogickou chybu, ale chyba, která nedává naprosto žádný smysl - prostý text 'Říše $COUNTRY|Y$ přijala...' se ve hře zobrazí jako kupříkladu Česká RepublikaŘíše  přijala...' Je to absurdní.. nicméně konkrétní pomatený odstavec opraven na '$COUNTRY|Y$ přijali...'   </p><p><strong>Nová verze 4.4.6</strong></p><p>Překlad aktualizován na verzi 4.4.6</p><p>Upozornění na dosud nevyřešený - nevyřešitelný problém. </p><p>Nová herní mechanika (nomádi) s sebou nese i své vlastní náhodně generované názvy. Bohužel je zde problém, neboť kvůli slovosledu a skloňování je přehozena logika generování jmen, což doposud fungovalo a funguje tak jak má u starších názvů. Bohužel u nových názvů a to konkrétně dvouslovných to již nefunguje - týká se to pouze nomádských říší. </p><p>Problém byl už u DLC Clona, kde byl vytvořen sekundární klíč a nastavena logika pro generování názvů enkláv. Jelikož konkrétní script pro náhodné generování čerpá z malého fondu, bylo to 'snadno' proveditelné.</p><p>Bohužel u nomádů toto provést nelze, neboť používají kompletní fond a jakýkoliv zásah rozbije to co doposud funguje a stejně by to nefungovalo. Problém spočívá v tom, že u těchto názvů je ve scriptu na pozici řídícího podstatného jména dané adjektivum - Takže se generátor nemá čeho chytit a nedoplní koncovku.</p><p>pro pochopení: Běžný stav 'Nuursk aliance' - řídící podstatné jméno je 'aliance' rod ženský, čili doplní do adjektiva 'á' - Nurská aliance</p><p>V případě nomádů je to Nomádsk Nuursk - řídící podstatné jméno je adjektivum 'Nuursk' - jelikož je to adjektivum a je řízeno podstatným jménem, kdy samo sebe považuje za podstatné jméno nedokáže doplnit správnou koncovku. - Nefunguje ani vynucené přehození Nuursk Nomádové - přestože druhé slovo je množné číslo, tudíš by to správně mělo doplnit koncovku na Nuurští - tak kvůli logice scriptu je zde adjectivum pořád na řídíci pozici. </p><p>Problém je pouze u dvouslovných názvů, tříslovné názvy fungují správně, i když si to vyžádalo pár pár let života.</p><p>V současné době nevím jak toto vyřešit.</p><p></p><p><strong>Nová verze 4.3.6</strong></p><p>Aktualizováno na verzi 4.3.6</p><p>Nahrána nová verze překladu: 4.3.5</p><p><strong>Nová verze 4.3.4</strong></p><p>Aktualizováno na verzi 4.3.4</p><p><strong>Nová verze 4.3.3</strong></p><p>Oprava chyb.</p><p><strong>Nová verze 4.3.3</strong></p><p>Aktualizováno na verzi 4.3.3</p><p>Nahrána nová verze překladu: 4.3.2</p><p><strong>Nová verze 4.3.1</strong></p><p>Aktualizováno na verzi 4.3.1</p><p><strong>Nová verze 4.2.4</strong></p><p>Opravena chyba</p><p><strong>Nová verze 4.2.4</strong></p><p>Dokončena korektura textů, kterou provedl dobrovolně a z vlastní vůle PredatorV.</p><p></p><p><strong>Nová verze 4.2.4</strong></p><p>Korekturu textů provedl zcela dobrovolně a z vlastní vůle PredatorV.</p><p>Nechť mu za to vesmír přeje. ;)</p><p>Nahrána nová verze překladu: 4.2.4</p><p><strong>Nová verze 4.2.4</strong></p><p>Pro nouzové použití, prosím použijte některý z odkazů na mód v popisu.</p><p>Pozměněn obsah archivu - smazán obrázek a manifest módu a přidán návod k instalaci.</p></div>",
       "authorsHtml": "<p>Tomiket</p>",
       "size": "4.80 MB",
       "inDevelopment": false,
       "mirrors": [
         {
           "label": "Lokalizace.net",
-          "url": "https://lokalizace.net/api/download/1660",
+          "url": "https://lokalizace.net/api/download/1661",
           "kind": "direct"
+        },
+        {
+          "label": "Версия 4.4.6",
+          "url": "https://lokalizace.net/api/download/1660",
+          "kind": "other"
         },
         {
           "label": "Версия 4.3.6",

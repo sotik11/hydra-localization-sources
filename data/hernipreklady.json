@@ -5,6 +5,55 @@
   "siteUrl": "https://hernipreklady.cz",
   "localizations": [
     {
+      "title": "Titanfall 2",
+      "studio": "HerníPřeklady",
+      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/titanfall-2",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": "1.0",
+      "updatedAt": null,
+      "requiredGameVersion": "2.0.11.0",
+      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/titanfall-2",
+      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
+      "authorsHtml": null,
+      "inDevelopment": true,
+      "size": null,
+      "mirrors": [],
+      "steamAppId": "1237970"
+    },
+    {
+      "title": "Demeo PC / VR",
+      "studio": "HerníPřeklady",
+      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/demeo-pc-vr",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": "2.0",
+      "updatedAt": "13.04.2025",
+      "requiredGameVersion": "1.41.40432",
+      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/demeo-pc-vr",
+      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
+      "authorsHtml": "<p><strong>Překlad textů a textur:</strong> Luc2as<br><strong>Technika:</strong> Termit</p>",
+      "inDevelopment": false,
+      "size": "135.2 MB",
+      "mirrors": [
+        {
+          "label": "HerníPřeklady",
+          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=365",
+          "kind": "direct"
+        }
+      ]
+    },
+    {
       "title": "Blade and Sorcery",
       "studio": "HerníPřeklady",
       "studioUrl": "https://hernipreklady.cz/seznam-prekladu/blade-and-sorcery",
@@ -31,28 +80,6 @@
         }
       ],
       "steamAppId": "629730"
-    },
-    {
-      "title": "Titanfall 2",
-      "studio": "HerníPřeklady",
-      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/titanfall-2",
-      "language": "Čeština",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": "1.0",
-      "updatedAt": null,
-      "requiredGameVersion": "2.0.11.0",
-      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/titanfall-2",
-      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
-      "authorsHtml": null,
-      "inDevelopment": true,
-      "size": null,
-      "mirrors": [],
-      "steamAppId": "1237970"
     },
     {
       "title": "The Last Caretaker",
@@ -194,9 +221,9 @@
       ]
     },
     {
-      "title": "Terra Invicta",
+      "title": "Directive 8020",
       "studio": "HerníPřeklady",
-      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/terra-invicta",
+      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/directive-8020",
       "language": "Čeština",
       "hasText": true,
       "hasVoice": false,
@@ -206,20 +233,42 @@
       "hasNeuralText": false,
       "version": null,
       "updatedAt": null,
-      "requiredGameVersion": "1.0.38",
-      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/terra-invicta",
+      "requiredGameVersion": "Aktuální na Steamu",
+      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/directive-8020",
       "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
-      "authorsHtml": "<p><strong>Překlad:</strong> Ralph Shepard</p>",
+      "authorsHtml": null,
+      "inDevelopment": true,
+      "size": null,
+      "mirrors": [],
+      "steamAppId": "2255370"
+    },
+    {
+      "title": "Diablo II Resurrected Infernal Edition",
+      "studio": "HerníPřeklady",
+      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/diablo-ii-resurrected-infernal-edition",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": "3.0.0",
+      "updatedAt": "15.04.2026",
+      "requiredGameVersion": "Všechny verze (OFFLINE)",
+      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/diablo-ii-resurrected-infernal-edition",
+      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
+      "authorsHtml": null,
       "inDevelopment": false,
-      "size": "789 KB",
+      "size": "13.5 MB",
       "mirrors": [
         {
           "label": "HerníPřeklady",
-          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=584",
+          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=552",
           "kind": "direct"
         }
       ],
-      "steamAppId": "1176470"
+      "steamAppId": "2536520"
     },
     {
       "title": "Myst",
@@ -304,28 +353,6 @@
         }
       ],
       "steamAppId": "1194630"
-    },
-    {
-      "title": "Directive 8020",
-      "studio": "HerníPřeklady",
-      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/directive-8020",
-      "language": "Čeština",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": null,
-      "updatedAt": null,
-      "requiredGameVersion": "Aktuální na Steamu",
-      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/directive-8020",
-      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
-      "authorsHtml": null,
-      "inDevelopment": true,
-      "size": null,
-      "mirrors": [],
-      "steamAppId": "2255370"
     },
     {
       "title": "Evotinction",
@@ -1063,34 +1090,6 @@
           "kind": "direct"
         }
       ]
-    },
-    {
-      "title": "Diablo II Resurrected Infernal Edition",
-      "studio": "HerníPřeklady",
-      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/diablo-ii-resurrected-infernal-edition",
-      "language": "Čeština",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": "3.0.0",
-      "updatedAt": "15.04.2026",
-      "requiredGameVersion": "Všechny verze (OFFLINE)",
-      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/diablo-ii-resurrected-infernal-edition",
-      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
-      "authorsHtml": null,
-      "inDevelopment": false,
-      "size": "13.5 MB",
-      "mirrors": [
-        {
-          "label": "HerníPřeklady",
-          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=552",
-          "kind": "direct"
-        }
-      ],
-      "steamAppId": "2536520"
     },
     {
       "title": "Go Home Annie",
@@ -1988,6 +1987,34 @@
       "steamAppId": "1605220"
     },
     {
+      "title": "Terra Invicta",
+      "studio": "HerníPřeklady",
+      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/terra-invicta",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": null,
+      "updatedAt": null,
+      "requiredGameVersion": "1.0.38",
+      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/terra-invicta",
+      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
+      "authorsHtml": "<p><strong>Překlad:</strong> Ralph Shepard</p>",
+      "inDevelopment": false,
+      "size": "789 KB",
+      "mirrors": [
+        {
+          "label": "HerníPřeklady",
+          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=584",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "1176470"
+    },
+    {
       "title": "Shadow Gambit: The Cursed Crew Complete Edition",
       "studio": "HerníPřeklady",
       "studioUrl": "https://hernipreklady.cz/seznam-prekladu/shadow-gambit-the-cursed-crew-complete-edition",
@@ -2238,33 +2265,6 @@
         }
       ],
       "steamAppId": "1824960"
-    },
-    {
-      "title": "Demeo PC / VR",
-      "studio": "HerníPřeklady",
-      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/demeo-pc-vr",
-      "language": "Čeština",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": "1.9",
-      "updatedAt": "13.04.2025",
-      "requiredGameVersion": "1.37",
-      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/demeo-pc-vr",
-      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
-      "authorsHtml": "<p><strong>Překlad textů a textur:</strong> Luc2as<br><strong>Technika:</strong> Termit</p>",
-      "inDevelopment": false,
-      "size": "135.2 MB",
-      "mirrors": [
-        {
-          "label": "HerníPřeklady",
-          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=365",
-          "kind": "direct"
-        }
-      ]
     },
     {
       "title": "SteamWorld Build",
@@ -4408,7 +4408,7 @@
           "kind": "direct"
         }
       ],
-      "steamAppId": "985830"
+      "steamAppId": "1520500"
     },
     {
       "title": "Twin Mirror",
