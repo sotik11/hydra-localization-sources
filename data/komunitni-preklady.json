@@ -5,6 +5,202 @@
   "siteUrl": "https://komunitni-preklady.org",
   "localizations": [
     {
+      "title": "Uncanny Tales: Cold Road",
+      "studio": "Komunitní překlady",
+      "studioUrl": "https://komunitni-preklady.org/preklad/uncanny-tales-cold-road",
+      "language": "Čeština",
+      "hasText": false,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": true,
+      "version": "1.0",
+      "updatedAt": "11.07.2026",
+      "requiredGameVersion": "V.2.0.4.",
+      "pageUrl": "https://komunitni-preklady.org/preklad/uncanny-tales-cold-road",
+      "howToInstallHtml": "<p>Každý překlad má vlastní postup instalace. Otevřete stránku překladu (tlačítko „Otevřít v prohlížeči“ níže) — najdete tam úplný návod k instalaci i tlačítko ke stažení.</p>",
+      "authorsHtml": "<p>Překlady z Masyafu</p>",
+      "size": "10.5 MB",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Komunitní překlady",
+          "url": "https://komunitni-preklady.org/download/860?sig=mhTMvKrlEAeDAkq5iWvp0A",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "3534240"
+    },
+    {
+      "title": "Little Nightmares III",
+      "studio": "Komunitní překlady",
+      "studioUrl": "https://komunitni-preklady.org/preklad/little-nightmares-iii",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": "1.0.0",
+      "updatedAt": "11.07.2026",
+      "requiredGameVersion": "TRIAL a Full Game",
+      "pageUrl": "https://komunitni-preklady.org/preklad/little-nightmares-iii",
+      "howToInstallHtml": "<p>Každý překlad má vlastní postup instalace. Otevřete stránku překladu (tlačítko „Otevřít v prohlížeči“ níže) — najdete tam úplný návod k instalaci i tlačítko ke stažení.</p>",
+      "authorsHtml": "<p>GamerView Translations</p>",
+      "size": "104 KB",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Komunitní překlady",
+          "url": "https://komunitni-preklady.org/download/823?sig=mcJn3ixc8JRcM0_iQVcRkQ",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "1392860"
+    },
+    {
+      "title": "Palworld",
+      "studio": "Komunitní překlady",
+      "studioUrl": "https://komunitni-preklady.org/preklad/palworld",
+      "language": "Čeština",
+      "hasText": false,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": true,
+      "version": "0.62",
+      "updatedAt": "11.07.2026",
+      "requiredGameVersion": "1.0.0",
+      "pageUrl": "https://komunitni-preklady.org/preklad/palworld",
+      "howToInstallHtml": "<p>Každý překlad má vlastní postup instalace. Otevřete stránku překladu (tlačítko „Otevřít v prohlížeči“ níže) — najdete tam úplný návod k instalaci i tlačítko ke stažení.</p>",
+      "authorsHtml": "<p>Lokalizační penetrátor</p>",
+      "size": "75.9 MB",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Komunitní překlady",
+          "url": "https://komunitni-preklady.org/download/341?sig=g9WI_qUacEkyS0_DkbxOLA",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "1623730"
+    },
+    {
+      "title": "Uncanny Tales: 1992",
+      "studio": "Komunitní překlady",
+      "studioUrl": "https://komunitni-preklady.org/preklad/uncanny-tales-1992",
+      "language": "Čeština",
+      "hasText": false,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": true,
+      "version": "1.0",
+      "updatedAt": "10.07.2026",
+      "requiredGameVersion": "V.1.1.0",
+      "pageUrl": "https://komunitni-preklady.org/preklad/uncanny-tales-1992",
+      "howToInstallHtml": "<p>Každý překlad má vlastní postup instalace. Otevřete stránku překladu (tlačítko „Otevřít v prohlížeči“ níže) — najdete tam úplný návod k instalaci i tlačítko ke stažení.</p>",
+      "authorsHtml": "<p>Překlady z Masyafu</p>",
+      "size": "10.5 MB",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Komunitní překlady",
+          "url": "https://komunitni-preklady.org/download/859?sig=nyAqyx0Q85M8L7gQHp_LRQ",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "3686940"
+    },
+    {
+      "title": "Ship Graveyard Simulator",
+      "studio": "Komunitní překlady",
+      "studioUrl": "https://komunitni-preklady.org/preklad/ship-graveyard-simulator",
+      "language": "Čeština",
+      "hasText": false,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": true,
+      "version": "1.0",
+      "updatedAt": "10.07.2026",
+      "requiredGameVersion": "1.0.8",
+      "pageUrl": "https://komunitni-preklady.org/preklad/ship-graveyard-simulator",
+      "howToInstallHtml": "<p>Každý překlad má vlastní postup instalace. Otevřete stránku překladu (tlačítko „Otevřít v prohlížeči“ níže) — najdete tam úplný návod k instalaci i tlačítko ke stažení.</p>",
+      "authorsHtml": "<p>Darth Darkman</p>",
+      "size": "6 KB",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Komunitní překlady",
+          "url": "https://komunitni-preklady.org/download/858?sig=oLrq6lLRbftGUXAKM8j_Yw",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "1286880"
+    },
+    {
+      "title": "Crimson Desert",
+      "studio": "Komunitní překlady",
+      "studioUrl": "https://komunitni-preklady.org/preklad/crimson-desert",
+      "language": "Čeština",
+      "hasText": false,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": true,
+      "version": "1.1301",
+      "updatedAt": "10.07.2026",
+      "requiredGameVersion": "1.13.01",
+      "pageUrl": "https://komunitni-preklady.org/preklad/crimson-desert",
+      "howToInstallHtml": "<p>Každý překlad má vlastní postup instalace. Otevřete stránku překladu (tlačítko „Otevřít v prohlížeči“ níže) — najdete tam úplný návod k instalaci i tlačítko ke stažení.</p>",
+      "authorsHtml": "<p>Banditi</p>",
+      "size": "7.60 MB",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Komunitní překlady",
+          "url": "https://komunitni-preklady.org/download/755?sig=l5B6wbQGGDI8HwJkBA-SzA",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "3321460"
+    },
+    {
+      "title": "Underground Garage",
+      "studio": "Komunitní překlady",
+      "studioUrl": "https://komunitni-preklady.org/preklad/underground-garage",
+      "language": "Čeština",
+      "hasText": false,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": true,
+      "version": "1.0",
+      "updatedAt": "10.07.2026",
+      "requiredGameVersion": "236_UG",
+      "pageUrl": "https://komunitni-preklady.org/preklad/underground-garage",
+      "howToInstallHtml": "<p>Každý překlad má vlastní postup instalace. Otevřete stránku překladu (tlačítko „Otevřít v prohlížeči“ níže) — najdete tam úplný návod k instalaci i tlačítko ke stažení.</p>",
+      "authorsHtml": "<p>Darth Darkman</p>",
+      "size": "114 KB",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Komunitní překlady",
+          "url": "https://komunitni-preklady.org/download/857?sig=ShOrAyGm8MVXWgFt4IGdIw",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "1452250"
+    },
+    {
       "title": "Subnautica 2",
       "studio": "Komunitní překlady",
       "studioUrl": "https://komunitni-preklady.org/preklad/subnautica-2",
@@ -305,34 +501,6 @@
         }
       ],
       "steamAppId": "3247640"
-    },
-    {
-      "title": "Crimson Desert",
-      "studio": "Komunitní překlady",
-      "studioUrl": "https://komunitni-preklady.org/preklad/crimson-desert",
-      "language": "Čeština",
-      "hasText": false,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": true,
-      "version": "1.1300",
-      "updatedAt": "06.07.2026",
-      "requiredGameVersion": "1.13.00",
-      "pageUrl": "https://komunitni-preklady.org/preklad/crimson-desert",
-      "howToInstallHtml": "<p>Každý překlad má vlastní postup instalace. Otevřete stránku překladu (tlačítko „Otevřít v prohlížeči“ níže) — najdete tam úplný návod k instalaci i tlačítko ke stažení.</p>",
-      "authorsHtml": "<p>Banditi</p>",
-      "size": "7.60 MB",
-      "inDevelopment": false,
-      "mirrors": [
-        {
-          "label": "Komunitní překlady",
-          "url": "https://komunitni-preklady.org/download/755?sig=l5B6wbQGGDI8HwJkBA-SzA",
-          "kind": "direct"
-        }
-      ],
-      "steamAppId": "3321460"
     },
     {
       "title": "Enshrouded CZ",
@@ -1750,34 +1918,6 @@
         }
       ],
       "steamAppId": "206420"
-    },
-    {
-      "title": "Little Nightmares III",
-      "studio": "Komunitní překlady",
-      "studioUrl": "https://komunitni-preklady.org/preklad/little-nightmares-iii",
-      "language": "Čeština",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": "0.5.0",
-      "updatedAt": "06.06.2026",
-      "requiredGameVersion": null,
-      "pageUrl": "https://komunitni-preklady.org/preklad/little-nightmares-iii",
-      "howToInstallHtml": "<p>Každý překlad má vlastní postup instalace. Otevřete stránku překladu (tlačítko „Otevřít v prohlížeči“ níže) — najdete tam úplný návod k instalaci i tlačítko ke stažení.</p>",
-      "authorsHtml": "<p>GamerView Translations</p>",
-      "size": "104 KB",
-      "inDevelopment": false,
-      "mirrors": [
-        {
-          "label": "Komunitní překlady",
-          "url": "https://komunitni-preklady.org/download/823?sig=mcJn3ixc8JRcM0_iQVcRkQ",
-          "kind": "direct"
-        }
-      ],
-      "steamAppId": "1392860"
     },
     {
       "title": "Forever Skies",
@@ -10354,34 +10494,6 @@
       "steamAppId": "2695430"
     },
     {
-      "title": "Palworld",
-      "studio": "Komunitní překlady",
-      "studioUrl": "https://komunitni-preklady.org/preklad/palworld",
-      "language": "Čeština",
-      "hasText": false,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": true,
-      "version": "0.61",
-      "updatedAt": "28.12.2025",
-      "requiredGameVersion": "0.6.5.77287",
-      "pageUrl": "https://komunitni-preklady.org/preklad/palworld",
-      "howToInstallHtml": "<p>Každý překlad má vlastní postup instalace. Otevřete stránku překladu (tlačítko „Otevřít v prohlížeči“ níže) — najdete tam úplný návod k instalaci i tlačítko ke stažení.</p>",
-      "authorsHtml": "<p>Lokalizační penetrátor</p>",
-      "size": "58.9 MB",
-      "inDevelopment": false,
-      "mirrors": [
-        {
-          "label": "Komunitní překlady",
-          "url": "https://komunitni-preklady.org/download/341?sig=g9WI_qUacEkyS0_DkbxOLA",
-          "kind": "direct"
-        }
-      ],
-      "steamAppId": "1623730"
-    },
-    {
       "title": "Horizon Zero Dawn",
       "studio": "Komunitní překlady",
       "studioUrl": "https://komunitni-preklady.org/preklad/horizon-zero-dawn",
@@ -15660,11 +15772,11 @@
       "hasNeuralDub": false,
       "hasNeuralText": true,
       "version": null,
-      "updatedAt": "09.07.2026",
+      "updatedAt": "11.07.2026",
       "requiredGameVersion": null,
       "pageUrl": "https://komunitni-preklady.org/preklad/divinity-ii-dragon-knight-saga-",
       "howToInstallHtml": "<p>Každý překlad má vlastní postup instalace. Otevřete stránku překladu (tlačítko „Otevřít v prohlížeči“ níže) — najdete tam úplný návod k instalaci i tlačítko ke stažení.</p>",
-      "authorsHtml": "<p>NeonFox Loc</p>",
+      "authorsHtml": "<p>Překlady z Masyafu</p>",
       "size": null,
       "inDevelopment": true,
       "mirrors": []

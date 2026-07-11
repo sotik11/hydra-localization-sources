@@ -156,10 +156,10 @@
       "language": "Magyar",
       "hasText": true,
       "hasVoice": false,
-      "version": "1.21",
-      "updatedAt": "10.04.2024",
+      "version": "1.22",
+      "updatedAt": "10.07.2026",
       "requiredGameVersion": null,
-      "size": "3.86 MB",
+      "size": "3.64 MB",
       "pageUrl": "https://magyaritasok.hu/games/star-wars-jedi-fallen-order",
       "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
       "authorsHtml": "<p>FEARka, Kath, Petra</p>",
@@ -167,7 +167,7 @@
       "mirrors": [
         {
           "label": "Magyarítások",
-          "url": "https://magyaritasok.hu/dl/StarWars_JediFallenOrder/SW_Jedi_Fallen_Order_HUN_1.21.exe",
+          "url": "https://magyaritasok.hu/dl/StarWars_JediFallenOrder/SW_Jedi_Fallen_Order_HUN_1.22.exe",
           "kind": "direct"
         }
       ]
@@ -4042,10 +4042,10 @@
       "language": "Magyar",
       "hasText": true,
       "hasVoice": false,
-      "version": "1.03",
-      "updatedAt": "02.01.2025",
+      "version": "1.04",
+      "updatedAt": "10.07.2026",
       "requiredGameVersion": null,
-      "size": "10.1 MB",
+      "size": "10.3 MB",
       "pageUrl": "https://magyaritasok.hu/games/star-wars-jedi-survivor",
       "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
       "authorsHtml": "<p>FEARka, D3VOU(23(2, Dickopter, Gaben, H.Lily98, Maligeri2003, Melchiadesian, Rosie, sirok.dominik</p>",
@@ -4053,7 +4053,7 @@
       "mirrors": [
         {
           "label": "Magyarítások",
-          "url": "https://magyaritasok.hu/dl/StarWars_JediSurvivor/SW_JediSurvivor_HUN_1.03.exe",
+          "url": "https://magyaritasok.hu/dl/StarWars_JediSurvivor/SW_JediSurvivor_HUN_1.04.exe",
           "kind": "direct"
         }
       ]
