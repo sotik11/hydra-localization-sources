@@ -1575,6 +1575,30 @@
       ]
     },
     {
+      "steamAppId": "2760",
+      "title": "Neverwinter Nights 2: Platinum",
+      "studio": "Magyarítások",
+      "studioUrl": "https://magyaritasok.hu",
+      "language": "Magyar",
+      "hasText": true,
+      "hasVoice": false,
+      "version": "1.0",
+      "updatedAt": "28.08.2025",
+      "requiredGameVersion": null,
+      "size": "85.9 MB",
+      "pageUrl": "https://magyaritasok.hu/games/neverwinter-nights-2-platinum",
+      "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
+      "authorsHtml": "<p>BR és felesége</p>",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Magyarítások",
+          "url": "https://magyaritasok.hu/dl/NeverwinterNights2/NWN2PlatComp_hun_v1.0.exe",
+          "kind": "direct"
+        }
+      ]
+    },
+    {
       "steamAppId": "611040",
       "title": "Tube Tycoon",
       "studio": "Magyarítások",
