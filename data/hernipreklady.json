@@ -5,6 +5,34 @@
   "siteUrl": "https://hernipreklady.cz",
   "localizations": [
     {
+      "title": "Indiana Jones and The Great Circle",
+      "studio": "HerníPřeklady",
+      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/indiana-jones-and-the-great-circle",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": "1.85",
+      "updatedAt": null,
+      "requiredGameVersion": "Update 8 &ndash; Hotfix 1",
+      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/indiana-jones-and-the-great-circle",
+      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
+      "authorsHtml": null,
+      "inDevelopment": false,
+      "size": "118.4 MB",
+      "mirrors": [
+        {
+          "label": "HerníPřeklady",
+          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=591",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "2677660"
+    },
+    {
       "title": "Titanfall 2",
       "studio": "HerníPřeklady",
       "studioUrl": "https://hernipreklady.cz/seznam-prekladu/titanfall-2",
@@ -110,34 +138,6 @@
       "steamAppId": "1783560"
     },
     {
-      "title": "Indiana Jones and The Great Circle",
-      "studio": "HerníPřeklady",
-      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/indiana-jones-and-the-great-circle",
-      "language": "Čeština",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": "1.80",
-      "updatedAt": "13.05.2026",
-      "requiredGameVersion": "Update 8 &ndash; Hotfix 1",
-      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/indiana-jones-and-the-great-circle",
-      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
-      "authorsHtml": null,
-      "inDevelopment": false,
-      "size": "118.4 MB",
-      "mirrors": [
-        {
-          "label": "HerníPřeklady",
-          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=573",
-          "kind": "direct"
-        }
-      ],
-      "steamAppId": "2677660"
-    },
-    {
       "title": "Songs of Conquest",
       "studio": "HerníPřeklady",
       "studioUrl": "https://hernipreklady.cz/seznam-prekladu/songs-of-conquest",
@@ -221,6 +221,34 @@
       ]
     },
     {
+      "title": "Nobody Wants to Die",
+      "studio": "HerníPřeklady",
+      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/nobody-wants-to-die",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": "1.00",
+      "updatedAt": "04.09.2024",
+      "requiredGameVersion": "1.0.1.0.46.065",
+      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/nobody-wants-to-die",
+      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
+      "authorsHtml": null,
+      "inDevelopment": false,
+      "size": "12.0 MB",
+      "mirrors": [
+        {
+          "label": "HerníPřeklady",
+          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=264",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "1939970"
+    },
+    {
       "title": "Directive 8020",
       "studio": "HerníPřeklady",
       "studioUrl": "https://hernipreklady.cz/seznam-prekladu/directive-8020",
@@ -241,118 +269,6 @@
       "size": null,
       "mirrors": [],
       "steamAppId": "2255370"
-    },
-    {
-      "title": "Diablo II Resurrected Infernal Edition",
-      "studio": "HerníPřeklady",
-      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/diablo-ii-resurrected-infernal-edition",
-      "language": "Čeština",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": "3.0.0",
-      "updatedAt": "15.04.2026",
-      "requiredGameVersion": "Všechny verze (OFFLINE)",
-      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/diablo-ii-resurrected-infernal-edition",
-      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
-      "authorsHtml": null,
-      "inDevelopment": false,
-      "size": "13.5 MB",
-      "mirrors": [
-        {
-          "label": "HerníPřeklady",
-          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=552",
-          "kind": "direct"
-        }
-      ],
-      "steamAppId": "2536520"
-    },
-    {
-      "title": "Myst",
-      "studio": "HerníPřeklady",
-      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/myst",
-      "language": "Čeština",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": "1.1",
-      "updatedAt": "03.02.2024",
-      "requiredGameVersion": "Aktuální Steam",
-      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/myst",
-      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
-      "authorsHtml": "<p><strong>Překlad textů a textur:</strong> Luc2as</p>",
-      "inDevelopment": false,
-      "size": "307.1 MB",
-      "mirrors": [
-        {
-          "label": "HerníPřeklady",
-          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=33",
-          "kind": "direct"
-        }
-      ],
-      "steamAppId": "1255560"
-    },
-    {
-      "title": "Jagged Alliance 3",
-      "studio": "HerníPřeklady",
-      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/jagged-alliance-3",
-      "language": "Čeština",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": "1.4.1",
-      "updatedAt": "16.02.2024",
-      "requiredGameVersion": "1.4.1",
-      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/jagged-alliance-3",
-      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
-      "authorsHtml": "<p><strong>Překlad a testování:</strong> Andrewek a Luc2as<br><strong>Testování:</strong> Barbar, Cobra</p>",
-      "inDevelopment": false,
-      "size": "4.88 MB",
-      "mirrors": [
-        {
-          "label": "HerníPřeklady",
-          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=141",
-          "kind": "direct"
-        }
-      ],
-      "steamAppId": "1084160"
-    },
-    {
-      "title": "The Dark Pictures: Little Hope",
-      "studio": "HerníPřeklady",
-      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/the-dark-pictures-little-hope",
-      "language": "Čeština",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": "1.11",
-      "updatedAt": "23.11.2024",
-      "requiredGameVersion": "Aktuální",
-      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/the-dark-pictures-little-hope",
-      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
-      "authorsHtml": null,
-      "inDevelopment": false,
-      "size": "78.3 MB",
-      "mirrors": [
-        {
-          "label": "HerníPřeklady",
-          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=294",
-          "kind": "direct"
-        }
-      ],
-      "steamAppId": "1194630"
     },
     {
       "title": "Evotinction",
@@ -696,7 +612,7 @@
       "hasNeuralDub": false,
       "hasNeuralText": false,
       "version": "1.60",
-      "updatedAt": null,
+      "updatedAt": "10.06.2026",
       "requiredGameVersion": "Update ze dne 04.06.2026",
       "pageUrl": "https://hernipreklady.cz/seznam-prekladu/tormented-souls-2",
       "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
@@ -1092,6 +1008,34 @@
       ]
     },
     {
+      "title": "Diablo II Resurrected Infernal Edition",
+      "studio": "HerníPřeklady",
+      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/diablo-ii-resurrected-infernal-edition",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": "3.0.0",
+      "updatedAt": "15.04.2026",
+      "requiredGameVersion": "Všechny verze (OFFLINE)",
+      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/diablo-ii-resurrected-infernal-edition",
+      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
+      "authorsHtml": null,
+      "inDevelopment": false,
+      "size": "13.5 MB",
+      "mirrors": [
+        {
+          "label": "HerníPřeklady",
+          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=552",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "2536520"
+    },
+    {
       "title": "Go Home Annie",
       "studio": "HerníPřeklady",
       "studioUrl": "https://hernipreklady.cz/seznam-prekladu/go-home-annie",
@@ -1370,34 +1314,6 @@
         }
       ],
       "steamAppId": "1243850"
-    },
-    {
-      "title": "Nobody Wants to Die",
-      "studio": "HerníPřeklady",
-      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/nobody-wants-to-die",
-      "language": "Čeština",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": "1.00",
-      "updatedAt": "04.09.2024",
-      "requiredGameVersion": "1.0.1.0.46.065",
-      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/nobody-wants-to-die",
-      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
-      "authorsHtml": null,
-      "inDevelopment": false,
-      "size": "12.0 MB",
-      "mirrors": [
-        {
-          "label": "HerníPřeklady",
-          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=264",
-          "kind": "direct"
-        }
-      ],
-      "steamAppId": "1939970"
     },
     {
       "title": "Flintlock: The SIege of Dawn",
@@ -2881,6 +2797,34 @@
       "steamAppId": "2362100"
     },
     {
+      "title": "Jagged Alliance 3",
+      "studio": "HerníPřeklady",
+      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/jagged-alliance-3",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": "1.4.1",
+      "updatedAt": "16.02.2024",
+      "requiredGameVersion": "1.4.1",
+      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/jagged-alliance-3",
+      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
+      "authorsHtml": "<p><strong>Překlad a testování:</strong> Andrewek a Luc2as<br><strong>Testování:</strong> Barbar, Cobra</p>",
+      "inDevelopment": false,
+      "size": "4.88 MB",
+      "mirrors": [
+        {
+          "label": "HerníPřeklady",
+          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=141",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "1084160"
+    },
+    {
       "title": "Miasma Chronicles",
       "studio": "HerníPřeklady",
       "studioUrl": "https://hernipreklady.cz/seznam-prekladu/miasma-chronicles",
@@ -3523,6 +3467,34 @@
       "steamAppId": "1571240"
     },
     {
+      "title": "Myst",
+      "studio": "HerníPřeklady",
+      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/myst",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": "1.1",
+      "updatedAt": "03.02.2024",
+      "requiredGameVersion": "Aktuální Steam",
+      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/myst",
+      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
+      "authorsHtml": "<p><strong>Překlad textů a textur:</strong> Luc2as</p>",
+      "inDevelopment": false,
+      "size": "307.1 MB",
+      "mirrors": [
+        {
+          "label": "HerníPřeklady",
+          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=33",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "1255560"
+    },
+    {
       "title": "Terminator: Resistance",
       "studio": "HerníPřeklady",
       "studioUrl": "https://hernipreklady.cz/seznam-prekladu/terminator-resistance",
@@ -3633,6 +3605,34 @@
         }
       ],
       "steamAppId": "1599560"
+    },
+    {
+      "title": "The Dark Pictures: Little Hope",
+      "studio": "HerníPřeklady",
+      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/the-dark-pictures-little-hope",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": "1.11",
+      "updatedAt": "23.11.2024",
+      "requiredGameVersion": "Aktuální",
+      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/the-dark-pictures-little-hope",
+      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
+      "authorsHtml": null,
+      "inDevelopment": false,
+      "size": "78.3 MB",
+      "mirrors": [
+        {
+          "label": "HerníPřeklady",
+          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=294",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "1194630"
     },
     {
       "title": "The Chant",
