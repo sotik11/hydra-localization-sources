@@ -173,6 +173,78 @@
       ]
     },
     {
+      "steamAppId": "3515610",
+      "title": "Elden Ring Nightreign - The Forsaken Hollows",
+      "studio": "Magyarítások",
+      "studioUrl": "https://magyaritasok.hu",
+      "language": "Magyar",
+      "hasText": true,
+      "hasVoice": false,
+      "version": "1.13",
+      "updatedAt": "03.07.2026",
+      "requiredGameVersion": "1.03.3",
+      "size": "95.3 MB",
+      "pageUrl": "https://magyaritasok.hu/games/elden-ring-nightreign-the-forsaken-hollows",
+      "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
+      "authorsHtml": "<p>The_Reaper_CooL</p>",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Magyarítások",
+          "url": "https://magyaritasok.hu/dl/EldenRing_Nightreign/ERNightreign_HUN_by_TRC_1.13.zip",
+          "kind": "direct"
+        }
+      ]
+    },
+    {
+      "steamAppId": "2879370",
+      "title": "Blasphemous II: Mea Culpa",
+      "studio": "Magyarítások",
+      "studioUrl": "https://magyaritasok.hu",
+      "language": "Magyar",
+      "hasText": true,
+      "hasVoice": false,
+      "version": "1.03",
+      "updatedAt": "01.07.2026",
+      "requiredGameVersion": "3.0.0-cs73341",
+      "size": "1.46 MB",
+      "pageUrl": "https://magyaritasok.hu/games/blasphemous-ii-mea-culpa",
+      "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
+      "authorsHtml": "<p>The_Reaper_CooL</p>",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Magyarítások",
+          "url": "https://magyaritasok.hu/dl/Blasphemous2/Blasphemous2HUNbyTRC_1.03.zip",
+          "kind": "direct"
+        }
+      ]
+    },
+    {
+      "steamAppId": "24830",
+      "title": "The Godfather II",
+      "studio": "Magyarítások",
+      "studioUrl": "https://magyaritasok.hu",
+      "language": "Magyar",
+      "hasText": true,
+      "hasVoice": false,
+      "version": "1.0",
+      "updatedAt": "12.07.2026",
+      "requiredGameVersion": null,
+      "size": "11.2 MB",
+      "pageUrl": "https://magyaritasok.hu/games/the-godfather-ii",
+      "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
+      "authorsHtml": "<p>NightVison, ssource83</p>",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Magyarítások",
+          "url": "https://magyaritasok.hu/dl/TheGodfatherII/TheGodfatherII_hun_v1.0.exe",
+          "kind": "direct"
+        }
+      ]
+    },
+    {
       "steamAppId": "753640",
       "title": "Outer Wilds",
       "studio": "Magyarítások",
@@ -5347,6 +5419,30 @@
       ]
     },
     {
+      "steamAppId": "2109300",
+      "title": "Resident Evil 4: Separate Ways",
+      "studio": "Magyarítások",
+      "studioUrl": "https://magyaritasok.hu",
+      "language": "Magyar",
+      "hasText": true,
+      "hasVoice": false,
+      "version": "1.22",
+      "updatedAt": "26.06.2026",
+      "requiredGameVersion": "BuildID 22377325",
+      "size": "9.11 MB",
+      "pageUrl": "https://magyaritasok.hu/games/resident-evil-4-separate-ways--1",
+      "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
+      "authorsHtml": "<p>SzinkronSarok</p>",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Magyarítások",
+          "url": "https://magyaritasok.hu/dl/residentevil4/ResidentEvil4Remake_HUN_1.22.exe",
+          "kind": "direct"
+        }
+      ]
+    },
+    {
       "steamAppId": "307580",
       "title": "Technobabylon",
       "studio": "Magyarítások",
@@ -6698,6 +6794,29 @@
         {
           "label": "Magyarítások",
           "url": "https://magyaritasok.hu/dl/1111_MemoriesRetold/11-11-MR_magyaritas_v10.exe",
+          "kind": "direct"
+        }
+      ]
+    },
+    {
+      "title": "Resident Evil Village: Gold Edition",
+      "studio": "Magyarítások",
+      "studioUrl": "https://magyaritasok.hu",
+      "language": "Magyar",
+      "hasText": true,
+      "hasVoice": false,
+      "version": "1.25",
+      "updatedAt": "29.03.2026",
+      "requiredGameVersion": "BuildID 21519280",
+      "size": "23.5 MB",
+      "pageUrl": "https://magyaritasok.hu/games/resident-evil-village-gold-edition",
+      "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
+      "authorsHtml": null,
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Magyarítások",
+          "url": "https://magyaritasok.hu/dl/ResidentEvilVillage/Resident_Evil_Village_HUN_1.25.exe",
           "kind": "direct"
         }
       ]
@@ -8490,6 +8609,29 @@
         {
           "label": "Magyarítások",
           "url": "https://magyaritasok.hu/dl/AER_MemoriesofOld/AER_MemoriesofOld_HUN_1.01.exe",
+          "kind": "direct"
+        }
+      ]
+    },
+    {
+      "title": "Resident Evil Village: Winters' Expansion",
+      "studio": "Magyarítások",
+      "studioUrl": "https://magyaritasok.hu",
+      "language": "Magyar",
+      "hasText": true,
+      "hasVoice": false,
+      "version": "1.25",
+      "updatedAt": "29.03.2026",
+      "requiredGameVersion": "BuildID 21519280",
+      "size": "23.5 MB",
+      "pageUrl": "https://magyaritasok.hu/games/resident-evil-village-winters-expansion",
+      "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
+      "authorsHtml": null,
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Magyarítások",
+          "url": "https://magyaritasok.hu/dl/ResidentEvilVillage/Resident_Evil_Village_HUN_1.25.exe",
           "kind": "direct"
         }
       ]
@@ -13842,6 +13984,30 @@
         {
           "label": "Magyarítások",
           "url": "https://magyaritasok.hu/dl/Control/Control_v13.exe",
+          "kind": "direct"
+        }
+      ]
+    },
+    {
+      "steamAppId": "774361",
+      "title": "Blasphemous: The Stir of Dawn",
+      "studio": "Magyarítások",
+      "studioUrl": "https://magyaritasok.hu",
+      "language": "Magyar",
+      "hasText": true,
+      "hasVoice": false,
+      "version": "1.14",
+      "updatedAt": "01.07.2026",
+      "requiredGameVersion": "4.0.67 - DLC3",
+      "size": "1.10 MB",
+      "pageUrl": "https://magyaritasok.hu/games/blasphemous-the-stir-of-dawn",
+      "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
+      "authorsHtml": null,
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Magyarítások",
+          "url": "https://magyaritasok.hu/dl/Blasphemous/BlasphemousByTRC_1.14.zip",
           "kind": "direct"
         }
       ]
@@ -20297,6 +20463,29 @@
       ]
     },
     {
+      "title": "Goat Simulator PAYDAY",
+      "studio": "Magyarítások",
+      "studioUrl": "https://magyaritasok.hu",
+      "language": "Magyar",
+      "hasText": true,
+      "hasVoice": false,
+      "version": "1.0",
+      "updatedAt": "26.05.2021",
+      "requiredGameVersion": null,
+      "size": "65 KB",
+      "pageUrl": "https://magyaritasok.hu/games/goat-simulator-payday",
+      "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
+      "authorsHtml": null,
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Magyarítások",
+          "url": "https://magyaritasok.hu/dl/goat_simulator/GoatSimHUNByTRC.rar",
+          "kind": "direct"
+        }
+      ]
+    },
+    {
       "steamAppId": "213330",
       "title": "Lego Batman 2: DC Super Heroes",
       "studio": "Magyarítások",
@@ -21869,6 +22058,29 @@
         {
           "label": "Magyarítások",
           "url": "https://magyaritasok.hu/dl/kingsbounty/KingsBounty-DarkSide_1.2.zip",
+          "kind": "direct"
+        }
+      ]
+    },
+    {
+      "title": "Warhammer: Mark of Chaos - Battle March",
+      "studio": "Magyarítások",
+      "studioUrl": "https://magyaritasok.hu",
+      "language": "Magyar",
+      "hasText": true,
+      "hasVoice": false,
+      "version": "1.0",
+      "updatedAt": "04.04.2024",
+      "requiredGameVersion": "2.14",
+      "size": "972.8 B",
+      "pageUrl": "https://magyaritasok.hu/games/warhammer-mark-of-chaos-battle-march",
+      "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
+      "authorsHtml": "<p>Andy, Seven m</p>",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Magyarítások",
+          "url": "https://magyaritasok.hu/dl/WarhammerMarkofChaos/Warhammer_MarkofChaos_GoldEdition.zip",
           "kind": "direct"
         }
       ]
@@ -36540,6 +36752,29 @@
         {
           "label": "Magyarítások",
           "url": "https://magyaritasok.hu/dl/warlords4/wivhun_1.0.exe",
+          "kind": "direct"
+        }
+      ]
+    },
+    {
+      "title": "Warhammer: Mark of Chaos",
+      "studio": "Magyarítások",
+      "studioUrl": "https://magyaritasok.hu",
+      "language": "Magyar",
+      "hasText": true,
+      "hasVoice": false,
+      "version": "1.0",
+      "updatedAt": "04.04.2024",
+      "requiredGameVersion": "2.14",
+      "size": "972.8 B",
+      "pageUrl": "https://magyaritasok.hu/games/warhammer-mark-of-chaos",
+      "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
+      "authorsHtml": "<p>Andy, Seven m</p>",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Magyarítások",
+          "url": "https://magyaritasok.hu/dl/WarhammerMarkofChaos/Warhammer_MarkofChaos_GoldEdition.zip",
           "kind": "direct"
         }
       ]

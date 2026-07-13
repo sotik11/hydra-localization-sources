@@ -5,6 +5,172 @@
   "siteUrl": "https://komunitni-preklady.org",
   "localizations": [
     {
+      "title": "SpongeBob SquarePants: Titans of the Tide",
+      "studio": "Komunitní překlady",
+      "studioUrl": "https://komunitni-preklady.org/preklad/spongebob-squarepants-titans-of-the-tide",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": "1.2",
+      "updatedAt": "13.07.2026",
+      "requiredGameVersion": "1.4.0.0",
+      "pageUrl": "https://komunitni-preklady.org/preklad/spongebob-squarepants-titans-of-the-tide",
+      "howToInstallHtml": "<p>Každý překlad má vlastní postup instalace. Otevřete stránku překladu (tlačítko „Otevřít v prohlížeči“ níže) — najdete tam úplný návod k instalaci i tlačítko ke stažení.</p>",
+      "authorsHtml": "<p>DickzillaTranslator</p>",
+      "size": "1.70 MB",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Komunitní překlady",
+          "url": "https://komunitni-preklady.org/download/865/steam?sig=dUuZBQJ4_sHrFHHo2PGvvg",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "2479650"
+    },
+    {
+      "title": "Darwin\\u0027s Paradox!",
+      "studio": "Komunitní překlady",
+      "studioUrl": "https://komunitni-preklady.org/preklad/darwins-paradox-cz",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": "1.0",
+      "updatedAt": "13.07.2026",
+      "requiredGameVersion": null,
+      "pageUrl": "https://komunitni-preklady.org/preklad/darwins-paradox-cz",
+      "howToInstallHtml": "<p>Každý překlad má vlastní postup instalace. Otevřete stránku překladu (tlačítko „Otevřít v prohlížeči“ níže) — najdete tam úplný návod k instalaci i tlačítko ke stažení.</p>",
+      "authorsHtml": "<p>DickzillaTranslator</p>",
+      "size": "16.8 MB",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Komunitní překlady",
+          "url": "https://komunitni-preklady.org/download/864/steam?sig=ibrfj__VCN3Jdxd6-aq58w",
+          "kind": "direct"
+        }
+      ]
+    },
+    {
+      "title": "Poppy Playtime - Collection 1-5 (Čeština)",
+      "studio": "Komunitní překlady",
+      "studioUrl": "https://komunitni-preklady.org/preklad/poppy-playtime-collection-1-4-cestina",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": "1.7",
+      "updatedAt": "13.07.2026",
+      "requiredGameVersion": null,
+      "pageUrl": "https://komunitni-preklady.org/preklad/poppy-playtime-collection-1-4-cestina",
+      "howToInstallHtml": "<p>Každý překlad má vlastní postup instalace. Otevřete stránku překladu (tlačítko „Otevřít v prohlížeči“ níže) — najdete tam úplný návod k instalaci i tlačítko ke stažení.</p>",
+      "authorsHtml": "<p>DickzillaTranslator</p>",
+      "size": "178.5 MB",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Komunitní překlady",
+          "url": "https://komunitni-preklady.org/download/522/steam?sig=V9hzYuDEJ6jxN9pBhVrEyg",
+          "kind": "direct"
+        }
+      ]
+    },
+    {
+      "title": "Occupy Mars The Game",
+      "studio": "Komunitní překlady",
+      "studioUrl": "https://komunitni-preklady.org/preklad/occupy-mars-the-game",
+      "language": "Čeština",
+      "hasText": false,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": true,
+      "version": "1.1.38-1",
+      "updatedAt": "12.07.2026",
+      "requiredGameVersion": "1.1.38",
+      "pageUrl": "https://komunitni-preklady.org/preklad/occupy-mars-the-game",
+      "howToInstallHtml": "<p>Každý překlad má vlastní postup instalace. Otevřete stránku překladu (tlačítko „Otevřít v prohlížeči“ níže) — najdete tam úplný návod k instalaci i tlačítko ke stažení.</p>",
+      "authorsHtml": "<p>Kružítko</p>",
+      "size": "71 KB",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Komunitní překlady",
+          "url": "https://komunitni-preklady.org/download/537?sig=D2sjdho_UKctoBGaDohGjA",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "758690"
+    },
+    {
+      "title": "Solarpunk™",
+      "studio": "Komunitní překlady",
+      "studioUrl": "https://komunitni-preklady.org/preklad/solarpunk",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": "1.2",
+      "updatedAt": "12.07.2026",
+      "requiredGameVersion": "1.0.5",
+      "pageUrl": "https://komunitni-preklady.org/preklad/solarpunk",
+      "howToInstallHtml": "<p>Každý překlad má vlastní postup instalace. Otevřete stránku překladu (tlačítko „Otevřít v prohlížeči“ níže) — najdete tam úplný návod k instalaci i tlačítko ke stažení.</p>",
+      "authorsHtml": "<p>NeonFox Loc</p>",
+      "size": "22.6 MB",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Komunitní překlady",
+          "url": "https://komunitni-preklady.org/download/836?sig=2x4laLStKTe4NZbdmDIIRA",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "1805110"
+    },
+    {
+      "title": "Dave The Diver",
+      "studio": "Komunitní překlady",
+      "studioUrl": "https://komunitni-preklady.org/preklad/dave-the-diver",
+      "language": "Čeština",
+      "hasText": false,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": true,
+      "version": "0.930",
+      "updatedAt": "12.07.2026",
+      "requiredGameVersion": "v1.0.6.2055",
+      "pageUrl": "https://komunitni-preklady.org/preklad/dave-the-diver",
+      "howToInstallHtml": "<p>Každý překlad má vlastní postup instalace. Otevřete stránku překladu (tlačítko „Otevřít v prohlížeči“ níže) — najdete tam úplný návod k instalaci i tlačítko ke stažení.</p>",
+      "authorsHtml": "<p>Banditi</p>",
+      "size": "35.5 MB",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Komunitní překlady",
+          "url": "https://komunitni-preklady.org/download/471?sig=r0lDYZLR21qf-pQrvtHHJg",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "1868140"
+    },
+    {
       "title": "Boxes Lost Fragmentes",
       "studio": "Komunitní překlady",
       "studioUrl": "https://komunitni-preklady.org/preklad/boxes-lost-fragmentes",
@@ -1058,34 +1224,6 @@
         }
       ],
       "steamAppId": "1285190"
-    },
-    {
-      "title": "Solarpunk™",
-      "studio": "Komunitní překlady",
-      "studioUrl": "https://komunitni-preklady.org/preklad/solarpunk",
-      "language": "Čeština",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": "1.1",
-      "updatedAt": "27.06.2026",
-      "requiredGameVersion": "1.0.5",
-      "pageUrl": "https://komunitni-preklady.org/preklad/solarpunk",
-      "howToInstallHtml": "<p>Každý překlad má vlastní postup instalace. Otevřete stránku překladu (tlačítko „Otevřít v prohlížeči“ níže) — najdete tam úplný návod k instalaci i tlačítko ke stažení.</p>",
-      "authorsHtml": "<p>NeonFox Loc</p>",
-      "size": "1.10 MB",
-      "inDevelopment": false,
-      "mirrors": [
-        {
-          "label": "Komunitní překlady",
-          "url": "https://komunitni-preklady.org/download/836?sig=2x4laLStKTe4NZbdmDIIRA",
-          "kind": "direct"
-        }
-      ],
-      "steamAppId": "1805110"
     },
     {
       "title": "Enotria",
@@ -4808,33 +4946,6 @@
       "steamAppId": "3545060"
     },
     {
-      "title": "Poppy Playtime - Collection 1-5 (Čeština)",
-      "studio": "Komunitní překlady",
-      "studioUrl": "https://komunitni-preklady.org/preklad/poppy-playtime-collection-1-4-cestina",
-      "language": "Čeština",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": "1.6",
-      "updatedAt": "05.03.2026",
-      "requiredGameVersion": null,
-      "pageUrl": "https://komunitni-preklady.org/preklad/poppy-playtime-collection-1-4-cestina",
-      "howToInstallHtml": "<p>Každý překlad má vlastní postup instalace. Otevřete stránku překladu (tlačítko „Otevřít v prohlížeči“ níže) — najdete tam úplný návod k instalaci i tlačítko ke stažení.</p>",
-      "authorsHtml": "<p>DickzillaTranslator</p>",
-      "size": "198.5 MB",
-      "inDevelopment": false,
-      "mirrors": [
-        {
-          "label": "Komunitní překlady",
-          "url": "https://komunitni-preklady.org/download/522/steam?sig=V9hzYuDEJ6jxN9pBhVrEyg",
-          "kind": "direct"
-        }
-      ]
-    },
-    {
       "title": "Nightingale",
       "studio": "Komunitní překlady",
       "studioUrl": "https://komunitni-preklady.org/preklad/nightingale",
@@ -5476,34 +5587,6 @@
         }
       ],
       "steamAppId": "1199030"
-    },
-    {
-      "title": "Occupy Mars The Game",
-      "studio": "Komunitní překlady",
-      "studioUrl": "https://komunitni-preklady.org/preklad/occupy-mars-the-game",
-      "language": "Čeština",
-      "hasText": false,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": true,
-      "version": "1.0.12.1",
-      "updatedAt": "19.02.2026",
-      "requiredGameVersion": "1.0.12",
-      "pageUrl": "https://komunitni-preklady.org/preklad/occupy-mars-the-game",
-      "howToInstallHtml": "<p>Každý překlad má vlastní postup instalace. Otevřete stránku překladu (tlačítko „Otevřít v prohlížeči“ níže) — najdete tam úplný návod k instalaci i tlačítko ke stažení.</p>",
-      "authorsHtml": "<p>Kružítko</p>",
-      "size": "676 KB",
-      "inDevelopment": false,
-      "mirrors": [
-        {
-          "label": "Komunitní překlady",
-          "url": "https://komunitni-preklady.org/download/537?sig=D2sjdho_UKctoBGaDohGjA",
-          "kind": "direct"
-        }
-      ],
-      "steamAppId": "758690"
     },
     {
       "title": "Getting Over It with Bennett Foddy",
@@ -7584,34 +7667,6 @@
           "kind": "direct"
         }
       ]
-    },
-    {
-      "title": "Dave The Diver",
-      "studio": "Komunitní překlady",
-      "studioUrl": "https://komunitni-preklady.org/preklad/dave-the-diver",
-      "language": "Čeština",
-      "hasText": false,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": true,
-      "version": "0.926b",
-      "updatedAt": "20.01.2026",
-      "requiredGameVersion": "v1.0.5.1791",
-      "pageUrl": "https://komunitni-preklady.org/preklad/dave-the-diver",
-      "howToInstallHtml": "<p>Každý překlad má vlastní postup instalace. Otevřete stránku překladu (tlačítko „Otevřít v prohlížeči“ níže) — najdete tam úplný návod k instalaci i tlačítko ke stažení.</p>",
-      "authorsHtml": "<p>Banditi</p>",
-      "size": "32.1 MB",
-      "inDevelopment": false,
-      "mirrors": [
-        {
-          "label": "Komunitní překlady",
-          "url": "https://komunitni-preklady.org/download/471?sig=r0lDYZLR21qf-pQrvtHHJg",
-          "kind": "direct"
-        }
-      ],
-      "steamAppId": "1868140"
     },
     {
       "title": "Police Simulator Patrol Officers",
@@ -15523,7 +15578,7 @@
           "kind": "direct"
         }
       ],
-      "steamAppId": "302080"
+      "steamAppId": "1366950"
     },
     {
       "title": "Codename Eagles",
@@ -15868,11 +15923,11 @@
       "hasNeuralDub": false,
       "hasNeuralText": true,
       "version": null,
-      "updatedAt": "12.07.2026",
+      "updatedAt": "13.07.2026",
       "requiredGameVersion": null,
       "pageUrl": "https://komunitni-preklady.org/preklad/divinity-ii-dragon-knight-saga-",
       "howToInstallHtml": "<p>Každý překlad má vlastní postup instalace. Otevřete stránku překladu (tlačítko „Otevřít v prohlížeči“ níže) — najdete tam úplný návod k instalaci i tlačítko ke stažení.</p>",
-      "authorsHtml": "<p>Dannyho CZeštiny</p>",
+      "authorsHtml": "<p>DickzillaTranslator</p>",
       "size": null,
       "inDevelopment": true,
       "mirrors": []
