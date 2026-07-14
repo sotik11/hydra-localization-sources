@@ -5,6 +5,34 @@
   "siteUrl": "https://komunitni-preklady.org",
   "localizations": [
     {
+      "title": "Palworld",
+      "studio": "Komunitní překlady",
+      "studioUrl": "https://komunitni-preklady.org/preklad/palworld-sk",
+      "language": "Slovenčina",
+      "hasText": false,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": true,
+      "version": "0.35",
+      "updatedAt": "13.07.2026",
+      "requiredGameVersion": "1.0.0",
+      "pageUrl": "https://komunitni-preklady.org/preklad/palworld-sk",
+      "howToInstallHtml": "<p>Každý preklad má vlastný postup inštalácie. Otvorte stránku prekladu (tlačidlo „Otvoriť v prehliadači“ nižšie) — nájdete tam úplný návod na inštaláciu aj tlačidlo na stiahnutie.</p>",
+      "authorsHtml": "<p>Flego</p>",
+      "size": "1.90 MB",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Komunitní překlady",
+          "url": "https://komunitni-preklady.org/download/648?sig=LOF_8gvmzlEi5ueYUX8RUg",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "1623730"
+    },
+    {
       "title": "SpongeBob SquarePants: Titans of the Tide",
       "studio": "Komunitní překlady",
       "studioUrl": "https://komunitni-preklady.org/preklad/spongebob-squarepants-titans-of-the-tide",
@@ -819,7 +847,7 @@
       "hasNeuralText": true,
       "version": "0.88",
       "updatedAt": "06.07.2026",
-      "requiredGameVersion": "3.0",
+      "requiredGameVersion": "3.0.1",
       "pageUrl": "https://komunitni-preklady.org/preklad/7-days-to-die-30-cz",
       "howToInstallHtml": "<p>Každý překlad má vlastní postup instalace. Otevřete stránku překladu (tlačítko „Otevřít v prohlížeči“ níže) — najdete tam úplný návod k instalaci i tlačítko ke stažení.</p>",
       "authorsHtml": "<p>GREG-RAY CZ</p>",
@@ -5645,34 +5673,6 @@
       "steamAppId": "276810"
     },
     {
-      "title": "Palworld",
-      "studio": "Komunitní překlady",
-      "studioUrl": "https://komunitni-preklady.org/preklad/palworld-sk",
-      "language": "Slovenčina",
-      "hasText": false,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": true,
-      "version": "0.15",
-      "updatedAt": "17.02.2026",
-      "requiredGameVersion": "1.8.7654.0",
-      "pageUrl": "https://komunitni-preklady.org/preklad/palworld-sk",
-      "howToInstallHtml": "<p>Každý preklad má vlastný postup inštalácie. Otvorte stránku prekladu (tlačidlo „Otvoriť v prehliadači“ nižšie) — nájdete tam úplný návod na inštaláciu aj tlačidlo na stiahnutie.</p>",
-      "authorsHtml": "<p>Flego</p>",
-      "size": "563 KB",
-      "inDevelopment": false,
-      "mirrors": [
-        {
-          "label": "Komunitní překlady",
-          "url": "https://komunitni-preklady.org/download/648?sig=LOF_8gvmzlEi5ueYUX8RUg",
-          "kind": "direct"
-        }
-      ],
-      "steamAppId": "1623730"
-    },
-    {
       "title": "LEGO Harry Potter Collection",
       "studio": "Komunitní překlady",
       "studioUrl": "https://komunitni-preklady.org/preklad/lego-harry-potter-collection",
@@ -6475,7 +6475,7 @@
           "kind": "direct"
         }
       ],
-      "steamAppId": "1417250"
+      "steamAppId": "4549610"
     },
     {
       "title": "Freelancer (2003)",
@@ -15768,8 +15768,7 @@
           "url": "https://komunitni-preklady.org/download/158?sig=Mwc64ckAOK30dAtGCIWxZQ",
           "kind": "direct"
         }
-      ],
-      "steamAppId": "67370"
+      ]
     },
     {
       "title": "Dungeon Siege III",
@@ -15927,7 +15926,7 @@
       "requiredGameVersion": null,
       "pageUrl": "https://komunitni-preklady.org/preklad/divinity-ii-dragon-knight-saga-",
       "howToInstallHtml": "<p>Každý překlad má vlastní postup instalace. Otevřete stránku překladu (tlačítko „Otevřít v prohlížeči“ níže) — najdete tam úplný návod k instalaci i tlačítko ke stažení.</p>",
-      "authorsHtml": "<p>DickzillaTranslator</p>",
+      "authorsHtml": "<p>Flego</p>",
       "size": null,
       "inDevelopment": true,
       "mirrors": []
