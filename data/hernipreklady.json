@@ -5,6 +5,34 @@
   "siteUrl": "https://hernipreklady.cz",
   "localizations": [
     {
+      "title": "Titanfall 2",
+      "studio": "HerníPřeklady",
+      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/titanfall-2",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": "1.0",
+      "updatedAt": null,
+      "requiredGameVersion": "2.0.11.0",
+      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/titanfall-2",
+      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
+      "authorsHtml": null,
+      "inDevelopment": false,
+      "size": "59.3 MB",
+      "mirrors": [
+        {
+          "label": "HerníPřeklady",
+          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=593",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "1237970"
+    },
+    {
       "title": "Alien: Rogue Incursion Evolved Edition",
       "studio": "HerníPřeklady",
       "studioUrl": "https://hernipreklady.cz/seznam-prekladu/alien-rogue-incursion-evolved-edition",
@@ -59,28 +87,6 @@
         }
       ],
       "steamAppId": "2677660"
-    },
-    {
-      "title": "Titanfall 2",
-      "studio": "HerníPřeklady",
-      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/titanfall-2",
-      "language": "Čeština",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": "1.0",
-      "updatedAt": null,
-      "requiredGameVersion": "2.0.11.0",
-      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/titanfall-2",
-      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
-      "authorsHtml": null,
-      "inDevelopment": true,
-      "size": null,
-      "mirrors": [],
-      "steamAppId": "1237970"
     },
     {
       "title": "Demeo PC / VR",
@@ -270,34 +276,6 @@
       "size": null,
       "mirrors": [],
       "steamAppId": "2255370"
-    },
-    {
-      "title": "Nobody Wants to Die",
-      "studio": "HerníPřeklady",
-      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/nobody-wants-to-die",
-      "language": "Čeština",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": "1.00",
-      "updatedAt": "04.09.2024",
-      "requiredGameVersion": "1.0.1.0.46.065",
-      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/nobody-wants-to-die",
-      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
-      "authorsHtml": null,
-      "inDevelopment": false,
-      "size": "12.0 MB",
-      "mirrors": [
-        {
-          "label": "HerníPřeklady",
-          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=264",
-          "kind": "direct"
-        }
-      ],
-      "steamAppId": "1939970"
     },
     {
       "title": "Evotinction",
@@ -908,7 +886,7 @@
       "hasNeuralDub": false,
       "hasNeuralText": false,
       "version": null,
-      "updatedAt": null,
+      "updatedAt": "13.06.2026",
       "requiredGameVersion": "6.44_TheSwarm_169781",
       "pageUrl": "https://hernipreklady.cz/seznam-prekladu/no-man-s-sky",
       "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
@@ -1342,6 +1320,34 @@
         }
       ],
       "steamAppId": "1243850"
+    },
+    {
+      "title": "Nobody Wants to Die",
+      "studio": "HerníPřeklady",
+      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/nobody-wants-to-die",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": "1.00",
+      "updatedAt": "04.09.2024",
+      "requiredGameVersion": "1.0.1.0.46.065",
+      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/nobody-wants-to-die",
+      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
+      "authorsHtml": null,
+      "inDevelopment": false,
+      "size": "12.0 MB",
+      "mirrors": [
+        {
+          "label": "HerníPřeklady",
+          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=264",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "1939970"
     },
     {
       "title": "Flintlock: The SIege of Dawn",
