@@ -39528,6 +39528,30 @@
       ]
     },
     {
+      "steamAppId": "11150",
+      "title": "Sherlock Holmes: The Case of the Silver Earring",
+      "studio": "Magyarítások",
+      "studioUrl": "https://magyaritasok.hu",
+      "language": "Magyar",
+      "hasText": true,
+      "hasVoice": false,
+      "version": null,
+      "updatedAt": "23.06.2014",
+      "requiredGameVersion": null,
+      "size": "862.5 MB",
+      "pageUrl": "https://magyaritasok.hu/games/sherlock-holmes-the-case-of-the-silver-earring",
+      "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
+      "authorsHtml": "<p>GameHunter TEAM</p>",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Magyarítások",
+          "url": "https://magyaritasok.hu/dl/sherlockholmes_silver_earring/sherlockhun.exe",
+          "kind": "direct"
+        }
+      ]
+    },
+    {
       "steamAppId": "3960",
       "title": "Shattered Union",
       "studio": "Magyarítások",
