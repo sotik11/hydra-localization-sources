@@ -5,6 +5,30 @@
   "siteUrl": "https://magyaritasok.hu",
   "localizations": [
     {
+      "steamAppId": "40392",
+      "title": "Risen 2: Dark Waters - Treasure Isle",
+      "studio": "Magyarítások",
+      "studioUrl": "https://magyaritasok.hu",
+      "language": "Magyar",
+      "hasText": true,
+      "hasVoice": false,
+      "version": "1.1",
+      "updatedAt": "06.02.2015",
+      "requiredGameVersion": "1.0 vagy 1.0.1210",
+      "size": "7.54 MB",
+      "pageUrl": "https://magyaritasok.hu/games/risen-2-dark-waters-treasure-isle--1",
+      "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
+      "authorsHtml": "<p>Cyrus, HUNosítók Team</p>",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Magyarítások",
+          "url": "https://magyaritasok.hu/dl/risen2/Risen2hunv1.1.exe",
+          "kind": "direct"
+        }
+      ]
+    },
+    {
       "steamAppId": "48190",
       "title": "Assassin's Creed Brotherhood",
       "studio": "Magyarítások",
@@ -547,6 +571,30 @@
         {
           "label": "Magyarítások",
           "url": "https://magyaritasok.hu/dl/robinhoodquest/robinhoodquest_hun.exe",
+          "kind": "direct"
+        }
+      ]
+    },
+    {
+      "steamAppId": "40393",
+      "title": "Risen 2: Dark Waters - The Air Temple",
+      "studio": "Magyarítások",
+      "studioUrl": "https://magyaritasok.hu",
+      "language": "Magyar",
+      "hasText": true,
+      "hasVoice": false,
+      "version": "1.1",
+      "updatedAt": "06.02.2015",
+      "requiredGameVersion": "1.0 vagy 1.0.1210",
+      "size": "7.54 MB",
+      "pageUrl": "https://magyaritasok.hu/games/risen-2-dark-waters-the-air-temple",
+      "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
+      "authorsHtml": "<p>Cyrus, HUNosítók Team</p>",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Magyarítások",
+          "url": "https://magyaritasok.hu/dl/risen2/Risen2hunv1.1.exe",
           "kind": "direct"
         }
       ]
@@ -24635,6 +24683,29 @@
       ]
     },
     {
+      "title": "Divinity II: Flames of Vengeance",
+      "studio": "Magyarítások",
+      "studioUrl": "https://magyaritasok.hu",
+      "language": "Magyar",
+      "hasText": true,
+      "hasVoice": false,
+      "version": "1.03",
+      "updatedAt": "06.08.2015",
+      "requiredGameVersion": "1.03",
+      "size": "6.42 MB",
+      "pageUrl": "https://magyaritasok.hu/games/divinity-ii-flames-of-vengeance",
+      "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
+      "authorsHtml": "<p>RaveAir, HUNosítók Team</p>",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Magyarítások",
+          "url": "https://magyaritasok.hu/dl/divinity2/div2hun_v1.03.exe",
+          "kind": "direct"
+        }
+      ]
+    },
+    {
       "title": "DiRT 3",
       "studio": "Magyarítások",
       "studioUrl": "https://magyaritasok.hu",
@@ -35090,6 +35161,30 @@
         {
           "label": "Magyarítások",
           "url": "https://magyaritasok.hu/dl/redorchestra/redorchestrahun.exe",
+          "kind": "direct"
+        }
+      ]
+    },
+    {
+      "steamAppId": "11450",
+      "title": "Overlord",
+      "studio": "Magyarítások",
+      "studioUrl": "https://magyaritasok.hu",
+      "language": "Magyar",
+      "hasText": true,
+      "hasVoice": false,
+      "version": "1.0",
+      "updatedAt": "14.03.2015",
+      "requiredGameVersion": null,
+      "size": "1.66 MB",
+      "pageUrl": "https://magyaritasok.hu/games/overlord",
+      "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
+      "authorsHtml": "<p>Druzsba, Panyi, HUNosítók Team</p>",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Magyarítások",
+          "url": "https://magyaritasok.hu/dl/overlordRH/OverlordRH_hun.exe",
           "kind": "direct"
         }
       ]
