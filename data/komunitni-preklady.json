@@ -5,6 +5,117 @@
   "siteUrl": "https://komunitni-preklady.org",
   "localizations": [
     {
+      "title": "Achilles: Legends Untold",
+      "studio": "Komunitní překlady",
+      "studioUrl": "https://komunitni-preklady.org/preklad/achilles-legends-untold",
+      "language": "Slovenčina",
+      "hasText": false,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": true,
+      "version": "0.3",
+      "updatedAt": "17.07.2026",
+      "requiredGameVersion": "1.8.1",
+      "pageUrl": "https://komunitni-preklady.org/preklad/achilles-legends-untold",
+      "howToInstallHtml": "<p>Každý preklad má vlastný postup inštalácie. Otvorte stránku prekladu (tlačidlo „Otvoriť v prehliadači“ nižšie) — nájdete tam úplný návod na inštaláciu aj tlačidlo na stiahnutie.</p>",
+      "authorsHtml": "<p>Flego</p>",
+      "size": "2.30 MB",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Komunitní překlady",
+          "url": "https://komunitni-preklady.org/download/453?sig=EKjcm3cvUhlKteWju2lywQ",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "1314000"
+    },
+    {
+      "title": "Crimson Desert",
+      "studio": "Komunitní překlady",
+      "studioUrl": "https://komunitni-preklady.org/preklad/crimson-desert-sk",
+      "language": "Slovenčina",
+      "hasText": false,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": true,
+      "version": "2.8",
+      "updatedAt": "17.07.2026",
+      "requiredGameVersion": "1.14.00",
+      "pageUrl": "https://komunitni-preklady.org/preklad/crimson-desert-sk",
+      "howToInstallHtml": "<p>Každý preklad má vlastný postup inštalácie. Otvorte stránku prekladu (tlačidlo „Otvoriť v prehliadači“ nižšie) — nájdete tam úplný návod na inštaláciu aj tlačidlo na stiahnutie.</p>",
+      "authorsHtml": "<p>Flego</p>",
+      "size": "8.10 MB",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Komunitní překlady",
+          "url": "https://komunitni-preklady.org/download/758?sig=p8UTlFkphufGApvCDC0-fg",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "3321460"
+    },
+    {
+      "title": "Assassin\\u0027s Creed: Black Flag Resynced",
+      "studio": "Komunitní překlady",
+      "studioUrl": "https://komunitni-preklady.org/preklad/assassins-creed-black-flag-resynced",
+      "language": "Čeština",
+      "hasText": false,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": true,
+      "version": "1004",
+      "updatedAt": "17.07.2026",
+      "requiredGameVersion": null,
+      "pageUrl": "https://komunitni-preklady.org/preklad/assassins-creed-black-flag-resynced",
+      "howToInstallHtml": "<p>Každý překlad má vlastní postup instalace. Otevřete stránku překladu (tlačítko „Otevřít v prohlížeči“ níže) — najdete tam úplný návod k instalaci i tlačítko ke stažení.</p>",
+      "authorsHtml": "<p>Banditi</p>",
+      "size": "16.4 MB",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Komunitní překlady",
+          "url": "https://komunitni-preklady.org/download/792?sig=6NHS9FN0QLcJhRStXBmwYg",
+          "kind": "direct"
+        }
+      ]
+    },
+    {
+      "title": "Broken Arrow",
+      "studio": "Komunitní překlady",
+      "studioUrl": "https://komunitni-preklady.org/preklad/broken-arrow",
+      "language": "Čeština",
+      "hasText": false,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": true,
+      "version": "0.6",
+      "updatedAt": "16.07.2026",
+      "requiredGameVersion": "1.1.0.3",
+      "pageUrl": "https://komunitni-preklady.org/preklad/broken-arrow",
+      "howToInstallHtml": "<p>Každý překlad má vlastní postup instalace. Otevřete stránku překladu (tlačítko „Otevřít v prohlížeči“ níže) — najdete tam úplný návod k instalaci i tlačítko ke stažení.</p>",
+      "authorsHtml": "<p>Livi8D</p>",
+      "size": "2.70 MB",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Komunitní překlady",
+          "url": "https://komunitni-preklady.org/download/834?sig=AVOmOFcTnEGsj1zkEI5jUg",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "1604270"
+    },
+    {
       "title": "Crimson Desert",
       "studio": "Komunitní překlady",
       "studioUrl": "https://komunitni-preklady.org/preklad/crimson-desert",
@@ -394,33 +505,6 @@
       "steamAppId": "388420"
     },
     {
-      "title": "Assassin\\u0027s Creed: Black Flag Resynced",
-      "studio": "Komunitní překlady",
-      "studioUrl": "https://komunitni-preklady.org/preklad/assassins-creed-black-flag-resynced",
-      "language": "Čeština",
-      "hasText": false,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": true,
-      "version": "1.000",
-      "updatedAt": "11.07.2026",
-      "requiredGameVersion": null,
-      "pageUrl": "https://komunitni-preklady.org/preklad/assassins-creed-black-flag-resynced",
-      "howToInstallHtml": "<p>Každý překlad má vlastní postup instalace. Otevřete stránku překladu (tlačítko „Otevřít v prohlížeči“ níže) — najdete tam úplný návod k instalaci i tlačítko ke stažení.</p>",
-      "authorsHtml": "<p>Banditi</p>",
-      "size": "14.0 MB",
-      "inDevelopment": false,
-      "mirrors": [
-        {
-          "label": "Komunitní překlady",
-          "url": "https://komunitni-preklady.org/download/792?sig=6NHS9FN0QLcJhRStXBmwYg",
-          "kind": "direct"
-        }
-      ]
-    },
-    {
       "title": "Uncanny Tales: Cold Road",
       "studio": "Komunitní překlady",
       "studioUrl": "https://komunitni-preklady.org/preklad/uncanny-tales-cold-road",
@@ -695,34 +779,6 @@
       "steamAppId": "3180070"
     },
     {
-      "title": "Crimson Desert",
-      "studio": "Komunitní překlady",
-      "studioUrl": "https://komunitni-preklady.org/preklad/crimson-desert-sk",
-      "language": "Slovenčina",
-      "hasText": false,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": true,
-      "version": "2.6",
-      "updatedAt": "08.07.2026",
-      "requiredGameVersion": "1.13.01",
-      "pageUrl": "https://komunitni-preklady.org/preklad/crimson-desert-sk",
-      "howToInstallHtml": "<p>Každý preklad má vlastný postup inštalácie. Otvorte stránku prekladu (tlačidlo „Otvoriť v prehliadači“ nižšie) — nájdete tam úplný návod na inštaláciu aj tlačidlo na stiahnutie.</p>",
-      "authorsHtml": "<p>Flego</p>",
-      "size": "9.00 MB",
-      "inDevelopment": false,
-      "mirrors": [
-        {
-          "label": "Komunitní překlady",
-          "url": "https://komunitni-preklady.org/download/758?sig=p8UTlFkphufGApvCDC0-fg",
-          "kind": "direct"
-        }
-      ],
-      "steamAppId": "3321460"
-    },
-    {
       "title": "Solasta II",
       "studio": "Komunitní překlady",
       "studioUrl": "https://komunitni-preklady.org/preklad/solasta-ii",
@@ -945,34 +1001,6 @@
         }
       ],
       "steamAppId": "3976500"
-    },
-    {
-      "title": "Broken Arrow",
-      "studio": "Komunitní překlady",
-      "studioUrl": "https://komunitni-preklady.org/preklad/broken-arrow",
-      "language": "Čeština",
-      "hasText": false,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": true,
-      "version": "0.2",
-      "updatedAt": "03.07.2026",
-      "requiredGameVersion": "1.1.0.3",
-      "pageUrl": "https://komunitni-preklady.org/preklad/broken-arrow",
-      "howToInstallHtml": "<p>Každý překlad má vlastní postup instalace. Otevřete stránku překladu (tlačítko „Otevřít v prohlížeči“ níže) — najdete tam úplný návod k instalaci i tlačítko ke stažení.</p>",
-      "authorsHtml": "<p>Livi8D</p>",
-      "size": "2.70 MB",
-      "inDevelopment": false,
-      "mirrors": [
-        {
-          "label": "Komunitní překlady",
-          "url": "https://komunitni-preklady.org/download/834?sig=AVOmOFcTnEGsj1zkEI5jUg",
-          "kind": "direct"
-        }
-      ],
-      "steamAppId": "1604270"
     },
     {
       "title": "Gothic 1 Remake CZ",
@@ -1304,33 +1332,6 @@
         {
           "label": "Komunitní překlady",
           "url": "https://komunitni-preklady.org/download/506?sig=1s0LRlKAHCJmKSAPl9c-5A",
-          "kind": "direct"
-        }
-      ]
-    },
-    {
-      "title": "SAND: Riders of Sophie",
-      "studio": "Komunitní překlady",
-      "studioUrl": "https://komunitni-preklady.org/preklad/sand-riders-of-sophie",
-      "language": "Čeština",
-      "hasText": false,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": true,
-      "version": "0.2",
-      "updatedAt": "27.06.2026",
-      "requiredGameVersion": null,
-      "pageUrl": "https://komunitni-preklady.org/preklad/sand-riders-of-sophie",
-      "howToInstallHtml": "<p>Každý překlad má vlastní postup instalace. Otevřete stránku překladu (tlačítko „Otevřít v prohlížeči“ níže) — najdete tam úplný návod k instalaci i tlačítko ke stažení.</p>",
-      "authorsHtml": "<p>Medy a Fantucci</p>",
-      "size": "945.9 MB",
-      "inDevelopment": false,
-      "mirrors": [
-        {
-          "label": "Komunitní překlady",
-          "url": "https://komunitni-preklady.org/download/848?sig=S89ihTsj2MbXIdiBnRT37w",
           "kind": "direct"
         }
       ]
@@ -8920,34 +8921,6 @@
       "steamAppId": "1426300"
     },
     {
-      "title": "Achilles: Legends Untold",
-      "studio": "Komunitní překlady",
-      "studioUrl": "https://komunitni-preklady.org/preklad/achilles-legends-untold",
-      "language": "Slovenčina",
-      "hasText": false,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": true,
-      "version": "0.2",
-      "updatedAt": "04.01.2026",
-      "requiredGameVersion": "1.8.0",
-      "pageUrl": "https://komunitni-preklady.org/preklad/achilles-legends-untold",
-      "howToInstallHtml": "<p>Každý preklad má vlastný postup inštalácie. Otvorte stránku prekladu (tlačidlo „Otvoriť v prehliadači“ nižšie) — nájdete tam úplný návod na inštaláciu aj tlačidlo na stiahnutie.</p>",
-      "authorsHtml": "<p>Flego</p>",
-      "size": "197 KB",
-      "inDevelopment": false,
-      "mirrors": [
-        {
-          "label": "Komunitní překlady",
-          "url": "https://komunitni-preklady.org/download/453?sig=EKjcm3cvUhlKteWju2lywQ",
-          "kind": "direct"
-        }
-      ],
-      "steamAppId": "1314000"
-    },
-    {
       "title": "SpaceBourne 2",
       "studio": "Komunitní překlady",
       "studioUrl": "https://komunitni-preklady.org/preklad/spacebourne-2",
@@ -15923,11 +15896,11 @@
       "hasNeuralDub": false,
       "hasNeuralText": true,
       "version": null,
-      "updatedAt": "16.07.2026",
+      "updatedAt": "17.07.2026",
       "requiredGameVersion": null,
       "pageUrl": "https://komunitni-preklady.org/preklad/divinity-ii-dragon-knight-saga-",
       "howToInstallHtml": "<p>Každý překlad má vlastní postup instalace. Otevřete stránku překladu (tlačítko „Otevřít v prohlížeči“ níže) — najdete tam úplný návod k instalaci i tlačítko ke stažení.</p>",
-      "authorsHtml": "<p>Banditi</p>",
+      "authorsHtml": "<p>Flego</p>",
       "size": null,
       "inDevelopment": true,
       "mirrors": []
