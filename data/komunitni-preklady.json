@@ -5,6 +5,173 @@
   "siteUrl": "https://komunitni-preklady.org",
   "localizations": [
     {
+      "title": "Solasta II",
+      "studio": "Komunitní překlady",
+      "studioUrl": "https://komunitni-preklady.org/preklad/solasta-ii-cz",
+      "language": "Čeština",
+      "hasText": false,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": true,
+      "version": "0.1",
+      "updatedAt": "18.07.2026",
+      "requiredGameVersion": "0.3.8.105177",
+      "pageUrl": "https://komunitni-preklady.org/preklad/solasta-ii-cz",
+      "howToInstallHtml": "<p>Každý překlad má vlastní postup instalace. Otevřete stránku překladu (tlačítko „Otevřít v prohlížeči“ níže) — najdete tam úplný návod k instalaci i tlačítko ke stažení.</p>",
+      "authorsHtml": "<p>Livi8D</p>",
+      "size": "4.70 MB",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Komunitní překlady",
+          "url": "https://komunitni-preklady.org/download/868?sig=vYkLNRyAFc9iQsBxrDBqiQ",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "2975950"
+    },
+    {
+      "title": "Assassin\\u0027s Creed: Black Flag Resynced",
+      "studio": "Komunitní překlady",
+      "studioUrl": "https://komunitni-preklady.org/preklad/assassins-creed-black-flag-resynced",
+      "language": "Čeština",
+      "hasText": false,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": true,
+      "version": "1004a",
+      "updatedAt": "17.07.2026",
+      "requiredGameVersion": null,
+      "pageUrl": "https://komunitni-preklady.org/preklad/assassins-creed-black-flag-resynced",
+      "howToInstallHtml": "<p>Každý překlad má vlastní postup instalace. Otevřete stránku překladu (tlačítko „Otevřít v prohlížeči“ níže) — najdete tam úplný návod k instalaci i tlačítko ke stažení.</p>",
+      "authorsHtml": "<p>Banditi</p>",
+      "size": "16.0 MB",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Komunitní překlady",
+          "url": "https://komunitni-preklady.org/download/792?sig=6NHS9FN0QLcJhRStXBmwYg",
+          "kind": "direct"
+        }
+      ]
+    },
+    {
+      "title": "Global Rescue",
+      "studio": "Komunitní překlady",
+      "studioUrl": "https://komunitni-preklady.org/preklad/global-rescue",
+      "language": "Čeština",
+      "hasText": false,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": true,
+      "version": "0.1",
+      "updatedAt": "17.07.2026",
+      "requiredGameVersion": "0.4.10",
+      "pageUrl": "https://komunitni-preklady.org/preklad/global-rescue",
+      "howToInstallHtml": "<p>Každý překlad má vlastní postup instalace. Otevřete stránku překladu (tlačítko „Otevřít v prohlížeči“ níže) — najdete tam úplný návod k instalaci i tlačítko ke stažení.</p>",
+      "authorsHtml": "<p>Livi8D</p>",
+      "size": "465.9 MB",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Komunitní překlady",
+          "url": "https://komunitni-preklady.org/download/867?sig=gqWwbD_jErU-coWQc02bYg",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "2873660"
+    },
+    {
+      "title": "Into the Dead: Our Darkest Days",
+      "studio": "Komunitní překlady",
+      "studioUrl": "https://komunitni-preklady.org/preklad/into-the-dead-our-darkest-days",
+      "language": "Čeština",
+      "hasText": false,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": true,
+      "version": "0.3",
+      "updatedAt": "17.07.2026",
+      "requiredGameVersion": "0.14.1.19644.Early.Access",
+      "pageUrl": "https://komunitni-preklady.org/preklad/into-the-dead-our-darkest-days",
+      "howToInstallHtml": "<p>Každý překlad má vlastní postup instalace. Otevřete stránku překladu (tlačítko „Otevřít v prohlížeči“ níže) — najdete tam úplný návod k instalaci i tlačítko ke stažení.</p>",
+      "authorsHtml": "<p>Livi8D</p>",
+      "size": "262 KB",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Komunitní překlady",
+          "url": "https://komunitni-preklady.org/download/840?sig=jN7iiEdf9iqnps3DjhLevw",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "2239710"
+    },
+    {
+      "title": "News Tower",
+      "studio": "Komunitní překlady",
+      "studioUrl": "https://komunitni-preklady.org/preklad/news-tower",
+      "language": "Čeština",
+      "hasText": false,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": true,
+      "version": "0.1",
+      "updatedAt": "17.07.2026",
+      "requiredGameVersion": "1.1.123.r",
+      "pageUrl": "https://komunitni-preklady.org/preklad/news-tower",
+      "howToInstallHtml": "<p>Každý překlad má vlastní postup instalace. Otevřete stránku překladu (tlačítko „Otevřít v prohlížeči“ níže) — najdete tam úplný návod k instalaci i tlačítko ke stažení.</p>",
+      "authorsHtml": "<p>Livi8D</p>",
+      "size": "40.4 MB",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Komunitní překlady",
+          "url": "https://komunitni-preklady.org/download/866?sig=Z3CN7gzfUNi7vwFmrGuMXg",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "1649950"
+    },
+    {
+      "title": "Gothic 1 Remake",
+      "studio": "Komunitní překlady",
+      "studioUrl": "https://komunitni-preklady.org/preklad/gothic-1-remake-sk",
+      "language": "Slovenčina",
+      "hasText": false,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": true,
+      "version": "0.0.2",
+      "updatedAt": "17.07.2026",
+      "requiredGameVersion": "1.0.3",
+      "pageUrl": "https://komunitni-preklady.org/preklad/gothic-1-remake-sk",
+      "howToInstallHtml": "<p>Každý preklad má vlastný postup inštalácie. Otvorte stránku prekladu (tlačidlo „Otvoriť v prehliadači“ nižšie) — nájdete tam úplný návod na inštaláciu aj tlačidlo na stiahnutie.</p>",
+      "authorsHtml": "<p>Flego</p>",
+      "size": "38.2 MB",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Komunitní překlady",
+          "url": "https://komunitni-preklady.org/download/829?sig=JmLQeNvqWShNfn9tEA7jRA",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "1297900"
+    },
+    {
       "title": "Achilles: Legends Untold",
       "studio": "Komunitní překlady",
       "studioUrl": "https://komunitni-preklady.org/preklad/achilles-legends-untold",
@@ -59,33 +226,6 @@
         }
       ],
       "steamAppId": "3321460"
-    },
-    {
-      "title": "Assassin\\u0027s Creed: Black Flag Resynced",
-      "studio": "Komunitní překlady",
-      "studioUrl": "https://komunitni-preklady.org/preklad/assassins-creed-black-flag-resynced",
-      "language": "Čeština",
-      "hasText": false,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": true,
-      "version": "1004",
-      "updatedAt": "17.07.2026",
-      "requiredGameVersion": null,
-      "pageUrl": "https://komunitni-preklady.org/preklad/assassins-creed-black-flag-resynced",
-      "howToInstallHtml": "<p>Každý překlad má vlastní postup instalace. Otevřete stránku překladu (tlačítko „Otevřít v prohlížeči“ níže) — najdete tam úplný návod k instalaci i tlačítko ke stažení.</p>",
-      "authorsHtml": "<p>Banditi</p>",
-      "size": "16.4 MB",
-      "inDevelopment": false,
-      "mirrors": [
-        {
-          "label": "Komunitní překlady",
-          "url": "https://komunitni-preklady.org/download/792?sig=6NHS9FN0QLcJhRStXBmwYg",
-          "kind": "direct"
-        }
-      ]
     },
     {
       "title": "Broken Arrow",
@@ -1029,34 +1169,6 @@
         }
       ],
       "steamAppId": "1297900"
-    },
-    {
-      "title": "Into the Dead: Our Darkest Days",
-      "studio": "Komunitní překlady",
-      "studioUrl": "https://komunitni-preklady.org/preklad/into-the-dead-our-darkest-days",
-      "language": "Čeština",
-      "hasText": false,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": true,
-      "version": "0.2",
-      "updatedAt": "02.07.2026",
-      "requiredGameVersion": "0.14.1.19644.Early.Access",
-      "pageUrl": "https://komunitni-preklady.org/preklad/into-the-dead-our-darkest-days",
-      "howToInstallHtml": "<p>Každý překlad má vlastní postup instalace. Otevřete stránku překladu (tlačítko „Otevřít v prohlížeči“ níže) — najdete tam úplný návod k instalaci i tlačítko ke stažení.</p>",
-      "authorsHtml": "<p>Livi8D</p>",
-      "size": "262 KB",
-      "inDevelopment": false,
-      "mirrors": [
-        {
-          "label": "Komunitní překlady",
-          "url": "https://komunitni-preklady.org/download/840?sig=jN7iiEdf9iqnps3DjhLevw",
-          "kind": "direct"
-        }
-      ],
-      "steamAppId": "2239710"
     },
     {
       "title": "Project Werewulf",
@@ -2223,34 +2335,6 @@
         }
       ],
       "steamAppId": "1757300"
-    },
-    {
-      "title": "Gothic 1 Remake",
-      "studio": "Komunitní překlady",
-      "studioUrl": "https://komunitni-preklady.org/preklad/gothic-1-remake-sk",
-      "language": "Slovenčina",
-      "hasText": false,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": true,
-      "version": "0.0.1",
-      "updatedAt": "08.06.2026",
-      "requiredGameVersion": "23589065",
-      "pageUrl": "https://komunitni-preklady.org/preklad/gothic-1-remake-sk",
-      "howToInstallHtml": "<p>Každý preklad má vlastný postup inštalácie. Otvorte stránku prekladu (tlačidlo „Otvoriť v prehliadači“ nižšie) — nájdete tam úplný návod na inštaláciu aj tlačidlo na stiahnutie.</p>",
-      "authorsHtml": "<p>Flego</p>",
-      "size": "38.2 MB",
-      "inDevelopment": false,
-      "mirrors": [
-        {
-          "label": "Komunitní překlady",
-          "url": "https://komunitni-preklady.org/download/829?sig=JmLQeNvqWShNfn9tEA7jRA",
-          "kind": "direct"
-        }
-      ],
-      "steamAppId": "1297900"
     },
     {
       "title": "Saints Row IV: Re-Elected",
@@ -15551,7 +15635,7 @@
           "kind": "direct"
         }
       ],
-      "steamAppId": "1366950"
+      "steamAppId": "302080"
     },
     {
       "title": "Codename Eagles",
@@ -15896,11 +15980,11 @@
       "hasNeuralDub": false,
       "hasNeuralText": true,
       "version": null,
-      "updatedAt": "17.07.2026",
+      "updatedAt": "18.07.2026",
       "requiredGameVersion": null,
       "pageUrl": "https://komunitni-preklady.org/preklad/divinity-ii-dragon-knight-saga-",
       "howToInstallHtml": "<p>Každý překlad má vlastní postup instalace. Otevřete stránku překladu (tlačítko „Otevřít v prohlížeči“ níže) — najdete tam úplný návod k instalaci i tlačítko ke stažení.</p>",
-      "authorsHtml": "<p>Flego</p>",
+      "authorsHtml": "<p>Livi8D</p>",
       "size": null,
       "inDevelopment": true,
       "mirrors": []
