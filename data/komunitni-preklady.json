@@ -5,6 +5,90 @@
   "siteUrl": "https://komunitni-preklady.org",
   "localizations": [
     {
+      "title": "Warhammer 40,000 Rogue Trader",
+      "studio": "Komunitní překlady",
+      "studioUrl": "https://komunitni-preklady.org/preklad/warhammer-40000-rogue-trader",
+      "language": "Čeština",
+      "hasText": false,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": true,
+      "version": "1.6",
+      "updatedAt": "18.07.2026",
+      "requiredGameVersion": null,
+      "pageUrl": "https://komunitni-preklady.org/preklad/warhammer-40000-rogue-trader",
+      "howToInstallHtml": "<p>Každý překlad má vlastní postup instalace. Otevřete stránku překladu (tlačítko „Otevřít v prohlížeči“ níže) — najdete tam úplný návod k instalaci i tlačítko ke stažení.</p>",
+      "authorsHtml": "<p>Banditi</p>",
+      "size": "7.00 MB",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Komunitní překlady",
+          "url": "https://komunitni-preklady.org/download/354?sig=pZzwAme0WqK3I5gd88-0Nw",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "2186680"
+    },
+    {
+      "title": "AirportSim",
+      "studio": "Komunitní překlady",
+      "studioUrl": "https://komunitni-preklady.org/preklad/airportsim",
+      "language": "Čeština",
+      "hasText": false,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": true,
+      "version": "0.1",
+      "updatedAt": "18.07.2026",
+      "requiredGameVersion": "**Verze překladu:** 0.1.0",
+      "pageUrl": "https://komunitni-preklady.org/preklad/airportsim",
+      "howToInstallHtml": "<p>Každý překlad má vlastní postup instalace. Otevřete stránku překladu (tlačítko „Otevřít v prohlížeči“ níže) — najdete tam úplný návod k instalaci i tlačítko ke stažení.</p>",
+      "authorsHtml": "<p>Livi8D</p>",
+      "size": "3.30 MB",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Komunitní překlady",
+          "url": "https://komunitni-preklady.org/download/870?sig=dqsQJXkMGuOHUP_-1ryJUg",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "1715280"
+    },
+    {
+      "title": "Handyman Corporation",
+      "studio": "Komunitní překlady",
+      "studioUrl": "https://komunitni-preklady.org/preklad/handyman-corporation",
+      "language": "Čeština",
+      "hasText": false,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": true,
+      "version": "0.1",
+      "updatedAt": "18.07.2026",
+      "requiredGameVersion": "1.0.1.4",
+      "pageUrl": "https://komunitni-preklady.org/preklad/handyman-corporation",
+      "howToInstallHtml": "<p>Každý překlad má vlastní postup instalace. Otevřete stránku překladu (tlačítko „Otevřít v prohlížeči“ níže) — najdete tam úplný návod k instalaci i tlačítko ke stažení.</p>",
+      "authorsHtml": "<p>Darth Darkman</p>",
+      "size": "37 KB",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Komunitní překlady",
+          "url": "https://komunitni-preklady.org/download/869?sig=Wit1JvuvEMmMVF5-MSymYA",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "1703180"
+    },
+    {
       "title": "Solasta II",
       "studio": "Komunitní překlady",
       "studioUrl": "https://komunitni-preklady.org/preklad/solasta-ii-cz",
@@ -3277,34 +3361,6 @@
         }
       ],
       "steamAppId": "3124540"
-    },
-    {
-      "title": "Warhammer 40,000 Rogue Trader",
-      "studio": "Komunitní překlady",
-      "studioUrl": "https://komunitni-preklady.org/preklad/warhammer-40000-rogue-trader",
-      "language": "Čeština",
-      "hasText": false,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": true,
-      "version": "1.5",
-      "updatedAt": "01.05.2026",
-      "requiredGameVersion": "Instalace: Soubor če&scaron;tina (enGB.j",
-      "pageUrl": "https://komunitni-preklady.org/preklad/warhammer-40000-rogue-trader",
-      "howToInstallHtml": "<p>Každý překlad má vlastní postup instalace. Otevřete stránku překladu (tlačítko „Otevřít v prohlížeči“ níže) — najdete tam úplný návod k instalaci i tlačítko ke stažení.</p>",
-      "authorsHtml": "<p>Banditi</p>",
-      "size": "841.3 MB",
-      "inDevelopment": false,
-      "mirrors": [
-        {
-          "label": "Komunitní překlady",
-          "url": "https://komunitni-preklady.org/download/354?sig=pZzwAme0WqK3I5gd88-0Nw",
-          "kind": "direct"
-        }
-      ],
-      "steamAppId": "2186680"
     },
     {
       "title": "Borderlands 4",
@@ -15984,7 +16040,7 @@
       "requiredGameVersion": null,
       "pageUrl": "https://komunitni-preklady.org/preklad/divinity-ii-dragon-knight-saga-",
       "howToInstallHtml": "<p>Každý překlad má vlastní postup instalace. Otevřete stránku překladu (tlačítko „Otevřít v prohlížeči“ níže) — najdete tam úplný návod k instalaci i tlačítko ke stažení.</p>",
-      "authorsHtml": "<p>Livi8D</p>",
+      "authorsHtml": "<p>Banditi</p>",
       "size": null,
       "inDevelopment": true,
       "mirrors": []
