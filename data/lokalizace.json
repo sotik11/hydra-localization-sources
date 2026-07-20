@@ -1065,6 +1065,28 @@
       "steamAppId": "1766060"
     },
     {
+      "title": "The Drifter",
+      "studio": "Lokalizace.net",
+      "studioUrl": "https://lokalizace.net/localizations/the-drifter",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": null,
+      "updatedAt": null,
+      "pageUrl": "https://lokalizace.net/localizations/the-drifter",
+      "howToInstallHtml": "<p>Stáhněte ZIP soubor a rozbalte ho do složky hry, nebo použijte aplikaci CZManager pro automatickou instalaci češtiny.</p>",
+      "changelogHtml": null,
+      "authorsHtml": "<p>miracle.flame</p>",
+      "size": null,
+      "inDevelopment": true,
+      "mirrors": [],
+      "steamAppId": "1170570"
+    },
+    {
       "title": "Aphelion",
       "studio": "Lokalizace.net",
       "studioUrl": "https://lokalizace.net/localizations/aphelion",
@@ -6053,6 +6075,34 @@
       "steamAppId": "1143810"
     },
     {
+      "title": "The Precinct",
+      "studio": "Lokalizace.net",
+      "studioUrl": "https://lokalizace.net/localizations/the-precinct",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": "1.12.23934",
+      "updatedAt": "19.07.2026",
+      "pageUrl": "https://lokalizace.net/localizations/the-precinct",
+      "howToInstallHtml": "<p>Stáhněte ZIP soubor a rozbalte ho do složky hry, nebo použijte aplikaci CZManager pro automatickou instalaci češtiny.</p>",
+      "changelogHtml": "<div><p><strong>Nová verze 1.12.23934</strong></p><p>Vydána aktualizace češtiny k verzi hry 1.12.23934.</p></div>",
+      "authorsHtml": "<p>Sumilek86</p>",
+      "size": "10.4 MB",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Lokalizace.net",
+          "url": "https://lokalizace.net/api/download/1691",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "490110"
+    },
+    {
       "title": "Chessmaster 11: Grandmaster Edition",
       "studio": "Lokalizace.net",
       "studioUrl": "https://lokalizace.net/localizations/chessmaster-11-grandmaster-edition",
@@ -6438,7 +6488,8 @@
           "url": "https://lokalizace.net/api/download/852",
           "kind": "direct"
         }
-      ]
+      ],
+      "steamAppId": "3765900"
     },
     {
       "title": "Art of Murder: The Secret Files",
@@ -19525,6 +19576,28 @@
       "steamAppId": "2369390"
     },
     {
+      "title": "Monolith",
+      "studio": "Lokalizace.net",
+      "studioUrl": "https://lokalizace.net/localizations/monolith",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": null,
+      "updatedAt": null,
+      "pageUrl": "https://lokalizace.net/localizations/monolith",
+      "howToInstallHtml": "<p>Stáhněte ZIP soubor a rozbalte ho do složky hry, nebo použijte aplikaci CZManager pro automatickou instalaci češtiny.</p>",
+      "changelogHtml": null,
+      "authorsHtml": "<p>ADV Dream</p>",
+      "size": null,
+      "inDevelopment": true,
+      "mirrors": [],
+      "steamAppId": "1542390"
+    },
+    {
       "title": "Luto",
       "studio": "Lokalizace.net",
       "studioUrl": "https://lokalizace.net/localizations/luto",
@@ -19677,28 +19750,6 @@
       "inDevelopment": true,
       "mirrors": [],
       "steamAppId": "1226510"
-    },
-    {
-      "title": "007 First Light",
-      "studio": "Lokalizace.net",
-      "studioUrl": "https://lokalizace.net/localizations/007-first-light-1",
-      "language": "Čeština",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": null,
-      "updatedAt": null,
-      "pageUrl": "https://lokalizace.net/localizations/007-first-light-1",
-      "howToInstallHtml": "<p>Stáhněte ZIP soubor a rozbalte ho do složky hry, nebo použijte aplikaci CZManager pro automatickou instalaci češtiny.</p>",
-      "changelogHtml": null,
-      "authorsHtml": "<p>Lokalizace.Net</p>",
-      "size": null,
-      "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "3768760"
     },
     {
       "title": "Five Nights at Freddy's: Secret of the Mimic",
@@ -20201,28 +20252,6 @@
       "inDevelopment": true,
       "mirrors": [],
       "steamAppId": "1182310"
-    },
-    {
-      "title": "The Precinct",
-      "studio": "Lokalizace.net",
-      "studioUrl": "https://lokalizace.net/localizations/the-precinct",
-      "language": "Čeština",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": null,
-      "updatedAt": null,
-      "pageUrl": "https://lokalizace.net/localizations/the-precinct",
-      "howToInstallHtml": "<p>Stáhněte ZIP soubor a rozbalte ho do složky hry, nebo použijte aplikaci CZManager pro automatickou instalaci češtiny.</p>",
-      "changelogHtml": null,
-      "authorsHtml": "<p>Sumilek86</p>",
-      "size": null,
-      "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "490110"
     },
     {
       "title": "Pathfinder - Wrath of the Righteous",

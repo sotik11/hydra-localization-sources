@@ -5,6 +5,28 @@
   "siteUrl": "https://hernipreklady.cz",
   "localizations": [
     {
+      "title": "Directive 8020",
+      "studio": "HerníPřeklady",
+      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/directive-8020",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": null,
+      "updatedAt": null,
+      "requiredGameVersion": "Aktuální na Steamu",
+      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/directive-8020",
+      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
+      "authorsHtml": null,
+      "inDevelopment": true,
+      "size": null,
+      "mirrors": [],
+      "steamAppId": "2255370"
+    },
+    {
       "title": "Titanfall 2",
       "studio": "HerníPřeklady",
       "studioUrl": "https://hernipreklady.cz/seznam-prekladu/titanfall-2",
@@ -200,9 +222,9 @@
       "steamAppId": "867210"
     },
     {
-      "title": "Civilization VII",
+      "title": "Northgard",
       "studio": "HerníPřeklady",
-      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/civilization-vii",
+      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/northgard",
       "language": "Čeština",
       "hasText": true,
       "hasVoice": false,
@@ -210,22 +232,21 @@
       "hasNeuralVoice": false,
       "hasNeuralDub": false,
       "hasNeuralText": false,
-      "version": "1.07",
-      "updatedAt": null,
-      "requiredGameVersion": "1.4.1 (PC - Win)",
-      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/civilization-vii",
+      "version": "1.116",
+      "updatedAt": "25.03.2025",
+      "requiredGameVersion": "3.6.66.41153+",
+      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/northgard",
       "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
-      "authorsHtml": "<p><strong>Překlad:</strong> Jetro, Ralph Shepard, Coffin Corner, Sushi<br><strong>Korektura:</strong> Jetro<br><strong>Testování:</strong> Ralph Shepard, Andrewek, Jetro</p>",
+      "authorsHtml": "<p><strong>Překlad:</strong> Jetro, Arqwell<br><strong>Testování:</strong> Jetro</p>",
       "inDevelopment": false,
-      "size": "3.30 MB",
+      "size": "7.41 MB",
       "mirrors": [
         {
           "label": "HerníPřeklady",
-          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=585",
+          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=360",
           "kind": "direct"
         }
-      ],
-      "steamAppId": "1295660"
+      ]
     },
     {
       "title": "Shadow Gambit: The Cursed Crew Complete Edition",
@@ -282,28 +303,6 @@
         }
       ],
       "steamAppId": "738520"
-    },
-    {
-      "title": "Directive 8020",
-      "studio": "HerníPřeklady",
-      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/directive-8020",
-      "language": "Čeština",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": null,
-      "updatedAt": null,
-      "requiredGameVersion": "Aktuální na Steamu",
-      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/directive-8020",
-      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
-      "authorsHtml": null,
-      "inDevelopment": true,
-      "size": null,
-      "mirrors": [],
-      "steamAppId": "2255370"
     },
     {
       "title": "Evotinction",
@@ -985,6 +984,34 @@
         }
       ],
       "steamAppId": "361420"
+    },
+    {
+      "title": "Civilization VII",
+      "studio": "HerníPřeklady",
+      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/civilization-vii",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": "1.07",
+      "updatedAt": null,
+      "requiredGameVersion": "1.4.1 (PC - Win)",
+      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/civilization-vii",
+      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
+      "authorsHtml": "<p><strong>Překlad:</strong> Jetro, Ralph Shepard, Coffin Corner, Sushi<br><strong>Korektura:</strong> Jetro<br><strong>Testování:</strong> Ralph Shepard, Andrewek, Jetro</p>",
+      "inDevelopment": false,
+      "size": "3.30 MB",
+      "mirrors": [
+        {
+          "label": "HerníPřeklady",
+          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=585",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "1295660"
     },
     {
       "title": "SCP: Fragmented Minds",
@@ -2243,33 +2270,6 @@
         }
       ],
       "steamAppId": "2134770"
-    },
-    {
-      "title": "Northgard",
-      "studio": "HerníPřeklady",
-      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/northgard",
-      "language": "Čeština",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": "1.116",
-      "updatedAt": "25.03.2025",
-      "requiredGameVersion": "3.6.66.41153+",
-      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/northgard",
-      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
-      "authorsHtml": "<p><strong>Překlad:</strong> Jetro, Arqwell<br><strong>Testování:</strong> Jetro</p>",
-      "inDevelopment": false,
-      "size": "7.41 MB",
-      "mirrors": [
-        {
-          "label": "HerníPřeklady",
-          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=360",
-          "kind": "direct"
-        }
-      ]
     },
     {
       "title": "Red Matter",
