@@ -5,6 +5,40 @@
   "siteUrl": "https://boosty.to/revoice",
   "localizations": [
     {
+      "title": "Resynced",
+      "studio": "ReVoiceAI",
+      "studioUrl": "https://boosty.to/revoice",
+      "language": "Русский",
+      "hasText": false,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralText": false,
+      "hasNeuralDub": true,
+      "hasNeuralVoice": true,
+      "version": null,
+      "updatedAt": null,
+      "pageUrl": "https://boosty.to/revoice/posts/18261b82-bef6-425f-9f79-29425b5e3dd0",
+      "howToInstallHtml": "<p>Нейроозвучка от <strong>ReVoiceAI</strong>. Скачай через одно из зеркал выше (ShareMods — облако, PlayGround — их страница) и запусти <code>.exe</code>-установщик, указав путь к игре. Поддержать авторов можно на их <a href=\"https://boosty.to/revoice\">Boosty</a>.</p>",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "ShareMods (Дубляж Beta)",
+          "url": "https://sharemods.com/wbaj2wvp2xyi/Resynced_dub_beta.zip.html",
+          "kind": "other"
+        },
+        {
+          "label": "ShareMods (Закадр Beta)",
+          "url": "https://sharemods.com/in15pzlsjv1x/Resynced_voiceover_beta.zip.html",
+          "kind": "other"
+        },
+        {
+          "label": "Boosty (поддержать авторов)",
+          "url": "https://boosty.to/revoice/posts/18261b82-bef6-425f-9f79-29425b5e3dd0",
+          "kind": "other"
+        }
+      ]
+    },
+    {
       "steamAppId": "1283400",
       "title": "Steelrising",
       "studio": "ReVoiceAI",

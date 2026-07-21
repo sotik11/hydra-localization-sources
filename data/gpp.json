@@ -747,7 +747,6 @@
       ]
     },
     {
-      "steamAppId": "39670",
       "title": "Chaser",
       "studio": "Graj Po Polsku",
       "studioUrl": "https://grajpopolsku.pl",
@@ -2837,7 +2836,7 @@
       "mirrors": [
         {
           "label": "Graj Po Polsku",
-          "url": "https://grajpopolsku.pl/wp-content/uploads/download-manager-files/me2_geneza_compatibility_patch_spolszczenie_12.zip",
+          "url": "https://grajpopolsku.pl/?gppdl=786",
           "kind": "direct"
         }
       ]
@@ -3096,7 +3095,7 @@
       "mirrors": [
         {
           "label": "Graj Po Polsku",
-          "url": "https://grajpopolsku.pl/dwn/dwn2.0/pc/okami-hd-pl-v1.0.7z",
+          "url": "https://grajpopolsku.pl/?gppdl=1998",
           "kind": "direct"
         }
       ]
@@ -3873,6 +3872,7 @@
       ]
     },
     {
+      "steamAppId": "1887960",
       "title": "Shadow of Comet",
       "studio": "Graj Po Polsku",
       "studioUrl": "https://grajpopolsku.pl",
