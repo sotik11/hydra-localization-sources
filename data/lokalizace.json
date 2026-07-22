@@ -5,6 +5,62 @@
   "siteUrl": "https://lokalizace.net",
   "localizations": [
     {
+      "title": "The Legend of Kyrandia: Malcolm's Revenge - CZ dabing",
+      "studio": "Lokalizace.net",
+      "studioUrl": "https://lokalizace.net/localizations/the-legend-of-kyrandia-malcolm-s-revenge-cz-dabing",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": "1.0.0",
+      "updatedAt": "21.07.2026",
+      "pageUrl": "https://lokalizace.net/localizations/the-legend-of-kyrandia-malcolm-s-revenge-cz-dabing",
+      "howToInstallHtml": "<p>Stáhněte ZIP soubor a rozbalte ho do složky hry, nebo použijte aplikaci CZManager pro automatickou instalaci češtiny.</p>",
+      "changelogHtml": null,
+      "authorsHtml": "<p>RetroVoice AI</p>",
+      "size": "455.4 MB",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Lokalizace.net",
+          "url": "https://lokalizace.net/api/download/1700",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "1175830"
+    },
+    {
+      "title": "The Legend of Kyrandia: Hand Of Fate - CZ dabing",
+      "studio": "Lokalizace.net",
+      "studioUrl": "https://lokalizace.net/localizations/the-legend-of-kyrandia-the-hand-of-fate-cz-dabing",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": "1.0.0",
+      "updatedAt": "21.07.2026",
+      "pageUrl": "https://lokalizace.net/localizations/the-legend-of-kyrandia-the-hand-of-fate-cz-dabing",
+      "howToInstallHtml": "<p>Stáhněte ZIP soubor a rozbalte ho do složky hry, nebo použijte aplikaci CZManager pro automatickou instalaci češtiny.</p>",
+      "changelogHtml": null,
+      "authorsHtml": "<p>RetroVoice AI</p>",
+      "size": "213.2 MB",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Lokalizace.net",
+          "url": "https://lokalizace.net/api/download/1699",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "1175830"
+    },
+    {
       "title": "Mass Effect Legendary Edition",
       "studio": "Lokalizace.net",
       "studioUrl": "https://lokalizace.net/localizations/mass-effect-legendary-edition",
@@ -1029,7 +1085,7 @@
       "updatedAt": "20.06.2026",
       "pageUrl": "https://lokalizace.net/localizations/the-legend-of-kyrandia",
       "howToInstallHtml": "<p>Stáhněte ZIP soubor a rozbalte ho do složky hry, nebo použijte aplikaci CZManager pro automatickou instalaci češtiny.</p>",
-      "changelogHtml": "<div><p>Nahrána nová verze překladu: 1.0.0</p></div>",
+      "changelogHtml": null,
       "authorsHtml": "<p>RetroVoice AI</p>",
       "size": "35.2 MB",
       "inDevelopment": false,
@@ -6516,7 +6572,8 @@
           "url": "https://lokalizace.net/api/download/852",
           "kind": "direct"
         }
-      ]
+      ],
+      "steamAppId": "3765900"
     },
     {
       "title": "Art of Murder: The Secret Files",
@@ -13245,7 +13302,7 @@
           "kind": "other"
         }
       ],
-      "steamAppId": "3595230"
+      "steamAppId": "10180"
     },
     {
       "title": "Bioshock 2 - REMASTERED",
@@ -13612,8 +13669,7 @@
           "url": "https://lokalizace.net/api/download/353",
           "kind": "direct"
         }
-      ],
-      "steamAppId": "7670"
+      ]
     },
     {
       "title": "Furi",
@@ -13640,8 +13696,7 @@
           "url": "https://lokalizace.net/api/download/500",
           "kind": "direct"
         }
-      ],
-      "steamAppId": "423230"
+      ]
     },
     {
       "title": "AOD: Art Of Defense",
@@ -13696,8 +13751,7 @@
           "url": "https://lokalizace.net/api/download/336",
           "kind": "direct"
         }
-      ],
-      "steamAppId": "388210"
+      ]
     },
     {
       "title": "Star Wars Outlaws",
@@ -13752,8 +13806,7 @@
           "url": "https://lokalizace.net/api/download/333",
           "kind": "direct"
         }
-      ],
-      "steamAppId": "310510"
+      ]
     },
     {
       "title": "Beneath A Steel Sky",
@@ -13808,8 +13861,7 @@
           "url": "https://lokalizace.net/api/download/331",
           "kind": "direct"
         }
-      ],
-      "steamAppId": "2331330"
+      ]
     },
     {
       "title": "Thief Gold",
@@ -13841,8 +13893,7 @@
           "url": "https://lokalizace.net/api/download/328",
           "kind": "other"
         }
-      ],
-      "steamAppId": "239160"
+      ]
     },
     {
       "title": "The Almost Gone",
@@ -13869,8 +13920,7 @@
           "url": "https://lokalizace.net/api/download/326",
           "kind": "direct"
         }
-      ],
-      "steamAppId": "1115780"
+      ]
     },
     {
       "title": "Beyond Divinity",
@@ -13897,8 +13947,7 @@
           "url": "https://lokalizace.net/api/download/325",
           "kind": "direct"
         }
-      ],
-      "steamAppId": "219760"
+      ]
     },
     {
       "title": "Divine Divinity",
@@ -13981,8 +14030,7 @@
           "url": "https://lokalizace.net/api/download/648",
           "kind": "direct"
         }
-      ],
-      "steamAppId": "202710"
+      ]
     },
     {
       "title": "Deathloop",
@@ -14037,8 +14085,7 @@
           "url": "https://lokalizace.net/api/download/320",
           "kind": "direct"
         }
-      ],
-      "steamAppId": "288060"
+      ]
     },
     {
       "title": "Goetia",
@@ -14070,8 +14117,7 @@
           "url": "https://lokalizace.net/api/download/317",
           "kind": "other"
         }
-      ],
-      "steamAppId": "421740"
+      ]
     },
     {
       "title": "Cooking Simulator",
@@ -14230,8 +14276,7 @@
           "url": "https://lokalizace.net/api/download/305",
           "kind": "direct"
         }
-      ],
-      "steamAppId": "488790"
+      ]
     },
     {
       "title": "The Curse of Monkey Island",
@@ -14342,8 +14387,7 @@
           "url": "https://lokalizace.net/api/download/298",
           "kind": "direct"
         }
-      ],
-      "steamAppId": "1662480"
+      ]
     },
     {
       "title": "Return of the Obra Dinn",
@@ -14370,8 +14414,7 @@
           "url": "https://lokalizace.net/api/download/296",
           "kind": "direct"
         }
-      ],
-      "steamAppId": "653530"
+      ]
     },
     {
       "title": "The Chaos Engine",
@@ -14403,8 +14446,7 @@
           "url": "https://lokalizace.net/api/download/290",
           "kind": "other"
         }
-      ],
-      "steamAppId": "242530"
+      ]
     },
     {
       "title": "Gas Guzzlers Extreme",
@@ -14469,8 +14511,7 @@
           "url": "https://lokalizace.net/api/download/277",
           "kind": "other"
         }
-      ],
-      "steamAppId": "231160"
+      ]
     },
     {
       "title": "Flockers",
@@ -14525,8 +14566,7 @@
           "url": "https://lokalizace.net/api/download/275",
           "kind": "direct"
         }
-      ],
-      "steamAppId": "331510"
+      ]
     },
     {
       "title": "Echo",
@@ -14718,8 +14758,7 @@
           "url": "https://lokalizace.net/api/download/255",
           "kind": "direct"
         }
-      ],
-      "steamAppId": "243950"
+      ]
     },
     {
       "title": "OPENXCOM - COMMENDATIONS 3.3",
@@ -14848,8 +14887,7 @@
           "url": "https://lokalizace.net/api/download/240",
           "kind": "other"
         }
-      ],
-      "steamAppId": "223830"
+      ]
     },
     {
       "title": "FTL: FASTER THAN LIGHT",
@@ -14958,8 +14996,7 @@
           "url": "https://lokalizace.net/api/download/347",
           "kind": "direct"
         }
-      ],
-      "steamAppId": "385560"
+      ]
     },
     {
       "title": "Cloudpunk",
@@ -14986,8 +15023,7 @@
           "url": "https://lokalizace.net/api/download/236",
           "kind": "direct"
         }
-      ],
-      "steamAppId": "746850"
+      ]
     },
     {
       "title": "Retro Machina",
@@ -15014,8 +15050,7 @@
           "url": "https://lokalizace.net/api/download/244",
           "kind": "direct"
         }
-      ],
-      "steamAppId": "1127970"
+      ]
     },
     {
       "title": "Fallback",
@@ -15075,8 +15110,7 @@
           "url": "https://lokalizace.net/api/download/232",
           "kind": "other"
         }
-      ],
-      "steamAppId": "362620"
+      ]
     },
     {
       "title": "Eastshade",
@@ -15103,8 +15137,7 @@
           "url": "https://lokalizace.net/api/download/231",
           "kind": "direct"
         }
-      ],
-      "steamAppId": "715560"
+      ]
     },
     {
       "title": "Overland",
@@ -15169,8 +15202,7 @@
           "url": "https://lokalizace.net/api/download/302",
           "kind": "other"
         }
-      ],
-      "steamAppId": "1523650"
+      ]
     },
     {
       "title": "The Way",
@@ -15197,8 +15229,7 @@
           "url": "https://lokalizace.net/api/download/226",
           "kind": "direct"
         }
-      ],
-      "steamAppId": "311010"
+      ]
     },
     {
       "title": "Neon Abyss",
@@ -15280,8 +15311,7 @@
           "url": "https://lokalizace.net/api/download/222",
           "kind": "direct"
         }
-      ],
-      "steamAppId": "572430"
+      ]
     },
     {
       "title": "Laika: Aged Through Blood",
@@ -15336,8 +15366,7 @@
           "url": "https://lokalizace.net/api/download/220",
           "kind": "direct"
         }
-      ],
-      "steamAppId": "1585440"
+      ]
     },
     {
       "title": "Yonder: The Cloud Catcher Chronicles",
@@ -15447,7 +15476,8 @@
           "url": "https://lokalizace.net/api/download/216",
           "kind": "direct"
         }
-      ]
+      ],
+      "steamAppId": "600130"
     },
     {
       "title": "Dungeon of the ENDLESS",
@@ -15475,7 +15505,7 @@
           "kind": "direct"
         }
       ],
-      "steamAppId": "1183840"
+      "steamAppId": "249050"
     },
     {
       "title": "Life is Strange: Double Exposure",
@@ -15496,7 +15526,8 @@
       "authorsHtml": "<p>Spyker Tým</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": []
+      "mirrors": [],
+      "steamAppId": "1874000"
     },
     {
       "title": "The Coffin of Andy and LeyLey",
@@ -15523,8 +15554,7 @@
           "url": "https://lokalizace.net/api/download/613",
           "kind": "direct"
         }
-      ],
-      "steamAppId": "2378900"
+      ]
     },
     {
       "title": "Leisure Suit Larry 7: Love for Sail",
@@ -15606,7 +15636,8 @@
           "url": "https://lokalizace.net/api/download/210",
           "kind": "direct"
         }
-      ]
+      ],
+      "steamAppId": "435530"
     },
     {
       "title": "Party Hard",
@@ -15633,8 +15664,7 @@
           "url": "https://lokalizace.net/api/download/207",
           "kind": "direct"
         }
-      ],
-      "steamAppId": "356570"
+      ]
     },
     {
       "title": "Five Nights at Freddy's: Help Wanted",
@@ -15721,8 +15751,7 @@
           "url": "https://lokalizace.net/api/download/385",
           "kind": "direct"
         }
-      ],
-      "steamAppId": "1426010"
+      ]
     },
     {
       "title": "Volume",
@@ -15939,7 +15968,8 @@
           "url": "https://lokalizace.net/api/download/205",
           "kind": "direct"
         }
-      ]
+      ],
+      "steamAppId": "557340"
     },
     {
       "title": "Pillars of Eternity CE",
@@ -16173,7 +16203,8 @@
           "url": "https://lokalizace.net/api/download/185",
           "kind": "direct"
         }
-      ]
+      ],
+      "steamAppId": "344410"
     },
     {
       "title": "Divinity: Original Sin 2 Definitive Edition",
@@ -16352,7 +16383,8 @@
           "url": "https://lokalizace.net/api/download/900",
           "kind": "other"
         }
-      ]
+      ],
+      "steamAppId": "367520"
     },
     {
       "title": "MADiSON",
@@ -16379,8 +16411,7 @@
           "url": "https://lokalizace.net/api/download/163",
           "kind": "direct"
         }
-      ],
-      "steamAppId": "1670870"
+      ]
     },
     {
       "title": "Survival: Fountain of Youth",
@@ -16543,8 +16574,7 @@
           "url": "https://lokalizace.net/api/download/179",
           "kind": "direct"
         }
-      ],
-      "steamAppId": "212410"
+      ]
     },
     {
       "title": "Stellaris",
@@ -16743,7 +16773,8 @@
           "url": "https://lokalizace.net/api/download/146",
           "kind": "other"
         }
-      ]
+      ],
+      "steamAppId": "311310"
     },
     {
       "title": "The Walking Dead: The Telltale Definitive Series",
@@ -16959,8 +16990,7 @@
       "authorsHtml": "<p>Spyker Tým</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "330830"
+      "mirrors": []
     },
     {
       "title": "Game of Thrones",
@@ -16981,8 +17011,7 @@
       "authorsHtml": "<p>Spyker Tým</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "208730"
+      "mirrors": []
     },
     {
       "title": "Life is Strange: Remastered Collection",
@@ -17090,7 +17119,8 @@
       "authorsHtml": "<p>Spyker Tým</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": []
+      "mirrors": [],
+      "steamAppId": "239030"
     },
     {
       "title": "Mini Ninjas",
@@ -17132,8 +17162,7 @@
       "authorsHtml": "<p>Spyker Tým</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "368360"
+      "mirrors": []
     },
     {
       "title": "Brothers: A Tale of Two Sons",
@@ -17208,8 +17237,7 @@
           "url": "https://lokalizace.net/api/download/145",
           "kind": "other"
         }
-      ],
-      "steamAppId": "1063660"
+      ]
     },
     {
       "title": "Bendy and the Ink Machine",
@@ -17292,8 +17320,7 @@
           "url": "https://lokalizace.net/api/download/445",
           "kind": "direct"
         }
-      ],
-      "steamAppId": "241930"
+      ]
     },
     {
       "title": "Middle-earth: Shadow of War",
@@ -17320,7 +17347,8 @@
           "url": "https://lokalizace.net/api/download/387",
           "kind": "direct"
         }
-      ]
+      ],
+      "steamAppId": "356190"
     },
     {
       "title": "Metal Gear Solid V",
@@ -17374,7 +17402,8 @@
           "url": "https://lokalizace.net/api/download/593",
           "kind": "direct"
         }
-      ]
+      ],
+      "steamAppId": "540840"
     },
     {
       "title": "Spyro: Reignited Trilogy",
@@ -17429,8 +17458,7 @@
           "url": "https://lokalizace.net/api/download/137",
           "kind": "direct"
         }
-      ],
-      "steamAppId": "682990"
+      ]
     },
     {
       "title": "Hogwarts Legacy",
@@ -17567,8 +17595,7 @@
           "url": "https://lokalizace.net/api/download/130",
           "kind": "other"
         }
-      ],
-      "steamAppId": "403640"
+      ]
     },
     {
       "title": "Nier: Automata",
@@ -17595,7 +17622,8 @@
           "url": "https://lokalizace.net/api/download/572",
           "kind": "direct"
         }
-      ]
+      ],
+      "steamAppId": "524220"
     },
     {
       "title": "Dragon's Dogma: Dark Arisen",
@@ -17627,7 +17655,8 @@
           "url": "https://lokalizace.net/api/download/595",
           "kind": "other"
         }
-      ]
+      ],
+      "steamAppId": "367500"
     },
     {
       "title": "The Flame in the Flood",
@@ -17682,8 +17711,7 @@
           "url": "https://lokalizace.net/api/download/136",
           "kind": "direct"
         }
-      ],
-      "steamAppId": "241540"
+      ]
     },
     {
       "title": "Batman Akham Knight",
@@ -17764,8 +17792,7 @@
           "url": "https://lokalizace.net/api/download/127",
           "kind": "direct"
         }
-      ],
-      "steamAppId": "883710"
+      ]
     },
     {
       "title": "Quantum Break",
@@ -17867,8 +17894,7 @@
       "authorsHtml": "<p>ADV Dream</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "372570"
+      "mirrors": []
     },
     {
       "title": "A Stroke of Fate: Operation Valkyrie",
@@ -18020,8 +18046,7 @@
       "authorsHtml": "<p>ADV Dream</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "2769570"
+      "mirrors": []
     },
     {
       "title": "Firewatch",
@@ -18042,7 +18067,8 @@
       "authorsHtml": "<p>Lokalizace.Net</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": []
+      "mirrors": [],
+      "steamAppId": "383870"
     },
     {
       "title": "Yesterday Origins",
@@ -18129,7 +18155,7 @@
       "size": null,
       "inDevelopment": true,
       "mirrors": [],
-      "steamAppId": "3020"
+      "steamAppId": "204450"
     },
     {
       "title": "Everspace",
@@ -18150,8 +18176,7 @@
       "authorsHtml": "<p>Lokalizace.Net</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "396750"
+      "mirrors": []
     },
     {
       "title": "Darksiders 3",
@@ -18221,8 +18246,7 @@
       "authorsHtml": "<p>ADV Dream</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "765870"
+      "mirrors": []
     },
     {
       "title": "Leisure Suit Larry: Reloaded",
@@ -18285,7 +18309,8 @@
       "authorsHtml": "<p>ADV Dream</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": []
+      "mirrors": [],
+      "steamAppId": "400370"
     },
     {
       "title": "King's Quest Remastered",
@@ -18327,7 +18352,8 @@
       "authorsHtml": "<p>ADV Dream</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": []
+      "mirrors": [],
+      "steamAppId": "430410"
     },
     {
       "title": "Silence",
@@ -18348,8 +18374,7 @@
       "authorsHtml": "<p>ADV Dream</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "1361000"
+      "mirrors": []
     },
     {
       "title": "The Whispered World Special Edition",
@@ -18392,8 +18417,7 @@
       "authorsHtml": "<p>ADV Dream</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "314810"
+      "mirrors": []
     },
     {
       "title": "Haunted",
@@ -18456,7 +18480,8 @@
       "authorsHtml": "<p>ADV Dream</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": []
+      "mirrors": [],
+      "steamAppId": "1227530"
     },
     {
       "title": "1954 Alcatraz",
@@ -18542,7 +18567,8 @@
       "authorsHtml": "<p>Lokalizace.Net</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": []
+      "mirrors": [],
+      "steamAppId": "601430"
     },
     {
       "title": "Pharaoh: A New Era",
@@ -18591,7 +18617,8 @@
       "authorsHtml": "<p>ADV Dream</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": []
+      "mirrors": [],
+      "steamAppId": "242780"
     },
     {
       "title": "Heavy Rain",
@@ -18623,8 +18650,7 @@
           "url": "https://lokalizace.net/api/download/81",
           "kind": "other"
         }
-      ],
-      "steamAppId": "960910"
+      ]
     },
     {
       "title": "Stray",
@@ -18651,8 +18677,7 @@
           "url": "https://lokalizace.net/api/download/182",
           "kind": "direct"
         }
-      ],
-      "steamAppId": "1332010"
+      ]
     },
     {
       "title": "Dark Souls 3",
@@ -18673,8 +18698,7 @@
       "authorsHtml": "<p>Lokalizace.Net</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "374320"
+      "mirrors": []
     },
     {
       "title": "Kingdom Hearts 3",
@@ -18737,8 +18761,7 @@
       "authorsHtml": "<p>ADV Dream</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "292910"
+      "mirrors": []
     },
     {
       "title": "Deponia Doomsday",
@@ -18759,7 +18782,8 @@
       "authorsHtml": "<p>ADV Dream</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": []
+      "mirrors": [],
+      "steamAppId": "421050"
     },
     {
       "title": "Goodbye Deponia",
@@ -18780,8 +18804,7 @@
       "authorsHtml": "<p>ADV Dream</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "241910"
+      "mirrors": []
     },
     {
       "title": "Chaos on Deponia",
@@ -18873,7 +18896,8 @@
       "authorsHtml": "<p>ADV Dream</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": []
+      "mirrors": [],
+      "steamAppId": "368370"
     },
     {
       "title": "Dead mountaineer's hotel",
@@ -19002,7 +19026,8 @@
       "authorsHtml": "<p>Lokalizace.Net</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": []
+      "mirrors": [],
+      "steamAppId": "1146310"
     },
     {
       "title": "The Council",
@@ -19023,8 +19048,7 @@
       "authorsHtml": "<p>Lokalizace.Net</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "287630"
+      "mirrors": []
     },
     {
       "title": "Vampyr",
@@ -19163,8 +19187,7 @@
       "authorsHtml": "<p>ADV Dream</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "18480"
+      "mirrors": []
     },
     {
       "title": "The Rockin' Dead",
@@ -19398,8 +19421,7 @@
           "url": "https://lokalizace.net/api/download/314",
           "kind": "other"
         }
-      ],
-      "steamAppId": "2050650"
+      ]
     },
     {
       "title": "Red Dead Redemption 2",
@@ -19420,8 +19442,7 @@
       "authorsHtml": "<p>Lokalizace.Net</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "1174180"
+      "mirrors": []
     },
     {
       "title": "SpellForce 3",
@@ -19458,7 +19479,8 @@
           "url": "https://lokalizace.net/api/download/602",
           "kind": "other"
         }
-      ]
+      ],
+      "steamAppId": "795000"
     },
     {
       "title": "Grand Theft Auto V",
@@ -19571,7 +19593,8 @@
       "authorsHtml": "<p>ADV Dream</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": []
+      "mirrors": [],
+      "steamAppId": "1542390"
     },
     {
       "title": "Luto",
@@ -19613,29 +19636,8 @@
       "authorsHtml": "<p>Smile</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": []
-    },
-    {
-      "title": "Crow Country",
-      "studio": "Lokalizace.net",
-      "studioUrl": "https://lokalizace.net/localizations/crow-country",
-      "language": "Čeština",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": null,
-      "updatedAt": null,
-      "pageUrl": "https://lokalizace.net/localizations/crow-country",
-      "howToInstallHtml": "<p>Stáhněte ZIP soubor a rozbalte ho do složky hry, nebo použijte aplikaci CZManager pro automatickou instalaci češtiny.</p>",
-      "changelogHtml": null,
-      "authorsHtml": "<p>PERTIM CZ</p>",
-      "size": null,
-      "inDevelopment": true,
       "mirrors": [],
-      "steamAppId": "1996010"
+      "steamAppId": "2428980"
     },
     {
       "title": "PRIM",
@@ -19656,8 +19658,7 @@
       "authorsHtml": "<p>ADV Dream</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "1510470"
+      "mirrors": []
     },
     {
       "title": "The Joy of Creation DEMO",
@@ -19678,8 +19679,7 @@
       "authorsHtml": "<p>GamerView Translations</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "3107070"
+      "mirrors": []
     },
     {
       "title": "Dragon Age: Inquisition",
@@ -19700,8 +19700,7 @@
       "authorsHtml": "<p>Lokalizace.Net</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "1222690"
+      "mirrors": []
     },
     {
       "title": "Trigon: Space Story",
@@ -19766,7 +19765,8 @@
       "authorsHtml": "<p>HALU Studio</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": []
+      "mirrors": [],
+      "steamAppId": "1122340"
     },
     {
       "title": "Battlefield 6",
@@ -19787,8 +19787,7 @@
       "authorsHtml": "<p>Sumilek86</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "2807960"
+      "mirrors": []
     },
     {
       "title": "Atomfall",
@@ -19809,7 +19808,8 @@
       "authorsHtml": "<p>Lokalizace.Net</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": []
+      "mirrors": [],
+      "steamAppId": "801800"
     },
     {
       "title": "Alba: A Wildlife Advent",
@@ -19830,7 +19830,8 @@
       "authorsHtml": "<p>Lokalizace.Net</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": []
+      "mirrors": [],
+      "steamAppId": "1337010"
     },
     {
       "title": "METAL GEAR SOLID 2: Sons of Liberty - Master Collection - Steam",
@@ -19851,8 +19852,7 @@
       "authorsHtml": "<p>PERTIM CZ</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "2131640"
+      "mirrors": []
     },
     {
       "title": "FF7 Rebirth Demo PC & XBOX",
@@ -19916,8 +19916,7 @@
       "authorsHtml": "<p>HALU Studio</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "1658040"
+      "mirrors": []
     },
     {
       "title": "Final Fantasy 16 DEMO PC & XBOX",
@@ -20068,8 +20067,7 @@
       "authorsHtml": "<p>Spyker Tým</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "2624870"
+      "mirrors": []
     },
     {
       "title": "Final Fantasy XV (PC)",
@@ -20502,7 +20500,28 @@
       "size": null,
       "inDevelopment": true,
       "mirrors": [],
-      "steamAppId": "2909400"
+      "steamAppId": "3837340"
+    },
+    {
+      "title": "Plague Inc",
+      "studio": "Lokalizace.net",
+      "studioUrl": "https://lokalizace.net/localizations/plague-inc",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": null,
+      "updatedAt": null,
+      "pageUrl": "https://lokalizace.net/localizations/plague-inc",
+      "howToInstallHtml": "<p>Stáhněte ZIP soubor a rozbalte ho do složky hry, nebo použijte aplikaci CZManager pro automatickou instalaci češtiny.</p>",
+      "changelogHtml": "<div><p><strong>Nová verze 0.7.9</strong></p><p>Aktualizace překladu pro novou verzi hry.</p><p><strong>Nová verze 0.7.9</strong></p><p>Aktualizace překladu pro novou verzi hry.</p></div>",
+      "authorsHtml": "<p>MikeCZ</p>",
+      "size": null,
+      "inDevelopment": true,
+      "mirrors": []
     }
   ]
 }

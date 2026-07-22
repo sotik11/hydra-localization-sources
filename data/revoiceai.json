@@ -322,9 +322,9 @@
       "hasVoice": false,
       "hasTextures": false,
       "hasNeuralText": false,
-      "hasNeuralDub": false,
+      "hasNeuralDub": true,
       "hasNeuralVoice": true,
-      "version": null,
+      "version": "2.0",
       "updatedAt": null,
       "pageUrl": "https://www.playground.ru/assassins_creed_3_liberation/file/assassins_creed_liberation_hd_remastered_polnaya_ii_ozvuchka_dublyazh_i_zakadr-1844110",
       "howToInstallHtml": "<p>Нейроозвучка от <strong>ReVoiceAI</strong>. Скачай через одно из зеркал выше (ShareMods — облако, PlayGround — их страница) и запусти <code>.exe</code>-установщик, указав путь к игре. Поддержать авторов можно на их <a href=\"https://boosty.to/revoice\">Boosty</a>.</p>",
@@ -336,13 +336,23 @@
           "kind": "other"
         },
         {
-          "label": "MEGA (HD)",
-          "url": "https://mega.nz/file/GqB3SQrR#27U3-kd_WxZFOZqdD5MC-BnXUmfLdeQM27sRIA7zGvY",
+          "label": "ShareMods (HD Digital Edition Дубляж Matched)",
+          "url": "https://sharemods.com/qud9h6764xvq/Assassins_Creed_Liberation_HD_-_Digital_Edition_dub_matched.zip.html\n",
           "kind": "other"
         },
         {
-          "label": "ShareMods (HD)",
-          "url": "https://sharemods.com/lu8s28jr4lp0/Assassins_Creed_Liberation_HD.zip.html\n",
+          "label": "ShareMods (HD Digital Edition Закадр)",
+          "url": "https://sharemods.com/86yiojav3quy/Assassins_Creed_Liberation_HD_-_Digital_Edition_voiceover.zip.html\n",
+          "kind": "other"
+        },
+        {
+          "label": "ShareMods (Remastered Дубляж Matched)",
+          "url": "https://sharemods.com/hd9rfqvvjt93/Assassins_Creed_Liberation_-_Remastered_dub_matched.zip.html",
+          "kind": "other"
+        },
+        {
+          "label": "ShareMods (Remastered Закадр)",
+          "url": "https://sharemods.com/r3qwtptpogg0/Assassins_Creed_Liberation_-_Remastered_voiceover.zip.html",
           "kind": "other"
         },
         {
