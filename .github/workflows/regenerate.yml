@@ -45,6 +45,12 @@ jobs:
 
       - run: npm ci || npm install
 
+      # Entry counts before the run, so the notification can report what each
+      # source actually gained instead of a meaningless "N files changed".
+      - name: Snapshot source counts
+        if: ${{ github.event.inputs.source == '' }}
+        run: node .github/scripts/source-delta.mjs --snapshot data /tmp/counts-before.json
+
       - name: Regenerate (single source = no-commit block test; empty = full regen with guard)
         # Sources whose sites block GitHub's datacenter IPs are skipped here and
         # refreshed locally from a residential IP instead (see refresh_local.sh).
@@ -73,11 +79,15 @@ jobs:
             echo "No data changes."
             echo "changes=false" >> "$GITHUB_OUTPUT"
           else
-            SUMMARY=$(git diff --staged --stat data/ | tail -1)
+            SUMMARY=$(node .github/scripts/source-delta.mjs --report /tmp/counts-before.json data)
             git commit -m "data: scheduled regeneration [skip ci]"
             git push origin HEAD:stable
             echo "changes=true" >> "$GITHUB_OUTPUT"
-            echo "summary=${SUMMARY}" >> "$GITHUB_OUTPUT"
+            {
+              echo "summary<<SUMMARY_EOF"
+              echo "${SUMMARY}"
+              echo "SUMMARY_EOF"
+            } >> "$GITHUB_OUTPUT"
           fi
 
       - name: Telegram — OK notification
@@ -90,13 +100,14 @@ jobs:
           RUN_URL: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}
         run: |
           if [ "${CHANGES}" = "true" ]; then
-            TEXT=$'✅ *regenerate OK — data updated*\n\n'"${SUMMARY}"$'\n\nCommit pushed to `main`. [run]('"${RUN_URL}"$')'
+            TEXT=$'✅ *regenerate OK — данные обновлены*\n\n'"${SUMMARY}"$'\n\nЗапушено в `stable`. [run]('"${RUN_URL}"$')'
           else
-            TEXT=$'✅ *regenerate OK — no data changes*\n\nAll sources returned identical output. [run]('"${RUN_URL}"$')'
+            TEXT=$'✅ *regenerate OK — изменений нет*\n\nВсе источники вернули то же самое. [run]('"${RUN_URL}"$')'
           fi
           curl -s -X POST "https://api.telegram.org/bot${TOKEN}/sendMessage" \
             --data-urlencode "chat_id=${CHAT}" \
             --data-urlencode "parse_mode=Markdown" \
+            --data-urlencode "disable_web_page_preview=true" \
             --data-urlencode "text=${TEXT}"
 
       - name: Telegram — FAIL notification
@@ -110,4 +121,5 @@ jobs:
           curl -s -X POST "https://api.telegram.org/bot${TOKEN}/sendMessage" \
             --data-urlencode "chat_id=${CHAT}" \
             --data-urlencode "parse_mode=Markdown" \
+            --data-urlencode "disable_web_page_preview=true" \
             --data-urlencode "text=${TEXT}"
