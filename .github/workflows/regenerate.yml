@@ -100,13 +100,13 @@ jobs:
           RUN_URL: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}
         run: |
           if [ "${CHANGES}" = "true" ]; then
-            TEXT=$'✅ *regenerate OK — данные обновлены*\n\n'"${SUMMARY}"$'\n\nЗапушено в `stable`. [run]('"${RUN_URL}"$')'
+            TEXT=$'✅ <b>regenerate OK — данные обновлены</b>\n\n'"${SUMMARY}"$'\n\nЗапушено в <code>stable</code>. <a href="'"${RUN_URL}"$'">run</a>'
           else
-            TEXT=$'✅ *regenerate OK — изменений нет*\n\nВсе источники вернули то же самое. [run]('"${RUN_URL}"$')'
+            TEXT=$'✅ <b>regenerate OK — изменений нет</b>\n\nВсе источники вернули то же самое. <a href="'"${RUN_URL}"$'">run</a>'
           fi
           curl -s -X POST "https://api.telegram.org/bot${TOKEN}/sendMessage" \
             --data-urlencode "chat_id=${CHAT}" \
-            --data-urlencode "parse_mode=Markdown" \
+            --data-urlencode "parse_mode=HTML" \
             --data-urlencode "disable_web_page_preview=true" \
             --data-urlencode "text=${TEXT}"
 
@@ -117,9 +117,9 @@ jobs:
           CHAT: ${{ secrets.TELEGRAM_CHAT_ID }}
           RUN_URL: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}
         run: |
-          TEXT=$'⚠️ *regenerate workflow FAILED*\n\nRepo: `hydra-localization-sources`\n[run logs]('"${RUN_URL}"$')'
+          TEXT=$'⚠️ <b>regenerate workflow FAILED</b>\n\nRepo: <code>hydra-localization-sources</code>\n<a href="'"${RUN_URL}"$'">run logs</a>'
           curl -s -X POST "https://api.telegram.org/bot${TOKEN}/sendMessage" \
             --data-urlencode "chat_id=${CHAT}" \
-            --data-urlencode "parse_mode=Markdown" \
+            --data-urlencode "parse_mode=HTML" \
             --data-urlencode "disable_web_page_preview=true" \
             --data-urlencode "text=${TEXT}"

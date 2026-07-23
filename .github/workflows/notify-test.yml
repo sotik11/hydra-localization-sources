@@ -64,10 +64,10 @@ jobs:
           BACK: ${{ github.event.inputs.since }}
           RUN_URL: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}
         run: |
-          TEXT=$'\U0001F9EA *ТЕСТ уведомления* (данные настоящие: HEAD против HEAD~'"${BACK:-5}"$')\n\n✅ *regenerate OK — данные обновлены*\n\n'"${SUMMARY}"$'\n\nЗапушено в `stable`. [run]('"${RUN_URL}"$')'
+          TEXT=$'\U0001F9EA <b>ТЕСТ уведомления</b> (данные настоящие: HEAD против HEAD~'"${BACK:-5}"$')\n\n✅ <b>regenerate OK — данные обновлены</b>\n\n'"${SUMMARY}"$'\n\nЗапушено в <code>stable</code>. <a href="'"${RUN_URL}"$'">run</a>'
           curl -s -X POST "https://api.telegram.org/bot${TOKEN}/sendMessage" \
             --data-urlencode "chat_id=${CHAT}" \
-            --data-urlencode "parse_mode=Markdown" \
+            --data-urlencode "parse_mode=HTML" \
             --data-urlencode "disable_web_page_preview=true" \
             --data-urlencode "text=${TEXT}" \
             -o /tmp/tg.json -w "HTTP %{http_code}\n"
