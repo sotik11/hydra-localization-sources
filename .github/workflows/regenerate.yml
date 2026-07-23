@@ -31,7 +31,13 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 90
     steps:
+      # `stable` is the live feed the Hydra clients read
+      # (DEFAULT_SOURCES_FEED_BASE points at stable/data), so the regenerated
+      # data has to land there. `main` is the failsafe snapshot and is only
+      # written by failsafe-snapshot.yml (stable -> main).
       - uses: actions/checkout@v4
+        with:
+          ref: stable
 
       - uses: actions/setup-node@v4
         with:
@@ -69,7 +75,7 @@ jobs:
           else
             SUMMARY=$(git diff --staged --stat data/ | tail -1)
             git commit -m "data: scheduled regeneration [skip ci]"
-            git push
+            git push origin HEAD:stable
             echo "changes=true" >> "$GITHUB_OUTPUT"
             echo "summary=${SUMMARY}" >> "$GITHUB_OUTPUT"
           fi

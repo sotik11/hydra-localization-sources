@@ -30,8 +30,15 @@ echo "######## refresh_local $(date '+%Y-%m-%d %H:%M:%S %z') ########"
 notify "Hydra refresh — старт" "Обновляю: komunitni-preklady, magyaritasok, tribogamer…"
 
 # 1. Sync with the cloud cron's commits first, so the push at the end fast-forwards.
-echo "=== 1. git pull --rebase ==="
-if ! git pull --rebase origin main; then
+# Everything happens on `stable`: that is the live feed the Hydra clients read.
+# `main` is the failsafe snapshot, written only by failsafe-snapshot.yml.
+echo "=== 1. git checkout stable + pull --rebase ==="
+if ! git checkout stable; then
+  echo "  !! git checkout stable failed (dirty tree?) — aborting, will retry next run"
+  notify "Hydra refresh — ОШИБКА" "git checkout stable не прошёл (грязное дерево). Повтор в следующий запуск."
+  exit 1
+fi
+if ! git pull --rebase origin stable; then
   echo "  !! git pull --rebase failed (dirty tree or conflict) — aborting, will retry next run"
   git rebase --abort 2>/dev/null
   notify "Hydra refresh — ОШИБКА" "git pull --rebase не прошёл (конфликт/грязное дерево). Повтор в следующий запуск."
@@ -71,7 +78,7 @@ if git diff --staged --quiet; then
   echo "  no data changes — nothing to commit"
   STATUS="без изменений"
 else
-  if git commit -m "data: local refresh (komunitni-preklady / magyaritasok / tribogamer) [skip ci]" && git push origin main; then
+  if git commit -m "data: local refresh (komunitni-preklady / magyaritasok / tribogamer) [skip ci]" && git push origin HEAD:stable; then
     echo "  pushed"
     STATUS="запушено ✓"
   else
