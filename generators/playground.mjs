@@ -96,7 +96,11 @@ function typeFlags(slug, title) {
     ) || aiModel.test(s);
   const isText = (/tekst/.test(s) && !/tekstur/.test(s)) || /текст/.test(s);
   const isTextures = /tekstur|текстур/.test(s);
-  const isVoice = /ozvuch|озвуч|закадр/.test(s);
+  // "звук"/"голос" are as common as "озвучка" on PlayGround ("русификатор
+  // звука"); without them the entry matched no modality and fell back to text.
+  // "видео" is deliberately absent: it is ambiguous ("видеосубтитры" is text)
+  // and collides with real game names ("The Video Game", "The Videogame").
+  const isVoice = /ozvuch|озвуч|закадр|zvuk|звук|golos|голос/.test(s);
   const isDub = /dublyazh|dubljazh|dubl|дубляж/.test(s);
   const flags = {
     hasText: isText && !neuro,
