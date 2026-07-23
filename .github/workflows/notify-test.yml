@@ -1,0 +1,78 @@
+name: notify-test
+
+# Sends one sample regenerate notification to Telegram, using the real secrets
+# and the real message-building code, without regenerating anything.
+#
+# The token only exists as a GitHub Secret, so previewing a message locally is
+# impossible — this is the way to see what the bot will actually post.
+# The delta is real: current data/*.json compared against the same files at
+# `since` commits back, so the numbers are historical, not invented.
+
+on:
+  workflow_dispatch:
+    inputs:
+      since:
+        description: "Compare current data against this many commits back (default 5)"
+        required: false
+        default: "5"
+
+permissions:
+  contents: read
+
+jobs:
+  notify-test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: stable
+          fetch-depth: 0
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Build the sample delta
+        id: delta
+        env:
+          SINCE: ${{ github.event.inputs.since }}
+        run: |
+          BACK="${SINCE:-5}"
+          BASE="HEAD~${BACK}"
+          echo "Comparing HEAD against ${BASE}"
+
+          mkdir -p /tmp/base-data
+          git ls-tree -r --name-only "${BASE}" -- data/ | grep '\.json$' | while read -r f; do
+            mkdir -p "/tmp/base-data/$(dirname "$f")"
+            git show "${BASE}:$f" > "/tmp/base-data/$f"
+          done
+
+          node .github/scripts/source-delta.mjs --snapshot /tmp/base-data/data /tmp/counts-before.json
+          SUMMARY=$(node .github/scripts/source-delta.mjs --report /tmp/counts-before.json data)
+          echo "$SUMMARY"
+          {
+            echo "summary<<SUMMARY_EOF"
+            echo "${SUMMARY}"
+            echo "SUMMARY_EOF"
+          } >> "$GITHUB_OUTPUT"
+
+      - name: Telegram — sample notification
+        env:
+          TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          CHAT: ${{ secrets.TELEGRAM_CHAT_ID }}
+          SUMMARY: ${{ steps.delta.outputs.summary }}
+          BACK: ${{ github.event.inputs.since }}
+          RUN_URL: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}
+        run: |
+          TEXT=$'\U0001F9EA *ТЕСТ уведомления* (данные настоящие: HEAD против HEAD~'"${BACK:-5}"$')\n\n✅ *regenerate OK — данные обновлены*\n\n'"${SUMMARY}"$'\n\nЗапушено в `stable`. [run]('"${RUN_URL}"$')'
+          curl -s -X POST "https://api.telegram.org/bot${TOKEN}/sendMessage" \
+            --data-urlencode "chat_id=${CHAT}" \
+            --data-urlencode "parse_mode=Markdown" \
+            --data-urlencode "disable_web_page_preview=true" \
+            --data-urlencode "text=${TEXT}" \
+            -o /tmp/tg.json -w "HTTP %{http_code}\n"
+          node -e "
+            const r=JSON.parse(require('fs').readFileSync('/tmp/tg.json','utf8'));
+            if(!r.ok){console.error('Telegram error:', r.description||r); process.exit(1);}
+            console.log('Telegram OK, message_id =', r.result.message_id);
+          "
