@@ -5,6 +5,133 @@
   "siteUrl": "https://komunitni-preklady.org",
   "localizations": [
     {
+      "title": "ReStory Chill Electronics Repairs DEMO",
+      "studio": "Komunitní překlady",
+      "studioUrl": "https://komunitni-preklady.org/preklad/restory-chill-electronics-repairs-demo",
+      "language": "Čeština",
+      "hasText": false,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": true,
+      "version": null,
+      "updatedAt": "22.07.2026",
+      "requiredGameVersion": "16.6.2026",
+      "pageUrl": "https://komunitni-preklady.org/preklad/restory-chill-electronics-repairs-demo",
+      "howToInstallHtml": "<p>Každý překlad má vlastní postup instalace. Otevřete stránku překladu (tlačítko „Otevřít v prohlížeči“ níže) — najdete tam úplný návod k instalaci i tlačítko ke stažení.</p>",
+      "authorsHtml": "<p>Žižkovské Překlady</p>",
+      "size": null,
+      "inDevelopment": true,
+      "mirrors": [],
+      "steamAppId": "3812600"
+    },
+    {
+      "title": "Paw Patrol: On a Roll",
+      "studio": "Komunitní překlady",
+      "studioUrl": "https://komunitni-preklady.org/preklad/paw-patrol-on-a-roll",
+      "language": "Čeština",
+      "hasText": false,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": true,
+      "version": null,
+      "updatedAt": "22.07.2026",
+      "requiredGameVersion": null,
+      "pageUrl": "https://komunitni-preklady.org/preklad/paw-patrol-on-a-roll",
+      "howToInstallHtml": "<p>Každý překlad má vlastní postup instalace. Otevřete stránku překladu (tlačítko „Otevřít v prohlížeči“ níže) — najdete tam úplný návod k instalaci i tlačítko ke stažení.</p>",
+      "authorsHtml": "<p>Ruiner</p>",
+      "size": null,
+      "inDevelopment": true,
+      "mirrors": [],
+      "steamAppId": "758730"
+    },
+    {
+      "title": "Doom: The Dark Ages",
+      "studio": "Komunitní překlady",
+      "studioUrl": "https://komunitni-preklady.org/preklad/doom-the-dark-ages",
+      "language": "Čeština",
+      "hasText": false,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": true,
+      "version": "0.18",
+      "updatedAt": "22.07.2026",
+      "requiredGameVersion": "4.0 Revelations",
+      "pageUrl": "https://komunitni-preklady.org/preklad/doom-the-dark-ages",
+      "howToInstallHtml": "<p>Každý překlad má vlastní postup instalace. Otevřete stránku překladu (tlačítko „Otevřít v prohlížeči“ níže) — najdete tam úplný návod k instalaci i tlačítko ke stažení.</p>",
+      "authorsHtml": "<p>Lokalizační penetrátor</p>",
+      "size": "11.7 MB",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Komunitní překlady",
+          "url": "https://komunitni-preklady.org/download/324?sig=yE7G5MOFcU_h1FmdOgnWcA",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "3017860"
+    },
+    {
+      "title": "Cell to Singularity",
+      "studio": "Komunitní překlady",
+      "studioUrl": "https://komunitni-preklady.org/preklad/cell-to-singularity",
+      "language": "Čeština",
+      "hasText": false,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": true,
+      "version": "0.55",
+      "updatedAt": "21.07.2026",
+      "requiredGameVersion": "47_90",
+      "pageUrl": "https://komunitni-preklady.org/preklad/cell-to-singularity",
+      "howToInstallHtml": "<p>Každý překlad má vlastní postup instalace. Otevřete stránku překladu (tlačítko „Otevřít v prohlížeči“ níže) — najdete tam úplný návod k instalaci i tlačítko ke stažení.</p>",
+      "authorsHtml": "<p>GREG-RAY CZ</p>",
+      "size": "37.5 MB",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Komunitní překlady",
+          "url": "https://komunitni-preklady.org/download/871?sig=ermrIONzkYUlrGsLY6QF7Q",
+          "kind": "direct"
+        }
+      ]
+    },
+    {
+      "title": "Vortex: The Gateway",
+      "studio": "Komunitní překlady",
+      "studioUrl": "https://komunitni-preklady.org/preklad/vortex-the-gateway",
+      "language": "Čeština",
+      "hasText": false,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": true,
+      "version": "1.1",
+      "updatedAt": "20.07.2026",
+      "requiredGameVersion": "1.1522",
+      "pageUrl": "https://komunitni-preklady.org/preklad/vortex-the-gateway",
+      "howToInstallHtml": "<p>Každý překlad má vlastní postup instalace. Otevřete stránku překladu (tlačítko „Otevřít v prohlížeči“ níže) — najdete tam úplný návod k instalaci i tlačítko ke stažení.</p>",
+      "authorsHtml": "<p>Překlady z Masyafu</p>",
+      "size": "10.5 MB",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Komunitní překlady",
+          "url": "https://komunitni-preklady.org/download/872?sig=Mw-xlqLdpac9yKZPlxM4oQ",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "406170"
+    },
+    {
       "title": "The Precinct",
       "studio": "Komunitní překlady",
       "studioUrl": "https://komunitni-preklady.org/preklad/the-precinct",
@@ -3657,34 +3784,6 @@
         }
       ],
       "steamAppId": "668580"
-    },
-    {
-      "title": "Doom: The Dark Ages",
-      "studio": "Komunitní překlady",
-      "studioUrl": "https://komunitni-preklady.org/preklad/doom-the-dark-ages",
-      "language": "Čeština",
-      "hasText": false,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": true,
-      "version": "0.17",
-      "updatedAt": "19.04.2026",
-      "requiredGameVersion": "1.01",
-      "pageUrl": "https://komunitni-preklady.org/preklad/doom-the-dark-ages",
-      "howToInstallHtml": "<p>Každý překlad má vlastní postup instalace. Otevřete stránku překladu (tlačítko „Otevřít v prohlížeči“ níže) — najdete tam úplný návod k instalaci i tlačítko ke stažení.</p>",
-      "authorsHtml": "<p>Lokalizační penetrátor</p>",
-      "size": "5.70 MB",
-      "inDevelopment": false,
-      "mirrors": [
-        {
-          "label": "Komunitní překlady",
-          "url": "https://komunitni-preklady.org/download/324?sig=yE7G5MOFcU_h1FmdOgnWcA",
-          "kind": "direct"
-        }
-      ],
-      "steamAppId": "3017860"
     },
     {
       "title": "Restaurats",
@@ -8008,7 +8107,7 @@
           "kind": "direct"
         }
       ],
-      "steamAppId": "304240"
+      "steamAppId": "3764200"
     },
     {
       "title": "Quarantine Zone: The Last Check",
@@ -11010,7 +11109,7 @@
           "kind": "direct"
         }
       ],
-      "steamAppId": "2417610"
+      "steamAppId": "393360"
     },
     {
       "title": "Hell is Us",
@@ -13766,7 +13865,7 @@
           "kind": "direct"
         }
       ],
-      "steamAppId": "304240"
+      "steamAppId": "3764200"
     },
     {
       "title": "Everybody\\u0027s Gone to the Rapture",
@@ -15697,7 +15796,7 @@
           "kind": "direct"
         }
       ],
-      "steamAppId": "302080"
+      "steamAppId": "1366950"
     },
     {
       "title": "Codename Eagles",
@@ -16042,11 +16141,11 @@
       "hasNeuralDub": false,
       "hasNeuralText": true,
       "version": null,
-      "updatedAt": "19.07.2026",
+      "updatedAt": "22.07.2026",
       "requiredGameVersion": null,
       "pageUrl": "https://komunitni-preklady.org/preklad/divinity-ii-dragon-knight-saga-",
       "howToInstallHtml": "<p>Každý překlad má vlastní postup instalace. Otevřete stránku překladu (tlačítko „Otevřít v prohlížeči“ níže) — najdete tam úplný návod k instalaci i tlačítko ke stažení.</p>",
-      "authorsHtml": "<p>Sumilek86</p>",
+      "authorsHtml": "<p>Žižkovské Překlady</p>",
       "size": null,
       "inDevelopment": true,
       "mirrors": []
