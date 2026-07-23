@@ -173,39 +173,84 @@ function detectLanguage(slug, title) {
 
 /**
  * Strips the localization descriptor from the h1 to get the bare game name:
- *   `Starfield "Русификатор текста"`        -> Starfield   (quoted)
- *   `Batman: Arkham Origins. Нейросетевая…` -> Batman: Arkham Origins (". <desc>")
+ *   `Starfield "Русификатор текста"`                            -> Starfield
+ *   `Русификатор (текст + звук) Warhammer 40.000: Dawn of War`   -> Warhammer 40.000: Dawn of War
+ *   `FallOut 3: Полный русификатор (текст, звук)`                -> FallOut 3
+ *
+ * Rewritten after three defects were found in the previous version:
+ *   1. `\w` is [A-Za-z0-9_] in JS, so every Cyrillic stem written as
+ *      `Локализаци\w+` / `Полн\w+` never matched — those rules were dead code,
+ *      and "Локализация GTA: San Andreas" went through untouched.
+ *   2. The trailing-junk rule cut everything after ANY "+ ", so
+ *      "Русификатор (текст + звук) Warhammer…" collapsed to "(текст".
+ *   3. Rules ran once in a fixed order, but a descriptor can precede the
+ *      modality block ("Русификатор (звук) - для …"), so the leading strips
+ *      now repeat until the string stops changing.
  */
+const CYR = "[а-яё]"; // the `i` flag covers uppercase
+
+const TITLE_ADJ = `(?:полн${CYR}*|отличн${CYR}*|качественн${CYR}*|официальн${CYR}*|любительск${CYR}*|улучшенн${CYR}*|альтернативн${CYR}*|универсальн${CYR}*|профессиональн${CYR}*|машинн${CYR}*|нейросетев${CYR}*|нейро${CYR}*|народн${CYR}*|нов${CYR}*|стар${CYR}*|русск${CYR}*|адаптированн${CYR}*)`;
+const TITLE_NOUN = `(?:русификатор${CYR}*|русифікатор${CYR}*|русификаци${CYR}*|русифікаці${CYR}*|русик|локализаци${CYR}*|локалізаці${CYR}*|перевод${CYR}*|переклад${CYR}*|озвучк${CYR}*|дубляж${CYR}*|англофикатор${CYR}*)`;
+const TITLE_MOD = `(?:текста|текст|звука|звук|озвучки|озвучка|речи|видеороликов|видеосубтитр${CYR}*|видео|интерфейса|графики|текстур${CYR}*|субтитр${CYR}*)`;
+const TITLE_CONN = `(?:и|или|для|на|от|к|в|игры|игре|версии|версия|${TITLE_MOD}|${TITLE_ADJ})`;
+
+const titleRx = (body) => new RegExp(body, "i");
+
+const TITLE_LEADING = [
+  titleRx(`^(?:${TITLE_ADJ}\\s+)*${TITLE_NOUN}(?:\\s+${TITLE_CONN})*\\s+`),
+  titleRx(
+    `^\\(\\s*${TITLE_MOD}(?:\\s*[,/+]\\s*|\\s+и\\s+)?(?:${TITLE_MOD})?\\s*\\)\\s*[-–—:]?\\s*`
+  ),
+  titleRx(
+    `^${TITLE_MOD}(?:\\s*[,/+]\\s*|\\s+и\\s+)?(?:${TITLE_MOD})?\\s+(?:для|к|на|от)?\\s*`
+  ),
+  titleRx(`^(?:для|к|на|от|в)\\s+`),
+];
+
+const TITLE_TRAILING = [
+  titleRx(
+    `\\s*[.\\-—:,]\\s*(?:${TITLE_ADJ}\\s+)*(?:${TITLE_NOUN}|закадр${CYR}*|текстур${CYR}*)[\\s\\S]*$`
+  ),
+  titleRx(`\\s+(?:${TITLE_ADJ}\\s+)*${TITLE_NOUN}(?:\\s+${TITLE_CONN})*\\s*$`),
+  titleRx(`\\s*\\(\\s*${TITLE_MOD}(?:\\s*[,/+и]\\s*${TITLE_MOD})*\\s*\\)\\s*$`),
+  titleRx(`\\s*\\([^)]*(?:патч|фикс|шрифт|обновл${CYR}*|адаптац${CYR}*)[^)]*\\)\\s*$`),
+  titleRx(`\\s*\\*[^*]*\\*\\s*$`),
+  titleRx(`\\s*\\[[^\\]]*\\][\\s\\S]*$`),
+  // "+ Фикс" only — never a bare "+", which used to eat half the title.
+  titleRx(
+    `\\s*\\+\\s*(?:${TITLE_ADJ}\\s+)?(?:фикс|патч|исправлени${CYR}*|шрифт|обновлени${CYR}*)[\\s\\S]*$`
+  ),
+  titleRx(`\\s*и\\s+(?:патч|фикс|исправлени${CYR}*)[\\s\\S]*$`),
+  titleRx(`\\s*,?\\s*верси${CYR}*\\s+перевод${CYR}*[\\s\\S]*$`),
+  titleRx(`\\s*,?\\s*верси${CYR}*\\s+v?\\d[\\d.]*[\\s\\S]*$`),
+  titleRx(`\\s*\\([^)]*от\\s+\\d{1,2}\\.\\d{1,2}\\.\\d{2,4}[^)]*\\)\\s*$`),
+  titleRx(`\\s*\\(\\s*v\\d[\\d.]*\\s*\\)\\s*$`),
+  titleRx(`\\s+от\\s+[^,()]{2,40}$`),
+  titleRx(`\\s+v\\.?\\d+(?:\\.\\d+)*\\s*$`),
+  // A bare trailing "2.0" is deliberately kept: it cannot be told apart from
+  // part of a name ("DiRT Rally 2.0"), and a wrong Steam match is worse than a
+  // missing one. Same for a trailing "(2005)", which disambiguates releases.
+];
+
+function applyTitleRules(t, rules, max = 6) {
+  for (let i = 0; i < max; i++) {
+    const before = t;
+    for (const re of rules) t = t.replace(re, "").trim();
+    if (t === before) break;
+  }
+  return t;
+}
+
 function cleanTitle(h1, slug) {
   let t = h1.replace(/\s+/g, " ").trim();
   t = t.replace(/\{[^}]*\}/g, " ").trim(); // drop author tag {SynthVoiceRu}
+  // PlayGround writes `Game "Descriptor"` and the descriptor can open with
+  // anything ("Сборка…", "Гибридный-дубляж…"), so cut at the first quote.
   t = t.split(/["«]/)[0].trim();
-  // Leading descriptor: "Русификатор [текста и озвучки] <Game>".
-  t = t
-    .replace(
-      /^(?:Русификатор|Русифікатор|Русик|Локализаци\w+|Локалізаці\w+|Перевод|Переклад|Нейроперевод|Нейроозвучк\w+|Озвучк\w+|Дубляж)(?:\s+(?:текста|озвучки|звука|речи|и|интерфейса|графики|текстур|полн\w+|русск\w+|для|на|от))*\s+/i,
-      ""
-    )
-    .trim();
-  // Trailing descriptor after ". / - / :".
-  // "Русификация" / "Русифікація" are the noun-forms that slipped past the
-  // stem list above — added explicitly.
-  t = t
-    .replace(
-      /\s*[.\-—:]\s*(?:Русификатор|Русифікатор|Русификаци\w+|Русифікаці\w+|Локализац|Перевод|Нейро|Озвуч|Дубляж|Закадр|Текстур|Машинн|Полная локал|Любительск)[\s\S]*$/i,
-      ""
-    )
-    .trim();
-  // Trailing junk: "+ Фикс", "и патч…", "[Steam]…", "[vX]".
-  t = t
-    .replace(/\s*(?:[+]\s[\s\S]*|и\s+(?:патч|фикс|исправлени)\w*[\s\S]*|\[[^\]]*\][\s\S]*)$/i, "")
-    .trim();
-  // If the quote-split or trailing-junk stripping above cut inside a
-  // parenthetical (e.g. "Dragon Age: Origins (+ Awakening, + DLC)" -> the
-  // "+ Awakening..." gets stripped and we're left with a dangling "("),
-  // drop the dangling open bracket at the very end. Must run AFTER trailing
-  // junk so it can catch the newly-exposed bracket.
-  t = t.replace(/\s*[\(\[\{]\s*$/, "").trim();
+  t = applyTitleRules(t, TITLE_LEADING);
+  t = applyTitleRules(t, TITLE_TRAILING);
+  t = t.replace(/\s*[([{]\s*$/, "").trim(); // dangling opener
+  t = t.replace(/\s*[-–—:,]\s*$/, "").trim(); // dangling separator
   return t || slug;
 }
 
