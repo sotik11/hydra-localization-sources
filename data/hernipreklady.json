@@ -222,6 +222,56 @@
       "steamAppId": "1783560"
     },
     {
+      "title": "Millennia",
+      "studio": "HerníPřeklady",
+      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/millennia",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": "0.0",
+      "updatedAt": null,
+      "requiredGameVersion": "1.0.23641.F",
+      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/millennia",
+      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
+      "authorsHtml": "<p><strong>Překlad:</strong> Ralph Shepard<br><strong>Technika:</strong> Flu, Luc2as</p>",
+      "inDevelopment": true,
+      "size": null,
+      "mirrors": [],
+      "steamAppId": "1268590"
+    },
+    {
+      "title": "Voidtrain",
+      "studio": "HerníPřeklady",
+      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/voidtrain",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": null,
+      "updatedAt": "28.02.2026",
+      "requiredGameVersion": "1.05",
+      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/voidtrain",
+      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
+      "authorsHtml": "<p><strong>Překlad a testování:</strong> Andrewek</p>",
+      "inDevelopment": false,
+      "size": "2.26 MB",
+      "mirrors": [
+        {
+          "label": "HerníPřeklady",
+          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=533",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "1159690"
+    },
+    {
       "title": "Northgard",
       "studio": "HerníPřeklady",
       "studioUrl": "https://hernipreklady.cz/seznam-prekladu/northgard",
@@ -275,34 +325,6 @@
         }
       ],
       "steamAppId": "1545560"
-    },
-    {
-      "title": "Songs of Conquest",
-      "studio": "HerníPřeklady",
-      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/songs-of-conquest",
-      "language": "Čeština",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": "1.54",
-      "updatedAt": null,
-      "requiredGameVersion": "1.10.4",
-      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/songs-of-conquest",
-      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
-      "authorsHtml": "<p><strong>Překlad:</strong> Jetro<br><strong>Testování:</strong> Jetro, Paras</p>",
-      "inDevelopment": false,
-      "size": "41.4 MB",
-      "mirrors": [
-        {
-          "label": "HerníPřeklady",
-          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=587",
-          "kind": "direct"
-        }
-      ],
-      "steamAppId": "867210"
     },
     {
       "title": "Evotinction",
@@ -710,28 +732,6 @@
       "size": null,
       "mirrors": [],
       "steamAppId": "1649080"
-    },
-    {
-      "title": "Millennia",
-      "studio": "HerníPřeklady",
-      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/millennia",
-      "language": "Čeština",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": "0.0",
-      "updatedAt": null,
-      "requiredGameVersion": "1.0.23641.F",
-      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/millennia",
-      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
-      "authorsHtml": "<p><strong>Překlad:</strong> Ralph Shepard<br><strong>Technika:</strong> Flu, Luc2as</p>",
-      "inDevelopment": true,
-      "size": null,
-      "mirrors": [],
-      "steamAppId": "1268590"
     },
     {
       "title": "Cronos: The New Dawn",
@@ -1853,34 +1853,6 @@
       "steamAppId": "1493640"
     },
     {
-      "title": "Voidtrain",
-      "studio": "HerníPřeklady",
-      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/voidtrain",
-      "language": "Čeština",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": null,
-      "updatedAt": "28.02.2026",
-      "requiredGameVersion": "1.05",
-      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/voidtrain",
-      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
-      "authorsHtml": "<p><strong>Překlad a testování:</strong> Andrewek</p>",
-      "inDevelopment": false,
-      "size": "2.26 MB",
-      "mirrors": [
-        {
-          "label": "HerníPřeklady",
-          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=533",
-          "kind": "direct"
-        }
-      ],
-      "steamAppId": "1159690"
-    },
-    {
       "title": "RoboCop: Rogue City",
       "studio": "HerníPřeklady",
       "studioUrl": "https://hernipreklady.cz/seznam-prekladu/robocop-rogue-city",
@@ -2018,6 +1990,34 @@
         }
       ],
       "steamAppId": "1229020"
+    },
+    {
+      "title": "Songs of Conquest",
+      "studio": "HerníPřeklady",
+      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/songs-of-conquest",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": "1.54",
+      "updatedAt": null,
+      "requiredGameVersion": "1.10.4",
+      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/songs-of-conquest",
+      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
+      "authorsHtml": "<p><strong>Překlad:</strong> Jetro<br><strong>Testování:</strong> Jetro, Paras</p>",
+      "inDevelopment": false,
+      "size": "41.4 MB",
+      "mirrors": [
+        {
+          "label": "HerníPřeklady",
+          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=587",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "867210"
     },
     {
       "title": "New Tales from the Borderlands",
