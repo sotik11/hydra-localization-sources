@@ -842,6 +842,33 @@
       "steamAppId": "860510"
     },
     {
+      "title": "GRIME",
+      "studio": "Calypso Çeviri",
+      "studioUrl": "https://www.calypsoceviri.com",
+      "language": "Türkçe",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": "1",
+      "updatedAt": "23.06.2026",
+      "pageUrl": "https://www.calypsoceviri.com/turkce-yamalar/grime-turkce-yama-indir",
+      "howToInstallHtml": "<div>Aşağıda vermiş olduğumuz linkten indirdiğiniz Rar dosyasındaki Türkçe Yama exesini, oyunun kurulu olduğu ana dosya konumuna atarak, Türkçe yama exesini çalıştırın. Oyunun ana dosya konumunun seçili olduğunu kontrol ettikten sonra, hangi platformdan oynuyorsanız, o platformun yükle butonuna basarak yamayı yükleyebilirsiniz. <br><br>Yamayı kaldırmak için oyunun dosyalarını doğrulamanız gerekiyor.</div>",
+      "authorsHtml": "<p>Bugzade</p>",
+      "size": "33.8 MB",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Calypso Çeviri",
+          "url": "https://www.calypsoceviri.com/_files/archives/7d262d_fb87802f71854da787dbcb447cb0d451.rar?dn=GRIME%2520T%25C3%25BCrk%25C3%25A7e%2520Yama%2520V1.rar",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "1123050"
+    },
+    {
       "title": "Little Nightmares",
       "studio": "Calypso Çeviri",
       "studioUrl": "https://www.calypsoceviri.com",
