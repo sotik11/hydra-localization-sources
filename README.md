@@ -1,27 +1,27 @@
 # hydra-localization-sources
 
-Генераторы, собирающие JSON-фиды (формат `LocalizationFile`) для фан-локализаций
-в [форке Hydra](https://github.com/sotik11/hydra). Каждый источник — модуль в
-`generators/`, вывод — `data/<src>.json`, который раздаётся как сырой файл
-(`raw.githubusercontent.com/.../data/<src>.json`) и добавляется в Hydra как
-источник локализаций.
+Генератори, що збирають JSON-фіди (формат `LocalizationFile`) для фан-локалізацій
+у [форку Hydra](https://github.com/sotik11/hydra). Кожне джерело — модуль у
+`generators/`, вивід — `data/<src>.json`, який роздається як сирий файл
+(`raw.githubusercontent.com/.../data/<src>.json`) і додається в Hydra як
+джерело локалізацій.
 
 ## Запуск
 
 ```bash
 npm install
-node generators/<src>.mjs        # один источник
-bash regen_all.sh                # все: снапшот -> реген по порядку -> авто-откат при деградации
+node generators/<src>.mjs        # одне джерело
+bash regen_all.sh                # усі: снапшот → реген за порядком → авто-відкат при деградації
 ```
 
-`regen_all.sh` сначала копирует каждую базу в `data/*.json.backup`, прогоняет
-генераторы в порядке зависимостей (`revoiceai → playground → synthvoiceru`,
-остальные после) и, если источник вернулся < 50 % от бэкапа, **восстанавливает
-бэкап** — куцый/заблокированный прогон не затирает хорошие данные.
+`regen_all.sh` спочатку копіює кожну базу в `data/*.json.backup`, проганяє
+генератори за порядком залежностей (`revoiceai → playground → synthvoiceru`,
+решта потім) і, якщо джерело повернулося < 50 % від бекапу, **відновлює бекап** —
+куций/заблокований прогін не затирає добрі дані.
 
-## Источники (14)
+## Джерела (14)
 
-| источник | сайт | язык | заметка |
+| джерело | сайт | мова | нотатка |
 |---|---|---|---|
 | playground | playground.ru | 🇷🇺 | агрегатор, browser-only |
 | magyaritasok | magyaritasok.hu | 🇭🇺 | агрегатор, direct |
@@ -32,78 +32,74 @@ bash regen_all.sh                # все: снапшот -> реген по п�
 | tribogamer | tribogamer.com | 🇧🇷 | агрегатор, direct (Cloudflare) |
 | gpp | grajpopolsku.pl | 🇵🇱 | агрегатор, direct |
 | hernipreklady | hernipreklady.cz | 🇨🇿 | агрегатор, direct |
-| mvo | rgmvo.ru | 🇷🇺 | студия, cloud |
-| synthvoiceru | boosty.to/synthvoiceru | 🇷🇺 | нейро-студия |
-| revoiceai | boosty.to/revoice | 🇷🇺 | нейро-студия |
+| mvo | rgmvo.ru | 🇷🇺 | студія, cloud |
+| synthvoiceru | boosty.to/synthvoiceru | 🇷🇺 | нейро-студія |
+| revoiceai | boosty.to/revoice | 🇷🇺 | нейро-студія |
 | turkce-yama | turkce-yama.com | 🇹🇷 | агрегатор, browser-only (Cloudflare) |
-| calypsoceviri | calypsoceviri.com | 🇹🇷 | студия, direct (Cloudflare) |
+| calypsoceviri | calypsoceviri.com | 🇹🇷 | студія, direct (Cloudflare) |
 
-Общий сетевой слой — `lib/net.mjs` (ретраи + бэкофф на 429/5xx, пул,
-`getTextCurl` для Cloudflare-сайтов, `formatBytes`/`normalizeSize`).
+Спільний мережевий шар — `lib/net.mjs` (ретраї + бекоф на 429/5xx, пул,
+`getTextCurl` для Cloudflare-сайтів, `formatBytes`/`normalizeSize`).
 
-## Автообновление
+## Автооновлення
 
-`.github/workflows/regenerate.yml` — cron (раз в сутки) прогоняет всё и коммитит
-свежие данные. **Оговорка:** часть сайтов блокирует дата-центровые IP GitHub —
-по факту прогона 2026-06-29 не обновляются с раннера `tribogamer`,
-`komunitni-preklady` и `magyaritasok` (отдают 403 / блок-страницу). Для них
-срабатывает degradation-guard (остаются последние хорошие данные), а полный
-рефреш делается локально с residential IP. Примечательно: два Cloudflare-сайта
-`turkce-yama` и `calypsoceviri` через `getTextCurl` (системный curl + Schannel)
-с раннера **проходят** — то есть дело не столько в Cloudflare как таковом,
-сколько в политике конкретного сайта к IP/фингерпринту.
+`.github/workflows/regenerate.yml` — cron (раз на добу) проганяє все й комітить
+свіжі дані. Частина сайтів блокує дата-центрові IP GitHub — для них повний рефреш
+робиться локально (див. нижче).
 
-## Локальный авто-рефреш заблокированных источников
+<details>
+<summary>Деталі про блокування IP</summary>
 
-Три источника — `komunitni-preklady`, `magyaritasok`, `tribogamer` — режутся по
-**дата-центровому IP GitHub** (подтверждено 2026-06-29: на раннере `0`, с домашнего
-IP полные счётчики). Блок именно по IP, не по TLS-фингерпринту: `getTextCurl` на
-раннере для них тоже даёт `0`. Поэтому их обновляет локально, с residential-IP:
+За прогоном 2026-06-29 з раннера не оновлюються `tribogamer`,
+`komunitni-preklady` й `magyaritasok` (віддають 403 / блок-сторінку). Для них
+спрацьовує degradation-guard (лишаються останні добрі дані), а повний рефреш
+робиться локально з residential IP. Прикметно: два Cloudflare-сайти `turkce-yama`
+й `calypsoceviri` через `getTextCurl` (системний curl + Schannel) з раннера
+**проходять** — тобто річ не стільки в Cloudflare як такому, скільки в політиці
+конкретного сайту до IP/фінгерпринту.
+
+</details>
+
+## Локальний авто-рефреш заблокованих джерел
+
+Три джерела — `komunitni-preklady`, `magyaritasok`, `tribogamer` — ріжуться за
+**дата-центровим IP GitHub** (підтверджено 2026-06-29: на раннері `0`, з домашнього
+IP — повні лічильники; блок саме за IP, не за TLS-фінгерпринтом — `getTextCurl` на
+раннері для них теж дає `0`). Тому їх оновлює локально, з residential-IP:
 
 ```bash
-bash refresh_local.sh   # pull --rebase -> реген 3 -> degradation guard -> commit/push только этих 3
+bash refresh_local.sh   # pull --rebase → реген 3 → degradation guard → commit/push лише цих 3
 ```
 
-- логика та же, что в `regen_all.sh` (снапшот + откат при деградации < 50 %);
-- весь вывод дублируется в `refresh_local.log` (gitignored);
-- старт и финиш (со счётчиками по источникам) уходят в **Windows-тосты** через
-  `notify.ps1` (встроенный WinRT `ToastNotificationManager`, без сторонних модулей;
-  запускается через `powershell.exe` 5.1);
-- эталонные счётчики: **komunitni 619, magyaritasok 2050, tribogamer 475** (полный
-  прогон ~26 мин, magyaritasok самый долгий);
-- `*.sh` залочены на LF через `.gitattributes` — иначе CRLF-checkout ломает bash задачи.
+<details>
+<summary>Деталі, розклад (Task Scheduler) та поведінка догону</summary>
 
-### Запуск по расписанию (Windows Task Scheduler)
+- логіка та сама, що в `regen_all.sh` (снапшот + відкат при деградації < 50 %);
+- увесь вивід дублюється у `refresh_local.log` (gitignored);
+- старт і фініш (з лічильниками за джерелами) ідуть у **Windows-тости** через
+  `notify.ps1` (вбудований WinRT `ToastNotificationManager`, без сторонніх
+  модулів; запускається через `powershell.exe` 5.1);
+- еталонні лічильники: **komunitni 619, magyaritasok 2050, tribogamer 475**
+  (повний прогін ~26 хв, magyaritasok найдовший);
+- `*.sh` залочені на LF через `.gitattributes` — інакше CRLF-checkout ламає
+  bash-задачі.
 
-Задача **«Hydra localization refresh»**: ежедневно **15:00 локального времени**
-(следует за зима/лето), `LogonType Interactive` (только когда залогинен, без пароля),
-лимит 1 ч, `StartWhenAvailable=True`, ограничения по батарее сняты. Действие —
-`bash.exe -lc "/c/temp/claude/hydra-localization-sources/refresh_local.sh"`.
+**Розклад (Windows Task Scheduler).** Задача **«Hydra localization refresh»**:
+щодня **15:00 локального часу** (слідує за зима/літо), `LogonType Interactive`
+(лише коли залогінений, без пароля), ліміт 1 год, `StartWhenAvailable=True`,
+обмеження за батареєю зняті. Дія — `bash.exe -lc ".../refresh_local.sh"`.
+Перевірити прогін: `Get-ScheduledTaskInfo -TaskName 'Hydra localization refresh'`
+(`LastRunTime` / `LastTaskResult`, 0 = успіх) + хвіст `refresh_local.log`.
 
-Проверить прогон: `Get-ScheduledTaskInfo -TaskName 'Hydra localization refresh'`
-(`LastRunTime` / `LastTaskResult`, 0 = успех) + хвост `refresh_local.log`.
+**Як догоняє пропуски.** `StartWhenAvailable=True` — це і є «догін пропущеного»:
+пропущений тригер 15:00 не втрачається, задача підхопить його після входу в
+систему (зазвичай ~1–10 хв після логіну). Якщо о 15:00 комп **спить** — будити
+не буде (`WakeToRun=False`), відпрацює, коли прокинешся й залогінишся. Якщо комп
+не вмикався 2 тижні — жодного «накопичення»: догоняється **лише останній
+пропущений день**, один прогін при поверненні, далі звичайний розклад 15:00.
+Увесь цей час 3 джерела стоять на останніх добрих даних, хмарний крон тримає
+решту 11 свіжими, а guard гарантує, що фід не ламається. (Дефолтні обмеження
+Windows `DisallowStartIfOnBatteries` / `StopIfGoingOnBatteries` зняті — прогін
+іде незалежно від того, ноут на мережі чи на батареї.)
 
-### Поведение расписания (как оно догоняет пропуски)
-
-**Включил комп после 15:00 (например, в 20:00) — отработает в тот день?**
-Да. `StartWhenAvailable=True` — это и есть «догон пропущенного». Пропущенный триггер
-15:00 не теряется: как войдёшь в систему, задача его подхватит и отработает тем же
-вечером.
-
-**Как быстро после старта?**
-Считается не «после включения», а **после входа в систему** (задача «только когда
-залогинен»). Windows запускает пропущенные задачи не мгновенно, а с небольшой
-пачечной задержкой — обычно **в пределах ~1–10 минут после входа**. Если ты уже за
-компом до 15:00 и не выключаешься — стартует ровно в 15:00. Если комп не выключен, а
-**спит** в 15:00 — будить его задача не будет (`WakeToRun=False`), отработает, когда
-проснётся и залогинишься.
-
-**Комп не включался 2 недели?**
-Никакого «накопления» и пачки прогонов разом. У ежедневного триггера догоняется
-**только последний пропущенный день** — один прогон при возвращении (те же ~1–10 мин
-после входа), дальше обычное расписание 15:00. Всё это время 3 источника стоят на
-последних хороших данных, облачный крон держит остальные 11 свежими, а guard
-гарантирует, что фид не ломается.
-
-(Дефолтные ограничения Windows `DisallowStartIfOnBatteries` / `StopIfGoingOnBatteries`
-сняты — прогон идёт независимо от того, на сети ноут или на батарее.)
+</details>
