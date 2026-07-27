@@ -14224,15 +14224,21 @@
       "hasNeuralVoice": false,
       "hasNeuralDub": false,
       "hasNeuralText": false,
-      "version": null,
-      "updatedAt": null,
+      "version": "7.4.1",
+      "updatedAt": "26.07.2026",
       "pageUrl": "https://lokalizace.net/localizations/cooking-simulator",
       "howToInstallHtml": "<p>Stáhněte ZIP soubor a rozbalte ho do složky hry, nebo použijte aplikaci CZManager pro automatickou instalaci češtiny.</p>",
-      "changelogHtml": "<div>Nahrána nová verze překladu: 7.4.0</div>",
+      "changelogHtml": "<div>Nahrána nová verze překladu: 7.4.1Nahrána nová verze překladu: 7.4.0</div>",
       "authorsHtml": "<p>PrekladyWoytman</p>",
-      "size": null,
-      "inDevelopment": true,
-      "mirrors": [],
+      "size": "12.5 MB",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Lokalizace.net",
+          "url": "https://lokalizace.net/api/download/1711",
+          "kind": "direct"
+        }
+      ],
       "steamAppId": "641320"
     },
     {

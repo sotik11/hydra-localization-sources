@@ -274,9 +274,36 @@
       "steamAppId": "391540"
     },
     {
-      "title": "Far Cry 3",
+      "title": "Far Cry 4",
       "studio": "Türkçe Yama",
-      "studioUrl": "https://turkce-yama.com/far-cry-3-turkce-yama.htm",
+      "studioUrl": "https://turkce-yama.com/far-cry-4-turkce-yama.htm",
+      "language": "Türkçe",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": null,
+      "updatedAt": "10.06.2018",
+      "pageUrl": "https://turkce-yama.com/far-cry-4-turkce-yama.htm",
+      "howToInstallHtml": "<ol><li>Yama dosyasını yukarıdaki «İndir» butonuyla indirin.</li><li>Kurulum dosyasıysa (.exe) çalıştırın; arşivse (.rar/.zip) çıkartın.</li><li>Oyunun kurulu olduğu klasörü gösterin / dosyaları oraya kopyalayın.</li><li>Oyunu başlatın — Türkçe yama uygulanmış olacaktır.</li></ol>",
+      "authorsHtml": null,
+      "size": "658.3 MB",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Türkçe Yama",
+          "url": "https://turkce-yama.com/far-cry-4-turkce-yama.htm",
+          "kind": "other"
+        }
+      ],
+      "steamAppId": "298110"
+    },
+    {
+      "title": "Mafia 2",
+      "studio": "Türkçe Yama",
+      "studioUrl": "https://turkce-yama.com/mafia-2-turkce-yama.htm",
       "language": "Türkçe",
       "hasText": true,
       "hasVoice": false,
@@ -286,19 +313,19 @@
       "hasNeuralText": false,
       "version": null,
       "updatedAt": "21.04.2014",
-      "pageUrl": "https://turkce-yama.com/far-cry-3-turkce-yama.htm",
+      "pageUrl": "https://turkce-yama.com/mafia-2-turkce-yama.htm",
       "howToInstallHtml": "<ol><li>Yama dosyasını yukarıdaki «İndir» butonuyla indirin.</li><li>Kurulum dosyasıysa (.exe) çalıştırın; arşivse (.rar/.zip) çıkartın.</li><li>Oyunun kurulu olduğu klasörü gösterin / dosyaları oraya kopyalayın.</li><li>Oyunu başlatın — Türkçe yama uygulanmış olacaktır.</li></ol>",
-      "authorsHtml": null,
-      "size": "173.8 MB",
+      "authorsHtml": "<p>OyunÇeviri ve BSC</p>",
+      "size": "21.9 MB",
       "inDevelopment": false,
       "mirrors": [
         {
           "label": "Türkçe Yama",
-          "url": "https://turkce-yama.com/far-cry-3-turkce-yama.htm",
+          "url": "https://turkce-yama.com/mafia-2-turkce-yama.htm",
           "kind": "other"
         }
       ],
-      "steamAppId": "220240"
+      "steamAppId": "50130"
     },
     {
       "title": "Need for Speed: Underground 2",
@@ -327,9 +354,9 @@
       ]
     },
     {
-      "title": "Far Cry 4",
+      "title": "Far Cry 3",
       "studio": "Türkçe Yama",
-      "studioUrl": "https://turkce-yama.com/far-cry-4-turkce-yama.htm",
+      "studioUrl": "https://turkce-yama.com/far-cry-3-turkce-yama.htm",
       "language": "Türkçe",
       "hasText": true,
       "hasVoice": false,
@@ -338,20 +365,20 @@
       "hasNeuralDub": false,
       "hasNeuralText": false,
       "version": null,
-      "updatedAt": "10.06.2018",
-      "pageUrl": "https://turkce-yama.com/far-cry-4-turkce-yama.htm",
+      "updatedAt": "21.04.2014",
+      "pageUrl": "https://turkce-yama.com/far-cry-3-turkce-yama.htm",
       "howToInstallHtml": "<ol><li>Yama dosyasını yukarıdaki «İndir» butonuyla indirin.</li><li>Kurulum dosyasıysa (.exe) çalıştırın; arşivse (.rar/.zip) çıkartın.</li><li>Oyunun kurulu olduğu klasörü gösterin / dosyaları oraya kopyalayın.</li><li>Oyunu başlatın — Türkçe yama uygulanmış olacaktır.</li></ol>",
       "authorsHtml": null,
-      "size": "658.3 MB",
+      "size": "173.8 MB",
       "inDevelopment": false,
       "mirrors": [
         {
           "label": "Türkçe Yama",
-          "url": "https://turkce-yama.com/far-cry-4-turkce-yama.htm",
+          "url": "https://turkce-yama.com/far-cry-3-turkce-yama.htm",
           "kind": "other"
         }
       ],
-      "steamAppId": "298110"
+      "steamAppId": "220240"
     },
     {
       "title": "Shadow of the Tomb Raider",
@@ -406,33 +433,6 @@
         }
       ],
       "steamAppId": "3595230"
-    },
-    {
-      "title": "Mafia 2",
-      "studio": "Türkçe Yama",
-      "studioUrl": "https://turkce-yama.com/mafia-2-turkce-yama.htm",
-      "language": "Türkçe",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": null,
-      "updatedAt": "21.04.2014",
-      "pageUrl": "https://turkce-yama.com/mafia-2-turkce-yama.htm",
-      "howToInstallHtml": "<ol><li>Yama dosyasını yukarıdaki «İndir» butonuyla indirin.</li><li>Kurulum dosyasıysa (.exe) çalıştırın; arşivse (.rar/.zip) çıkartın.</li><li>Oyunun kurulu olduğu klasörü gösterin / dosyaları oraya kopyalayın.</li><li>Oyunu başlatın — Türkçe yama uygulanmış olacaktır.</li></ol>",
-      "authorsHtml": "<p>OyunÇeviri ve BSC</p>",
-      "size": "21.9 MB",
-      "inDevelopment": false,
-      "mirrors": [
-        {
-          "label": "Türkçe Yama",
-          "url": "https://turkce-yama.com/mafia-2-turkce-yama.htm",
-          "kind": "other"
-        }
-      ],
-      "steamAppId": "50130"
     },
     {
       "title": "Pro Evolution Soccer 2013",
