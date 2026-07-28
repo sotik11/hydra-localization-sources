@@ -5,6 +5,145 @@
   "siteUrl": "https://komunitni-preklady.org",
   "localizations": [
     {
+      "title": "60 Seconds! Reatomized",
+      "studio": "Komunitní překlady",
+      "studioUrl": "https://komunitni-preklady.org/preklad/60-seconds-reatomized",
+      "language": "Čeština",
+      "hasText": false,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": true,
+      "version": "1.0",
+      "updatedAt": "27.07.2026",
+      "requiredGameVersion": "1.1.9.0",
+      "pageUrl": "https://komunitni-preklady.org/preklad/60-seconds-reatomized",
+      "howToInstallHtml": "<p>Každý překlad má vlastní postup instalace. Otevřete stránku překladu (tlačítko „Otevřít v prohlížeči“ níže) — najdete tam úplný návod k instalaci i tlačítko ke stažení.</p>",
+      "authorsHtml": "<p>Ironvale Localization</p>",
+      "size": "44.9 MB",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Komunitní překlady",
+          "url": "https://komunitni-preklady.org/download/877?sig=pWZKkhr6mmeYlTzbKSyIkw",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "1012880"
+    },
+    {
+      "title": "Forever Skies",
+      "studio": "Komunitní překlady",
+      "studioUrl": "https://komunitni-preklady.org/preklad/forever-skies",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": "0.9.4",
+      "updatedAt": "27.07.2026",
+      "requiredGameVersion": "1.3.0",
+      "pageUrl": "https://komunitni-preklady.org/preklad/forever-skies",
+      "howToInstallHtml": "<p>Každý překlad má vlastní postup instalace. Otevřete stránku překladu (tlačítko „Otevřít v prohlížeči“ níže) — najdete tam úplný návod k instalaci i tlačítko ke stažení.</p>",
+      "authorsHtml": "<p>Hermes</p>",
+      "size": "281 KB",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Komunitní překlady",
+          "url": "https://komunitni-preklady.org/download/530?sig=-UK7SLiLhJseI0XX94kAsQ",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "1641960"
+    },
+    {
+      "title": "DragonSword : Awakening",
+      "studio": "Komunitní překlady",
+      "studioUrl": "https://komunitni-preklady.org/preklad/dragonsword-awakening",
+      "language": "Slovenčina",
+      "hasText": false,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": true,
+      "version": "0.0.1",
+      "updatedAt": "27.07.2026",
+      "requiredGameVersion": "1.0.3",
+      "pageUrl": "https://komunitni-preklady.org/preklad/dragonsword-awakening",
+      "howToInstallHtml": "<p>Každý preklad má vlastný postup inštalácie. Otvorte stránku prekladu (tlačidlo „Otvoriť v prehliadači“ nižšie) — nájdete tam úplný návod na inštaláciu aj tlačidlo na stiahnutie.</p>",
+      "authorsHtml": "<p>Flego</p>",
+      "size": "42.1 MB",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Komunitní překlady",
+          "url": "https://komunitni-preklady.org/download/876?sig=uUb2rhhX7MeKmzIT7R8JPg",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "4570720"
+    },
+    {
+      "title": "7 Days to Die 3.0 CZ",
+      "studio": "Komunitní překlady",
+      "studioUrl": "https://komunitni-preklady.org/preklad/7-days-to-die-30-cz",
+      "language": "Čeština",
+      "hasText": false,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": true,
+      "version": "0.89",
+      "updatedAt": "27.07.2026",
+      "requiredGameVersion": "3.1.0",
+      "pageUrl": "https://komunitni-preklady.org/preklad/7-days-to-die-30-cz",
+      "howToInstallHtml": "<p>Každý překlad má vlastní postup instalace. Otevřete stránku překladu (tlačítko „Otevřít v prohlížeči“ níže) — najdete tam úplný návod k instalaci i tlačítko ke stažení.</p>",
+      "authorsHtml": "<p>GREG-RAY CZ</p>",
+      "size": "3.60 MB",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Komunitní překlady",
+          "url": "https://komunitni-preklady.org/download/853?sig=-Oh6W8VlvUlPVlPwkDYkAg",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "3247640"
+    },
+    {
+      "title": "Cell to Singularity",
+      "studio": "Komunitní překlady",
+      "studioUrl": "https://komunitni-preklady.org/preklad/cell-to-singularity",
+      "language": "Čeština",
+      "hasText": false,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": true,
+      "version": "0.68",
+      "updatedAt": "27.07.2026",
+      "requiredGameVersion": "48_44",
+      "pageUrl": "https://komunitni-preklady.org/preklad/cell-to-singularity",
+      "howToInstallHtml": "<p>Každý překlad má vlastní postup instalace. Otevřete stránku překladu (tlačítko „Otevřít v prohlížeči“ níže) — najdete tam úplný návod k instalaci i tlačítko ke stažení.</p>",
+      "authorsHtml": "<p>GREG-RAY CZ</p>",
+      "size": "35.8 MB",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Komunitní překlady",
+          "url": "https://komunitni-preklady.org/download/871?sig=ermrIONzkYUlrGsLY6QF7Q",
+          "kind": "direct"
+        }
+      ]
+    },
+    {
       "title": "Crimson Desert",
       "studio": "Komunitní překlady",
       "studioUrl": "https://komunitni-preklady.org/preklad/crimson-desert-sk",
@@ -113,33 +252,6 @@
         }
       ],
       "steamAppId": "3321460"
-    },
-    {
-      "title": "Cell to Singularity",
-      "studio": "Komunitní překlady",
-      "studioUrl": "https://komunitni-preklady.org/preklad/cell-to-singularity",
-      "language": "Čeština",
-      "hasText": false,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": true,
-      "version": "0.63",
-      "updatedAt": "23.07.2026",
-      "requiredGameVersion": "48_44",
-      "pageUrl": "https://komunitni-preklady.org/preklad/cell-to-singularity",
-      "howToInstallHtml": "<p>Každý překlad má vlastní postup instalace. Otevřete stránku překladu (tlačítko „Otevřít v prohlížeči“ níže) — najdete tam úplný návod k instalaci i tlačítko ke stažení.</p>",
-      "authorsHtml": "<p>GREG-RAY CZ</p>",
-      "size": "35.7 MB",
-      "inDevelopment": false,
-      "mirrors": [
-        {
-          "label": "Komunitní překlady",
-          "url": "https://komunitni-preklady.org/download/871?sig=ermrIONzkYUlrGsLY6QF7Q",
-          "kind": "direct"
-        }
-      ]
     },
     {
       "title": "Assassin\\u0027s Creed: Black Flag Resynced",
@@ -1350,34 +1462,6 @@
         }
       ],
       "steamAppId": "306130"
-    },
-    {
-      "title": "7 Days to Die 3.0 CZ",
-      "studio": "Komunitní překlady",
-      "studioUrl": "https://komunitni-preklady.org/preklad/7-days-to-die-30-cz",
-      "language": "Čeština",
-      "hasText": false,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": true,
-      "version": "0.88",
-      "updatedAt": "06.07.2026",
-      "requiredGameVersion": "3.0.1",
-      "pageUrl": "https://komunitni-preklady.org/preklad/7-days-to-die-30-cz",
-      "howToInstallHtml": "<p>Každý překlad má vlastní postup instalace. Otevřete stránku překladu (tlačítko „Otevřít v prohlížeči“ níže) — najdete tam úplný návod k instalaci i tlačítko ke stažení.</p>",
-      "authorsHtml": "<p>GREG-RAY CZ</p>",
-      "size": "3.60 MB",
-      "inDevelopment": false,
-      "mirrors": [
-        {
-          "label": "Komunitní překlady",
-          "url": "https://komunitni-preklady.org/download/853?sig=-Oh6W8VlvUlPVlPwkDYkAg",
-          "kind": "direct"
-        }
-      ],
-      "steamAppId": "3247640"
     },
     {
       "title": "Enshrouded CZ",
@@ -2656,34 +2740,6 @@
         }
       ],
       "steamAppId": "206420"
-    },
-    {
-      "title": "Forever Skies",
-      "studio": "Komunitní překlady",
-      "studioUrl": "https://komunitni-preklady.org/preklad/forever-skies",
-      "language": "Čeština",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": "0.9.3",
-      "updatedAt": "05.06.2026",
-      "requiredGameVersion": "1.2.2",
-      "pageUrl": "https://komunitni-preklady.org/preklad/forever-skies",
-      "howToInstallHtml": "<p>Každý překlad má vlastní postup instalace. Otevřete stránku překladu (tlačítko „Otevřít v prohlížeči“ níže) — najdete tam úplný návod k instalaci i tlačítko ke stažení.</p>",
-      "authorsHtml": "<p>Hermes</p>",
-      "size": "265 KB",
-      "inDevelopment": false,
-      "mirrors": [
-        {
-          "label": "Komunitní překlady",
-          "url": "https://komunitni-preklady.org/download/530?sig=-UK7SLiLhJseI0XX94kAsQ",
-          "kind": "direct"
-        }
-      ],
-      "steamAppId": "1641960"
     },
     {
       "title": "Gold Mining Simulator",
@@ -11163,7 +11219,7 @@
           "kind": "direct"
         }
       ],
-      "steamAppId": "2417610"
+      "steamAppId": "393360"
     },
     {
       "title": "Hell is Us",
@@ -16168,11 +16224,11 @@
       "hasNeuralDub": false,
       "hasNeuralText": true,
       "version": null,
-      "updatedAt": "26.07.2026",
+      "updatedAt": "27.07.2026",
       "requiredGameVersion": null,
       "pageUrl": "https://komunitni-preklady.org/preklad/divinity-ii-dragon-knight-saga-",
       "howToInstallHtml": "<p>Každý překlad má vlastní postup instalace. Otevřete stránku překladu (tlačítko „Otevřít v prohlížeči“ níže) — najdete tam úplný návod k instalaci i tlačítko ke stažení.</p>",
-      "authorsHtml": "<p>Flego</p>",
+      "authorsHtml": "<p>Ironvale Localization</p>",
       "size": null,
       "inDevelopment": true,
       "mirrors": []
@@ -16646,7 +16702,7 @@
           "kind": "direct"
         }
       ],
-      "steamAppId": "414740"
+      "steamAppId": "1159640"
     },
     {
       "title": "The Regiment",
