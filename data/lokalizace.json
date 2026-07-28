@@ -283,7 +283,7 @@
       ]
     },
     {
-      "title": "7 Days to Die 3.0",
+      "title": "7 Days to Die 3.1.0",
       "studio": "Lokalizace.net",
       "studioUrl": "https://lokalizace.net/localizations/7-days-to-die",
       "language": "Čeština",
@@ -293,18 +293,18 @@
       "hasNeuralVoice": false,
       "hasNeuralDub": false,
       "hasNeuralText": false,
-      "version": "0.8.8",
-      "updatedAt": "06.07.2026",
+      "version": "0.89",
+      "updatedAt": "27.07.2026",
       "pageUrl": "https://lokalizace.net/localizations/7-days-to-die",
       "howToInstallHtml": "<p>Stáhněte ZIP soubor a rozbalte ho do složky hry, nebo použijte aplikaci CZManager pro automatickou instalaci češtiny.</p>",
-      "changelogHtml": "<div><p>Nahrána nová verze překladu: 0.8.8</p></div>",
+      "changelogHtml": "<div><p>Nahrána nová verze překladu: 0.89</p></div>",
       "authorsHtml": "<p>GREG-RAY_CZ</p>",
       "size": "3.60 MB",
       "inDevelopment": false,
       "mirrors": [
         {
           "label": "Lokalizace.net",
-          "url": "https://lokalizace.net/api/download/1651",
+          "url": "https://lokalizace.net/api/download/1712",
           "kind": "direct"
         }
       ],
@@ -2167,7 +2167,7 @@
           "kind": "direct"
         }
       ],
-      "steamAppId": "2131630"
+      "steamAppId": "393360"
     },
     {
       "title": "The Last Door - Collector's Edition",
@@ -2408,7 +2408,8 @@
           "url": "https://lokalizace.net/api/download/1379",
           "kind": "direct"
         }
-      ]
+      ],
+      "steamAppId": "393360"
     },
     {
       "title": "Layers of Fear",
@@ -19747,6 +19748,72 @@
       "inDevelopment": true,
       "mirrors": [],
       "steamAppId": "2369390"
+    },
+    {
+      "title": "METAL GEAR SOLID: Peace Walker - Master Collection Vol.2",
+      "studio": "Lokalizace.net",
+      "studioUrl": "https://lokalizace.net/localizations/metal-gear-solid-peace-walker-master-collection-version",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": null,
+      "updatedAt": null,
+      "pageUrl": "https://lokalizace.net/localizations/metal-gear-solid-peace-walker-master-collection-version",
+      "howToInstallHtml": "<p>Stáhněte ZIP soubor a rozbalte ho do složky hry, nebo použijte aplikaci CZManager pro automatickou instalaci češtiny.</p>",
+      "changelogHtml": null,
+      "authorsHtml": "<p>PERTIM CZ</p>",
+      "size": null,
+      "inDevelopment": true,
+      "mirrors": [],
+      "steamAppId": "3859630"
+    },
+    {
+      "title": "METAL GEAR SOLID 4: Guns of the Patriots - Master Collection Vol.2",
+      "studio": "Lokalizace.net",
+      "studioUrl": "https://lokalizace.net/localizations/metal-gear-solid-4-guns-of-the-patriots-master-collection",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": null,
+      "updatedAt": null,
+      "pageUrl": "https://lokalizace.net/localizations/metal-gear-solid-4-guns-of-the-patriots-master-collection",
+      "howToInstallHtml": "<p>Stáhněte ZIP soubor a rozbalte ho do složky hry, nebo použijte aplikaci CZManager pro automatickou instalaci češtiny.</p>",
+      "changelogHtml": null,
+      "authorsHtml": "<p>PERTIM CZ</p>",
+      "size": null,
+      "inDevelopment": true,
+      "mirrors": [],
+      "steamAppId": "4184400"
+    },
+    {
+      "title": "Starfield",
+      "studio": "Lokalizace.net",
+      "studioUrl": "https://lokalizace.net/localizations/starfield",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": null,
+      "updatedAt": null,
+      "pageUrl": "https://lokalizace.net/localizations/starfield",
+      "howToInstallHtml": "<p>Stáhněte ZIP soubor a rozbalte ho do složky hry, nebo použijte aplikaci CZManager pro automatickou instalaci češtiny.</p>",
+      "changelogHtml": null,
+      "authorsHtml": "<p>Lokalizace.Net</p>",
+      "size": null,
+      "inDevelopment": true,
+      "mirrors": [],
+      "steamAppId": "1716740"
     },
     {
       "title": "Indigo Park",
