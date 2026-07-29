@@ -5,9 +5,9 @@
   "siteUrl": "https://lokalizace.net",
   "localizations": [
     {
-      "title": "SCP - Containment Breach",
+      "title": "ReStory Chill Electronics Repairs DEMO",
       "studio": "Lokalizace.net",
-      "studioUrl": "https://lokalizace.net/localizations/scp-containment-breach",
+      "studioUrl": "https://lokalizace.net/localizations/restory-chill-electronics-repairs-demo",
       "language": "Čeština",
       "hasText": true,
       "hasVoice": false,
@@ -15,22 +15,22 @@
       "hasNeuralVoice": false,
       "hasNeuralDub": false,
       "hasNeuralText": false,
-      "version": "1.0.0",
-      "updatedAt": "23.07.2026",
-      "pageUrl": "https://lokalizace.net/localizations/scp-containment-breach",
+      "version": "0.1",
+      "updatedAt": "28.07.2026",
+      "pageUrl": "https://lokalizace.net/localizations/restory-chill-electronics-repairs-demo",
       "howToInstallHtml": "<p>Stáhněte ZIP soubor a rozbalte ho do složky hry, nebo použijte aplikaci CZManager pro automatickou instalaci češtiny.</p>",
-      "changelogHtml": "<div><p><strong>Nová verze 1.0.0</strong></p><p>Definitivní verze, příliš mnoho oprav na výpis tady</p></div>",
-      "authorsHtml": "<p>Překlady Abednego</p>",
-      "size": "86.9 MB",
+      "changelogHtml": "<div><p>Nahrána nová verze překladu: 0.1</p></div>",
+      "authorsHtml": "<p>Žižkovské Překlady</p>",
+      "size": "20.9 MB",
       "inDevelopment": false,
       "mirrors": [
         {
           "label": "Lokalizace.net",
-          "url": "https://lokalizace.net/api/download/1705",
+          "url": "https://lokalizace.net/api/download/1713",
           "kind": "direct"
         }
       ],
-      "steamAppId": "2178380"
+      "steamAppId": "3812600"
     },
     {
       "title": "The Legend of Kyrandia: Malcolm's Revenge - CZ dabing",
@@ -58,7 +58,7 @@
           "kind": "direct"
         }
       ],
-      "steamAppId": "1175830"
+      "steamAppId": "4172530"
     },
     {
       "title": "The Legend of Kyrandia: Hand Of Fate - CZ dabing",
@@ -86,7 +86,7 @@
           "kind": "direct"
         }
       ],
-      "steamAppId": "1175830"
+      "steamAppId": "4172530"
     },
     {
       "title": "Mass Effect Legendary Edition",
@@ -1152,7 +1152,7 @@
           "kind": "direct"
         }
       ],
-      "steamAppId": "1175830"
+      "steamAppId": "4172530"
     },
     {
       "title": "HumanitZ",
@@ -8731,7 +8731,7 @@
           "kind": "other"
         }
       ],
-      "steamAppId": "1175830"
+      "steamAppId": "4172530"
     },
     {
       "title": "The Legend of Kyrandia: Malcolm's Revenge (1994)",
@@ -8764,7 +8764,7 @@
           "kind": "other"
         }
       ],
-      "steamAppId": "1175830"
+      "steamAppId": "4172530"
     },
     {
       "title": "The Legend of Kyrandia (1992)",
@@ -8797,7 +8797,7 @@
           "kind": "other"
         }
       ],
-      "steamAppId": "1175830"
+      "steamAppId": "4172530"
     },
     {
       "title": "King's Bounty mód Red Sands (2011)",
@@ -19837,6 +19837,28 @@
       "mirrors": []
     },
     {
+      "title": "SCP - Containment Breach",
+      "studio": "Lokalizace.net",
+      "studioUrl": "https://lokalizace.net/localizations/scp-containment-breach",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": null,
+      "updatedAt": null,
+      "pageUrl": "https://lokalizace.net/localizations/scp-containment-breach",
+      "howToInstallHtml": "<p>Stáhněte ZIP soubor a rozbalte ho do složky hry, nebo použijte aplikaci CZManager pro automatickou instalaci češtiny.</p>",
+      "changelogHtml": "<div><p><strong>Nová verze 1.0.0</strong></p><p>Definitivní verze, příliš mnoho oprav na výpis tady</p></div>",
+      "authorsHtml": "<p>Překlady Abednego</p>",
+      "size": null,
+      "inDevelopment": true,
+      "mirrors": [],
+      "steamAppId": "2178380"
+    },
+    {
       "title": "Toys in the Dark: Rebirth",
       "studio": "Lokalizace.net",
       "studioUrl": "https://lokalizace.net/localizations/toys-in-the-dark-rebirth",
@@ -19856,28 +19878,6 @@
       "size": null,
       "inDevelopment": true,
       "mirrors": []
-    },
-    {
-      "title": "ReStory Chill Electronics Repairs DEMO",
-      "studio": "Lokalizace.net",
-      "studioUrl": "https://lokalizace.net/localizations/restory-chill-electronics-repairs-demo",
-      "language": "Čeština",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": null,
-      "updatedAt": null,
-      "pageUrl": "https://lokalizace.net/localizations/restory-chill-electronics-repairs-demo",
-      "howToInstallHtml": "<p>Stáhněte ZIP soubor a rozbalte ho do složky hry, nebo použijte aplikaci CZManager pro automatickou instalaci češtiny.</p>",
-      "changelogHtml": null,
-      "authorsHtml": "<p>Žižkovské Překlady</p>",
-      "size": null,
-      "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "3812600"
     },
     {
       "title": "Monolith",
