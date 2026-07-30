@@ -798,10 +798,10 @@
       "language": "Magyar",
       "hasText": true,
       "hasVoice": false,
-      "version": "1.02",
-      "updatedAt": "04.11.2025",
-      "requiredGameVersion": "1.1.10",
-      "size": "9.05 MB",
+      "version": "1.03",
+      "updatedAt": "29.07.2026",
+      "requiredGameVersion": "1.1.11",
+      "size": "58.5 MB",
       "pageUrl": "https://magyaritasok.hu/games/broken-sword-shadow-of-the-templars-reforged",
       "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
       "authorsHtml": "<p>FEARka</p>",
@@ -809,7 +809,7 @@
       "mirrors": [
         {
           "label": "Magyarítások",
-          "url": "https://magyaritasok.hu/dl/BrokenSwordSotTReforged/BS1Reforged_HUN_1.02.exe",
+          "url": "https://magyaritasok.hu/dl/BrokenSwordSotTReforged/BS1Reforged_HUN_1.03.exe",
           "kind": "direct"
         }
       ]
@@ -3128,7 +3128,7 @@
       "size": "442 KB",
       "pageUrl": "https://magyaritasok.hu/games/sonic-r",
       "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
-      "authorsHtml": "<p>EVM</p>",
+      "authorsHtml": "<p>Andy, EVM</p>",
       "inDevelopment": false,
       "mirrors": [
         {
@@ -40014,7 +40014,7 @@
       "size": "765 KB",
       "pageUrl": "https://magyaritasok.hu/games/silent-hunter-iii",
       "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
-      "authorsHtml": "<p>GameHunter TEAM</p>",
+      "authorsHtml": "<p>Husimoto, jnc, Andy, GameHunter TEAM</p>",
       "inDevelopment": false,
       "mirrors": [
         {
