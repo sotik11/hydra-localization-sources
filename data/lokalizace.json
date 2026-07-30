@@ -58,7 +58,7 @@
           "kind": "direct"
         }
       ],
-      "steamAppId": "4172530"
+      "steamAppId": "1175830"
     },
     {
       "title": "The Legend of Kyrandia: Hand Of Fate - CZ dabing",
@@ -86,7 +86,7 @@
           "kind": "direct"
         }
       ],
-      "steamAppId": "4172530"
+      "steamAppId": "1175830"
     },
     {
       "title": "Mass Effect Legendary Edition",
@@ -1152,7 +1152,7 @@
           "kind": "direct"
         }
       ],
-      "steamAppId": "4172530"
+      "steamAppId": "1175830"
     },
     {
       "title": "HumanitZ",
@@ -8731,7 +8731,7 @@
           "kind": "other"
         }
       ],
-      "steamAppId": "4172530"
+      "steamAppId": "1175830"
     },
     {
       "title": "The Legend of Kyrandia: Malcolm's Revenge (1994)",
@@ -8764,7 +8764,7 @@
           "kind": "other"
         }
       ],
-      "steamAppId": "4172530"
+      "steamAppId": "1175830"
     },
     {
       "title": "The Legend of Kyrandia (1992)",
@@ -8797,7 +8797,7 @@
           "kind": "other"
         }
       ],
-      "steamAppId": "4172530"
+      "steamAppId": "1175830"
     },
     {
       "title": "King's Bounty mód Red Sands (2011)",
@@ -19748,6 +19748,28 @@
       "inDevelopment": true,
       "mirrors": [],
       "steamAppId": "2369390"
+    },
+    {
+      "title": "Ground Zero",
+      "studio": "Lokalizace.net",
+      "studioUrl": "https://lokalizace.net/localizations/ground-zero",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": null,
+      "updatedAt": null,
+      "pageUrl": "https://lokalizace.net/localizations/ground-zero",
+      "howToInstallHtml": "<p>Stáhněte ZIP soubor a rozbalte ho do složky hry, nebo použijte aplikaci CZManager pro automatickou instalaci češtiny.</p>",
+      "changelogHtml": null,
+      "authorsHtml": "<p>PERTIM CZ</p>",
+      "size": null,
+      "inDevelopment": true,
+      "mirrors": [],
+      "steamAppId": "2340130"
     },
     {
       "title": "METAL GEAR SOLID: Peace Walker - Master Collection Vol.2",
