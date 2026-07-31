@@ -5,34 +5,6 @@
   "siteUrl": "https://boosty.to/synthvoiceru",
   "localizations": [
     {
-      "title": "S.T.A.L.K.E.R. 2: Heart of Chornobyl",
-      "studio": "SynthVoiceRu",
-      "studioUrl": "https://www.playground.ru/stalker_2/file/s_t_a_l_k_e_r_2_heart_of_chornobyl_rusifikator_zvuka_nejrosetevoj_dublyazh_v0_4_synthvoiceru-1736891",
-      "authorsHtml": "<p>SynthVoiceRu</p>",
-      "language": "Русский",
-      "hasText": false,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralText": false,
-      "hasNeuralVoice": true,
-      "hasNeuralDub": true,
-      "version": "0.4",
-      "size": "2.42 GB",
-      "updatedAt": null,
-      "pageUrl": "https://www.playground.ru/stalker_2/file/s_t_a_l_k_e_r_2_heart_of_chornobyl_rusifikator_zvuka_nejrosetevoj_dublyazh_v0_4_synthvoiceru-1736891",
-      "howToInstallHtml": "<p>Нейроозвучка от <strong>SynthVoiceRu</strong>. Бесплатная версия — на странице PlayGround («Открыть в браузере» ниже), там же инструкция по установке. Поддержать авторов и получить официальную версию можно на их <a href=\"https://boosty.to/synthvoiceru/showcase\">Boosty</a>.</p>",
-      "inDevelopment": false,
-      "fileName": null,
-      "mirrors": [
-        {
-          "label": "Boosty (поддержать авторов)",
-          "url": "https://boosty.to/synthvoiceru/showcase",
-          "kind": "other"
-        }
-      ],
-      "steamAppId": "1643320"
-    },
-    {
       "title": "Kingdom Come: Deliverance 2",
       "studio": "SynthVoiceRu",
       "studioUrl": "https://www.playground.ru/kingdom_come_deliverance_2/file/kingdom_come_deliverance_2_rusifikator_zvuka_nejrosetevoj_perevod_v09_06_2025_synthvoiceru-1751616",
@@ -59,34 +31,6 @@
         }
       ],
       "steamAppId": "1771300"
-    },
-    {
-      "title": "Baldur's Gate 3",
-      "studio": "SynthVoiceRu",
-      "studioUrl": "https://www.playground.ru/baldurs_gate_3/file/baldurs_gate_3_russkaya_ozvuchka_nejrosetevoj_dublyazh_v1_0_synthvoiceru-1698229",
-      "authorsHtml": "<p>SynthVoiceRu</p>",
-      "language": "Русский",
-      "hasText": false,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralText": false,
-      "hasNeuralVoice": true,
-      "hasNeuralDub": true,
-      "version": "1.0",
-      "size": "4.00 GB",
-      "updatedAt": null,
-      "pageUrl": "https://www.playground.ru/baldurs_gate_3/file/baldurs_gate_3_russkaya_ozvuchka_nejrosetevoj_dublyazh_v1_0_synthvoiceru-1698229",
-      "howToInstallHtml": "<p>Нейроозвучка от <strong>SynthVoiceRu</strong>. Бесплатная версия — на странице PlayGround («Открыть в браузере» ниже), там же инструкция по установке. Поддержать авторов и получить официальную версию можно на их <a href=\"https://boosty.to/synthvoiceru/showcase\">Boosty</a>.</p>",
-      "inDevelopment": false,
-      "fileName": "SynthVoiceRu_dub.part1.rar",
-      "mirrors": [
-        {
-          "label": "Boosty (поддержать авторов)",
-          "url": "https://boosty.to/synthvoiceru/posts/8c859e3f-8384-4521-927f-46b7f397fe35",
-          "kind": "other"
-        }
-      ],
-      "steamAppId": "1086940"
     },
     {
       "title": "Dragon's Dogma 2",
@@ -173,9 +117,9 @@
       "steamAppId": "1716740"
     },
     {
-      "title": "Kingdom Come Deliverance",
+      "title": "Baldur's Gate 3",
       "studio": "SynthVoiceRu",
-      "studioUrl": "https://www.playground.ru/kingdom_come_deliverance/file/kingdom_come_deliverance_rusifikator_zvuka_nejrosetevoj_dublyazh_v1_0_synthvoiceru-1712411",
+      "studioUrl": "https://www.playground.ru/baldurs_gate_3/file/baldurs_gate_3_russkaya_ozvuchka_nejrosetevoj_dublyazh_v1_0_synthvoiceru-1698229",
       "authorsHtml": "<p>SynthVoiceRu</p>",
       "language": "Русский",
       "hasText": false,
@@ -185,20 +129,20 @@
       "hasNeuralVoice": true,
       "hasNeuralDub": true,
       "version": "1.0",
-      "size": "4.68 GB",
+      "size": "4.00 GB",
       "updatedAt": null,
-      "pageUrl": "https://www.playground.ru/kingdom_come_deliverance/file/kingdom_come_deliverance_rusifikator_zvuka_nejrosetevoj_dublyazh_v1_0_synthvoiceru-1712411",
+      "pageUrl": "https://www.playground.ru/baldurs_gate_3/file/baldurs_gate_3_russkaya_ozvuchka_nejrosetevoj_dublyazh_v1_0_synthvoiceru-1698229",
       "howToInstallHtml": "<p>Нейроозвучка от <strong>SynthVoiceRu</strong>. Бесплатная версия — на странице PlayGround («Открыть в браузере» ниже), там же инструкция по установке. Поддержать авторов и получить официальную версию можно на их <a href=\"https://boosty.to/synthvoiceru/showcase\">Boosty</a>.</p>",
       "inDevelopment": false,
-      "fileName": "SynthVoiceRu_dub.zip",
+      "fileName": "SynthVoiceRu_dub.part1.rar",
       "mirrors": [
         {
           "label": "Boosty (поддержать авторов)",
-          "url": "https://boosty.to/synthvoiceru/posts/74be100e-2045-4e87-882b-cf6c0b2f16e1",
+          "url": "https://boosty.to/synthvoiceru/posts/8c859e3f-8384-4521-927f-46b7f397fe35",
           "kind": "other"
         }
       ],
-      "steamAppId": "379430"
+      "steamAppId": "1086940"
     },
     {
       "title": "Tainted Grail: The Fall of Avalon",
@@ -229,6 +173,34 @@
       "steamAppId": "1466060"
     },
     {
+      "title": "S.T.A.L.K.E.R. 2: Heart of Chornobyl",
+      "studio": "SynthVoiceRu",
+      "studioUrl": "https://www.playground.ru/stalker_2/file/s_t_a_l_k_e_r_2_heart_of_chornobyl_rusifikator_zvuka_nejrosetevoj_dublyazh_v0_4_synthvoiceru-1736891",
+      "authorsHtml": "<p>SynthVoiceRu</p>",
+      "language": "Русский",
+      "hasText": false,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralText": false,
+      "hasNeuralVoice": true,
+      "hasNeuralDub": true,
+      "version": "0.4",
+      "size": "2.42 GB",
+      "updatedAt": null,
+      "pageUrl": "https://www.playground.ru/stalker_2/file/s_t_a_l_k_e_r_2_heart_of_chornobyl_rusifikator_zvuka_nejrosetevoj_dublyazh_v0_4_synthvoiceru-1736891",
+      "howToInstallHtml": "<p>Нейроозвучка от <strong>SynthVoiceRu</strong>. Бесплатная версия — на странице PlayGround («Открыть в браузере» ниже), там же инструкция по установке. Поддержать авторов и получить официальную версию можно на их <a href=\"https://boosty.to/synthvoiceru/showcase\">Boosty</a>.</p>",
+      "inDevelopment": false,
+      "fileName": null,
+      "mirrors": [
+        {
+          "label": "Boosty (поддержать авторов)",
+          "url": "https://boosty.to/synthvoiceru/showcase",
+          "kind": "other"
+        }
+      ],
+      "steamAppId": "1643320"
+    },
+    {
       "title": "Clair Obscur: Expedition 33",
       "studio": "SynthVoiceRu",
       "studioUrl": "https://www.playground.ru/clair_obscur_expedition_33/file/clair_obscur_expedition_33_rusifikator_zvuka_nejrosetevoj_dublyazh_i_zakadrovaya_ozvuchka_synthvoiceru-1769524",
@@ -257,9 +229,9 @@
       "steamAppId": "1903340"
     },
     {
-      "title": "Disco Elysium",
+      "title": "Kingdom Come Deliverance",
       "studio": "SynthVoiceRu",
-      "studioUrl": "https://www.playground.ru/disco_elysium/file/disco_elysium_russkaya_ozvuchka_nejrosetevoj_dublyazh_v1_0_synthvoiceru-1746064",
+      "studioUrl": "https://www.playground.ru/kingdom_come_deliverance/file/kingdom_come_deliverance_rusifikator_zvuka_nejrosetevoj_dublyazh_v1_0_synthvoiceru-1712411",
       "authorsHtml": "<p>SynthVoiceRu</p>",
       "language": "Русский",
       "hasText": false,
@@ -269,19 +241,20 @@
       "hasNeuralVoice": true,
       "hasNeuralDub": true,
       "version": "1.0",
-      "size": "4.00 GB",
+      "size": "4.68 GB",
       "updatedAt": null,
-      "pageUrl": "https://www.playground.ru/disco_elysium/file/disco_elysium_russkaya_ozvuchka_nejrosetevoj_dublyazh_v1_0_synthvoiceru-1746064",
+      "pageUrl": "https://www.playground.ru/kingdom_come_deliverance/file/kingdom_come_deliverance_rusifikator_zvuka_nejrosetevoj_dublyazh_v1_0_synthvoiceru-1712411",
       "howToInstallHtml": "<p>Нейроозвучка от <strong>SynthVoiceRu</strong>. Бесплатная версия — на странице PlayGround («Открыть в браузере» ниже), там же инструкция по установке. Поддержать авторов и получить официальную версию можно на их <a href=\"https://boosty.to/synthvoiceru/showcase\">Boosty</a>.</p>",
       "inDevelopment": false,
-      "fileName": "SynthVoiceRu_dub.part1.rar",
+      "fileName": "SynthVoiceRu_dub.zip",
       "mirrors": [
         {
           "label": "Boosty (поддержать авторов)",
-          "url": "https://boosty.to/synthvoiceru/posts/b74ea55f-d106-4de9-9eeb-b4e056afba5a",
+          "url": "https://boosty.to/synthvoiceru/posts/74be100e-2045-4e87-882b-cf6c0b2f16e1",
           "kind": "other"
         }
-      ]
+      ],
+      "steamAppId": "379430"
     },
     {
       "title": "Divinity: Original Sin 2 - Definitive Edition",
@@ -310,6 +283,33 @@
         }
       ],
       "steamAppId": "435150"
+    },
+    {
+      "title": "Disco Elysium",
+      "studio": "SynthVoiceRu",
+      "studioUrl": "https://www.playground.ru/disco_elysium/file/disco_elysium_russkaya_ozvuchka_nejrosetevoj_dublyazh_v1_0_synthvoiceru-1746064",
+      "authorsHtml": "<p>SynthVoiceRu</p>",
+      "language": "Русский",
+      "hasText": false,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralText": false,
+      "hasNeuralVoice": true,
+      "hasNeuralDub": true,
+      "version": "1.0",
+      "size": "4.00 GB",
+      "updatedAt": null,
+      "pageUrl": "https://www.playground.ru/disco_elysium/file/disco_elysium_russkaya_ozvuchka_nejrosetevoj_dublyazh_v1_0_synthvoiceru-1746064",
+      "howToInstallHtml": "<p>Нейроозвучка от <strong>SynthVoiceRu</strong>. Бесплатная версия — на странице PlayGround («Открыть в браузере» ниже), там же инструкция по установке. Поддержать авторов и получить официальную версию можно на их <a href=\"https://boosty.to/synthvoiceru/showcase\">Boosty</a>.</p>",
+      "inDevelopment": false,
+      "fileName": "SynthVoiceRu_dub.part1.rar",
+      "mirrors": [
+        {
+          "label": "Boosty (поддержать авторов)",
+          "url": "https://boosty.to/synthvoiceru/posts/b74ea55f-d106-4de9-9eeb-b4e056afba5a",
+          "kind": "other"
+        }
+      ]
     },
     {
       "steamAppId": "2483190",

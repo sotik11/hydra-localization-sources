@@ -14281,19 +14281,24 @@
       "hasNeuralVoice": false,
       "hasNeuralDub": false,
       "hasNeuralText": false,
-      "version": "1.16.06",
-      "updatedAt": "04.06.2026",
+      "version": "1.16.08",
+      "updatedAt": "30.07.2026",
       "pageUrl": "https://lokalizace.net/localizations/pc-building-simulator-2",
       "howToInstallHtml": "<p>Stáhněte ZIP soubor a rozbalte ho do složky hry, nebo použijte aplikaci CZManager pro automatickou instalaci češtiny.</p>",
-      "changelogHtml": "<div>Nahrána nová verze překladu: 1.16.06</div>",
+      "changelogHtml": "<div>Nahrána nová verze překladu: 1.16.08Nahrána nová verze překladu: 1.16.06</div>",
       "authorsHtml": "<p>PrekladyWoytman</p>",
       "size": "1.50 MB",
       "inDevelopment": false,
       "mirrors": [
         {
           "label": "Lokalizace.net",
-          "url": "https://lokalizace.net/api/download/1555",
+          "url": "https://lokalizace.net/api/download/1714",
           "kind": "direct"
+        },
+        {
+          "label": "Версия 1.16.06",
+          "url": "https://lokalizace.net/api/download/1555",
+          "kind": "other"
         }
       ]
     },
@@ -19748,6 +19753,28 @@
       "inDevelopment": true,
       "mirrors": [],
       "steamAppId": "2369390"
+    },
+    {
+      "title": "STAR WARS Zero Company™",
+      "studio": "Lokalizace.net",
+      "studioUrl": "https://lokalizace.net/localizations/star-wars-zero-company",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": null,
+      "updatedAt": null,
+      "pageUrl": "https://lokalizace.net/localizations/star-wars-zero-company",
+      "howToInstallHtml": "<p>Stáhněte ZIP soubor a rozbalte ho do složky hry, nebo použijte aplikaci CZManager pro automatickou instalaci češtiny.</p>",
+      "changelogHtml": null,
+      "authorsHtml": "<p>Lokalizace.Net</p>",
+      "size": null,
+      "inDevelopment": true,
+      "mirrors": [],
+      "steamAppId": "2075800"
     },
     {
       "title": "Ground Zero",

@@ -5,6 +5,33 @@
   "siteUrl": "https://www.calypsoceviri.com",
   "localizations": [
     {
+      "title": "Pit Panic",
+      "studio": "Calypso Çeviri",
+      "studioUrl": "https://www.calypsoceviri.com",
+      "language": "Türkçe",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": "1",
+      "updatedAt": "31.07.2026",
+      "pageUrl": "https://www.calypsoceviri.com/turkce-yamalar/pit-panic-turkce-yama-indir",
+      "howToInstallHtml": "<div>Aşağıda vermiş olduğumuz linkten indirdiğiniz Rar dosyasındaki Türkçe Yama exesini, oyunun kurulu olduğu ana dosya konumuna atarak, Türkçe yama exesini çalıştırın. Oyunun ana dosya konumunun seçili olduğunu kontrol ettikten sonra, hangi platformdan oynuyorsanız, o platformun yükle butonuna basarak yamayı yükleyebilirsiniz. <br><br>Yamayı kaldırmak isterseniz, oyunun dosya konumundaki \"PitPanic_YamaKaldır.exe\"'si üzerinden kaldırabilirsiniz.</div>",
+      "authorsHtml": "<p>Bugzade</p>",
+      "size": "3.68 MB",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Calypso Çeviri",
+          "url": "https://www.calypsoceviri.com/_files/archives/7d262d_2f4d55aa38084a8c8d7fb26958237f96.rar?dn=Pit%2520Panic%2520T%25C3%25BCrk%25C3%25A7e%2520Yama%2520V1.rar",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "2491490"
+    },
+    {
       "title": "DIVE or DIE Children of Rain",
       "studio": "Calypso Çeviri",
       "studioUrl": "https://www.calypsoceviri.com",
@@ -16,8 +43,8 @@
       "hasNeuralDub": false,
       "hasNeuralText": false,
       "version": "1",
-      "updatedAt": "23.07.2026",
-      "pageUrl": "https://www.calypsoceviri.com/turkce-yamalar/dive-or-die-children-of-rain-t%C3%BCrk%C3%A7e-yama",
+      "updatedAt": "31.07.2026",
+      "pageUrl": "https://www.calypsoceviri.com/turkce-yamalar/dive-or-die-children-of-rain-turkce-yama-indir",
       "howToInstallHtml": "<div>Aşağıda vermiş olduğumuz linkten indirdiğiniz Rar dosyasındaki Türkçe Yama exesini, oyunun kurulu olduğu ana dosya konumuna atarak, Türkçe yama exesini çalıştırın. Oyunun ana dosya konumunun seçili olduğunu kontrol ettikten sonra, hangi platformdan oynuyorsanız, o platformun yükle butonuna basarak yamayı yükleyebilirsiniz. <br><br>Yamayı kaldırmak isterseniz, oyunun dosya konumundaki \"TheMound_YamaKaldır.exe\"'si üzerinden kaldırabilirsiniz.</div>",
       "authorsHtml": "<p>Bugzade</p>",
       "size": "2.49 MB",
@@ -1567,33 +1594,6 @@
         }
       ],
       "steamAppId": "433100"
-    },
-    {
-      "title": "REANIMAL",
-      "studio": "Calypso Çeviri",
-      "studioUrl": "https://www.calypsoceviri.com",
-      "language": "Türkçe",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": "3",
-      "updatedAt": "23.06.2026",
-      "pageUrl": "https://www.calypsoceviri.com/turkce-yamalar/reanimal-turkce-yama-indir",
-      "howToInstallHtml": "<div>Aşağıda vermiş olduğumuz linkten indirdiğiniz Rar dosyasındaki Türkçe Yama exesini, oyunun kurulu olduğu ana dosya konumuna atarak, Türkçe yama exesini çalıştırın. Oyunun ana dosya konumunun seçili olduğunu kontrol ettikten sonra, hangi platformdan oynuyorsanız, o platformun yükle butonuna basarak yamayı yükleyebilirsiniz. <br><br>Yamayı kaldırmak için oyunun dosya konumundaki REANIMAL_YamaKaldır.exe'sinden yamayı kaldırabilirsiniz.</div>",
-      "authorsHtml": "<p>CrimsonSwift, VolkTyson</p>",
-      "size": "2.45 MB",
-      "inDevelopment": false,
-      "mirrors": [
-        {
-          "label": "Calypso Çeviri",
-          "url": "https://www.calypsoceviri.com/_files/archives/7d262d_4858e6126f454a68a61794d61fad06a5.rar?dn=REANIMAL%2520T%25C3%25BCrk%25C3%25A7e%2520Yama%2520V3.rar",
-          "kind": "direct"
-        }
-      ],
-      "steamAppId": "2129530"
     },
     {
       "title": "Mafia 3: Definitive Edition",
@@ -4125,33 +4125,6 @@
         }
       ],
       "steamAppId": "2306030"
-    },
-    {
-      "title": "Out of Sight",
-      "studio": "Calypso Çeviri",
-      "studioUrl": "https://www.calypsoceviri.com",
-      "language": "Türkçe",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": "2",
-      "updatedAt": "23.06.2026",
-      "pageUrl": "https://www.calypsoceviri.com/turkce-yamalar/out-of-slight-turkce-yama-indir",
-      "howToInstallHtml": "<div>Aşağıda vermiş olduğumuz linkten indirdiğiniz Rar dosyasındaki T\u0000ürkçe Yama exesini, oyunun kurulu olduğu ana dosya konumuna atarak, Türkçe yama exesini çalıştırın. Oyunun ana dosya konumunun seçili olduğunu kontrol ettikten sonra, hangi platformdan oynuyorsanız, o platformun yükle butonuna basarak yamayı yükleyebilirsiniz.<br><br>Yamayı kaldırmak için dosya konumundaki OutOfSight_YamaKaldır.exe den yamayı kaldırabilirsiniz.</div>",
-      "authorsHtml": "<p>VolkTyson, Bugzade</p>",
-      "size": "19.5 MB",
-      "inDevelopment": false,
-      "mirrors": [
-        {
-          "label": "Calypso Çeviri",
-          "url": "https://www.calypsoceviri.com/_files/archives/7d262d_79985ec7c673488bba72c5a997e43aae.rar?dn=Out%2520of%2520Sight%2520T%25C3%25BCrk%25C3%25A7e%2520Yama%2520V2.rar",
-          "kind": "direct"
-        }
-      ],
-      "steamAppId": "2526310"
     },
     {
       "title": "Deliver At All Costs",
