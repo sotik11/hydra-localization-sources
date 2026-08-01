@@ -5,6 +5,34 @@
   "siteUrl": "https://lokalizace.net",
   "localizations": [
     {
+      "title": "SCP - Containment Breach",
+      "studio": "Lokalizace.net",
+      "studioUrl": "https://lokalizace.net/localizations/scp-containment-breach",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": "1.0.3",
+      "updatedAt": "31.07.2026",
+      "pageUrl": "https://lokalizace.net/localizations/scp-containment-breach",
+      "howToInstallHtml": "<p>Stáhněte ZIP soubor a rozbalte ho do složky hry, nebo použijte aplikaci CZManager pro automatickou instalaci češtiny.</p>",
+      "changelogHtml": "<div><p><strong>Nová verze 1.0.3</strong></p><p>Mnoho nových změn, zatím nejlepší verze</p></div>",
+      "authorsHtml": "<p>Překlady Abednego</p>",
+      "size": "79.9 MB",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Lokalizace.net",
+          "url": "https://lokalizace.net/api/download/1715",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "2178380"
+    },
+    {
       "title": "ReStory Chill Electronics Repairs DEMO",
       "studio": "Lokalizace.net",
       "studioUrl": "https://lokalizace.net/localizations/restory-chill-electronics-repairs-demo",
@@ -58,7 +86,7 @@
           "kind": "direct"
         }
       ],
-      "steamAppId": "1175830"
+      "steamAppId": "4172530"
     },
     {
       "title": "The Legend of Kyrandia: Hand Of Fate - CZ dabing",
@@ -86,7 +114,7 @@
           "kind": "direct"
         }
       ],
-      "steamAppId": "1175830"
+      "steamAppId": "4172530"
     },
     {
       "title": "Mass Effect Legendary Edition",
@@ -1152,7 +1180,7 @@
           "kind": "direct"
         }
       ],
-      "steamAppId": "1175830"
+      "steamAppId": "4172530"
     },
     {
       "title": "HumanitZ",
@@ -8731,7 +8759,7 @@
           "kind": "other"
         }
       ],
-      "steamAppId": "1175830"
+      "steamAppId": "4172530"
     },
     {
       "title": "The Legend of Kyrandia: Malcolm's Revenge (1994)",
@@ -8764,7 +8792,7 @@
           "kind": "other"
         }
       ],
-      "steamAppId": "1175830"
+      "steamAppId": "4172530"
     },
     {
       "title": "The Legend of Kyrandia (1992)",
@@ -8797,7 +8825,7 @@
           "kind": "other"
         }
       ],
-      "steamAppId": "1175830"
+      "steamAppId": "4172530"
     },
     {
       "title": "King's Bounty mód Red Sands (2011)",
@@ -16232,48 +16260,6 @@
       "steamAppId": "359100"
     },
     {
-      "title": "Voices of the Void (Fix only)",
-      "studio": "Lokalizace.net",
-      "studioUrl": "https://lokalizace.net/localizations/voices-of-the-void",
-      "language": "Čeština",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": "0.82",
-      "updatedAt": "10.04.2025",
-      "pageUrl": "https://lokalizace.net/localizations/voices-of-the-void",
-      "howToInstallHtml": "<p>Stáhněte ZIP soubor a rozbalte ho do složky hry, nebo použijte aplikaci CZManager pro automatickou instalaci češtiny.</p>",
-      "changelogHtml": null,
-      "authorsHtml": "<p>MikeCZ</p>",
-      "size": "245 KB",
-      "inDevelopment": false,
-      "mirrors": [
-        {
-          "label": "Lokalizace.net",
-          "url": "https://lokalizace.net/api/download/833",
-          "kind": "direct"
-        },
-        {
-          "label": "Версия 0.81",
-          "url": "https://lokalizace.net/api/download/460",
-          "kind": "other"
-        },
-        {
-          "label": "Версия 0.71",
-          "url": "https://lokalizace.net/api/download/340",
-          "kind": "other"
-        },
-        {
-          "label": "Версия 0.7b",
-          "url": "https://lokalizace.net/api/download/187",
-          "kind": "other"
-        }
-      ]
-    },
-    {
       "title": "Kathy Rain + Kathy Rain Director's Cut",
       "studio": "Lokalizace.net",
       "studioUrl": "https://lokalizace.net/localizations/kathy-rain-kathy-rain-directors-cut",
@@ -16710,7 +16696,7 @@
           "kind": "direct"
         }
       ],
-      "steamAppId": "1505430"
+      "steamAppId": "212410"
     },
     {
       "title": "Stellaris",
@@ -19884,28 +19870,6 @@
       "size": null,
       "inDevelopment": true,
       "mirrors": []
-    },
-    {
-      "title": "SCP - Containment Breach",
-      "studio": "Lokalizace.net",
-      "studioUrl": "https://lokalizace.net/localizations/scp-containment-breach",
-      "language": "Čeština",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": null,
-      "updatedAt": null,
-      "pageUrl": "https://lokalizace.net/localizations/scp-containment-breach",
-      "howToInstallHtml": "<p>Stáhněte ZIP soubor a rozbalte ho do složky hry, nebo použijte aplikaci CZManager pro automatickou instalaci češtiny.</p>",
-      "changelogHtml": "<div><p><strong>Nová verze 1.0.0</strong></p><p>Definitivní verze, příliš mnoho oprav na výpis tady</p></div>",
-      "authorsHtml": "<p>Překlady Abednego</p>",
-      "size": null,
-      "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "2178380"
     },
     {
       "title": "Toys in the Dark: Rebirth",
