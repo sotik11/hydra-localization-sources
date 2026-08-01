@@ -5,6 +5,146 @@
   "siteUrl": "https://komunitni-preklady.org",
   "localizations": [
     {
+      "title": "Gold Mining Simulator",
+      "studio": "Komunitní překlady",
+      "studioUrl": "https://komunitni-preklady.org/preklad/gold-mining-simulator",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": "0.71",
+      "updatedAt": "01.08.2026",
+      "requiredGameVersion": null,
+      "pageUrl": "https://komunitni-preklady.org/preklad/gold-mining-simulator",
+      "howToInstallHtml": "<p>Každý překlad má vlastní postup instalace. Otevřete stránku překladu (tlačítko „Otevřít v prohlížeči“ níže) — najdete tam úplný návod k instalaci i tlačítko ke stažení.</p>",
+      "authorsHtml": "<p>Dyslektik</p>",
+      "size": "114 KB",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Komunitní překlady",
+          "url": "https://komunitni-preklady.org/download/779?sig=e9H4ZKFnRiWyqNtkyntsrA",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "451340"
+    },
+    {
+      "title": "Crimson Desert",
+      "studio": "Komunitní překlady",
+      "studioUrl": "https://komunitni-preklady.org/preklad/crimson-desert",
+      "language": "Čeština",
+      "hasText": false,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": true,
+      "version": "1.1600",
+      "updatedAt": "01.08.2026",
+      "requiredGameVersion": "1.16.00",
+      "pageUrl": "https://komunitni-preklady.org/preklad/crimson-desert",
+      "howToInstallHtml": "<p>Každý překlad má vlastní postup instalace. Otevřete stránku překladu (tlačítko „Otevřít v prohlížeči“ níže) — najdete tam úplný návod k instalaci i tlačítko ke stažení.</p>",
+      "authorsHtml": "<p>Banditi</p>",
+      "size": "7.60 MB",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Komunitní překlady",
+          "url": "https://komunitni-preklady.org/download/755?sig=l5B6wbQGGDI8HwJkBA-SzA",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "3321460"
+    },
+    {
+      "title": "60 Parsecs!",
+      "studio": "Komunitní překlady",
+      "studioUrl": "https://komunitni-preklady.org/preklad/60-parsecs",
+      "language": "Čeština",
+      "hasText": false,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": true,
+      "version": "1.0.1",
+      "updatedAt": "01.08.2026",
+      "requiredGameVersion": "1.7.0 build 22332285",
+      "pageUrl": "https://komunitni-preklady.org/preklad/60-parsecs",
+      "howToInstallHtml": "<p>Každý překlad má vlastní postup instalace. Otevřete stránku překladu (tlačítko „Otevřít v prohlížeči“ níže) — najdete tam úplný návod k instalaci i tlačítko ke stažení.</p>",
+      "authorsHtml": "<p>Ironvale Localization</p>",
+      "size": "21.5 MB",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Komunitní překlady",
+          "url": "https://komunitni-preklady.org/download/879?sig=39y2TVLOOZeoMYcaWkSRPQ",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "646270"
+    },
+    {
+      "title": "Disney Dreamlight Valley",
+      "studio": "Komunitní překlady",
+      "studioUrl": "https://komunitni-preklady.org/preklad/disney-dreamlight-valley",
+      "language": "Čeština",
+      "hasText": false,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": true,
+      "version": "0.66.0",
+      "updatedAt": "31.07.2026",
+      "requiredGameVersion": "1.24.11.2",
+      "pageUrl": "https://komunitni-preklady.org/preklad/disney-dreamlight-valley",
+      "howToInstallHtml": "<p>Každý překlad má vlastní postup instalace. Otevřete stránku překladu (tlačítko „Otevřít v prohlížeči“ níže) — najdete tam úplný návod k instalaci i tlačítko ke stažení.</p>",
+      "authorsHtml": "<p>666joxer</p>",
+      "size": "12.8 MB",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Komunitní překlady",
+          "url": "https://komunitni-preklady.org/download/490?sig=7mP7AR8iOiCAjp_VExFo-w",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "1401590"
+    },
+    {
+      "title": "60 Seconds! Reatomized",
+      "studio": "Komunitní překlady",
+      "studioUrl": "https://komunitni-preklady.org/preklad/60-seconds-reatomized",
+      "language": "Čeština",
+      "hasText": false,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": true,
+      "version": "1.0.2",
+      "updatedAt": "31.07.2026",
+      "requiredGameVersion": "1.1.9.0",
+      "pageUrl": "https://komunitni-preklady.org/preklad/60-seconds-reatomized",
+      "howToInstallHtml": "<p>Každý překlad má vlastní postup instalace. Otevřete stránku překladu (tlačítko „Otevřít v prohlížeči“ níže) — najdete tam úplný návod k instalaci i tlačítko ke stažení.</p>",
+      "authorsHtml": "<p>Ironvale Localization</p>",
+      "size": "44.7 MB",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Komunitní překlady",
+          "url": "https://komunitni-preklady.org/download/877?sig=pWZKkhr6mmeYlTzbKSyIkw",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "1012880"
+    },
+    {
       "title": "Borderlands 4",
       "studio": "Komunitní překlady",
       "studioUrl": "https://komunitni-preklady.org/preklad/borderlands-4",
@@ -256,34 +396,6 @@
       "steamAppId": "1805110"
     },
     {
-      "title": "60 Parsecs!",
-      "studio": "Komunitní překlady",
-      "studioUrl": "https://komunitni-preklady.org/preklad/60-parsecs",
-      "language": "Čeština",
-      "hasText": false,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": true,
-      "version": "1.0",
-      "updatedAt": "29.07.2026",
-      "requiredGameVersion": "1.7.0 build 22332285",
-      "pageUrl": "https://komunitni-preklady.org/preklad/60-parsecs",
-      "howToInstallHtml": "<p>Každý překlad má vlastní postup instalace. Otevřete stránku překladu (tlačítko „Otevřít v prohlížeči“ níže) — najdete tam úplný návod k instalaci i tlačítko ke stažení.</p>",
-      "authorsHtml": "<p>Ironvale Localization</p>",
-      "size": "14.2 MB",
-      "inDevelopment": false,
-      "mirrors": [
-        {
-          "label": "Komunitní překlady",
-          "url": "https://komunitni-preklady.org/download/879?sig=39y2TVLOOZeoMYcaWkSRPQ",
-          "kind": "direct"
-        }
-      ],
-      "steamAppId": "646270"
-    },
-    {
       "title": "Enotria",
       "studio": "Komunitní překlady",
       "studioUrl": "https://komunitni-preklady.org/preklad/enotria",
@@ -337,34 +449,6 @@
         }
       ],
       "steamAppId": "3812600"
-    },
-    {
-      "title": "60 Seconds! Reatomized",
-      "studio": "Komunitní překlady",
-      "studioUrl": "https://komunitni-preklady.org/preklad/60-seconds-reatomized",
-      "language": "Čeština",
-      "hasText": false,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": true,
-      "version": "1.0.1",
-      "updatedAt": "28.07.2026",
-      "requiredGameVersion": "1.1.9.0",
-      "pageUrl": "https://komunitni-preklady.org/preklad/60-seconds-reatomized",
-      "howToInstallHtml": "<p>Každý překlad má vlastní postup instalace. Otevřete stránku překladu (tlačítko „Otevřít v prohlížeči“ níže) — najdete tam úplný návod k instalaci i tlačítko ke stažení.</p>",
-      "authorsHtml": "<p>Ironvale Localization</p>",
-      "size": "44.7 MB",
-      "inDevelopment": false,
-      "mirrors": [
-        {
-          "label": "Komunitní překlady",
-          "url": "https://komunitni-preklady.org/download/877?sig=pWZKkhr6mmeYlTzbKSyIkw",
-          "kind": "direct"
-        }
-      ],
-      "steamAppId": "1012880"
     },
     {
       "title": "Split Fiction",
@@ -586,34 +670,6 @@
           "kind": "direct"
         }
       ]
-    },
-    {
-      "title": "Crimson Desert",
-      "studio": "Komunitní překlady",
-      "studioUrl": "https://komunitni-preklady.org/preklad/crimson-desert",
-      "language": "Čeština",
-      "hasText": false,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": true,
-      "version": "1.1500",
-      "updatedAt": "24.07.2026",
-      "requiredGameVersion": "1.15.00",
-      "pageUrl": "https://komunitni-preklady.org/preklad/crimson-desert",
-      "howToInstallHtml": "<p>Každý překlad má vlastní postup instalace. Otevřete stránku překladu (tlačítko „Otevřít v prohlížeči“ níže) — najdete tam úplný návod k instalaci i tlačítko ke stažení.</p>",
-      "authorsHtml": "<p>Banditi</p>",
-      "size": "7.60 MB",
-      "inDevelopment": false,
-      "mirrors": [
-        {
-          "label": "Komunitní překlady",
-          "url": "https://komunitni-preklady.org/download/755?sig=l5B6wbQGGDI8HwJkBA-SzA",
-          "kind": "direct"
-        }
-      ],
-      "steamAppId": "3321460"
     },
     {
       "title": "Assassin\\u0027s Creed: Black Flag Resynced",
@@ -2664,34 +2720,6 @@
       "steamAppId": "2679100"
     },
     {
-      "title": "Disney Dreamlight Valley",
-      "studio": "Komunitní překlady",
-      "studioUrl": "https://komunitni-preklady.org/preklad/disney-dreamlight-valley",
-      "language": "Čeština",
-      "hasText": false,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": true,
-      "version": "0.65.0",
-      "updatedAt": "11.06.2026",
-      "requiredGameVersion": "1.23.2.4",
-      "pageUrl": "https://komunitni-preklady.org/preklad/disney-dreamlight-valley",
-      "howToInstallHtml": "<p>Každý překlad má vlastní postup instalace. Otevřete stránku překladu (tlačítko „Otevřít v prohlížeči“ níže) — najdete tam úplný návod k instalaci i tlačítko ke stažení.</p>",
-      "authorsHtml": "<p>666joxer</p>",
-      "size": "12.1 MB",
-      "inDevelopment": false,
-      "mirrors": [
-        {
-          "label": "Komunitní překlady",
-          "url": "https://komunitni-preklady.org/download/490?sig=7mP7AR8iOiCAjp_VExFo-w",
-          "kind": "direct"
-        }
-      ],
-      "steamAppId": "1401590"
-    },
-    {
       "title": "Lunar Eclipse",
       "studio": "Komunitní překlady",
       "studioUrl": "https://komunitni-preklady.org/preklad/lunar-eclipse",
@@ -2858,34 +2886,6 @@
         }
       ],
       "steamAppId": "206420"
-    },
-    {
-      "title": "Gold Mining Simulator",
-      "studio": "Komunitní překlady",
-      "studioUrl": "https://komunitni-preklady.org/preklad/gold-mining-simulator",
-      "language": "Čeština",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": "0.70",
-      "updatedAt": "05.06.2026",
-      "requiredGameVersion": null,
-      "pageUrl": "https://komunitni-preklady.org/preklad/gold-mining-simulator",
-      "howToInstallHtml": "<p>Každý překlad má vlastní postup instalace. Otevřete stránku překladu (tlačítko „Otevřít v prohlížeči“ níže) — najdete tam úplný návod k instalaci i tlačítko ke stažení.</p>",
-      "authorsHtml": "<p>Dyslektik</p>",
-      "size": "109 KB",
-      "inDevelopment": false,
-      "mirrors": [
-        {
-          "label": "Komunitní překlady",
-          "url": "https://komunitni-preklady.org/download/779?sig=e9H4ZKFnRiWyqNtkyntsrA",
-          "kind": "direct"
-        }
-      ],
-      "steamAppId": "451340"
     },
     {
       "title": "Fatal Frame: Mask of the Lunar Eclipse",
@@ -15997,7 +15997,7 @@
           "kind": "direct"
         }
       ],
-      "steamAppId": "1366950"
+      "steamAppId": "302080"
     },
     {
       "title": "Codename Eagles",
@@ -16342,11 +16342,11 @@
       "hasNeuralDub": false,
       "hasNeuralText": true,
       "version": null,
-      "updatedAt": "31.07.2026",
+      "updatedAt": "01.08.2026",
       "requiredGameVersion": null,
       "pageUrl": "https://komunitni-preklady.org/preklad/divinity-ii-dragon-knight-saga-",
       "howToInstallHtml": "<p>Každý překlad má vlastní postup instalace. Otevřete stránku překladu (tlačítko „Otevřít v prohlížeči“ níže) — najdete tam úplný návod k instalaci i tlačítko ke stažení.</p>",
-      "authorsHtml": "<p>Banditi</p>",
+      "authorsHtml": "<p>Dyslektik</p>",
       "size": null,
       "inDevelopment": true,
       "mirrors": []

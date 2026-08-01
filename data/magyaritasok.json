@@ -1365,6 +1365,30 @@
       ]
     },
     {
+      "steamAppId": "1145350",
+      "title": "Hades II",
+      "studio": "Magyarítások",
+      "studioUrl": "https://magyaritasok.hu",
+      "language": "Magyar",
+      "hasText": true,
+      "hasVoice": false,
+      "version": "1.0",
+      "updatedAt": "01.08.2026",
+      "requiredGameVersion": "v1.139251",
+      "size": "2.45 MB",
+      "pageUrl": "https://magyaritasok.hu/games/hades-ii",
+      "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
+      "authorsHtml": "<p>TSL16b, Mr. Fusion, ·f·i· csoport</p>",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Magyarítások",
+          "url": "https://magyaritasok.hu/dl/HadesII/HadesIIHU-v1.0.zip",
+          "kind": "direct"
+        }
+      ]
+    },
+    {
       "steamAppId": "860510",
       "title": "Little Nightmares II",
       "studio": "Magyarítások",
@@ -11141,18 +11165,18 @@
       "language": "Magyar",
       "hasText": true,
       "hasVoice": false,
-      "version": null,
+      "version": "1.1",
       "updatedAt": "28.07.2014",
       "requiredGameVersion": null,
       "size": "5.80 MB",
       "pageUrl": "https://magyaritasok.hu/games/john-deere-american-farmer",
       "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
-      "authorsHtml": "<p>Panyi</p>",
+      "authorsHtml": "<p>Panyi, Andy</p>",
       "inDevelopment": false,
       "mirrors": [
         {
           "label": "Magyarítások",
-          "url": "https://magyaritasok.hu/dl/jdafd/jdaf.exe",
+          "url": "https://magyaritasok.hu/dl/JohnDeereAmericanFarmer/jdaf.exe",
           "kind": "direct"
         }
       ]
@@ -11170,12 +11194,12 @@
       "size": "2.24 MB",
       "pageUrl": "https://magyaritasok.hu/games/john-deere-american-builder-deluxe",
       "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
-      "authorsHtml": "<p>Andy, Panyi</p>",
+      "authorsHtml": "<p>Panyi, Andy</p>",
       "inDevelopment": false,
       "mirrors": [
         {
           "label": "Magyarítások",
-          "url": "https://magyaritasok.hu/dl/jdabuilder/John-Deere-American-Builder-v0.8.exe",
+          "url": "https://magyaritasok.hu/dl/JohnDeereAmericanBuilder/John-Deere-American-Builder-v0.8.exe",
           "kind": "direct"
         }
       ]
@@ -48193,7 +48217,7 @@
       "language": "Magyar",
       "hasText": true,
       "hasVoice": false,
-      "version": null,
+      "version": "1.0",
       "updatedAt": "22.06.2014",
       "requiredGameVersion": null,
       "size": "2 KB",
@@ -48228,6 +48252,29 @@
         {
           "label": "Magyarítások",
           "url": "https://magyaritasok.hu/dl/firechief/firec.exe",
+          "kind": "direct"
+        }
+      ]
+    },
+    {
+      "title": "Puerto Rico (????)",
+      "studio": "Magyarítások",
+      "studioUrl": "https://magyaritasok.hu",
+      "language": "Magyar",
+      "hasText": true,
+      "hasVoice": false,
+      "version": null,
+      "updatedAt": "22.06.2014",
+      "requiredGameVersion": null,
+      "size": "1.40 MB",
+      "pageUrl": "https://magyaritasok.hu/games/puerto-rico",
+      "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
+      "authorsHtml": "<p>Panyi</p>",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Magyarítások",
+          "url": "https://magyaritasok.hu/dl/puertorico/puertorico.zip",
           "kind": "direct"
         }
       ]
@@ -48417,6 +48464,52 @@
       ]
     },
     {
+      "title": "Private Dancer (????)",
+      "studio": "Magyarítások",
+      "studioUrl": "https://magyaritasok.hu",
+      "language": "Magyar",
+      "hasText": true,
+      "hasVoice": false,
+      "version": null,
+      "updatedAt": "12.03.2016",
+      "requiredGameVersion": null,
+      "size": "3 KB",
+      "pageUrl": "https://magyaritasok.hu/games/private-dancer",
+      "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
+      "authorsHtml": null,
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Magyarítások",
+          "url": "https://magyaritasok.hu/dl/privatedancer/privatedancer_hun.zip",
+          "kind": "direct"
+        }
+      ]
+    },
+    {
+      "title": "Magic Ball 4 (????)",
+      "studio": "Magyarítások",
+      "studioUrl": "https://magyaritasok.hu",
+      "language": "Magyar",
+      "hasText": true,
+      "hasVoice": false,
+      "version": "1.0",
+      "updatedAt": "22.06.2014",
+      "requiredGameVersion": null,
+      "size": "163 KB",
+      "pageUrl": "https://magyaritasok.hu/games/magic-ball-4",
+      "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
+      "authorsHtml": "<p>Panyi</p>",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Magyarítások",
+          "url": "https://magyaritasok.hu/dl/magicball4/magic_ball_4_hun.exe",
+          "kind": "direct"
+        }
+      ]
+    },
+    {
       "title": "Knights: Learn to fly (????)",
       "studio": "Magyarítások",
       "studioUrl": "https://magyaritasok.hu",
@@ -48538,7 +48631,7 @@
       "language": "Magyar",
       "hasText": true,
       "hasVoice": false,
-      "version": null,
+      "version": "1.0",
       "updatedAt": "22.06.2014",
       "requiredGameVersion": null,
       "size": "2 KB",
@@ -48814,7 +48907,7 @@
       "language": "Magyar",
       "hasText": true,
       "hasVoice": false,
-      "version": null,
+      "version": "1.0",
       "updatedAt": "22.06.2014",
       "requiredGameVersion": null,
       "size": "172 KB",
@@ -49015,6 +49108,52 @@
       ]
     },
     {
+      "title": "Margrave: The Curse of the Severed Heart Collector's Edition (????)",
+      "studio": "Magyarítások",
+      "studioUrl": "https://magyaritasok.hu",
+      "language": "Magyar",
+      "hasText": true,
+      "hasVoice": false,
+      "version": null,
+      "updatedAt": "22.06.2014",
+      "requiredGameVersion": null,
+      "size": "4.84 MB",
+      "pageUrl": "https://magyaritasok.hu/games/margrave-the-curse-of-the-severed-heart-collector-s-edition",
+      "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
+      "authorsHtml": "<p>RaveAir</p>",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Magyarítások",
+          "url": "https://magyaritasok.hu/dl/margrave3/Margrave3_magyaritas.zip",
+          "kind": "direct"
+        }
+      ]
+    },
+    {
+      "title": "Margrave: The Blacksmith's Daughter Collector's Edition (????)",
+      "studio": "Magyarítások",
+      "studioUrl": "https://magyaritasok.hu",
+      "language": "Magyar",
+      "hasText": true,
+      "hasVoice": false,
+      "version": null,
+      "updatedAt": "22.06.2014",
+      "requiredGameVersion": null,
+      "size": "550 KB",
+      "pageUrl": "https://magyaritasok.hu/games/margrave-the-blacksmith-s-daughter-collector-s-edition",
+      "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
+      "authorsHtml": "<p>RaveAir</p>",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Magyarítások",
+          "url": "https://magyaritasok.hu/dl/margrave3/margrave4.zip",
+          "kind": "direct"
+        }
+      ]
+    },
+    {
       "title": "Operation Flashpoint: Gold Upgrade (????)",
       "studio": "Magyarítások",
       "studioUrl": "https://magyaritasok.hu",
@@ -49061,6 +49200,29 @@
       ]
     },
     {
+      "title": "Perfect Sudoku (????)",
+      "studio": "Magyarítások",
+      "studioUrl": "https://magyaritasok.hu",
+      "language": "Magyar",
+      "hasText": true,
+      "hasVoice": false,
+      "version": "1.0",
+      "updatedAt": "22.06.2014",
+      "requiredGameVersion": null,
+      "size": "551 KB",
+      "pageUrl": "https://magyaritasok.hu/games/perfect-sudoku",
+      "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
+      "authorsHtml": null,
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Magyarítások",
+          "url": "https://magyaritasok.hu/dl/perfectsudoku/perfectsudoku.zip",
+          "kind": "direct"
+        }
+      ]
+    },
+    {
       "title": "Ibiza Babewatch (????)",
       "studio": "Magyarítások",
       "studioUrl": "https://magyaritasok.hu",
@@ -49079,6 +49241,29 @@
         {
           "label": "Magyarítások",
           "url": "https://magyaritasok.hu/dl/ibizababewatch/ibizababewatch.zip",
+          "kind": "direct"
+        }
+      ]
+    },
+    {
+      "title": "Settlers of Catan (????)",
+      "studio": "Magyarítások",
+      "studioUrl": "https://magyaritasok.hu",
+      "language": "Magyar",
+      "hasText": true,
+      "hasVoice": false,
+      "version": null,
+      "updatedAt": "22.06.2014",
+      "requiredGameVersion": null,
+      "size": "2.08 MB",
+      "pageUrl": "https://magyaritasok.hu/games/settlers-of-catan",
+      "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
+      "authorsHtml": "<p>RaveAir</p>",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Magyarítások",
+          "url": "https://magyaritasok.hu/dl/SettlersofCatan/catan.zip",
           "kind": "direct"
         }
       ]
@@ -49113,7 +49298,7 @@
       "language": "Magyar",
       "hasText": true,
       "hasVoice": false,
-      "version": null,
+      "version": "0.44",
       "updatedAt": "23.06.2014",
       "requiredGameVersion": null,
       "size": "234 KB",
@@ -49124,7 +49309,7 @@
       "mirrors": [
         {
           "label": "Magyarítások",
-          "url": "https://magyaritasok.hu/dl/street_rod_3/street_rod_3_magyar.zip",
+          "url": "https://magyaritasok.hu/dl/StreetRod3/street_rod_3_magyar.zip",
           "kind": "direct"
         }
       ]
@@ -49148,6 +49333,29 @@
         {
           "label": "Magyarítások",
           "url": "https://magyaritasok.hu/dl/theenchantedkingdom/The_Enchanted_Kingdom_v1.0.rar",
+          "kind": "direct"
+        }
+      ]
+    },
+    {
+      "title": "Regnum Online (????)",
+      "studio": "Magyarítások",
+      "studioUrl": "https://magyaritasok.hu",
+      "language": "Magyar",
+      "hasText": true,
+      "hasVoice": false,
+      "version": null,
+      "updatedAt": "22.06.2014",
+      "requiredGameVersion": null,
+      "size": "143 KB",
+      "pageUrl": "https://magyaritasok.hu/games/regnum-online",
+      "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
+      "authorsHtml": "<p>Panyi</p>",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Magyarítások",
+          "url": "https://magyaritasok.hu/dl/regnumonline/regnumonlineintrohun.rar",
           "kind": "direct"
         }
       ]
@@ -49458,7 +49666,7 @@
       "language": "Magyar",
       "hasText": true,
       "hasVoice": false,
-      "version": null,
+      "version": "1.0",
       "updatedAt": "15.06.2014",
       "requiredGameVersion": null,
       "size": "6 KB",
