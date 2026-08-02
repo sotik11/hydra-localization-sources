@@ -5,6 +5,54 @@
   "siteUrl": "https://magyaritasok.hu",
   "localizations": [
     {
+      "steamAppId": "2427430",
+      "title": "S.T.A.L.K.E.R.: Call of Prypiat - Enhanced Edition",
+      "studio": "Magyarítások",
+      "studioUrl": "https://magyaritasok.hu",
+      "language": "Magyar",
+      "hasText": true,
+      "hasVoice": false,
+      "version": "1.0",
+      "updatedAt": "11.10.2025",
+      "requiredGameVersion": "1.3.1 vagy újabb",
+      "size": "368 KB",
+      "pageUrl": "https://magyaritasok.hu/games/s-dot-t-a-dot-l-k-dot-e-r-dot-call-of-prypiat-enhanced-edition",
+      "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
+      "authorsHtml": "<p>Mr. Fusion, ·f·i· csoport</p>",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Magyarítások",
+          "url": "https://magyaritasok.hu/dl/StalkerCallofPripyat/SCOPEEHU-v1.0.zip",
+          "kind": "direct"
+        }
+      ]
+    },
+    {
+      "steamAppId": "2427420",
+      "title": "S.T.A.L.K.E.R.: Clear Sky - Enhanced Edition",
+      "studio": "Magyarítások",
+      "studioUrl": "https://magyaritasok.hu",
+      "language": "Magyar",
+      "hasText": true,
+      "hasVoice": false,
+      "version": "1.0",
+      "updatedAt": "14.07.2026",
+      "requiredGameVersion": "1.3.2 vagy újabb",
+      "size": "383 KB",
+      "pageUrl": "https://magyaritasok.hu/games/s-dot-t-a-dot-l-k-dot-e-r-dot-clear-sky-enhanced-edition",
+      "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
+      "authorsHtml": "<p>Mr. Fusion, ·f·i· csoport</p>",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Magyarítások",
+          "url": "https://magyaritasok.hu/dl/StalkerClearSky/SCSEEHU-v1.0.zip",
+          "kind": "direct"
+        }
+      ]
+    },
+    {
       "steamAppId": "40392",
       "title": "Risen 2: Dark Waters - Treasure Isle",
       "studio": "Magyarítások",
@@ -44630,10 +44678,10 @@
       "language": "Magyar",
       "hasText": true,
       "hasVoice": false,
-      "version": null,
-      "updatedAt": "31.05.2014",
+      "version": "1.1",
+      "updatedAt": "07.02.2026",
       "requiredGameVersion": null,
-      "size": "3.24 MB",
+      "size": "4.29 MB",
       "pageUrl": "https://magyaritasok.hu/games/fable-the-lost-chapters",
       "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
       "authorsHtml": "<p>jnc, Panyi, Sajt és a többiek</p>",
@@ -44641,7 +44689,7 @@
       "mirrors": [
         {
           "label": "Magyarítások",
-          "url": "https://magyaritasok.hu/dl/fable/fable_the_lost_chapters_hu.rar",
+          "url": "https://magyaritasok.hu/dl/fable/FableTheLostChaptersHun1.1.zip",
           "kind": "direct"
         }
       ]
@@ -49125,7 +49173,7 @@
       "mirrors": [
         {
           "label": "Magyarítások",
-          "url": "https://magyaritasok.hu/dl/margrave3/Margrave3_magyaritas.zip",
+          "url": "https://magyaritasok.hu/dl/Margrave/margrave3.zip",
           "kind": "direct"
         }
       ]
@@ -49148,7 +49196,7 @@
       "mirrors": [
         {
           "label": "Magyarítások",
-          "url": "https://magyaritasok.hu/dl/margrave3/margrave4.zip",
+          "url": "https://magyaritasok.hu/dl/Margrave/margrave4.zip",
           "kind": "direct"
         }
       ]
