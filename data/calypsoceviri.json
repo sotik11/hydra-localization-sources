@@ -5,6 +5,33 @@
   "siteUrl": "https://www.calypsoceviri.com",
   "localizations": [
     {
+      "title": "Beast of Reincarnation",
+      "studio": "Calypso Çeviri",
+      "studioUrl": "https://www.calypsoceviri.com",
+      "language": "Türkçe",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": "1",
+      "updatedAt": "02.08.2026",
+      "pageUrl": "https://www.calypsoceviri.com/turkce-yamalar/beast-of-reincarnation-turkce-yama-indir",
+      "howToInstallHtml": "<div>Aşağıda vermiş olduğumuz linkten indirdiğiniz Rar dosyasındaki Türkçe Yama exesini, oyunun kurulu olduğu ana dosya konumuna atarak, Türkçe yama exesini çalıştırın. Oyunun ana dosya konumunun seçili olduğunu kontrol ettikten sonra, hangi platformdan oynuyorsanız, o platformun yükle butonuna basarak yamayı yükleyebilirsiniz. <br><br>Yamayı kaldırmak isterseniz, oyunun dosya konumundaki \"Reincarnation_YamaKaldır.exe\"'si üzerinden kaldırabilirsiniz.</div>",
+      "authorsHtml": "<p>VolkTyson</p>",
+      "size": "40.8 MB",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Calypso Çeviri",
+          "url": "https://www.calypsoceviri.com/_files/archives/7d262d_998f8cc40095473793e8e8352ca09584.rar?dn=Beast%2520of%2520Reincarnation%2520T%25C3%25BCrk%25C3%25A7e%2520Yama%2520V1.rar",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "2001760"
+    },
+    {
       "title": "Pit Panic",
       "studio": "Calypso Çeviri",
       "studioUrl": "https://www.calypsoceviri.com",
@@ -5826,6 +5853,33 @@
         }
       ],
       "steamAppId": "990080"
+    },
+    {
+      "title": "Guardians of the Galaxy",
+      "studio": "Calypso Çeviri",
+      "studioUrl": "https://www.calypsoceviri.com",
+      "language": "Türkçe",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": null,
+      "updatedAt": "23.06.2026",
+      "pageUrl": "https://www.calypsoceviri.com/turkce-yamalar/guardians-of-the-galaxy-turkce-yama-indir",
+      "howToInstallHtml": "<div>Aşağıda vermiş olduğumuz linkten indirdiğiniz Rar dosyasındaki Türkçe Yama exesini, oyunun kurulu olduğu ana dosya konumuna atarak, Türkçe yama exesini çalıştırın. Oyunun ana dosya konumunun seçili olduğunu kontrol ettikten sonra, hangi platformdan oynuyorsanız, o platformun yükle butonuna basarak yamayı yükleyebilirsiniz.<br><br>Yamayı kaldırmak için dosya konumundaki Gotg_YamaKaldir.exe den yamayı kaldırabilirsiniz.</div>",
+      "authorsHtml": "<p>VolkTyson, Sweaty</p>",
+      "size": "2.44 MB",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Calypso Çeviri",
+          "url": "https://www.calypsoceviri.com/_files/archives/7d262d_61d803ebba3c460fa80059e4472084c2.rar?dn=Guardians%2520Of%2520The%2520Galaxy%2520T%25C3%25BCrk%25C3%25A7e%2520Yama.rar",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "1088850"
     },
     {
       "title": "Gylt",

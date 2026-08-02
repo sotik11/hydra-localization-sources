@@ -86,7 +86,7 @@
           "kind": "direct"
         }
       ],
-      "steamAppId": "4172530"
+      "steamAppId": "1175830"
     },
     {
       "title": "The Legend of Kyrandia: Hand Of Fate - CZ dabing",
@@ -114,7 +114,7 @@
           "kind": "direct"
         }
       ],
-      "steamAppId": "4172530"
+      "steamAppId": "1175830"
     },
     {
       "title": "Mass Effect Legendary Edition",
@@ -1180,7 +1180,7 @@
           "kind": "direct"
         }
       ],
-      "steamAppId": "4172530"
+      "steamAppId": "1175830"
     },
     {
       "title": "HumanitZ",
@@ -2796,8 +2796,7 @@
           "url": "https://lokalizace.net/api/download/1313",
           "kind": "direct"
         }
-      ],
-      "steamAppId": "239160"
+      ]
     },
     {
       "title": "Sinking Island",
@@ -8759,7 +8758,7 @@
           "kind": "other"
         }
       ],
-      "steamAppId": "4172530"
+      "steamAppId": "1175830"
     },
     {
       "title": "The Legend of Kyrandia: Malcolm's Revenge (1994)",
@@ -8792,7 +8791,7 @@
           "kind": "other"
         }
       ],
-      "steamAppId": "4172530"
+      "steamAppId": "1175830"
     },
     {
       "title": "The Legend of Kyrandia (1992)",
@@ -8825,7 +8824,7 @@
           "kind": "other"
         }
       ],
-      "steamAppId": "4172530"
+      "steamAppId": "1175830"
     },
     {
       "title": "King's Bounty mód Red Sands (2011)",
@@ -11282,8 +11281,7 @@
           "url": "https://lokalizace.net/api/download/514",
           "kind": "direct"
         }
-      ],
-      "steamAppId": "239160"
+      ]
     },
     {
       "title": "Warcraft 1 Remastered - CZ překlad a dabing",
@@ -14010,8 +14008,7 @@
           "url": "https://lokalizace.net/api/download/328",
           "kind": "other"
         }
-      ],
-      "steamAppId": "239160"
+      ]
     },
     {
       "title": "The Almost Gone",
@@ -16696,7 +16693,7 @@
           "kind": "direct"
         }
       ],
-      "steamAppId": "212410"
+      "steamAppId": "1505430"
     },
     {
       "title": "Stellaris",
@@ -19739,6 +19736,28 @@
       "inDevelopment": true,
       "mirrors": [],
       "steamAppId": "2369390"
+    },
+    {
+      "title": "Tattletail",
+      "studio": "Lokalizace.net",
+      "studioUrl": "https://lokalizace.net/localizations/tattletale",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": null,
+      "updatedAt": null,
+      "pageUrl": "https://lokalizace.net/localizations/tattletale",
+      "howToInstallHtml": "<p>Stáhněte ZIP soubor a rozbalte ho do složky hry, nebo použijte aplikaci CZManager pro automatickou instalaci češtiny.</p>",
+      "changelogHtml": null,
+      "authorsHtml": "<p>CzechDubStudio</p>",
+      "size": null,
+      "inDevelopment": true,
+      "mirrors": [],
+      "steamAppId": "568090"
     },
     {
       "title": "STAR WARS Zero Company™",
