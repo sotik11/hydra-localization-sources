@@ -5,6 +5,33 @@
   "siteUrl": "https://lokalizace.net",
   "localizations": [
     {
+      "title": "Indigo Park",
+      "studio": "Lokalizace.net",
+      "studioUrl": "https://lokalizace.net/localizations/indigo-park",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": "0.1",
+      "updatedAt": "02.08.2026",
+      "pageUrl": "https://lokalizace.net/localizations/indigo-park",
+      "howToInstallHtml": "<p>Stáhněte ZIP soubor a rozbalte ho do složky hry, nebo použijte aplikaci CZManager pro automatickou instalaci češtiny.</p>",
+      "changelogHtml": "<div><p>Nahrána nová verze překladu: 0.1</p></div>",
+      "authorsHtml": "<p>DickzillaTranslator</p>",
+      "size": "124.5 MB",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Lokalizace.net",
+          "url": "https://lokalizace.net/api/download/1716",
+          "kind": "direct"
+        }
+      ]
+    },
+    {
       "title": "SCP - Containment Breach",
       "studio": "Lokalizace.net",
       "studioUrl": "https://lokalizace.net/localizations/scp-containment-breach",
@@ -19868,27 +19895,6 @@
       "inDevelopment": true,
       "mirrors": [],
       "steamAppId": "1716740"
-    },
-    {
-      "title": "Indigo Park",
-      "studio": "Lokalizace.net",
-      "studioUrl": "https://lokalizace.net/localizations/indigo-park",
-      "language": "Čeština",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": null,
-      "updatedAt": null,
-      "pageUrl": "https://lokalizace.net/localizations/indigo-park",
-      "howToInstallHtml": "<p>Stáhněte ZIP soubor a rozbalte ho do složky hry, nebo použijte aplikaci CZManager pro automatickou instalaci češtiny.</p>",
-      "changelogHtml": null,
-      "authorsHtml": "<p>DickzillaTranslator</p>",
-      "size": null,
-      "inDevelopment": true,
-      "mirrors": []
     },
     {
       "title": "Toys in the Dark: Rebirth",

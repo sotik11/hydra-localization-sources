@@ -5,6 +5,34 @@
   "siteUrl": "https://hernipreklady.cz",
   "localizations": [
     {
+      "title": "Civilization VII",
+      "studio": "HerníPřeklady",
+      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/civilization-vii",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": "1.08",
+      "updatedAt": null,
+      "requiredGameVersion": "1.4.2 (PC - Win)",
+      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/civilization-vii",
+      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
+      "authorsHtml": "<p><strong>Překlad:</strong> Jetro, Ralph Shepard, Coffin Corner, Sushi<br><strong>Korektura:</strong> Jetro<br><strong>Testování:</strong> Ralph Shepard, Andrewek, Jetro</p>",
+      "inDevelopment": false,
+      "size": "3.35 MB",
+      "mirrors": [
+        {
+          "label": "HerníPřeklady",
+          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=598",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "1295660"
+    },
+    {
       "title": "Directive 8020",
       "studio": "HerníPřeklady",
       "studioUrl": "https://hernipreklady.cz/seznam-prekladu/directive-8020",
@@ -197,34 +225,6 @@
           "kind": "direct"
         }
       ]
-    },
-    {
-      "title": "Blade and Sorcery",
-      "studio": "HerníPřeklady",
-      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/blade-and-sorcery",
-      "language": "Čeština",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": "1.4",
-      "updatedAt": null,
-      "requiredGameVersion": "1.2",
-      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/blade-and-sorcery",
-      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
-      "authorsHtml": "<p><strong>Překlad textů:</strong> Luc2as</p>",
-      "inDevelopment": false,
-      "size": "17.5 MB",
-      "mirrors": [
-        {
-          "label": "HerníPřeklady",
-          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=589",
-          "kind": "direct"
-        }
-      ],
-      "steamAppId": "629730"
     },
     {
       "title": "Civilization VI",
@@ -965,34 +965,6 @@
       "steamAppId": "361420"
     },
     {
-      "title": "Civilization VII",
-      "studio": "HerníPřeklady",
-      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/civilization-vii",
-      "language": "Čeština",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": "1.07",
-      "updatedAt": "28.06.2026",
-      "requiredGameVersion": "1.4.1 (PC - Win)",
-      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/civilization-vii",
-      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
-      "authorsHtml": "<p><strong>Překlad:</strong> Jetro, Ralph Shepard, Coffin Corner, Sushi<br><strong>Korektura:</strong> Jetro<br><strong>Testování:</strong> Ralph Shepard, Andrewek, Jetro</p>",
-      "inDevelopment": false,
-      "size": "3.30 MB",
-      "mirrors": [
-        {
-          "label": "HerníPřeklady",
-          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=585",
-          "kind": "direct"
-        }
-      ],
-      "steamAppId": "1295660"
-    },
-    {
       "title": "SCP: Fragmented Minds",
       "studio": "HerníPřeklady",
       "studioUrl": "https://hernipreklady.cz/seznam-prekladu/scp-fragmented-minds",
@@ -1326,6 +1298,34 @@
         }
       ],
       "steamAppId": "2358720"
+    },
+    {
+      "title": "Blade and Sorcery",
+      "studio": "HerníPřeklady",
+      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/blade-and-sorcery",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": "1.4",
+      "updatedAt": null,
+      "requiredGameVersion": "1.2",
+      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/blade-and-sorcery",
+      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
+      "authorsHtml": "<p><strong>Překlad textů:</strong> Luc2as</p>",
+      "inDevelopment": false,
+      "size": "17.5 MB",
+      "mirrors": [
+        {
+          "label": "HerníPřeklady",
+          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=589",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "629730"
     },
     {
       "title": "This Bed We Made",
