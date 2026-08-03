@@ -5,6 +5,34 @@
   "siteUrl": "https://komunitni-preklady.org",
   "localizations": [
     {
+      "title": "Sheltered",
+      "studio": "Komunitní překlady",
+      "studioUrl": "https://komunitni-preklady.org/preklad/sheltered",
+      "language": "Čeština",
+      "hasText": false,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": true,
+      "version": "1.0",
+      "updatedAt": "02.08.2026",
+      "requiredGameVersion": "1.0",
+      "pageUrl": "https://komunitni-preklady.org/preklad/sheltered",
+      "howToInstallHtml": "<p>Každý překlad má vlastní postup instalace. Otevřete stránku překladu (tlačítko „Otevřít v prohlížeči“ níže) — najdete tam úplný návod k instalaci i tlačítko ke stažení.</p>",
+      "authorsHtml": "<p>Překlady z Masyafu</p>",
+      "size": "11.6 MB",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Komunitní překlady",
+          "url": "https://komunitni-preklady.org/download/882?sig=r_0ITri-xKDTWbVUB891hA",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "356040"
+    },
+    {
       "title": "Crimson Desert",
       "studio": "Komunitní překlady",
       "studioUrl": "https://komunitni-preklady.org/preklad/crimson-desert",
@@ -6949,7 +6977,7 @@
           "kind": "direct"
         }
       ],
-      "steamAppId": "4549610"
+      "steamAppId": "1417250"
     },
     {
       "title": "Freelancer (2003)",
@@ -16346,7 +16374,7 @@
       "requiredGameVersion": null,
       "pageUrl": "https://komunitni-preklady.org/preklad/divinity-ii-dragon-knight-saga-",
       "howToInstallHtml": "<p>Každý překlad má vlastní postup instalace. Otevřete stránku překladu (tlačítko „Otevřít v prohlížeči“ níže) — najdete tam úplný návod k instalaci i tlačítko ke stažení.</p>",
-      "authorsHtml": "<p>Banditi</p>",
+      "authorsHtml": "<p>Překlady z Masyafu</p>",
       "size": null,
       "inDevelopment": true,
       "mirrors": []
