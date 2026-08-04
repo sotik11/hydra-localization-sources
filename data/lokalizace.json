@@ -5,6 +5,34 @@
   "siteUrl": "https://lokalizace.net",
   "localizations": [
     {
+      "title": "Call of Juarez",
+      "studio": "Lokalizace.net",
+      "studioUrl": "https://lokalizace.net/localizations/call-of-juarez-1",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": "1.0",
+      "updatedAt": "03.08.2026",
+      "pageUrl": "https://lokalizace.net/localizations/call-of-juarez-1",
+      "howToInstallHtml": "<p>Stáhněte ZIP soubor a rozbalte ho do složky hry, nebo použijte aplikaci CZManager pro automatickou instalaci češtiny.</p>",
+      "changelogHtml": null,
+      "authorsHtml": "<p>Itenko14s Team</p>",
+      "size": "2.10 MB",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Lokalizace.net",
+          "url": "https://lokalizace.net/api/download/1718",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "3020"
+    },
+    {
       "title": "Indigo Park",
       "studio": "Lokalizace.net",
       "studioUrl": "https://lokalizace.net/localizations/indigo-park",
@@ -113,7 +141,7 @@
           "kind": "direct"
         }
       ],
-      "steamAppId": "1175830"
+      "steamAppId": "4172530"
     },
     {
       "title": "The Legend of Kyrandia: Hand Of Fate - CZ dabing",
@@ -141,7 +169,7 @@
           "kind": "direct"
         }
       ],
-      "steamAppId": "1175830"
+      "steamAppId": "4172530"
     },
     {
       "title": "Mass Effect Legendary Edition",
@@ -1207,7 +1235,7 @@
           "kind": "direct"
         }
       ],
-      "steamAppId": "1175830"
+      "steamAppId": "4172530"
     },
     {
       "title": "HumanitZ",
@@ -8785,7 +8813,7 @@
           "kind": "other"
         }
       ],
-      "steamAppId": "1175830"
+      "steamAppId": "4172530"
     },
     {
       "title": "The Legend of Kyrandia: Malcolm's Revenge (1994)",
@@ -8818,7 +8846,7 @@
           "kind": "other"
         }
       ],
-      "steamAppId": "1175830"
+      "steamAppId": "4172530"
     },
     {
       "title": "The Legend of Kyrandia (1992)",
@@ -8851,7 +8879,7 @@
           "kind": "other"
         }
       ],
-      "steamAppId": "1175830"
+      "steamAppId": "4172530"
     },
     {
       "title": "King's Bounty mód Red Sands (2011)",
@@ -16720,7 +16748,7 @@
           "kind": "direct"
         }
       ],
-      "steamAppId": "1505430"
+      "steamAppId": "212410"
     },
     {
       "title": "Stellaris",

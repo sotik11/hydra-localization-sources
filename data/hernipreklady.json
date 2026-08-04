@@ -227,6 +227,34 @@
       ]
     },
     {
+      "title": "Kingdom Rush Vengeance",
+      "studio": "HerníPřeklady",
+      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/kingdom-rush-vengeance",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": "1.01",
+      "updatedAt": "12.04.2024",
+      "requiredGameVersion": "1.15.7.10",
+      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/kingdom-rush-vengeance",
+      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
+      "authorsHtml": "<p><strong>Překlad:</strong> Jetro<br><strong>Testování:</strong> Jetro</p>",
+      "inDevelopment": false,
+      "size": "4.72 MB",
+      "mirrors": [
+        {
+          "label": "HerníPřeklady",
+          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=179",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "1367550"
+    },
+    {
       "title": "Civilization VI",
       "studio": "HerníPřeklady",
       "studioUrl": "https://hernipreklady.cz/seznam-prekladu/civilization-vi",
@@ -281,34 +309,6 @@
         }
       ],
       "steamAppId": "916440"
-    },
-    {
-      "title": "The Dark Pictures: Little Hope",
-      "studio": "HerníPřeklady",
-      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/the-dark-pictures-little-hope",
-      "language": "Čeština",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": "1.11",
-      "updatedAt": "23.11.2024",
-      "requiredGameVersion": "Aktuální",
-      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/the-dark-pictures-little-hope",
-      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
-      "authorsHtml": null,
-      "inDevelopment": false,
-      "size": "78.3 MB",
-      "mirrors": [
-        {
-          "label": "HerníPřeklady",
-          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=294",
-          "kind": "direct"
-        }
-      ],
-      "steamAppId": "1194630"
     },
     {
       "title": "Evotinction",
@@ -2066,7 +2066,7 @@
       "hasNeuralDub": false,
       "hasNeuralText": false,
       "version": "1.54",
-      "updatedAt": null,
+      "updatedAt": "03.07.2026",
       "requiredGameVersion": "1.10.4",
       "pageUrl": "https://hernipreklady.cz/seznam-prekladu/songs-of-conquest",
       "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
@@ -3647,6 +3647,34 @@
       "steamAppId": "1599560"
     },
     {
+      "title": "The Dark Pictures: Little Hope",
+      "studio": "HerníPřeklady",
+      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/the-dark-pictures-little-hope",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": "1.11",
+      "updatedAt": "23.11.2024",
+      "requiredGameVersion": "Aktuální",
+      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/the-dark-pictures-little-hope",
+      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
+      "authorsHtml": null,
+      "inDevelopment": false,
+      "size": "78.3 MB",
+      "mirrors": [
+        {
+          "label": "HerníPřeklady",
+          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=294",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "1194630"
+    },
+    {
       "title": "The Chant",
       "studio": "HerníPřeklady",
       "studioUrl": "https://hernipreklady.cz/seznam-prekladu/the-chant",
@@ -4973,34 +5001,6 @@
         }
       ],
       "steamAppId": "842100"
-    },
-    {
-      "title": "Kingdom Rush Vengeance",
-      "studio": "HerníPřeklady",
-      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/kingdom-rush-vengeance",
-      "language": "Čeština",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": "1.01",
-      "updatedAt": "12.04.2024",
-      "requiredGameVersion": "1.15.7.10",
-      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/kingdom-rush-vengeance",
-      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
-      "authorsHtml": "<p><strong>Překlad:</strong> Jetro<br><strong>Testování:</strong> Jetro</p>",
-      "inDevelopment": false,
-      "size": "4.72 MB",
-      "mirrors": [
-        {
-          "label": "HerníPřeklady",
-          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=179",
-          "kind": "direct"
-        }
-      ],
-      "steamAppId": "1367550"
     },
     {
       "title": "Remothered Tormented Fathers",
