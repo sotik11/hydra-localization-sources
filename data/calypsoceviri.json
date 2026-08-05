@@ -2588,7 +2588,7 @@
           "kind": "direct"
         }
       ],
-      "steamAppId": "3764200"
+      "steamAppId": "304240"
     },
     {
       "title": "Resident Evil 0 HD Remaster",
@@ -5475,33 +5475,6 @@
         }
       ],
       "steamAppId": "2646460"
-    },
-    {
-      "title": "The Elder Scrolls IV: Oblivion Remastered",
-      "studio": "Calypso Çeviri",
-      "studioUrl": "https://www.calypsoceviri.com",
-      "language": "Türkçe",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": null,
-      "updatedAt": "23.06.2026",
-      "pageUrl": "https://www.calypsoceviri.com/turkce-yamalar/the-elder-scrolls-iv-oblivion-remastered-turkce-yama-indir",
-      "howToInstallHtml": "<div>Aşağıda vermiş olduğumuz linkten indirdiğiniz Rar dosyasındaki Türkçe Yama exesini, oyunun kurulu olduğu ana dosya konumuna atarak, Türkçe yama exesini çalıştırın. Oyunun ana dosya konumunun seçili olduğunu kontrol ettikten sonra, hangi platformdan oynuyorsanız, o platformun yükle butonuna basarak yamayı yükleyebilirsiniz.<br><br>Yamayı kaldırmak için dosya konumundaki OblivionRemastered_YamaKaldir.exe den yamayı kaldırabilirsiniz.</div>",
-      "authorsHtml": "<p>VolkTyson</p>",
-      "size": "4.23 MB",
-      "inDevelopment": false,
-      "mirrors": [
-        {
-          "label": "Calypso Çeviri",
-          "url": "https://www.calypsoceviri.com/_files/archives/7d262d_7d8beeaa5b294ceb914f541ba905ef4b.rar?dn=The%2520Elder%2520Scrolls%2520IV%2520Oblivion%2520Remastered%2520T%25C3%25BCrk%25C3%25A7e%2520Yama.rar",
-          "kind": "direct"
-        }
-      ],
-      "steamAppId": "2623190"
     },
     {
       "title": "Lost Records: Bloom & Rage",

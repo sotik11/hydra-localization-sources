@@ -5,6 +5,34 @@
   "siteUrl": "https://lokalizace.net",
   "localizations": [
     {
+      "title": "Alex Kidd in Miracle World DX",
+      "studio": "Lokalizace.net",
+      "studioUrl": "https://lokalizace.net/localizations/alex-kidd-in-miracle-world-dx",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": "1.1",
+      "updatedAt": "04.08.2026",
+      "pageUrl": "https://lokalizace.net/localizations/alex-kidd-in-miracle-world-dx",
+      "howToInstallHtml": "<p>Stáhněte ZIP soubor a rozbalte ho do složky hry, nebo použijte aplikaci CZManager pro automatickou instalaci češtiny.</p>",
+      "changelogHtml": "<div><p>Nahrána nová verze překladu: 1.1</p></div>",
+      "authorsHtml": "<p>Starsoul</p>",
+      "size": "3.90 MB",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Lokalizace.net",
+          "url": "https://lokalizace.net/api/download/1720",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "1333470"
+    },
+    {
       "title": "Call of Juarez",
       "studio": "Lokalizace.net",
       "studioUrl": "https://lokalizace.net/localizations/call-of-juarez-1",
@@ -141,7 +169,7 @@
           "kind": "direct"
         }
       ],
-      "steamAppId": "4172530"
+      "steamAppId": "1175830"
     },
     {
       "title": "The Legend of Kyrandia: Hand Of Fate - CZ dabing",
@@ -169,7 +197,7 @@
           "kind": "direct"
         }
       ],
-      "steamAppId": "4172530"
+      "steamAppId": "1175830"
     },
     {
       "title": "Mass Effect Legendary Edition",
@@ -1235,7 +1263,7 @@
           "kind": "direct"
         }
       ],
-      "steamAppId": "4172530"
+      "steamAppId": "1175830"
     },
     {
       "title": "HumanitZ",
@@ -1900,18 +1928,18 @@
       "hasNeuralVoice": false,
       "hasNeuralDub": false,
       "hasNeuralText": false,
-      "version": "1.4",
-      "updatedAt": "23.04.2026",
+      "version": "1.5",
+      "updatedAt": "04.08.2026",
       "pageUrl": "https://lokalizace.net/localizations/stronghold-crusader-definitive-edition",
       "howToInstallHtml": "<p>Stáhněte ZIP soubor a rozbalte ho do složky hry, nebo použijte aplikaci CZManager pro automatickou instalaci češtiny.</p>",
-      "changelogHtml": "<div><p><strong>Nová verze 1.4</strong></p><p>Ve verzi 1.4 jsou opraveny některé chyby v dabingu a nadabované nové postavy, které vyšly v jarním updatu - Balduin a Ostrovid. </p></div>",
+      "changelogHtml": "<div><p>Nahrána nová verze překladu: 1.5</p></div>",
       "authorsHtml": "<p>Fenrir Dabing</p>",
-      "size": "1.22 GB",
+      "size": "1.26 GB",
       "inDevelopment": false,
       "mirrors": [
         {
           "label": "Lokalizace.net",
-          "url": "https://lokalizace.net/api/download/1477",
+          "url": "https://lokalizace.net/api/download/1721",
           "kind": "direct"
         }
       ],
@@ -8783,7 +8811,7 @@
       "steamAppId": "1246390"
     },
     {
-      "title": "The Legend of Kyrandia: The Hand Of Fate (1993)",
+      "title": "The Legend of Kyrandia: The Hand of Fate (1993)",
       "studio": "Lokalizace.net",
       "studioUrl": "https://lokalizace.net/localizations/the-legend-of-kyrandia-the-hand-of-fate-1993",
       "language": "Čeština",
@@ -8813,7 +8841,7 @@
           "kind": "other"
         }
       ],
-      "steamAppId": "4172530"
+      "steamAppId": "1175830"
     },
     {
       "title": "The Legend of Kyrandia: Malcolm's Revenge (1994)",
@@ -8846,7 +8874,7 @@
           "kind": "other"
         }
       ],
-      "steamAppId": "4172530"
+      "steamAppId": "1175830"
     },
     {
       "title": "The Legend of Kyrandia (1992)",
@@ -8879,7 +8907,7 @@
           "kind": "other"
         }
       ],
-      "steamAppId": "4172530"
+      "steamAppId": "1175830"
     },
     {
       "title": "King's Bounty mód Red Sands (2011)",
@@ -11783,7 +11811,7 @@
           "kind": "direct"
         }
       ],
-      "steamAppId": "2252960"
+      "steamAppId": "961620"
     },
     {
       "title": "Spirit of the North",
@@ -12267,19 +12295,24 @@
       "hasNeuralVoice": false,
       "hasNeuralDub": false,
       "hasNeuralText": false,
-      "version": "0.26.7.15-12",
-      "updatedAt": "17.07.2026",
+      "version": "0.26.7.30-18",
+      "updatedAt": "04.08.2026",
       "pageUrl": "https://lokalizace.net/localizations/infection-free-zone",
       "howToInstallHtml": "<p>Stáhněte ZIP soubor a rozbalte ho do složky hry, nebo použijte aplikaci CZManager pro automatickou instalaci češtiny.</p>",
-      "changelogHtml": "<div><p><strong>Nová verze 0.26.7.15-12</strong></p><p><span style=\"font-size: 14px; color: rgb(241, 196, 15)\">Byla vydána aktualizace překladu 0.26.7.15-12 </span></p><p><span style=\"font-size: 14px; color: rgb(236, 240, 241)\">Bugfix Update #41 ze dne 16.07.2026 </span></p><p><span style=\"font-size: 14px; color: rgb(236, 240, 241)\">přidali 11 nových řádků a 6 jich upravili.</span></p><p><strong>Nová verze 0.26.6.18-13</strong></p><p><span style=\"font-size: 14px; color: rgb(241, 196, 15)\">Byla vydána aktualizace překladu 0.26.6.18-13</span></p><p><span style=\"font-size: 14px; color: rgb(236, 240, 241)\">Major Update #6 ze dne 05.06. 2026 a Bugfix Update #39 ze dne 20.06.2026 </span></p><p><span style=\"font-size: 14px; color: rgb(236, 240, 241)\">přidali 357 nových řádků,  77 jich upravili a 36 odstranili.</span></p><p><strong>Nová verze 0.26.3.4-15</strong></p><p><span style=\"font-family: Inter, system-ui, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, sans-serif; font-size: 14px; color: rgb(241, 196, 15);\">Byla vydána aktualizace překladu 0.26.3.4-15</span></p><p><span style=\"font-family: Inter, system-ui, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, sans-serif; font-size: 14px; color: rgb(236, 240, 241);\">Bugfix Update #36 ze dne 06.03.2026 přidal 1 nový řádek a 14.</span></p><p><strong>Nová verze 0.26.2.19-15</strong></p><p><span style=\"font-family: Inter, system-ui, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, sans-serif; font-size: 14px; color: rgb(241, 196, 15);\">Byla vydána aktualizace překladu 0.26.2.19-15</span></p><p><span style=\"font-family: Inter, system-ui, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, sans-serif; font-size: 14px; color: rgb(236, 240, 241);\">Bugfix Update #35 ze dne 23.02.2026 přidal 102 nových řádků a 14 upravil.</span></p><p><span style=\"font-family: Inter, system-ui, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, sans-serif; font-size: 14px; color: rgb(236, 240, 241);\">Navíc je sloučen překlad \"Pohonné hmoty\" jako \"Palivo\" a opraveno pár chyb, kterých jsem si všiml z původní verze.</span></p><p>Nahrána nová verze překladu: 0.26.1.12-13</p></div>",
+      "changelogHtml": "<div><p><strong>Nová verze 0.26.7.30-18</strong></p><p><span style=\"font-size: 14px; color: rgb(241, 196, 15)\">Byla vydána aktualizace překladu 0.26.7.30-18 </span></p><p><span style=\"font-size: 14px; color: rgb(236, 240, 241)\">Bugfix Update #42 ze dne 04.08.2026 </span></p><p><span style=\"font-size: 14px; color: rgb(236, 240, 241)\">Přidali 10 nových řádků a 5 jich upravili.</span></p><p><strong>Nová verze 0.26.7.15-12</strong></p><p><span style=\"font-size: 14px; color: rgb(241, 196, 15)\">Byla vydána aktualizace překladu 0.26.7.15-12 </span></p><p><span style=\"font-size: 14px; color: rgb(236, 240, 241)\">Bugfix Update #41 ze dne 16.07.2026 </span></p><p><span style=\"font-size: 14px; color: rgb(236, 240, 241)\">přidali 11 nových řádků a 6 jich upravili.</span></p><p><strong>Nová verze 0.26.6.18-13</strong></p><p><span style=\"font-size: 14px; color: rgb(241, 196, 15)\">Byla vydána aktualizace překladu 0.26.6.18-13</span></p><p><span style=\"font-size: 14px; color: rgb(236, 240, 241)\">Major Update #6 ze dne 05.06. 2026 a Bugfix Update #39 ze dne 20.06.2026 </span></p><p><span style=\"font-size: 14px; color: rgb(236, 240, 241)\">přidali 357 nových řádků,  77 jich upravili a 36 odstranili.</span></p><p><strong>Nová verze 0.26.3.4-15</strong></p><p><span style=\"font-family: Inter, system-ui, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, sans-serif; font-size: 14px; color: rgb(241, 196, 15);\">Byla vydána aktualizace překladu 0.26.3.4-15</span></p><p><span style=\"font-family: Inter, system-ui, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, sans-serif; font-size: 14px; color: rgb(236, 240, 241);\">Bugfix Update #36 ze dne 06.03.2026 přidal 1 nový řádek a 14.</span></p><p><strong>Nová verze 0.26.2.19-15</strong></p><p><span style=\"font-family: Inter, system-ui, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, sans-serif; font-size: 14px; color: rgb(241, 196, 15);\">Byla vydána aktualizace překladu 0.26.2.19-15</span></p><p><span style=\"font-family: Inter, system-ui, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, sans-serif; font-size: 14px; color: rgb(236, 240, 241);\">Bugfix Update #35 ze dne 23.02.2026 přidal 102 nových řádků a 14 upravil.</span></p><p><span style=\"font-family: Inter, system-ui, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, sans-serif; font-size: 14px; color: rgb(236, 240, 241);\">Navíc je sloučen překlad \"Pohonné hmoty\" jako \"Palivo\" a opraveno pár chyb, kterých jsem si všiml z původní verze.</span></p><p>Nahrána nová verze překladu: 0.26.1.12-13</p></div>",
       "authorsHtml": "<p>Starsoul</p>",
       "size": "132 KB",
       "inDevelopment": false,
       "mirrors": [
         {
           "label": "Lokalizace.net",
-          "url": "https://lokalizace.net/api/download/1684",
+          "url": "https://lokalizace.net/api/download/1722",
           "kind": "direct"
+        },
+        {
+          "label": "Версия 0.26.7.15-12",
+          "url": "https://lokalizace.net/api/download/1684",
+          "kind": "other"
         },
         {
           "label": "Версия 0.26.6.18-13",
@@ -16748,7 +16781,7 @@
           "kind": "direct"
         }
       ],
-      "steamAppId": "212410"
+      "steamAppId": "1505430"
     },
     {
       "title": "Stellaris",
@@ -19900,7 +19933,7 @@
       "size": null,
       "inDevelopment": true,
       "mirrors": [],
-      "steamAppId": "4184400"
+      "steamAppId": "2492670"
     },
     {
       "title": "Starfield",

@@ -227,62 +227,6 @@
       ]
     },
     {
-      "title": "Kingdom Rush Vengeance",
-      "studio": "HerníPřeklady",
-      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/kingdom-rush-vengeance",
-      "language": "Čeština",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": "1.01",
-      "updatedAt": "12.04.2024",
-      "requiredGameVersion": "1.15.7.10",
-      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/kingdom-rush-vengeance",
-      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
-      "authorsHtml": "<p><strong>Překlad:</strong> Jetro<br><strong>Testování:</strong> Jetro</p>",
-      "inDevelopment": false,
-      "size": "4.72 MB",
-      "mirrors": [
-        {
-          "label": "HerníPřeklady",
-          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=179",
-          "kind": "direct"
-        }
-      ],
-      "steamAppId": "1367550"
-    },
-    {
-      "title": "Civilization VI",
-      "studio": "HerníPřeklady",
-      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/civilization-vi",
-      "language": "Čeština",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": "1.35",
-      "updatedAt": "01.09.2024",
-      "requiredGameVersion": "1.0.12.68",
-      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/civilization-vi",
-      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
-      "authorsHtml": "<p><strong>Překlad:</strong> Jetro, Hawkeye, WhiteHorse, Coffin Corner, Ralph Shepard<br><strong>Testování:</strong> Jetro, Barbar, Sushi, Raptor</p>",
-      "inDevelopment": false,
-      "size": "3.21 MB",
-      "mirrors": [
-        {
-          "label": "HerníPřeklady",
-          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=260",
-          "kind": "direct"
-        }
-      ],
-      "steamAppId": "289070"
-    },
-    {
       "title": "Anno 1800",
       "studio": "HerníPřeklady",
       "studioUrl": "https://hernipreklady.cz/seznam-prekladu/anno-1800",
@@ -309,6 +253,34 @@
         }
       ],
       "steamAppId": "916440"
+    },
+    {
+      "title": "Kingdom Rush Vengeance",
+      "studio": "HerníPřeklady",
+      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/kingdom-rush-vengeance",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": "1.01",
+      "updatedAt": "12.04.2024",
+      "requiredGameVersion": "1.15.7.10",
+      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/kingdom-rush-vengeance",
+      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
+      "authorsHtml": "<p><strong>Překlad:</strong> Jetro<br><strong>Testování:</strong> Jetro</p>",
+      "inDevelopment": false,
+      "size": "4.72 MB",
+      "mirrors": [
+        {
+          "label": "HerníPřeklady",
+          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=179",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "1367550"
     },
     {
       "title": "Evotinction",
@@ -624,7 +596,7 @@
       "hasNeuralDub": false,
       "hasNeuralText": false,
       "version": "0.93",
-      "updatedAt": null,
+      "updatedAt": "04.07.2026",
       "requiredGameVersion": "0.8.0.612251",
       "pageUrl": "https://hernipreklady.cz/seznam-prekladu/the-last-caretaker",
       "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
@@ -2527,6 +2499,34 @@
           "kind": "direct"
         }
       ]
+    },
+    {
+      "title": "Civilization VI",
+      "studio": "HerníPřeklady",
+      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/civilization-vi",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": "1.35",
+      "updatedAt": "01.09.2024",
+      "requiredGameVersion": "1.0.12.68",
+      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/civilization-vi",
+      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
+      "authorsHtml": "<p><strong>Překlad:</strong> Jetro, Hawkeye, WhiteHorse, Coffin Corner, Ralph Shepard<br><strong>Testování:</strong> Jetro, Barbar, Sushi, Raptor</p>",
+      "inDevelopment": false,
+      "size": "3.21 MB",
+      "mirrors": [
+        {
+          "label": "HerníPřeklady",
+          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=260",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "289070"
     },
     {
       "title": "Disco Elysium - The Final Cut",
