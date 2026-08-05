@@ -5,6 +5,30 @@
   "siteUrl": "https://magyaritasok.hu",
   "localizations": [
     {
+      "steamAppId": "1478500",
+      "title": "Big Walk",
+      "studio": "Magyarítások",
+      "studioUrl": "https://magyaritasok.hu",
+      "language": "Magyar",
+      "hasText": true,
+      "hasVoice": false,
+      "version": "1.0",
+      "updatedAt": "05.08.2026",
+      "requiredGameVersion": "1.4.7 2607311502",
+      "size": "278 KB",
+      "pageUrl": "https://magyaritasok.hu/games/big-walk",
+      "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
+      "authorsHtml": "<p>The_Reaper_CooL</p>",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Magyarítások",
+          "url": "https://magyaritasok.hu/dl/BigWalk/BigWalk_HUN_by_TRC_1.0.zip",
+          "kind": "direct"
+        }
+      ]
+    },
+    {
       "title": "Pong: The Next Level",
       "studio": "Magyarítások",
       "studioUrl": "https://magyaritasok.hu",

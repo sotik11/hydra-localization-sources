@@ -5,6 +5,274 @@
   "siteUrl": "https://komunitni-preklady.org",
   "localizations": [
     {
+      "title": "Sunless Sea",
+      "studio": "Komunitní překlady",
+      "studioUrl": "https://komunitni-preklady.org/preklad/sunless-sea",
+      "language": "Čeština",
+      "hasText": false,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": true,
+      "version": "0.3",
+      "updatedAt": "05.08.2026",
+      "requiredGameVersion": null,
+      "pageUrl": "https://komunitni-preklady.org/preklad/sunless-sea",
+      "howToInstallHtml": "<p>Každý překlad má vlastní postup instalace. Otevřete stránku překladu (tlačítko „Otevřít v prohlížeči“ níže) — najdete tam úplný návod k instalaci i tlačítko ke stažení.</p>",
+      "authorsHtml": "<p>Mikovy Češtiny</p>",
+      "size": "6.70 MB",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Komunitní překlady",
+          "url": "https://komunitni-preklady.org/download/220?sig=iYPd1IZHaOca1xOr5KNofg",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "304650"
+    },
+    {
+      "title": "Broken Arrow",
+      "studio": "Komunitní překlady",
+      "studioUrl": "https://komunitni-preklady.org/preklad/broken-arrow",
+      "language": "Čeština",
+      "hasText": false,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": true,
+      "version": "0.7",
+      "updatedAt": "05.08.2026",
+      "requiredGameVersion": "1.1.1",
+      "pageUrl": "https://komunitni-preklady.org/preklad/broken-arrow",
+      "howToInstallHtml": "<p>Každý překlad má vlastní postup instalace. Otevřete stránku překladu (tlačítko „Otevřít v prohlížeči“ níže) — najdete tam úplný návod k instalaci i tlačítko ke stažení.</p>",
+      "authorsHtml": "<p>Livi8D</p>",
+      "size": "2.70 MB",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Komunitní překlady",
+          "url": "https://komunitni-preklady.org/download/834?sig=AVOmOFcTnEGsj1zkEI5jUg",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "1604270"
+    },
+    {
+      "title": "Dire Echo",
+      "studio": "Komunitní překlady",
+      "studioUrl": "https://komunitni-preklady.org/preklad/dire-echo",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": "1.0.0",
+      "updatedAt": "05.08.2026",
+      "requiredGameVersion": null,
+      "pageUrl": "https://komunitni-preklady.org/preklad/dire-echo",
+      "howToInstallHtml": "<p>Každý překlad má vlastní postup instalace. Otevřete stránku překladu (tlačítko „Otevřít v prohlížeči“ níže) — najdete tam úplný návod k instalaci i tlačítko ke stažení.</p>",
+      "authorsHtml": "<p>PERTIM CZ</p>",
+      "size": "277.9 MB",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Komunitní překlady",
+          "url": "https://komunitni-preklady.org/download/900?sig=Eg-Mp1fVi-2_B9YqYeqHTQ",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "3743180"
+    },
+    {
+      "title": "Industria 2",
+      "studio": "Komunitní překlady",
+      "studioUrl": "https://komunitni-preklady.org/preklad/industria-2",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": "1.0.0",
+      "updatedAt": "04.08.2026",
+      "requiredGameVersion": null,
+      "pageUrl": "https://komunitni-preklady.org/preklad/industria-2",
+      "howToInstallHtml": "<p>Každý překlad má vlastní postup instalace. Otevřete stránku překladu (tlačítko „Otevřít v prohlížeči“ níže) — najdete tam úplný návod k instalaci i tlačítko ke stažení.</p>",
+      "authorsHtml": "<p>PERTIM CZ</p>",
+      "size": "1.10 MB",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Komunitní překlady",
+          "url": "https://komunitni-preklady.org/download/899?sig=3sWfCHiQYvjTGded5gkftg",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "2154070"
+    },
+    {
+      "title": "WILL: Follow The Light",
+      "studio": "Komunitní překlady",
+      "studioUrl": "https://komunitni-preklady.org/preklad/will-follow-the-light",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": "1.0.1",
+      "updatedAt": "04.08.2026",
+      "requiredGameVersion": null,
+      "pageUrl": "https://komunitni-preklady.org/preklad/will-follow-the-light",
+      "howToInstallHtml": "<p>Každý překlad má vlastní postup instalace. Otevřete stránku překladu (tlačítko „Otevřít v prohlížeči“ níže) — najdete tam úplný návod k instalaci i tlačítko ke stažení.</p>",
+      "authorsHtml": "<p>PERTIM CZ</p>",
+      "size": "25.6 MB",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Komunitní překlady",
+          "url": "https://komunitni-preklady.org/download/898?sig=QNAhRBVPrUbs9ULAYOIqQQ",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "3144860"
+    },
+    {
+      "title": "Warhammer 40,000 Rogue Trader",
+      "studio": "Komunitní překlady",
+      "studioUrl": "https://komunitni-preklady.org/preklad/warhammer-40000-rogue-trader",
+      "language": "Čeština",
+      "hasText": false,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": true,
+      "version": "1.7",
+      "updatedAt": "04.08.2026",
+      "requiredGameVersion": null,
+      "pageUrl": "https://komunitni-preklady.org/preklad/warhammer-40000-rogue-trader",
+      "howToInstallHtml": "<p>Každý překlad má vlastní postup instalace. Otevřete stránku překladu (tlačítko „Otevřít v prohlížeči“ níže) — najdete tam úplný návod k instalaci i tlačítko ke stažení.</p>",
+      "authorsHtml": "<p>Banditi</p>",
+      "size": "31.6 MB",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Komunitní překlady",
+          "url": "https://komunitni-preklady.org/download/354?sig=pZzwAme0WqK3I5gd88-0Nw",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "2186680"
+    },
+    {
+      "title": "Killer Frequency",
+      "studio": "Komunitní překlady",
+      "studioUrl": "https://komunitni-preklady.org/preklad/killer-frequency",
+      "language": "Čeština",
+      "hasText": false,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": true,
+      "version": null,
+      "updatedAt": "04.08.2026",
+      "requiredGameVersion": "1.0",
+      "pageUrl": "https://komunitni-preklady.org/preklad/killer-frequency",
+      "howToInstallHtml": "<p>Každý překlad má vlastní postup instalace. Otevřete stránku překladu (tlačítko „Otevřít v prohlížeči“ níže) — najdete tam úplný návod k instalaci i tlačítko ke stažení.</p>",
+      "authorsHtml": "<p>Překlady z Masyafu</p>",
+      "size": null,
+      "inDevelopment": true,
+      "mirrors": [],
+      "steamAppId": "1903620"
+    },
+    {
+      "title": "Crimson Desert",
+      "studio": "Komunitní překlady",
+      "studioUrl": "https://komunitni-preklady.org/preklad/crimson-desert-sk",
+      "language": "Slovenčina",
+      "hasText": false,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": true,
+      "version": "3.1",
+      "updatedAt": "04.08.2026",
+      "requiredGameVersion": "1.16.03",
+      "pageUrl": "https://komunitni-preklady.org/preklad/crimson-desert-sk",
+      "howToInstallHtml": "<p>Každý preklad má vlastný postup inštalácie. Otvorte stránku prekladu (tlačidlo „Otvoriť v prehliadači“ nižšie) — nájdete tam úplný návod na inštaláciu aj tlačidlo na stiahnutie.</p>",
+      "authorsHtml": "<p>Flego</p>",
+      "size": "8.10 MB",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Komunitní překlady",
+          "url": "https://komunitni-preklady.org/download/758?sig=p8UTlFkphufGApvCDC0-fg",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "3321460"
+    },
+    {
+      "title": "Ground Zero",
+      "studio": "Komunitní překlady",
+      "studioUrl": "https://komunitni-preklady.org/preklad/ground-zero",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": null,
+      "updatedAt": "04.08.2026",
+      "requiredGameVersion": null,
+      "pageUrl": "https://komunitni-preklady.org/preklad/ground-zero",
+      "howToInstallHtml": "<p>Každý překlad má vlastní postup instalace. Otevřete stránku překladu (tlačítko „Otevřít v prohlížeči“ níže) — najdete tam úplný návod k instalaci i tlačítko ke stažení.</p>",
+      "authorsHtml": "<p>PERTIM CZ</p>",
+      "size": null,
+      "inDevelopment": true,
+      "mirrors": [],
+      "steamAppId": "2340130"
+    },
+    {
+      "title": "Crow Country",
+      "studio": "Komunitní překlady",
+      "studioUrl": "https://komunitni-preklady.org/preklad/crow-country",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": "1.0.0",
+      "updatedAt": "04.08.2026",
+      "requiredGameVersion": null,
+      "pageUrl": "https://komunitni-preklady.org/preklad/crow-country",
+      "howToInstallHtml": "<p>Každý překlad má vlastní postup instalace. Otevřete stránku překladu (tlačítko „Otevřít v prohlížeči“ níže) — najdete tam úplný návod k instalaci i tlačítko ke stažení.</p>",
+      "authorsHtml": "<p>PERTIM CZ</p>",
+      "size": "13.9 MB",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Komunitní překlady",
+          "url": "https://komunitni-preklady.org/download/895?sig=zJ1pDG3ugNcAd5UMZCBO7A",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "1996010"
+    },
+    {
       "title": "Hollowbody",
       "studio": "Komunitní překlady",
       "studioUrl": "https://komunitni-preklady.org/preklad/hollowbody",
@@ -108,7 +376,7 @@
       "size": null,
       "inDevelopment": true,
       "mirrors": [],
-      "steamAppId": "4184400"
+      "steamAppId": "2492670"
     },
     {
       "title": "METAL GEAR SOLID: Peace Walker - Master Collection Vol.2",
@@ -349,34 +617,6 @@
         }
       ],
       "steamAppId": "2707930"
-    },
-    {
-      "title": "Crimson Desert",
-      "studio": "Komunitní překlady",
-      "studioUrl": "https://komunitni-preklady.org/preklad/crimson-desert-sk",
-      "language": "Slovenčina",
-      "hasText": false,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": true,
-      "version": "3.0",
-      "updatedAt": "03.08.2026",
-      "requiredGameVersion": "1.16.02",
-      "pageUrl": "https://komunitni-preklady.org/preklad/crimson-desert-sk",
-      "howToInstallHtml": "<p>Každý preklad má vlastný postup inštalácie. Otvorte stránku prekladu (tlačidlo „Otvoriť v prehliadači“ nižšie) — nájdete tam úplný návod na inštaláciu aj tlačidlo na stiahnutie.</p>",
-      "authorsHtml": "<p>Flego</p>",
-      "size": "8.10 MB",
-      "inDevelopment": false,
-      "mirrors": [
-        {
-          "label": "Komunitní překlady",
-          "url": "https://komunitni-preklady.org/download/758?sig=p8UTlFkphufGApvCDC0-fg",
-          "kind": "direct"
-        }
-      ],
-      "steamAppId": "3321460"
     },
     {
       "title": "Doom: The Dark Ages",
@@ -1235,34 +1475,6 @@
       "steamAppId": "490110"
     },
     {
-      "title": "Warhammer 40,000 Rogue Trader",
-      "studio": "Komunitní překlady",
-      "studioUrl": "https://komunitni-preklady.org/preklad/warhammer-40000-rogue-trader",
-      "language": "Čeština",
-      "hasText": false,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": true,
-      "version": "1.6",
-      "updatedAt": "18.07.2026",
-      "requiredGameVersion": null,
-      "pageUrl": "https://komunitni-preklady.org/preklad/warhammer-40000-rogue-trader",
-      "howToInstallHtml": "<p>Každý překlad má vlastní postup instalace. Otevřete stránku překladu (tlačítko „Otevřít v prohlížeči“ níže) — najdete tam úplný návod k instalaci i tlačítko ke stažení.</p>",
-      "authorsHtml": "<p>Banditi</p>",
-      "size": "7.00 MB",
-      "inDevelopment": false,
-      "mirrors": [
-        {
-          "label": "Komunitní překlady",
-          "url": "https://komunitni-preklady.org/download/354?sig=pZzwAme0WqK3I5gd88-0Nw",
-          "kind": "direct"
-        }
-      ],
-      "steamAppId": "2186680"
-    },
-    {
       "title": "AirportSim",
       "studio": "Komunitní překlady",
       "studioUrl": "https://komunitni-preklady.org/preklad/airportsim",
@@ -1457,34 +1669,6 @@
         }
       ],
       "steamAppId": "1314000"
-    },
-    {
-      "title": "Broken Arrow",
-      "studio": "Komunitní překlady",
-      "studioUrl": "https://komunitni-preklady.org/preklad/broken-arrow",
-      "language": "Čeština",
-      "hasText": false,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": true,
-      "version": "0.6",
-      "updatedAt": "16.07.2026",
-      "requiredGameVersion": "1.1.0.3",
-      "pageUrl": "https://komunitni-preklady.org/preklad/broken-arrow",
-      "howToInstallHtml": "<p>Každý překlad má vlastní postup instalace. Otevřete stránku překladu (tlačítko „Otevřít v prohlížeči“ níže) — najdete tam úplný návod k instalaci i tlačítko ke stažení.</p>",
-      "authorsHtml": "<p>Livi8D</p>",
-      "size": "2.70 MB",
-      "inDevelopment": false,
-      "mirrors": [
-        {
-          "label": "Komunitní překlady",
-          "url": "https://komunitni-preklady.org/download/834?sig=AVOmOFcTnEGsj1zkEI5jUg",
-          "kind": "direct"
-        }
-      ],
-      "steamAppId": "1604270"
     },
     {
       "title": "The Outer Worlds 2",
@@ -3596,34 +3780,6 @@
       "steamAppId": "1766060"
     },
     {
-      "title": "Wartales Remastered",
-      "studio": "Komunitní překlady",
-      "studioUrl": "https://komunitni-preklady.org/preklad/wartales-remastered",
-      "language": "Čeština",
-      "hasText": false,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": true,
-      "version": "0.1",
-      "updatedAt": "23.05.2026",
-      "requiredGameVersion": null,
-      "pageUrl": "https://komunitni-preklady.org/preklad/wartales-remastered",
-      "howToInstallHtml": "<p>Každý překlad má vlastní postup instalace. Otevřete stránku překladu (tlačítko „Otevřít v prohlížeči“ níže) — najdete tam úplný návod k instalaci i tlačítko ke stažení.</p>",
-      "authorsHtml": "<p>Medy a Fantucci</p>",
-      "size": "7.20 MB",
-      "inDevelopment": false,
-      "mirrors": [
-        {
-          "label": "Komunitní překlady",
-          "url": "https://komunitni-preklady.org/download/815?sig=EMOR1jjDdOc8Alo38bv65Q",
-          "kind": "direct"
-        }
-      ],
-      "steamAppId": "1527950"
-    },
-    {
       "title": "Deep Rock Galactic: Rogue Core",
       "studio": "Komunitní překlady",
       "studioUrl": "https://komunitni-preklady.org/preklad/deep-rock-galactic-rogue-core",
@@ -3650,34 +3806,6 @@
         }
       ],
       "steamAppId": "2605790"
-    },
-    {
-      "title": "ASKA",
-      "studio": "Komunitní překlady",
-      "studioUrl": "https://komunitni-preklady.org/preklad/aska-cz",
-      "language": "Čeština",
-      "hasText": false,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": true,
-      "version": "0.1",
-      "updatedAt": "21.05.2026",
-      "requiredGameVersion": null,
-      "pageUrl": "https://komunitni-preklady.org/preklad/aska-cz",
-      "howToInstallHtml": "<p>Každý překlad má vlastní postup instalace. Otevřete stránku překladu (tlačítko „Otevřít v prohlížeči“ níže) — najdete tam úplný návod k instalaci i tlačítko ke stažení.</p>",
-      "authorsHtml": "<p>Medy a Fantucci</p>",
-      "size": "242.4 MB",
-      "inDevelopment": false,
-      "mirrors": [
-        {
-          "label": "Komunitní překlady",
-          "url": "https://komunitni-preklady.org/download/813?sig=Jkf6QyjjCaOZxNG-cBQvPg",
-          "kind": "direct"
-        }
-      ],
-      "steamAppId": "1898300"
     },
     {
       "title": "Nice Day for Fishing",
@@ -7267,7 +7395,7 @@
           "kind": "direct"
         }
       ],
-      "steamAppId": "4549610"
+      "steamAppId": "1417250"
     },
     {
       "title": "Freelancer (2003)",
@@ -9626,34 +9754,6 @@
         }
       ],
       "steamAppId": "1124300"
-    },
-    {
-      "title": "The Thing - Remastered",
-      "studio": "Komunitní překlady",
-      "studioUrl": "https://komunitni-preklady.org/preklad/the-thing-remastered",
-      "language": "Čeština",
-      "hasText": false,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": true,
-      "version": "0.5",
-      "updatedAt": "04.01.2026",
-      "requiredGameVersion": null,
-      "pageUrl": "https://komunitni-preklady.org/preklad/the-thing-remastered",
-      "howToInstallHtml": "<p>Každý překlad má vlastní postup instalace. Otevřete stránku překladu (tlačítko „Otevřít v prohlížeči“ níže) — najdete tam úplný návod k instalaci i tlačítko ke stažení.</p>",
-      "authorsHtml": "<p>Banditi</p>",
-      "size": "48.8 MB",
-      "inDevelopment": false,
-      "mirrors": [
-        {
-          "label": "Komunitní překlady",
-          "url": "https://komunitni-preklady.org/download/459?sig=X0T2COWxNVQdJYZGILIK7A",
-          "kind": "direct"
-        }
-      ],
-      "steamAppId": "2958970"
     },
     {
       "title": "Dragon Age™ Inquisition",
@@ -12991,34 +13091,6 @@
       "steamAppId": "879420"
     },
     {
-      "title": "Sunless Sea",
-      "studio": "Komunitní překlady",
-      "studioUrl": "https://komunitni-preklady.org/preklad/sunless-sea",
-      "language": "Čeština",
-      "hasText": false,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": true,
-      "version": "0.2",
-      "updatedAt": "22.12.2025",
-      "requiredGameVersion": null,
-      "pageUrl": "https://komunitni-preklady.org/preklad/sunless-sea",
-      "howToInstallHtml": "<p>Každý překlad má vlastní postup instalace. Otevřete stránku překladu (tlačítko „Otevřít v prohlížeči“ níže) — najdete tam úplný návod k instalaci i tlačítko ke stažení.</p>",
-      "authorsHtml": "<p>Mikovy Češtiny</p>",
-      "size": "3.30 MB",
-      "inDevelopment": false,
-      "mirrors": [
-        {
-          "label": "Komunitní překlady",
-          "url": "https://komunitni-preklady.org/download/220?sig=iYPd1IZHaOca1xOr5KNofg",
-          "kind": "direct"
-        }
-      ],
-      "steamAppId": "304650"
-    },
-    {
       "title": "Yes, your Grace",
       "studio": "Komunitní překlady",
       "studioUrl": "https://komunitni-preklady.org/preklad/yes-your-grace",
@@ -16287,7 +16359,7 @@
           "kind": "direct"
         }
       ],
-      "steamAppId": "1366950"
+      "steamAppId": "302080"
     },
     {
       "title": "Codename Eagles",
@@ -16632,11 +16704,11 @@
       "hasNeuralDub": false,
       "hasNeuralText": true,
       "version": null,
-      "updatedAt": "04.08.2026",
+      "updatedAt": "05.08.2026",
       "requiredGameVersion": null,
       "pageUrl": "https://komunitni-preklady.org/preklad/divinity-ii-dragon-knight-saga-",
       "howToInstallHtml": "<p>Každý překlad má vlastní postup instalace. Otevřete stránku překladu (tlačítko „Otevřít v prohlížeči“ níže) — najdete tam úplný návod k instalaci i tlačítko ke stažení.</p>",
-      "authorsHtml": "<p>PERTIM CZ</p>",
+      "authorsHtml": "<p>Mikovy Češtiny</p>",
       "size": null,
       "inDevelopment": true,
       "mirrors": []
@@ -17110,7 +17182,7 @@
           "kind": "direct"
         }
       ],
-      "steamAppId": "1159640"
+      "steamAppId": "414740"
     },
     {
       "title": "The Regiment",
