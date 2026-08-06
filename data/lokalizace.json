@@ -11811,7 +11811,7 @@
           "kind": "direct"
         }
       ],
-      "steamAppId": "961620"
+      "steamAppId": "2252960"
     },
     {
       "title": "Spirit of the North",
@@ -14394,26 +14394,15 @@
       "hasNeuralVoice": false,
       "hasNeuralDub": false,
       "hasNeuralText": false,
-      "version": "1.16.08",
-      "updatedAt": "30.07.2026",
+      "version": null,
+      "updatedAt": null,
       "pageUrl": "https://lokalizace.net/localizations/pc-building-simulator-2",
       "howToInstallHtml": "<p>Stáhněte ZIP soubor a rozbalte ho do složky hry, nebo použijte aplikaci CZManager pro automatickou instalaci češtiny.</p>",
-      "changelogHtml": "<div>Nahrána nová verze překladu: 1.16.08Nahrána nová verze překladu: 1.16.06</div>",
+      "changelogHtml": "<div>Nahrána nová verze překladu: 1.17.02</div>",
       "authorsHtml": "<p>PrekladyWoytman</p>",
-      "size": "1.50 MB",
-      "inDevelopment": false,
-      "mirrors": [
-        {
-          "label": "Lokalizace.net",
-          "url": "https://lokalizace.net/api/download/1714",
-          "kind": "direct"
-        },
-        {
-          "label": "Версия 1.16.06",
-          "url": "https://lokalizace.net/api/download/1555",
-          "kind": "other"
-        }
-      ]
+      "size": null,
+      "inDevelopment": true,
+      "mirrors": []
     },
     {
       "title": "PC Building Simulator",
@@ -16781,7 +16770,7 @@
           "kind": "direct"
         }
       ],
-      "steamAppId": "1505430"
+      "steamAppId": "212410"
     },
     {
       "title": "Stellaris",
@@ -20821,7 +20810,7 @@
       "updatedAt": null,
       "pageUrl": "https://lokalizace.net/localizations/cities-skylines-ii",
       "howToInstallHtml": "<p>Stáhněte ZIP soubor a rozbalte ho do složky hry, nebo použijte aplikaci CZManager pro automatickou instalaci češtiny.</p>",
-      "changelogHtml": "<div>Nahrána nová verze překladu: 1.5.9</div>",
+      "changelogHtml": "<div>Nahrána nová verze překladu: 1.6.0.1</div>",
       "authorsHtml": "<p>PrekladyWoytman</p>",
       "size": null,
       "inDevelopment": true,

@@ -5,6 +5,34 @@
   "siteUrl": "https://hernipreklady.cz",
   "localizations": [
     {
+      "title": "Terra Invicta",
+      "studio": "HerníPřeklady",
+      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/terra-invicta",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": null,
+      "updatedAt": null,
+      "requiredGameVersion": "1.0.38 + DLC",
+      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/terra-invicta",
+      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
+      "authorsHtml": "<p><strong>Překlad:</strong> Ralph Shepard</p>",
+      "inDevelopment": false,
+      "size": "834 KB",
+      "mirrors": [
+        {
+          "label": "HerníPřeklady",
+          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=599",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "1176470"
+    },
+    {
       "title": "Civilization VII",
       "studio": "HerníPřeklady",
       "studioUrl": "https://hernipreklady.cz/seznam-prekladu/civilization-vii",
@@ -198,33 +226,6 @@
         }
       ],
       "steamAppId": "2677660"
-    },
-    {
-      "title": "Demeo PC / VR",
-      "studio": "HerníPřeklady",
-      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/demeo-pc-vr",
-      "language": "Čeština",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": "2.0",
-      "updatedAt": "13.04.2025",
-      "requiredGameVersion": "1.41.40432",
-      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/demeo-pc-vr",
-      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
-      "authorsHtml": "<p><strong>Překlad textů a textur:</strong> Luc2as<br><strong>Technika:</strong> Termit</p>",
-      "inDevelopment": false,
-      "size": "135.2 MB",
-      "mirrors": [
-        {
-          "label": "HerníPřeklady",
-          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=365",
-          "kind": "direct"
-        }
-      ]
     },
     {
       "title": "Anno 1800",
@@ -1943,34 +1944,6 @@
       "steamAppId": "1605220"
     },
     {
-      "title": "Terra Invicta",
-      "studio": "HerníPřeklady",
-      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/terra-invicta",
-      "language": "Čeština",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": null,
-      "updatedAt": "25.06.2026",
-      "requiredGameVersion": "1.0.38",
-      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/terra-invicta",
-      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
-      "authorsHtml": "<p><strong>Překlad:</strong> Ralph Shepard</p>",
-      "inDevelopment": false,
-      "size": "789 KB",
-      "mirrors": [
-        {
-          "label": "HerníPřeklady",
-          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=584",
-          "kind": "direct"
-        }
-      ],
-      "steamAppId": "1176470"
-    },
-    {
       "title": "Shadow Gambit: The Cursed Crew Complete Edition",
       "studio": "HerníPřeklady",
       "studioUrl": "https://hernipreklady.cz/seznam-prekladu/shadow-gambit-the-cursed-crew-complete-edition",
@@ -2249,6 +2222,33 @@
         }
       ],
       "steamAppId": "1824960"
+    },
+    {
+      "title": "Demeo PC / VR",
+      "studio": "HerníPřeklady",
+      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/demeo-pc-vr",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": "2.0",
+      "updatedAt": "13.04.2025",
+      "requiredGameVersion": "1.41.40432",
+      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/demeo-pc-vr",
+      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
+      "authorsHtml": "<p><strong>Překlad textů a textur:</strong> Luc2as<br><strong>Technika:</strong> Termit</p>",
+      "inDevelopment": false,
+      "size": "135.2 MB",
+      "mirrors": [
+        {
+          "label": "HerníPřeklady",
+          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=365",
+          "kind": "direct"
+        }
+      ]
     },
     {
       "title": "SteamWorld Build",
