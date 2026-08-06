@@ -5,6 +5,118 @@
   "siteUrl": "https://komunitni-preklady.org",
   "localizations": [
     {
+      "title": "Disney Dreamlight Valley",
+      "studio": "Komunitní překlady",
+      "studioUrl": "https://komunitni-preklady.org/preklad/disney-dreamlight-valley",
+      "language": "Čeština",
+      "hasText": false,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": true,
+      "version": "0.66.1",
+      "updatedAt": "06.08.2026",
+      "requiredGameVersion": "1.24.12.70",
+      "pageUrl": "https://komunitni-preklady.org/preklad/disney-dreamlight-valley",
+      "howToInstallHtml": "<p>Každý překlad má vlastní postup instalace. Otevřete stránku překladu (tlačítko „Otevřít v prohlížeči“ níže) — najdete tam úplný návod k instalaci i tlačítko ke stažení.</p>",
+      "authorsHtml": "<p>666joxer</p>",
+      "size": "12.8 MB",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Komunitní překlady",
+          "url": "https://komunitni-preklady.org/download/490?sig=7mP7AR8iOiCAjp_VExFo-w",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "1401590"
+    },
+    {
+      "title": "No Rest For The Wicked",
+      "studio": "Komunitní překlady",
+      "studioUrl": "https://komunitni-preklady.org/preklad/no-rest-for-the-wicked",
+      "language": "Čeština",
+      "hasText": false,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": true,
+      "version": "0.30",
+      "updatedAt": "06.08.2026",
+      "requiredGameVersion": "22928553",
+      "pageUrl": "https://komunitni-preklady.org/preklad/no-rest-for-the-wicked",
+      "howToInstallHtml": "<p>Každý překlad má vlastní postup instalace. Otevřete stránku překladu (tlačítko „Otevřít v prohlížeči“ níže) — najdete tam úplný návod k instalaci i tlačítko ke stažení.</p>",
+      "authorsHtml": "<p>Banditi</p>",
+      "size": "46.7 MB",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Komunitní překlady",
+          "url": "https://komunitni-preklady.org/download/901?sig=yE8VJFDBN_7CR12P4-3zEA",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "1371980"
+    },
+    {
+      "title": "7 Days to Die 3.0 CZ",
+      "studio": "Komunitní překlady",
+      "studioUrl": "https://komunitni-preklady.org/preklad/7-days-to-die-30-cz",
+      "language": "Čeština",
+      "hasText": false,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": true,
+      "version": "0.96",
+      "updatedAt": "05.08.2026",
+      "requiredGameVersion": "3.1.0 B14",
+      "pageUrl": "https://komunitni-preklady.org/preklad/7-days-to-die-30-cz",
+      "howToInstallHtml": "<p>Každý překlad má vlastní postup instalace. Otevřete stránku překladu (tlačítko „Otevřít v prohlížeči“ níže) — najdete tam úplný návod k instalaci i tlačítko ke stažení.</p>",
+      "authorsHtml": "<p>GREG-RAY CZ</p>",
+      "size": "5.10 MB",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Komunitní překlady",
+          "url": "https://komunitni-preklady.org/download/853?sig=-Oh6W8VlvUlPVlPwkDYkAg",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "3247640"
+    },
+    {
+      "title": "Crimson Desert",
+      "studio": "Komunitní překlady",
+      "studioUrl": "https://komunitni-preklady.org/preklad/crimson-desert-sk",
+      "language": "Slovenčina",
+      "hasText": false,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": true,
+      "version": "3.2",
+      "updatedAt": "05.08.2026",
+      "requiredGameVersion": "1.16.04",
+      "pageUrl": "https://komunitni-preklady.org/preklad/crimson-desert-sk",
+      "howToInstallHtml": "<p>Každý preklad má vlastný postup inštalácie. Otvorte stránku prekladu (tlačidlo „Otvoriť v prehliadači“ nižšie) — nájdete tam úplný návod na inštaláciu aj tlačidlo na stiahnutie.</p>",
+      "authorsHtml": "<p>Flego</p>",
+      "size": "8.10 MB",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Komunitní překlady",
+          "url": "https://komunitni-preklady.org/download/758?sig=p8UTlFkphufGApvCDC0-fg",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "3321460"
+    },
+    {
       "title": "Sunless Sea",
       "studio": "Komunitní překlady",
       "studioUrl": "https://komunitni-preklady.org/preklad/sunless-sea",
@@ -193,34 +305,6 @@
       "inDevelopment": true,
       "mirrors": [],
       "steamAppId": "1903620"
-    },
-    {
-      "title": "Crimson Desert",
-      "studio": "Komunitní překlady",
-      "studioUrl": "https://komunitni-preklady.org/preklad/crimson-desert-sk",
-      "language": "Slovenčina",
-      "hasText": false,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": true,
-      "version": "3.1",
-      "updatedAt": "04.08.2026",
-      "requiredGameVersion": "1.16.03",
-      "pageUrl": "https://komunitni-preklady.org/preklad/crimson-desert-sk",
-      "howToInstallHtml": "<p>Každý preklad má vlastný postup inštalácie. Otvorte stránku prekladu (tlačidlo „Otvoriť v prehliadači“ nižšie) — nájdete tam úplný návod na inštaláciu aj tlačidlo na stiahnutie.</p>",
-      "authorsHtml": "<p>Flego</p>",
-      "size": "8.10 MB",
-      "inDevelopment": false,
-      "mirrors": [
-        {
-          "label": "Komunitní překlady",
-          "url": "https://komunitni-preklady.org/download/758?sig=p8UTlFkphufGApvCDC0-fg",
-          "kind": "direct"
-        }
-      ],
-      "steamAppId": "3321460"
     },
     {
       "title": "Ground Zero",
@@ -787,34 +871,6 @@
       "steamAppId": "646270"
     },
     {
-      "title": "Disney Dreamlight Valley",
-      "studio": "Komunitní překlady",
-      "studioUrl": "https://komunitni-preklady.org/preklad/disney-dreamlight-valley",
-      "language": "Čeština",
-      "hasText": false,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": true,
-      "version": "0.66.0",
-      "updatedAt": "31.07.2026",
-      "requiredGameVersion": "1.24.11.2",
-      "pageUrl": "https://komunitni-preklady.org/preklad/disney-dreamlight-valley",
-      "howToInstallHtml": "<p>Každý překlad má vlastní postup instalace. Otevřete stránku překladu (tlačítko „Otevřít v prohlížeči“ níže) — najdete tam úplný návod k instalaci i tlačítko ke stažení.</p>",
-      "authorsHtml": "<p>666joxer</p>",
-      "size": "12.8 MB",
-      "inDevelopment": false,
-      "mirrors": [
-        {
-          "label": "Komunitní překlady",
-          "url": "https://komunitni-preklady.org/download/490?sig=7mP7AR8iOiCAjp_VExFo-w",
-          "kind": "direct"
-        }
-      ],
-      "steamAppId": "1401590"
-    },
-    {
       "title": "Borderlands 4",
       "studio": "Komunitní překlady",
       "studioUrl": "https://komunitni-preklady.org/preklad/borderlands-4",
@@ -1205,34 +1261,6 @@
       "steamAppId": "4570720"
     },
     {
-      "title": "7 Days to Die 3.0 CZ",
-      "studio": "Komunitní překlady",
-      "studioUrl": "https://komunitni-preklady.org/preklad/7-days-to-die-30-cz",
-      "language": "Čeština",
-      "hasText": false,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": true,
-      "version": "0.89",
-      "updatedAt": "27.07.2026",
-      "requiredGameVersion": "3.1.0",
-      "pageUrl": "https://komunitni-preklady.org/preklad/7-days-to-die-30-cz",
-      "howToInstallHtml": "<p>Každý překlad má vlastní postup instalace. Otevřete stránku překladu (tlačítko „Otevřít v prohlížeči“ níže) — najdete tam úplný návod k instalaci i tlačítko ke stažení.</p>",
-      "authorsHtml": "<p>GREG-RAY CZ</p>",
-      "size": "3.60 MB",
-      "inDevelopment": false,
-      "mirrors": [
-        {
-          "label": "Komunitní překlady",
-          "url": "https://komunitni-preklady.org/download/853?sig=-Oh6W8VlvUlPVlPwkDYkAg",
-          "kind": "direct"
-        }
-      ],
-      "steamAppId": "3247640"
-    },
-    {
       "title": "Cell to Singularity",
       "studio": "Komunitní překlady",
       "studioUrl": "https://komunitni-preklady.org/preklad/cell-to-singularity",
@@ -1243,21 +1271,15 @@
       "hasNeuralVoice": false,
       "hasNeuralDub": false,
       "hasNeuralText": true,
-      "version": "0.68",
+      "version": null,
       "updatedAt": "27.07.2026",
       "requiredGameVersion": "48_44",
       "pageUrl": "https://komunitni-preklady.org/preklad/cell-to-singularity",
       "howToInstallHtml": "<p>Každý překlad má vlastní postup instalace. Otevřete stránku překladu (tlačítko „Otevřít v prohlížeči“ níže) — najdete tam úplný návod k instalaci i tlačítko ke stažení.</p>",
       "authorsHtml": "<p>GREG-RAY CZ</p>",
-      "size": "35.8 MB",
-      "inDevelopment": false,
-      "mirrors": [
-        {
-          "label": "Komunitní překlady",
-          "url": "https://komunitni-preklady.org/download/871?sig=ermrIONzkYUlrGsLY6QF7Q",
-          "kind": "direct"
-        }
-      ]
+      "size": null,
+      "inDevelopment": true,
+      "mirrors": []
     },
     {
       "title": "Rage of Mages",
@@ -7395,7 +7417,7 @@
           "kind": "direct"
         }
       ],
-      "steamAppId": "1417250"
+      "steamAppId": "4549610"
     },
     {
       "title": "Freelancer (2003)",
@@ -16359,7 +16381,7 @@
           "kind": "direct"
         }
       ],
-      "steamAppId": "302080"
+      "steamAppId": "1366950"
     },
     {
       "title": "Codename Eagles",
@@ -16704,11 +16726,11 @@
       "hasNeuralDub": false,
       "hasNeuralText": true,
       "version": null,
-      "updatedAt": "05.08.2026",
+      "updatedAt": "06.08.2026",
       "requiredGameVersion": null,
       "pageUrl": "https://komunitni-preklady.org/preklad/divinity-ii-dragon-knight-saga-",
       "howToInstallHtml": "<p>Každý překlad má vlastní postup instalace. Otevřete stránku překladu (tlačítko „Otevřít v prohlížeči“ níže) — najdete tam úplný návod k instalaci i tlačítko ke stažení.</p>",
-      "authorsHtml": "<p>Mikovy Češtiny</p>",
+      "authorsHtml": "<p>666joxer</p>",
       "size": null,
       "inDevelopment": true,
       "mirrors": []
@@ -17182,7 +17204,7 @@
           "kind": "direct"
         }
       ],
-      "steamAppId": "414740"
+      "steamAppId": "1159640"
     },
     {
       "title": "The Regiment",
