@@ -15911,6 +15911,29 @@
       ]
     },
     {
+      "title": "Age of Empires: The Rise of Rome",
+      "studio": "Magyarítások",
+      "studioUrl": "https://magyaritasok.hu",
+      "language": "Magyar",
+      "hasText": true,
+      "hasVoice": false,
+      "version": null,
+      "updatedAt": "28.07.2014",
+      "requiredGameVersion": null,
+      "size": "2.55 MB",
+      "pageUrl": "https://magyaritasok.hu/games/age-of-empires-the-rise-of-rome",
+      "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
+      "authorsHtml": null,
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Magyarítások",
+          "url": "https://magyaritasok.hu/dl/aoe/age_of_empires1_ror.rar",
+          "kind": "direct"
+        }
+      ]
+    },
+    {
       "steamAppId": "222480",
       "title": "Resident Evil: Revelations HD",
       "studio": "Magyarítások",
