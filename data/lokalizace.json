@@ -98,19 +98,24 @@
       "hasNeuralVoice": false,
       "hasNeuralDub": false,
       "hasNeuralText": false,
-      "version": "1.0.3",
-      "updatedAt": "31.07.2026",
+      "version": "1.0.5",
+      "updatedAt": "06.08.2026",
       "pageUrl": "https://lokalizace.net/localizations/scp-containment-breach",
       "howToInstallHtml": "<p>Stáhněte ZIP soubor a rozbalte ho do složky hry, nebo použijte aplikaci CZManager pro automatickou instalaci češtiny.</p>",
-      "changelogHtml": "<div><p><strong>Nová verze 1.0.3</strong></p><p>Mnoho nových změn, zatím nejlepší verze</p></div>",
+      "changelogHtml": "<div>Nahrána nová verze překladu: 1.0.5<p><strong>Nová verze 1.0.3</strong></p><p>Mnoho nových změn, zatím nejlepší verze</p></div>",
       "authorsHtml": "<p>Překlady Abednego</p>",
       "size": "79.9 MB",
       "inDevelopment": false,
       "mirrors": [
         {
           "label": "Lokalizace.net",
-          "url": "https://lokalizace.net/api/download/1715",
+          "url": "https://lokalizace.net/api/download/1726",
           "kind": "direct"
+        },
+        {
+          "label": "Версия 1.0.3",
+          "url": "https://lokalizace.net/api/download/1715",
+          "kind": "other"
         }
       ],
       "steamAppId": "2178380"
@@ -1073,6 +1078,34 @@
         }
       ],
       "steamAppId": "227000"
+    },
+    {
+      "title": "007 First Light",
+      "studio": "Lokalizace.net",
+      "studioUrl": "https://lokalizace.net/localizations/007-first-light-1",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": "1.0.0",
+      "updatedAt": "06.08.2026",
+      "pageUrl": "https://lokalizace.net/localizations/007-first-light-1",
+      "howToInstallHtml": "<p>Stáhněte ZIP soubor a rozbalte ho do složky hry, nebo použijte aplikaci CZManager pro automatickou instalaci češtiny.</p>",
+      "changelogHtml": "<div><p><strong>Nová verze 1.0.0</strong></p><ul><li><p>opraveno mnoooho chyb</p></li></ul><p></p></div>",
+      "authorsHtml": "<p>Lokalizace.Net</p>",
+      "size": "30.9 MB",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Lokalizace.net",
+          "url": "https://lokalizace.net/api/download/1725",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "3768760"
     },
     {
       "title": "Librarian: Tidy Up the Arcane Library!",
@@ -14338,19 +14371,24 @@
       "hasNeuralVoice": false,
       "hasNeuralDub": false,
       "hasNeuralText": false,
-      "version": "7.4.1",
-      "updatedAt": "26.07.2026",
+      "version": "7.4.1-bezinstalacni",
+      "updatedAt": "06.08.2026",
       "pageUrl": "https://lokalizace.net/localizations/cooking-simulator",
       "howToInstallHtml": "<p>Stáhněte ZIP soubor a rozbalte ho do složky hry, nebo použijte aplikaci CZManager pro automatickou instalaci češtiny.</p>",
-      "changelogHtml": "<div>Nahrána nová verze překladu: 7.4.1Nahrána nová verze překladu: 7.4.0</div>",
+      "changelogHtml": "<div><p><strong>Nová verze 7.4.1-bezinstalacni</strong></p><p>1. Obsah archivu nakopíruj do C:\\\\Program Files (x86)\\\\Steam\\\\steamapps\\\\common\\\\CookingSimulator</p><p>2. Spusť Patch.bat</p>Nahrána nová verze překladu: 7.4.1</div>",
       "authorsHtml": "<p>PrekladyWoytman</p>",
-      "size": "12.5 MB",
+      "size": "5.90 MB",
       "inDevelopment": false,
       "mirrors": [
         {
           "label": "Lokalizace.net",
-          "url": "https://lokalizace.net/api/download/1711",
+          "url": "https://lokalizace.net/api/download/1728",
           "kind": "direct"
+        },
+        {
+          "label": "Версия 7.4.1",
+          "url": "https://lokalizace.net/api/download/1711",
+          "kind": "other"
         }
       ],
       "steamAppId": "641320"
@@ -16770,7 +16808,7 @@
           "kind": "direct"
         }
       ],
-      "steamAppId": "212410"
+      "steamAppId": "1505430"
     },
     {
       "title": "Stellaris",
@@ -19813,6 +19851,28 @@
       "inDevelopment": true,
       "mirrors": [],
       "steamAppId": "2369390"
+    },
+    {
+      "title": "ReStory: Chill Electronics Repairs",
+      "studio": "Lokalizace.net",
+      "studioUrl": "https://lokalizace.net/localizations/restory-chill-electronics-repairs",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": null,
+      "updatedAt": null,
+      "pageUrl": "https://lokalizace.net/localizations/restory-chill-electronics-repairs",
+      "howToInstallHtml": "<p>Stáhněte ZIP soubor a rozbalte ho do složky hry, nebo použijte aplikaci CZManager pro automatickou instalaci češtiny.</p>",
+      "changelogHtml": null,
+      "authorsHtml": "<p>Žižkovské Překlady</p>",
+      "size": null,
+      "inDevelopment": true,
+      "mirrors": [],
+      "steamAppId": "3812600"
     },
     {
       "title": "Tattletail",

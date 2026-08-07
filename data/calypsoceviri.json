@@ -329,33 +329,6 @@
       "steamAppId": "1210060"
     },
     {
-      "title": "Adorable Adventures",
-      "studio": "Calypso Çeviri",
-      "studioUrl": "https://www.calypsoceviri.com",
-      "language": "Türkçe",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": "1",
-      "updatedAt": "23.06.2026",
-      "pageUrl": "https://www.calypsoceviri.com/turkce-yamalar/adorable-adventures-turkce-yama-indir",
-      "howToInstallHtml": "<div>Aşağıda vermiş olduğumuz linkten indirdiğiniz Rar dosyasındaki Türkçe Yama exesini, oyunun kurulu olduğu ana dosya konumuna atarak, Türkçe yama exesini çalıştırın. Oyunun ana dosya konumunun seçili olduğunu kontrol ettikten sonra, hangi platformdan oynuyorsanız, o platformun yükle butonuna basarak yamayı yükleyebilirsiniz. <br><br>Yamayı kaldırmak isterseniz, oyunun dosya konumundaki \"Adorable_YamaKaldır.exe\"'sini çalıştırarak, kaldırabilirsiniz.</div>",
-      "authorsHtml": "<p>Bugzade</p>",
-      "size": "2.87 MB",
-      "inDevelopment": false,
-      "mirrors": [
-        {
-          "label": "Calypso Çeviri",
-          "url": "https://www.calypsoceviri.com/_files/archives/7d262d_e28665dee36546bdb8b472ec71052c59.rar?dn=Adorable%2520Adventures%2520T%25C3%25BCrk%25C3%25A7e%2520Yama%2520V1.rar",
-          "kind": "direct"
-        }
-      ],
-      "steamAppId": "3840230"
-    },
-    {
       "title": "Fears to Fathom Scratch Creek",
       "studio": "Calypso Çeviri",
       "studioUrl": "https://www.calypsoceviri.com",
@@ -6743,33 +6716,6 @@
         }
       ],
       "steamAppId": "668580"
-    },
-    {
-      "title": "Atomfall",
-      "studio": "Calypso Çeviri",
-      "studioUrl": "https://www.calypsoceviri.com",
-      "language": "Türkçe",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": "3",
-      "updatedAt": "23.06.2026",
-      "pageUrl": "https://www.calypsoceviri.com/turkce-yamalar/atomfall-turkce-yama-indir",
-      "howToInstallHtml": "<div>Aşağıda vermiş olduğumuz linkten indirdiğiniz Rar dosyasındaki Türkçe Yama exesini, oyunun kurulu olduğu ana dosya konumuna atarak, Türkçe yama exesini çalıştırın. Oyunun ana dosya konumunun seçili olduğunu kontrol ettikten sonra, hangi platformdan oynuyorsanız, o platformun yükle butonuna basarak yamayı yükleyebilirsiniz.<br><br>Yamayı kaldırmak için oyunun dosyalarını doğrulamanız gerekiyor. Oyununuz orijinal değil ise *Text\\pc* klasörünü komple yedek almanız lazım. Kaldırmak için aldığınız yedeği tekrar yerine atarsanız, oyununuz orijinal haline gelecektir.</div>",
-      "authorsHtml": "<p>VolkTyson</p>",
-      "size": "1.95 MB",
-      "inDevelopment": false,
-      "mirrors": [
-        {
-          "label": "Calypso Çeviri",
-          "url": "https://www.calypsoceviri.com/_files/archives/7d262d_07d82e2b5dc94870b4c060cd09c4dff5.rar?dn=Atomfall%2520T%25C3%25BCrk%25C3%25A7e%2520Yama%2520V3.rar",
-          "kind": "direct"
-        }
-      ],
-      "steamAppId": "801800"
     },
     {
       "title": "ASKA",
