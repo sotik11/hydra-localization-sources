@@ -36,10 +36,10 @@
       "language": "Magyar",
       "hasText": true,
       "hasVoice": false,
-      "version": "1.0",
-      "updatedAt": "05.08.2026",
-      "requiredGameVersion": "1.4.7 2607311502",
-      "size": "278 KB",
+      "version": "1.01",
+      "updatedAt": "07.08.2026",
+      "requiredGameVersion": "1.4.8 2608070648",
+      "size": "280 KB",
       "pageUrl": "https://magyaritasok.hu/games/big-walk",
       "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
       "authorsHtml": "<p>The_Reaper_CooL</p>",
@@ -47,7 +47,7 @@
       "mirrors": [
         {
           "label": "Magyarítások",
-          "url": "https://magyaritasok.hu/dl/BigWalk/BigWalk_HUN_by_TRC_1.0.zip",
+          "url": "https://magyaritasok.hu/dl/BigWalk/BigWalk_HUN_by_TRC_1.01.zip",
           "kind": "direct"
         }
       ]
@@ -1347,10 +1347,10 @@
       "language": "Magyar",
       "hasText": true,
       "hasVoice": false,
-      "version": "1.04",
-      "updatedAt": "16.05.2026",
-      "requiredGameVersion": "1.7 (360676 / 8)",
-      "size": "22 KB",
+      "version": "1.05",
+      "updatedAt": "07.08.2026",
+      "requiredGameVersion": "1.8 (367303 / 10)",
+      "size": "24 KB",
       "pageUrl": "https://magyaritasok.hu/games/reanimal",
       "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
       "authorsHtml": "<p>The_Reaper_CooL</p>",
@@ -1358,7 +1358,7 @@
       "mirrors": [
         {
           "label": "Magyarítások",
-          "url": "https://magyaritasok.hu/dl/Reanimal/REANIMAL_Hun_by_TRC_1.04.zip",
+          "url": "https://magyaritasok.hu/dl/Reanimal/REANIMAL_Hun_by_TRC_1.05.zip",
           "kind": "direct"
         }
       ]
