@@ -5,6 +5,60 @@
   "siteUrl": "https://www.calypsoceviri.com",
   "localizations": [
     {
+      "title": "Outlast",
+      "studio": "Calypso Çeviri",
+      "studioUrl": "https://www.calypsoceviri.com",
+      "language": "Türkçe",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": "1",
+      "updatedAt": "07.08.2026",
+      "pageUrl": "https://www.calypsoceviri.com/turkce-yamalar/outlast-turkce-yama-indir",
+      "howToInstallHtml": "<div>Aşağıda vermiş olduğumuz linkten indirdiğiniz Rar dosyasındaki Türkçe Yama exesini, oyunun kurulu olduğu ana dosya konumuna atarak, Türkçe yama exesini çalıştırın. Oyunun ana dosya konumunun seçili olduğunu kontrol ettikten sonra, hangi platformdan oynuyorsanız, o platformun yükle butonuna basarak yamayı yükleyebilirsiniz. <br><br>Yamayı kaldırmak isterseniz, oyunun dosyalarını doğrulamanız gerekiyor.</div>",
+      "authorsHtml": "<p>CrimsonSwift, VolkTyson</p>",
+      "size": "6.02 MB",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Calypso Çeviri",
+          "url": "https://www.calypsoceviri.com/_files/archives/7d262d_37866699f1c04e2882cb893236055c62.rar?dn=Outlast%2520T%25C3%25BCrk%25C3%25A7e%2520Yama%2520V1.rar",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "238320"
+    },
+    {
+      "title": "Corsair Cove",
+      "studio": "Calypso Çeviri",
+      "studioUrl": "https://www.calypsoceviri.com",
+      "language": "Türkçe",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": "1",
+      "updatedAt": "07.08.2026",
+      "pageUrl": "https://www.calypsoceviri.com/turkce-yamalar/corsair-cove-turkce-yama-indir",
+      "howToInstallHtml": "<div>Aşağıda vermiş olduğumuz linkten indirdiğiniz Rar dosyasındaki Türkçe Yama exesini, oyunun kurulu olduğu ana dosya konumuna atarak, Türkçe yama exesini çalıştırın. Oyunun ana dosya konumunun seçili olduğunu kontrol ettikten sonra, hangi platformdan oynuyorsanız, o platformun yükle butonuna basarak yamayı yükleyebilirsiniz. <br><br>Yamayı kaldırmak için oyunun dosya konumundaki \"CorsairCove_YamaKaldır.exe\" dosyası çalıştırarak kaldırabilirsiniz.</div>",
+      "authorsHtml": "<p>Bugzade</p>",
+      "size": "4.33 MB",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Calypso Çeviri",
+          "url": "https://www.calypsoceviri.com/_files/archives/7d262d_ffe1c81d3faf4df882df29e6b0d41ba2.rar?dn=Corsair%2520Cove%2520T%25C3%25BCrk%25C3%25A7e%2520Yama%2520V1.rar",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "1368140"
+    },
+    {
       "title": "Akatori",
       "studio": "Calypso Çeviri",
       "studioUrl": "https://www.calypsoceviri.com",
@@ -327,6 +381,33 @@
         }
       ],
       "steamAppId": "1210060"
+    },
+    {
+      "title": "Adorable Adventures",
+      "studio": "Calypso Çeviri",
+      "studioUrl": "https://www.calypsoceviri.com",
+      "language": "Türkçe",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": "1",
+      "updatedAt": "23.06.2026",
+      "pageUrl": "https://www.calypsoceviri.com/turkce-yamalar/adorable-adventures-turkce-yama-indir",
+      "howToInstallHtml": "<div>Aşağıda vermiş olduğumuz linkten indirdiğiniz Rar dosyasındaki Türkçe Yama exesini, oyunun kurulu olduğu ana dosya konumuna atarak, Türkçe yama exesini çalıştırın. Oyunun ana dosya konumunun seçili olduğunu kontrol ettikten sonra, hangi platformdan oynuyorsanız, o platformun yükle butonuna basarak yamayı yükleyebilirsiniz. <br><br>Yamayı kaldırmak isterseniz, oyunun dosya konumundaki \"Adorable_YamaKaldır.exe\"'sini çalıştırarak, kaldırabilirsiniz.</div>",
+      "authorsHtml": "<p>Bugzade</p>",
+      "size": "2.87 MB",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Calypso Çeviri",
+          "url": "https://www.calypsoceviri.com/_files/archives/7d262d_e28665dee36546bdb8b472ec71052c59.rar?dn=Adorable%2520Adventures%2520T%25C3%25BCrk%25C3%25A7e%2520Yama%2520V1.rar",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "3840230"
     },
     {
       "title": "Fears to Fathom Scratch Creek",
@@ -6701,8 +6782,8 @@
       "hasNeuralVoice": false,
       "hasNeuralDub": false,
       "hasNeuralText": false,
-      "version": "2",
-      "updatedAt": "04.07.2026",
+      "version": "3",
+      "updatedAt": "07.08.2026",
       "pageUrl": "https://www.calypsoceviri.com/turkce-yamalar/atomic-heart-turkce-yama-indir",
       "howToInstallHtml": "<div>Aşağıda vermiş olduğumuz linkten indirdiğiniz Rar dosyasındaki Türkçe Yama exesini, oyunun kurulu olduğu ana dosya konumuna atarak, Türkçe yama exesini çalıştırın. Oyunun ana dosya konumunun seçili olduğunu kontrol ettikten sonra, hangi platformdan oynuyorsanız, o platformun yükle butonuna basarak yamayı yükleyebilirsiniz.<br><br>Yamayı kaldırmak için dosya konumundaki AtomicHeart_YamaKaldir.exe den yamayı kaldırabilirsiniz.</div>",
       "authorsHtml": "<p>VolkTyson, CrimsonSwift</p>",
@@ -6711,11 +6792,38 @@
       "mirrors": [
         {
           "label": "Calypso Çeviri",
-          "url": "https://www.calypsoceviri.com/_files/archives/7d262d_17050bfea4fb4a0892c882be778adbcf.rar?dn=Atomic%2520Heart%2520T%25C3%25BCrk%25C3%25A7e%2520Yama%2520V2.rar",
+          "url": "https://www.calypsoceviri.com/_files/archives/7d262d_77d37f5db88944f798b1fa0648807186.rar?dn=Atomic%2520Heart%2520T%25C3%25BCrk%25C3%25A7e%2520Yama%2520V3.rar",
           "kind": "direct"
         }
       ],
       "steamAppId": "668580"
+    },
+    {
+      "title": "Atomfall",
+      "studio": "Calypso Çeviri",
+      "studioUrl": "https://www.calypsoceviri.com",
+      "language": "Türkçe",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": "3",
+      "updatedAt": "23.06.2026",
+      "pageUrl": "https://www.calypsoceviri.com/turkce-yamalar/atomfall-turkce-yama-indir",
+      "howToInstallHtml": "<div>Aşağıda vermiş olduğumuz linkten indirdiğiniz Rar dosyasındaki Türkçe Yama exesini, oyunun kurulu olduğu ana dosya konumuna atarak, Türkçe yama exesini çalıştırın. Oyunun ana dosya konumunun seçili olduğunu kontrol ettikten sonra, hangi platformdan oynuyorsanız, o platformun yükle butonuna basarak yamayı yükleyebilirsiniz.<br><br>Yamayı kaldırmak için oyunun dosyalarını doğrulamanız gerekiyor. Oyununuz orijinal değil ise *Text\\pc* klasörünü komple yedek almanız lazım. Kaldırmak için aldığınız yedeği tekrar yerine atarsanız, oyununuz orijinal haline gelecektir.</div>",
+      "authorsHtml": "<p>VolkTyson</p>",
+      "size": "1.95 MB",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Calypso Çeviri",
+          "url": "https://www.calypsoceviri.com/_files/archives/7d262d_07d82e2b5dc94870b4c060cd09c4dff5.rar?dn=Atomfall%2520T%25C3%25BCrk%25C3%25A7e%2520Yama%2520V3.rar",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "801800"
     },
     {
       "title": "ASKA",
