@@ -5,6 +5,33 @@
   "siteUrl": "https://www.calypsoceviri.com",
   "localizations": [
     {
+      "title": "He Followed Me",
+      "studio": "Calypso Çeviri",
+      "studioUrl": "https://www.calypsoceviri.com",
+      "language": "Türkçe",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": "1",
+      "updatedAt": "09.08.2026",
+      "pageUrl": "https://www.calypsoceviri.com/turkce-yamalar/he-followed-me-turkce-yama-indir",
+      "howToInstallHtml": "<div>Aşağıda vermiş olduğumuz linkten indirdiğiniz Rar dosyasındaki Türkçe Yama exesini, oyunun kurulu olduğu ana dosya konumuna atarak, Türkçe yama exesini çalıştırın. Oyunun ana dosya konumunun seçili olduğunu kontrol ettikten sonra, hangi platformdan oynuyorsanız, o platformun yükle butonuna basarak yamayı yükleyebilirsiniz. <br><br>Yamayı kaldırmak isterseniz, oyunun dosyalarını doğrulamanız gerekiyor.</div>",
+      "authorsHtml": "<p>CrimsonSwift, VolkTyson</p>",
+      "size": null,
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Calypso Çeviri",
+          "url": "https://www.calypsoceviri.com/_files/archives/7d262d_b507fbcbb8494918a4220f162743a908.rar?dn=He%2520Followed%2520Me%2520T%25C3%25BCrk%25C3%25A7e%2520Yama%2520V1.rar",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "3879070"
+    },
+    {
       "title": "Outlast",
       "studio": "Calypso Çeviri",
       "studioUrl": "https://www.calypsoceviri.com",
@@ -840,6 +867,33 @@
         }
       ],
       "steamAppId": "2060870"
+    },
+    {
+      "title": "Grime 2",
+      "studio": "Calypso Çeviri",
+      "studioUrl": "https://www.calypsoceviri.com",
+      "language": "Türkçe",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": "1",
+      "updatedAt": "23.06.2026",
+      "pageUrl": "https://www.calypsoceviri.com/turkce-yamalar/grime-2-turkce-yama-indir",
+      "howToInstallHtml": "<div>Aşağıda vermiş olduğumuz linkten indirdiğiniz Rar dosyasındaki Türkçe Yama exesini, oyunun kurulu olduğu ana dosya konumuna atarak, Türkçe yama exesini çalıştırın. Oyunun ana dosya konumunun seçili olduğunu kontrol ettikten sonra, hangi platformdan oynuyorsanız, o platformun yükle butonuna basarak yamayı yükleyebilirsiniz. <br><br>Yamayı kaldırmak için oyunun dosyalarını doğrulamanız gerekiyor.</div>",
+      "authorsHtml": "<p>Bugzade</p>",
+      "size": "3.84 MB",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Calypso Çeviri",
+          "url": "https://www.calypsoceviri.com/_files/archives/7d262d_ec24cf2addec41e7823075677b485e5a.rar?dn=Grime%25202%2520T%25C3%25BCrk%25C3%25A7e%2520Yama%2520V1.rar",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "2529790"
     },
     {
       "title": "A Way Out",
@@ -2143,18 +2197,18 @@
       "hasNeuralVoice": false,
       "hasNeuralDub": false,
       "hasNeuralText": false,
-      "version": null,
+      "version": "1",
       "updatedAt": "23.06.2026",
       "pageUrl": "https://www.calypsoceviri.com/turkce-yamalar/soma-turkce-yama-indir",
-      "howToInstallHtml": "<p>İndirdiğiniz arşivdeki Türkçe Yama dosyasını oyunun kurulu olduğu klasöre atıp çalıştırın ve yamayı kurun.</p>",
-      "authorsHtml": null,
-      "size": null,
+      "howToInstallHtml": "<div>Aşağıda vermiş olduğumuz linkten indirdiğiniz Rar dosyasındaki Türkçe Yama exesini, oyunun kurulu olduğu ana dosya konumuna atarak, Türkçe yama exesini çalıştırın. Oyunun ana dosya konumunun seçili olduğunu kontrol ettikten sonra, hangi platformdan oynuyorsanız, o platformun yükle butonuna basarak yamayı yükleyebilirsiniz. Gamepass platformundan oynayanların Content klasörü içerisine kurmaları gerekiyor. <br><br>Yamayı kaldırmak için oyunun dosyalarını doğrulamanız gerekiyor.</div>",
+      "authorsHtml": "<p>N.</p>",
+      "size": "1.66 MB",
       "inDevelopment": false,
       "mirrors": [
         {
           "label": "Calypso Çeviri",
-          "url": "https://www.calypsoceviri.com/turkce-yamalar/soma-turkce-yama-indir",
-          "kind": "other"
+          "url": "https://www.calypsoceviri.com/_files/archives/7d262d_b2d366c05d014c9aa67d0a1202104ff0.rar?dn=Soma%2520T%25C3%25BCrk%25C3%25A7e%2520Yama%2520V1.rar",
+          "kind": "direct"
         }
       ],
       "steamAppId": "282140"
@@ -2805,33 +2859,6 @@
         }
       ],
       "steamAppId": "2958130"
-    },
-    {
-      "title": "Dispatch",
-      "studio": "Calypso Çeviri",
-      "studioUrl": "https://www.calypsoceviri.com",
-      "language": "Türkçe",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": "10",
-      "updatedAt": "23.06.2026",
-      "pageUrl": "https://www.calypsoceviri.com/turkce-yamalar/dispatch-turkce-yama-indir",
-      "howToInstallHtml": "<div>Aşağıda vermiş olduğumuz linkten indirdiğiniz Rar dosyasındaki Türkçe Yama exesini, oyunun kurulu olduğu ana dosya konumuna atarak, Türkçe yama exesini çalıştırın. Oyunun ana dosya konumunun seçili olduğunu kontrol ettikten sonra, hangi platformdan oynuyorsanız, o platformun yükle butonuna basarak yamayı yükleyebilirsiniz. Yamayı kurduktan sonra oyun içi ayarlardan \"Settings&gt;Language&gt;Default\" seçmeniz gerekiyor.<br><br>Yamayı kaldırmak için oyunun dosya konumundaki Dispatch_YamaKaldır.exe'den yamayı kaldırabilirsiniz.</div>",
-      "authorsHtml": "<p>VolkTyson</p>",
-      "size": "2.19 MB",
-      "inDevelopment": false,
-      "mirrors": [
-        {
-          "label": "Calypso Çeviri",
-          "url": "https://www.calypsoceviri.com/_files/archives/7d262d_ce31da8c0b774eb6b8acb7b76ee2511c.rar?dn=Dispatch%2520T%25C3%25BCrk%25C3%25A7e%2520Yama%2520V10.rar",
-          "kind": "direct"
-        }
-      ],
-      "steamAppId": "2592160"
     },
     {
       "title": "Escape From Duckov",
@@ -3668,6 +3695,33 @@
       "steamAppId": "2943740"
     },
     {
+      "title": "Gatekeeper",
+      "studio": "Calypso Çeviri",
+      "studioUrl": "https://www.calypsoceviri.com",
+      "language": "Türkçe",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": "2",
+      "updatedAt": "23.06.2026",
+      "pageUrl": "https://www.calypsoceviri.com/turkce-yamalar/gatekeeper-turkce-yama-indir",
+      "howToInstallHtml": "<div>Aşağıda vermiş olduğumuz linkten indirdiğiniz Rar dosyasındaki Türkçe Yama exesini, oyunun kurulu olduğu ana dosya konumuna atarak, Türkçe yama exesini çalıştırın. Oyunun ana dosya konumunun seçili olduğunu kontrol ettikten sonra, hangi platformdan oynuyorsanız, o platformun yükle butonuna basarak yamayı yükleyebilirsiniz.<br><br>Yamayı kaldırmak için dosya konumundaki Gatekeeper_YamaKaldır.exe den yamayı kaldırabilirsiniz.</div>",
+      "authorsHtml": "<p>Indra</p>",
+      "size": "3.00 MB",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Calypso Çeviri",
+          "url": "https://www.calypsoceviri.com/_files/archives/7d262d_ab25371a36e449f8b65d7489b1a3cac6.rar?dn=Gatekeeper%2520T%25C3%25BCrk%25C3%25A7e%2520Yama%2520V2.rar",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "2106670"
+    },
+    {
       "title": "Mafia The Old Country",
       "studio": "Calypso Çeviri",
       "studioUrl": "https://www.calypsoceviri.com",
@@ -3845,7 +3899,7 @@
       "pageUrl": "https://www.calypsoceviri.com/turkce-yamalar/the-drifter-turkce-yama-indir",
       "howToInstallHtml": "<div>Aşağıda vermiş olduğumuz linkten indirdiğiniz Rar dosyasındaki Türkçe Yama exesini, oyunun kurulu olduğu ana dosya konumuna atarak, Türkçe yama exesini çalıştırın. Oyunun ana dosya konumunun seçili olduğunu kontrol ettikten sonra, hangi platformdan oynuyorsanız, o platformun yükle butonuna basarak yamayı yükleyebilirsiniz. Yamayı kurduktan sonra oyun içi ayarlardan, Options &gt; Language kısmından 'Türkçe' seçeneğini seçmeniz gerekiyor.<br><br>Yamayı kaldırmak için dosyalarını doğrulamanız gerekiyor.</div>",
       "authorsHtml": "<p>Indra</p>",
-      "size": "3.27 MB",
+      "size": null,
       "inDevelopment": false,
       "mirrors": [
         {
@@ -3953,7 +4007,7 @@
       "pageUrl": "https://www.calypsoceviri.com/turkce-yamalar/robocop-rogue-city-unfinished-business-turkce-yama-indir",
       "howToInstallHtml": "<div>Aşağıda vermiş olduğumuz linkten indirdiğiniz Rar dosyasındaki Türkçe Yama exesini, oyunun kurulu olduğu ana dosya konumuna atarak, Türkçe yama exesini çalıştırın. Oyunun ana dosya konumunun seçili olduğunu kontrol ettikten sonra, hangi platformdan oynuyorsanız, o platformun yükle butonuna basarak yamayı yükleyebilirsiniz.<br><br>Yamayı kaldırmak için dosya konumundaki RobocopUnfinished_YamaKaldır.exe den yamayı kaldırabilirsiniz.</div>",
       "authorsHtml": "<p>VolkTyson</p>",
-      "size": "2.01 MB",
+      "size": null,
       "inDevelopment": false,
       "mirrors": [
         {
@@ -4007,7 +4061,7 @@
       "pageUrl": "https://www.calypsoceviri.com/turkce-yamalar/eriksholm-the-stolen-dream-turkce-yama-indir",
       "howToInstallHtml": "<div>Aşağıda vermiş olduğumuz linkten indirdiğiniz Rar dosyasındaki Türkçe Yama exesini, oyunun kurulu olduğu ana dosya konumuna atarak, Türkçe yama exesini çalıştırın. Oyunun ana dosya konumunun seçili olduğunu kontrol ettikten sonra, hangi platformdan oynuyorsanız, o platformun yükle butonuna basarak yamayı yükleyebilirsiniz.<br><br>Yamayı kaldırmak için dosya konumundaki Eriksholm_YamaKaldır.exe den yamayı kaldırabilirsiniz.</div>",
       "authorsHtml": "<p>Indra</p>",
-      "size": "6.66 MB",
+      "size": null,
       "inDevelopment": false,
       "mirrors": [
         {
@@ -4464,15 +4518,15 @@
       "version": null,
       "updatedAt": "23.06.2026",
       "pageUrl": "https://www.calypsoceviri.com/turkce-yamalar/the-wild-at-heart-turkce-yama-indir",
-      "howToInstallHtml": "<p>İndirdiğiniz arşivdeki Türkçe Yama dosyasını oyunun kurulu olduğu klasöre atıp çalıştırın ve yamayı kurun.</p>",
-      "authorsHtml": null,
-      "size": null,
+      "howToInstallHtml": "<div>Aşağıda vermiş olduğumuz linkten indirdiğiniz Rar dosyasındaki Türkçe Yama exesini, oyunun kurulu olduğu ana dosya konumuna atarak, Türkçe yama exesini çalıştırın. Oyunun ana dosya konumunun seçili olduğunu kontrol ettikten sonra, hangi platformdan oynuyorsanız, o platformun yükle butonuna basarak yamayı yükleyebilirsiniz.<br><br>Yamayı kaldırmak için dosya konumundaki WildatHeart_YamaKaldır.exe den yamayı kaldırabilirsiniz.</div>",
+      "authorsHtml": "<p>Bugzade, VolkTyson</p>",
+      "size": "21.7 MB",
       "inDevelopment": false,
       "mirrors": [
         {
           "label": "Calypso Çeviri",
-          "url": "https://www.calypsoceviri.com/turkce-yamalar/the-wild-at-heart-turkce-yama-indir",
-          "kind": "other"
+          "url": "https://www.calypsoceviri.com/_files/archives/7d262d_dede053fcba8432e940f09a229712c7c.rar?dn=The%2520Wild%2520at%2520Heart%2520T%25C3%25BCrk%25C3%25A7e%2520Yama.rar",
+          "kind": "direct"
         }
       ],
       "steamAppId": "1093290"
@@ -4746,6 +4800,33 @@
         }
       ],
       "steamAppId": "1622910"
+    },
+    {
+      "title": "Steelrising",
+      "studio": "Calypso Çeviri",
+      "studioUrl": "https://www.calypsoceviri.com",
+      "language": "Türkçe",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": null,
+      "updatedAt": "23.06.2026",
+      "pageUrl": "https://www.calypsoceviri.com/turkce-yamalar/steelrising-turkce-yama-indir",
+      "howToInstallHtml": "<div>Aşağıda vermiş olduğumuz linkten indirdiğiniz Rar dosyasındaki Türkçe Yama exesini, oyunun kurulu olduğu ana dosya konumuna atarak, Türkçe yama exesini çalıştırın. Oyunun ana dosya konumunun seçili olduğunu kontrol ettikten sonra, hangi platformdan oynuyorsanız, o platformun yükle butonuna basarak yamayı yükleyebilirsiniz.<br><br>Yamayı kaldırmak için dosya konumundaki Steelrising_YamaKaldır.exe den yamayı kaldırabilirsiniz.</div>",
+      "authorsHtml": "<p>Sweaty, Bugzade</p>",
+      "size": "2.57 MB",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Calypso Çeviri",
+          "url": "https://www.calypsoceviri.com/_files/archives/7d262d_52b5f76f8ca7425fb44cb69c0ad0ff69.rar?dn=Steelrising%2520T%25C3%25BCrk%25C3%25A7e%2520Yama.rar",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "1283400"
     },
     {
       "title": "The Awesome Adventures of Captain Spirit",
@@ -6701,18 +6782,18 @@
       "hasNeuralVoice": false,
       "hasNeuralDub": false,
       "hasNeuralText": false,
-      "version": null,
+      "version": "3",
       "updatedAt": "07.08.2026",
       "pageUrl": "https://www.calypsoceviri.com/turkce-yamalar/atomic-heart-turkce-yama-indir",
-      "howToInstallHtml": "<p>İndirdiğiniz arşivdeki Türkçe Yama dosyasını oyunun kurulu olduğu klasöre atıp çalıştırın ve yamayı kurun.</p>",
-      "authorsHtml": null,
-      "size": null,
+      "howToInstallHtml": "<div>Aşağıda vermiş olduğumuz linkten indirdiğiniz Rar dosyasındaki Türkçe Yama exesini, oyunun kurulu olduğu ana dosya konumuna atarak, Türkçe yama exesini çalıştırın. Oyunun ana dosya konumunun seçili olduğunu kontrol ettikten sonra, hangi platformdan oynuyorsanız, o platformun yükle butonuna basarak yamayı yükleyebilirsiniz.<br><br>Yamayı kaldırmak için dosya konumundaki AtomicHeart_YamaKaldir.exe den yamayı kaldırabilirsiniz.</div>",
+      "authorsHtml": "<p>VolkTyson, CrimsonSwift</p>",
+      "size": "4.28 MB",
       "inDevelopment": false,
       "mirrors": [
         {
           "label": "Calypso Çeviri",
-          "url": "https://www.calypsoceviri.com/turkce-yamalar/atomic-heart-turkce-yama-indir",
-          "kind": "other"
+          "url": "https://www.calypsoceviri.com/_files/archives/7d262d_77d37f5db88944f798b1fa0648807186.rar?dn=Atomic%2520Heart%2520T%25C3%25BCrk%25C3%25A7e%2520Yama%2520V3.rar",
+          "kind": "direct"
         }
       ],
       "steamAppId": "668580"

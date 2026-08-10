@@ -2118,34 +2118,6 @@
       "steamAppId": "4288090"
     },
     {
-      "title": "Batman: The Telltale Series (Ep1-Ep2)",
-      "studio": "Lokalizace.net",
-      "studioUrl": "https://lokalizace.net/localizations/batman-the-telltale-series",
-      "language": "Čeština",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": "1.0.0",
-      "updatedAt": "06.04.2026",
-      "pageUrl": "https://lokalizace.net/localizations/batman-the-telltale-series",
-      "howToInstallHtml": "<p>Stáhněte ZIP soubor a rozbalte ho do složky hry, nebo použijte aplikaci CZManager pro automatickou instalaci češtiny.</p>",
-      "changelogHtml": "<div><p>Nahrána nová verze překladu: 1.0.0</p></div>",
-      "authorsHtml": "<p>Lost And Found</p>",
-      "size": "2.80 MB",
-      "inDevelopment": false,
-      "mirrors": [
-        {
-          "label": "Lokalizace.net",
-          "url": "https://lokalizace.net/api/download/1430",
-          "kind": "direct"
-        }
-      ],
-      "steamAppId": "498240"
-    },
-    {
       "title": "Portrait of a Torn",
       "studio": "Lokalizace.net",
       "studioUrl": "https://lokalizace.net/localizations/portrait-of-a-torn",
@@ -2940,8 +2912,7 @@
           "url": "https://lokalizace.net/api/download/1313",
           "kind": "direct"
         }
-      ],
-      "steamAppId": "239160"
+      ]
     },
     {
       "title": "Sinking Island",
@@ -11426,8 +11397,7 @@
           "url": "https://lokalizace.net/api/download/514",
           "kind": "direct"
         }
-      ],
-      "steamAppId": "239160"
+      ]
     },
     {
       "title": "Warcraft 1 Remastered - CZ překlad a dabing",
@@ -14159,8 +14129,7 @@
           "url": "https://lokalizace.net/api/download/328",
           "kind": "other"
         }
-      ],
-      "steamAppId": "239160"
+      ]
     },
     {
       "title": "The Almost Gone",
@@ -17552,18 +17521,18 @@
       "hasNeuralVoice": false,
       "hasNeuralDub": false,
       "hasNeuralText": false,
-      "version": "1.0",
-      "updatedAt": "04.07.2026",
+      "version": "9.8.2026",
+      "updatedAt": "09.08.2026",
       "pageUrl": "https://lokalizace.net/localizations/baldurs-gate-3",
       "howToInstallHtml": "<p>Stáhněte ZIP soubor a rozbalte ho do složky hry, nebo použijte aplikaci CZManager pro automatickou instalaci češtiny.</p>",
-      "changelogHtml": "<div><p><strong>Nová verze 1.0</strong></p><p>Vydána \"finální\" verze bez Xsek. Pokud objevíte nějaké chyby, můžete stále hlásit.</p></div>",
+      "changelogHtml": "<div><p><strong>Nová verze 9.8.2026</strong></p><p>Aktualizace na poslední patch + aktualizace pár nahlášených drobností od testerů.</p></div>",
       "authorsHtml": "<p>COTT</p>",
       "size": "47.4 MB",
       "inDevelopment": false,
       "mirrors": [
         {
           "label": "Lokalizace.net",
-          "url": "https://lokalizace.net/api/download/1634",
+          "url": "https://lokalizace.net/api/download/1731",
           "kind": "direct"
         }
       ],
