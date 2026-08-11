@@ -5,6 +5,34 @@
   "siteUrl": "https://komunitni-preklady.org",
   "localizations": [
     {
+      "title": "WUCHANG: Fallen Feathers",
+      "studio": "Komunitní překlady",
+      "studioUrl": "https://komunitni-preklady.org/preklad/wuchang-fallen-feathers",
+      "language": "Čeština",
+      "hasText": false,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": true,
+      "version": "0.51",
+      "updatedAt": "10.08.2026",
+      "requiredGameVersion": "20781879",
+      "pageUrl": "https://komunitni-preklady.org/preklad/wuchang-fallen-feathers",
+      "howToInstallHtml": "<p>Každý překlad má vlastní postup instalace. Otevřete stránku překladu (tlačítko „Otevřít v prohlížeči“ níže) — najdete tam úplný návod k instalaci i tlačítko ke stažení.</p>",
+      "authorsHtml": "<p>Ďáblorožec</p>",
+      "size": "1.60 MB",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Komunitní překlady",
+          "url": "https://komunitni-preklady.org/download/902?sig=IdCmlAiF-N6ATB09eJJOVg",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "2277560"
+    },
+    {
       "title": "Barotrauma",
       "studio": "Komunitní překlady",
       "studioUrl": "https://komunitni-preklady.org/preklad/barotrauma",
@@ -277,34 +305,6 @@
       "inDevelopment": true,
       "mirrors": [],
       "steamAppId": "3812600"
-    },
-    {
-      "title": "WUCHANG: Fallen Feathers",
-      "studio": "Komunitní překlady",
-      "studioUrl": "https://komunitni-preklady.org/preklad/wuchang-fallen-feathers",
-      "language": "Čeština",
-      "hasText": false,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": true,
-      "version": "0.5",
-      "updatedAt": "06.08.2026",
-      "requiredGameVersion": "20781879",
-      "pageUrl": "https://komunitni-preklady.org/preklad/wuchang-fallen-feathers",
-      "howToInstallHtml": "<p>Každý překlad má vlastní postup instalace. Otevřete stránku překladu (tlačítko „Otevřít v prohlížeči“ níže) — najdete tam úplný návod k instalaci i tlačítko ke stažení.</p>",
-      "authorsHtml": "<p>Ďáblorožec</p>",
-      "size": "1.60 MB",
-      "inDevelopment": false,
-      "mirrors": [
-        {
-          "label": "Komunitní překlady",
-          "url": "https://komunitni-preklady.org/download/902?sig=IdCmlAiF-N6ATB09eJJOVg",
-          "kind": "direct"
-        }
-      ],
-      "steamAppId": "2277560"
     },
     {
       "title": "No Rest For The Wicked",
@@ -16897,7 +16897,7 @@
       "requiredGameVersion": null,
       "pageUrl": "https://komunitni-preklady.org/preklad/divinity-ii-dragon-knight-saga-",
       "howToInstallHtml": "<p>Každý překlad má vlastní postup instalace. Otevřete stránku překladu (tlačítko „Otevřít v prohlížeči“ níže) — najdete tam úplný návod k instalaci i tlačítko ke stažení.</p>",
-      "authorsHtml": "<p>Ironvale Localization</p>",
+      "authorsHtml": "<p>Ďáblorožec</p>",
       "size": null,
       "inDevelopment": true,
       "mirrors": []
