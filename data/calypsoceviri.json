@@ -2861,6 +2861,33 @@
       "steamAppId": "2958130"
     },
     {
+      "title": "Dispatch",
+      "studio": "Calypso Çeviri",
+      "studioUrl": "https://www.calypsoceviri.com",
+      "language": "Türkçe",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": "10",
+      "updatedAt": "23.06.2026",
+      "pageUrl": "https://www.calypsoceviri.com/turkce-yamalar/dispatch-turkce-yama-indir",
+      "howToInstallHtml": "<div>Aşağıda vermiş olduğumuz linkten indirdiğiniz Rar dosyasındaki Türkçe Yama exesini, oyunun kurulu olduğu ana dosya konumuna atarak, Türkçe yama exesini çalıştırın. Oyunun ana dosya konumunun seçili olduğunu kontrol ettikten sonra, hangi platformdan oynuyorsanız, o platformun yükle butonuna basarak yamayı yükleyebilirsiniz. Yamayı kurduktan sonra oyun içi ayarlardan \"Settings&gt;Language&gt;Default\" seçmeniz gerekiyor.<br><br>Yamayı kaldırmak için oyunun dosya konumundaki Dispatch_YamaKaldır.exe'den yamayı kaldırabilirsiniz.</div>",
+      "authorsHtml": "<p>VolkTyson</p>",
+      "size": "2.19 MB",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Calypso Çeviri",
+          "url": "https://www.calypsoceviri.com/_files/archives/7d262d_ce31da8c0b774eb6b8acb7b76ee2511c.rar?dn=Dispatch%2520T%25C3%25BCrk%25C3%25A7e%2520Yama%2520V10.rar",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "2592160"
+    },
+    {
       "title": "Escape From Duckov",
       "studio": "Calypso Çeviri",
       "studioUrl": "https://www.calypsoceviri.com",
@@ -3899,7 +3926,7 @@
       "pageUrl": "https://www.calypsoceviri.com/turkce-yamalar/the-drifter-turkce-yama-indir",
       "howToInstallHtml": "<div>Aşağıda vermiş olduğumuz linkten indirdiğiniz Rar dosyasındaki Türkçe Yama exesini, oyunun kurulu olduğu ana dosya konumuna atarak, Türkçe yama exesini çalıştırın. Oyunun ana dosya konumunun seçili olduğunu kontrol ettikten sonra, hangi platformdan oynuyorsanız, o platformun yükle butonuna basarak yamayı yükleyebilirsiniz. Yamayı kurduktan sonra oyun içi ayarlardan, Options &gt; Language kısmından 'Türkçe' seçeneğini seçmeniz gerekiyor.<br><br>Yamayı kaldırmak için dosyalarını doğrulamanız gerekiyor.</div>",
       "authorsHtml": "<p>Indra</p>",
-      "size": null,
+      "size": "3.27 MB",
       "inDevelopment": false,
       "mirrors": [
         {
@@ -4007,7 +4034,7 @@
       "pageUrl": "https://www.calypsoceviri.com/turkce-yamalar/robocop-rogue-city-unfinished-business-turkce-yama-indir",
       "howToInstallHtml": "<div>Aşağıda vermiş olduğumuz linkten indirdiğiniz Rar dosyasındaki Türkçe Yama exesini, oyunun kurulu olduğu ana dosya konumuna atarak, Türkçe yama exesini çalıştırın. Oyunun ana dosya konumunun seçili olduğunu kontrol ettikten sonra, hangi platformdan oynuyorsanız, o platformun yükle butonuna basarak yamayı yükleyebilirsiniz.<br><br>Yamayı kaldırmak için dosya konumundaki RobocopUnfinished_YamaKaldır.exe den yamayı kaldırabilirsiniz.</div>",
       "authorsHtml": "<p>VolkTyson</p>",
-      "size": null,
+      "size": "2.01 MB",
       "inDevelopment": false,
       "mirrors": [
         {
@@ -4061,7 +4088,7 @@
       "pageUrl": "https://www.calypsoceviri.com/turkce-yamalar/eriksholm-the-stolen-dream-turkce-yama-indir",
       "howToInstallHtml": "<div>Aşağıda vermiş olduğumuz linkten indirdiğiniz Rar dosyasındaki Türkçe Yama exesini, oyunun kurulu olduğu ana dosya konumuna atarak, Türkçe yama exesini çalıştırın. Oyunun ana dosya konumunun seçili olduğunu kontrol ettikten sonra, hangi platformdan oynuyorsanız, o platformun yükle butonuna basarak yamayı yükleyebilirsiniz.<br><br>Yamayı kaldırmak için dosya konumundaki Eriksholm_YamaKaldır.exe den yamayı kaldırabilirsiniz.</div>",
       "authorsHtml": "<p>Indra</p>",
-      "size": null,
+      "size": "6.66 MB",
       "inDevelopment": false,
       "mirrors": [
         {

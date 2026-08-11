@@ -1359,15 +1359,26 @@
       "hasNeuralVoice": false,
       "hasNeuralDub": false,
       "hasNeuralText": false,
-      "version": null,
-      "updatedAt": null,
+      "version": "1.1.5-Steam",
+      "updatedAt": "10.08.2026",
       "pageUrl": "https://lokalizace.net/localizations/the-drifter",
       "howToInstallHtml": "<p>Stáhněte ZIP soubor a rozbalte ho do složky hry, nebo použijte aplikaci CZManager pro automatickou instalaci češtiny.</p>",
-      "changelogHtml": null,
+      "changelogHtml": "<div><p><strong>Nová verze 1.1.5-Steam</strong></p><p>Překlad pro Steam verzi zveřejněn.</p><p><strong>Nová verze 1.1.2-GOG</strong></p><p>Překlad pro GOG verzi zveřejněn.</p></div>",
       "authorsHtml": "<p>miracle.flame</p>",
-      "size": null,
-      "inDevelopment": true,
-      "mirrors": [],
+      "size": "9.70 MB",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Lokalizace.net",
+          "url": "https://lokalizace.net/api/download/1734",
+          "kind": "direct"
+        },
+        {
+          "label": "Версия 1.1.2-GOG",
+          "url": "https://lokalizace.net/api/download/1733",
+          "kind": "other"
+        }
+      ],
       "steamAppId": "1170570"
     },
     {
