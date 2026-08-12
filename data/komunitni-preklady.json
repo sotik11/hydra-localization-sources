@@ -5,6 +5,61 @@
   "siteUrl": "https://komunitni-preklady.org",
   "localizations": [
     {
+      "title": "Borderlands 4",
+      "studio": "Komunitní překlady",
+      "studioUrl": "https://komunitni-preklady.org/preklad/borderlands-4-2",
+      "language": "Slovenčina",
+      "hasText": false,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": true,
+      "version": "0.7",
+      "updatedAt": "11.08.2026",
+      "requiredGameVersion": "1.9",
+      "pageUrl": "https://komunitni-preklady.org/preklad/borderlands-4-2",
+      "howToInstallHtml": "<p>Každý preklad má vlastný postup inštalácie. Otvorte stránku prekladu (tlačidlo „Otvoriť v prehliadači“ nižšie) — nájdete tam úplný návod na inštaláciu aj tlačidlo na stiahnutie.</p>",
+      "authorsHtml": "<p>Flego</p>",
+      "size": "30.3 MB",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Komunitní překlady",
+          "url": "https://komunitni-preklady.org/download/529?sig=GETBYHLLK3Sn9uSYsr8NIw",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "1285190"
+    },
+    {
+      "title": "Boxes Lost Fragmentes",
+      "studio": "Komunitní překlady",
+      "studioUrl": "https://komunitni-preklady.org/preklad/boxes-lost-fragmentes",
+      "language": "Čeština",
+      "hasText": false,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": true,
+      "version": "1.1a",
+      "updatedAt": "11.08.2026",
+      "requiredGameVersion": "Epic - 7live",
+      "pageUrl": "https://komunitni-preklady.org/preklad/boxes-lost-fragmentes",
+      "howToInstallHtml": "<p>Každý překlad má vlastní postup instalace. Otevřete stránku překladu (tlačítko „Otevřít v prohlížeči“ níže) — najdete tam úplný návod k instalaci i tlačítko ke stažení.</p>",
+      "authorsHtml": "<p>Dannyho CZeštiny</p>",
+      "size": "28.4 MB",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Komunitní překlady",
+          "url": "https://komunitni-preklady.org/download/705?sig=O7h94L9O-tzYM57k0TOcXg",
+          "kind": "direct"
+        }
+      ]
+    },
+    {
       "title": "WUCHANG: Fallen Feathers",
       "studio": "Komunitní překlady",
       "studioUrl": "https://komunitni-preklady.org/preklad/wuchang-fallen-feathers",
@@ -2053,33 +2108,6 @@
         }
       ],
       "steamAppId": "1868140"
-    },
-    {
-      "title": "Boxes Lost Fragmentes",
-      "studio": "Komunitní překlady",
-      "studioUrl": "https://komunitni-preklady.org/preklad/boxes-lost-fragmentes",
-      "language": "Čeština",
-      "hasText": false,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": true,
-      "version": "1.1",
-      "updatedAt": "12.07.2026",
-      "requiredGameVersion": "Epic - 7live",
-      "pageUrl": "https://komunitni-preklady.org/preklad/boxes-lost-fragmentes",
-      "howToInstallHtml": "<p>Každý překlad má vlastní postup instalace. Otevřete stránku překladu (tlačítko „Otevřít v prohlížeči“ níže) — najdete tam úplný návod k instalaci i tlačítko ke stažení.</p>",
-      "authorsHtml": "<p>Dannyho CZeštiny</p>",
-      "size": "28.6 MB",
-      "inDevelopment": false,
-      "mirrors": [
-        {
-          "label": "Komunitní překlady",
-          "url": "https://komunitni-preklady.org/download/705?sig=O7h94L9O-tzYM57k0TOcXg",
-          "kind": "direct"
-        }
-      ]
     },
     {
       "title": "Hello Neighbor: Search and Rescue",
@@ -4380,34 +4408,6 @@
         }
       ],
       "steamAppId": "3124540"
-    },
-    {
-      "title": "Borderlands 4",
-      "studio": "Komunitní překlady",
-      "studioUrl": "https://komunitni-preklady.org/preklad/borderlands-4-2",
-      "language": "Slovenčina",
-      "hasText": false,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": true,
-      "version": "0.6",
-      "updatedAt": "30.04.2026",
-      "requiredGameVersion": "1.6",
-      "pageUrl": "https://komunitni-preklady.org/preklad/borderlands-4-2",
-      "howToInstallHtml": "<p>Každý preklad má vlastný postup inštalácie. Otvorte stránku prekladu (tlačidlo „Otvoriť v prehliadači“ nižšie) — nájdete tam úplný návod na inštaláciu aj tlačidlo na stiahnutie.</p>",
-      "authorsHtml": "<p>Flego</p>",
-      "size": "19.4 MB",
-      "inDevelopment": false,
-      "mirrors": [
-        {
-          "label": "Komunitní překlady",
-          "url": "https://komunitni-preklady.org/download/529?sig=GETBYHLLK3Sn9uSYsr8NIw",
-          "kind": "direct"
-        }
-      ],
-      "steamAppId": "1285190"
     },
     {
       "title": "SOUTH PARK: SNOW DAY!",
@@ -16548,7 +16548,7 @@
           "kind": "direct"
         }
       ],
-      "steamAppId": "302080"
+      "steamAppId": "1366950"
     },
     {
       "title": "Codename Eagles",
@@ -16893,11 +16893,11 @@
       "hasNeuralDub": false,
       "hasNeuralText": true,
       "version": null,
-      "updatedAt": "10.08.2026",
+      "updatedAt": "11.08.2026",
       "requiredGameVersion": null,
       "pageUrl": "https://komunitni-preklady.org/preklad/divinity-ii-dragon-knight-saga-",
       "howToInstallHtml": "<p>Každý překlad má vlastní postup instalace. Otevřete stránku překladu (tlačítko „Otevřít v prohlížeči“ níže) — najdete tam úplný návod k instalaci i tlačítko ke stažení.</p>",
-      "authorsHtml": "<p>Ďáblorožec</p>",
+      "authorsHtml": "<p>Flego</p>",
       "size": null,
       "inDevelopment": true,
       "mirrors": []
