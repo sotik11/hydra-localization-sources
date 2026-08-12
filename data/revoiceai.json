@@ -419,9 +419,9 @@
       "hasNeuralText": false,
       "hasNeuralDub": true,
       "hasNeuralVoice": true,
-      "version": "0.5.1",
+      "version": null,
       "updatedAt": null,
-      "pageUrl": "https://www.playground.ru/red_dead_redemption/file/russkaya_ii_ozvuchka_dlya_rdr_1-1831123",
+      "pageUrl": "https://www.playground.ru/red_dead_redemption/file/red_dead_redemption_russkaya_ozvuchka_ot_ii_v0_5_1_revoiceai-1831123",
       "howToInstallHtml": "<p>Нейроозвучка от <strong>ReVoiceAI</strong>. Скачай через одно из зеркал выше (ShareMods — облако, PlayGround — их страница) и запусти <code>.exe</code>-установщик, указав путь к игре. Поддержать авторов можно на их <a href=\"https://boosty.to/revoice\">Boosty</a>.</p>",
       "inDevelopment": false,
       "mirrors": [
@@ -446,13 +446,23 @@
           "kind": "other"
         },
         {
+          "label": "ShareMods (Дубляж Matched)",
+          "url": "https://sharemods.com/iqe529nhfnl1/RDR1_dub_matched_v1.5.zip.html",
+          "kind": "other"
+        },
+        {
+          "label": "ShareMods (Закадр)",
+          "url": "https://sharemods.com/j3ovvmxubsd6/RDR1_voiceover_v1.5.zip.html",
+          "kind": "other"
+        },
+        {
           "label": "MEGA (Закадр)",
           "url": "https://mega.nz/file/OnwwlQ4S#EupHZ33YO8j-ila6aS48uoPu6u53-Obkvf5zxjyvFeg",
           "kind": "other"
         },
         {
           "label": "Boosty (поддержать авторов)",
-          "url": "https://boosty.to/revoice/posts/b869ac6a-7722-4520-bdbd-bdd3660a6cae",
+          "url": "https://boosty.to/revoice/posts/342ab12a-e8de-4945-a886-eb53f954939f",
           "kind": "other"
         }
       ]

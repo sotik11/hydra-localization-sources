@@ -5,6 +5,33 @@
   "siteUrl": "https://www.calypsoceviri.com",
   "localizations": [
     {
+      "title": "Oriental Empires",
+      "studio": "Calypso Çeviri",
+      "studioUrl": "https://www.calypsoceviri.com",
+      "language": "Türkçe",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": "1",
+      "updatedAt": "11.08.2026",
+      "pageUrl": "https://www.calypsoceviri.com/turkce-yamalar/oriental-empires-turkce-yama-indir",
+      "howToInstallHtml": "<div>Aşağıda vermiş olduğumuz linkten indirdiğiniz Rar dosyasındaki Türkçe Yama exesini, oyunun kurulu olduğu ana dosya konumuna atarak, Türkçe yama exesini çalıştırın. Oyunun ana dosya konumunun seçili olduğunu kontrol ettikten sonra, hangi platformdan oynuyorsanız, o platformun yükle butonuna basarak yamayı yükleyebilirsiniz. <br><br>Yamayı kaldırmak isterseniz, oyunun dosyalarını doğrulamanız gerekiyor.</div>",
+      "authorsHtml": "<p>VolkTyson</p>",
+      "size": "2.69 MB",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Calypso Çeviri",
+          "url": "https://www.calypsoceviri.com/_files/archives/7d262d_e4c1fbfc5db545aa8aea45b52f3f93f5.rar?dn=Oriental%2520Empires%2520T%25C3%25BCrk%25C3%25A7e%2520Yama%2520V1.rar",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "357310"
+    },
+    {
       "title": "He Followed Me",
       "studio": "Calypso Çeviri",
       "studioUrl": "https://www.calypsoceviri.com",
@@ -705,33 +732,6 @@
         }
       ],
       "steamAppId": "3404260"
-    },
-    {
-      "title": "Motorslice",
-      "studio": "Calypso Çeviri",
-      "studioUrl": "https://www.calypsoceviri.com",
-      "language": "Türkçe",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": "1",
-      "updatedAt": "23.06.2026",
-      "pageUrl": "https://www.calypsoceviri.com/turkce-yamalar/motorslice-turkce-yama-indir",
-      "howToInstallHtml": "<div>Aşağıda vermiş olduğumuz linkten indirdiğiniz Rar dosyasındaki Türkçe Yama exesini, oyunun kurulu olduğu ana dosya konumuna atarak, Türkçe yama exesini çalıştırın. Oyunun ana dosya konumunun seçili olduğunu kontrol ettikten sonra, hangi platformdan oynuyorsanız, o platformun yükle butonuna basarak yamayı yükleyebilirsiniz. <br><br>Yamayı kaldırmak için oyunun dosya konumundaki \"Motorslice_YamaKaldır.exe\"'sini çalıştırabilirsiniz.</div>",
-      "authorsHtml": "<p>VolkTyson</p>",
-      "size": "3.67 MB",
-      "inDevelopment": false,
-      "mirrors": [
-        {
-          "label": "Calypso Çeviri",
-          "url": "https://www.calypsoceviri.com/_files/archives/7d262d_5ce3fe4c14be46669c06a39d01fa5512.rar?dn=Motorslice%2520T%25C3%25BCrk%25C3%25A7e%2520Yama%2520V1.rar",
-          "kind": "direct"
-        }
-      ],
-      "steamAppId": "2830030"
     },
     {
       "title": "Subnautica 2",
@@ -3263,33 +3263,6 @@
           "kind": "direct"
         }
       ]
-    },
-    {
-      "title": "No, I'm not a Human",
-      "studio": "Calypso Çeviri",
-      "studioUrl": "https://www.calypsoceviri.com",
-      "language": "Türkçe",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": "8",
-      "updatedAt": "23.06.2026",
-      "pageUrl": "https://www.calypsoceviri.com/turkce-yamalar/no-im-not-a-human-turkce-yama-indir",
-      "howToInstallHtml": "<div>Aşağıda vermiş olduğumuz linkten indirdiğiniz Rar dosyasındaki Türkçe Yama exesini, oyunun kurulu olduğu ana dosya konumuna atarak, Türkçe yama exesini çalıştırın. Oyunun ana dosya konumunun seçili olduğunu kontrol ettikten sonra, hangi platformdan oynuyorsanız, o platformun yükle butonuna basarak yamayı yükleyebilirsiniz.<br><br>Yamayı kaldırmak için dosya konumundaki NoIamNot_YamaKaldır.exe den yamayı kaldırabilirsiniz.</div>",
-      "authorsHtml": "<p>Indra, Sweaty</p>",
-      "size": "3.15 MB",
-      "inDevelopment": false,
-      "mirrors": [
-        {
-          "label": "Calypso Çeviri",
-          "url": "https://www.calypsoceviri.com/_files/archives/7d262d_c402d943727349c2b8aaaf67588022f1.rar?dn=No%2520Im%2520not%2520a%2520Human%2520T%25C3%25BCrk%25C3%25A7e%2520Yama%2520V8.rar",
-          "kind": "direct"
-        }
-      ],
-      "steamAppId": "3180070"
     },
     {
       "title": "Final Fantasy 7 Remake İntergrade",
