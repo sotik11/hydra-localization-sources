@@ -5,6 +5,34 @@
   "siteUrl": "https://hernipreklady.cz",
   "localizations": [
     {
+      "title": "Tormented Souls 2",
+      "studio": "HerníPřeklady",
+      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/tormented-souls-2",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": "1.70",
+      "updatedAt": null,
+      "requiredGameVersion": "Patch 1.5.0.20",
+      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/tormented-souls-2",
+      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
+      "authorsHtml": null,
+      "inDevelopment": false,
+      "size": "27.5 MB",
+      "mirrors": [
+        {
+          "label": "HerníPřeklady",
+          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=602",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "2464280"
+    },
+    {
       "title": "Diablo II Resurrected Infernal Edition",
       "studio": "HerníPřeklady",
       "studioUrl": "https://hernipreklady.cz/seznam-prekladu/diablo-ii-resurrected-infernal-edition",
@@ -200,9 +228,9 @@
       "steamAppId": "1237970"
     },
     {
-      "title": "Alien: Rogue Incursion Evolved Edition",
+      "title": "Civilization VI",
       "studio": "HerníPřeklady",
-      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/alien-rogue-incursion-evolved-edition",
+      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/civilization-vi",
       "language": "Čeština",
       "hasText": true,
       "hasVoice": false,
@@ -210,22 +238,22 @@
       "hasNeuralVoice": false,
       "hasNeuralDub": false,
       "hasNeuralText": false,
-      "version": "1.30",
-      "updatedAt": "12.07.2026",
-      "requiredGameVersion": "Hotfix 1.1.2",
-      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/alien-rogue-incursion-evolved-edition",
+      "version": "1.35",
+      "updatedAt": "01.09.2024",
+      "requiredGameVersion": "1.0.12.68",
+      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/civilization-vi",
       "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
-      "authorsHtml": null,
+      "authorsHtml": "<p><strong>Překlad:</strong> Jetro, Hawkeye, WhiteHorse, Coffin Corner, Ralph Shepard<br><strong>Testování:</strong> Jetro, Barbar, Sushi, Raptor</p>",
       "inDevelopment": false,
-      "size": "654 KB",
+      "size": "3.21 MB",
       "mirrors": [
         {
           "label": "HerníPřeklady",
-          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=592",
+          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=260",
           "kind": "direct"
         }
       ],
-      "steamAppId": "3655390"
+      "steamAppId": "289070"
     },
     {
       "title": "Lies of P",
@@ -641,34 +669,6 @@
       "steamAppId": "3612850"
     },
     {
-      "title": "Tormented Souls 2",
-      "studio": "HerníPřeklady",
-      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/tormented-souls-2",
-      "language": "Čeština",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": "1.60",
-      "updatedAt": "10.06.2026",
-      "requiredGameVersion": "Update ze dne 04.06.2026",
-      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/tormented-souls-2",
-      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
-      "authorsHtml": null,
-      "inDevelopment": false,
-      "size": "33.8 MB",
-      "mirrors": [
-        {
-          "label": "HerníPřeklady",
-          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=579",
-          "kind": "direct"
-        }
-      ],
-      "steamAppId": "2464280"
-    },
-    {
       "title": "Two Point Campus",
       "studio": "HerníPřeklady",
       "studioUrl": "https://hernipreklady.cz/seznam-prekladu/two-point-campus",
@@ -689,6 +689,34 @@
       "size": null,
       "mirrors": [],
       "steamAppId": "1649080"
+    },
+    {
+      "title": "Alien: Rogue Incursion Evolved Edition",
+      "studio": "HerníPřeklady",
+      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/alien-rogue-incursion-evolved-edition",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": "1.30",
+      "updatedAt": "12.07.2026",
+      "requiredGameVersion": "Hotfix 1.1.2",
+      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/alien-rogue-incursion-evolved-edition",
+      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
+      "authorsHtml": null,
+      "inDevelopment": false,
+      "size": "654 KB",
+      "mirrors": [
+        {
+          "label": "HerníPřeklady",
+          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=592",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "3655390"
     },
     {
       "title": "Millennia",
@@ -2470,34 +2498,6 @@
           "kind": "direct"
         }
       ]
-    },
-    {
-      "title": "Civilization VI",
-      "studio": "HerníPřeklady",
-      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/civilization-vi",
-      "language": "Čeština",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": "1.35",
-      "updatedAt": "01.09.2024",
-      "requiredGameVersion": "1.0.12.68",
-      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/civilization-vi",
-      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
-      "authorsHtml": "<p><strong>Překlad:</strong> Jetro, Hawkeye, WhiteHorse, Coffin Corner, Ralph Shepard<br><strong>Testování:</strong> Jetro, Barbar, Sushi, Raptor</p>",
-      "inDevelopment": false,
-      "size": "3.21 MB",
-      "mirrors": [
-        {
-          "label": "HerníPřeklady",
-          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=260",
-          "kind": "direct"
-        }
-      ],
-      "steamAppId": "289070"
     },
     {
       "title": "Anno 1800",
@@ -4420,7 +4420,7 @@
           "kind": "direct"
         }
       ],
-      "steamAppId": "3732310"
+      "steamAppId": "985830"
     },
     {
       "title": "Twin Mirror",

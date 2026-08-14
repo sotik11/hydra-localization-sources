@@ -796,6 +796,39 @@
       "steamAppId": "1479730"
     },
     {
+      "title": "Death Howl",
+      "studio": "Lokalizace.net",
+      "studioUrl": "https://lokalizace.net/localizations/death-howl",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": "1.1.0.0.7-steam-hotfix-3",
+      "updatedAt": "13.08.2026",
+      "pageUrl": "https://lokalizace.net/localizations/death-howl",
+      "howToInstallHtml": "<p>Stáhněte ZIP soubor a rozbalte ho do složky hry, nebo použijte aplikaci CZManager pro automatickou instalaci češtiny.</p>",
+      "changelogHtml": "<div><p><strong>Nová verze 1.1.0.0.7-steam-hotfix-3</strong></p><p>Zřejmě finální verze překladu pro Steam verzi.</p><p><strong>Nová verze 1.1.0.0.7-gog-hotfix-3</strong></p><p>Zřejmě finální verze překladu pro GOG verzi.</p></div>",
+      "authorsHtml": "<p>miracle.flame</p>",
+      "size": "2.90 MB",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Lokalizace.net",
+          "url": "https://lokalizace.net/api/download/1739",
+          "kind": "direct"
+        },
+        {
+          "label": "Версия 1.1.0.0.7-gog-hotfix-3",
+          "url": "https://lokalizace.net/api/download/1738",
+          "kind": "other"
+        }
+      ],
+      "steamAppId": "2825880"
+    },
+    {
       "title": "Evospace",
       "studio": "Lokalizace.net",
       "studioUrl": "https://lokalizace.net/localizations/evospace",
@@ -4172,18 +4205,18 @@
       "hasNeuralVoice": false,
       "hasNeuralDub": false,
       "hasNeuralText": false,
-      "version": "1.0.0",
-      "updatedAt": "04.02.2026",
+      "version": "1.0.2",
+      "updatedAt": "13.08.2026",
       "pageUrl": "https://lokalizace.net/localizations/turok-2-seeds-of-evil-remastered",
       "howToInstallHtml": "<p>Stáhněte ZIP soubor a rozbalte ho do složky hry, nebo použijte aplikaci CZManager pro automatickou instalaci češtiny.</p>",
-      "changelogHtml": "<div><p><strong>Nová verze 1.0.0</strong></p><p>Všetko je opravené a otestované</p></div>",
+      "changelogHtml": "<div><p><strong>Nová verze 1.0.2</strong></p><p>Opravené nájdené preklepy... a neskôr plánujem pridať aj diakritiku</p></div>",
       "authorsHtml": "<p>PERTIM CZ</p>",
-      "size": "5.40 MB",
+      "size": "235.2 MB",
       "inDevelopment": false,
       "mirrors": [
         {
           "label": "Lokalizace.net",
-          "url": "https://lokalizace.net/api/download/1222",
+          "url": "https://lokalizace.net/api/download/1741",
           "kind": "direct"
         }
       ],
@@ -4200,18 +4233,18 @@
       "hasNeuralVoice": false,
       "hasNeuralDub": false,
       "hasNeuralText": false,
-      "version": "1.0.0",
-      "updatedAt": "02.02.2026",
+      "version": "1.0.1",
+      "updatedAt": "13.08.2026",
       "pageUrl": "https://lokalizace.net/localizations/turok-dinosaur-hunter-remastered",
       "howToInstallHtml": "<p>Stáhněte ZIP soubor a rozbalte ho do složky hry, nebo použijte aplikaci CZManager pro automatickou instalaci češtiny.</p>",
-      "changelogHtml": "<div><p><strong>Nová verze 1.0.0</strong></p><p>Hra otestovaná, preklad dokončený</p></div>",
+      "changelogHtml": "<div><p><strong>Nová verze 1.0.1</strong></p><p>Opravené nájdené preklepy... a neskôr plánujem pridať aj diakritiku</p></div>",
       "authorsHtml": "<p>PERTIM CZ</p>",
       "size": "23.2 MB",
       "inDevelopment": false,
       "mirrors": [
         {
           "label": "Lokalizace.net",
-          "url": "https://lokalizace.net/api/download/1211",
+          "url": "https://lokalizace.net/api/download/1740",
           "kind": "direct"
         }
       ]
@@ -19890,6 +19923,50 @@
       "inDevelopment": true,
       "mirrors": [],
       "steamAppId": "2369390"
+    },
+    {
+      "title": "Crash Bandicoot N. Sane Trilogy",
+      "studio": "Lokalizace.net",
+      "studioUrl": "https://lokalizace.net/localizations/crash-bandicoot-n-sane-trilogy",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": null,
+      "updatedAt": null,
+      "pageUrl": "https://lokalizace.net/localizations/crash-bandicoot-n-sane-trilogy",
+      "howToInstallHtml": "<p>Stáhněte ZIP soubor a rozbalte ho do složky hry, nebo použijte aplikaci CZManager pro automatickou instalaci češtiny.</p>",
+      "changelogHtml": null,
+      "authorsHtml": "<p>Smile</p>",
+      "size": null,
+      "inDevelopment": true,
+      "mirrors": [],
+      "steamAppId": "731490"
+    },
+    {
+      "title": "HELL OF FEAR Mind Breach",
+      "studio": "Lokalizace.net",
+      "studioUrl": "https://lokalizace.net/localizations/hell-of-fear-mind-breach",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": null,
+      "updatedAt": null,
+      "pageUrl": "https://lokalizace.net/localizations/hell-of-fear-mind-breach",
+      "howToInstallHtml": "<p>Stáhněte ZIP soubor a rozbalte ho do složky hry, nebo použijte aplikaci CZManager pro automatickou instalaci češtiny.</p>",
+      "changelogHtml": null,
+      "authorsHtml": "<p>PERTIM CZ</p>",
+      "size": null,
+      "inDevelopment": true,
+      "mirrors": [],
+      "steamAppId": "3372090"
     },
     {
       "title": "Five Nights at Freddy's 2",
