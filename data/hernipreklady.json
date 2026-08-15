@@ -5,6 +5,34 @@
   "siteUrl": "https://hernipreklady.cz",
   "localizations": [
     {
+      "title": "Directive 8020",
+      "studio": "HerníPřeklady",
+      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/directive-8020",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": "1.10",
+      "updatedAt": null,
+      "requiredGameVersion": "Patch z 15.6.2026",
+      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/directive-8020",
+      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
+      "authorsHtml": null,
+      "inDevelopment": false,
+      "size": "77.3 MB",
+      "mirrors": [
+        {
+          "label": "HerníPřeklady",
+          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=603",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "2255370"
+    },
+    {
       "title": "Tormented Souls 2",
       "studio": "HerníPřeklady",
       "studioUrl": "https://hernipreklady.cz/seznam-prekladu/tormented-souls-2",
@@ -117,34 +145,6 @@
       "steamAppId": "1295660"
     },
     {
-      "title": "Directive 8020",
-      "studio": "HerníPřeklady",
-      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/directive-8020",
-      "language": "Čeština",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": "1.00",
-      "updatedAt": null,
-      "requiredGameVersion": "Patch z 15.6.2026",
-      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/directive-8020",
-      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
-      "authorsHtml": null,
-      "inDevelopment": false,
-      "size": "77.0 MB",
-      "mirrors": [
-        {
-          "label": "HerníPřeklady",
-          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=596",
-          "kind": "direct"
-        }
-      ],
-      "steamAppId": "2255370"
-    },
-    {
       "title": "Anno 117",
       "studio": "HerníPřeklady",
       "studioUrl": "https://hernipreklady.cz/seznam-prekladu/anno-117",
@@ -211,7 +211,7 @@
       "hasNeuralDub": false,
       "hasNeuralText": false,
       "version": "1.0",
-      "updatedAt": null,
+      "updatedAt": "13.07.2026",
       "requiredGameVersion": "2.0.11.0",
       "pageUrl": "https://hernipreklady.cz/seznam-prekladu/titanfall-2",
       "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
@@ -226,6 +226,56 @@
         }
       ],
       "steamAppId": "1237970"
+    },
+    {
+      "title": "Two Point Campus",
+      "studio": "HerníPřeklady",
+      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/two-point-campus",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": null,
+      "updatedAt": null,
+      "requiredGameVersion": null,
+      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/two-point-campus",
+      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
+      "authorsHtml": null,
+      "inDevelopment": true,
+      "size": null,
+      "mirrors": [],
+      "steamAppId": "1649080"
+    },
+    {
+      "title": "Stellar Blade",
+      "studio": "HerníPřeklady",
+      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/stellar-blade",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": "1.2",
+      "updatedAt": "27.01.2026",
+      "requiredGameVersion": "1.4.1",
+      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/stellar-blade",
+      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
+      "authorsHtml": "<p><strong>Překlad a test:</strong> Andrewek</p>",
+      "inDevelopment": false,
+      "size": "2.79 MB",
+      "mirrors": [
+        {
+          "label": "HerníPřeklady",
+          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=513",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "3489700"
     },
     {
       "title": "Civilization VI",
@@ -254,61 +304,6 @@
         }
       ],
       "steamAppId": "289070"
-    },
-    {
-      "title": "Lies of P",
-      "studio": "HerníPřeklady",
-      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/lies-of-p",
-      "language": "Čeština",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": "1.6",
-      "updatedAt": "28.09.2025",
-      "requiredGameVersion": "1.12.0.0",
-      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/lies-of-p",
-      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
-      "authorsHtml": "<p><strong>Překlad textů a textur:</strong> Luc2as<br><strong>Testování:</strong> Wasicek85</p>",
-      "inDevelopment": false,
-      "size": "25.0 MB",
-      "mirrors": [
-        {
-          "label": "HerníPřeklady",
-          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=425",
-          "kind": "direct"
-        }
-      ],
-      "steamAppId": "1627720"
-    },
-    {
-      "title": "Moss Book II",
-      "studio": "HerníPřeklady",
-      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/moss-book-ii",
-      "language": "Čeština",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": "1.0",
-      "updatedAt": "04.02.2024",
-      "requiredGameVersion": "Aktuální",
-      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/moss-book-ii",
-      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
-      "authorsHtml": null,
-      "inDevelopment": false,
-      "size": "526 KB",
-      "mirrors": [
-        {
-          "label": "HerníPřeklady",
-          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=66",
-          "kind": "direct"
-        }
-      ]
     },
     {
       "title": "Evotinction",
@@ -669,28 +664,6 @@
       "steamAppId": "3612850"
     },
     {
-      "title": "Two Point Campus",
-      "studio": "HerníPřeklady",
-      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/two-point-campus",
-      "language": "Čeština",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": null,
-      "updatedAt": null,
-      "requiredGameVersion": null,
-      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/two-point-campus",
-      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
-      "authorsHtml": null,
-      "inDevelopment": true,
-      "size": null,
-      "mirrors": [],
-      "steamAppId": "1649080"
-    },
-    {
       "title": "Alien: Rogue Incursion Evolved Edition",
       "studio": "HerníPřeklady",
       "studioUrl": "https://hernipreklady.cz/seznam-prekladu/alien-rogue-incursion-evolved-edition",
@@ -823,34 +796,6 @@
         }
       ],
       "steamAppId": "2488370"
-    },
-    {
-      "title": "Stellar Blade",
-      "studio": "HerníPřeklady",
-      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/stellar-blade",
-      "language": "Čeština",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": "1.2",
-      "updatedAt": "27.01.2026",
-      "requiredGameVersion": "1.4.1",
-      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/stellar-blade",
-      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
-      "authorsHtml": "<p><strong>Překlad a test:</strong> Andrewek</p>",
-      "inDevelopment": false,
-      "size": "2.79 MB",
-      "mirrors": [
-        {
-          "label": "HerníPřeklady",
-          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=513",
-          "kind": "direct"
-        }
-      ],
-      "steamAppId": "3489700"
     },
     {
       "title": "Lost Records: Bloom & Rage",
@@ -2361,6 +2306,34 @@
       "steamAppId": "966680"
     },
     {
+      "title": "Lies of P",
+      "studio": "HerníPřeklady",
+      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/lies-of-p",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": "1.6",
+      "updatedAt": "28.09.2025",
+      "requiredGameVersion": "1.12.0.0",
+      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/lies-of-p",
+      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
+      "authorsHtml": "<p><strong>Překlad textů a textur:</strong> Luc2as<br><strong>Testování:</strong> Wasicek85</p>",
+      "inDevelopment": false,
+      "size": "25.0 MB",
+      "mirrors": [
+        {
+          "label": "HerníPřeklady",
+          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=425",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "1627720"
+    },
+    {
       "title": "The Expanse - A Telltale Series",
       "studio": "HerníPřeklady",
       "studioUrl": "https://hernipreklady.cz/seznam-prekladu/the-expanse-a-telltale-series",
@@ -3839,6 +3812,33 @@
         }
       ],
       "steamAppId": "1119980"
+    },
+    {
+      "title": "Moss Book II",
+      "studio": "HerníPřeklady",
+      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/moss-book-ii",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": "1.0",
+      "updatedAt": "04.02.2024",
+      "requiredGameVersion": "Aktuální",
+      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/moss-book-ii",
+      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
+      "authorsHtml": null,
+      "inDevelopment": false,
+      "size": "526 KB",
+      "mirrors": [
+        {
+          "label": "HerníPřeklady",
+          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=66",
+          "kind": "direct"
+        }
+      ]
     },
     {
       "title": "EDENGATE: The Edge of Life",

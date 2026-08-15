@@ -5,6 +5,34 @@
   "siteUrl": "https://lokalizace.net",
   "localizations": [
     {
+      "title": "Yesterday",
+      "studio": "Lokalizace.net",
+      "studioUrl": "https://lokalizace.net/localizations/yesterday",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": "1.0",
+      "updatedAt": "14.08.2026",
+      "pageUrl": "https://lokalizace.net/localizations/yesterday",
+      "howToInstallHtml": "<p>Stáhněte ZIP soubor a rozbalte ho do složky hry, nebo použijte aplikaci CZManager pro automatickou instalaci češtiny.</p>",
+      "changelogHtml": "<div><p>Nahrána nová verze překladu: 1.0</p></div>",
+      "authorsHtml": "<p>PERTIM CZ</p>",
+      "size": "944.6 MB",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Lokalizace.net",
+          "url": "https://lokalizace.net/api/download/1743",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "205840"
+    },
+    {
       "title": "Rainbow Gate",
       "studio": "Lokalizace.net",
       "studioUrl": "https://lokalizace.net/localizations/rainbow-gate",
@@ -2984,7 +3012,8 @@
           "url": "https://lokalizace.net/api/download/1313",
           "kind": "direct"
         }
-      ]
+      ],
+      "steamAppId": "239160"
     },
     {
       "title": "Sinking Island",
@@ -4205,18 +4234,18 @@
       "hasNeuralVoice": false,
       "hasNeuralDub": false,
       "hasNeuralText": false,
-      "version": "1.0.2",
-      "updatedAt": "13.08.2026",
+      "version": "1.0.3",
+      "updatedAt": "14.08.2026",
       "pageUrl": "https://lokalizace.net/localizations/turok-2-seeds-of-evil-remastered",
       "howToInstallHtml": "<p>Stáhněte ZIP soubor a rozbalte ho do složky hry, nebo použijte aplikaci CZManager pro automatickou instalaci češtiny.</p>",
-      "changelogHtml": "<div><p><strong>Nová verze 1.0.2</strong></p><p>Opravené nájdené preklepy... a neskôr plánujem pridať aj diakritiku</p></div>",
+      "changelogHtml": "<div><p><strong>Nová verze 1.0.3</strong></p><p>Hra najnovšie obsahuje DIAKRITIKU, veľká vďaka Zhilianovi za Fonty! Tiež nastala zmena inštalácie, stačí len nakopírovať zložku mods do hlavnej zložky hry</p></div>",
       "authorsHtml": "<p>PERTIM CZ</p>",
-      "size": "235.2 MB",
+      "size": "155 KB",
       "inDevelopment": false,
       "mirrors": [
         {
           "label": "Lokalizace.net",
-          "url": "https://lokalizace.net/api/download/1741",
+          "url": "https://lokalizace.net/api/download/1745",
           "kind": "direct"
         }
       ],
@@ -6871,8 +6900,7 @@
           "url": "https://lokalizace.net/api/download/852",
           "kind": "direct"
         }
-      ],
-      "steamAppId": "3765900"
+      ]
     },
     {
       "title": "Art of Murder: The Secret Files",
@@ -11469,7 +11497,8 @@
           "url": "https://lokalizace.net/api/download/514",
           "kind": "direct"
         }
-      ]
+      ],
+      "steamAppId": "239160"
     },
     {
       "title": "Warcraft 1 Remastered - CZ překlad a dabing",
@@ -14201,7 +14230,8 @@
           "url": "https://lokalizace.net/api/download/328",
           "kind": "other"
         }
-      ]
+      ],
+      "steamAppId": "239160"
     },
     {
       "title": "The Almost Gone",
@@ -16880,7 +16910,7 @@
           "kind": "direct"
         }
       ],
-      "steamAppId": "1505430"
+      "steamAppId": "212410"
     },
     {
       "title": "Stellaris",
@@ -20033,28 +20063,6 @@
       "inDevelopment": true,
       "mirrors": [],
       "steamAppId": "3812600"
-    },
-    {
-      "title": "Hello Neighbor 3 Playtest",
-      "studio": "Lokalizace.net",
-      "studioUrl": "https://lokalizace.net/localizations/hello-neighbor-3-playtest",
-      "language": "Čeština",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": null,
-      "updatedAt": null,
-      "pageUrl": "https://lokalizace.net/localizations/hello-neighbor-3-playtest",
-      "howToInstallHtml": "<p>Stáhněte ZIP soubor a rozbalte ho do složky hry, nebo použijte aplikaci CZManager pro automatickou instalaci češtiny.</p>",
-      "changelogHtml": null,
-      "authorsHtml": "<p>GamerView Translations</p>",
-      "size": null,
-      "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "2789680"
     },
     {
       "title": "Tattletail",
