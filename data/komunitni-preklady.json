@@ -5,6 +5,34 @@
   "siteUrl": "https://komunitni-preklady.org",
   "localizations": [
     {
+      "title": "Sacred 2 Gold",
+      "studio": "Komunitní překlady",
+      "studioUrl": "https://komunitni-preklady.org/preklad/sacred-2-gold",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": "1.0.1",
+      "updatedAt": "16.08.2026",
+      "requiredGameVersion": "3. Aktivace če&scaron;tiny",
+      "pageUrl": "https://komunitni-preklady.org/preklad/sacred-2-gold",
+      "howToInstallHtml": "<p>Každý překlad má vlastní postup instalace. Otevřete stránku překladu (tlačítko „Otevřít v prohlížeči“ níže) — najdete tam úplný návod k instalaci i tlačítko ke stažení.</p>",
+      "authorsHtml": "<p>Ironvale Localization</p>",
+      "size": "469.9 MB",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Komunitní překlady",
+          "url": "https://komunitni-preklady.org/download/933?sig=AUK7b4KqMLEraqTSkBTTBA",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "225640"
+    },
+    {
       "title": "Fate Hunters",
       "studio": "Komunitní překlady",
       "studioUrl": "https://komunitni-preklady.org/preklad/fate-hunters",
@@ -143,34 +171,6 @@
         }
       ],
       "steamAppId": "205840"
-    },
-    {
-      "title": "Sacred 2 Gold",
-      "studio": "Komunitní překlady",
-      "studioUrl": "https://komunitni-preklady.org/preklad/sacred-2-gold",
-      "language": "Čeština",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": "1.0",
-      "updatedAt": "14.08.2026",
-      "requiredGameVersion": "2.65.1",
-      "pageUrl": "https://komunitni-preklady.org/preklad/sacred-2-gold",
-      "howToInstallHtml": "<p>Každý překlad má vlastní postup instalace. Otevřete stránku překladu (tlačítko „Otevřít v prohlížeči“ níže) — najdete tam úplný návod k instalaci i tlačítko ke stažení.</p>",
-      "authorsHtml": "<p>Ironvale Localization</p>",
-      "size": "469.8 MB",
-      "inDevelopment": false,
-      "mirrors": [
-        {
-          "label": "Komunitní překlady",
-          "url": "https://komunitni-preklady.org/download/933?sig=AUK7b4KqMLEraqTSkBTTBA",
-          "kind": "direct"
-        }
-      ],
-      "steamAppId": "225640"
     },
     {
       "title": "Broken Arrow",
@@ -1042,7 +1042,7 @@
       "hasNeuralDub": false,
       "hasNeuralText": true,
       "version": null,
-      "updatedAt": "06.08.2026",
+      "updatedAt": "16.08.2026",
       "requiredGameVersion": null,
       "pageUrl": "https://komunitni-preklady.org/preklad/restory-chill-electronics-repairs",
       "howToInstallHtml": "<p>Každý překlad má vlastní postup instalace. Otevřete stránku překladu (tlačítko „Otevřít v prohlížeči“ níže) — najdete tam úplný návod k instalaci i tlačítko ke stažení.</p>",
@@ -2033,34 +2033,6 @@
           "kind": "direct"
         }
       ]
-    },
-    {
-      "title": "ReStory Chill Electronics Repairs DEMO",
-      "studio": "Komunitní překlady",
-      "studioUrl": "https://komunitni-preklady.org/preklad/restory-chill-electronics-repairs-demo",
-      "language": "Čeština",
-      "hasText": false,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": true,
-      "version": "0.1",
-      "updatedAt": "28.07.2026",
-      "requiredGameVersion": "Demo 0.1.051r",
-      "pageUrl": "https://komunitni-preklady.org/preklad/restory-chill-electronics-repairs-demo",
-      "howToInstallHtml": "<p>Každý překlad má vlastní postup instalace. Otevřete stránku překladu (tlačítko „Otevřít v prohlížeči“ níže) — najdete tam úplný návod k instalaci i tlačítko ke stažení.</p>",
-      "authorsHtml": "<p>Žižkovské Překlady</p>",
-      "size": "20.9 MB",
-      "inDevelopment": false,
-      "mirrors": [
-        {
-          "label": "Komunitní překlady",
-          "url": "https://komunitni-preklady.org/download/874?sig=EdCB16KNeAS8hp0icPTt6Q",
-          "kind": "direct"
-        }
-      ],
-      "steamAppId": "3812600"
     },
     {
       "title": "Split Fiction",
@@ -5927,7 +5899,7 @@
       "hasNeuralDub": false,
       "hasNeuralText": true,
       "version": null,
-      "updatedAt": "05.06.2026",
+      "updatedAt": "16.08.2026",
       "requiredGameVersion": "7.3.2026",
       "pageUrl": "https://komunitni-preklady.org/preklad/static-dread",
       "howToInstallHtml": "<p>Každý překlad má vlastní postup instalace. Otevřete stránku překladu (tlačítko „Otevřít v prohlížeči“ níže) — najdete tam úplný návod k instalaci i tlačítko ke stažení.</p>",
@@ -17528,11 +17500,11 @@
       "hasNeuralDub": false,
       "hasNeuralText": true,
       "version": null,
-      "updatedAt": "15.08.2026",
+      "updatedAt": "16.08.2026",
       "requiredGameVersion": null,
       "pageUrl": "https://komunitni-preklady.org/preklad/divinity-ii-dragon-knight-saga-",
       "howToInstallHtml": "<p>Každý překlad má vlastní postup instalace. Otevřete stránku překladu (tlačítko „Otevřít v prohlížeči“ níže) — najdete tam úplný návod k instalaci i tlačítko ke stažení.</p>",
-      "authorsHtml": "<p>Překlady z Masyafu</p>",
+      "authorsHtml": "<p>Ironvale Localization</p>",
       "size": null,
       "inDevelopment": true,
       "mirrors": []

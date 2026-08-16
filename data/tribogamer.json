@@ -9084,7 +9084,8 @@
           "url": "http://s1.ttriber.com/traducoes/download/cdn/781613/syndicate_br-v1.00[www.tribogamer.com].exe",
           "kind": "direct"
         }
-      ]
+      ],
+      "steamAppId": "4004630"
     },
     {
       "title": "X-Blades",
@@ -12000,6 +12001,34 @@
         }
       ],
       "steamAppId": "32500"
+    },
+    {
+      "title": "Grand Theft Auto IV: The Complete Edition",
+      "studio": "Tribo Gamer",
+      "studioUrl": "https://tribogamer.com/traducoes/45_traducao-do-grand-theft-auto-iv-the-complete-edition-para-portugues-do-brasil.html",
+      "language": "Português (Brasil)",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": "1.00",
+      "updatedAt": "15/08/2026",
+      "pageUrl": "https://tribogamer.com/traducoes/45_traducao-do-grand-theft-auto-iv-the-complete-edition-para-portugues-do-brasil.html",
+      "howToInstallHtml": "<p>As traduções da Tribo Gamer são instaladores (.exe). Baixe o arquivo, execute o instalador e siga as instruções na tela — a instalação é automática.</p>",
+      "changelogHtml": null,
+      "authorsHtml": "<p><strong>Administrador:</strong> Afrânio Bezerra de Souza, GV</p><p><strong>Tradutores:</strong> Afrânio Bezerra de Souza, GV</p><p><strong>Revisores:</strong> Afrânio Bezerra de Souza, xaplef , GV</p><p><strong>Tests-ingame:</strong> Afrânio Bezerra de Souza, xaplef , GV</p><p><strong>Instalador:</strong> H3rdell</p>",
+      "size": "2.78 MB",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Tribo Gamer",
+          "url": "http://s1.ttriber.com/traducoes/download/cdn/857665/gta4_ce_br-v1.00[tribogamer.com].exe",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "12210"
     },
     {
       "title": "Dead Space 2",
