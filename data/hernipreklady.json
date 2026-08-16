@@ -228,6 +228,34 @@
       "steamAppId": "1237970"
     },
     {
+      "title": "Cult of the Lamb",
+      "studio": "HerníPřeklady",
+      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/cult-of-the-lamb",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": "1.3",
+      "updatedAt": "20.04.2026",
+      "requiredGameVersion": "1.5.25",
+      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/cult-of-the-lamb",
+      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
+      "authorsHtml": "<p><strong>Překlad:</strong> Ralph Shepard<br><strong>Technika:</strong> Flu, Termit, Luc2as</p>",
+      "inDevelopment": false,
+      "size": "13.7 MB",
+      "mirrors": [
+        {
+          "label": "HerníPřeklady",
+          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=558",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "1313140"
+    },
+    {
       "title": "Two Point Campus",
       "studio": "HerníPřeklady",
       "studioUrl": "https://hernipreklady.cz/seznam-prekladu/two-point-campus",
@@ -248,62 +276,6 @@
       "size": null,
       "mirrors": [],
       "steamAppId": "1649080"
-    },
-    {
-      "title": "Stellar Blade",
-      "studio": "HerníPřeklady",
-      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/stellar-blade",
-      "language": "Čeština",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": "1.2",
-      "updatedAt": "27.01.2026",
-      "requiredGameVersion": "1.4.1",
-      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/stellar-blade",
-      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
-      "authorsHtml": "<p><strong>Překlad a test:</strong> Andrewek</p>",
-      "inDevelopment": false,
-      "size": "2.79 MB",
-      "mirrors": [
-        {
-          "label": "HerníPřeklady",
-          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=513",
-          "kind": "direct"
-        }
-      ],
-      "steamAppId": "3489700"
-    },
-    {
-      "title": "Civilization VI",
-      "studio": "HerníPřeklady",
-      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/civilization-vi",
-      "language": "Čeština",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": "1.35",
-      "updatedAt": "01.09.2024",
-      "requiredGameVersion": "1.0.12.68",
-      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/civilization-vi",
-      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
-      "authorsHtml": "<p><strong>Překlad:</strong> Jetro, Hawkeye, WhiteHorse, Coffin Corner, Ralph Shepard<br><strong>Testování:</strong> Jetro, Barbar, Sushi, Raptor</p>",
-      "inDevelopment": false,
-      "size": "3.21 MB",
-      "mirrors": [
-        {
-          "label": "HerníPřeklady",
-          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=260",
-          "kind": "direct"
-        }
-      ],
-      "steamAppId": "289070"
     },
     {
       "title": "Evotinction",
@@ -798,6 +770,34 @@
       "steamAppId": "2488370"
     },
     {
+      "title": "Stellar Blade",
+      "studio": "HerníPřeklady",
+      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/stellar-blade",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": "1.2",
+      "updatedAt": "27.01.2026",
+      "requiredGameVersion": "1.4.1",
+      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/stellar-blade",
+      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
+      "authorsHtml": "<p><strong>Překlad a test:</strong> Andrewek</p>",
+      "inDevelopment": false,
+      "size": "2.79 MB",
+      "mirrors": [
+        {
+          "label": "HerníPřeklady",
+          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=513",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "3489700"
+    },
+    {
       "title": "Lost Records: Bloom & Rage",
       "studio": "HerníPřeklady",
       "studioUrl": "https://hernipreklady.cz/seznam-prekladu/lost-records-bloom-rage",
@@ -1187,34 +1187,6 @@
         }
       ],
       "steamAppId": "2223840"
-    },
-    {
-      "title": "Cult of the Lamb",
-      "studio": "HerníPřeklady",
-      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/cult-of-the-lamb",
-      "language": "Čeština",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": "1.3",
-      "updatedAt": "20.04.2026",
-      "requiredGameVersion": "1.5.25",
-      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/cult-of-the-lamb",
-      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
-      "authorsHtml": "<p><strong>Překlad:</strong> Ralph Shepard<br><strong>Technika:</strong> Flu, Termit, Luc2as</p>",
-      "inDevelopment": false,
-      "size": "13.7 MB",
-      "mirrors": [
-        {
-          "label": "HerníPřeklady",
-          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=558",
-          "kind": "direct"
-        }
-      ],
-      "steamAppId": "1313140"
     },
     {
       "title": "Black Myth: Wukong",
@@ -2471,6 +2443,34 @@
           "kind": "direct"
         }
       ]
+    },
+    {
+      "title": "Civilization VI",
+      "studio": "HerníPřeklady",
+      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/civilization-vi",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": "1.35",
+      "updatedAt": "01.09.2024",
+      "requiredGameVersion": "1.0.12.68",
+      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/civilization-vi",
+      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
+      "authorsHtml": "<p><strong>Překlad:</strong> Jetro, Hawkeye, WhiteHorse, Coffin Corner, Ralph Shepard<br><strong>Testování:</strong> Jetro, Barbar, Sushi, Raptor</p>",
+      "inDevelopment": false,
+      "size": "3.21 MB",
+      "mirrors": [
+        {
+          "label": "HerníPřeklady",
+          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=260",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "289070"
     },
     {
       "title": "Anno 1800",
