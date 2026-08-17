@@ -256,28 +256,6 @@
       "steamAppId": "1313140"
     },
     {
-      "title": "Two Point Campus",
-      "studio": "HerníPřeklady",
-      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/two-point-campus",
-      "language": "Čeština",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": null,
-      "updatedAt": null,
-      "requiredGameVersion": null,
-      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/two-point-campus",
-      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
-      "authorsHtml": null,
-      "inDevelopment": true,
-      "size": null,
-      "mirrors": [],
-      "steamAppId": "1649080"
-    },
-    {
       "title": "Evotinction",
       "studio": "HerníPřeklady",
       "studioUrl": "https://hernipreklady.cz/seznam-prekladu/evotinction",
@@ -634,6 +612,28 @@
         }
       ],
       "steamAppId": "3612850"
+    },
+    {
+      "title": "Two Point Campus",
+      "studio": "HerníPřeklady",
+      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/two-point-campus",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": null,
+      "updatedAt": null,
+      "requiredGameVersion": null,
+      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/two-point-campus",
+      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
+      "authorsHtml": null,
+      "inDevelopment": true,
+      "size": null,
+      "mirrors": [],
+      "steamAppId": "1649080"
     },
     {
       "title": "Alien: Rogue Incursion Evolved Edition",

@@ -5,6 +5,30 @@
   "siteUrl": "https://boosty.to/revoice",
   "localizations": [
     {
+      "title": "Gears of War 2 Hollow",
+      "studio": "ReVoiceAI",
+      "studioUrl": "https://boosty.to/revoice",
+      "language": "Русский",
+      "hasText": false,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralText": false,
+      "hasNeuralDub": true,
+      "hasNeuralVoice": true,
+      "version": null,
+      "updatedAt": null,
+      "pageUrl": "https://www.playground.ru/gears_of_war_2/file/gears_of_war_2_hollow_polnaya_ii_ozvuchka_dublyazh_i_zakadr-1867147",
+      "howToInstallHtml": "<p>Нейроозвучка от <strong>ReVoiceAI</strong>. Скачай через одно из зеркал выше (ShareMods — облако, PlayGround — их страница) и запусти <code>.exe</code>-установщик, указав путь к игре. Поддержать авторов можно на их <a href=\"https://boosty.to/revoice\">Boosty</a>.</p>",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Boosty (поддержать авторов)",
+          "url": "https://boosty.to/revoice/posts/94aa5168-a184-477e-aec7-1a73eff58f61",
+          "kind": "other"
+        }
+      ]
+    },
+    {
       "title": "Resynced",
       "studio": "ReVoiceAI",
       "studioUrl": "https://boosty.to/revoice",
