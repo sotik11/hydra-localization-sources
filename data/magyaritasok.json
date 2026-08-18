@@ -5,6 +5,30 @@
   "siteUrl": "https://magyaritasok.hu",
   "localizations": [
     {
+      "steamAppId": "1202900",
+      "title": "Assemble With Care",
+      "studio": "Magyarítások",
+      "studioUrl": "https://magyaritasok.hu",
+      "language": "Magyar",
+      "hasText": true,
+      "hasVoice": false,
+      "version": "1.00",
+      "updatedAt": "17.08.2026",
+      "requiredGameVersion": "v1.4.0.509 és 1.6.1.512",
+      "size": "4.17 MB",
+      "pageUrl": "https://magyaritasok.hu/games/assemble-with-care",
+      "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
+      "authorsHtml": "<p>FEARka</p>",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Magyarítások",
+          "url": "https://magyaritasok.hu/dl/AssembleWithCare/AssemblewithCare_HUN_1.00.exe",
+          "kind": "direct"
+        }
+      ]
+    },
+    {
       "steamAppId": "1364010",
       "title": "The Librarian",
       "studio": "Magyarítások",
@@ -36,10 +60,10 @@
       "language": "Magyar",
       "hasText": true,
       "hasVoice": false,
-      "version": "1.01",
-      "updatedAt": "07.08.2026",
-      "requiredGameVersion": "1.4.8 2608070648",
-      "size": "280 KB",
+      "version": "1.02",
+      "updatedAt": "18.08.2026",
+      "requiredGameVersion": "1.4.9 2608141617",
+      "size": "284 KB",
       "pageUrl": "https://magyaritasok.hu/games/big-walk",
       "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
       "authorsHtml": "<p>The_Reaper_CooL</p>",
@@ -47,7 +71,7 @@
       "mirrors": [
         {
           "label": "Magyarítások",
-          "url": "https://magyaritasok.hu/dl/BigWalk/BigWalk_HUN_by_TRC_1.01.zip",
+          "url": "https://magyaritasok.hu/dl/BigWalk/BigWalk_HUN_by_TRC_1.02.zip",
           "kind": "direct"
         }
       ]
