@@ -229,7 +229,7 @@
           "kind": "direct"
         }
       ],
-      "steamAppId": "4172530"
+      "steamAppId": "1175830"
     },
     {
       "title": "The Legend of Kyrandia: Hand Of Fate - CZ dabing",
@@ -257,7 +257,7 @@
           "kind": "direct"
         }
       ],
-      "steamAppId": "4172530"
+      "steamAppId": "1175830"
     },
     {
       "title": "Mass Effect Legendary Edition",
@@ -340,7 +340,8 @@
           "url": "https://lokalizace.net/api/download/1664",
           "kind": "direct"
         }
-      ]
+      ],
+      "steamAppId": "4919380"
     },
     {
       "title": "Rayman® Origins",
@@ -1412,7 +1413,7 @@
           "kind": "direct"
         }
       ],
-      "steamAppId": "4172530"
+      "steamAppId": "1175830"
     },
     {
       "title": "HumanitZ",
@@ -3011,8 +3012,7 @@
           "url": "https://lokalizace.net/api/download/1313",
           "kind": "direct"
         }
-      ],
-      "steamAppId": "239160"
+      ]
     },
     {
       "title": "Sinking Island",
@@ -5398,34 +5398,6 @@
       "steamAppId": "2113850"
     },
     {
-      "title": "Stray (Vylepšená Čeština)",
-      "studio": "Lokalizace.net",
-      "studioUrl": "https://lokalizace.net/localizations/stray-vylepsena-cestina",
-      "language": "Čeština",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": "1.5.368",
-      "updatedAt": "26.11.2025",
-      "pageUrl": "https://lokalizace.net/localizations/stray-vylepsena-cestina",
-      "howToInstallHtml": "<p>Stáhněte ZIP soubor a rozbalte ho do složky hry, nebo použijte aplikaci CZManager pro automatickou instalaci češtiny.</p>",
-      "changelogHtml": null,
-      "authorsHtml": "<p>DickzillaTranslator</p>",
-      "size": "88 KB",
-      "inDevelopment": false,
-      "mirrors": [
-        {
-          "label": "Lokalizace.net",
-          "url": "https://lokalizace.net/api/download/1074",
-          "kind": "direct"
-        }
-      ],
-      "steamAppId": "1332010"
-    },
-    {
       "title": "Hearts of Iron 4",
       "studio": "Lokalizace.net",
       "studioUrl": "https://lokalizace.net/localizations/hearts-of-iron-4",
@@ -5868,7 +5840,7 @@
       "updatedAt": "15.07.2026",
       "pageUrl": "https://lokalizace.net/localizations/gothic-2-datadisk-night-of-the-raven-dabing",
       "howToInstallHtml": "<p>Stáhněte ZIP soubor a rozbalte ho do složky hry, nebo použijte aplikaci CZManager pro automatickou instalaci češtiny.</p>",
-      "changelogHtml": "<div><p><strong>Nová verze 1.01</strong></p><ul><li><p>Opraveno pár překlepů a replik</p></li><li><p>Opraveny němé NPC a hrdina při boji pomocí přidání a upravení souboru SFX.dat</p></li><li><p>Pozměněna struktura složek a .mod souborů v souladu s fungováním modifikace na Steam workshopu</p></li></ul><p>Velké díky patří autorovi D36, který mi pomohl pozměnit strukturu souborů tak, aby dabing fungoval správně jako standalone modifikace na Steam workshopu.</p><p></p><p><strong>Nová verze 1.00</strong></p><p>Ahoj všem! Dneska je to 5 let a 5 dní od vydání našeho dabingu do prvního dílu Gothica a zároveň 2 měsíce do vydání remaku. Dnes vydáváme fanouškovský dabing ke druhému dílu a jeho datadisku. Dabing lze také najít jako modifikaci na Steam workshopu.<br><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" class=\"text-primary underline\" href=\"https://steamcommunity.com/sharedfiles/filedetails/?id=3672692317\"><strong><u>https://steamcommunity.com/sharedfiles/filedetails/?id=3672692317</u></strong></a> verze s datadiskem<br><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" class=\"text-primary underline\" href=\"https://steamcommunity.com/sharedfiles/filedetails/?id=3692760543\"><strong><u>https://steamcommunity.com/sharedfiles/filedetails/?id=3692760543</u></strong></a> verze bez datadisku</p><p>Pokud chcete ve hře původní překlad Kruh vody pro spolek pomocníků mágů vody, instalujte patch, který najdete v archivu s instalátorem.</p><p>Příjemné hraní!</p></div>",
+      "changelogHtml": "<div><p><strong>Nová verze 1.01</strong></p><ul><li><p>Opraveno pár překlepů a replik</p></li><li><p>Opraveny němé NPC a hrdina při boji pomocí přidání a upravení souboru SFX.dat</p></li><li><p>Pozměněna struktura složek a .mod souborů v souladu s fungováním modifikace na Steam workshopu</p></li></ul><p>Velké díky patří autorovi D36, který mi pomohl pozměnit strukturu souborů tak, aby dabing fungoval správně jako standalone modifikace na Steam workshopu.</p><p></p></div>",
       "authorsHtml": "<p>Petr Cejpek</p>",
       "size": "1.48 GB",
       "inDevelopment": false,
@@ -5877,11 +5849,6 @@
           "label": "Lokalizace.net",
           "url": "https://lokalizace.net/api/download/1676",
           "kind": "direct"
-        },
-        {
-          "label": "Версия 1.00",
-          "url": "https://lokalizace.net/api/download/1425",
-          "kind": "other"
         }
       ]
     },
@@ -6484,34 +6451,6 @@
         }
       ],
       "steamAppId": "1143810"
-    },
-    {
-      "title": "The Precinct",
-      "studio": "Lokalizace.net",
-      "studioUrl": "https://lokalizace.net/localizations/the-precinct",
-      "language": "Čeština",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": "1.12.23934",
-      "updatedAt": "19.07.2026",
-      "pageUrl": "https://lokalizace.net/localizations/the-precinct",
-      "howToInstallHtml": "<p>Stáhněte ZIP soubor a rozbalte ho do složky hry, nebo použijte aplikaci CZManager pro automatickou instalaci češtiny.</p>",
-      "changelogHtml": "<div><p><strong>Nová verze 1.12.23934</strong></p><p>Vydána aktualizace češtiny k verzi hry 1.12.23934.</p></div>",
-      "authorsHtml": "<p>Sumilek86</p>",
-      "size": "10.4 MB",
-      "inDevelopment": false,
-      "mirrors": [
-        {
-          "label": "Lokalizace.net",
-          "url": "https://lokalizace.net/api/download/1691",
-          "kind": "direct"
-        }
-      ],
-      "steamAppId": "490110"
     },
     {
       "title": "Chessmaster 11: Grandmaster Edition",
@@ -8973,7 +8912,7 @@
           "kind": "other"
         }
       ],
-      "steamAppId": "4172530"
+      "steamAppId": "1175830"
     },
     {
       "title": "The Legend of Kyrandia: Malcolm's Revenge (1994)",
@@ -9006,7 +8945,7 @@
           "kind": "other"
         }
       ],
-      "steamAppId": "4172530"
+      "steamAppId": "1175830"
     },
     {
       "title": "The Legend of Kyrandia (1992)",
@@ -9039,7 +8978,7 @@
           "kind": "other"
         }
       ],
-      "steamAppId": "4172530"
+      "steamAppId": "1175830"
     },
     {
       "title": "King's Bounty mód Red Sands (2011)",
@@ -11496,8 +11435,7 @@
           "url": "https://lokalizace.net/api/download/514",
           "kind": "direct"
         }
-      ],
-      "steamAppId": "239160"
+      ]
     },
     {
       "title": "Warcraft 1 Remastered - CZ překlad a dabing",
@@ -14229,8 +14167,7 @@
           "url": "https://lokalizace.net/api/download/328",
           "kind": "other"
         }
-      ],
-      "steamAppId": "239160"
+      ]
     },
     {
       "title": "The Almost Gone",
@@ -16909,7 +16846,7 @@
           "kind": "direct"
         }
       ],
-      "steamAppId": "212410"
+      "steamAppId": "1505430"
     },
     {
       "title": "Stellaris",
@@ -19042,11 +18979,6 @@
           "label": "Lokalizace.net",
           "url": "https://lokalizace.net/api/download/1748",
           "kind": "direct"
-        },
-        {
-          "label": "Версия 1.3.9",
-          "url": "https://lokalizace.net/api/download/182",
-          "kind": "other"
         }
       ],
       "steamAppId": "1332010"
@@ -20898,6 +20830,28 @@
       "inDevelopment": true,
       "mirrors": [],
       "steamAppId": "1182310"
+    },
+    {
+      "title": "The Precinct",
+      "studio": "Lokalizace.net",
+      "studioUrl": "https://lokalizace.net/localizations/the-precinct",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": null,
+      "updatedAt": null,
+      "pageUrl": "https://lokalizace.net/localizations/the-precinct",
+      "howToInstallHtml": "<p>Stáhněte ZIP soubor a rozbalte ho do složky hry, nebo použijte aplikaci CZManager pro automatickou instalaci češtiny.</p>",
+      "changelogHtml": null,
+      "authorsHtml": "<p>Sumilek86</p>",
+      "size": null,
+      "inDevelopment": true,
+      "mirrors": [],
+      "steamAppId": "490110"
     },
     {
       "title": "Pathfinder - Wrath of the Righteous",

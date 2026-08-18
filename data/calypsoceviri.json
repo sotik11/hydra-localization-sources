@@ -5,6 +5,33 @@
   "siteUrl": "https://www.calypsoceviri.com",
   "localizations": [
     {
+      "title": "Mortal Shell 2",
+      "studio": "Calypso Çeviri",
+      "studioUrl": "https://www.calypsoceviri.com",
+      "language": "Türkçe",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": "1",
+      "updatedAt": "17.08.2026",
+      "pageUrl": "https://www.calypsoceviri.com/turkce-yamalar/mortal-shell-2-turkce-yama-indir",
+      "howToInstallHtml": "<div>Aşağıda vermiş olduğumuz linkten indirdiğiniz Rar dosyasındaki Türkçe Yama exesini, oyunun kurulu olduğu ana dosya konumuna atarak, Türkçe yama exesini çalıştırın. Oyunun ana dosya konumunun seçili olduğunu kontrol ettikten sonra, hangi platformdan oynuyorsanız, o platformun yükle butonuna basarak yamayı yükleyebilirsiniz. <br><br>Yamayı kaldırmak isterseniz, oyunun dosya konumundaki \"MortalShell2_YamaKaldır.exe\"'si üzerinden kaldırabilirsiniz.</div>",
+      "authorsHtml": "<p>VolkTyson, M3K1</p>",
+      "size": "4.76 MB",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Calypso Çeviri",
+          "url": "https://www.calypsoceviri.com/_files/archives/7d262d_f5ceabdd8b5e46d48d993c8d88448196.zip?dn=Mortal%2520Shell%25202%2520T%25C3%25BCrk%25C3%25A7e%2520Yama%2520V1.zip",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "2584270"
+    },
+    {
       "title": "Shift At Midnight",
       "studio": "Calypso Çeviri",
       "studioUrl": "https://www.calypsoceviri.com",
@@ -624,6 +651,33 @@
         }
       ],
       "steamAppId": "2599690"
+    },
+    {
+      "title": "Paralives",
+      "studio": "Calypso Çeviri",
+      "studioUrl": "https://www.calypsoceviri.com",
+      "language": "Türkçe",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": "5",
+      "updatedAt": "03.07.2026",
+      "pageUrl": "https://www.calypsoceviri.com/turkce-yamalar/paralives-turkce-yama-indir",
+      "howToInstallHtml": "<div>Aşağıda vermiş olduğumuz linkten indirdiğiniz Rar dosyasındaki Türkçe Yama exesini, oyunun kurulu olduğu ana dosya konumuna atın. Yamayı kurmadan önce oyunu açmanız ve oyunun Dil ayarlarından \"Deutsch\" seçeneğini seçmeniz gerekiyor. Ardından oyunu kapatın ve Türkçe yama exesini çalıştırın. Oyunun ana dosya konumunun seçili olduğunu kontrol ettikten sonra, hangi platformdan oynuyorsanız, o platformun yükle butonuna basarak yamayı yükleyebilirsiniz. <br><br>Yamayı kaldırmak için oyunun dosyalarını doğrulamanız gerekiyor.</div>",
+      "authorsHtml": "<p>VolkTyson, Indra</p>",
+      "size": "5.76 MB",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Calypso Çeviri",
+          "url": "https://www.calypsoceviri.com/_files/archives/7d262d_367717249dbf4e30a3dcb66e08ac7c6d.rar?dn=Paralives%2520T%25C3%25BCrk%25C3%25A7e%2520Yama%2520V5.rar",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "1118520"
     },
     {
       "title": "Warhammer 40,000: Mechanicus 2",
@@ -3075,6 +3129,33 @@
         }
       ],
       "steamAppId": "1562430"
+    },
+    {
+      "title": "Blood West",
+      "studio": "Calypso Çeviri",
+      "studioUrl": "https://www.calypsoceviri.com",
+      "language": "Türkçe",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": "3",
+      "updatedAt": "23.06.2026",
+      "pageUrl": "https://www.calypsoceviri.com/turkce-yamalar/blood-west-turkce-yama-indir",
+      "howToInstallHtml": "<div>Aşağıda vermiş olduğumuz linkten indirdiğiniz Rar dosyasındaki Türkçe Yama exesini, oyunun kurulu olduğu ana dosya konumuna atarak, Türkçe yama exesini çalıştırın. Oyunun ana dosya konumunun seçili olduğunu kontrol ettikten sonra, hangi platformdan oynuyorsanız, o platformun yükle butonuna basarak yamayı yükleyebilirsiniz.<br><br>Yamayı kaldırmak için oyunun dosyalarını doğrulamanız gerekiyor.</div>",
+      "authorsHtml": "<p>Indra</p>",
+      "size": "2.73 MB",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Calypso Çeviri",
+          "url": "https://www.calypsoceviri.com/_files/archives/7d262d_9fb26ac3144b467f812400ac35c258b3.rar?dn=Blood%2520West%2520T%25C3%25BCrk%25C3%25A7e%2520Yama%2520V3.rar",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "1587130"
     },
     {
       "title": "Slime Rancher 2",
@@ -5529,33 +5610,6 @@
         }
       ],
       "steamAppId": "1084600"
-    },
-    {
-      "title": "Marvel's Spider-Man: Miles Morales",
-      "studio": "Calypso Çeviri",
-      "studioUrl": "https://www.calypsoceviri.com",
-      "language": "Türkçe",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": "2",
-      "updatedAt": "23.06.2026",
-      "pageUrl": "https://www.calypsoceviri.com/turkce-yamalar/marvels-spider-man-miles-morales-turkce-yama-indir",
-      "howToInstallHtml": "<div>Aşağıda vermiş olduğumuz linkten indirdiğiniz Rar dosyasındaki Türkçe Yama exesini, oyunun kurulu olduğu ana dosya konumuna atarak, Türkçe yama exesini çalıştırın. Oyunun ana dosya konumunun seçili olduğunu kontrol ettikten sonra, hangi platformdan oynuyorsanız, o platformun yükle butonuna basarak yamayı yükleyebilirsiniz.<br><br>Yamayı kaldırmak için dosya konumundaki MilesMorales_YamaKaldir.exe den yamayı kaldırabilirsiniz.</div>",
-      "authorsHtml": "<p>VolkTyson, Sweaty</p>",
-      "size": "2.15 MB",
-      "inDevelopment": false,
-      "mirrors": [
-        {
-          "label": "Calypso Çeviri",
-          "url": "https://www.calypsoceviri.com/_files/archives/7d262d_401302af54c84b9a8a144691c9b282a5.rar?dn=Spiderman%2520Miles%2520Morales%2520T%25C3%25BCrk%25C3%25A7e%2520Yama%2520V2.rar",
-          "kind": "direct"
-        }
-      ],
-      "steamAppId": "1817190"
     },
     {
       "title": "Soulmask",

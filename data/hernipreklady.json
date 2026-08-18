@@ -5,6 +5,34 @@
   "siteUrl": "https://hernipreklady.cz",
   "localizations": [
     {
+      "title": "Terra Invicta",
+      "studio": "HerníPřeklady",
+      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/terra-invicta",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": null,
+      "updatedAt": null,
+      "requiredGameVersion": "1.0.38 + DLC",
+      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/terra-invicta",
+      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
+      "authorsHtml": "<p><strong>Překlad:</strong> Ralph Shepard</p>",
+      "inDevelopment": false,
+      "size": "834 KB",
+      "mirrors": [
+        {
+          "label": "HerníPřeklady",
+          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=604",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "1176470"
+    },
+    {
       "title": "Directive 8020",
       "studio": "HerníPřeklady",
       "studioUrl": "https://hernipreklady.cz/seznam-prekladu/directive-8020",
@@ -87,34 +115,6 @@
         }
       ],
       "steamAppId": "2536520"
-    },
-    {
-      "title": "Terra Invicta",
-      "studio": "HerníPřeklady",
-      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/terra-invicta",
-      "language": "Čeština",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": null,
-      "updatedAt": null,
-      "requiredGameVersion": "1.0.38 + DLC",
-      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/terra-invicta",
-      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
-      "authorsHtml": "<p><strong>Překlad:</strong> Ralph Shepard</p>",
-      "inDevelopment": false,
-      "size": "834 KB",
-      "mirrors": [
-        {
-          "label": "HerníPřeklady",
-          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=599",
-          "kind": "direct"
-        }
-      ],
-      "steamAppId": "1176470"
     },
     {
       "title": "Civilization VII",
@@ -226,6 +226,62 @@
         }
       ],
       "steamAppId": "1237970"
+    },
+    {
+      "title": "Frostpunk 2",
+      "studio": "HerníPřeklady",
+      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/frostpunk-2",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": "1.07",
+      "updatedAt": "20.02.2026",
+      "requiredGameVersion": "1.5.4",
+      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/frostpunk-2",
+      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
+      "authorsHtml": "<p><strong>Překlad:</strong> Jetro, Ralph Shepard,<br><strong>Testování:</strong> Jetro, Andrewek</p>",
+      "inDevelopment": false,
+      "size": "3.27 MB",
+      "mirrors": [
+        {
+          "label": "HerníPřeklady",
+          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=527",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "1601580"
+    },
+    {
+      "title": "No Man's Sky",
+      "studio": "HerníPřeklady",
+      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/no-man-s-sky",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": null,
+      "updatedAt": "13.06.2026",
+      "requiredGameVersion": "6.44_TheSwarm_169781",
+      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/no-man-s-sky",
+      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
+      "authorsHtml": "<p><strong>Překlad:</strong> Unread</p>",
+      "inDevelopment": false,
+      "size": "6.50 MB",
+      "mirrors": [
+        {
+          "label": "HerníPřeklady",
+          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=580",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "275850"
     },
     {
       "title": "Cult of the Lamb",
@@ -824,34 +880,6 @@
         }
       ],
       "steamAppId": "1902960"
-    },
-    {
-      "title": "No Man's Sky",
-      "studio": "HerníPřeklady",
-      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/no-man-s-sky",
-      "language": "Čeština",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": null,
-      "updatedAt": "13.06.2026",
-      "requiredGameVersion": "6.44_TheSwarm_169781",
-      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/no-man-s-sky",
-      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
-      "authorsHtml": "<p><strong>Překlad:</strong> Unread</p>",
-      "inDevelopment": false,
-      "size": "6.50 MB",
-      "mirrors": [
-        {
-          "label": "HerníPřeklady",
-          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=580",
-          "kind": "direct"
-        }
-      ],
-      "steamAppId": "275850"
     },
     {
       "title": "This War of Mine",
@@ -1579,34 +1607,6 @@
         }
       ],
       "steamAppId": "1373960"
-    },
-    {
-      "title": "Frostpunk 2",
-      "studio": "HerníPřeklady",
-      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/frostpunk-2",
-      "language": "Čeština",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": "1.07",
-      "updatedAt": "20.02.2026",
-      "requiredGameVersion": "1.5.4",
-      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/frostpunk-2",
-      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
-      "authorsHtml": "<p><strong>Překlad:</strong> Jetro, Ralph Shepard,<br><strong>Testování:</strong> Jetro, Andrewek</p>",
-      "inDevelopment": false,
-      "size": "3.27 MB",
-      "mirrors": [
-        {
-          "label": "HerníPřeklady",
-          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=527",
-          "kind": "direct"
-        }
-      ],
-      "steamAppId": "1601580"
     },
     {
       "title": "Alone in the Dark",
