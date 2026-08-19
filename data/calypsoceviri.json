@@ -5,6 +5,33 @@
   "siteUrl": "https://www.calypsoceviri.com",
   "localizations": [
     {
+      "title": "Assassins Creed Black Flag Resynced",
+      "studio": "Calypso Çeviri",
+      "studioUrl": "https://www.calypsoceviri.com",
+      "language": "Türkçe",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": null,
+      "updatedAt": "18.08.2026",
+      "pageUrl": "https://www.calypsoceviri.com/turkce-yamalar/assassins-creed-black-flag-resynced-turkce-yama-indir",
+      "howToInstallHtml": "<div>Aşağıda vermiş olduğumuz linkten indirdiğiniz Rar dosyasındaki Türkçe Yama exesini, oyunun kurulu olduğu ana dosya konumuna atarak, Türkçe yama exesini çalıştırın. Oyunun ana dosya konumunun seçili olduğunu kontrol ettikten sonra, hangi platformdan oynuyorsanız, o platformun yükle butonuna basarak yamayı yükleyebilirsiniz. <br><br>Yamayı kaldırmak isterseniz, oyunun dosyalarını doğrulamanız gerekiyor.</div>",
+      "authorsHtml": "<p>VolkTyson, Sweaty</p>",
+      "size": null,
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Calypso Çeviri",
+          "url": "https://www.calypsoceviri.com/_files/archives/7d262d_601fe1c8f9b1498384d2a005757517d0.zip?dn=Assassins%2520Creed%2520Black%2520Flag%2520Resynced%2520T%25C3%25BCrk%25C3%25A7e%2520Yama.zip",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "3751950"
+    },
+    {
       "title": "Mortal Shell 2",
       "studio": "Calypso Çeviri",
       "studioUrl": "https://www.calypsoceviri.com",
@@ -5610,6 +5637,33 @@
         }
       ],
       "steamAppId": "1084600"
+    },
+    {
+      "title": "Marvel's Spider-Man: Miles Morales",
+      "studio": "Calypso Çeviri",
+      "studioUrl": "https://www.calypsoceviri.com",
+      "language": "Türkçe",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": "2",
+      "updatedAt": "23.06.2026",
+      "pageUrl": "https://www.calypsoceviri.com/turkce-yamalar/marvels-spider-man-miles-morales-turkce-yama-indir",
+      "howToInstallHtml": "<div>Aşağıda vermiş olduğumuz linkten indirdiğiniz Rar dosyasındaki Türkçe Yama exesini, oyunun kurulu olduğu ana dosya konumuna atarak, Türkçe yama exesini çalıştırın. Oyunun ana dosya konumunun seçili olduğunu kontrol ettikten sonra, hangi platformdan oynuyorsanız, o platformun yükle butonuna basarak yamayı yükleyebilirsiniz.<br><br>Yamayı kaldırmak için dosya konumundaki MilesMorales_YamaKaldir.exe den yamayı kaldırabilirsiniz.</div>",
+      "authorsHtml": "<p>VolkTyson, Sweaty</p>",
+      "size": "2.15 MB",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Calypso Çeviri",
+          "url": "https://www.calypsoceviri.com/_files/archives/7d262d_401302af54c84b9a8a144691c9b282a5.rar?dn=Spiderman%2520Miles%2520Morales%2520T%25C3%25BCrk%25C3%25A7e%2520Yama%2520V2.rar",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "1817190"
     },
     {
       "title": "Soulmask",
