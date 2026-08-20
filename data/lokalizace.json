@@ -5,6 +5,39 @@
   "siteUrl": "https://lokalizace.net",
   "localizations": [
     {
+      "title": "Merchant of the Skies",
+      "studio": "Lokalizace.net",
+      "studioUrl": "https://lokalizace.net/localizations/merchant-of-the-skies",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": "1.6.7-Steam",
+      "updatedAt": "19.08.2026",
+      "pageUrl": "https://lokalizace.net/localizations/merchant-of-the-skies",
+      "howToInstallHtml": "<p>Stáhněte ZIP soubor a rozbalte ho do složky hry, nebo použijte aplikaci CZManager pro automatickou instalaci češtiny.</p>",
+      "changelogHtml": "<div><p>Nahrána nová verze překladu: 1.6.7-Steam</p><p>Nahrána nová verze překladu: 1.6.7-GoG</p></div>",
+      "authorsHtml": "<p>Starsoul</p>",
+      "size": "2.00 MB",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Lokalizace.net",
+          "url": "https://lokalizace.net/api/download/1761",
+          "kind": "direct"
+        },
+        {
+          "label": "Версия 1.6.7-GoG",
+          "url": "https://lokalizace.net/api/download/1760",
+          "kind": "other"
+        }
+      ],
+      "steamAppId": "1040070"
+    },
+    {
       "title": "Crash Bandicoot: N. Sane Trilogy (SK + titulky v príbehových scénach)",
       "studio": "Lokalizace.net",
       "studioUrl": "https://lokalizace.net/localizations/crash-bandicoot-n-sane-trilogy-sk-titulky-v-pribehovych-scenach",
@@ -5836,19 +5869,24 @@
       "hasNeuralVoice": false,
       "hasNeuralDub": false,
       "hasNeuralText": false,
-      "version": "1.01",
-      "updatedAt": "15.07.2026",
+      "version": "1.0.1-beta",
+      "updatedAt": "19.08.2026",
       "pageUrl": "https://lokalizace.net/localizations/gothic-2-datadisk-night-of-the-raven-dabing",
       "howToInstallHtml": "<p>Stáhněte ZIP soubor a rozbalte ho do složky hry, nebo použijte aplikaci CZManager pro automatickou instalaci češtiny.</p>",
-      "changelogHtml": "<div><p><strong>Nová verze 1.01</strong></p><ul><li><p>Opraveno pár překlepů a replik</p></li><li><p>Opraveny němé NPC a hrdina při boji pomocí přidání a upravení souboru SFX.dat</p></li><li><p>Pozměněna struktura složek a .mod souborů v souladu s fungováním modifikace na Steam workshopu</p></li></ul><p>Velké díky patří autorovi D36, který mi pomohl pozměnit strukturu souborů tak, aby dabing fungoval správně jako standalone modifikace na Steam workshopu.</p><p></p></div>",
+      "changelogHtml": "<div><p><strong>Nová verze 1.0.1-beta</strong></p><p><span style=\"font-size: 14px; color: oklch(0.872 0.01 258.338)\">Opraveny problémy s instalací přepisem na GOG verzi a problémy s instalací jako mód.</span></p><p><strong>Nová verze 1.01</strong></p><ul><li><p>Opraveno pár překlepů a replik</p></li><li><p>Opraveny němé NPC a hrdina při boji pomocí přidání a upravení souboru SFX.dat</p></li><li><p>Pozměněna struktura složek a .mod souborů v souladu s fungováním modifikace na Steam workshopu</p></li></ul><p>Velké díky patří autorovi D36, který mi pomohl pozměnit strukturu souborů tak, aby dabing fungoval správně jako standalone modifikace na Steam workshopu.</p><p></p></div>",
       "authorsHtml": "<p>Petr Cejpek</p>",
       "size": "1.48 GB",
       "inDevelopment": false,
       "mirrors": [
         {
           "label": "Lokalizace.net",
-          "url": "https://lokalizace.net/api/download/1676",
+          "url": "https://lokalizace.net/api/download/1762",
           "kind": "direct"
+        },
+        {
+          "label": "Версия 1.01",
+          "url": "https://lokalizace.net/api/download/1676",
+          "kind": "other"
         }
       ]
     },
