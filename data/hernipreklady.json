@@ -228,6 +228,34 @@
       "steamAppId": "1237970"
     },
     {
+      "title": "This War of Mine",
+      "studio": "HerníPřeklady",
+      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/this-war-of-mine",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": null,
+      "updatedAt": "16.02.2025",
+      "requiredGameVersion": "6.0.8 + DLC (Steam včetně DLC \"Forget Celebrations\")",
+      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/this-war-of-mine",
+      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
+      "authorsHtml": "<p><strong>Překlad:</strong> Unread</p>",
+      "inDevelopment": false,
+      "size": "1.42 MB",
+      "mirrors": [
+        {
+          "label": "HerníPřeklady",
+          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=346",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "282070"
+    },
+    {
       "title": "No Man's Sky",
       "studio": "HerníPřeklady",
       "studioUrl": "https://hernipreklady.cz/seznam-prekladu/no-man-s-sky",
@@ -852,34 +880,6 @@
         }
       ],
       "steamAppId": "1902960"
-    },
-    {
-      "title": "This War of Mine",
-      "studio": "HerníPřeklady",
-      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/this-war-of-mine",
-      "language": "Čeština",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": null,
-      "updatedAt": "16.02.2025",
-      "requiredGameVersion": "6.0.8 + DLC (Steam včetně DLC \"Forget Celebrations\")",
-      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/this-war-of-mine",
-      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
-      "authorsHtml": "<p><strong>Překlad:</strong> Unread</p>",
-      "inDevelopment": false,
-      "size": "1.42 MB",
-      "mirrors": [
-        {
-          "label": "HerníPřeklady",
-          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=346",
-          "kind": "direct"
-        }
-      ],
-      "steamAppId": "282070"
     },
     {
       "title": "Astroneer",

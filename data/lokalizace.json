@@ -5,6 +5,34 @@
   "siteUrl": "https://lokalizace.net",
   "localizations": [
     {
+      "title": "Fable - The Lost Chapters",
+      "studio": "Lokalizace.net",
+      "studioUrl": "https://lokalizace.net/localizations/fable-the-lost-chapters",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": "1.0",
+      "updatedAt": "20.08.2026",
+      "pageUrl": "https://lokalizace.net/localizations/fable-the-lost-chapters",
+      "howToInstallHtml": "<p>Stáhněte ZIP soubor a rozbalte ho do složky hry, nebo použijte aplikaci CZManager pro automatickou instalaci češtiny.</p>",
+      "changelogHtml": null,
+      "authorsHtml": "<p>Itenko14s Team</p>",
+      "size": "532.3 MB",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Lokalizace.net",
+          "url": "https://lokalizace.net/api/download/1763",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "204030"
+    },
+    {
       "title": "Merchant of the Skies",
       "studio": "Lokalizace.net",
       "studioUrl": "https://lokalizace.net/localizations/merchant-of-the-skies",
@@ -17681,19 +17709,24 @@
       "hasNeuralVoice": false,
       "hasNeuralDub": false,
       "hasNeuralText": false,
-      "version": "1.2.2",
-      "updatedAt": "01.01.2025",
+      "version": "1.5.0",
+      "updatedAt": "20.08.2026",
       "pageUrl": "https://lokalizace.net/localizations/metal-gear-solid-v",
       "howToInstallHtml": "<p>Stáhněte ZIP soubor a rozbalte ho do složky hry, nebo použijte aplikaci CZManager pro automatickou instalaci češtiny.</p>",
-      "changelogHtml": null,
+      "changelogHtml": "<div><p><strong>Nová verze 1.5.0</strong></p><ul><li><p>doprelozeno co nebylo</p></li><li><p>aktualizace na posledni verzi hry</p></li></ul><p>Byl to fakt hrozny oprus to aktualizovat. Musel sem pro to udelat kompletne novy system pro repack... </p><p></p></div>",
       "authorsHtml": "<p>Lokalizace.Net</p>",
-      "size": "6.30 MB",
+      "size": "62.7 MB",
       "inDevelopment": false,
       "mirrors": [
         {
           "label": "Lokalizace.net",
-          "url": "https://lokalizace.net/api/download/573",
+          "url": "https://lokalizace.net/api/download/1764",
           "kind": "direct"
+        },
+        {
+          "label": "Версия 1.2.2",
+          "url": "https://lokalizace.net/api/download/573",
+          "kind": "other"
         }
       ]
     },
@@ -18712,7 +18745,7 @@
       "size": null,
       "inDevelopment": true,
       "mirrors": [],
-      "steamAppId": "1361000"
+      "steamAppId": "4906320"
     },
     {
       "title": "The Whispered World Special Edition",
@@ -19927,6 +19960,28 @@
       "inDevelopment": true,
       "mirrors": [],
       "steamAppId": "2369390"
+    },
+    {
+      "title": "SiN Reloaded",
+      "studio": "Lokalizace.net",
+      "studioUrl": "https://lokalizace.net/localizations/sin-reloaded",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": null,
+      "updatedAt": null,
+      "pageUrl": "https://lokalizace.net/localizations/sin-reloaded",
+      "howToInstallHtml": "<p>Stáhněte ZIP soubor a rozbalte ho do složky hry, nebo použijte aplikaci CZManager pro automatickou instalaci češtiny.</p>",
+      "changelogHtml": null,
+      "authorsHtml": "<p>PERTIM</p>",
+      "size": null,
+      "inDevelopment": true,
+      "mirrors": [],
+      "steamAppId": "632950"
     },
     {
       "title": "Terraria",
