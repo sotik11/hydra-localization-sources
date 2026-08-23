@@ -228,6 +228,62 @@
       "steamAppId": "1237970"
     },
     {
+      "title": "Red Matter",
+      "studio": "HerníPřeklady",
+      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/red-matter",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": "1.10",
+      "updatedAt": "04.02.2024",
+      "requiredGameVersion": "Aktuální",
+      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/red-matter",
+      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
+      "authorsHtml": null,
+      "inDevelopment": false,
+      "size": "817 KB",
+      "mirrors": [
+        {
+          "label": "HerníPřeklady",
+          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=86",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "966680"
+    },
+    {
+      "title": "Indiana Jones and The Great Circle",
+      "studio": "HerníPřeklady",
+      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/indiana-jones-and-the-great-circle",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": "1.85",
+      "updatedAt": "11.07.2026",
+      "requiredGameVersion": "Update 8 &ndash; Hotfix 1",
+      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/indiana-jones-and-the-great-circle",
+      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
+      "authorsHtml": null,
+      "inDevelopment": false,
+      "size": "118.4 MB",
+      "mirrors": [
+        {
+          "label": "HerníPřeklady",
+          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=591",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "2677660"
+    },
+    {
       "title": "Evotinction",
       "studio": "HerníPřeklady",
       "studioUrl": "https://hernipreklady.cz/seznam-prekladu/evotinction",
@@ -963,34 +1019,6 @@
         }
       ],
       "steamAppId": "1535030"
-    },
-    {
-      "title": "Indiana Jones and The Great Circle",
-      "studio": "HerníPřeklady",
-      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/indiana-jones-and-the-great-circle",
-      "language": "Čeština",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": "1.85",
-      "updatedAt": "11.07.2026",
-      "requiredGameVersion": "Update 8 &ndash; Hotfix 1",
-      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/indiana-jones-and-the-great-circle",
-      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
-      "authorsHtml": null,
-      "inDevelopment": false,
-      "size": "118.4 MB",
-      "mirrors": [
-        {
-          "label": "HerníPřeklady",
-          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=591",
-          "kind": "direct"
-        }
-      ],
-      "steamAppId": "2677660"
     },
     {
       "title": "Once Alive",
@@ -2248,34 +2276,6 @@
           "kind": "direct"
         }
       ]
-    },
-    {
-      "title": "Red Matter",
-      "studio": "HerníPřeklady",
-      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/red-matter",
-      "language": "Čeština",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": "1.10",
-      "updatedAt": "04.02.2024",
-      "requiredGameVersion": "Aktuální",
-      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/red-matter",
-      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
-      "authorsHtml": null,
-      "inDevelopment": false,
-      "size": "817 KB",
-      "mirrors": [
-        {
-          "label": "HerníPřeklady",
-          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=86",
-          "kind": "direct"
-        }
-      ],
-      "steamAppId": "966680"
     },
     {
       "title": "Lies of P",

@@ -89,34 +89,6 @@
       "steamAppId": "2054970"
     },
     {
-      "title": "Baldur's Gate 3",
-      "studio": "SynthVoiceRu",
-      "studioUrl": "https://www.playground.ru/baldurs_gate_3/file/baldurs_gate_3_russkaya_ozvuchka_nejrosetevoj_dublyazh_v1_0_synthvoiceru-1698229",
-      "authorsHtml": "<p>SynthVoiceRu</p>",
-      "language": "Русский",
-      "hasText": false,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralText": false,
-      "hasNeuralVoice": true,
-      "hasNeuralDub": true,
-      "version": "1.0",
-      "size": "4.00 GB",
-      "updatedAt": null,
-      "pageUrl": "https://www.playground.ru/baldurs_gate_3/file/baldurs_gate_3_russkaya_ozvuchka_nejrosetevoj_dublyazh_v1_0_synthvoiceru-1698229",
-      "howToInstallHtml": "<p>Нейроозвучка от <strong>SynthVoiceRu</strong>. Бесплатная версия — на странице PlayGround («Открыть в браузере» ниже), там же инструкция по установке. Поддержать авторов и получить официальную версию можно на их <a href=\"https://boosty.to/synthvoiceru/showcase\">Boosty</a>.</p>",
-      "inDevelopment": false,
-      "fileName": "SynthVoiceRu_dub.part1.rar",
-      "mirrors": [
-        {
-          "label": "Boosty (поддержать авторов)",
-          "url": "https://boosty.to/synthvoiceru/posts/8c859e3f-8384-4521-927f-46b7f397fe35",
-          "kind": "other"
-        }
-      ],
-      "steamAppId": "1086940"
-    },
-    {
       "title": "Starfield",
       "studio": "SynthVoiceRu",
       "studioUrl": "https://www.playground.ru/starfield/file/starfield_rusifikator_zvuka_nejrosetevoj_dublyazh_shattered_space_v18_05_2025_synthvoiceru-1725636",
@@ -143,6 +115,34 @@
         }
       ],
       "steamAppId": "1716740"
+    },
+    {
+      "title": "Baldur's Gate 3",
+      "studio": "SynthVoiceRu",
+      "studioUrl": "https://www.playground.ru/baldurs_gate_3/file/baldurs_gate_3_russkaya_ozvuchka_nejrosetevoj_dublyazh_v1_0_synthvoiceru-1698229",
+      "authorsHtml": "<p>SynthVoiceRu</p>",
+      "language": "Русский",
+      "hasText": false,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralText": false,
+      "hasNeuralVoice": true,
+      "hasNeuralDub": true,
+      "version": "1.0",
+      "size": "4.00 GB",
+      "updatedAt": null,
+      "pageUrl": "https://www.playground.ru/baldurs_gate_3/file/baldurs_gate_3_russkaya_ozvuchka_nejrosetevoj_dublyazh_v1_0_synthvoiceru-1698229",
+      "howToInstallHtml": "<p>Нейроозвучка от <strong>SynthVoiceRu</strong>. Бесплатная версия — на странице PlayGround («Открыть в браузере» ниже), там же инструкция по установке. Поддержать авторов и получить официальную версию можно на их <a href=\"https://boosty.to/synthvoiceru/showcase\">Boosty</a>.</p>",
+      "inDevelopment": false,
+      "fileName": "SynthVoiceRu_dub.part1.rar",
+      "mirrors": [
+        {
+          "label": "Boosty (поддержать авторов)",
+          "url": "https://boosty.to/synthvoiceru/posts/8c859e3f-8384-4521-927f-46b7f397fe35",
+          "kind": "other"
+        }
+      ],
+      "steamAppId": "1086940"
     },
     {
       "title": "Tainted Grail: The Fall of Avalon",
