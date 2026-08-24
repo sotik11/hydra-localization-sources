@@ -228,6 +228,61 @@
       "steamAppId": "1237970"
     },
     {
+      "title": "Alan Wake 2",
+      "studio": "HerníPřeklady",
+      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/alan-wake-2",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": "1.6",
+      "updatedAt": "31.01.2025",
+      "requiredGameVersion": "1.2.4",
+      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/alan-wake-2",
+      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
+      "authorsHtml": "<p><strong>Překlad:</strong> Luc2as a Mayki<br><strong>Technika:</strong> Termit<br><strong>Korekce songů:</strong> Andrej Kalinin</p>",
+      "inDevelopment": false,
+      "size": "10.5 MB",
+      "mirrors": [
+        {
+          "label": "HerníPřeklady",
+          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=337",
+          "kind": "direct"
+        }
+      ]
+    },
+    {
+      "title": "Lies of P",
+      "studio": "HerníPřeklady",
+      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/lies-of-p",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": "1.6",
+      "updatedAt": "28.09.2025",
+      "requiredGameVersion": "1.12.0.0",
+      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/lies-of-p",
+      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
+      "authorsHtml": "<p><strong>Překlad textů a textur:</strong> Luc2as<br><strong>Testování:</strong> Wasicek85</p>",
+      "inDevelopment": false,
+      "size": "25.0 MB",
+      "mirrors": [
+        {
+          "label": "HerníPřeklady",
+          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=425",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "1627720"
+    },
+    {
       "title": "Red Matter",
       "studio": "HerníPřeklady",
       "studioUrl": "https://hernipreklady.cz/seznam-prekladu/red-matter",
@@ -254,34 +309,6 @@
         }
       ],
       "steamAppId": "966680"
-    },
-    {
-      "title": "Indiana Jones and The Great Circle",
-      "studio": "HerníPřeklady",
-      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/indiana-jones-and-the-great-circle",
-      "language": "Čeština",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": "1.85",
-      "updatedAt": "11.07.2026",
-      "requiredGameVersion": "Update 8 &ndash; Hotfix 1",
-      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/indiana-jones-and-the-great-circle",
-      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
-      "authorsHtml": null,
-      "inDevelopment": false,
-      "size": "118.4 MB",
-      "mirrors": [
-        {
-          "label": "HerníPřeklady",
-          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=591",
-          "kind": "direct"
-        }
-      ],
-      "steamAppId": "2677660"
     },
     {
       "title": "Evotinction",
@@ -1019,6 +1046,34 @@
         }
       ],
       "steamAppId": "1535030"
+    },
+    {
+      "title": "Indiana Jones and The Great Circle",
+      "studio": "HerníPřeklady",
+      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/indiana-jones-and-the-great-circle",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": "1.85",
+      "updatedAt": "11.07.2026",
+      "requiredGameVersion": "Update 8 &ndash; Hotfix 1",
+      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/indiana-jones-and-the-great-circle",
+      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
+      "authorsHtml": null,
+      "inDevelopment": false,
+      "size": "118.4 MB",
+      "mirrors": [
+        {
+          "label": "HerníPřeklady",
+          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=591",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "2677660"
     },
     {
       "title": "Once Alive",
@@ -1861,33 +1916,6 @@
       "steamAppId": "1681430"
     },
     {
-      "title": "Alan Wake 2",
-      "studio": "HerníPřeklady",
-      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/alan-wake-2",
-      "language": "Čeština",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": "1.6",
-      "updatedAt": "31.01.2025",
-      "requiredGameVersion": "1.2.4",
-      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/alan-wake-2",
-      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
-      "authorsHtml": "<p><strong>Překlad:</strong> Luc2as a Mayki<br><strong>Technika:</strong> Termit<br><strong>Korekce songů:</strong> Andrej Kalinin</p>",
-      "inDevelopment": false,
-      "size": "10.5 MB",
-      "mirrors": [
-        {
-          "label": "HerníPřeklady",
-          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=337",
-          "kind": "direct"
-        }
-      ]
-    },
-    {
       "title": "Dune: Spice Wars",
       "studio": "HerníPřeklady",
       "studioUrl": "https://hernipreklady.cz/seznam-prekladu/dune-spice-wars",
@@ -2276,34 +2304,6 @@
           "kind": "direct"
         }
       ]
-    },
-    {
-      "title": "Lies of P",
-      "studio": "HerníPřeklady",
-      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/lies-of-p",
-      "language": "Čeština",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": "1.6",
-      "updatedAt": "28.09.2025",
-      "requiredGameVersion": "1.12.0.0",
-      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/lies-of-p",
-      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
-      "authorsHtml": "<p><strong>Překlad textů a textur:</strong> Luc2as<br><strong>Testování:</strong> Wasicek85</p>",
-      "inDevelopment": false,
-      "size": "25.0 MB",
-      "mirrors": [
-        {
-          "label": "HerníPřeklady",
-          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=425",
-          "kind": "direct"
-        }
-      ],
-      "steamAppId": "1627720"
     },
     {
       "title": "The Expanse - A Telltale Series",

@@ -1268,19 +1268,24 @@
       "hasNeuralVoice": false,
       "hasNeuralDub": false,
       "hasNeuralText": false,
-      "version": "1.0.0",
-      "updatedAt": "06.08.2026",
+      "version": "1.1.5",
+      "updatedAt": "23.08.2026",
       "pageUrl": "https://lokalizace.net/localizations/007-first-light-1",
       "howToInstallHtml": "<p>Stáhněte ZIP soubor a rozbalte ho do složky hry, nebo použijte aplikaci CZManager pro automatickou instalaci češtiny.</p>",
-      "changelogHtml": "<div><p><strong>Nová verze 1.0.0</strong></p><ul><li><p>opraveno mnoooho chyb</p></li></ul><p></p></div>",
+      "changelogHtml": "<div><p><strong>Nová verze 1.1.5</strong></p><ul><li><p>tohle je poslední a finální verze :) huraa</p></li></ul><p></p><p><strong>Nová verze 1.0.0</strong></p><ul><li><p>opraveno mnoooho chyb</p></li></ul><p></p></div>",
       "authorsHtml": "<p>Lokalizace.Net</p>",
-      "size": "30.9 MB",
+      "size": "29.8 MB",
       "inDevelopment": false,
       "mirrors": [
         {
           "label": "Lokalizace.net",
-          "url": "https://lokalizace.net/api/download/1725",
+          "url": "https://lokalizace.net/api/download/1767",
           "kind": "direct"
+        },
+        {
+          "label": "Версия 1.0.0",
+          "url": "https://lokalizace.net/api/download/1725",
+          "kind": "other"
         }
       ],
       "steamAppId": "3768760"
@@ -6518,6 +6523,34 @@
         }
       ],
       "steamAppId": "1143810"
+    },
+    {
+      "title": "The Precinct",
+      "studio": "Lokalizace.net",
+      "studioUrl": "https://lokalizace.net/localizations/the-precinct",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": "1.12.24456",
+      "updatedAt": "23.08.2026",
+      "pageUrl": "https://lokalizace.net/localizations/the-precinct",
+      "howToInstallHtml": "<p>Stáhněte ZIP soubor a rozbalte ho do složky hry, nebo použijte aplikaci CZManager pro automatickou instalaci češtiny.</p>",
+      "changelogHtml": "<div><p><strong>Nová verze 1.12.24456</strong></p><p>Aktualizace překladu pro verzi hry 1.12.24456.</p></div>",
+      "authorsHtml": "<p>Sumilek86</p>",
+      "size": "10.4 MB",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Lokalizace.net",
+          "url": "https://lokalizace.net/api/download/1766",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "490110"
     },
     {
       "title": "Chessmaster 11: Grandmaster Edition",
@@ -12391,33 +12424,28 @@
       "hasNeuralVoice": false,
       "hasNeuralDub": false,
       "hasNeuralText": false,
-      "version": "2.8.0",
-      "updatedAt": "08.10.2025",
+      "version": "2.8.5",
+      "updatedAt": "23.08.2026",
       "pageUrl": "https://lokalizace.net/localizations/red-dead-redemption",
       "howToInstallHtml": "<p>Stáhněte ZIP soubor a rozbalte ho do složky hry, nebo použijte aplikaci CZManager pro automatickou instalaci češtiny.</p>",
-      "changelogHtml": null,
+      "changelogHtml": "<div><p><strong>Nová verze 2.8.5</strong></p><ul><li><p>opravam noho nepřesnodí</p></li><li><p>diky moc <strong>prcku </strong>:)</p></li></ul><p></p></div>",
       "authorsHtml": "<p>Lokalizace.Net</p>",
-      "size": "58.2 MB",
+      "size": "55.4 MB",
       "inDevelopment": false,
       "mirrors": [
         {
           "label": "Lokalizace.net",
-          "url": "https://lokalizace.net/api/download/1019",
+          "url": "https://lokalizace.net/api/download/1769",
           "kind": "direct"
+        },
+        {
+          "label": "Версия 2.8.0",
+          "url": "https://lokalizace.net/api/download/1019",
+          "kind": "other"
         },
         {
           "label": "Версия 2.7.1",
           "url": "https://lokalizace.net/api/download/1017",
-          "kind": "other"
-        },
-        {
-          "label": "Версия 2.5.3",
-          "url": "https://lokalizace.net/api/download/950",
-          "kind": "other"
-        },
-        {
-          "label": "Версия 2.0.0",
-          "url": "https://lokalizace.net/api/download/897",
           "kind": "other"
         }
       ],
@@ -12593,7 +12621,8 @@
           "url": "https://lokalizace.net/api/download/757",
           "kind": "direct"
         }
-      ]
+      ],
+      "steamAppId": "1022710"
     },
     {
       "title": "A New Beginning - Final Cut",
@@ -12669,7 +12698,8 @@
           "url": "https://lokalizace.net/api/download/426",
           "kind": "direct"
         }
-      ]
+      ],
+      "steamAppId": "313120"
     },
     {
       "title": "Two Point Hospital",
@@ -12790,7 +12820,8 @@
           "url": "https://lokalizace.net/api/download/418",
           "kind": "direct"
         }
-      ]
+      ],
+      "steamAppId": "253110"
     },
     {
       "title": "Downfall: Redux",
@@ -12817,7 +12848,8 @@
           "url": "https://lokalizace.net/api/download/417",
           "kind": "direct"
         }
-      ]
+      ],
+      "steamAppId": "364390"
     },
     {
       "title": "Niffelheim",
@@ -12927,7 +12959,8 @@
           "url": "https://lokalizace.net/api/download/412",
           "kind": "direct"
         }
-      ]
+      ],
+      "steamAppId": "304430"
     },
     {
       "title": "Last Resort Island",
@@ -12954,7 +12987,8 @@
           "url": "https://lokalizace.net/api/download/411",
           "kind": "direct"
         }
-      ]
+      ],
+      "steamAppId": "820910"
     },
     {
       "title": "A Way Out",
@@ -13091,7 +13125,8 @@
           "url": "https://lokalizace.net/api/download/421",
           "kind": "direct"
         }
-      ]
+      ],
+      "steamAppId": "320540"
     },
     {
       "title": "Zombie Solitaire 2 - Chapter 3",
@@ -13118,7 +13153,8 @@
           "url": "https://lokalizace.net/api/download/406",
           "kind": "direct"
         }
-      ]
+      ],
+      "steamAppId": "623180"
     },
     {
       "title": "Zombie Solitaire 2 - Chapter 2",
@@ -13173,7 +13209,8 @@
           "url": "https://lokalizace.net/api/download/404",
           "kind": "direct"
         }
-      ]
+      ],
+      "steamAppId": "327670"
     },
     {
       "title": "Woolfe: The Red Hood Diaries",
@@ -13256,7 +13293,8 @@
           "url": "https://lokalizace.net/api/download/400",
           "kind": "direct"
         }
-      ]
+      ],
+      "steamAppId": "248610"
     },
     {
       "title": "BioShock Infinite (2013)",
@@ -13396,7 +13434,8 @@
           "url": "https://lokalizace.net/api/download/1354",
           "kind": "other"
         }
-      ]
+      ],
+      "steamAppId": "208580"
     },
     {
       "title": "Fran Bow",
@@ -13417,7 +13456,8 @@
       "authorsHtml": "<p>Majkyska češtiny</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": []
+      "mirrors": [],
+      "steamAppId": "362680"
     },
     {
       "title": "Sniper Elite 5",
@@ -13444,7 +13484,8 @@
           "url": "https://lokalizace.net/api/download/865",
           "kind": "direct"
         }
-      ]
+      ],
+      "steamAppId": "1029690"
     },
     {
       "title": "Anno 2205",
@@ -13471,7 +13512,8 @@
           "url": "https://lokalizace.net/api/download/379",
           "kind": "direct"
         }
-      ]
+      ],
+      "steamAppId": "375910"
     },
     {
       "title": "Corsair: Conquest at Sea",
@@ -13591,7 +13633,8 @@
           "url": "https://lokalizace.net/api/download/886",
           "kind": "other"
         }
-      ]
+      ],
+      "steamAppId": "2550490"
     },
     {
       "title": "Call of Duty: Modern Warfare 2",
@@ -13652,7 +13695,7 @@
           "kind": "direct"
         }
       ],
-      "steamAppId": "409720"
+      "steamAppId": "8850"
     },
     {
       "title": "Bioshock 2",
@@ -13735,7 +13778,8 @@
           "url": "https://lokalizace.net/api/download/362",
           "kind": "direct"
         }
-      ]
+      ],
+      "steamAppId": "21980"
     },
     {
       "title": "Call of Juarez",
@@ -13846,7 +13890,8 @@
           "url": "https://lokalizace.net/api/download/358",
           "kind": "direct"
         }
-      ]
+      ],
+      "steamAppId": "21100"
     },
     {
       "title": "GUN",
@@ -13929,7 +13974,7 @@
           "kind": "direct"
         }
       ],
-      "steamAppId": "409710"
+      "steamAppId": "7670"
     },
     {
       "title": "Figment 2: Creed Valley",
@@ -13961,7 +14006,8 @@
           "url": "https://lokalizace.net/api/download/354",
           "kind": "other"
         }
-      ]
+      ],
+      "steamAppId": "1085220"
     },
     {
       "title": "Bioshock",
@@ -13988,7 +14034,8 @@
           "url": "https://lokalizace.net/api/download/353",
           "kind": "direct"
         }
-      ]
+      ],
+      "steamAppId": "7670"
     },
     {
       "title": "Furi",
@@ -14071,7 +14118,8 @@
           "url": "https://lokalizace.net/api/download/336",
           "kind": "direct"
         }
-      ]
+      ],
+      "steamAppId": "388210"
     },
     {
       "title": "Star Wars Outlaws",
@@ -14126,7 +14174,8 @@
           "url": "https://lokalizace.net/api/download/333",
           "kind": "direct"
         }
-      ]
+      ],
+      "steamAppId": "310510"
     },
     {
       "title": "Beneath A Steel Sky",
@@ -14242,7 +14291,8 @@
           "url": "https://lokalizace.net/api/download/326",
           "kind": "direct"
         }
-      ]
+      ],
+      "steamAppId": "1115780"
     },
     {
       "title": "Beyond Divinity",
@@ -14269,7 +14319,8 @@
           "url": "https://lokalizace.net/api/download/325",
           "kind": "direct"
         }
-      ]
+      ],
+      "steamAppId": "219760"
     },
     {
       "title": "Divine Divinity",
@@ -14296,7 +14347,8 @@
           "url": "https://lokalizace.net/api/download/324",
           "kind": "direct"
         }
-      ]
+      ],
+      "steamAppId": "214170"
     },
     {
       "title": "Legends of Eisenwald",
@@ -14351,7 +14403,8 @@
           "url": "https://lokalizace.net/api/download/648",
           "kind": "direct"
         }
-      ]
+      ],
+      "steamAppId": "202710"
     },
     {
       "title": "Deathloop",
@@ -14378,7 +14431,8 @@
           "url": "https://lokalizace.net/api/download/321",
           "kind": "direct"
         }
-      ]
+      ],
+      "steamAppId": "1252330"
     },
     {
       "title": "Whispering Willows",
@@ -14438,7 +14492,8 @@
           "url": "https://lokalizace.net/api/download/317",
           "kind": "other"
         }
-      ]
+      ],
+      "steamAppId": "421740"
     },
     {
       "title": "Cooking Simulator",
@@ -19856,19 +19911,24 @@
       "hasNeuralVoice": false,
       "hasNeuralDub": false,
       "hasNeuralText": false,
-      "version": "2.3.0-Enhanced",
-      "updatedAt": "14.12.2025",
+      "version": "3.0.1-Enhanced",
+      "updatedAt": "23.08.2026",
       "pageUrl": "https://lokalizace.net/localizations/grand-theft-auto-v-steam",
       "howToInstallHtml": "<p>Stáhněte ZIP soubor a rozbalte ho do složky hry, nebo použijte aplikaci CZManager pro automatickou instalaci češtiny.</p>",
-      "changelogHtml": null,
+      "changelogHtml": "<div><p><strong>Nová verze 3.0.1-Enhanced</strong></p><ul><li><p>verze která funguje na všech platformách</p></li></ul><p></p></div>",
       "authorsHtml": "<p>Lokalizace.Net</p>",
-      "size": "7.90 MB",
+      "size": "3.39 GB",
       "inDevelopment": false,
       "mirrors": [
         {
           "label": "Lokalizace.net",
-          "url": "https://lokalizace.net/api/download/1094",
+          "url": "https://lokalizace.net/api/download/1768",
           "kind": "direct"
+        },
+        {
+          "label": "Версия 2.3.0-Enhanced",
+          "url": "https://lokalizace.net/api/download/1094",
+          "kind": "other"
         },
         {
           "label": "Версия 2.2.8 - Legacy",
@@ -20899,28 +20959,6 @@
       "inDevelopment": true,
       "mirrors": [],
       "steamAppId": "1182310"
-    },
-    {
-      "title": "The Precinct",
-      "studio": "Lokalizace.net",
-      "studioUrl": "https://lokalizace.net/localizations/the-precinct",
-      "language": "Čeština",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": null,
-      "updatedAt": null,
-      "pageUrl": "https://lokalizace.net/localizations/the-precinct",
-      "howToInstallHtml": "<p>Stáhněte ZIP soubor a rozbalte ho do složky hry, nebo použijte aplikaci CZManager pro automatickou instalaci češtiny.</p>",
-      "changelogHtml": null,
-      "authorsHtml": "<p>Sumilek86</p>",
-      "size": null,
-      "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "490110"
     },
     {
       "title": "Pathfinder - Wrath of the Righteous",
