@@ -205,6 +205,34 @@
       "steamAppId": "3020"
     },
     {
+      "title": "Ground Zero",
+      "studio": "Lokalizace.net",
+      "studioUrl": "https://lokalizace.net/localizations/ground-zero",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": "1.0.0",
+      "updatedAt": "24.08.2026",
+      "pageUrl": "https://lokalizace.net/localizations/ground-zero",
+      "howToInstallHtml": "<p>Stáhněte ZIP soubor a rozbalte ho do složky hry, nebo použijte aplikaci CZManager pro automatickou instalaci češtiny.</p>",
+      "changelogHtml": "<div><p><strong>Nová verze 1.0.0</strong></p><p>Preklad je HOTOVÝ, otestovaný, v prípade chyby neváhajte nahlásiť. Tak príjemnú hru :)</p></div>",
+      "authorsHtml": "<p>PERTIM</p>",
+      "size": "327.6 MB",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Lokalizace.net",
+          "url": "https://lokalizace.net/api/download/1773",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "2340130"
+    },
+    {
       "title": "Indigo Park",
       "studio": "Lokalizace.net",
       "studioUrl": "https://lokalizace.net/localizations/indigo-park",
@@ -4328,18 +4356,18 @@
       "hasNeuralVoice": false,
       "hasNeuralDub": false,
       "hasNeuralText": false,
-      "version": "1.0.1",
-      "updatedAt": "13.08.2026",
+      "version": "1.0.2",
+      "updatedAt": "24.08.2026",
       "pageUrl": "https://lokalizace.net/localizations/turok-dinosaur-hunter-remastered",
       "howToInstallHtml": "<p>Stáhněte ZIP soubor a rozbalte ho do složky hry, nebo použijte aplikaci CZManager pro automatickou instalaci češtiny.</p>",
-      "changelogHtml": "<div><p><strong>Nová verze 1.0.1</strong></p><p>Opravené nájdené preklepy... a neskôr plánujem pridať aj diakritiku</p></div>",
+      "changelogHtml": "<div><p><strong>Nová verze 1.0.2</strong></p><p>Opravené fonty, pridaná diakritika. Je potrebné prepnúť v nastaveniach jazyk na NEMČINU</p></div>",
       "authorsHtml": "<p>PERTIM</p>",
-      "size": "23.2 MB",
+      "size": "202 KB",
       "inDevelopment": false,
       "mirrors": [
         {
           "label": "Lokalizace.net",
-          "url": "https://lokalizace.net/api/download/1740",
+          "url": "https://lokalizace.net/api/download/1772",
           "kind": "direct"
         }
       ]
@@ -12462,19 +12490,24 @@
       "hasNeuralVoice": false,
       "hasNeuralDub": false,
       "hasNeuralText": false,
-      "version": "0.26.7.30-18",
-      "updatedAt": "04.08.2026",
+      "version": "0.26.8.18-16",
+      "updatedAt": "24.08.2026",
       "pageUrl": "https://lokalizace.net/localizations/infection-free-zone",
       "howToInstallHtml": "<p>Stáhněte ZIP soubor a rozbalte ho do složky hry, nebo použijte aplikaci CZManager pro automatickou instalaci češtiny.</p>",
-      "changelogHtml": "<div><p><strong>Nová verze 0.26.7.30-18</strong></p><p><span style=\"font-size: 14px; color: rgb(241, 196, 15)\">Byla vydána aktualizace překladu 0.26.7.30-18 </span></p><p><span style=\"font-size: 14px; color: rgb(236, 240, 241)\">Bugfix Update #42 ze dne 04.08.2026 </span></p><p><span style=\"font-size: 14px; color: rgb(236, 240, 241)\">Přidali 10 nových řádků a 5 jich upravili.</span></p><p><strong>Nová verze 0.26.7.15-12</strong></p><p><span style=\"font-size: 14px; color: rgb(241, 196, 15)\">Byla vydána aktualizace překladu 0.26.7.15-12 </span></p><p><span style=\"font-size: 14px; color: rgb(236, 240, 241)\">Bugfix Update #41 ze dne 16.07.2026 </span></p><p><span style=\"font-size: 14px; color: rgb(236, 240, 241)\">přidali 11 nových řádků a 6 jich upravili.</span></p><p><strong>Nová verze 0.26.6.18-13</strong></p><p><span style=\"font-size: 14px; color: rgb(241, 196, 15)\">Byla vydána aktualizace překladu 0.26.6.18-13</span></p><p><span style=\"font-size: 14px; color: rgb(236, 240, 241)\">Major Update #6 ze dne 05.06. 2026 a Bugfix Update #39 ze dne 20.06.2026 </span></p><p><span style=\"font-size: 14px; color: rgb(236, 240, 241)\">přidali 357 nových řádků,  77 jich upravili a 36 odstranili.</span></p><p><strong>Nová verze 0.26.3.4-15</strong></p><p><span style=\"font-family: Inter, system-ui, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, sans-serif; font-size: 14px; color: rgb(241, 196, 15);\">Byla vydána aktualizace překladu 0.26.3.4-15</span></p><p><span style=\"font-family: Inter, system-ui, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, sans-serif; font-size: 14px; color: rgb(236, 240, 241);\">Bugfix Update #36 ze dne 06.03.2026 přidal 1 nový řádek a 14.</span></p><p><strong>Nová verze 0.26.2.19-15</strong></p><p><span style=\"font-family: Inter, system-ui, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, sans-serif; font-size: 14px; color: rgb(241, 196, 15);\">Byla vydána aktualizace překladu 0.26.2.19-15</span></p><p><span style=\"font-family: Inter, system-ui, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, sans-serif; font-size: 14px; color: rgb(236, 240, 241);\">Bugfix Update #35 ze dne 23.02.2026 přidal 102 nových řádků a 14 upravil.</span></p><p><span style=\"font-family: Inter, system-ui, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, sans-serif; font-size: 14px; color: rgb(236, 240, 241);\">Navíc je sloučen překlad \"Pohonné hmoty\" jako \"Palivo\" a opraveno pár chyb, kterých jsem si všiml z původní verze.</span></p><p>Nahrána nová verze překladu: 0.26.1.12-13</p></div>",
+      "changelogHtml": "<div><p><strong>Nová verze 0.26.8.18-16</strong></p><p><span style=\"font-size: 14px; color: rgb(241, 196, 15)\">Byla vydána aktualizace překladu 0.26.8.18-16</span></p><p><span style=\"font-size: 14px; color: rgb(236, 240, 241)\">Bugfix Update #43 ze dne 24.08.2026</span></p><p><span style=\"font-size: 14px; color: rgb(236, 240, 241)\">Přidali 16 nových řádků a 3 upravili.</span></p><p><strong>Nová verze 0.26.7.30-18</strong></p><p><span style=\"font-size: 14px; color: rgb(241, 196, 15)\">Byla vydána aktualizace překladu 0.26.7.30-18 </span></p><p><span style=\"font-size: 14px; color: rgb(236, 240, 241)\">Bugfix Update #42 ze dne 04.08.2026 </span></p><p><span style=\"font-size: 14px; color: rgb(236, 240, 241)\">Přidali 10 nových řádků a 5 jich upravili.</span></p><p><strong>Nová verze 0.26.7.15-12</strong></p><p><span style=\"font-size: 14px; color: rgb(241, 196, 15)\">Byla vydána aktualizace překladu 0.26.7.15-12 </span></p><p><span style=\"font-size: 14px; color: rgb(236, 240, 241)\">Bugfix Update #41 ze dne 16.07.2026 </span></p><p><span style=\"font-size: 14px; color: rgb(236, 240, 241)\">přidali 11 nových řádků a 6 jich upravili.</span></p><p><strong>Nová verze 0.26.6.18-13</strong></p><p><span style=\"font-size: 14px; color: rgb(241, 196, 15)\">Byla vydána aktualizace překladu 0.26.6.18-13</span></p><p><span style=\"font-size: 14px; color: rgb(236, 240, 241)\">Major Update #6 ze dne 05.06. 2026 a Bugfix Update #39 ze dne 20.06.2026 </span></p><p><span style=\"font-size: 14px; color: rgb(236, 240, 241)\">přidali 357 nových řádků,  77 jich upravili a 36 odstranili.</span></p><p><strong>Nová verze 0.26.3.4-15</strong></p><p><span style=\"font-family: Inter, system-ui, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, sans-serif; font-size: 14px; color: rgb(241, 196, 15);\">Byla vydána aktualizace překladu 0.26.3.4-15</span></p><p><span style=\"font-family: Inter, system-ui, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, sans-serif; font-size: 14px; color: rgb(236, 240, 241);\">Bugfix Update #36 ze dne 06.03.2026 přidal 1 nový řádek a 14.</span></p><p><strong>Nová verze 0.26.2.19-15</strong></p><p><span style=\"font-family: Inter, system-ui, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, sans-serif; font-size: 14px; color: rgb(241, 196, 15);\">Byla vydána aktualizace překladu 0.26.2.19-15</span></p><p><span style=\"font-family: Inter, system-ui, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, sans-serif; font-size: 14px; color: rgb(236, 240, 241);\">Bugfix Update #35 ze dne 23.02.2026 přidal 102 nových řádků a 14 upravil.</span></p><p><span style=\"font-family: Inter, system-ui, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, sans-serif; font-size: 14px; color: rgb(236, 240, 241);\">Navíc je sloučen překlad \"Pohonné hmoty\" jako \"Palivo\" a opraveno pár chyb, kterých jsem si všiml z původní verze.</span></p><p>Nahrána nová verze překladu: 0.26.1.12-13</p></div>",
       "authorsHtml": "<p>Starsoul</p>",
-      "size": "132 KB",
+      "size": "133 KB",
       "inDevelopment": false,
       "mirrors": [
         {
           "label": "Lokalizace.net",
-          "url": "https://lokalizace.net/api/download/1722",
+          "url": "https://lokalizace.net/api/download/1775",
           "kind": "direct"
+        },
+        {
+          "label": "Версия 0.26.7.30-18",
+          "url": "https://lokalizace.net/api/download/1722",
+          "kind": "other"
         },
         {
           "label": "Версия 0.26.7.15-12",
@@ -16943,7 +16976,7 @@
           "kind": "direct"
         }
       ],
-      "steamAppId": "212410"
+      "steamAppId": "1505430"
     },
     {
       "title": "Stellaris",
@@ -17054,19 +17087,24 @@
       "hasNeuralVoice": false,
       "hasNeuralDub": false,
       "hasNeuralText": false,
-      "version": "8.4.26",
-      "updatedAt": "08.04.2026",
+      "version": "24.8.26",
+      "updatedAt": "24.08.2026",
       "pageUrl": "https://lokalizace.net/localizations/naval-action",
       "howToInstallHtml": "<p>Stáhněte ZIP soubor a rozbalte ho do složky hry, nebo použijte aplikaci CZManager pro automatickou instalaci češtiny.</p>",
-      "changelogHtml": "<div><p><strong>Nová verze 8.4.26</strong></p><p>Aktualizace</p><p>Nahrána nová verze překladu: 11.2.26</p><p>Nahrána nová verze překladu: 30.1.26</p></div>",
+      "changelogHtml": "<div><p><strong>Nová verze 24.8.26</strong></p><p></p><p><strong>Nová verze 8.4.26</strong></p><p>Aktualizace</p><p>Nahrána nová verze překladu: 11.2.26</p><p>Nahrána nová verze překladu: 30.1.26</p></div>",
       "authorsHtml": "<p>Tomiket</p>",
-      "size": "128 KB",
+      "size": "135 KB",
       "inDevelopment": false,
       "mirrors": [
         {
           "label": "Lokalizace.net",
-          "url": "https://lokalizace.net/api/download/1442",
+          "url": "https://lokalizace.net/api/download/1771",
           "kind": "direct"
+        },
+        {
+          "label": "Версия 8.4.26",
+          "url": "https://lokalizace.net/api/download/1442",
+          "kind": "other"
         },
         {
           "label": "Версия 11.2.26",
@@ -20218,28 +20256,6 @@
       "steamAppId": "2075800"
     },
     {
-      "title": "Ground Zero",
-      "studio": "Lokalizace.net",
-      "studioUrl": "https://lokalizace.net/localizations/ground-zero",
-      "language": "Čeština",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": null,
-      "updatedAt": null,
-      "pageUrl": "https://lokalizace.net/localizations/ground-zero",
-      "howToInstallHtml": "<p>Stáhněte ZIP soubor a rozbalte ho do složky hry, nebo použijte aplikaci CZManager pro automatickou instalaci češtiny.</p>",
-      "changelogHtml": null,
-      "authorsHtml": "<p>PERTIM</p>",
-      "size": null,
-      "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "2340130"
-    },
-    {
       "title": "METAL GEAR SOLID: Peace Walker - Master Collection Vol.2",
       "studio": "Lokalizace.net",
       "studioUrl": "https://lokalizace.net/localizations/metal-gear-solid-peace-walker-master-collection-version",
@@ -20893,28 +20909,6 @@
       "inDevelopment": true,
       "mirrors": [],
       "steamAppId": "417860"
-    },
-    {
-      "title": "Hollow Knight: Silksong",
-      "studio": "Lokalizace.net",
-      "studioUrl": "https://lokalizace.net/localizations/hollow-knight-silksong",
-      "language": "Čeština",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": null,
-      "updatedAt": null,
-      "pageUrl": "https://lokalizace.net/localizations/hollow-knight-silksong",
-      "howToInstallHtml": "<p>Stáhněte ZIP soubor a rozbalte ho do složky hry, nebo použijte aplikaci CZManager pro automatickou instalaci češtiny.</p>",
-      "changelogHtml": null,
-      "authorsHtml": "<p>MikeCZ</p>",
-      "size": null,
-      "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "1030300"
     },
     {
       "title": "Deltarune",
