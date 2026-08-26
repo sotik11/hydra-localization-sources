@@ -228,6 +228,34 @@
       "steamAppId": "1237970"
     },
     {
+      "title": "Frostpunk 2",
+      "studio": "HerníPřeklady",
+      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/frostpunk-2",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": "1.07",
+      "updatedAt": "20.02.2026",
+      "requiredGameVersion": "1.5.4",
+      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/frostpunk-2",
+      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
+      "authorsHtml": "<p><strong>Překlad:</strong> Jetro, Ralph Shepard,<br><strong>Testování:</strong> Jetro, Andrewek</p>",
+      "inDevelopment": false,
+      "size": "3.27 MB",
+      "mirrors": [
+        {
+          "label": "HerníPřeklady",
+          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=527",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "1601580"
+    },
+    {
       "title": "No Man's Sky",
       "studio": "HerníPřeklady",
       "studioUrl": "https://hernipreklady.cz/seznam-prekladu/no-man-s-sky",
@@ -254,33 +282,6 @@
         }
       ],
       "steamAppId": "275850"
-    },
-    {
-      "title": "Alan Wake 2",
-      "studio": "HerníPřeklady",
-      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/alan-wake-2",
-      "language": "Čeština",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": "1.6",
-      "updatedAt": "31.01.2025",
-      "requiredGameVersion": "1.2.4",
-      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/alan-wake-2",
-      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
-      "authorsHtml": "<p><strong>Překlad:</strong> Luc2as a Mayki<br><strong>Technika:</strong> Termit<br><strong>Korekce songů:</strong> Andrej Kalinin</p>",
-      "inDevelopment": false,
-      "size": "10.5 MB",
-      "mirrors": [
-        {
-          "label": "HerníPřeklady",
-          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=337",
-          "kind": "direct"
-        }
-      ]
     },
     {
       "title": "Evotinction",
@@ -1608,34 +1609,6 @@
       "steamAppId": "1373960"
     },
     {
-      "title": "Frostpunk 2",
-      "studio": "HerníPřeklady",
-      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/frostpunk-2",
-      "language": "Čeština",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": "1.07",
-      "updatedAt": "20.02.2026",
-      "requiredGameVersion": "1.5.4",
-      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/frostpunk-2",
-      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
-      "authorsHtml": "<p><strong>Překlad:</strong> Jetro, Ralph Shepard,<br><strong>Testování:</strong> Jetro, Andrewek</p>",
-      "inDevelopment": false,
-      "size": "3.27 MB",
-      "mirrors": [
-        {
-          "label": "HerníPřeklady",
-          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=527",
-          "kind": "direct"
-        }
-      ],
-      "steamAppId": "1601580"
-    },
-    {
       "title": "Alone in the Dark",
       "studio": "HerníPřeklady",
       "studioUrl": "https://hernipreklady.cz/seznam-prekladu/alone-in-the-dark",
@@ -1858,6 +1831,33 @@
         }
       ],
       "steamAppId": "1681430"
+    },
+    {
+      "title": "Alan Wake 2",
+      "studio": "HerníPřeklady",
+      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/alan-wake-2",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": "1.6",
+      "updatedAt": "31.01.2025",
+      "requiredGameVersion": "1.2.4",
+      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/alan-wake-2",
+      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
+      "authorsHtml": "<p><strong>Překlad:</strong> Luc2as a Mayki<br><strong>Technika:</strong> Termit<br><strong>Korekce songů:</strong> Andrej Kalinin</p>",
+      "inDevelopment": false,
+      "size": "10.5 MB",
+      "mirrors": [
+        {
+          "label": "HerníPřeklady",
+          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=337",
+          "kind": "direct"
+        }
+      ]
     },
     {
       "title": "Dune: Spice Wars",

@@ -857,7 +857,7 @@
       "pageUrl": "https://www.calypsoceviri.com/turkce-yamalar/dead-as-disco-turkce-yama-indir",
       "howToInstallHtml": "<div>Aşağıda vermiş olduğumuz linkten indirdiğiniz Rar dosyasındaki Türkçe Yama exesini, oyunun kurulu olduğu ana dosya konumuna atarak, Türkçe yama exesini çalıştırın. Oyunun ana dosya konumunun seçili olduğunu kontrol ettikten sonra, hangi platformdan oynuyorsanız, o platformun yükle butonuna basarak yamayı yükleyebilirsiniz. <br><br>Yamayı kaldırmak için oyunun dosya konumundaki \"DeadasDisco_YamaKaldır.exe\"'sini çalıştırabilirsiniz.</div>",
       "authorsHtml": "<p>CrimsonSwift, VolkTyson</p>",
-      "size": "1 KB",
+      "size": "4.13 MB",
       "inDevelopment": false,
       "mirrors": [
         {
@@ -3092,7 +3092,7 @@
       "pageUrl": "https://www.calypsoceviri.com/turkce-yamalar/painkiller-turkce-yama-indir",
       "howToInstallHtml": "<div>Aşağıda vermiş olduğumuz linkten indirdiğiniz Rar dosyasındaki Türkçe Yama exesini, oyunun kurulu olduğu ana dosya konumuna atarak, Türkçe yama exesini çalıştırın. Oyunun ana dosya konumunun seçili olduğunu kontrol ettikten sonra, hangi platformdan oynuyorsanız, o platformun yükle butonuna basarak yamayı yükleyebilirsiniz. Kurulumu tamamladıktan sonra rar dosyası içindeki Kurulum Talimatlarını sırasıyla, oynadığınız platforma göre yapmanız gerekiyor.<br><br>Yamayı kaldırmak için oyunun dosya konumundaki Painkiller_YamaKaldır.exe'den yamayı kaldırabilirsiniz.</div>",
       "authorsHtml": "<p>VolkTyson</p>",
-      "size": "1.72 MB",
+      "size": null,
       "inDevelopment": false,
       "mirrors": [
         {
@@ -3156,6 +3156,33 @@
         }
       ],
       "steamAppId": "1313140"
+    },
+    {
+      "title": "Heavy Rain",
+      "studio": "Calypso Çeviri",
+      "studioUrl": "https://www.calypsoceviri.com",
+      "language": "Türkçe",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": "2",
+      "updatedAt": "23.06.2026",
+      "pageUrl": "https://www.calypsoceviri.com/turkce-yamalar/heavy-rain-turkce-yama-indir",
+      "howToInstallHtml": "<div>Aşağıda vermiş olduğumuz linkten indirdiğiniz Rar dosyasındaki Türkçe Yama exesini, oyunun kurulu olduğu ana dosya konumuna atarak, Türkçe yama exesini çalıştırın. Oyunun ana dosya konumunun seçili olduğunu kontrol ettikten sonra, hangi platformdan oynuyorsanız, o platformun yükle butonuna basarak yamayı yükleyebilirsiniz.<br><br>Yamayı kaldırmak için oyunun dosya konumundaki HeavyRain_YamaKaldır.exe'den yamayı kaldırabilirsiniz.</div>",
+      "authorsHtml": "<p>Sweaty, VolkTyson</p>",
+      "size": "10.1 MB",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Calypso Çeviri",
+          "url": "https://www.calypsoceviri.com/_files/archives/7d262d_6d79ca519c2747a3adcfb5f504ac4f37.zip?dn=Heavy%2520Rain%2520T%25C3%25BCrk%25C3%25A7e%2520Yama%2520V2.zip",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "960910"
     },
     {
       "title": "DREDGE",
@@ -3237,6 +3264,33 @@
         }
       ],
       "steamAppId": "1657630"
+    },
+    {
+      "title": "Silent Hill F",
+      "studio": "Calypso Çeviri",
+      "studioUrl": "https://www.calypsoceviri.com",
+      "language": "Türkçe",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": "3",
+      "updatedAt": "23.06.2026",
+      "pageUrl": "https://www.calypsoceviri.com/turkce-yamalar/silent-hill-f-turkce-yama-indir",
+      "howToInstallHtml": "<div>Aşağıda vermiş olduğumuz linkten indirdiğiniz Rar dosyasındaki Türkçe Yama exesini, oyunun kurulu olduğu ana dosya konumuna atarak, Türkçe yama exesini çalıştırın. Oyunun ana dosya konumunun seçili olduğunu kontrol ettikten sonra, hangi platformdan oynuyorsanız, o platformun yükle butonuna basarak yamayı yükleyebilirsiniz.<br><br>Yamayı kaldırmak için oyunun dosyalarını doğrulamanız gerekiyor.</div>",
+      "authorsHtml": "<p>VolkTyson, Indra, Sweaty</p>",
+      "size": "9.06 MB",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Calypso Çeviri",
+          "url": "https://www.calypsoceviri.com/_files/archives/7d262d_8a3b03f154a2489fb15e77e1966c1f6e.rar?dn=Silent%2520Hill%2520F%2520T%25C3%25BCrk%25C3%25A7e%2520Yama%2520V3.rar",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "2947440"
     },
     {
       "title": "King's Orders",
@@ -3586,6 +3640,33 @@
         }
       ],
       "steamAppId": "1030300"
+    },
+    {
+      "title": "Horizon Zero Dawn",
+      "studio": "Calypso Çeviri",
+      "studioUrl": "https://www.calypsoceviri.com",
+      "language": "Türkçe",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": "3",
+      "updatedAt": "23.06.2026",
+      "pageUrl": "https://www.calypsoceviri.com/turkce-yamalar/horizon-zero-dawn-turkce-yama-indir",
+      "howToInstallHtml": "<div>Aşağıda vermiş olduğumuz linkten indirdiğiniz Rar dosyasındaki Türkçe Yama exesini, oyunun kurulu olduğu ana dosya konumuna atarak, Türkçe yama exesini çalıştırın. Oyunun ana dosya konumunun seçili olduğunu kontrol ettikten sonra, hangi platformdan oynuyorsanız, o platformun yükle butonuna basarak yamayı yükleyebilirsiniz.<br><br>Yamayı kaldırmak için dosya konumundaki HZDCE_YamaKaldır.exe den yamayı kaldırabilirsiniz.</div>",
+      "authorsHtml": "<p>VolkTyson, Sweaty</p>",
+      "size": "5.70 MB",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Calypso Çeviri",
+          "url": "https://www.calypsoceviri.com/_files/archives/7d262d_82e866a8027d4f6990b743e7f1526d21.rar?dn=Horizon%2520Zero%2520Dawn%2520T%25C3%25BCrk%25C3%25A7e%2520Yama%2520V3.rar",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "1151640"
     },
     {
       "title": "Horizon Zero Dawn Remastered",
@@ -4628,7 +4709,7 @@
       "pageUrl": "https://www.calypsoceviri.com/turkce-yamalar/the-wild-at-heart-turkce-yama-indir",
       "howToInstallHtml": "<div>Aşağıda vermiş olduğumuz linkten indirdiğiniz Rar dosyasındaki Türkçe Yama exesini, oyunun kurulu olduğu ana dosya konumuna atarak, Türkçe yama exesini çalıştırın. Oyunun ana dosya konumunun seçili olduğunu kontrol ettikten sonra, hangi platformdan oynuyorsanız, o platformun yükle butonuna basarak yamayı yükleyebilirsiniz.<br><br>Yamayı kaldırmak için dosya konumundaki WildatHeart_YamaKaldır.exe den yamayı kaldırabilirsiniz.</div>",
       "authorsHtml": "<p>Bugzade, VolkTyson</p>",
-      "size": "21.7 MB",
+      "size": null,
       "inDevelopment": false,
       "mirrors": [
         {
@@ -4802,6 +4883,33 @@
       "steamAppId": "2680010"
     },
     {
+      "title": "Undead Inc",
+      "studio": "Calypso Çeviri",
+      "studioUrl": "https://www.calypsoceviri.com",
+      "language": "Türkçe",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": null,
+      "updatedAt": "23.06.2026",
+      "pageUrl": "https://www.calypsoceviri.com/turkce-yamalar/undead-inc-turkce-yama-indir",
+      "howToInstallHtml": "<div>Aşağıda vermiş olduğumuz linkten indirdiğiniz Rar dosyasındaki Türkçe Yama exesini, oyunun kurulu olduğu ana dosya konumuna atarak, Türkçe yama exesini çalıştırın. Oyunun ana dosya konumunun seçili olduğunu kontrol ettikten sonra, hangi platformdan oynuyorsanız, o platformun yükle butonuna basarak yamayı yükleyebilirsiniz.<br><br>Yamayı kaldırmak için dosya konumundaki UndeadInc_YamaKaldır.exe den yamayı kaldırabilirsiniz.</div>",
+      "authorsHtml": "<p>VolkTyson</p>",
+      "size": "1.75 MB",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Calypso Çeviri",
+          "url": "https://www.calypsoceviri.com/_files/archives/7d262d_e573b4980b514cc6ad6a1b9bdfb4b0e8.rar?dn=Undead%2520Inc%2520T%25C3%25BCrk%25C3%25A7e%2520Yama.rar",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "2104880"
+    },
+    {
       "title": "The Bridge Curse 2: The Extrication",
       "studio": "Calypso Çeviri",
       "studioUrl": "https://www.calypsoceviri.com",
@@ -4871,7 +4979,7 @@
       "pageUrl": "https://www.calypsoceviri.com/turkce-yamalar/still-wakes-the-deep-turkce-yama-indir",
       "howToInstallHtml": "<div>Aşağıda vermiş olduğumuz linkten indirdiğiniz Rar dosyasındaki Türkçe Yama exesini, oyunun kurulu olduğu ana dosya konumuna atarak, Türkçe yama exesini çalıştırın. Oyunun ana dosya konumunun seçili olduğunu kontrol ettikten sonra, hangi platformdan oynuyorsanız, o platformun yükle butonuna basarak yamayı yükleyebilirsiniz.<br><br>Yamayı kaldırmak için dosya konumundaki StillWakes_GamePass_YamaKaldır.exe veya StillWakes_YamaKaldır.exe den yamayı kaldırabilirsiniz.</div>",
       "authorsHtml": "<p>VolkTyson, Indra</p>",
-      "size": "3.02 MB",
+      "size": null,
       "inDevelopment": false,
       "mirrors": [
         {
@@ -4898,7 +5006,7 @@
       "pageUrl": "https://www.calypsoceviri.com/turkce-yamalar/steelrising-turkce-yama-indir",
       "howToInstallHtml": "<div>Aşağıda vermiş olduğumuz linkten indirdiğiniz Rar dosyasındaki Türkçe Yama exesini, oyunun kurulu olduğu ana dosya konumuna atarak, Türkçe yama exesini çalıştırın. Oyunun ana dosya konumunun seçili olduğunu kontrol ettikten sonra, hangi platformdan oynuyorsanız, o platformun yükle butonuna basarak yamayı yükleyebilirsiniz.<br><br>Yamayı kaldırmak için dosya konumundaki Steelrising_YamaKaldır.exe den yamayı kaldırabilirsiniz.</div>",
       "authorsHtml": "<p>Sweaty, Bugzade</p>",
-      "size": "2.57 MB",
+      "size": null,
       "inDevelopment": false,
       "mirrors": [
         {
@@ -5342,33 +5450,6 @@
       "steamAppId": "883710"
     },
     {
-      "title": "Resident Evil Village",
-      "studio": "Calypso Çeviri",
-      "studioUrl": "https://www.calypsoceviri.com",
-      "language": "Türkçe",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": "2",
-      "updatedAt": "23.06.2026",
-      "pageUrl": "https://www.calypsoceviri.com/turkce-yamalar/resident-evil-village-turkce-yama-indir",
-      "howToInstallHtml": "<div>Aşağıda vermiş olduğumuz linkten indirdiğiniz Rar dosyasındaki Türkçe Yama exesini, oyunun kurulu olduğu ana dosya konumuna atarak, Türkçe yama exesini çalıştırın. Oyunun ana dosya konumunun seçili olduğunu kontrol ettikten sonra, hangi platformdan oynuyorsanız, o platformun yükle butonuna basarak yamayı yükleyebilirsiniz.<br><br>Yamayı kaldırmak için dosya konumundaki ReVillage_YamaKaldır.exe den yamayı kaldırabilirsiniz.</div>",
-      "authorsHtml": "<p>VolkTyson, Sweaty, Sixthsense Çeviri</p>",
-      "size": null,
-      "inDevelopment": false,
-      "mirrors": [
-        {
-          "label": "Calypso Çeviri",
-          "url": "https://www.calypsoceviri.com/_files/archives/7d262d_80ad0fe9c4404080b310bc5e8055dde8.rar?dn=Resident%2520Evil%2520Village%2520T%25C3%25BCrk%25C3%25A7e%2520Yama%2520V2.rar",
-          "kind": "direct"
-        }
-      ],
-      "steamAppId": "1196590"
-    },
-    {
       "title": "Remnant 2",
       "studio": "Calypso Çeviri",
       "studioUrl": "https://www.calypsoceviri.com",
@@ -5438,7 +5519,7 @@
       "pageUrl": "https://www.calypsoceviri.com/turkce-yamalar/outcast-a-new-beginning-turkce-yama-indir",
       "howToInstallHtml": "<div>Aşağıda vermiş olduğumuz linkten indirdiğiniz Rar dosyasındaki Türkçe Yama exesini, oyunun kurulu olduğu ana dosya konumuna atarak, Türkçe yama exesini çalıştırın. Oyunun ana dosya konumunun seçili olduğunu kontrol ettikten sonra, hangi platformdan oynuyorsanız, o platformun yükle butonuna basarak yamayı yükleyebilirsiniz.<br><br>Yamayı kaldırmak için dosya konumundaki Outcast_NewBeginning__YamaKaldir.exe den yamayı kaldırabilirsiniz.</div>",
       "authorsHtml": "<p>VolkTyson</p>",
-      "size": "2.61 MB",
+      "size": null,
       "inDevelopment": false,
       "mirrors": [
         {
@@ -5718,6 +5799,33 @@
         }
       ],
       "steamAppId": "1501750"
+    },
+    {
+      "title": "Mail Time",
+      "studio": "Calypso Çeviri",
+      "studioUrl": "https://www.calypsoceviri.com",
+      "language": "Türkçe",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": null,
+      "updatedAt": "23.06.2026",
+      "pageUrl": "https://www.calypsoceviri.com/turkce-yamalar/mail-time-turkce-yama-indir",
+      "howToInstallHtml": "<div>Aşağıda vermiş olduğumuz linkten indirdiğiniz Rar dosyasındaki Türkçe Yama exesini, oyunun kurulu olduğu ana dosya konumuna atarak, Türkçe yama exesini çalıştırın. Oyunun ana dosya konumunun seçili olduğunu kontrol ettikten sonra, hangi platformdan oynuyorsanız, o platformun yükle butonuna basarak yamayı yükleyebilirsiniz.<br><br>Yamayı kaldırmak için dosya konumundaki MailTime_YamaKaldir.exe den yamayı kaldırabilirsiniz.</div>",
+      "authorsHtml": "<p>VolkTyson</p>",
+      "size": "1.96 MB",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Calypso Çeviri",
+          "url": "https://www.calypsoceviri.com/_files/archives/7d262d_f63d7adc9da04479b79fecfd7dd55b7a.rar?dn=Mail%2520Time%2520T%25C3%25BCrk%25C3%25A7e%2520Yama.rar",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "1607240"
     },
     {
       "title": "Lightyear Frontier",
@@ -6770,33 +6878,6 @@
         }
       ],
       "steamAppId": "2248330"
-    },
-    {
-      "title": "Avowed",
-      "studio": "Calypso Çeviri",
-      "studioUrl": "https://www.calypsoceviri.com",
-      "language": "Türkçe",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": "8",
-      "updatedAt": "23.06.2026",
-      "pageUrl": "https://www.calypsoceviri.com/turkce-yamalar/avowed-turkce-yama-indir",
-      "howToInstallHtml": "<div>Aşağıda vermiş olduğumuz linkten indirdiğiniz Rar dosyasındaki Türkçe Yama exesini, oyunun kurulu olduğu ana dosya konumuna atarak, Türkçe yama exesini çalıştırın. Oyunun ana dosya konumunun seçili olduğunu kontrol ettikten sonra, hangi platformdan oynuyorsanız, o platformun yükle butonuna basarak yamayı yükleyebilirsiniz.<br><br>Yamayı kaldırmak için dosya konumundaki Avowed_YamaKaldir.exe den yamayı kaldırabilirsiniz.</div>",
-      "authorsHtml": "<p>VolkTyson</p>",
-      "size": "3.47 MB",
-      "inDevelopment": false,
-      "mirrors": [
-        {
-          "label": "Calypso Çeviri",
-          "url": "https://www.calypsoceviri.com/_files/archives/7d262d_0947b2391f004104ad9e0ce19b6c0064.rar?dn=Avowed%2520T%25C3%25BCrk%25C3%25A7e%2520Yama%2520V8.rar",
-          "kind": "direct"
-        }
-      ],
-      "steamAppId": "2457220"
     },
     {
       "title": "Avatar: Frontiers of Pandora",

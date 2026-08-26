@@ -5,6 +5,34 @@
   "siteUrl": "https://lokalizace.net",
   "localizations": [
     {
+      "title": "Cities in Motion (2011)",
+      "studio": "Lokalizace.net",
+      "studioUrl": "https://lokalizace.net/localizations/cities-in-motion-2011",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": "1.0.0",
+      "updatedAt": "25.08.2026",
+      "pageUrl": "https://lokalizace.net/localizations/cities-in-motion-2011",
+      "howToInstallHtml": "<p>Stáhněte ZIP soubor a rozbalte ho do složky hry, nebo použijte aplikaci CZManager pro automatickou instalaci češtiny.</p>",
+      "changelogHtml": null,
+      "authorsHtml": "<p>Lost And Found 2</p>",
+      "size": "131 KB",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Lokalizace.net",
+          "url": "https://lokalizace.net/api/download/1779",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "73010"
+    },
+    {
       "title": "Fable - The Lost Chapters",
       "studio": "Lokalizace.net",
       "studioUrl": "https://lokalizace.net/localizations/fable-the-lost-chapters",
@@ -7898,7 +7926,8 @@
           "url": "https://lokalizace.net/api/download/770",
           "kind": "other"
         }
-      ]
+      ],
+      "steamAppId": "4921760"
     },
     {
       "title": "Age of Wonders 3",
@@ -9711,7 +9740,8 @@
           "url": "https://lokalizace.net/api/download/732",
           "kind": "other"
         }
-      ]
+      ],
+      "steamAppId": "5061200"
     },
     {
       "title": "Shadow Tactics: Blades of the Shogun (2016)",
@@ -16743,19 +16773,24 @@
       "hasNeuralVoice": false,
       "hasNeuralDub": false,
       "hasNeuralText": false,
-      "version": "1.3.2",
-      "updatedAt": "25.05.2026",
+      "version": "1.3.3",
+      "updatedAt": "25.08.2026",
       "pageUrl": "https://lokalizace.net/localizations/hollow-knight",
       "howToInstallHtml": "<p>Stáhněte ZIP soubor a rozbalte ho do složky hry, nebo použijte aplikaci CZManager pro automatickou instalaci češtiny.</p>",
-      "changelogHtml": "<div><p>Nahrána nová verze překladu: 1.3.2</p><p><strong>Nová verze 1.3.1</strong></p><p>Zote změněné dialogy, Journal změnený popis, Main Menu nové položky</p><p><strong>Nová verze 1.3</strong></p><p>nová verze hry</p><p><strong>Nová verze 1.2</strong></p><p>Přidány fonty</p><p><strong>Nová verze 1.2-beta</strong></p><ul><li><p>Upraveno na novou verzi hry</p></li><li><p>Zatím bez fontů - fonty budou později</p></li><li><p>Nahrazuje Němčinu</p></li><li><p>Scarab ModLoader už není třeba</p></li></ul><p></p></div>",
+      "changelogHtml": "<div><p><strong>Nová verze 1.3.3</strong></p><p>menší oprava</p><p>Nahrána nová verze překladu: 1.3.2</p><p><strong>Nová verze 1.3.1</strong></p><p>Zote změněné dialogy, Journal změnený popis, Main Menu nové položky</p><p><strong>Nová verze 1.3</strong></p><p>nová verze hry</p><p><strong>Nová verze 1.2</strong></p><p>Přidány fonty</p><p><strong>Nová verze 1.2-beta</strong></p><ul><li><p>Upraveno na novou verzi hry</p></li><li><p>Zatím bez fontů - fonty budou později</p></li><li><p>Nahrazuje Němčinu</p></li><li><p>Scarab ModLoader už není třeba</p></li></ul><p></p></div>",
       "authorsHtml": "<p>MikeCZ</p>",
-      "size": "35.0 MB",
+      "size": "33.9 MB",
       "inDevelopment": false,
       "mirrors": [
         {
           "label": "Lokalizace.net",
-          "url": "https://lokalizace.net/api/download/1542",
+          "url": "https://lokalizace.net/api/download/1776",
           "kind": "direct"
+        },
+        {
+          "label": "Версия 1.3.2",
+          "url": "https://lokalizace.net/api/download/1542",
+          "kind": "other"
         },
         {
           "label": "Версия 1.3.1",
@@ -20034,6 +20069,27 @@
       "inDevelopment": true,
       "mirrors": [],
       "steamAppId": "2369390"
+    },
+    {
+      "title": "Assassin's Creed II - Titulky & Dabing",
+      "studio": "Lokalizace.net",
+      "studioUrl": "https://lokalizace.net/localizations/dabing-do-hry-assassin-s-creed-ii",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": null,
+      "updatedAt": null,
+      "pageUrl": "https://lokalizace.net/localizations/dabing-do-hry-assassin-s-creed-ii",
+      "howToInstallHtml": "<p>Stáhněte ZIP soubor a rozbalte ho do složky hry, nebo použijte aplikaci CZManager pro automatickou instalaci češtiny.</p>",
+      "changelogHtml": null,
+      "authorsHtml": "<p>VocalSync Studios</p>",
+      "size": null,
+      "inDevelopment": true,
+      "mirrors": []
     },
     {
       "title": "SiN Reloaded",
