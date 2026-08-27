@@ -57,7 +57,7 @@ if ! git checkout stable; then
   tg $'⚠️ <b>Локализации (локально)</b>\ngit checkout stable не прошёл — повтор в следующий запуск.'
   exit 1
 fi
-if ! git pull --rebase origin stable; then
+if ! git pull --rebase --autostash origin stable; then
   echo "  !! git pull --rebase failed (dirty tree or conflict) — aborting, will retry next run"
   git rebase --abort 2>/dev/null
   notify "Hydra refresh — ОШИБКА" "git pull --rebase не прошёл (конфликт/грязное дерево). Повтор в следующий запуск."
