@@ -5,6 +5,118 @@
   "siteUrl": "https://komunitni-preklady.org",
   "localizations": [
     {
+      "title": "Mortal Shell II",
+      "studio": "Komunitní překlady",
+      "studioUrl": "https://komunitni-preklady.org/preklad/mortal-shell-ii",
+      "language": "Čeština",
+      "hasText": false,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": true,
+      "version": "0.35",
+      "updatedAt": "21.08.2026",
+      "requiredGameVersion": "21.8.2026",
+      "pageUrl": "https://komunitni-preklady.org/preklad/mortal-shell-ii",
+      "howToInstallHtml": "<p>Každý překlad má vlastní postup instalace. Otevřete stránku překladu (tlačítko „Otevřít v prohlížeči“ níže) — najdete tam úplný návod k instalaci i tlačítko ke stažení.</p>",
+      "authorsHtml": "<p>Ďáblorožec</p>",
+      "size": "457 KB",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Komunitní překlady",
+          "url": "https://komunitni-preklady.org/download/939?sig=b4aWbcyt4pAtGdJmdQvNmQ",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "2584270"
+    },
+    {
+      "title": "High on Life",
+      "studio": "Komunitní překlady",
+      "studioUrl": "https://komunitni-preklady.org/preklad/high-on-life",
+      "language": "Čeština",
+      "hasText": false,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": true,
+      "version": "0.20",
+      "updatedAt": "21.08.2026",
+      "requiredGameVersion": null,
+      "pageUrl": "https://komunitni-preklady.org/preklad/high-on-life",
+      "howToInstallHtml": "<p>Každý překlad má vlastní postup instalace. Otevřete stránku překladu (tlačítko „Otevřít v prohlížeči“ níže) — najdete tam úplný návod k instalaci i tlačítko ke stažení.</p>",
+      "authorsHtml": "<p>Banditi</p>",
+      "size": "2.50 MB",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Komunitní překlady",
+          "url": "https://komunitni-preklady.org/download/337?sig=-J5qxDNe0-moMPCcKtInsg",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "1583230"
+    },
+    {
+      "title": "Doom Eternal",
+      "studio": "Komunitní překlady",
+      "studioUrl": "https://komunitni-preklady.org/preklad/doom-eternal",
+      "language": "Čeština",
+      "hasText": false,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": true,
+      "version": "0.53.3fix",
+      "updatedAt": "21.08.2026",
+      "requiredGameVersion": "2026-19-08",
+      "pageUrl": "https://komunitni-preklady.org/preklad/doom-eternal",
+      "howToInstallHtml": "<p>Každý překlad má vlastní postup instalace. Otevřete stránku překladu (tlačítko „Otevřít v prohlížeči“ níže) — najdete tam úplný návod k instalaci i tlačítko ke stažení.</p>",
+      "authorsHtml": "<p>Lokalizační penetrátor</p>",
+      "size": "5.30 MB",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Komunitní překlady",
+          "url": "https://komunitni-preklady.org/download/323?sig=jPujew6__aFFD_kSgpINHA",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "782330"
+    },
+    {
+      "title": "Back to the Dawn",
+      "studio": "Komunitní překlady",
+      "studioUrl": "https://komunitni-preklady.org/preklad/back-to-the-dawn",
+      "language": "Čeština",
+      "hasText": false,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": true,
+      "version": "1.0.",
+      "updatedAt": "20.08.2026",
+      "requiredGameVersion": "V2.0.0.32-RC",
+      "pageUrl": "https://komunitni-preklady.org/preklad/back-to-the-dawn",
+      "howToInstallHtml": "<p>Každý překlad má vlastní postup instalace. Otevřete stránku překladu (tlačítko „Otevřít v prohlížeči“ níže) — najdete tam úplný návod k instalaci i tlačítko ke stažení.</p>",
+      "authorsHtml": "<p>Čeština od Ivena</p>",
+      "size": "19.2 MB",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Komunitní překlady",
+          "url": "https://komunitni-preklady.org/download/943?sig=48-Fp3vJ1PYvr9GbIPIjMg",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "1735700"
+    },
+    {
       "title": "SiN Reloaded",
       "studio": "Komunitní překlady",
       "studioUrl": "https://komunitni-preklady.org/preklad/sin-reloaded",
@@ -83,34 +195,6 @@
       "steamAppId": "233130"
     },
     {
-      "title": "Doom Eternal",
-      "studio": "Komunitní překlady",
-      "studioUrl": "https://komunitni-preklady.org/preklad/doom-eternal",
-      "language": "Čeština",
-      "hasText": false,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": true,
-      "version": "0.53.3",
-      "updatedAt": "19.08.2026",
-      "requiredGameVersion": "2026-19-08",
-      "pageUrl": "https://komunitni-preklady.org/preklad/doom-eternal",
-      "howToInstallHtml": "<p>Každý překlad má vlastní postup instalace. Otevřete stránku překladu (tlačítko „Otevřít v prohlížeči“ níže) — najdete tam úplný návod k instalaci i tlačítko ke stažení.</p>",
-      "authorsHtml": "<p>Lokalizační penetrátor</p>",
-      "size": "5.20 MB",
-      "inDevelopment": false,
-      "mirrors": [
-        {
-          "label": "Komunitní překlady",
-          "url": "https://komunitni-preklady.org/download/323?sig=jPujew6__aFFD_kSgpINHA",
-          "kind": "direct"
-        }
-      ],
-      "steamAppId": "782330"
-    },
-    {
       "title": "No Rest For The Wicked",
       "studio": "Komunitní překlady",
       "studioUrl": "https://komunitni-preklady.org/preklad/no-rest-for-the-wicked",
@@ -137,6 +221,28 @@
         }
       ],
       "steamAppId": "1371980"
+    },
+    {
+      "title": "Sintopia",
+      "studio": "Komunitní překlady",
+      "studioUrl": "https://komunitni-preklady.org/preklad/sintopia-cz",
+      "language": "Čeština",
+      "hasText": false,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": true,
+      "version": null,
+      "updatedAt": "21.08.2026",
+      "requiredGameVersion": "Build 24412395",
+      "pageUrl": "https://komunitni-preklady.org/preklad/sintopia-cz",
+      "howToInstallHtml": "<p>Každý překlad má vlastní postup instalace. Otevřete stránku překladu (tlačítko „Otevřít v prohlížeči“ níže) — najdete tam úplný návod k instalaci i tlačítko ke stažení.</p>",
+      "authorsHtml": "<p>Ironvale Localization</p>",
+      "size": null,
+      "inDevelopment": true,
+      "mirrors": [],
+      "steamAppId": "2213700"
     },
     {
       "title": "Nioh 3",
@@ -193,34 +299,6 @@
         }
       ],
       "steamAppId": "2186680"
-    },
-    {
-      "title": "Mortal Shell II",
-      "studio": "Komunitní překlady",
-      "studioUrl": "https://komunitni-preklady.org/preklad/mortal-shell-ii",
-      "language": "Čeština",
-      "hasText": false,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": true,
-      "version": "0.34",
-      "updatedAt": "18.08.2026",
-      "requiredGameVersion": null,
-      "pageUrl": "https://komunitni-preklady.org/preklad/mortal-shell-ii",
-      "howToInstallHtml": "<p>Každý překlad má vlastní postup instalace. Otevřete stránku překladu (tlačítko „Otevřít v prohlížeči“ níže) — najdete tam úplný návod k instalaci i tlačítko ke stažení.</p>",
-      "authorsHtml": "<p>Ďáblorožec</p>",
-      "size": "454 KB",
-      "inDevelopment": false,
-      "mirrors": [
-        {
-          "label": "Komunitní překlady",
-          "url": "https://komunitni-preklady.org/download/939?sig=b4aWbcyt4pAtGdJmdQvNmQ",
-          "kind": "direct"
-        }
-      ],
-      "steamAppId": "2584270"
     },
     {
       "title": "Monster Girls: You Can\\u0027t Say No",
@@ -1394,7 +1472,7 @@
       "hasNeuralDub": false,
       "hasNeuralText": true,
       "version": null,
-      "updatedAt": "16.08.2026",
+      "updatedAt": "20.08.2026",
       "requiredGameVersion": null,
       "pageUrl": "https://komunitni-preklady.org/preklad/restory-chill-electronics-repairs",
       "howToInstallHtml": "<p>Každý překlad má vlastní postup instalace. Otevřete stránku překladu (tlačítko „Otevřít v prohlížeči“ níže) — najdete tam úplný návod k instalaci i tlačítko ke stažení.</p>",
@@ -1556,7 +1634,7 @@
       "hasNeuralDub": false,
       "hasNeuralText": false,
       "version": null,
-      "updatedAt": "17.08.2026",
+      "updatedAt": "20.08.2026",
       "requiredGameVersion": null,
       "pageUrl": "https://komunitni-preklady.org/preklad/ground-zero",
       "howToInstallHtml": "<p>Každý překlad má vlastní postup instalace. Otevřete stránku překladu (tlačítko „Otevřít v prohlížeči“ níže) — najdete tam úplný návod k instalaci i tlačítko ke stažení.</p>",
@@ -1690,7 +1768,7 @@
       "hasNeuralDub": false,
       "hasNeuralText": false,
       "version": null,
-      "updatedAt": "15.08.2026",
+      "updatedAt": "21.08.2026",
       "requiredGameVersion": null,
       "pageUrl": "https://komunitni-preklady.org/preklad/metal-gear-solid-4-guns-of-the-patriots-master-collection-vol2",
       "howToInstallHtml": "<p>Každý překlad má vlastní postup instalace. Otevřete stránku překladu (tlačítko „Otevřít v prohlížeči“ níže) — najdete tam úplný návod k instalaci i tlačítko ke stažení.</p>",
@@ -1712,7 +1790,7 @@
       "hasNeuralDub": false,
       "hasNeuralText": false,
       "version": null,
-      "updatedAt": "15.08.2026",
+      "updatedAt": "21.08.2026",
       "requiredGameVersion": null,
       "pageUrl": "https://komunitni-preklady.org/preklad/metal-gear-solid-peace-walker-master-collection-vol2",
       "howToInstallHtml": "<p>Každý překlad má vlastní postup instalace. Otevřete stránku překladu (tlačítko „Otevřít v prohlížeči“ níže) — najdete tam úplný návod k instalaci i tlačítko ke stažení.</p>",
@@ -11374,34 +11452,6 @@
       "steamAppId": "1096530"
     },
     {
-      "title": "High on Life",
-      "studio": "Komunitní překlady",
-      "studioUrl": "https://komunitni-preklady.org/preklad/high-on-life",
-      "language": "Čeština",
-      "hasText": false,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": true,
-      "version": "0.15",
-      "updatedAt": "01.01.2026",
-      "requiredGameVersion": null,
-      "pageUrl": "https://komunitni-preklady.org/preklad/high-on-life",
-      "howToInstallHtml": "<p>Každý překlad má vlastní postup instalace. Otevřete stránku překladu (tlačítko „Otevřít v prohlížeči“ níže) — najdete tam úplný návod k instalaci i tlačítko ke stažení.</p>",
-      "authorsHtml": "<p>Banditi</p>",
-      "size": "1.70 MB",
-      "inDevelopment": false,
-      "mirrors": [
-        {
-          "label": "Komunitní překlady",
-          "url": "https://komunitni-preklady.org/download/337?sig=-J5qxDNe0-moMPCcKtInsg",
-          "kind": "direct"
-        }
-      ],
-      "steamAppId": "1583230"
-    },
-    {
       "title": "F1 Manager 2023",
       "studio": "Komunitní překlady",
       "studioUrl": "https://komunitni-preklady.org/preklad/f1-manager-2023",
@@ -17601,11 +17651,11 @@
       "hasNeuralDub": false,
       "hasNeuralText": true,
       "version": null,
-      "updatedAt": "20.08.2026",
+      "updatedAt": "21.08.2026",
       "requiredGameVersion": null,
       "pageUrl": "https://komunitni-preklady.org/preklad/divinity-ii-dragon-knight-saga-",
       "howToInstallHtml": "<p>Každý překlad má vlastní postup instalace. Otevřete stránku překladu (tlačítko „Otevřít v prohlížeči“ níže) — najdete tam úplný návod k instalaci i tlačítko ke stažení.</p>",
-      "authorsHtml": "<p>PERTIM CZ</p>",
+      "authorsHtml": "<p>Ďáblorožec</p>",
       "size": null,
       "inDevelopment": true,
       "mirrors": []
@@ -18079,7 +18129,7 @@
           "kind": "direct"
         }
       ],
-      "steamAppId": "414740"
+      "steamAppId": "1159640"
     },
     {
       "title": "The Regiment",
