@@ -5,6 +5,62 @@
   "siteUrl": "https://hernipreklady.cz",
   "localizations": [
     {
+      "title": "Terra Invicta",
+      "studio": "HerníPřeklady",
+      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/terra-invicta",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": null,
+      "updatedAt": null,
+      "requiredGameVersion": "1.0.53 + DLC",
+      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/terra-invicta",
+      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
+      "authorsHtml": "<p><strong>Překlad:</strong> Ralph Shepard</p>",
+      "inDevelopment": false,
+      "size": "835 KB",
+      "mirrors": [
+        {
+          "label": "HerníPřeklady",
+          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=607",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "1176470"
+    },
+    {
+      "title": "Cult of the Lamb",
+      "studio": "HerníPřeklady",
+      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/cult-of-the-lamb",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": "1.3",
+      "updatedAt": null,
+      "requiredGameVersion": "1.5.25",
+      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/cult-of-the-lamb",
+      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
+      "authorsHtml": "<p><strong>Překlad:</strong> Ralph Shepard<br><strong>Technika:</strong> Flu, Termit, Luc2as</p>",
+      "inDevelopment": false,
+      "size": "13.7 MB",
+      "mirrors": [
+        {
+          "label": "HerníPřeklady",
+          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=606",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "1313140"
+    },
+    {
       "title": "Two Point Museum",
       "studio": "HerníPřeklady",
       "studioUrl": "https://hernipreklady.cz/seznam-prekladu/two-point-museum",
@@ -31,34 +87,6 @@
         }
       ],
       "steamAppId": "2185060"
-    },
-    {
-      "title": "Terra Invicta",
-      "studio": "HerníPřeklady",
-      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/terra-invicta",
-      "language": "Čeština",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": null,
-      "updatedAt": null,
-      "requiredGameVersion": "1.0.38 + DLC",
-      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/terra-invicta",
-      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
-      "authorsHtml": "<p><strong>Překlad:</strong> Ralph Shepard</p>",
-      "inDevelopment": false,
-      "size": "834 KB",
-      "mirrors": [
-        {
-          "label": "HerníPřeklady",
-          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=604",
-          "kind": "direct"
-        }
-      ],
-      "steamAppId": "1176470"
     },
     {
       "title": "Directive 8020",
@@ -184,7 +212,7 @@
       "hasNeuralDub": false,
       "hasNeuralText": false,
       "version": "1.07",
-      "updatedAt": null,
+      "updatedAt": "26.07.2026",
       "requiredGameVersion": "1.6.1.1680013+",
       "pageUrl": "https://hernipreklady.cz/seznam-prekladu/anno-117",
       "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
@@ -200,9 +228,9 @@
       ]
     },
     {
-      "title": "Titanfall 2",
+      "title": "Graveyard Keeper",
       "studio": "HerníPřeklady",
-      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/titanfall-2",
+      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/graveyard-keeper",
       "language": "Čeština",
       "hasText": true,
       "hasVoice": false,
@@ -210,22 +238,50 @@
       "hasNeuralVoice": false,
       "hasNeuralDub": false,
       "hasNeuralText": false,
-      "version": "1.0",
-      "updatedAt": "13.07.2026",
-      "requiredGameVersion": "2.0.11.0",
-      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/titanfall-2",
+      "version": "1.36",
+      "updatedAt": "10.04.2026",
+      "requiredGameVersion": "1.407 (Win / PC)",
+      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/graveyard-keeper",
       "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
-      "authorsHtml": null,
+      "authorsHtml": "<p><strong>Překlad:</strong> Jetro<br><strong>Testování:</strong> Jetro, Stan307, pesty, Merelen, Barbar</p>",
       "inDevelopment": false,
-      "size": "59.3 MB",
+      "size": "9.77 MB",
       "mirrors": [
         {
           "label": "HerníPřeklady",
-          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=593",
+          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=550",
           "kind": "direct"
         }
       ],
-      "steamAppId": "1237970"
+      "steamAppId": "599140"
+    },
+    {
+      "title": "Phoenix Point",
+      "studio": "HerníPřeklady",
+      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/phoenix-point",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": null,
+      "updatedAt": "15.12.2025",
+      "requiredGameVersion": "1.3 Firebird",
+      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/phoenix-point",
+      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
+      "authorsHtml": "<p><strong>Překlad:</strong> Ralph Shepard, na začátku Fourd (přešel na technickou stránku) a Electricman (skončil)<br><strong>Technika:</strong> Four d, Adras, Termit</p>",
+      "inDevelopment": false,
+      "size": "2.97 MB",
+      "mirrors": [
+        {
+          "label": "HerníPřeklady",
+          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=486",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "839770"
     },
     {
       "title": "Frostpunk 2",
@@ -256,9 +312,9 @@
       "steamAppId": "1601580"
     },
     {
-      "title": "No Man's Sky",
+      "title": "Titanfall 2",
       "studio": "HerníPřeklady",
-      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/no-man-s-sky",
+      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/titanfall-2",
       "language": "Čeština",
       "hasText": true,
       "hasVoice": false,
@@ -266,22 +322,22 @@
       "hasNeuralVoice": false,
       "hasNeuralDub": false,
       "hasNeuralText": false,
-      "version": null,
-      "updatedAt": "13.06.2026",
-      "requiredGameVersion": "6.44_TheSwarm_169781",
-      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/no-man-s-sky",
+      "version": "1.0",
+      "updatedAt": "13.07.2026",
+      "requiredGameVersion": "2.0.11.0",
+      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/titanfall-2",
       "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
-      "authorsHtml": "<p><strong>Překlad:</strong> Unread</p>",
+      "authorsHtml": null,
       "inDevelopment": false,
-      "size": "6.50 MB",
+      "size": "59.3 MB",
       "mirrors": [
         {
           "label": "HerníPřeklady",
-          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=580",
+          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=593",
           "kind": "direct"
         }
       ],
-      "steamAppId": "275850"
+      "steamAppId": "1237970"
     },
     {
       "title": "Evotinction",
@@ -854,6 +910,34 @@
       "steamAppId": "1902960"
     },
     {
+      "title": "No Man's Sky",
+      "studio": "HerníPřeklady",
+      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/no-man-s-sky",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": null,
+      "updatedAt": "13.06.2026",
+      "requiredGameVersion": "6.44_TheSwarm_169781",
+      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/no-man-s-sky",
+      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
+      "authorsHtml": "<p><strong>Překlad:</strong> Unread</p>",
+      "inDevelopment": false,
+      "size": "6.50 MB",
+      "mirrors": [
+        {
+          "label": "HerníPřeklady",
+          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=580",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "275850"
+    },
+    {
       "title": "This War of Mine",
       "studio": "HerníPřeklady",
       "studioUrl": "https://hernipreklady.cz/seznam-prekladu/this-war-of-mine",
@@ -1187,34 +1271,6 @@
         }
       ],
       "steamAppId": "2223840"
-    },
-    {
-      "title": "Cult of the Lamb",
-      "studio": "HerníPřeklady",
-      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/cult-of-the-lamb",
-      "language": "Čeština",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": "1.3",
-      "updatedAt": "20.04.2026",
-      "requiredGameVersion": "1.5.25",
-      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/cult-of-the-lamb",
-      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
-      "authorsHtml": "<p><strong>Překlad:</strong> Ralph Shepard<br><strong>Technika:</strong> Flu, Termit, Luc2as</p>",
-      "inDevelopment": false,
-      "size": "13.7 MB",
-      "mirrors": [
-        {
-          "label": "HerníPřeklady",
-          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=558",
-          "kind": "direct"
-        }
-      ],
-      "steamAppId": "1313140"
     },
     {
       "title": "Black Myth: Wukong",
@@ -2390,34 +2446,6 @@
       "steamAppId": "1345890"
     },
     {
-      "title": "Graveyard Keeper",
-      "studio": "HerníPřeklady",
-      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/graveyard-keeper",
-      "language": "Čeština",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": "1.36",
-      "updatedAt": "10.04.2026",
-      "requiredGameVersion": "1.407 (Win / PC)",
-      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/graveyard-keeper",
-      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
-      "authorsHtml": "<p><strong>Překlad:</strong> Jetro<br><strong>Testování:</strong> Jetro, Stan307, pesty, Merelen, Barbar</p>",
-      "inDevelopment": false,
-      "size": "9.77 MB",
-      "mirrors": [
-        {
-          "label": "HerníPřeklady",
-          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=550",
-          "kind": "direct"
-        }
-      ],
-      "steamAppId": "599140"
-    },
-    {
       "title": "Moss",
       "studio": "HerníPřeklady",
       "studioUrl": "https://hernipreklady.cz/seznam-prekladu/moss",
@@ -2667,34 +2695,6 @@
         }
       ],
       "steamAppId": "939850"
-    },
-    {
-      "title": "Phoenix Point",
-      "studio": "HerníPřeklady",
-      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/phoenix-point",
-      "language": "Čeština",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": null,
-      "updatedAt": "15.12.2025",
-      "requiredGameVersion": "1.3 Firebird",
-      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/phoenix-point",
-      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
-      "authorsHtml": "<p><strong>Překlad:</strong> Ralph Shepard, na začátku Fourd (přešel na technickou stránku) a Electricman (skončil)<br><strong>Technika:</strong> Four d, Adras, Termit</p>",
-      "inDevelopment": false,
-      "size": "2.97 MB",
-      "mirrors": [
-        {
-          "label": "HerníPřeklady",
-          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=486",
-          "kind": "direct"
-        }
-      ],
-      "steamAppId": "839770"
     },
     {
       "title": "Atomic Heart",
