@@ -5,6 +5,84 @@
   "siteUrl": "https://komunitni-preklady.org",
   "localizations": [
     {
+      "title": "Night of the Dead",
+      "studio": "Komunitní překlady",
+      "studioUrl": "https://komunitni-preklady.org/preklad/night-of-the-dead",
+      "language": "Slovenčina",
+      "hasText": false,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": true,
+      "version": null,
+      "updatedAt": "28.08.2026",
+      "requiredGameVersion": "1.2.00",
+      "pageUrl": "https://komunitni-preklady.org/preklad/night-of-the-dead",
+      "howToInstallHtml": "<p>Každý preklad má vlastný postup inštalácie. Otvorte stránku prekladu (tlačidlo „Otvoriť v prehliadači“ nižšie) — nájdete tam úplný návod na inštaláciu aj tlačidlo na stiahnutie.</p>",
+      "authorsHtml": "<p>SK/CZECH preklady</p>",
+      "size": null,
+      "inDevelopment": true,
+      "mirrors": [],
+      "steamAppId": "1377380"
+    },
+    {
+      "title": "STORYTELLER",
+      "studio": "Komunitní překlady",
+      "studioUrl": "https://komunitni-preklady.org/preklad/storyteller",
+      "language": "Čeština",
+      "hasText": false,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": true,
+      "version": "1.0",
+      "updatedAt": "27.08.2026",
+      "requiredGameVersion": "1.1.18",
+      "pageUrl": "https://komunitni-preklady.org/preklad/storyteller",
+      "howToInstallHtml": "<p>Každý překlad má vlastní postup instalace. Otevřete stránku překladu (tlačítko „Otevřít v prohlížeči“ níže) — najdete tam úplný návod k instalaci i tlačítko ke stažení.</p>",
+      "authorsHtml": "<p>Čeština od Ivena</p>",
+      "size": "22.8 MB",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Komunitní překlady",
+          "url": "https://komunitni-preklady.org/download/948?sig=TC-utlEwepdKfBTKFs7FoQ",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "1624540"
+    },
+    {
+      "title": "Monster Girls: You Can\\u0027t Say No",
+      "studio": "Komunitní překlady",
+      "studioUrl": "https://komunitni-preklady.org/preklad/monster-girls-you-cant-say-no",
+      "language": "Čeština",
+      "hasText": false,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": true,
+      "version": "0.13",
+      "updatedAt": "27.08.2026",
+      "requiredGameVersion": null,
+      "pageUrl": "https://komunitni-preklady.org/preklad/monster-girls-you-cant-say-no",
+      "howToInstallHtml": "<p>Každý překlad má vlastní postup instalace. Otevřete stránku překladu (tlačítko „Otevřít v prohlížeči“ níže) — najdete tam úplný návod k instalaci i tlačítko ke stažení.</p>",
+      "authorsHtml": "<p>Ďáblorožec</p>",
+      "size": "731.5 MB",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Komunitní překlady",
+          "url": "https://komunitni-preklady.org/download/937?sig=QtGcaFb8cYiIH38SaODynQ",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "1219860"
+    },
+    {
       "title": "Mortal Shell II",
       "studio": "Komunitní překlady",
       "studioUrl": "https://komunitni-preklady.org/preklad/mortal-shell-ii",
@@ -15,8 +93,8 @@
       "hasNeuralVoice": false,
       "hasNeuralDub": false,
       "hasNeuralText": true,
-      "version": "0.35",
-      "updatedAt": "21.08.2026",
+      "version": "0.36",
+      "updatedAt": "27.08.2026",
       "requiredGameVersion": "21.8.2026",
       "pageUrl": "https://komunitni-preklady.org/preklad/mortal-shell-ii",
       "howToInstallHtml": "<p>Každý překlad má vlastní postup instalace. Otevřete stránku překladu (tlačítko „Otevřít v prohlížeči“ níže) — najdete tam úplný návod k instalaci i tlačítko ke stažení.</p>",
@@ -31,6 +109,335 @@
         }
       ],
       "steamAppId": "2584270"
+    },
+    {
+      "title": "Crimson Desert",
+      "studio": "Komunitní překlady",
+      "studioUrl": "https://komunitni-preklady.org/preklad/crimson-desert-sk",
+      "language": "Slovenčina",
+      "hasText": false,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": true,
+      "version": "3.5",
+      "updatedAt": "27.08.2026",
+      "requiredGameVersion": "2.00.00",
+      "pageUrl": "https://komunitni-preklady.org/preklad/crimson-desert-sk",
+      "howToInstallHtml": "<p>Každý preklad má vlastný postup inštalácie. Otvorte stránku prekladu (tlačidlo „Otvoriť v prehliadači“ nižšie) — nájdete tam úplný návod na inštaláciu aj tlačidlo na stiahnutie.</p>",
+      "authorsHtml": "<p>Flego</p>",
+      "size": "8.60 MB",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Komunitní překlady",
+          "url": "https://komunitni-preklady.org/download/758?sig=p8UTlFkphufGApvCDC0-fg",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "3321460"
+    },
+    {
+      "title": "Fall of Light: Darkest Edition",
+      "studio": "Komunitní překlady",
+      "studioUrl": "https://komunitni-preklady.org/preklad/fall-of-light-darkest-edition",
+      "language": "Čeština",
+      "hasText": false,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": true,
+      "version": "2.0",
+      "updatedAt": "27.08.2026",
+      "requiredGameVersion": "2.0",
+      "pageUrl": "https://komunitni-preklady.org/preklad/fall-of-light-darkest-edition",
+      "howToInstallHtml": "<p>Každý překlad má vlastní postup instalace. Otevřete stránku překladu (tlačítko „Otevřít v prohlížeči“ níže) — najdete tam úplný návod k instalaci i tlačítko ke stažení.</p>",
+      "authorsHtml": "<p>Překlady z Masyafu</p>",
+      "size": "65.5 MB",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Komunitní překlady",
+          "url": "https://komunitni-preklady.org/download/947?sig=L9pdXsJphfK3gxLBOMhVNA",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "633950"
+    },
+    {
+      "title": "MOLDRISE",
+      "studio": "Komunitní překlady",
+      "studioUrl": "https://komunitni-preklady.org/preklad/moldrise",
+      "language": "Čeština",
+      "hasText": false,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": true,
+      "version": null,
+      "updatedAt": "27.08.2026",
+      "requiredGameVersion": "1.0.11",
+      "pageUrl": "https://komunitni-preklady.org/preklad/moldrise",
+      "howToInstallHtml": "<p>Každý překlad má vlastní postup instalace. Otevřete stránku překladu (tlačítko „Otevřít v prohlížeči“ níže) — najdete tam úplný návod k instalaci i tlačítko ke stažení.</p>",
+      "authorsHtml": "<p>Ironvale Localization</p>",
+      "size": null,
+      "inDevelopment": true,
+      "mirrors": [],
+      "steamAppId": "4519130"
+    },
+    {
+      "title": "60 Parsecs!",
+      "studio": "Komunitní překlady",
+      "studioUrl": "https://komunitni-preklady.org/preklad/60-parsecs",
+      "language": "Čeština",
+      "hasText": false,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": true,
+      "version": "1.0.2",
+      "updatedAt": "26.08.2026",
+      "requiredGameVersion": "1.7.0 build 22332285",
+      "pageUrl": "https://komunitni-preklady.org/preklad/60-parsecs",
+      "howToInstallHtml": "<p>Každý překlad má vlastní postup instalace. Otevřete stránku překladu (tlačítko „Otevřít v prohlížeči“ níže) — najdete tam úplný návod k instalaci i tlačítko ke stažení.</p>",
+      "authorsHtml": "<p>Ironvale Localization</p>",
+      "size": "21.7 MB",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Komunitní překlady",
+          "url": "https://komunitni-preklady.org/download/879?sig=39y2TVLOOZeoMYcaWkSRPQ",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "646270"
+    },
+    {
+      "title": "60 Seconds! Reatomized",
+      "studio": "Komunitní překlady",
+      "studioUrl": "https://komunitni-preklady.org/preklad/60-seconds-reatomized",
+      "language": "Čeština",
+      "hasText": false,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": true,
+      "version": "1.0.4",
+      "updatedAt": "26.08.2026",
+      "requiredGameVersion": "1.1.9.0",
+      "pageUrl": "https://komunitni-preklady.org/preklad/60-seconds-reatomized",
+      "howToInstallHtml": "<p>Každý překlad má vlastní postup instalace. Otevřete stránku překladu (tlačítko „Otevřít v prohlížeči“ níže) — najdete tam úplný návod k instalaci i tlačítko ke stažení.</p>",
+      "authorsHtml": "<p>Ironvale Localization</p>",
+      "size": "44.7 MB",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Komunitní překlady",
+          "url": "https://komunitni-preklady.org/download/877?sig=pWZKkhr6mmeYlTzbKSyIkw",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "1012880"
+    },
+    {
+      "title": "Rustler",
+      "studio": "Komunitní překlady",
+      "studioUrl": "https://komunitni-preklady.org/preklad/rustler",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": "2.0",
+      "updatedAt": "26.08.2026",
+      "requiredGameVersion": "1.37.25+1.60.15",
+      "pageUrl": "https://komunitni-preklady.org/preklad/rustler",
+      "howToInstallHtml": "<p>Každý překlad má vlastní postup instalace. Otevřete stránku překladu (tlačítko „Otevřít v prohlížeči“ níže) — najdete tam úplný návod k instalaci i tlačítko ke stažení.</p>",
+      "authorsHtml": "<p>Sumilek86</p>",
+      "size": "2.70 MB",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Komunitní překlady",
+          "url": "https://komunitni-preklady.org/download/612?sig=BRwVNxO5ll7B8mWXMuH4dg",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "844260"
+    },
+    {
+      "title": "The Precinct",
+      "studio": "Komunitní překlady",
+      "studioUrl": "https://komunitni-preklady.org/preklad/the-precinct",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": "4.0",
+      "updatedAt": "26.08.2026",
+      "requiredGameVersion": "1.12.24456+1.12.24536",
+      "pageUrl": "https://komunitni-preklady.org/preklad/the-precinct",
+      "howToInstallHtml": "<p>Každý překlad má vlastní postup instalace. Otevřete stránku překladu (tlačítko „Otevřít v prohlížeči“ níže) — najdete tam úplný návod k instalaci i tlačítko ke stažení.</p>",
+      "authorsHtml": "<p>Sumilek86</p>",
+      "size": "10.8 MB",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Komunitní překlady",
+          "url": "https://komunitni-preklady.org/download/614?sig=bSLsz2BBVRk1KTTeC2PgqA",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "490110"
+    },
+    {
+      "title": "Ground Zero",
+      "studio": "Komunitní překlady",
+      "studioUrl": "https://komunitni-preklady.org/preklad/ground-zero",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": "1.0",
+      "updatedAt": "25.08.2026",
+      "requiredGameVersion": null,
+      "pageUrl": "https://komunitni-preklady.org/preklad/ground-zero",
+      "howToInstallHtml": "<p>Každý překlad má vlastní postup instalace. Otevřete stránku překladu (tlačítko „Otevřít v prohlížeči“ níže) — najdete tam úplný návod k instalaci i tlačítko ke stažení.</p>",
+      "authorsHtml": "<p>PERTIM CZ</p>",
+      "size": "327.6 MB",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Komunitní překlady",
+          "url": "https://komunitni-preklady.org/download/896?sig=tZ3DpremCFSu1Urq4ynatQ",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "2340130"
+    },
+    {
+      "title": "Turok: Dinosaur Hunter Remastered",
+      "studio": "Komunitní překlady",
+      "studioUrl": "https://komunitni-preklady.org/preklad/turok-dinosaur-hunter-remastered",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": "1.2",
+      "updatedAt": "24.08.2026",
+      "requiredGameVersion": null,
+      "pageUrl": "https://komunitni-preklady.org/preklad/turok-dinosaur-hunter-remastered",
+      "howToInstallHtml": "<p>Každý překlad má vlastní postup instalace. Otevřete stránku překladu (tlačítko „Otevřít v prohlížeči“ níže) — najdete tam úplný návod k instalaci i tlačítko ke stažení.</p>",
+      "authorsHtml": "<p>PERTIM CZ</p>",
+      "size": "202 KB",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Komunitní překlady",
+          "url": "https://komunitni-preklady.org/download/928?sig=Gf9MIcV4rDMGK0r6iBf7iA",
+          "kind": "direct"
+        }
+      ]
+    },
+    {
+      "title": "Broken Arrow",
+      "studio": "Komunitní překlady",
+      "studioUrl": "https://komunitni-preklady.org/preklad/broken-arrow",
+      "language": "Čeština",
+      "hasText": false,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": true,
+      "version": "0.9",
+      "updatedAt": "23.08.2026",
+      "requiredGameVersion": "1.1.2",
+      "pageUrl": "https://komunitni-preklady.org/preklad/broken-arrow",
+      "howToInstallHtml": "<p>Každý překlad má vlastní postup instalace. Otevřete stránku překladu (tlačítko „Otevřít v prohlížeči“ níže) — najdete tam úplný návod k instalaci i tlačítko ke stažení.</p>",
+      "authorsHtml": "<p>Livi8D</p>",
+      "size": "2.70 MB",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Komunitní překlady",
+          "url": "https://komunitni-preklady.org/download/834?sig=AVOmOFcTnEGsj1zkEI5jUg",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "1604270"
+    },
+    {
+      "title": "Global Rescue",
+      "studio": "Komunitní překlady",
+      "studioUrl": "https://komunitni-preklady.org/preklad/global-rescue",
+      "language": "Čeština",
+      "hasText": false,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": true,
+      "version": "0.2",
+      "updatedAt": "23.08.2026",
+      "requiredGameVersion": "0.5.9",
+      "pageUrl": "https://komunitni-preklady.org/preklad/global-rescue",
+      "howToInstallHtml": "<p>Každý překlad má vlastní postup instalace. Otevřete stránku překladu (tlačítko „Otevřít v prohlížeči“ níže) — najdete tam úplný návod k instalaci i tlačítko ke stažení.</p>",
+      "authorsHtml": "<p>Livi8D</p>",
+      "size": "490.6 MB",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Komunitní překlady",
+          "url": "https://komunitni-preklady.org/download/867?sig=gqWwbD_jErU-coWQc02bYg",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "2873660"
+    },
+    {
+      "title": "DRAGON QUEST VII Reimagined",
+      "studio": "Komunitní překlady",
+      "studioUrl": "https://komunitni-preklady.org/preklad/dragon-quest-vii-reimagined",
+      "language": "Čeština",
+      "hasText": false,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": true,
+      "version": "1.0",
+      "updatedAt": "23.08.2026",
+      "requiredGameVersion": "1.0",
+      "pageUrl": "https://komunitni-preklady.org/preklad/dragon-quest-vii-reimagined",
+      "howToInstallHtml": "<p>Každý překlad má vlastní postup instalace. Otevřete stránku překladu (tlačítko „Otevřít v prohlížeči“ níže) — najdete tam úplný návod k instalaci i tlačítko ke stažení.</p>",
+      "authorsHtml": "<p>Čeština od Ivena</p>",
+      "size": "11.3 MB",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Komunitní překlady",
+          "url": "https://komunitni-preklady.org/download/944?sig=ZuNDfO7G1tACnSn2JgRaig",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "2499860"
     },
     {
       "title": "High on Life",
@@ -128,7 +535,7 @@
       "hasNeuralDub": false,
       "hasNeuralText": false,
       "version": null,
-      "updatedAt": "20.08.2026",
+      "updatedAt": "27.08.2026",
       "requiredGameVersion": null,
       "pageUrl": "https://komunitni-preklady.org/preklad/sin-reloaded",
       "howToInstallHtml": "<p>Každý překlad má vlastní postup instalace. Otevřete stránku překladu (tlačítko „Otevřít v prohlížeči“ níže) — najdete tam úplný návod k instalaci i tlačítko ke stažení.</p>",
@@ -234,7 +641,7 @@
       "hasNeuralDub": false,
       "hasNeuralText": true,
       "version": null,
-      "updatedAt": "21.08.2026",
+      "updatedAt": "28.08.2026",
       "requiredGameVersion": "Build 24412395",
       "pageUrl": "https://komunitni-preklady.org/preklad/sintopia-cz",
       "howToInstallHtml": "<p>Každý překlad má vlastní postup instalace. Otevřete stránku překladu (tlačítko „Otevřít v prohlížeči“ níže) — najdete tam úplný návod k instalaci i tlačítko ke stažení.</p>",
@@ -301,56 +708,6 @@
       "steamAppId": "2186680"
     },
     {
-      "title": "Monster Girls: You Can\\u0027t Say No",
-      "studio": "Komunitní překlady",
-      "studioUrl": "https://komunitni-preklady.org/preklad/monster-girls-you-cant-say-no",
-      "language": "Čeština",
-      "hasText": false,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": true,
-      "version": "0.12",
-      "updatedAt": "17.08.2026",
-      "requiredGameVersion": null,
-      "pageUrl": "https://komunitni-preklady.org/preklad/monster-girls-you-cant-say-no",
-      "howToInstallHtml": "<p>Každý překlad má vlastní postup instalace. Otevřete stránku překladu (tlačítko „Otevřít v prohlížeči“ níže) — najdete tam úplný návod k instalaci i tlačítko ke stažení.</p>",
-      "authorsHtml": "<p>Ďáblorožec</p>",
-      "size": "731.5 MB",
-      "inDevelopment": false,
-      "mirrors": [
-        {
-          "label": "Komunitní překlady",
-          "url": "https://komunitni-preklady.org/download/937?sig=QtGcaFb8cYiIH38SaODynQ",
-          "kind": "direct"
-        }
-      ],
-      "steamAppId": "1219860"
-    },
-    {
-      "title": "The Precinct",
-      "studio": "Komunitní překlady",
-      "studioUrl": "https://komunitni-preklady.org/preklad/the-precinct",
-      "language": "Čeština",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": null,
-      "updatedAt": "17.08.2026",
-      "requiredGameVersion": "1.12.23934",
-      "pageUrl": "https://komunitni-preklady.org/preklad/the-precinct",
-      "howToInstallHtml": "<p>Každý překlad má vlastní postup instalace. Otevřete stránku překladu (tlačítko „Otevřít v prohlížeči“ níže) — najdete tam úplný návod k instalaci i tlačítko ke stažení.</p>",
-      "authorsHtml": "<p>Sumilek86</p>",
-      "size": null,
-      "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "490110"
-    },
-    {
       "title": "News Tower",
       "studio": "Komunitní překlady",
       "studioUrl": "https://komunitni-preklady.org/preklad/news-tower",
@@ -377,34 +734,6 @@
         }
       ],
       "steamAppId": "1649950"
-    },
-    {
-      "title": "Crimson Desert",
-      "studio": "Komunitní překlady",
-      "studioUrl": "https://komunitni-preklady.org/preklad/crimson-desert-sk",
-      "language": "Slovenčina",
-      "hasText": false,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": true,
-      "version": "3.4",
-      "updatedAt": "17.08.2026",
-      "requiredGameVersion": "1.18.02",
-      "pageUrl": "https://komunitni-preklady.org/preklad/crimson-desert-sk",
-      "howToInstallHtml": "<p>Každý preklad má vlastný postup inštalácie. Otvorte stránku prekladu (tlačidlo „Otvoriť v prehliadači“ nižšie) — nájdete tam úplný návod na inštaláciu aj tlačidlo na stiahnutie.</p>",
-      "authorsHtml": "<p>Flego</p>",
-      "size": "8.00 MB",
-      "inDevelopment": false,
-      "mirrors": [
-        {
-          "label": "Komunitní překlady",
-          "url": "https://komunitni-preklady.org/download/758?sig=p8UTlFkphufGApvCDC0-fg",
-          "kind": "direct"
-        }
-      ],
-      "steamAppId": "3321460"
     },
     {
       "title": "Grounded 2",
@@ -631,61 +960,6 @@
       "steamAppId": "205840"
     },
     {
-      "title": "Broken Arrow",
-      "studio": "Komunitní překlady",
-      "studioUrl": "https://komunitni-preklady.org/preklad/broken-arrow",
-      "language": "Čeština",
-      "hasText": false,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": true,
-      "version": "0.8",
-      "updatedAt": "13.08.2026",
-      "requiredGameVersion": "1.1.1.1",
-      "pageUrl": "https://komunitni-preklady.org/preklad/broken-arrow",
-      "howToInstallHtml": "<p>Každý překlad má vlastní postup instalace. Otevřete stránku překladu (tlačítko „Otevřít v prohlížeči“ níže) — najdete tam úplný návod k instalaci i tlačítko ke stažení.</p>",
-      "authorsHtml": "<p>Livi8D</p>",
-      "size": "2.70 MB",
-      "inDevelopment": false,
-      "mirrors": [
-        {
-          "label": "Komunitní překlady",
-          "url": "https://komunitni-preklady.org/download/834?sig=AVOmOFcTnEGsj1zkEI5jUg",
-          "kind": "direct"
-        }
-      ],
-      "steamAppId": "1604270"
-    },
-    {
-      "title": "Turok: Dinosaur Hunter Remastered",
-      "studio": "Komunitní překlady",
-      "studioUrl": "https://komunitni-preklady.org/preklad/turok-dinosaur-hunter-remastered",
-      "language": "Čeština",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": "1.1",
-      "updatedAt": "13.08.2026",
-      "requiredGameVersion": null,
-      "pageUrl": "https://komunitni-preklady.org/preklad/turok-dinosaur-hunter-remastered",
-      "howToInstallHtml": "<p>Každý překlad má vlastní postup instalace. Otevřete stránku překladu (tlačítko „Otevřít v prohlížeči“ níže) — najdete tam úplný návod k instalaci i tlačítko ke stažení.</p>",
-      "authorsHtml": "<p>PERTIM CZ</p>",
-      "size": "23.2 MB",
-      "inDevelopment": false,
-      "mirrors": [
-        {
-          "label": "Komunitní překlady",
-          "url": "https://komunitni-preklady.org/download/928?sig=Gf9MIcV4rDMGK0r6iBf7iA",
-          "kind": "direct"
-        }
-      ]
-    },
-    {
       "title": "Sacred Gold",
       "studio": "Komunitní překlady",
       "studioUrl": "https://komunitni-preklady.org/preklad/sacred-gold",
@@ -725,7 +999,7 @@
       "hasNeuralDub": false,
       "hasNeuralText": false,
       "version": null,
-      "updatedAt": "15.08.2026",
+      "updatedAt": "27.08.2026",
       "requiredGameVersion": null,
       "pageUrl": "https://komunitni-preklady.org/preklad/hell-of-fear-mind-breach",
       "howToInstallHtml": "<p>Každý překlad má vlastní postup instalace. Otevřete stránku překladu (tlačítko „Otevřít v prohlížeči“ níže) — najdete tam úplný návod k instalaci i tlačítko ke stažení.</p>",
@@ -1472,7 +1746,7 @@
       "hasNeuralDub": false,
       "hasNeuralText": true,
       "version": null,
-      "updatedAt": "20.08.2026",
+      "updatedAt": "24.08.2026",
       "requiredGameVersion": null,
       "pageUrl": "https://komunitni-preklady.org/preklad/restory-chill-electronics-repairs",
       "howToInstallHtml": "<p>Každý překlad má vlastní postup instalace. Otevřete stránku překladu (tlačítko „Otevřít v prohlížeči“ níže) — najdete tam úplný návod k instalaci i tlačítko ke stažení.</p>",
@@ -1623,28 +1897,6 @@
       "steamAppId": "3144860"
     },
     {
-      "title": "Ground Zero",
-      "studio": "Komunitní překlady",
-      "studioUrl": "https://komunitni-preklady.org/preklad/ground-zero",
-      "language": "Čeština",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": null,
-      "updatedAt": "20.08.2026",
-      "requiredGameVersion": null,
-      "pageUrl": "https://komunitni-preklady.org/preklad/ground-zero",
-      "howToInstallHtml": "<p>Každý překlad má vlastní postup instalace. Otevřete stránku překladu (tlačítko „Otevřít v prohlížeči“ níže) — najdete tam úplný návod k instalaci i tlačítko ke stažení.</p>",
-      "authorsHtml": "<p>PERTIM CZ</p>",
-      "size": null,
-      "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "2340130"
-    },
-    {
       "title": "Crow Country",
       "studio": "Komunitní překlady",
       "studioUrl": "https://komunitni-preklady.org/preklad/crow-country",
@@ -1768,7 +2020,7 @@
       "hasNeuralDub": false,
       "hasNeuralText": false,
       "version": null,
-      "updatedAt": "21.08.2026",
+      "updatedAt": "27.08.2026",
       "requiredGameVersion": null,
       "pageUrl": "https://komunitni-preklady.org/preklad/metal-gear-solid-4-guns-of-the-patriots-master-collection-vol2",
       "howToInstallHtml": "<p>Každý překlad má vlastní postup instalace. Otevřete stránku překladu (tlačítko „Otevřít v prohlížeči“ níže) — najdete tam úplný návod k instalaci i tlačítko ke stažení.</p>",
@@ -1790,7 +2042,7 @@
       "hasNeuralDub": false,
       "hasNeuralText": false,
       "version": null,
-      "updatedAt": "21.08.2026",
+      "updatedAt": "27.08.2026",
       "requiredGameVersion": null,
       "pageUrl": "https://komunitni-preklady.org/preklad/metal-gear-solid-peace-walker-master-collection-vol2",
       "howToInstallHtml": "<p>Každý překlad má vlastní postup instalace. Otevřete stránku překladu (tlačítko „Otevřít v prohlížeči“ níže) — najdete tam úplný návod k instalaci i tlačítko ke stažení.</p>",
@@ -1812,7 +2064,7 @@
       "hasNeuralDub": false,
       "hasNeuralText": false,
       "version": null,
-      "updatedAt": "19.08.2026",
+      "updatedAt": "27.08.2026",
       "requiredGameVersion": null,
       "pageUrl": "https://komunitni-preklady.org/preklad/metal-gear-solid-2-sons-of-liberty-master-collection",
       "howToInstallHtml": "<p>Každý překlad má vlastní postup instalace. Otevřete stránku překladu (tlačítko „Otevřít v prohlížeči“ níže) — najdete tam úplný návod k instalaci i tlačítko ke stažení.</p>",
@@ -2019,34 +2271,6 @@
       "steamAppId": "356040"
     },
     {
-      "title": "60 Seconds! Reatomized",
-      "studio": "Komunitní překlady",
-      "studioUrl": "https://komunitni-preklady.org/preklad/60-seconds-reatomized",
-      "language": "Čeština",
-      "hasText": false,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": true,
-      "version": "1.0.3",
-      "updatedAt": "02.08.2026",
-      "requiredGameVersion": "1.1.9.0",
-      "pageUrl": "https://komunitni-preklady.org/preklad/60-seconds-reatomized",
-      "howToInstallHtml": "<p>Každý překlad má vlastní postup instalace. Otevřete stránku překladu (tlačítko „Otevřít v prohlížeči“ níže) — najdete tam úplný návod k instalaci i tlačítko ke stažení.</p>",
-      "authorsHtml": "<p>Ironvale Localization</p>",
-      "size": "44.7 MB",
-      "inDevelopment": false,
-      "mirrors": [
-        {
-          "label": "Komunitní překlady",
-          "url": "https://komunitni-preklady.org/download/877?sig=pWZKkhr6mmeYlTzbKSyIkw",
-          "kind": "direct"
-        }
-      ],
-      "steamAppId": "1012880"
-    },
-    {
       "title": "Gold Mining Simulator",
       "studio": "Komunitní překlady",
       "studioUrl": "https://komunitni-preklady.org/preklad/gold-mining-simulator",
@@ -2073,34 +2297,6 @@
         }
       ],
       "steamAppId": "451340"
-    },
-    {
-      "title": "60 Parsecs!",
-      "studio": "Komunitní překlady",
-      "studioUrl": "https://komunitni-preklady.org/preklad/60-parsecs",
-      "language": "Čeština",
-      "hasText": false,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": true,
-      "version": "1.0.1",
-      "updatedAt": "01.08.2026",
-      "requiredGameVersion": "1.7.0 build 22332285",
-      "pageUrl": "https://komunitni-preklady.org/preklad/60-parsecs",
-      "howToInstallHtml": "<p>Každý překlad má vlastní postup instalace. Otevřete stránku překladu (tlačítko „Otevřít v prohlížeči“ níže) — najdete tam úplný návod k instalaci i tlačítko ke stažení.</p>",
-      "authorsHtml": "<p>Ironvale Localization</p>",
-      "size": "21.5 MB",
-      "inDevelopment": false,
-      "mirrors": [
-        {
-          "label": "Komunitní překlady",
-          "url": "https://komunitni-preklady.org/download/879?sig=39y2TVLOOZeoMYcaWkSRPQ",
-          "kind": "direct"
-        }
-      ],
-      "steamAppId": "646270"
     },
     {
       "title": "Borderlands 4",
@@ -2699,34 +2895,6 @@
         }
       ],
       "steamAppId": "2975950"
-    },
-    {
-      "title": "Global Rescue",
-      "studio": "Komunitní překlady",
-      "studioUrl": "https://komunitni-preklady.org/preklad/global-rescue",
-      "language": "Čeština",
-      "hasText": false,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": true,
-      "version": "0.1",
-      "updatedAt": "17.07.2026",
-      "requiredGameVersion": "0.4.10",
-      "pageUrl": "https://komunitni-preklady.org/preklad/global-rescue",
-      "howToInstallHtml": "<p>Každý překlad má vlastní postup instalace. Otevřete stránku překladu (tlačítko „Otevřít v prohlížeči“ níže) — najdete tam úplný návod k instalaci i tlačítko ke stažení.</p>",
-      "authorsHtml": "<p>Livi8D</p>",
-      "size": "465.9 MB",
-      "inDevelopment": false,
-      "mirrors": [
-        {
-          "label": "Komunitní překlady",
-          "url": "https://komunitni-preklady.org/download/867?sig=gqWwbD_jErU-coWQc02bYg",
-          "kind": "direct"
-        }
-      ],
-      "steamAppId": "2873660"
     },
     {
       "title": "Into the Dead: Our Darkest Days",
@@ -4167,34 +4335,6 @@
         }
       ],
       "steamAppId": "666140"
-    },
-    {
-      "title": "1666: Amsterdam",
-      "studio": "Komunitní překlady",
-      "studioUrl": "https://komunitni-preklady.org/preklad/1666-amsterdam",
-      "language": "Čeština",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": "0.1",
-      "updatedAt": "14.06.2026",
-      "requiredGameVersion": null,
-      "pageUrl": "https://komunitni-preklady.org/preklad/1666-amsterdam",
-      "howToInstallHtml": "<p>Každý překlad má vlastní postup instalace. Otevřete stránku překladu (tlačítko „Otevřít v prohlížeči“ níže) — najdete tam úplný návod k instalaci i tlačítko ke stažení.</p>",
-      "authorsHtml": "<p>DarkMatterDavson</p>",
-      "size": "1.50 MB",
-      "inDevelopment": false,
-      "mirrors": [
-        {
-          "label": "Komunitní překlady",
-          "url": "https://komunitni-preklady.org/download/827?sig=skmj5XN7M-w1Suguio1XGw",
-          "kind": "direct"
-        }
-      ],
-      "steamAppId": "3949550"
     },
     {
       "title": "SOULMASK",
@@ -7957,34 +8097,6 @@
           "kind": "direct"
         }
       ]
-    },
-    {
-      "title": "Rustler",
-      "studio": "Komunitní překlady",
-      "studioUrl": "https://komunitni-preklady.org/preklad/rustler",
-      "language": "Čeština",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": "1.0",
-      "updatedAt": "10.02.2026",
-      "requiredGameVersion": "Steam 1.37.25, Epic 1.54.06",
-      "pageUrl": "https://komunitni-preklady.org/preklad/rustler",
-      "howToInstallHtml": "<p>Každý překlad má vlastní postup instalace. Otevřete stránku překladu (tlačítko „Otevřít v prohlížeči“ níže) — najdete tam úplný návod k instalaci i tlačítko ke stažení.</p>",
-      "authorsHtml": "<p>Sumilek86</p>",
-      "size": "7.30 MB",
-      "inDevelopment": false,
-      "mirrors": [
-        {
-          "label": "Komunitní překlady",
-          "url": "https://komunitni-preklady.org/download/612?sig=BRwVNxO5ll7B8mWXMuH4dg",
-          "kind": "direct"
-        }
-      ],
-      "steamAppId": "844260"
     },
     {
       "title": "Battlefield V",
@@ -16039,8 +16151,7 @@
           "url": "https://komunitni-preklady.org/download/168?sig=WKsXbvwpyPJDtjI9YIFw5g",
           "kind": "direct"
         }
-      ],
-      "steamAppId": "235600"
+      ]
     },
     {
       "title": "Urban Chaos",
@@ -17306,7 +17417,7 @@
           "kind": "direct"
         }
       ],
-      "steamAppId": "302080"
+      "steamAppId": "1366950"
     },
     {
       "title": "Codename Eagles",
@@ -17651,11 +17762,11 @@
       "hasNeuralDub": false,
       "hasNeuralText": true,
       "version": null,
-      "updatedAt": "21.08.2026",
+      "updatedAt": "27.08.2026",
       "requiredGameVersion": null,
       "pageUrl": "https://komunitni-preklady.org/preklad/divinity-ii-dragon-knight-saga-",
       "howToInstallHtml": "<p>Každý překlad má vlastní postup instalace. Otevřete stránku překladu (tlačítko „Otevřít v prohlížeči“ níže) — najdete tam úplný návod k instalaci i tlačítko ke stažení.</p>",
-      "authorsHtml": "<p>Ďáblorožec</p>",
+      "authorsHtml": "<p>SK/CZECH preklady</p>",
       "size": null,
       "inDevelopment": true,
       "mirrors": []
