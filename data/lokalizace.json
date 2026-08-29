@@ -321,6 +321,33 @@
       "steamAppId": "2178380"
     },
     {
+      "title": "Toys in the Dark: Rebirth",
+      "studio": "Lokalizace.net",
+      "studioUrl": "https://lokalizace.net/localizations/toys-in-the-dark-rebirth",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": "1.0.0",
+      "updatedAt": "29.08.2026",
+      "pageUrl": "https://lokalizace.net/localizations/toys-in-the-dark-rebirth",
+      "howToInstallHtml": "<p>Stáhněte ZIP soubor a rozbalte ho do složky hry, nebo použijte aplikaci CZManager pro automatickou instalaci češtiny.</p>",
+      "changelogHtml": "<div><p><strong>Nová verze 1.0.0</strong></p><p>První Vydání</p></div>",
+      "authorsHtml": "<p>GamerView Translations</p>",
+      "size": "48 KB",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Lokalizace.net",
+          "url": "https://lokalizace.net/api/download/1788",
+          "kind": "direct"
+        }
+      ]
+    },
+    {
       "title": "The Legend of Kyrandia: Malcolm's Revenge - CZ dabing",
       "studio": "Lokalizace.net",
       "studioUrl": "https://lokalizace.net/localizations/the-legend-of-kyrandia-malcolm-s-revenge-cz-dabing",
@@ -4384,18 +4411,18 @@
       "hasNeuralVoice": false,
       "hasNeuralDub": false,
       "hasNeuralText": false,
-      "version": "1.0.2",
-      "updatedAt": "24.08.2026",
+      "version": "1.0.3",
+      "updatedAt": "28.08.2026",
       "pageUrl": "https://lokalizace.net/localizations/turok-dinosaur-hunter-remastered",
       "howToInstallHtml": "<p>Stáhněte ZIP soubor a rozbalte ho do složky hry, nebo použijte aplikaci CZManager pro automatickou instalaci češtiny.</p>",
-      "changelogHtml": "<div><p><strong>Nová verze 1.0.2</strong></p><p>Opravené fonty, pridaná diakritika. Je potrebné prepnúť v nastaveniach jazyk na NEMČINU</p></div>",
+      "changelogHtml": "<div><p><strong>Nová verze 1.0.3</strong></p><p>Ešte jedna posledná úprava</p></div>",
       "authorsHtml": "<p>PERTIM</p>",
-      "size": "202 KB",
+      "size": "203 KB",
       "inDevelopment": false,
       "mirrors": [
         {
           "label": "Lokalizace.net",
-          "url": "https://lokalizace.net/api/download/1772",
+          "url": "https://lokalizace.net/api/download/1787",
           "kind": "direct"
         }
       ]
@@ -18854,7 +18881,7 @@
       "size": null,
       "inDevelopment": true,
       "mirrors": [],
-      "steamAppId": "4906320"
+      "steamAppId": "1361000"
     },
     {
       "title": "The Whispered World Special Edition",
@@ -20381,27 +20408,6 @@
       "inDevelopment": true,
       "mirrors": [],
       "steamAppId": "1716740"
-    },
-    {
-      "title": "Toys in the Dark: Rebirth",
-      "studio": "Lokalizace.net",
-      "studioUrl": "https://lokalizace.net/localizations/toys-in-the-dark-rebirth",
-      "language": "Čeština",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": null,
-      "updatedAt": null,
-      "pageUrl": "https://lokalizace.net/localizations/toys-in-the-dark-rebirth",
-      "howToInstallHtml": "<p>Stáhněte ZIP soubor a rozbalte ho do složky hry, nebo použijte aplikaci CZManager pro automatickou instalaci češtiny.</p>",
-      "changelogHtml": null,
-      "authorsHtml": "<p>GamerView Translations</p>",
-      "size": null,
-      "inDevelopment": true,
-      "mirrors": []
     },
     {
       "title": "Monolith",
