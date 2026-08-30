@@ -284,34 +284,6 @@
       "steamAppId": "839770"
     },
     {
-      "title": "Frostpunk 2",
-      "studio": "HerníPřeklady",
-      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/frostpunk-2",
-      "language": "Čeština",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": "1.07",
-      "updatedAt": "20.02.2026",
-      "requiredGameVersion": "1.5.4",
-      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/frostpunk-2",
-      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
-      "authorsHtml": "<p><strong>Překlad:</strong> Jetro, Ralph Shepard,<br><strong>Testování:</strong> Jetro, Andrewek</p>",
-      "inDevelopment": false,
-      "size": "3.27 MB",
-      "mirrors": [
-        {
-          "label": "HerníPřeklady",
-          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=527",
-          "kind": "direct"
-        }
-      ],
-      "steamAppId": "1601580"
-    },
-    {
       "title": "Titanfall 2",
       "studio": "HerníPřeklady",
       "studioUrl": "https://hernipreklady.cz/seznam-prekladu/titanfall-2",
@@ -1663,6 +1635,34 @@
         }
       ],
       "steamAppId": "1373960"
+    },
+    {
+      "title": "Frostpunk 2",
+      "studio": "HerníPřeklady",
+      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/frostpunk-2",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": "1.07",
+      "updatedAt": "20.02.2026",
+      "requiredGameVersion": "1.5.4",
+      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/frostpunk-2",
+      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
+      "authorsHtml": "<p><strong>Překlad:</strong> Jetro, Ralph Shepard,<br><strong>Testování:</strong> Jetro, Andrewek</p>",
+      "inDevelopment": false,
+      "size": "3.27 MB",
+      "mirrors": [
+        {
+          "label": "HerníPřeklady",
+          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=527",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "1601580"
     },
     {
       "title": "Alone in the Dark",

@@ -6744,31 +6744,6 @@
           "label": "Lokalizace.net",
           "url": "https://lokalizace.net/api/download/986",
           "kind": "direct"
-        },
-        {
-          "label": "Версия 1.3.6",
-          "url": "https://lokalizace.net/api/download/932",
-          "kind": "other"
-        },
-        {
-          "label": "Версия 1.2.5",
-          "url": "https://lokalizace.net/api/download/902",
-          "kind": "other"
-        },
-        {
-          "label": "Версия 1.0.8",
-          "url": "https://lokalizace.net/api/download/889",
-          "kind": "other"
-        },
-        {
-          "label": "Версия 1.0.5",
-          "url": "https://lokalizace.net/api/download/880",
-          "kind": "other"
-        },
-        {
-          "label": "Версия 1.0",
-          "url": "https://lokalizace.net/api/download/876",
-          "kind": "other"
         }
       ],
       "steamAppId": "2623190"
@@ -17043,7 +17018,7 @@
           "kind": "direct"
         }
       ],
-      "steamAppId": "1505430"
+      "steamAppId": "212410"
     },
     {
       "title": "Stellaris",
@@ -20020,7 +19995,7 @@
       "updatedAt": "23.08.2026",
       "pageUrl": "https://lokalizace.net/localizations/grand-theft-auto-v-steam",
       "howToInstallHtml": "<p>Stáhněte ZIP soubor a rozbalte ho do složky hry, nebo použijte aplikaci CZManager pro automatickou instalaci češtiny.</p>",
-      "changelogHtml": "<div><p><strong>Nová verze 3.0.1-Enhanced</strong></p><ul><li><p>verze která funguje na všech platformách</p></li></ul><p></p></div>",
+      "changelogHtml": "<div><p><strong>Nová verze 3.0.1-Enhanced</strong></p><ul><li><p>verze která funguje na všech OS</p></li><li><p>testovan byl pouze steam</p></li></ul><p style=\"text-align: center\"><span style=\"color: rgb(249, 115, 22)\"><strong>Tahle verze je úplně stejná jako ta předtím, ničím se neliší. Jen je určena pro VIP/Supporter only.</strong></span></p></div>",
       "authorsHtml": "<p>Lokalizace.Net</p>",
       "size": "3.39 GB",
       "inDevelopment": false,
@@ -20101,6 +20076,50 @@
       "inDevelopment": true,
       "mirrors": [],
       "steamAppId": "2369390"
+    },
+    {
+      "title": "Arctic Awakening",
+      "studio": "Lokalizace.net",
+      "studioUrl": "https://lokalizace.net/localizations/arctic-awakening",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": null,
+      "updatedAt": null,
+      "pageUrl": "https://lokalizace.net/localizations/arctic-awakening",
+      "howToInstallHtml": "<p>Stáhněte ZIP soubor a rozbalte ho do složky hry, nebo použijte aplikaci CZManager pro automatickou instalaci češtiny.</p>",
+      "changelogHtml": null,
+      "authorsHtml": "<p>PERTIM</p>",
+      "size": null,
+      "inDevelopment": true,
+      "mirrors": [],
+      "steamAppId": "1275550"
+    },
+    {
+      "title": "Baldi's Basics Classic Remastered",
+      "studio": "Lokalizace.net",
+      "studioUrl": "https://lokalizace.net/localizations/baldi-s-basics-classic-remastered",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": null,
+      "updatedAt": null,
+      "pageUrl": "https://lokalizace.net/localizations/baldi-s-basics-classic-remastered",
+      "howToInstallHtml": "<p>Stáhněte ZIP soubor a rozbalte ho do složky hry, nebo použijte aplikaci CZManager pro automatickou instalaci češtiny.</p>",
+      "changelogHtml": null,
+      "authorsHtml": "<p>GamerView Translations</p>",
+      "size": null,
+      "inDevelopment": true,
+      "mirrors": [],
+      "steamAppId": "1712830"
     },
     {
       "title": "Assassin's Creed II - Titulky & Dabing",
