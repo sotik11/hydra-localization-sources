@@ -108,10 +108,10 @@
       "language": "Magyar",
       "hasText": true,
       "hasVoice": false,
-      "version": "1.05",
-      "updatedAt": "28.08.2026",
+      "version": "1.06",
+      "updatedAt": "29.08.2026",
       "requiredGameVersion": "1.5.1 2608271531",
-      "size": "220 KB",
+      "size": "351 KB",
       "pageUrl": "https://magyaritasok.hu/games/big-walk",
       "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
       "authorsHtml": "<p>The_Reaper_CooL</p>",
@@ -119,7 +119,7 @@
       "mirrors": [
         {
           "label": "Magyarítások",
-          "url": "https://magyaritasok.hu/dl/BigWalk/BigWalk_HUN_by_TRC_1.05.zip",
+          "url": "https://magyaritasok.hu/dl/BigWalk/BigWalk_HUN_by_TRC_1.06.zip",
           "kind": "direct"
         }
       ]
@@ -1466,9 +1466,9 @@
       "language": "Magyar",
       "hasText": true,
       "hasVoice": false,
-      "version": "1.06",
-      "updatedAt": "17.08.2026",
-      "requiredGameVersion": "1.8 (367303 / 10)",
+      "version": "1.07",
+      "updatedAt": "29.08.2026",
+      "requiredGameVersion": "1.9 (368137 / 11)",
       "size": "25 KB",
       "pageUrl": "https://magyaritasok.hu/games/reanimal",
       "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
@@ -1477,7 +1477,7 @@
       "mirrors": [
         {
           "label": "Magyarítások",
-          "url": "https://magyaritasok.hu/dl/Reanimal/REANIMAL_Hun_by_TRC_1.06.zip",
+          "url": "https://magyaritasok.hu/dl/Reanimal/REANIMAL_Hun_by_TRC_1.07.zip",
           "kind": "direct"
         }
       ]
@@ -2298,9 +2298,9 @@
       "language": "Magyar",
       "hasText": true,
       "hasVoice": false,
-      "version": "1.21",
-      "updatedAt": "18.08.2026",
-      "requiredGameVersion": "2.02.a",
+      "version": "1.23",
+      "updatedAt": "29.08.2026",
+      "requiredGameVersion": "2.03.a",
       "size": "13.0 MB",
       "pageUrl": "https://magyaritasok.hu/games/peak--1",
       "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
@@ -2309,7 +2309,7 @@
       "mirrors": [
         {
           "label": "Magyarítások",
-          "url": "https://magyaritasok.hu/dl/PEAK/PEAK_Hun_by_TRC_1.21.zip",
+          "url": "https://magyaritasok.hu/dl/PEAK/PEAK_Hun_by_TRC_1.23.zip",
           "kind": "direct"
         }
       ]
@@ -25075,6 +25075,29 @@
         {
           "label": "Magyarítások",
           "url": "https://magyaritasok.hu/dl/risen2/Risen2hunv1.1.exe",
+          "kind": "direct"
+        }
+      ]
+    },
+    {
+      "title": "The Sims Medieval: Pirates and Nobles",
+      "studio": "Magyarítások",
+      "studioUrl": "https://magyaritasok.hu",
+      "language": "Magyar",
+      "hasText": true,
+      "hasVoice": false,
+      "version": "Beta",
+      "updatedAt": "11.07.2017",
+      "requiredGameVersion": null,
+      "size": "2.82 MB",
+      "pageUrl": "https://magyaritasok.hu/games/the-sims-medieval-pirates-and-nobles",
+      "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
+      "authorsHtml": "<p>Edinyau</p>",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Magyarítások",
+          "url": "https://magyaritasok.hu/dl/TheSimsMedieval/TheSimsMedieval_hun.zip",
           "kind": "direct"
         }
       ]
@@ -48732,13 +48755,13 @@
       "language": "Magyar",
       "hasText": true,
       "hasVoice": false,
-      "version": null,
+      "version": "1.0",
       "updatedAt": "09.02.2015",
       "requiredGameVersion": null,
       "size": "736 KB",
       "pageUrl": "https://magyaritasok.hu/games/supercow",
       "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
-      "authorsHtml": "<p>Druzsba, NightVison</p>",
+      "authorsHtml": "<p>Druzsba</p>",
       "inDevelopment": false,
       "mirrors": [
         {
@@ -50072,7 +50095,7 @@
       "size": "18.5 MB",
       "pageUrl": "https://magyaritasok.hu/games/quest-for-yrolg",
       "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
-      "authorsHtml": "<p>Dunstan</p>",
+      "authorsHtml": null,
       "inDevelopment": false,
       "mirrors": [
         {

@@ -5,6 +5,61 @@
   "siteUrl": "https://komunitni-preklady.org",
   "localizations": [
     {
+      "title": "Tamer: King of Dinosaurs",
+      "studio": "Komunitní překlady",
+      "studioUrl": "https://komunitni-preklady.org/preklad/tamer-king-of-dinosaurs",
+      "language": "Čeština",
+      "hasText": false,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": true,
+      "version": "0.2",
+      "updatedAt": "30.08.2026",
+      "requiredGameVersion": "30.8.2026",
+      "pageUrl": "https://komunitni-preklady.org/preklad/tamer-king-of-dinosaurs",
+      "howToInstallHtml": "<p>Každý překlad má vlastní postup instalace. Otevřete stránku překladu (tlačítko „Otevřít v prohlížeči“ níže) — najdete tam úplný návod k instalaci i tlačítko ke stažení.</p>",
+      "authorsHtml": "<p>Ďáblorožec</p>",
+      "size": "297 KB",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Komunitní překlady",
+          "url": "https://komunitni-preklady.org/download/831?sig=9xAH6ZwWFLY9eE-3_MxGug",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "3026730"
+    },
+    {
+      "title": "Tempest",
+      "studio": "Komunitní překlady",
+      "studioUrl": "https://komunitni-preklady.org/preklad/tempest",
+      "language": "Čeština",
+      "hasText": false,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": true,
+      "version": "1.7.5",
+      "updatedAt": "30.08.2026",
+      "requiredGameVersion": "1.7.5",
+      "pageUrl": "https://komunitni-preklady.org/preklad/tempest",
+      "howToInstallHtml": "<p>Každý překlad má vlastní postup instalace. Otevřete stránku překladu (tlačítko „Otevřít v prohlížeči“ níže) — najdete tam úplný návod k instalaci i tlačítko ke stažení.</p>",
+      "authorsHtml": "<p>Překlady z Masyafu</p>",
+      "size": "56.3 MB",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Komunitní překlady",
+          "url": "https://komunitni-preklady.org/download/954?sig=9a35XU1b7MjBW19tXlLfvw",
+          "kind": "direct"
+        }
+      ]
+    },
+    {
       "title": "Starfield",
       "studio": "Komunitní překlady",
       "studioUrl": "https://komunitni-preklady.org/preklad/starfield-sk",
@@ -15,16 +70,72 @@
       "hasNeuralVoice": false,
       "hasNeuralDub": false,
       "hasNeuralText": true,
-      "version": null,
-      "updatedAt": "29.08.2026",
+      "version": "0.0.4",
+      "updatedAt": "30.08.2026",
       "requiredGameVersion": "1.16.244",
       "pageUrl": "https://komunitni-preklady.org/preklad/starfield-sk",
       "howToInstallHtml": "<p>Každý preklad má vlastný postup inštalácie. Otvorte stránku prekladu (tlačidlo „Otvoriť v prehliadači“ nižšie) — nájdete tam úplný návod na inštaláciu aj tlačidlo na stiahnutie.</p>",
       "authorsHtml": "<p>Flego</p>",
+      "size": "16.6 MB",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Komunitní překlady",
+          "url": "https://komunitni-preklady.org/download/952/steam?sig=J-tLyodgKtG7i2awuSIXsQ",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "1716740"
+    },
+    {
+      "title": "Arctic Awakening",
+      "studio": "Komunitní překlady",
+      "studioUrl": "https://komunitni-preklady.org/preklad/arctic-awakening",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": null,
+      "updatedAt": "30.08.2026",
+      "requiredGameVersion": null,
+      "pageUrl": "https://komunitni-preklady.org/preklad/arctic-awakening",
+      "howToInstallHtml": "<p>Každý překlad má vlastní postup instalace. Otevřete stránku překladu (tlačítko „Otevřít v prohlížeči“ níže) — najdete tam úplný návod k instalaci i tlačítko ke stažení.</p>",
+      "authorsHtml": "<p>PERTIM CZ</p>",
       "size": null,
       "inDevelopment": true,
       "mirrors": [],
-      "steamAppId": "1716740"
+      "steamAppId": "1275550"
+    },
+    {
+      "title": "Mortal Shell II",
+      "studio": "Komunitní překlady",
+      "studioUrl": "https://komunitni-preklady.org/preklad/mortal-shell-ii",
+      "language": "Čeština",
+      "hasText": false,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": true,
+      "version": "0.38",
+      "updatedAt": "29.08.2026",
+      "requiredGameVersion": "29.8.2026",
+      "pageUrl": "https://komunitni-preklady.org/preklad/mortal-shell-ii",
+      "howToInstallHtml": "<p>Každý překlad má vlastní postup instalace. Otevřete stránku překladu (tlačítko „Otevřít v prohlížeči“ níže) — najdete tam úplný návod k instalaci i tlačítko ke stažení.</p>",
+      "authorsHtml": "<p>Ďáblorožec</p>",
+      "size": "459 KB",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Komunitní překlady",
+          "url": "https://komunitni-preklady.org/download/939?sig=b4aWbcyt4pAtGdJmdQvNmQ",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "2584270"
     },
     {
       "title": "Crimson Desert",
@@ -216,34 +327,6 @@
       "steamAppId": "1219860"
     },
     {
-      "title": "Mortal Shell II",
-      "studio": "Komunitní překlady",
-      "studioUrl": "https://komunitni-preklady.org/preklad/mortal-shell-ii",
-      "language": "Čeština",
-      "hasText": false,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": true,
-      "version": "0.36",
-      "updatedAt": "27.08.2026",
-      "requiredGameVersion": "21.8.2026",
-      "pageUrl": "https://komunitni-preklady.org/preklad/mortal-shell-ii",
-      "howToInstallHtml": "<p>Každý překlad má vlastní postup instalace. Otevřete stránku překladu (tlačítko „Otevřít v prohlížeči“ níže) — najdete tam úplný návod k instalaci i tlačítko ke stažení.</p>",
-      "authorsHtml": "<p>Ďáblorožec</p>",
-      "size": "457 KB",
-      "inDevelopment": false,
-      "mirrors": [
-        {
-          "label": "Komunitní překlady",
-          "url": "https://komunitni-preklady.org/download/939?sig=b4aWbcyt4pAtGdJmdQvNmQ",
-          "kind": "direct"
-        }
-      ],
-      "steamAppId": "2584270"
-    },
-    {
       "title": "Fall of Light: Darkest Edition",
       "studio": "Komunitní překlady",
       "studioUrl": "https://komunitni-preklady.org/preklad/fall-of-light-darkest-edition",
@@ -283,7 +366,7 @@
       "hasNeuralDub": false,
       "hasNeuralText": true,
       "version": null,
-      "updatedAt": "29.08.2026",
+      "updatedAt": "30.08.2026",
       "requiredGameVersion": "1.0.11",
       "pageUrl": "https://komunitni-preklady.org/preklad/moldrise",
       "howToInstallHtml": "<p>Každý překlad má vlastní postup instalace. Otevřete stránku překladu (tlačítko „Otevřít v prohlížeči“ níže) — najdete tam úplný návod k instalaci i tlačítko ke stažení.</p>",
@@ -2142,7 +2225,7 @@
       "hasNeuralDub": false,
       "hasNeuralText": false,
       "version": null,
-      "updatedAt": "27.08.2026",
+      "updatedAt": "30.08.2026",
       "requiredGameVersion": null,
       "pageUrl": "https://komunitni-preklady.org/preklad/metal-gear-solid-2-sons-of-liberty-master-collection",
       "howToInstallHtml": "<p>Každý překlad má vlastní postup instalace. Otevřete stránku překladu (tlačítko „Otevřít v prohlížeči“ níže) — najdete tam úplný návod k instalaci i tlačítko ke stažení.</p>",
@@ -4609,34 +4692,6 @@
         }
       ],
       "steamAppId": "526870"
-    },
-    {
-      "title": "Tamer: King of Dinosaurs",
-      "studio": "Komunitní překlady",
-      "studioUrl": "https://komunitni-preklady.org/preklad/tamer-king-of-dinosaurs",
-      "language": "Čeština",
-      "hasText": false,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": true,
-      "version": "0.1",
-      "updatedAt": "09.06.2026",
-      "requiredGameVersion": "9.6.2026",
-      "pageUrl": "https://komunitni-preklady.org/preklad/tamer-king-of-dinosaurs",
-      "howToInstallHtml": "<p>Každý překlad má vlastní postup instalace. Otevřete stránku překladu (tlačítko „Otevřít v prohlížeči“ níže) — najdete tam úplný návod k instalaci i tlačítko ke stažení.</p>",
-      "authorsHtml": "<p>Ďáblorožec</p>",
-      "size": "33 KB",
-      "inDevelopment": false,
-      "mirrors": [
-        {
-          "label": "Komunitní překlady",
-          "url": "https://komunitni-preklady.org/download/831?sig=9xAH6ZwWFLY9eE-3_MxGug",
-          "kind": "direct"
-        }
-      ],
-      "steamAppId": "3026730"
     },
     {
       "title": "Jump Space",
@@ -17496,7 +17551,7 @@
           "kind": "direct"
         }
       ],
-      "steamAppId": "302080"
+      "steamAppId": "1366950"
     },
     {
       "title": "Codename Eagles",
@@ -17841,11 +17896,11 @@
       "hasNeuralDub": false,
       "hasNeuralText": true,
       "version": null,
-      "updatedAt": "29.08.2026",
+      "updatedAt": "30.08.2026",
       "requiredGameVersion": null,
       "pageUrl": "https://komunitni-preklady.org/preklad/divinity-ii-dragon-knight-saga-",
       "howToInstallHtml": "<p>Každý překlad má vlastní postup instalace. Otevřete stránku překladu (tlačítko „Otevřít v prohlížeči“ níže) — najdete tam úplný návod k instalaci i tlačítko ke stažení.</p>",
-      "authorsHtml": "<p>Flego</p>",
+      "authorsHtml": "<p>Ďáblorožec</p>",
       "size": null,
       "inDevelopment": true,
       "mirrors": []
