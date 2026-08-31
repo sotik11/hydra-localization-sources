@@ -5,6 +5,31 @@
   "siteUrl": "https://boosty.to/revoice",
   "localizations": [
     {
+      "steamAppId": "1575990",
+      "title": "Twisted Tower",
+      "studio": "ReVoiceAI",
+      "studioUrl": "https://boosty.to/revoice",
+      "language": "Русский",
+      "hasText": false,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralText": false,
+      "hasNeuralDub": false,
+      "hasNeuralVoice": true,
+      "version": null,
+      "updatedAt": null,
+      "pageUrl": "https://www.playground.ru/twisted_tower/file/twisted_tower_2026_polnaya_ii_ozvuchka_dublyazh_i_zakadr-1870848",
+      "howToInstallHtml": "<p>Нейроозвучка от <strong>ReVoiceAI</strong>. Скачай через одно из зеркал выше (ShareMods — облако, PlayGround — их страница) и запусти <code>.exe</code>-установщик, указав путь к игре. Поддержать авторов можно на их <a href=\"https://boosty.to/revoice\">Boosty</a>.</p>",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Boosty (поддержать авторов)",
+          "url": "https://boosty.to/revoice/posts/674d3d0c-05ce-4c17-8747-8f90cffc3135",
+          "kind": "other"
+        }
+      ]
+    },
+    {
       "title": "Gears of War 2 Hollow",
       "studio": "ReVoiceAI",
       "studioUrl": "https://boosty.to/revoice",

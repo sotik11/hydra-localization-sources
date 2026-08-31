@@ -5,6 +5,33 @@
   "siteUrl": "https://hernipreklady.cz",
   "localizations": [
     {
+      "title": "Anno 117",
+      "studio": "HerníPřeklady",
+      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/anno-117",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": "1.08",
+      "updatedAt": null,
+      "requiredGameVersion": "2.0.1702353+",
+      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/anno-117",
+      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
+      "authorsHtml": "<p><strong>Překlad:</strong> Jetro, Ralph Shepard,<br><strong>Korektura:</strong> Jetro<br><strong>Testování:</strong> Andrewek, Jetro,</p>",
+      "inDevelopment": false,
+      "size": "3.59 MB",
+      "mirrors": [
+        {
+          "label": "HerníPřeklady",
+          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=608",
+          "kind": "direct"
+        }
+      ]
+    },
+    {
       "title": "Terra Invicta",
       "studio": "HerníPřeklady",
       "studioUrl": "https://hernipreklady.cz/seznam-prekladu/terra-invicta",
@@ -201,9 +228,9 @@
       "steamAppId": "1295660"
     },
     {
-      "title": "Anno 117",
+      "title": "Jurassic World Evolution 2",
       "studio": "HerníPřeklady",
-      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/anno-117",
+      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/jurassic-world-evolution-2",
       "language": "Čeština",
       "hasText": true,
       "hasVoice": false,
@@ -211,54 +238,27 @@
       "hasNeuralVoice": false,
       "hasNeuralDub": false,
       "hasNeuralText": false,
-      "version": "1.07",
-      "updatedAt": "26.07.2026",
-      "requiredGameVersion": "1.6.1.1680013+",
-      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/anno-117",
+      "version": "1.15",
+      "updatedAt": "19.06.2025",
+      "requiredGameVersion": "1.11.3 i 1.11.2",
+      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/jurassic-world-evolution-2",
       "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
-      "authorsHtml": "<p><strong>Překlad:</strong> Jetro, Ralph Shepard,<br><strong>Korektura:</strong> Jetro<br><strong>Testování:</strong> Andrewek, Jetro,</p>",
+      "authorsHtml": "<p><strong>Překlad:</strong> Jetro, Coffin Corner, Ralph Shepard<br><strong>Testování:</strong> Jetro, Ralph Shepard, Paras</p>",
       "inDevelopment": false,
-      "size": "3.55 MB",
+      "size": "4.42 MB",
       "mirrors": [
         {
           "label": "HerníPřeklady",
-          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=595",
-          "kind": "direct"
-        }
-      ]
-    },
-    {
-      "title": "Graveyard Keeper",
-      "studio": "HerníPřeklady",
-      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/graveyard-keeper",
-      "language": "Čeština",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": "1.36",
-      "updatedAt": "10.04.2026",
-      "requiredGameVersion": "1.407 (Win / PC)",
-      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/graveyard-keeper",
-      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
-      "authorsHtml": "<p><strong>Překlad:</strong> Jetro<br><strong>Testování:</strong> Jetro, Stan307, pesty, Merelen, Barbar</p>",
-      "inDevelopment": false,
-      "size": "9.77 MB",
-      "mirrors": [
-        {
-          "label": "HerníPřeklady",
-          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=550",
+          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=379",
           "kind": "direct"
         }
       ],
-      "steamAppId": "599140"
+      "steamAppId": "1244460"
     },
     {
-      "title": "Phoenix Point",
+      "title": "No Man's Sky",
       "studio": "HerníPřeklady",
-      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/phoenix-point",
+      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/no-man-s-sky",
       "language": "Čeština",
       "hasText": true,
       "hasVoice": false,
@@ -267,21 +267,21 @@
       "hasNeuralDub": false,
       "hasNeuralText": false,
       "version": null,
-      "updatedAt": "15.12.2025",
-      "requiredGameVersion": "1.3 Firebird",
-      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/phoenix-point",
+      "updatedAt": "13.06.2026",
+      "requiredGameVersion": "6.44_TheSwarm_169781",
+      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/no-man-s-sky",
       "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
-      "authorsHtml": "<p><strong>Překlad:</strong> Ralph Shepard, na začátku Fourd (přešel na technickou stránku) a Electricman (skončil)<br><strong>Technika:</strong> Four d, Adras, Termit</p>",
+      "authorsHtml": "<p><strong>Překlad:</strong> Unread</p>",
       "inDevelopment": false,
-      "size": "2.97 MB",
+      "size": "6.50 MB",
       "mirrors": [
         {
           "label": "HerníPřeklady",
-          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=486",
+          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=580",
           "kind": "direct"
         }
       ],
-      "steamAppId": "839770"
+      "steamAppId": "275850"
     },
     {
       "title": "Titanfall 2",
@@ -880,34 +880,6 @@
         }
       ],
       "steamAppId": "1902960"
-    },
-    {
-      "title": "No Man's Sky",
-      "studio": "HerníPřeklady",
-      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/no-man-s-sky",
-      "language": "Čeština",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": null,
-      "updatedAt": "13.06.2026",
-      "requiredGameVersion": "6.44_TheSwarm_169781",
-      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/no-man-s-sky",
-      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
-      "authorsHtml": "<p><strong>Překlad:</strong> Unread</p>",
-      "inDevelopment": false,
-      "size": "6.50 MB",
-      "mirrors": [
-        {
-          "label": "HerníPřeklady",
-          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=580",
-          "kind": "direct"
-        }
-      ],
-      "steamAppId": "275850"
     },
     {
       "title": "This War of Mine",
@@ -2446,6 +2418,34 @@
       "steamAppId": "1345890"
     },
     {
+      "title": "Graveyard Keeper",
+      "studio": "HerníPřeklady",
+      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/graveyard-keeper",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": "1.36",
+      "updatedAt": "10.04.2026",
+      "requiredGameVersion": "1.407 (Win / PC)",
+      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/graveyard-keeper",
+      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
+      "authorsHtml": "<p><strong>Překlad:</strong> Jetro<br><strong>Testování:</strong> Jetro, Stan307, pesty, Merelen, Barbar</p>",
+      "inDevelopment": false,
+      "size": "9.77 MB",
+      "mirrors": [
+        {
+          "label": "HerníPřeklady",
+          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=550",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "599140"
+    },
+    {
       "title": "Moss",
       "studio": "HerníPřeklady",
       "studioUrl": "https://hernipreklady.cz/seznam-prekladu/moss",
@@ -2697,6 +2697,34 @@
       "steamAppId": "939850"
     },
     {
+      "title": "Phoenix Point",
+      "studio": "HerníPřeklady",
+      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/phoenix-point",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": null,
+      "updatedAt": "15.12.2025",
+      "requiredGameVersion": "1.3 Firebird",
+      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/phoenix-point",
+      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
+      "authorsHtml": "<p><strong>Překlad:</strong> Ralph Shepard, na začátku Fourd (přešel na technickou stránku) a Electricman (skončil)<br><strong>Technika:</strong> Four d, Adras, Termit</p>",
+      "inDevelopment": false,
+      "size": "2.97 MB",
+      "mirrors": [
+        {
+          "label": "HerníPřeklady",
+          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=486",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "839770"
+    },
+    {
       "title": "Atomic Heart",
       "studio": "HerníPřeklady",
       "studioUrl": "https://hernipreklady.cz/seznam-prekladu/atomic-heart",
@@ -2751,34 +2779,6 @@
         }
       ],
       "steamAppId": "1069640"
-    },
-    {
-      "title": "Jurassic World Evolution 2",
-      "studio": "HerníPřeklady",
-      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/jurassic-world-evolution-2",
-      "language": "Čeština",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": "1.15",
-      "updatedAt": "19.06.2025",
-      "requiredGameVersion": "1.11.3 i 1.11.2",
-      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/jurassic-world-evolution-2",
-      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
-      "authorsHtml": "<p><strong>Překlad:</strong> Jetro, Coffin Corner, Ralph Shepard<br><strong>Testování:</strong> Jetro, Ralph Shepard, Paras</p>",
-      "inDevelopment": false,
-      "size": "4.42 MB",
-      "mirrors": [
-        {
-          "label": "HerníPřeklady",
-          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=379",
-          "kind": "direct"
-        }
-      ],
-      "steamAppId": "1244460"
     },
     {
       "title": "Punch Club 2",

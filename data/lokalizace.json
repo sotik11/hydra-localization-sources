@@ -5,6 +5,62 @@
   "siteUrl": "https://lokalizace.net",
   "localizations": [
     {
+      "title": "Dredge",
+      "studio": "Lokalizace.net",
+      "studioUrl": "https://lokalizace.net/localizations/dredge",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": "0.8",
+      "updatedAt": "30.08.2026",
+      "pageUrl": "https://lokalizace.net/localizations/dredge",
+      "howToInstallHtml": "<p>Stáhněte ZIP soubor a rozbalte ho do složky hry, nebo použijte aplikaci CZManager pro automatickou instalaci češtiny.</p>",
+      "changelogHtml": "<div><p>Nahrána nová verze překladu: 0.8</p></div>",
+      "authorsHtml": "<p>MikeCZ</p>",
+      "size": "48.3 MB",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Lokalizace.net",
+          "url": "https://lokalizace.net/api/download/1790",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "1562430"
+    },
+    {
+      "title": "Elder Scrolls IV: Oblivion Remastered (Dabing)",
+      "studio": "Lokalizace.net",
+      "studioUrl": "https://lokalizace.net/localizations/cz-dubbing-do-hry-the-elder-scrolls-iv-oblivion-remastered",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": "1.0.0",
+      "updatedAt": "30.08.2026",
+      "pageUrl": "https://lokalizace.net/localizations/cz-dubbing-do-hry-the-elder-scrolls-iv-oblivion-remastered",
+      "howToInstallHtml": "<p>Stáhněte ZIP soubor a rozbalte ho do složky hry, nebo použijte aplikaci CZManager pro automatickou instalaci češtiny.</p>",
+      "changelogHtml": "<div>Nahrána nová verze překladu: 1.0.0</div>",
+      "authorsHtml": "<p>Czech dubbing</p>",
+      "size": "7.96 GB",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Lokalizace.net",
+          "url": "https://lokalizace.net/api/download/1791",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "2623190"
+    },
+    {
       "title": "Cities in Motion (2011)",
       "studio": "Lokalizace.net",
       "studioUrl": "https://lokalizace.net/localizations/cities-in-motion-2011",
@@ -16780,19 +16836,24 @@
       "hasNeuralVoice": false,
       "hasNeuralDub": false,
       "hasNeuralText": false,
-      "version": "1.3.3",
-      "updatedAt": "25.08.2026",
+      "version": "1.3.4",
+      "updatedAt": "30.08.2026",
       "pageUrl": "https://lokalizace.net/localizations/hollow-knight",
       "howToInstallHtml": "<p>Stáhněte ZIP soubor a rozbalte ho do složky hry, nebo použijte aplikaci CZManager pro automatickou instalaci češtiny.</p>",
-      "changelogHtml": "<div><p><strong>Nová verze 1.3.3</strong></p><p>menší oprava</p><p>Nahrána nová verze překladu: 1.3.2</p><p><strong>Nová verze 1.3.1</strong></p><p>Zote změněné dialogy, Journal změnený popis, Main Menu nové položky</p><p><strong>Nová verze 1.3</strong></p><p>nová verze hry</p><p><strong>Nová verze 1.2</strong></p><p>Přidány fonty</p><p><strong>Nová verze 1.2-beta</strong></p><ul><li><p>Upraveno na novou verzi hry</p></li><li><p>Zatím bez fontů - fonty budou později</p></li><li><p>Nahrazuje Němčinu</p></li><li><p>Scarab ModLoader už není třeba</p></li></ul><p></p></div>",
+      "changelogHtml": "<div><p>Nahrána nová verze překladu: 1.3.4</p><p><strong>Nová verze 1.3.3</strong></p><p>menší oprava</p><p>Nahrána nová verze překladu: 1.3.2</p><p><strong>Nová verze 1.3.1</strong></p><p>Zote změněné dialogy, Journal změnený popis, Main Menu nové položky</p><p><strong>Nová verze 1.3</strong></p><p>nová verze hry</p><p><strong>Nová verze 1.2</strong></p><p>Přidány fonty</p><p><strong>Nová verze 1.2-beta</strong></p><ul><li><p>Upraveno na novou verzi hry</p></li><li><p>Zatím bez fontů - fonty budou později</p></li><li><p>Nahrazuje Němčinu</p></li><li><p>Scarab ModLoader už není třeba</p></li></ul><p></p></div>",
       "authorsHtml": "<p>MikeCZ</p>",
       "size": "33.9 MB",
       "inDevelopment": false,
       "mirrors": [
         {
           "label": "Lokalizace.net",
-          "url": "https://lokalizace.net/api/download/1776",
+          "url": "https://lokalizace.net/api/download/1789",
           "kind": "direct"
+        },
+        {
+          "label": "Версия 1.3.3",
+          "url": "https://lokalizace.net/api/download/1776",
+          "kind": "other"
         },
         {
           "label": "Версия 1.3.2",
@@ -17018,7 +17079,7 @@
           "kind": "direct"
         }
       ],
-      "steamAppId": "212410"
+      "steamAppId": "1505430"
     },
     {
       "title": "Stellaris",
@@ -19995,7 +20056,7 @@
       "updatedAt": "23.08.2026",
       "pageUrl": "https://lokalizace.net/localizations/grand-theft-auto-v-steam",
       "howToInstallHtml": "<p>Stáhněte ZIP soubor a rozbalte ho do složky hry, nebo použijte aplikaci CZManager pro automatickou instalaci češtiny.</p>",
-      "changelogHtml": "<div><p><strong>Nová verze 3.0.1-Enhanced</strong></p><ul><li><p>verze která funguje na všech OS</p></li><li><p>testovan byl pouze steam</p></li></ul><p style=\"text-align: center\"><span style=\"color: rgb(249, 115, 22)\"><strong>Tahle verze je úplně stejná jako ta předtím, ničím se neliší. Jen je určena pro VIP/Supporter only.</strong></span></p></div>",
+      "changelogHtml": "<div><p><strong>Nová verze 3.0.1-Enhanced</strong></p><ul><li><p>verze která funguje na všech OS</p></li><li><p>testovan byl pouze steam</p></li><li><p>nevyžaduje dotnet a ostatní věci. Jsou to přímo soubory</p></li></ul><p style=\"text-align: center\"><span style=\"color: rgb(249, 115, 22)\"><strong>Tahle verze je úplně stejná jako ta předtím, ničím se neliší. Jen je určena pro VIP/Supporter only.</strong></span></p></div>",
       "authorsHtml": "<p>Lokalizace.Net</p>",
       "size": "3.39 GB",
       "inDevelopment": false,
@@ -20013,21 +20074,6 @@
         {
           "label": "Версия 2.2.8 - Legacy",
           "url": "https://lokalizace.net/api/download/1047",
-          "kind": "other"
-        },
-        {
-          "label": "Версия 2.2.8 - Enhanced",
-          "url": "https://lokalizace.net/api/download/1046",
-          "kind": "other"
-        },
-        {
-          "label": "Версия 2.0.8 - Legacy",
-          "url": "https://lokalizace.net/api/download/848",
-          "kind": "other"
-        },
-        {
-          "label": "Версия 2.0.8 - Enhanced",
-          "url": "https://lokalizace.net/api/download/847",
           "kind": "other"
         }
       ],
@@ -20076,6 +20122,28 @@
       "inDevelopment": true,
       "mirrors": [],
       "steamAppId": "2369390"
+    },
+    {
+      "title": "Strange Brigade",
+      "studio": "Lokalizace.net",
+      "studioUrl": "https://lokalizace.net/localizations/strange-brigade",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": null,
+      "updatedAt": null,
+      "pageUrl": "https://lokalizace.net/localizations/strange-brigade",
+      "howToInstallHtml": "<p>Stáhněte ZIP soubor a rozbalte ho do složky hry, nebo použijte aplikaci CZManager pro automatickou instalaci češtiny.</p>",
+      "changelogHtml": null,
+      "authorsHtml": "<p>Lokalizace.Net</p>",
+      "size": null,
+      "inDevelopment": true,
+      "mirrors": [],
+      "steamAppId": "312670"
     },
     {
       "title": "Arctic Awakening",
