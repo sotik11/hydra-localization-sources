@@ -5,6 +5,134 @@
   "siteUrl": "https://komunitni-preklady.org",
   "localizations": [
     {
+      "title": "Metal Gear Solid 4 - Guns of The Patriots (Master collection volume 2)",
+      "studio": "Komunitní překlady",
+      "studioUrl": "https://komunitni-preklady.org/preklad/metal-gear-solid-4-guns-of-the-patriots-master-collection-volume-2",
+      "language": "Čeština",
+      "hasText": false,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": true,
+      "version": "0.1",
+      "updatedAt": "31.08.2026",
+      "requiredGameVersion": null,
+      "pageUrl": "https://komunitni-preklady.org/preklad/metal-gear-solid-4-guns-of-the-patriots-master-collection-volume-2",
+      "howToInstallHtml": "<p>Každý překlad má vlastní postup instalace. Otevřete stránku překladu (tlačítko „Otevřít v prohlížeči“ níže) — najdete tam úplný návod k instalaci i tlačítko ke stažení.</p>",
+      "authorsHtml": "<p>Zergris</p>",
+      "size": "338 KB",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Komunitní překlady",
+          "url": "https://komunitni-preklady.org/download/958?sig=kBCUYOqv4qyLo_os5usOHw",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "2492670"
+    },
+    {
+      "title": "Bright Memory: Infinite",
+      "studio": "Komunitní překlady",
+      "studioUrl": "https://komunitni-preklady.org/preklad/bright-memory-infinite",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": null,
+      "updatedAt": "31.08.2026",
+      "requiredGameVersion": null,
+      "pageUrl": "https://komunitni-preklady.org/preklad/bright-memory-infinite",
+      "howToInstallHtml": "<p>Každý překlad má vlastní postup instalace. Otevřete stránku překladu (tlačítko „Otevřít v prohlížeči“ níže) — najdete tam úplný návod k instalaci i tlačítko ke stažení.</p>",
+      "authorsHtml": "<p>PERTIM CZ</p>",
+      "size": null,
+      "inDevelopment": true,
+      "mirrors": [],
+      "steamAppId": "1178830"
+    },
+    {
+      "title": "Shadow Warrior 2",
+      "studio": "Komunitní překlady",
+      "studioUrl": "https://komunitni-preklady.org/preklad/shadow-warrior-2",
+      "language": "Čeština",
+      "hasText": false,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": true,
+      "version": null,
+      "updatedAt": "30.08.2026",
+      "requiredGameVersion": "1.1.14.0",
+      "pageUrl": "https://komunitni-preklady.org/preklad/shadow-warrior-2",
+      "howToInstallHtml": "<p>Každý překlad má vlastní postup instalace. Otevřete stránku překladu (tlačítko „Otevřít v prohlížeči“ níže) — najdete tam úplný návod k instalaci i tlačítko ke stažení.</p>",
+      "authorsHtml": "<p>Ironvale Localization</p>",
+      "size": null,
+      "inDevelopment": true,
+      "mirrors": [],
+      "steamAppId": "324800"
+    },
+    {
+      "title": "Palia",
+      "studio": "Komunitní překlady",
+      "studioUrl": "https://komunitni-preklady.org/preklad/palia",
+      "language": "Slovenčina",
+      "hasText": false,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": true,
+      "version": "0.5",
+      "updatedAt": "30.08.2026",
+      "requiredGameVersion": "0.206",
+      "pageUrl": "https://komunitni-preklady.org/preklad/palia",
+      "howToInstallHtml": "<p>Každý preklad má vlastný postup inštalácie. Otvorte stránku prekladu (tlačidlo „Otvoriť v prehliadači“ nižšie) — nájdete tam úplný návod na inštaláciu aj tlačidlo na stiahnutie.</p>",
+      "authorsHtml": "<p>Flego</p>",
+      "size": "22.0 MB",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Komunitní překlady",
+          "url": "https://komunitni-preklady.org/download/810?sig=OqsWLLqCuIU2ZZ7Wvq8cng",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "2707930"
+    },
+    {
+      "title": "Elypse",
+      "studio": "Komunitní překlady",
+      "studioUrl": "https://komunitni-preklady.org/preklad/elypse",
+      "language": "Čeština",
+      "hasText": false,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": true,
+      "version": "1.0.18",
+      "updatedAt": "30.08.2026",
+      "requiredGameVersion": "V 1.0.18",
+      "pageUrl": "https://komunitni-preklady.org/preklad/elypse",
+      "howToInstallHtml": "<p>Každý překlad má vlastní postup instalace. Otevřete stránku překladu (tlačítko „Otevřít v prohlížeči“ níže) — najdete tam úplný návod k instalaci i tlačítko ke stažení.</p>",
+      "authorsHtml": "<p>Překlady z Masyafu</p>",
+      "size": "32.6 MB",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Komunitní překlady",
+          "url": "https://komunitni-preklady.org/download/955?sig=Sd7fY3onCbJ1QlYHJNjO2A",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "1725340"
+    },
+    {
       "title": "Tamer: King of Dinosaurs",
       "studio": "Komunitní překlady",
       "studioUrl": "https://komunitni-preklady.org/preklad/tamer-king-of-dinosaurs",
@@ -802,7 +930,7 @@
       "hasNeuralDub": false,
       "hasNeuralText": true,
       "version": null,
-      "updatedAt": "29.08.2026",
+      "updatedAt": "30.08.2026",
       "requiredGameVersion": "Build 24412395",
       "pageUrl": "https://komunitni-preklady.org/preklad/sintopia-cz",
       "howToInstallHtml": "<p>Každý překlad má vlastní postup instalace. Otevřete stránku překladu (tlačítko „Otevřít v prohlížeči“ níže) — najdete tam úplný návod k instalaci i tlačítko ke stažení.</p>",
@@ -1930,7 +2058,7 @@
       "hasNeuralText": true,
       "version": "0.96",
       "updatedAt": "05.08.2026",
-      "requiredGameVersion": null,
+      "requiredGameVersion": "3.1.0 B14",
       "pageUrl": "https://komunitni-preklady.org/preklad/7-days-to-die-30-cz",
       "howToInstallHtml": "<p>Každý překlad má vlastní postup instalace. Otevřete stránku překladu (tlačítko „Otevřít v prohlížeči“ níže) — najdete tam úplný návod k instalaci i tlačítko ke stažení.</p>",
       "authorsHtml": "<p>GREG-RAY CZ</p>",
@@ -2374,34 +2502,6 @@
         }
       ],
       "steamAppId": "4687860"
-    },
-    {
-      "title": "Palia",
-      "studio": "Komunitní překlady",
-      "studioUrl": "https://komunitni-preklady.org/preklad/palia",
-      "language": "Slovenčina",
-      "hasText": false,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": true,
-      "version": "0.4",
-      "updatedAt": "03.08.2026",
-      "requiredGameVersion": "0.205",
-      "pageUrl": "https://komunitni-preklady.org/preklad/palia",
-      "howToInstallHtml": "<p>Každý preklad má vlastný postup inštalácie. Otvorte stránku prekladu (tlačidlo „Otvoriť v prehliadači“ nižšie) — nájdete tam úplný návod na inštaláciu aj tlačidlo na stiahnutie.</p>",
-      "authorsHtml": "<p>Flego</p>",
-      "size": "22.4 MB",
-      "inDevelopment": false,
-      "mirrors": [
-        {
-          "label": "Komunitní překlady",
-          "url": "https://komunitni-preklady.org/download/810?sig=OqsWLLqCuIU2ZZ7Wvq8cng",
-          "kind": "direct"
-        }
-      ],
-      "steamAppId": "2707930"
     },
     {
       "title": "Sheltered",
@@ -15243,8 +15343,8 @@
       "hasNeuralDub": false,
       "hasNeuralText": false,
       "version": "1.0",
-      "updatedAt": "27.04.2026",
-      "requiredGameVersion": null,
+      "updatedAt": "31.08.2026",
+      "requiredGameVersion": "1.0",
       "pageUrl": "https://komunitni-preklady.org/preklad/bright-memory",
       "howToInstallHtml": "<p>Každý překlad má vlastní postup instalace. Otevřete stránku překladu (tlačítko „Otevřít v prohlížeči“ níže) — najdete tam úplný návod k instalaci i tlačítko ke stažení.</p>",
       "authorsHtml": "<p>Mrazíkovy češtiny</p>",
@@ -17896,11 +17996,11 @@
       "hasNeuralDub": false,
       "hasNeuralText": true,
       "version": null,
-      "updatedAt": "30.08.2026",
+      "updatedAt": "31.08.2026",
       "requiredGameVersion": null,
       "pageUrl": "https://komunitni-preklady.org/preklad/divinity-ii-dragon-knight-saga-",
       "howToInstallHtml": "<p>Každý překlad má vlastní postup instalace. Otevřete stránku překladu (tlačítko „Otevřít v prohlížeči“ níže) — najdete tam úplný návod k instalaci i tlačítko ke stažení.</p>",
-      "authorsHtml": "<p>Ďáblorožec</p>",
+      "authorsHtml": "<p>Zergris</p>",
       "size": null,
       "inDevelopment": true,
       "mirrors": []
@@ -18374,7 +18474,7 @@
           "kind": "direct"
         }
       ],
-      "steamAppId": "1159640"
+      "steamAppId": "414740"
     },
     {
       "title": "The Regiment",

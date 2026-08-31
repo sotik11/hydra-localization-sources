@@ -5,6 +5,30 @@
   "siteUrl": "https://magyaritasok.hu",
   "localizations": [
     {
+      "steamAppId": "2778580",
+      "title": "Elden Ring: Shadow of the Erdtree",
+      "studio": "Magyarítások",
+      "studioUrl": "https://magyaritasok.hu",
+      "language": "Magyar",
+      "hasText": true,
+      "hasVoice": false,
+      "version": "1.24",
+      "updatedAt": "31.08.2026",
+      "requiredGameVersion": "1.17",
+      "size": "59.7 MB",
+      "pageUrl": "https://magyaritasok.hu/games/elden-ring-shadow-of-the-erdtree",
+      "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
+      "authorsHtml": "<p>The_Reaper_CooL</p>",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Magyarítások",
+          "url": "https://magyaritasok.hu/dl/EldenRing/EldenRingHUNbyTRC_1.24.zip",
+          "kind": "direct"
+        }
+      ]
+    },
+    {
       "steamAppId": "294660",
       "title": "Putt-Putt Saves the Zoo",
       "studio": "Magyarítások",
@@ -9647,10 +9671,10 @@
       "language": "Magyar",
       "hasText": true,
       "hasVoice": false,
-      "version": "1.23",
-      "updatedAt": "29.05.2026",
-      "requiredGameVersion": "1.16.2",
-      "size": "59.6 MB",
+      "version": "1.24",
+      "updatedAt": "31.08.2026",
+      "requiredGameVersion": "1.17",
+      "size": "59.7 MB",
       "pageUrl": "https://magyaritasok.hu/games/elden-ring",
       "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
       "authorsHtml": "<p>The_Reaper_CooL, Evin</p>",
@@ -9658,7 +9682,7 @@
       "mirrors": [
         {
           "label": "Magyarítások",
-          "url": "https://magyaritasok.hu/dl/EldenRing/EldenRingHUNbyTRC_1.23.zip",
+          "url": "https://magyaritasok.hu/dl/EldenRing/EldenRingHUNbyTRC_1.24.zip",
           "kind": "direct"
         }
       ]
@@ -27626,7 +27650,7 @@
       "hasText": true,
       "hasVoice": false,
       "version": "1.3",
-      "updatedAt": "05.04.2022",
+      "updatedAt": "16.11.2018",
       "requiredGameVersion": "1.20",
       "size": "1.74 MB",
       "pageUrl": "https://magyaritasok.hu/games/rise-of-nations-extended-edition",
@@ -43461,7 +43485,7 @@
       "size": "1.14 MB",
       "pageUrl": "https://magyaritasok.hu/games/in-80-days-around-the-world",
       "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
-      "authorsHtml": "<p>Gmiki és Imyke2000</p>",
+      "authorsHtml": "<p>EVM</p>",
       "inDevelopment": false,
       "mirrors": [
         {
@@ -49313,7 +49337,7 @@
       "size": "677 KB",
       "pageUrl": "https://magyaritasok.hu/games/snowmobile-racing",
       "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
-      "authorsHtml": "<p>Gmiki</p>",
+      "authorsHtml": null,
       "inDevelopment": false,
       "mirrors": [
         {
