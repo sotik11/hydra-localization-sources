@@ -256,6 +256,34 @@
       "steamAppId": "1244460"
     },
     {
+      "title": "The Last Caretaker",
+      "studio": "HerníPřeklady",
+      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/the-last-caretaker",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": "0.93",
+      "updatedAt": "04.07.2026",
+      "requiredGameVersion": "0.8.0.612251",
+      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/the-last-caretaker",
+      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
+      "authorsHtml": "<p><strong>Překlad a test:</strong> Andrewek</p>",
+      "inDevelopment": false,
+      "size": "3.46 MB",
+      "mirrors": [
+        {
+          "label": "HerníPřeklady",
+          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=588",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "1783560"
+    },
+    {
       "title": "No Man's Sky",
       "studio": "HerníPřeklady",
       "studioUrl": "https://hernipreklady.cz/seznam-prekladu/no-man-s-sky",
@@ -612,34 +640,6 @@
         }
       ],
       "steamAppId": "3636620"
-    },
-    {
-      "title": "The Last Caretaker",
-      "studio": "HerníPřeklady",
-      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/the-last-caretaker",
-      "language": "Čeština",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": "0.93",
-      "updatedAt": "04.07.2026",
-      "requiredGameVersion": "0.8.0.612251",
-      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/the-last-caretaker",
-      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
-      "authorsHtml": "<p><strong>Překlad a test:</strong> Andrewek</p>",
-      "inDevelopment": false,
-      "size": "3.46 MB",
-      "mirrors": [
-        {
-          "label": "HerníPřeklady",
-          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=588",
-          "kind": "direct"
-        }
-      ],
-      "steamAppId": "1783560"
     },
     {
       "title": "The Lightkeeper",
