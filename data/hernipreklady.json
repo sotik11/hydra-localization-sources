@@ -5,6 +5,34 @@
   "siteUrl": "https://hernipreklady.cz",
   "localizations": [
     {
+      "title": "The Last Caretaker",
+      "studio": "HerníPřeklady",
+      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/the-last-caretaker",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": "0.94",
+      "updatedAt": null,
+      "requiredGameVersion": "0.8.5.650920",
+      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/the-last-caretaker",
+      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
+      "authorsHtml": "<p><strong>Překlad a test:</strong> Andrewek</p>",
+      "inDevelopment": false,
+      "size": "3.48 MB",
+      "mirrors": [
+        {
+          "label": "HerníPřeklady",
+          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=609",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "1783560"
+    },
+    {
       "title": "Anno 117",
       "studio": "HerníPřeklady",
       "studioUrl": "https://hernipreklady.cz/seznam-prekladu/anno-117",
@@ -200,9 +228,9 @@
       "steamAppId": "2536520"
     },
     {
-      "title": "Civilization VII",
+      "title": "Anno 1800",
       "studio": "HerníPřeklady",
-      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/civilization-vii",
+      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/anno-1800",
       "language": "Čeština",
       "hasText": true,
       "hasVoice": false,
@@ -210,22 +238,22 @@
       "hasNeuralVoice": false,
       "hasNeuralDub": false,
       "hasNeuralText": false,
-      "version": "1.08",
-      "updatedAt": null,
-      "requiredGameVersion": "1.4.2 (PC - Win)",
-      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/civilization-vii",
+      "version": "1.40",
+      "updatedAt": "06.12.2024",
+      "requiredGameVersion": "18.4",
+      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/anno-1800",
       "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
-      "authorsHtml": "<p><strong>Překlad:</strong> Jetro, Ralph Shepard, Coffin Corner, Sushi<br><strong>Korektura:</strong> Jetro<br><strong>Testování:</strong> Ralph Shepard, Andrewek, Jetro</p>",
+      "authorsHtml": "<p><strong>Překlad:</strong> Jetro, Ralph Shepard, Coffin Corner, Mdzirza, Gear<br><strong>Testování:</strong> Jetro, Kondor114, Mdzirza</p>",
       "inDevelopment": false,
-      "size": "3.35 MB",
+      "size": "2.42 MB",
       "mirrors": [
         {
           "label": "HerníPřeklady",
-          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=598",
+          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=297",
           "kind": "direct"
         }
       ],
-      "steamAppId": "1295660"
+      "steamAppId": "916440"
     },
     {
       "title": "Jurassic World Evolution 2",
@@ -254,62 +282,6 @@
         }
       ],
       "steamAppId": "1244460"
-    },
-    {
-      "title": "The Last Caretaker",
-      "studio": "HerníPřeklady",
-      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/the-last-caretaker",
-      "language": "Čeština",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": "0.93",
-      "updatedAt": "04.07.2026",
-      "requiredGameVersion": "0.8.0.612251",
-      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/the-last-caretaker",
-      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
-      "authorsHtml": "<p><strong>Překlad a test:</strong> Andrewek</p>",
-      "inDevelopment": false,
-      "size": "3.46 MB",
-      "mirrors": [
-        {
-          "label": "HerníPřeklady",
-          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=588",
-          "kind": "direct"
-        }
-      ],
-      "steamAppId": "1783560"
-    },
-    {
-      "title": "No Man's Sky",
-      "studio": "HerníPřeklady",
-      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/no-man-s-sky",
-      "language": "Čeština",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": null,
-      "updatedAt": "13.06.2026",
-      "requiredGameVersion": "6.44_TheSwarm_169781",
-      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/no-man-s-sky",
-      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
-      "authorsHtml": "<p><strong>Překlad:</strong> Unread</p>",
-      "inDevelopment": false,
-      "size": "6.50 MB",
-      "mirrors": [
-        {
-          "label": "HerníPřeklady",
-          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=580",
-          "kind": "direct"
-        }
-      ],
-      "steamAppId": "275850"
     },
     {
       "title": "Titanfall 2",
@@ -882,6 +854,34 @@
       "steamAppId": "1902960"
     },
     {
+      "title": "No Man's Sky",
+      "studio": "HerníPřeklady",
+      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/no-man-s-sky",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": null,
+      "updatedAt": "13.06.2026",
+      "requiredGameVersion": "6.44_TheSwarm_169781",
+      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/no-man-s-sky",
+      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
+      "authorsHtml": "<p><strong>Překlad:</strong> Unread</p>",
+      "inDevelopment": false,
+      "size": "6.50 MB",
+      "mirrors": [
+        {
+          "label": "HerníPřeklady",
+          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=580",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "275850"
+    },
+    {
       "title": "This War of Mine",
       "studio": "HerníPřeklady",
       "studioUrl": "https://hernipreklady.cz/seznam-prekladu/this-war-of-mine",
@@ -936,6 +936,34 @@
         }
       ],
       "steamAppId": "361420"
+    },
+    {
+      "title": "Civilization VII",
+      "studio": "HerníPřeklady",
+      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/civilization-vii",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": "1.08",
+      "updatedAt": null,
+      "requiredGameVersion": "1.4.2 (PC - Win)",
+      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/civilization-vii",
+      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
+      "authorsHtml": "<p><strong>Překlad:</strong> Jetro, Ralph Shepard, Coffin Corner, Sushi<br><strong>Korektura:</strong> Jetro<br><strong>Testování:</strong> Ralph Shepard, Andrewek, Jetro</p>",
+      "inDevelopment": false,
+      "size": "3.35 MB",
+      "mirrors": [
+        {
+          "label": "HerníPřeklady",
+          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=598",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "1295660"
     },
     {
       "title": "SCP: Fragmented Minds",
@@ -2499,34 +2527,6 @@
         }
       ],
       "steamAppId": "289070"
-    },
-    {
-      "title": "Anno 1800",
-      "studio": "HerníPřeklady",
-      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/anno-1800",
-      "language": "Čeština",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": "1.40",
-      "updatedAt": "06.12.2024",
-      "requiredGameVersion": "18.4",
-      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/anno-1800",
-      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
-      "authorsHtml": "<p><strong>Překlad:</strong> Jetro, Ralph Shepard, Coffin Corner, Mdzirza, Gear<br><strong>Testování:</strong> Jetro, Kondor114, Mdzirza</p>",
-      "inDevelopment": false,
-      "size": "2.42 MB",
-      "mirrors": [
-        {
-          "label": "HerníPřeklady",
-          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=297",
-          "kind": "direct"
-        }
-      ],
-      "steamAppId": "916440"
     },
     {
       "title": "Disco Elysium - The Final Cut",
