@@ -5,6 +5,28 @@
   "siteUrl": "https://lokalizace.net",
   "localizations": [
     {
+      "title": "Disciples 3 Reincarnation",
+      "studio": "Lokalizace.net",
+      "studioUrl": "https://lokalizace.net/localizations/disciples-3-reincarnation",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": null,
+      "updatedAt": null,
+      "pageUrl": "https://lokalizace.net/localizations/disciples-3-reincarnation",
+      "howToInstallHtml": "<p>Stáhněte ZIP soubor a rozbalte ho do složky hry, nebo použijte aplikaci CZManager pro automatickou instalaci češtiny.</p>",
+      "changelogHtml": null,
+      "authorsHtml": "<p>RetroGameplay_CZ</p>",
+      "size": null,
+      "inDevelopment": true,
+      "mirrors": [],
+      "steamAppId": "10270"
+    },
+    {
       "title": "Vietcong (2003)",
       "studio": "Lokalizace.net",
       "studioUrl": "https://lokalizace.net/localizations/vietcong-2003",
@@ -456,7 +478,7 @@
           "kind": "direct"
         }
       ],
-      "steamAppId": "1175830"
+      "steamAppId": "4172530"
     },
     {
       "title": "The Legend of Kyrandia: Hand Of Fate - CZ dabing",
@@ -484,7 +506,7 @@
           "kind": "direct"
         }
       ],
-      "steamAppId": "1175830"
+      "steamAppId": "4172530"
     },
     {
       "title": "Mass Effect Legendary Edition",
@@ -1645,7 +1667,7 @@
           "kind": "direct"
         }
       ],
-      "steamAppId": "1175830"
+      "steamAppId": "4172530"
     },
     {
       "title": "HumanitZ",
@@ -9158,7 +9180,7 @@
           "kind": "other"
         }
       ],
-      "steamAppId": "1175830"
+      "steamAppId": "4172530"
     },
     {
       "title": "The Legend of Kyrandia: Malcolm's Revenge (1994)",
@@ -9191,7 +9213,7 @@
           "kind": "other"
         }
       ],
-      "steamAppId": "1175830"
+      "steamAppId": "4172530"
     },
     {
       "title": "The Legend of Kyrandia (1992)",
@@ -9224,7 +9246,7 @@
           "kind": "other"
         }
       ],
-      "steamAppId": "1175830"
+      "steamAppId": "4172530"
     },
     {
       "title": "King's Bounty mód Red Sands (2011)",
@@ -20155,6 +20177,28 @@
       "steamAppId": "2369390"
     },
     {
+      "title": "Onimusha: Way of the Sword",
+      "studio": "Lokalizace.net",
+      "studioUrl": "https://lokalizace.net/localizations/onimusha-way-of-the-sword",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": null,
+      "updatedAt": null,
+      "pageUrl": "https://lokalizace.net/localizations/onimusha-way-of-the-sword",
+      "howToInstallHtml": "<p>Stáhněte ZIP soubor a rozbalte ho do složky hry, nebo použijte aplikaci CZManager pro automatickou instalaci češtiny.</p>",
+      "changelogHtml": null,
+      "authorsHtml": "<p>Lokalizace.Net</p>",
+      "size": null,
+      "inDevelopment": true,
+      "mirrors": [],
+      "steamAppId": "2638890"
+    },
+    {
       "title": "Bright Memory: Infinite",
       "studio": "Lokalizace.net",
       "studioUrl": "https://lokalizace.net/localizations/bright-memory-infinite",
@@ -20524,7 +20568,8 @@
       "authorsHtml": "<p>PERTIM</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": []
+      "mirrors": [],
+      "steamAppId": "3859630"
     },
     {
       "title": "METAL GEAR SOLID 4: Guns of the Patriots - Master Collection Vol.2",
@@ -20611,7 +20656,8 @@
       "authorsHtml": "<p>Smile</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": []
+      "mirrors": [],
+      "steamAppId": "1729740"
     },
     {
       "title": "Bye Sweet Carole",
@@ -20742,7 +20788,8 @@
       "authorsHtml": "<p>Sumilek86</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": []
+      "mirrors": [],
+      "steamAppId": "2807960"
     },
     {
       "title": "3 Minutes to Midnight",
@@ -20785,7 +20832,8 @@
       "authorsHtml": "<p>Lokalizace.Net</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": []
+      "mirrors": [],
+      "steamAppId": "801800"
     },
     {
       "title": "Alba: A Wildlife Advent",
@@ -20806,7 +20854,8 @@
       "authorsHtml": "<p>Lokalizace.Net</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": []
+      "mirrors": [],
+      "steamAppId": "1337010"
     },
     {
       "title": "METAL GEAR SOLID 2: Sons of Liberty - Master Collection - Steam",
@@ -20827,7 +20876,8 @@
       "authorsHtml": "<p>PERTIM</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": []
+      "mirrors": [],
+      "steamAppId": "2131640"
     },
     {
       "title": "FF7 Rebirth Demo PC & XBOX",
@@ -21086,7 +21136,8 @@
       "authorsHtml": "<p>ADV Dream</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": []
+      "mirrors": [],
+      "steamAppId": "1358530"
     },
     {
       "title": "The Outlast Trials",
@@ -21129,7 +21180,8 @@
       "authorsHtml": "<p>Mikošek Dubbing</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": []
+      "mirrors": [],
+      "steamAppId": "417860"
     },
     {
       "title": "Deltarune",
@@ -21258,7 +21310,8 @@
       "authorsHtml": "<p>Spid3rCZ</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": []
+      "mirrors": [],
+      "steamAppId": "2807150"
     },
     {
       "title": "Final Fantasy XVI",
