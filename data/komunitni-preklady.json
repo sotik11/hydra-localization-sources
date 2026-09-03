@@ -5,6 +5,117 @@
   "siteUrl": "https://komunitni-preklady.org",
   "localizations": [
     {
+      "title": "Bright Memory: Infinite",
+      "studio": "Komunitní překlady",
+      "studioUrl": "https://komunitni-preklady.org/preklad/bright-memory-infinite",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": "0.0",
+      "updatedAt": "03.09.2026",
+      "requiredGameVersion": null,
+      "pageUrl": "https://komunitni-preklady.org/preklad/bright-memory-infinite",
+      "howToInstallHtml": "<p>Každý překlad má vlastní postup instalace. Otevřete stránku překladu (tlačítko „Otevřít v prohlížeči“ níže) — najdete tam úplný návod k instalaci i tlačítko ke stažení.</p>",
+      "authorsHtml": "<p>PERTIM CZ</p>",
+      "size": "198 KB",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Komunitní překlady",
+          "url": "https://komunitni-preklady.org/download/957?sig=cjM8iQ5NabshJX4Qqbr2_w",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "1178830"
+    },
+    {
+      "title": "Dragon\\u0027s Dogma 2",
+      "studio": "Komunitní překlady",
+      "studioUrl": "https://komunitni-preklady.org/preklad/dragons-dogma-2",
+      "language": "Čeština",
+      "hasText": false,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": true,
+      "version": "045",
+      "updatedAt": "03.09.2026",
+      "requiredGameVersion": "2.9.2026",
+      "pageUrl": "https://komunitni-preklady.org/preklad/dragons-dogma-2",
+      "howToInstallHtml": "<p>Každý překlad má vlastní postup instalace. Otevřete stránku překladu (tlačítko „Otevřít v prohlížeči“ níže) — najdete tam úplný návod k instalaci i tlačítko ke stažení.</p>",
+      "authorsHtml": "<p>Ďáblorožec</p>",
+      "size": "53.1 MB",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Komunitní překlady",
+          "url": "https://komunitni-preklady.org/download/221?sig=H8wwioeYROkLSnned-wqzw",
+          "kind": "direct"
+        }
+      ]
+    },
+    {
+      "title": "Iron Blight",
+      "studio": "Komunitní překlady",
+      "studioUrl": "https://komunitni-preklady.org/preklad/iron-blight",
+      "language": "Čeština",
+      "hasText": false,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": true,
+      "version": "1.04",
+      "updatedAt": "03.09.2026",
+      "requiredGameVersion": "1.04",
+      "pageUrl": "https://komunitni-preklady.org/preklad/iron-blight",
+      "howToInstallHtml": "<p>Každý překlad má vlastní postup instalace. Otevřete stránku překladu (tlačítko „Otevřít v prohlížeči“ níže) — najdete tam úplný návod k instalaci i tlačítko ke stažení.</p>",
+      "authorsHtml": "<p>Ironvale Localization</p>",
+      "size": "205 KB",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Komunitní překlady",
+          "url": "https://komunitni-preklady.org/download/964?sig=ozgayoTMc_V7pWEuG8m9jg",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "4001350"
+    },
+    {
+      "title": "Eldest Souls",
+      "studio": "Komunitní překlady",
+      "studioUrl": "https://komunitni-preklady.org/preklad/eldest-souls",
+      "language": "Čeština",
+      "hasText": false,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": true,
+      "version": "1.1.26",
+      "updatedAt": "02.09.2026",
+      "requiredGameVersion": "V - 1.1.26",
+      "pageUrl": "https://komunitni-preklady.org/preklad/eldest-souls",
+      "howToInstallHtml": "<p>Každý překlad má vlastní postup instalace. Otevřete stránku překladu (tlačítko „Otevřít v prohlížeči“ níže) — najdete tam úplný návod k instalaci i tlačítko ke stažení.</p>",
+      "authorsHtml": "<p>Překlady z Masyafu</p>",
+      "size": "194.2 MB",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Komunitní překlady",
+          "url": "https://komunitni-preklady.org/download/963/steam?sig=7QQYjLhTtTK0w4SMWxY0IQ",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "1108590"
+    },
+    {
       "title": "Assassin\\u0027s Creed: Black Flag Resynced",
       "studio": "Komunitní překlady",
       "studioUrl": "https://komunitni-preklady.org/preklad/assassins-creed-black-flag-resynced",
@@ -441,28 +552,6 @@
         }
       ],
       "steamAppId": "2492670"
-    },
-    {
-      "title": "Bright Memory: Infinite",
-      "studio": "Komunitní překlady",
-      "studioUrl": "https://komunitni-preklady.org/preklad/bright-memory-infinite",
-      "language": "Čeština",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": null,
-      "updatedAt": "31.08.2026",
-      "requiredGameVersion": null,
-      "pageUrl": "https://komunitni-preklady.org/preklad/bright-memory-infinite",
-      "howToInstallHtml": "<p>Každý překlad má vlastní postup instalace. Otevřete stránku překladu (tlačítko „Otevřít v prohlížeči“ níže) — najdete tam úplný návod k instalaci i tlačítko ke stažení.</p>",
-      "authorsHtml": "<p>PERTIM CZ</p>",
-      "size": null,
-      "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "1178830"
     },
     {
       "title": "Shadow Warrior 2",
@@ -4488,33 +4577,6 @@
         }
       ],
       "steamAppId": "3167020"
-    },
-    {
-      "title": "Dragon\\u0027s Dogma 2",
-      "studio": "Komunitní překlady",
-      "studioUrl": "https://komunitni-preklady.org/preklad/dragons-dogma-2",
-      "language": "Čeština",
-      "hasText": false,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": true,
-      "version": "042",
-      "updatedAt": "24.06.2026",
-      "requiredGameVersion": "24.6.2026",
-      "pageUrl": "https://komunitni-preklady.org/preklad/dragons-dogma-2",
-      "howToInstallHtml": "<p>Každý překlad má vlastní postup instalace. Otevřete stránku překladu (tlačítko „Otevřít v prohlížeči“ níže) — najdete tam úplný návod k instalaci i tlačítko ke stažení.</p>",
-      "authorsHtml": "<p>Ďáblorožec</p>",
-      "size": "46.6 MB",
-      "inDevelopment": false,
-      "mirrors": [
-        {
-          "label": "Komunitní překlady",
-          "url": "https://komunitni-preklady.org/download/221?sig=H8wwioeYROkLSnned-wqzw",
-          "kind": "direct"
-        }
-      ]
     },
     {
       "title": "Bylina",
@@ -17760,7 +17822,7 @@
           "kind": "direct"
         }
       ],
-      "steamAppId": "302080"
+      "steamAppId": "1366950"
     },
     {
       "title": "Codename Eagles",
@@ -18105,11 +18167,11 @@
       "hasNeuralDub": false,
       "hasNeuralText": true,
       "version": null,
-      "updatedAt": "02.09.2026",
+      "updatedAt": "03.09.2026",
       "requiredGameVersion": null,
       "pageUrl": "https://komunitni-preklady.org/preklad/divinity-ii-dragon-knight-saga-",
       "howToInstallHtml": "<p>Každý překlad má vlastní postup instalace. Otevřete stránku překladu (tlačítko „Otevřít v prohlížeči“ níže) — najdete tam úplný návod k instalaci i tlačítko ke stažení.</p>",
-      "authorsHtml": "<p>Banditi</p>",
+      "authorsHtml": "<p>PERTIM CZ</p>",
       "size": null,
       "inDevelopment": true,
       "mirrors": []
