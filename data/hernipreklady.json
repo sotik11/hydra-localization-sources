@@ -228,6 +228,28 @@
       "steamAppId": "2536520"
     },
     {
+      "title": "Millennia",
+      "studio": "HerníPřeklady",
+      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/millennia",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": "0.0",
+      "updatedAt": null,
+      "requiredGameVersion": "1.0.23641.F",
+      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/millennia",
+      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
+      "authorsHtml": "<p><strong>Překlad:</strong> Ralph Shepard<br><strong>Technika:</strong> Flu, Luc2as</p>",
+      "inDevelopment": true,
+      "size": null,
+      "mirrors": [],
+      "steamAppId": "1268590"
+    },
+    {
       "title": "Anno 1800",
       "studio": "HerníPřeklady",
       "studioUrl": "https://hernipreklady.cz/seznam-prekladu/anno-1800",
@@ -690,28 +712,6 @@
         }
       ],
       "steamAppId": "3655390"
-    },
-    {
-      "title": "Millennia",
-      "studio": "HerníPřeklady",
-      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/millennia",
-      "language": "Čeština",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": "0.0",
-      "updatedAt": null,
-      "requiredGameVersion": "1.0.23641.F",
-      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/millennia",
-      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
-      "authorsHtml": "<p><strong>Překlad:</strong> Ralph Shepard<br><strong>Technika:</strong> Flu, Luc2as</p>",
-      "inDevelopment": true,
-      "size": null,
-      "mirrors": [],
-      "steamAppId": "1268590"
     },
     {
       "title": "Cronos: The New Dawn",

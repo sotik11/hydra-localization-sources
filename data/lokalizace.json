@@ -15,15 +15,21 @@
       "hasNeuralVoice": false,
       "hasNeuralDub": false,
       "hasNeuralText": false,
-      "version": null,
-      "updatedAt": null,
+      "version": "1.03",
+      "updatedAt": "03.09.2026",
       "pageUrl": "https://lokalizace.net/localizations/disciples-3-reincarnation",
       "howToInstallHtml": "<p>Stáhněte ZIP soubor a rozbalte ho do složky hry, nebo použijte aplikaci CZManager pro automatickou instalaci češtiny.</p>",
-      "changelogHtml": null,
+      "changelogHtml": "<div>Nahrána nová verze překladu: 1.03</div>",
       "authorsHtml": "<p>RetroGameplay_CZ</p>",
-      "size": null,
-      "inDevelopment": true,
-      "mirrors": [],
+      "size": "2.37 GB",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Lokalizace.net",
+          "url": "https://lokalizace.net/api/download/1796",
+          "kind": "direct"
+        }
+      ],
       "steamAppId": "10270"
     },
     {
@@ -52,6 +58,34 @@
           "kind": "direct"
         }
       ]
+    },
+    {
+      "title": "Bright Memory: Infinite",
+      "studio": "Lokalizace.net",
+      "studioUrl": "https://lokalizace.net/localizations/bright-memory-infinite",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": "1.0.0",
+      "updatedAt": "03.09.2026",
+      "pageUrl": "https://lokalizace.net/localizations/bright-memory-infinite",
+      "howToInstallHtml": "<p>Stáhněte ZIP soubor a rozbalte ho do složky hry, nebo použijte aplikaci CZManager pro automatickou instalaci češtiny.</p>",
+      "changelogHtml": "<div><p><strong>Nová verze 1.0.0</strong></p><p>Dokončené a otestované, užite si hru :)</p></div>",
+      "authorsHtml": "<p>PERTIM</p>",
+      "size": "199 KB",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Lokalizace.net",
+          "url": "https://lokalizace.net/api/download/1795",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "1178830"
     },
     {
       "title": "Dredge",
@@ -282,6 +316,44 @@
       "steamAppId": "2450780"
     },
     {
+      "title": "Hello Neighbor 3 Playtest",
+      "studio": "Lokalizace.net",
+      "studioUrl": "https://lokalizace.net/localizations/hello-neighbor-3-playtest",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": "1.0.0",
+      "updatedAt": "03.09.2026",
+      "pageUrl": "https://lokalizace.net/localizations/hello-neighbor-3-playtest",
+      "howToInstallHtml": "<p>Stáhněte ZIP soubor a rozbalte ho do složky hry, nebo použijte aplikaci CZManager pro automatickou instalaci češtiny.</p>",
+      "changelogHtml": "<div><p><strong>Nová verze 1.0.0</strong></p><p>Plnohodnotné Dokončené vydání Překladu.</p><p><strong>Nová verze 0.8</strong></p><p></p><p><strong>Nová verze 0.5</strong></p><p>Alfa Verze Překladu, Může obsahovat chyby či nepřeložený text. Překlad bude dodělán do konce srpna 2026.</p></div>",
+      "authorsHtml": "<p>GamerView Translations</p>",
+      "size": "100 KB",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Lokalizace.net",
+          "url": "https://lokalizace.net/api/download/1798",
+          "kind": "direct"
+        },
+        {
+          "label": "Версия 0.8",
+          "url": "https://lokalizace.net/api/download/1785",
+          "kind": "other"
+        },
+        {
+          "label": "Версия 0.5",
+          "url": "https://lokalizace.net/api/download/1742",
+          "kind": "other"
+        }
+      ],
+      "steamAppId": "2789680"
+    },
+    {
       "title": "Alex Kidd in Miracle World DX",
       "studio": "Lokalizace.net",
       "studioUrl": "https://lokalizace.net/localizations/alex-kidd-in-miracle-world-dx",
@@ -478,7 +550,7 @@
           "kind": "direct"
         }
       ],
-      "steamAppId": "4172530"
+      "steamAppId": "1175830"
     },
     {
       "title": "The Legend of Kyrandia: Hand Of Fate - CZ dabing",
@@ -506,7 +578,7 @@
           "kind": "direct"
         }
       ],
-      "steamAppId": "4172530"
+      "steamAppId": "1175830"
     },
     {
       "title": "Mass Effect Legendary Edition",
@@ -1667,7 +1739,7 @@
           "kind": "direct"
         }
       ],
-      "steamAppId": "4172530"
+      "steamAppId": "1175830"
     },
     {
       "title": "HumanitZ",
@@ -9180,7 +9252,7 @@
           "kind": "other"
         }
       ],
-      "steamAppId": "4172530"
+      "steamAppId": "1175830"
     },
     {
       "title": "The Legend of Kyrandia: Malcolm's Revenge (1994)",
@@ -9213,7 +9285,7 @@
           "kind": "other"
         }
       ],
-      "steamAppId": "4172530"
+      "steamAppId": "1175830"
     },
     {
       "title": "The Legend of Kyrandia (1992)",
@@ -9246,7 +9318,7 @@
           "kind": "other"
         }
       ],
-      "steamAppId": "4172530"
+      "steamAppId": "1175830"
     },
     {
       "title": "King's Bounty mód Red Sands (2011)",
@@ -17132,7 +17204,7 @@
           "kind": "direct"
         }
       ],
-      "steamAppId": "1505430"
+      "steamAppId": "212410"
     },
     {
       "title": "Stellaris",
@@ -20199,28 +20271,6 @@
       "steamAppId": "2638890"
     },
     {
-      "title": "Bright Memory: Infinite",
-      "studio": "Lokalizace.net",
-      "studioUrl": "https://lokalizace.net/localizations/bright-memory-infinite",
-      "language": "Čeština",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": null,
-      "updatedAt": null,
-      "pageUrl": "https://lokalizace.net/localizations/bright-memory-infinite",
-      "howToInstallHtml": "<p>Stáhněte ZIP soubor a rozbalte ho do složky hry, nebo použijte aplikaci CZManager pro automatickou instalaci češtiny.</p>",
-      "changelogHtml": null,
-      "authorsHtml": "<p>PERTIM</p>",
-      "size": null,
-      "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "1178830"
-    },
-    {
       "title": "Strange Brigade",
       "studio": "Lokalizace.net",
       "studioUrl": "https://lokalizace.net/localizations/strange-brigade",
@@ -20504,28 +20554,6 @@
       "inDevelopment": true,
       "mirrors": [],
       "steamAppId": "568090"
-    },
-    {
-      "title": "STAR WARS Zero Company™",
-      "studio": "Lokalizace.net",
-      "studioUrl": "https://lokalizace.net/localizations/star-wars-zero-company",
-      "language": "Čeština",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": null,
-      "updatedAt": null,
-      "pageUrl": "https://lokalizace.net/localizations/star-wars-zero-company",
-      "howToInstallHtml": "<p>Stáhněte ZIP soubor a rozbalte ho do složky hry, nebo použijte aplikaci CZManager pro automatickou instalaci češtiny.</p>",
-      "changelogHtml": null,
-      "authorsHtml": "<p>Lokalizace.Net</p>",
-      "size": null,
-      "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "2075800"
     },
     {
       "title": "Fable (2027)",
