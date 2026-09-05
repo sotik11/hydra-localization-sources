@@ -250,9 +250,9 @@
       "steamAppId": "1268590"
     },
     {
-      "title": "Anno 1800",
+      "title": "Invisible Inc.",
       "studio": "HerníPřeklady",
-      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/anno-1800",
+      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/invisible-inc",
       "language": "Čeština",
       "hasText": true,
       "hasVoice": false,
@@ -260,50 +260,22 @@
       "hasNeuralVoice": false,
       "hasNeuralDub": false,
       "hasNeuralText": false,
-      "version": "1.40",
-      "updatedAt": "06.12.2024",
-      "requiredGameVersion": "18.4",
-      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/anno-1800",
+      "version": "1.04",
+      "updatedAt": "06.02.2024",
+      "requiredGameVersion": "build 282350 (z 21. 8. 2018)",
+      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/invisible-inc",
       "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
-      "authorsHtml": "<p><strong>Překlad:</strong> Jetro, Ralph Shepard, Coffin Corner, Mdzirza, Gear<br><strong>Testování:</strong> Jetro, Kondor114, Mdzirza</p>",
+      "authorsHtml": "<p><strong>Překlad:</strong> Jetro<br><strong>Testování:</strong> Jetro</p>",
       "inDevelopment": false,
-      "size": "2.42 MB",
+      "size": "1.76 MB",
       "mirrors": [
         {
           "label": "HerníPřeklady",
-          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=297",
+          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=130",
           "kind": "direct"
         }
       ],
-      "steamAppId": "916440"
-    },
-    {
-      "title": "Jurassic World Evolution 2",
-      "studio": "HerníPřeklady",
-      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/jurassic-world-evolution-2",
-      "language": "Čeština",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": "1.15",
-      "updatedAt": "19.06.2025",
-      "requiredGameVersion": "1.11.3 i 1.11.2",
-      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/jurassic-world-evolution-2",
-      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
-      "authorsHtml": "<p><strong>Překlad:</strong> Jetro, Coffin Corner, Ralph Shepard<br><strong>Testování:</strong> Jetro, Ralph Shepard, Paras</p>",
-      "inDevelopment": false,
-      "size": "4.42 MB",
-      "mirrors": [
-        {
-          "label": "HerníPřeklady",
-          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=379",
-          "kind": "direct"
-        }
-      ],
-      "steamAppId": "1244460"
+      "steamAppId": "243970"
     },
     {
       "title": "Titanfall 2",
@@ -2529,6 +2501,34 @@
       "steamAppId": "289070"
     },
     {
+      "title": "Anno 1800",
+      "studio": "HerníPřeklady",
+      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/anno-1800",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": "1.40",
+      "updatedAt": "06.12.2024",
+      "requiredGameVersion": "18.4",
+      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/anno-1800",
+      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
+      "authorsHtml": "<p><strong>Překlad:</strong> Jetro, Ralph Shepard, Coffin Corner, Mdzirza, Gear<br><strong>Testování:</strong> Jetro, Kondor114, Mdzirza</p>",
+      "inDevelopment": false,
+      "size": "2.42 MB",
+      "mirrors": [
+        {
+          "label": "HerníPřeklady",
+          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=297",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "916440"
+    },
+    {
       "title": "Disco Elysium - The Final Cut",
       "studio": "HerníPřeklady",
       "studioUrl": "https://hernipreklady.cz/seznam-prekladu/disco-elysium-the-final-cut",
@@ -2779,6 +2779,34 @@
         }
       ],
       "steamAppId": "1069640"
+    },
+    {
+      "title": "Jurassic World Evolution 2",
+      "studio": "HerníPřeklady",
+      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/jurassic-world-evolution-2",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": "1.15",
+      "updatedAt": "19.06.2025",
+      "requiredGameVersion": "1.11.3 i 1.11.2",
+      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/jurassic-world-evolution-2",
+      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
+      "authorsHtml": "<p><strong>Překlad:</strong> Jetro, Coffin Corner, Ralph Shepard<br><strong>Testování:</strong> Jetro, Ralph Shepard, Paras</p>",
+      "inDevelopment": false,
+      "size": "4.42 MB",
+      "mirrors": [
+        {
+          "label": "HerníPřeklady",
+          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=379",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "1244460"
     },
     {
       "title": "Punch Club 2",
@@ -5029,34 +5057,6 @@
         }
       ],
       "steamAppId": "633360"
-    },
-    {
-      "title": "Invisible Inc.",
-      "studio": "HerníPřeklady",
-      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/invisible-inc",
-      "language": "Čeština",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": "1.04",
-      "updatedAt": "06.02.2024",
-      "requiredGameVersion": "build 282350 (z 21. 8. 2018)",
-      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/invisible-inc",
-      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
-      "authorsHtml": "<p><strong>Překlad:</strong> Jetro<br><strong>Testování:</strong> Jetro</p>",
-      "inDevelopment": false,
-      "size": "1.76 MB",
-      "mirrors": [
-        {
-          "label": "HerníPřeklady",
-          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=130",
-          "kind": "direct"
-        }
-      ],
-      "steamAppId": "243970"
     },
     {
       "title": "Startup Company",
