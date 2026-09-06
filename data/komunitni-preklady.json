@@ -5,6 +5,202 @@
   "siteUrl": "https://komunitni-preklady.org",
   "localizations": [
     {
+      "title": "StarRupture",
+      "studio": "Komunitní překlady",
+      "studioUrl": "https://komunitni-preklady.org/preklad/starrupture",
+      "language": "Čeština",
+      "hasText": false,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": true,
+      "version": "0.321",
+      "updatedAt": "06.09.2026",
+      "requiredGameVersion": "0.3.2.",
+      "pageUrl": "https://komunitni-preklady.org/preklad/starrupture",
+      "howToInstallHtml": "<p>Každý překlad má vlastní postup instalace. Otevřete stránku překladu (tlačítko „Otevřít v prohlížeči“ níže) — najdete tam úplný návod k instalaci i tlačítko ke stažení.</p>",
+      "authorsHtml": "<p>Kružítko</p>",
+      "size": "2.00 MB",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Komunitní překlady",
+          "url": "https://komunitni-preklady.org/download/473?sig=Mk2dJLMHIN8wjfXUnH8t_Q",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "1631270"
+    },
+    {
+      "title": "Starship Troopers: Ultimate Bug War!",
+      "studio": "Komunitní překlady",
+      "studioUrl": "https://komunitni-preklady.org/preklad/starship-troopers-ultimate-bug-war",
+      "language": "Čeština",
+      "hasText": false,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": true,
+      "version": "1.0",
+      "updatedAt": "06.09.2026",
+      "requiredGameVersion": "1.2.0",
+      "pageUrl": "https://komunitni-preklady.org/preklad/starship-troopers-ultimate-bug-war",
+      "howToInstallHtml": "<p>Každý překlad má vlastní postup instalace. Otevřete stránku překladu (tlačítko „Otevřít v prohlížeči“ níže) — najdete tam úplný návod k instalaci i tlačítko ke stažení.</p>",
+      "authorsHtml": "<p>Ironvale Localization</p>",
+      "size": "1.50 MB",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Komunitní překlady",
+          "url": "https://komunitni-preklady.org/download/753?sig=xToE0lgK4TxbSsAec5lryQ",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "2321780"
+    },
+    {
+      "title": "Inzoi",
+      "studio": "Komunitní překlady",
+      "studioUrl": "https://komunitni-preklady.org/preklad/inzoi",
+      "language": "Čeština",
+      "hasText": false,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": true,
+      "version": "0.24.3",
+      "updatedAt": "06.09.2026",
+      "requiredGameVersion": "20260624.13421.W",
+      "pageUrl": "https://komunitni-preklady.org/preklad/inzoi",
+      "howToInstallHtml": "<p>Každý překlad má vlastní postup instalace. Otevřete stránku překladu (tlačítko „Otevřít v prohlížeči“ níže) — najdete tam úplný návod k instalaci i tlačítko ke stažení.</p>",
+      "authorsHtml": "<p>Lokalizační penetrátor</p>",
+      "size": "8.10 MB",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Komunitní překlady",
+          "url": "https://komunitni-preklady.org/download/325?sig=DwHuwLvgABn_to2S_4Ocfw",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "2456740"
+    },
+    {
+      "title": "Nioh 3",
+      "studio": "Komunitní překlady",
+      "studioUrl": "https://komunitni-preklady.org/preklad/nioh-3",
+      "language": "Čeština",
+      "hasText": false,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": true,
+      "version": "0.34",
+      "updatedAt": "06.09.2026",
+      "requiredGameVersion": null,
+      "pageUrl": "https://komunitni-preklady.org/preklad/nioh-3",
+      "howToInstallHtml": "<p>Každý překlad má vlastní postup instalace. Otevřete stránku překladu (tlačítko „Otevřít v prohlížeči“ níže) — najdete tam úplný návod k instalaci i tlačítko ke stažení.</p>",
+      "authorsHtml": "<p>Ďáblorožec</p>",
+      "size": "193.4 MB",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Komunitní překlady",
+          "url": "https://komunitni-preklady.org/download/679?sig=Fd9RB2kLpNLFZbaMomxJtg",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "3681010"
+    },
+    {
+      "title": "HELL OF FEAR: Mind Breach",
+      "studio": "Komunitní překlady",
+      "studioUrl": "https://komunitni-preklady.org/preklad/hell-of-fear-mind-breach",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": "1.0",
+      "updatedAt": "06.09.2026",
+      "requiredGameVersion": null,
+      "pageUrl": "https://komunitni-preklady.org/preklad/hell-of-fear-mind-breach",
+      "howToInstallHtml": "<p>Každý překlad má vlastní postup instalace. Otevřete stránku překladu (tlačítko „Otevřít v prohlížeči“ níže) — najdete tam úplný návod k instalaci i tlačítko ke stažení.</p>",
+      "authorsHtml": "<p>PERTIM CZ</p>",
+      "size": "92.5 MB",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Komunitní překlady",
+          "url": "https://komunitni-preklady.org/download/931?sig=j9LSXPjXZS-9ncvI8ASwRA",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "3372090"
+    },
+    {
+      "title": "Call to Arms - Gates of Hell: Ostfront",
+      "studio": "Komunitní překlady",
+      "studioUrl": "https://komunitni-preklady.org/preklad/call-to-arms-gates-of-hell-ostfront",
+      "language": "Čeština",
+      "hasText": false,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": true,
+      "version": "0.4",
+      "updatedAt": "05.09.2026",
+      "requiredGameVersion": "1.0.5.7",
+      "pageUrl": "https://komunitni-preklady.org/preklad/call-to-arms-gates-of-hell-ostfront",
+      "howToInstallHtml": "<p>Každý překlad má vlastní postup instalace. Otevřete stránku překladu (tlačítko „Otevřít v prohlížeči“ níže) — najdete tam úplný návod k instalaci i tlačítko ke stažení.</p>",
+      "authorsHtml": "<p>Rangarsons</p>",
+      "size": "816 KB",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Komunitní překlady",
+          "url": "https://komunitni-preklady.org/download/967?sig=P7mthXB7vd3UYxg2wrwGmQ",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "400750"
+    },
+    {
+      "title": "STAR WARS Zero Company",
+      "studio": "Komunitní překlady",
+      "studioUrl": "https://komunitni-preklady.org/preklad/star-wars-zero-company",
+      "language": "Čeština",
+      "hasText": false,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": true,
+      "version": "1.0",
+      "updatedAt": "05.09.2026",
+      "requiredGameVersion": null,
+      "pageUrl": "https://komunitni-preklady.org/preklad/star-wars-zero-company",
+      "howToInstallHtml": "<p>Každý překlad má vlastní postup instalace. Otevřete stránku překladu (tlačítko „Otevřít v prohlížeči“ níže) — najdete tam úplný návod k instalaci i tlačítko ke stažení.</p>",
+      "authorsHtml": "<p>Rangarsons</p>",
+      "size": "2.10 MB",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Komunitní překlady",
+          "url": "https://komunitni-preklady.org/download/966?sig=hErKvAy3OVnzOseBrEXlcg",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "2075800"
+    },
+    {
       "title": "Subnautica 2",
       "studio": "Komunitní překlady",
       "studioUrl": "https://komunitni-preklady.org/preklad/subnautica-2",
@@ -59,62 +255,6 @@
         }
       ],
       "steamAppId": "1377380"
-    },
-    {
-      "title": "STAR WARS Zero Company",
-      "studio": "Komunitní překlady",
-      "studioUrl": "https://komunitni-preklady.org/preklad/star-wars-zero-company",
-      "language": "Čeština",
-      "hasText": false,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": true,
-      "version": "0.91a",
-      "updatedAt": "05.09.2026",
-      "requiredGameVersion": null,
-      "pageUrl": "https://komunitni-preklady.org/preklad/star-wars-zero-company",
-      "howToInstallHtml": "<p>Každý překlad má vlastní postup instalace. Otevřete stránku překladu (tlačítko „Otevřít v prohlížeči“ níže) — najdete tam úplný návod k instalaci i tlačítko ke stažení.</p>",
-      "authorsHtml": "<p>Rangarsons</p>",
-      "size": "2.10 MB",
-      "inDevelopment": false,
-      "mirrors": [
-        {
-          "label": "Komunitní překlady",
-          "url": "https://komunitni-preklady.org/download/966?sig=hErKvAy3OVnzOseBrEXlcg",
-          "kind": "direct"
-        }
-      ],
-      "steamAppId": "2075800"
-    },
-    {
-      "title": "Call to Arms - Gates of Hell: Ostfront",
-      "studio": "Komunitní překlady",
-      "studioUrl": "https://komunitni-preklady.org/preklad/call-to-arms-gates-of-hell-ostfront",
-      "language": "Čeština",
-      "hasText": false,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": true,
-      "version": "0.2",
-      "updatedAt": "05.09.2026",
-      "requiredGameVersion": "1.0.5.7",
-      "pageUrl": "https://komunitni-preklady.org/preklad/call-to-arms-gates-of-hell-ostfront",
-      "howToInstallHtml": "<p>Každý překlad má vlastní postup instalace. Otevřete stránku překladu (tlačítko „Otevřít v prohlížeči“ níže) — najdete tam úplný návod k instalaci i tlačítko ke stažení.</p>",
-      "authorsHtml": "<p>Rangarsons</p>",
-      "size": "399 KB",
-      "inDevelopment": false,
-      "mirrors": [
-        {
-          "label": "Komunitní překlady",
-          "url": "https://komunitni-preklady.org/download/967?sig=P7mthXB7vd3UYxg2wrwGmQ",
-          "kind": "direct"
-        }
-      ],
-      "steamAppId": "400750"
     },
     {
       "title": "Serious Sam 3: BFE",
@@ -1514,34 +1654,6 @@
       "steamAppId": "1371980"
     },
     {
-      "title": "Nioh 3",
-      "studio": "Komunitní překlady",
-      "studioUrl": "https://komunitni-preklady.org/preklad/nioh-3",
-      "language": "Čeština",
-      "hasText": false,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": true,
-      "version": "0.33",
-      "updatedAt": "19.08.2026",
-      "requiredGameVersion": null,
-      "pageUrl": "https://komunitni-preklady.org/preklad/nioh-3",
-      "howToInstallHtml": "<p>Každý překlad má vlastní postup instalace. Otevřete stránku překladu (tlačítko „Otevřít v prohlížeči“ níže) — najdete tam úplný návod k instalaci i tlačítko ke stažení.</p>",
-      "authorsHtml": "<p>Ďáblorožec</p>",
-      "size": "193.4 MB",
-      "inDevelopment": false,
-      "mirrors": [
-        {
-          "label": "Komunitní překlady",
-          "url": "https://komunitni-preklady.org/download/679?sig=Fd9RB2kLpNLFZbaMomxJtg",
-          "kind": "direct"
-        }
-      ],
-      "steamAppId": "3681010"
-    },
-    {
       "title": "Warhammer 40,000 Rogue Trader",
       "studio": "Komunitní překlady",
       "studioUrl": "https://komunitni-preklady.org/preklad/warhammer-40000-rogue-trader",
@@ -1848,28 +1960,6 @@
         }
       ],
       "steamAppId": "12320"
-    },
-    {
-      "title": "HELL OF FEAR: Mind Breach",
-      "studio": "Komunitní překlady",
-      "studioUrl": "https://komunitni-preklady.org/preklad/hell-of-fear-mind-breach",
-      "language": "Čeština",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": null,
-      "updatedAt": "04.09.2026",
-      "requiredGameVersion": null,
-      "pageUrl": "https://komunitni-preklady.org/preklad/hell-of-fear-mind-breach",
-      "howToInstallHtml": "<p>Každý překlad má vlastní postup instalace. Otevřete stránku překladu (tlačítko „Otevřít v prohlížeči“ níže) — najdete tam úplný návod k instalaci i tlačítko ke stažení.</p>",
-      "authorsHtml": "<p>PERTIM CZ</p>",
-      "size": null,
-      "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "3372090"
     },
     {
       "title": "Turok 3: Shadow of Oblivion Remastered",
@@ -2869,7 +2959,7 @@
       "hasNeuralDub": false,
       "hasNeuralText": false,
       "version": null,
-      "updatedAt": "30.08.2026",
+      "updatedAt": "06.09.2026",
       "requiredGameVersion": null,
       "pageUrl": "https://komunitni-preklady.org/preklad/metal-gear-solid-2-sons-of-liberty-master-collection",
       "howToInstallHtml": "<p>Každý překlad má vlastní postup instalace. Otevřete stránku překladu (tlačítko „Otevřít v prohlížeči“ níže) — najdete tam úplný návod k instalaci i tlačítko ke stažení.</p>",
@@ -4591,34 +4681,6 @@
       "steamAppId": "2695570"
     },
     {
-      "title": "Inzoi",
-      "studio": "Komunitní překlady",
-      "studioUrl": "https://komunitni-preklady.org/preklad/inzoi",
-      "language": "Čeština",
-      "hasText": false,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": true,
-      "version": "0.24.2",
-      "updatedAt": "27.06.2026",
-      "requiredGameVersion": "20260624.13421.W",
-      "pageUrl": "https://komunitni-preklady.org/preklad/inzoi",
-      "howToInstallHtml": "<p>Každý překlad má vlastní postup instalace. Otevřete stránku překladu (tlačítko „Otevřít v prohlížeči“ níže) — najdete tam úplný návod k instalaci i tlačítko ke stažení.</p>",
-      "authorsHtml": "<p>Lokalizační penetrátor</p>",
-      "size": "7.90 MB",
-      "inDevelopment": false,
-      "mirrors": [
-        {
-          "label": "Komunitní překlady",
-          "url": "https://komunitni-preklady.org/download/325?sig=DwHuwLvgABn_to2S_4Ocfw",
-          "kind": "direct"
-        }
-      ],
-      "steamAppId": "2456740"
-    },
-    {
       "title": "Ghostrunner",
       "studio": "Komunitní překlady",
       "studioUrl": "https://komunitni-preklady.org/preklad/ghostrunner",
@@ -6321,34 +6383,6 @@
       "steamAppId": "1067850"
     },
     {
-      "title": "StarRupture",
-      "studio": "Komunitní překlady",
-      "studioUrl": "https://komunitni-preklady.org/preklad/starrupture",
-      "language": "Čeština",
-      "hasText": false,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": true,
-      "version": "0.202",
-      "updatedAt": "12.04.2026",
-      "requiredGameVersion": "0.2.0.",
-      "pageUrl": "https://komunitni-preklady.org/preklad/starrupture",
-      "howToInstallHtml": "<p>Každý překlad má vlastní postup instalace. Otevřete stránku překladu (tlačítko „Otevřít v prohlížeči“ níže) — najdete tam úplný návod k instalaci i tlačítko ke stažení.</p>",
-      "authorsHtml": "<p>Kružítko</p>",
-      "size": "1.90 MB",
-      "inDevelopment": false,
-      "mirrors": [
-        {
-          "label": "Komunitní překlady",
-          "url": "https://komunitni-preklady.org/download/473?sig=Mk2dJLMHIN8wjfXUnH8t_Q",
-          "kind": "direct"
-        }
-      ],
-      "steamAppId": "1631270"
-    },
-    {
       "title": "Amanda the Adventurer - Kolekce 1-3 CZ",
       "studio": "Komunitní překlady",
       "studioUrl": "https://komunitni-preklady.org/preklad/amanda-the-adventurer-kolekce-1-3-cz",
@@ -6866,34 +6900,6 @@
       "inDevelopment": true,
       "mirrors": [],
       "steamAppId": "3491390"
-    },
-    {
-      "title": "Starship Troopers: Ultimate Bug War!",
-      "studio": "Komunitní překlady",
-      "studioUrl": "https://komunitni-preklady.org/preklad/starship-troopers-ultimate-bug-war",
-      "language": "Čeština",
-      "hasText": false,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": true,
-      "version": "0.1",
-      "updatedAt": "21.03.2026",
-      "requiredGameVersion": "Build 22263018",
-      "pageUrl": "https://komunitni-preklady.org/preklad/starship-troopers-ultimate-bug-war",
-      "howToInstallHtml": "<p>Každý překlad má vlastní postup instalace. Otevřete stránku překladu (tlačítko „Otevřít v prohlížeči“ níže) — najdete tam úplný návod k instalaci i tlačítko ke stažení.</p>",
-      "authorsHtml": "<p>Záhrobní Češtiny</p>",
-      "size": "1.20 MB",
-      "inDevelopment": false,
-      "mirrors": [
-        {
-          "label": "Komunitní překlady",
-          "url": "https://komunitni-preklady.org/download/753?sig=xToE0lgK4TxbSsAec5lryQ",
-          "kind": "direct"
-        }
-      ],
-      "steamAppId": "2321780"
     },
     {
       "title": "Jurassic World Evolution 3",
@@ -17890,7 +17896,7 @@
           "kind": "direct"
         }
       ],
-      "steamAppId": "302080"
+      "steamAppId": "1366950"
     },
     {
       "title": "Codename Eagles",
@@ -18235,11 +18241,11 @@
       "hasNeuralDub": false,
       "hasNeuralText": true,
       "version": null,
-      "updatedAt": "05.09.2026",
+      "updatedAt": "06.09.2026",
       "requiredGameVersion": null,
       "pageUrl": "https://komunitni-preklady.org/preklad/divinity-ii-dragon-knight-saga-",
       "howToInstallHtml": "<p>Každý překlad má vlastní postup instalace. Otevřete stránku překladu (tlačítko „Otevřít v prohlížeči“ níže) — najdete tam úplný návod k instalaci i tlačítko ke stažení.</p>",
-      "authorsHtml": "<p>NeonFox Loc</p>",
+      "authorsHtml": "<p>Kružítko</p>",
       "size": null,
       "inDevelopment": true,
       "mirrors": []
