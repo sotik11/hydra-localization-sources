@@ -393,17 +393,17 @@
       "hasNeuralVoice": false,
       "hasNeuralDub": false,
       "hasNeuralText": false,
-      "version": "1",
-      "updatedAt": "15.07.2026",
+      "version": "2",
+      "updatedAt": "05.09.2026",
       "pageUrl": "https://www.calypsoceviri.com/turkce-yamalar/the-mound-omen-of-cthullu-turkce-yama-indir",
       "howToInstallHtml": "<div>Aşağıda vermiş olduğumuz linkten indirdiğiniz Rar dosyasındaki Türkçe Yama exesini, oyunun kurulu olduğu ana dosya konumuna atarak, Türkçe yama exesini çalıştırın. Oyunun ana dosya konumunun seçili olduğunu kontrol ettikten sonra, hangi platformdan oynuyorsanız, o platformun yükle butonuna basarak yamayı yükleyebilirsiniz. <br><br>Yamayı kaldırmak isterseniz, oyunun dosya konumundaki \"TheMound_YamaKaldır.exe\"'si üzerinden kaldırabilirsiniz.</div>",
       "authorsHtml": "<p>CrimsonSwift, VolkTyson</p>",
-      "size": "3.82 MB",
+      "size": "4.41 MB",
       "inDevelopment": false,
       "mirrors": [
         {
           "label": "Calypso Çeviri",
-          "url": "https://www.calypsoceviri.com/_files/archives/7d262d_a4d52ea8076f4c548d87bfd2fbc24c99.rar?dn=The%2520Mound%2520Omen%2520of%2520Cthullu%2520T%25C3%25BCrk%25C3%25A7e%2520Yama%2520V1.rar",
+          "url": "https://www.calypsoceviri.com/_files/archives/7d262d_349ccfbc198c4b7bbe2e4d0ea45ea7f5.zip?dn=The%2520Mound%2520Omen%2520of%2520Cthullu%2520T%25C3%25BCrk%25C3%25A7e%2520Yama%2520V2.zip",
           "kind": "direct"
         }
       ],
@@ -4907,6 +4907,33 @@
         }
       ],
       "steamAppId": "2680010"
+    },
+    {
+      "title": "Undead Inc",
+      "studio": "Calypso Çeviri",
+      "studioUrl": "https://www.calypsoceviri.com",
+      "language": "Türkçe",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": null,
+      "updatedAt": "23.06.2026",
+      "pageUrl": "https://www.calypsoceviri.com/turkce-yamalar/undead-inc-turkce-yama-indir",
+      "howToInstallHtml": "<div>Aşağıda vermiş olduğumuz linkten indirdiğiniz Rar dosyasındaki Türkçe Yama exesini, oyunun kurulu olduğu ana dosya konumuna atarak, Türkçe yama exesini çalıştırın. Oyunun ana dosya konumunun seçili olduğunu kontrol ettikten sonra, hangi platformdan oynuyorsanız, o platformun yükle butonuna basarak yamayı yükleyebilirsiniz.<br><br>Yamayı kaldırmak için dosya konumundaki UndeadInc_YamaKaldır.exe den yamayı kaldırabilirsiniz.</div>",
+      "authorsHtml": "<p>VolkTyson</p>",
+      "size": "1.75 MB",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Calypso Çeviri",
+          "url": "https://www.calypsoceviri.com/_files/archives/7d262d_e573b4980b514cc6ad6a1b9bdfb4b0e8.rar?dn=Undead%2520Inc%2520T%25C3%25BCrk%25C3%25A7e%2520Yama.rar",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "2104880"
     },
     {
       "title": "The Bridge Curse 2: The Extrication",

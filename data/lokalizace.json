@@ -288,6 +288,34 @@
       "steamAppId": "205840"
     },
     {
+      "title": "HELL OF FEAR Mind Breach",
+      "studio": "Lokalizace.net",
+      "studioUrl": "https://lokalizace.net/localizations/hell-of-fear-mind-breach",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": "1.0.0",
+      "updatedAt": "06.09.2026",
+      "pageUrl": "https://lokalizace.net/localizations/hell-of-fear-mind-breach",
+      "howToInstallHtml": "<p>Stáhněte ZIP soubor a rozbalte ho do složky hry, nebo použijte aplikaci CZManager pro automatickou instalaci češtiny.</p>",
+      "changelogHtml": "<div><p><strong>Nová verze 1.0.0</strong></p><p>Hotovo. Opravené, otestované</p></div>",
+      "authorsHtml": "<p>PERTIM</p>",
+      "size": "92.5 MB",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Lokalizace.net",
+          "url": "https://lokalizace.net/api/download/1803",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "3372090"
+    },
+    {
       "title": "Rainbow Gate",
       "studio": "Lokalizace.net",
       "studioUrl": "https://lokalizace.net/localizations/rainbow-gate",
@@ -17090,33 +17118,23 @@
       "hasNeuralVoice": false,
       "hasNeuralDub": false,
       "hasNeuralText": false,
-      "version": "1.21",
-      "updatedAt": "01.05.2026",
+      "version": "1.22",
+      "updatedAt": "05.09.2026",
       "pageUrl": "https://lokalizace.net/localizations/the-planet-crafter",
       "howToInstallHtml": "<p>Stáhněte ZIP soubor a rozbalte ho do složky hry, nebo použijte aplikaci CZManager pro automatickou instalaci češtiny.</p>",
-      "changelogHtml": "<div><p>Nahrána nová verze překladu: 1.21</p><p>Nahrána nová verze překladu: 1.20</p><p><strong>Nová verze 1.19</strong></p><p><span style=\"font-family: Inter, system-ui, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, sans-serif; font-size: 14px; color: oklch(0.6 0.02 280);\">Úprava pro verzi hry 1.618</span></p><p><strong>Nová verze 1.18</strong></p><p><span style=\"font-family: Inter, system-ui, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, sans-serif; color: oklch(0.6 0.02 280);\">Úprava pro verzi hry 1.617</span></p></div>",
+      "changelogHtml": "<div><p>Nahrána nová verze překladu: 1.22</p><p>Nahrána nová verze překladu: 1.21</p></div>",
       "authorsHtml": "<p>Lukyn92</p>",
-      "size": "1.20 MB",
+      "size": "1.30 MB",
       "inDevelopment": false,
       "mirrors": [
         {
           "label": "Lokalizace.net",
-          "url": "https://lokalizace.net/api/download/1496",
+          "url": "https://lokalizace.net/api/download/1800",
           "kind": "direct"
         },
         {
-          "label": "Версия 1.20",
-          "url": "https://lokalizace.net/api/download/1441",
-          "kind": "other"
-        },
-        {
-          "label": "Версия 1.19",
-          "url": "https://lokalizace.net/api/download/1205",
-          "kind": "other"
-        },
-        {
-          "label": "Версия 1.18",
-          "url": "https://lokalizace.net/api/download/1158",
+          "label": "Версия 1.21",
+          "url": "https://lokalizace.net/api/download/1496",
           "kind": "other"
         }
       ],
@@ -20422,28 +20440,6 @@
       "inDevelopment": true,
       "mirrors": [],
       "steamAppId": "731490"
-    },
-    {
-      "title": "HELL OF FEAR Mind Breach",
-      "studio": "Lokalizace.net",
-      "studioUrl": "https://lokalizace.net/localizations/hell-of-fear-mind-breach",
-      "language": "Čeština",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": null,
-      "updatedAt": null,
-      "pageUrl": "https://lokalizace.net/localizations/hell-of-fear-mind-breach",
-      "howToInstallHtml": "<p>Stáhněte ZIP soubor a rozbalte ho do složky hry, nebo použijte aplikaci CZManager pro automatickou instalaci češtiny.</p>",
-      "changelogHtml": null,
-      "authorsHtml": "<p>PERTIM</p>",
-      "size": null,
-      "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "3372090"
     },
     {
       "title": "Five Nights at Freddy's 2",
