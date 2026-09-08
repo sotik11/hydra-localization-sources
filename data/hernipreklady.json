@@ -5,6 +5,34 @@
   "siteUrl": "https://hernipreklady.cz",
   "localizations": [
     {
+      "title": "Cthulhu: The Cosmic Abyss",
+      "studio": "HerníPřeklady",
+      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/cthulhu-the-cosmic-abyss",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": "1.00",
+      "updatedAt": null,
+      "requiredGameVersion": "Aktuální na Steamu",
+      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/cthulhu-the-cosmic-abyss",
+      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
+      "authorsHtml": null,
+      "inDevelopment": false,
+      "size": "2.16 MB",
+      "mirrors": [
+        {
+          "label": "HerníPřeklady",
+          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=610",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "2760560"
+    },
+    {
       "title": "The Last Caretaker",
       "studio": "HerníPřeklady",
       "studioUrl": "https://hernipreklady.cz/seznam-prekladu/the-last-caretaker",
@@ -200,9 +228,9 @@
       "steamAppId": "2464280"
     },
     {
-      "title": "Diablo II Resurrected Infernal Edition",
+      "title": "Civilization VII",
       "studio": "HerníPřeklady",
-      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/diablo-ii-resurrected-infernal-edition",
+      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/civilization-vii",
       "language": "Čeština",
       "hasText": true,
       "hasVoice": false,
@@ -210,22 +238,22 @@
       "hasNeuralVoice": false,
       "hasNeuralDub": false,
       "hasNeuralText": false,
-      "version": "3.0.0",
-      "updatedAt": null,
-      "requiredGameVersion": "Všechny verze (OFFLINE)",
-      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/diablo-ii-resurrected-infernal-edition",
+      "version": "1.08",
+      "updatedAt": "02.08.2026",
+      "requiredGameVersion": "1.4.2 (PC - Win)",
+      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/civilization-vii",
       "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
-      "authorsHtml": null,
+      "authorsHtml": "<p><strong>Překlad:</strong> Jetro, Ralph Shepard, Coffin Corner, Sushi<br><strong>Korektura:</strong> Jetro<br><strong>Testování:</strong> Ralph Shepard, Andrewek, Jetro</p>",
       "inDevelopment": false,
-      "size": "13.5 MB",
+      "size": "3.35 MB",
       "mirrors": [
         {
           "label": "HerníPřeklady",
-          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=600",
+          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=598",
           "kind": "direct"
         }
       ],
-      "steamAppId": "2536520"
+      "steamAppId": "1295660"
     },
     {
       "title": "Millennia",
@@ -276,34 +304,6 @@
         }
       ],
       "steamAppId": "2677660"
-    },
-    {
-      "title": "Aliens: Dark Descent",
-      "studio": "HerníPřeklady",
-      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/aliens-dark-descent",
-      "language": "Čeština",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": "1.50",
-      "updatedAt": "04.01.2025",
-      "requiredGameVersion": "Aktuální",
-      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/aliens-dark-descent",
-      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
-      "authorsHtml": null,
-      "inDevelopment": false,
-      "size": "1.14 MB",
-      "mirrors": [
-        {
-          "label": "HerníPřeklady",
-          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=319",
-          "kind": "direct"
-        }
-      ],
-      "steamAppId": "1150440"
     },
     {
       "title": "Titanfall 2",
@@ -938,34 +938,6 @@
       "steamAppId": "361420"
     },
     {
-      "title": "Civilization VII",
-      "studio": "HerníPřeklady",
-      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/civilization-vii",
-      "language": "Čeština",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": "1.08",
-      "updatedAt": "02.08.2026",
-      "requiredGameVersion": "1.4.2 (PC - Win)",
-      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/civilization-vii",
-      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
-      "authorsHtml": "<p><strong>Překlad:</strong> Jetro, Ralph Shepard, Coffin Corner, Sushi<br><strong>Korektura:</strong> Jetro<br><strong>Testování:</strong> Ralph Shepard, Andrewek, Jetro</p>",
-      "inDevelopment": false,
-      "size": "3.35 MB",
-      "mirrors": [
-        {
-          "label": "HerníPřeklady",
-          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=598",
-          "kind": "direct"
-        }
-      ],
-      "steamAppId": "1295660"
-    },
-    {
       "title": "SCP: Fragmented Minds",
       "studio": "HerníPřeklady",
       "studioUrl": "https://hernipreklady.cz/seznam-prekladu/scp-fragmented-minds",
@@ -1019,6 +991,34 @@
           "kind": "direct"
         }
       ]
+    },
+    {
+      "title": "Diablo II Resurrected Infernal Edition",
+      "studio": "HerníPřeklady",
+      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/diablo-ii-resurrected-infernal-edition",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": "3.0.0",
+      "updatedAt": "07.08.2026",
+      "requiredGameVersion": "Všechny verze (OFFLINE)",
+      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/diablo-ii-resurrected-infernal-edition",
+      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
+      "authorsHtml": null,
+      "inDevelopment": false,
+      "size": "13.5 MB",
+      "mirrors": [
+        {
+          "label": "HerníPřeklady",
+          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=600",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "2536520"
     },
     {
       "title": "Go Home Annie",
@@ -2026,6 +2026,34 @@
         }
       ],
       "steamAppId": "1454970"
+    },
+    {
+      "title": "Aliens: Dark Descent",
+      "studio": "HerníPřeklady",
+      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/aliens-dark-descent",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": "1.50",
+      "updatedAt": "04.01.2025",
+      "requiredGameVersion": "Aktuální",
+      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/aliens-dark-descent",
+      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
+      "authorsHtml": null,
+      "inDevelopment": false,
+      "size": "1.14 MB",
+      "mirrors": [
+        {
+          "label": "HerníPřeklady",
+          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=319",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "1150440"
     },
     {
       "title": "Dyson Sphere Program",

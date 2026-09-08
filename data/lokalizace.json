@@ -4409,6 +4409,34 @@
       "steamAppId": "13600"
     },
     {
+      "title": "Legacy of Kain: Defiance Remastered",
+      "studio": "Lokalizace.net",
+      "studioUrl": "https://lokalizace.net/localizations/legacy-of-kain-defiance-remastered",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": "1.00",
+      "updatedAt": "07.09.2026",
+      "pageUrl": "https://lokalizace.net/localizations/legacy-of-kain-defiance-remastered",
+      "howToInstallHtml": "<p>Stáhněte ZIP soubor a rozbalte ho do složky hry, nebo použijte aplikaci CZManager pro automatickou instalaci češtiny.</p>",
+      "changelogHtml": null,
+      "authorsHtml": "<p>Tirďovo překlady</p>",
+      "size": "18.7 MB",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Lokalizace.net",
+          "url": "https://lokalizace.net/api/download/1805",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "3747730"
+    },
+    {
       "title": "American Fugitive",
       "studio": "Lokalizace.net",
       "studioUrl": "https://lokalizace.net/localizations/american-fugitive",
@@ -19765,8 +19793,7 @@
       "authorsHtml": "<p>Lokalizace.Net</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "427290"
+      "mirrors": []
     },
     {
       "title": "Resident Evil Village",
@@ -19884,8 +19911,7 @@
       "authorsHtml": "<p>ADV Dream</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "18480"
+      "mirrors": []
     },
     {
       "title": "The Rockin' Dead",
@@ -19971,7 +19997,7 @@
       "size": null,
       "inDevelopment": true,
       "mirrors": [],
-      "steamAppId": "34800"
+      "steamAppId": "2410750"
     },
     {
       "title": "Art of Murder 3: Cards of the Destiny",
@@ -20307,8 +20333,7 @@
       "authorsHtml": "<p>PERTIM</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "1275550"
+      "mirrors": []
     },
     {
       "title": "Baldi's Basics Classic Remastered",
@@ -20372,8 +20397,7 @@
       "authorsHtml": "<p>PERTIM</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "632950"
+      "mirrors": []
     },
     {
       "title": "Terraria",
@@ -20394,8 +20418,7 @@
       "authorsHtml": "<p>Sleeping Unicorn Studios</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "105600"
+      "mirrors": []
     },
     {
       "title": "Five Nights at Freddy's: Help Wanted 2",
@@ -20548,8 +20571,7 @@
       "authorsHtml": "<p>Lokalizace.Net</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "2769570"
+      "mirrors": []
     },
     {
       "title": "METAL GEAR SOLID: Peace Walker - Master Collection Vol.2",
@@ -20570,8 +20592,7 @@
       "authorsHtml": "<p>PERTIM</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "3859630"
+      "mirrors": []
     },
     {
       "title": "METAL GEAR SOLID 4: Guns of the Patriots - Master Collection Vol.2",
@@ -20636,8 +20657,7 @@
       "authorsHtml": "<p>ADV Dream</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "1542390"
+      "mirrors": []
     },
     {
       "title": "Luto",
@@ -20768,8 +20788,7 @@
       "authorsHtml": "<p>HAVELU Translation</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "1122340"
+      "mirrors": []
     },
     {
       "title": "Battlefield 6",
@@ -20834,8 +20853,7 @@
       "authorsHtml": "<p>Lokalizace.Net</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "801800"
+      "mirrors": []
     },
     {
       "title": "Alba: A Wildlife Advent",
@@ -20878,8 +20896,7 @@
       "authorsHtml": "<p>PERTIM</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "2131640"
+      "mirrors": []
     },
     {
       "title": "FF7 Rebirth Demo PC & XBOX",
@@ -20968,28 +20985,6 @@
       "mirrors": []
     },
     {
-      "title": "Legacy of Kain: Defiance Remastered",
-      "studio": "Lokalizace.net",
-      "studioUrl": "https://lokalizace.net/localizations/legacy-of-kain-defiance-remastered",
-      "language": "Čeština",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": null,
-      "updatedAt": null,
-      "pageUrl": "https://lokalizace.net/localizations/legacy-of-kain-defiance-remastered",
-      "howToInstallHtml": "<p>Stáhněte ZIP soubor a rozbalte ho do složky hry, nebo použijte aplikaci CZManager pro automatickou instalaci češtiny.</p>",
-      "changelogHtml": null,
-      "authorsHtml": "<p>Tirďovo překlady</p>",
-      "size": null,
-      "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "3747730"
-    },
-    {
       "title": "WoW®: Burning Crusade Classic Anniversary",
       "studio": "Lokalizace.net",
       "studioUrl": "https://lokalizace.net/localizations/wow-burning-crusade-classic-anniversary",
@@ -21030,7 +21025,7 @@
       "size": null,
       "inDevelopment": true,
       "mirrors": [],
-      "steamAppId": "1924720"
+      "steamAppId": "2059250"
     },
     {
       "title": "Deltarune",
@@ -21138,8 +21133,7 @@
       "authorsHtml": "<p>ADV Dream</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "1358530"
+      "mirrors": []
     },
     {
       "title": "The Outlast Trials",
@@ -21182,8 +21176,7 @@
       "authorsHtml": "<p>Mikošek Dubbing</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "417860"
+      "mirrors": []
     },
     {
       "title": "Deltarune",
