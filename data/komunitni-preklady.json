@@ -5,6 +5,168 @@
   "siteUrl": "https://komunitni-preklady.org",
   "localizations": [
     {
+      "title": "LARA CROFT AND THE TEMPLE OF OSIRIS",
+      "studio": "Komunitní překlady",
+      "studioUrl": "https://komunitni-preklady.org/preklad/lara-croft-and-the-temple-of-osiris",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": null,
+      "updatedAt": "09.09.2026",
+      "requiredGameVersion": null,
+      "pageUrl": "https://komunitni-preklady.org/preklad/lara-croft-and-the-temple-of-osiris",
+      "howToInstallHtml": "<p>Každý překlad má vlastní postup instalace. Otevřete stránku překladu (tlačítko „Otevřít v prohlížeči“ níže) — najdete tam úplný návod k instalaci i tlačítko ke stažení.</p>",
+      "authorsHtml": "<p>PERTIM CZ</p>",
+      "size": null,
+      "inDevelopment": true,
+      "mirrors": [],
+      "steamAppId": "289690"
+    },
+    {
+      "title": "Lara Croft and the Guardian of Light",
+      "studio": "Komunitní překlady",
+      "studioUrl": "https://komunitni-preklady.org/preklad/lara-croft-and-the-guardian-of-light",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": "1.07a",
+      "updatedAt": "09.09.2026",
+      "requiredGameVersion": "11395",
+      "pageUrl": "https://komunitni-preklady.org/preklad/lara-croft-and-the-guardian-of-light",
+      "howToInstallHtml": "<p>Každý překlad má vlastní postup instalace. Otevřete stránku překladu (tlačítko „Otevřít v prohlížeči“ níže) — najdete tam úplný návod k instalaci i tlačítko ke stažení.</p>",
+      "authorsHtml": "<p>Mrazíkovy češtiny</p>",
+      "size": "248 KB",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Komunitní překlady",
+          "url": "https://komunitni-preklady.org/download/95?sig=gy0e7csY9IbzIasNhQZOag",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "35130"
+    },
+    {
+      "title": "Night of the Dead",
+      "studio": "Komunitní překlady",
+      "studioUrl": "https://komunitni-preklady.org/preklad/night-of-the-dead",
+      "language": "Slovenčina",
+      "hasText": false,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": true,
+      "version": "0.5",
+      "updatedAt": "09.09.2026",
+      "requiredGameVersion": "1.2.00",
+      "pageUrl": "https://komunitni-preklady.org/preklad/night-of-the-dead",
+      "howToInstallHtml": "<p>Každý preklad má vlastný postup inštalácie. Otvorte stránku prekladu (tlačidlo „Otvoriť v prehliadači“ nižšie) — nájdete tam úplný návod na inštaláciu aj tlačidlo na stiahnutie.</p>",
+      "authorsHtml": "<p>SK/CZECH preklady</p>",
+      "size": "2.10 MB",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Komunitní překlady",
+          "url": "https://komunitni-preklady.org/download/949?sig=f_qX5rh_09D3TGwjHwkkLw",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "1377380"
+    },
+    {
+      "title": "Iron Blight",
+      "studio": "Komunitní překlady",
+      "studioUrl": "https://komunitni-preklady.org/preklad/iron-blight",
+      "language": "Čeština",
+      "hasText": false,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": true,
+      "version": "1.05",
+      "updatedAt": "08.09.2026",
+      "requiredGameVersion": "1.04",
+      "pageUrl": "https://komunitni-preklady.org/preklad/iron-blight",
+      "howToInstallHtml": "<p>Každý překlad má vlastní postup instalace. Otevřete stránku překladu (tlačítko „Otevřít v prohlížeči“ níže) — najdete tam úplný návod k instalaci i tlačítko ke stažení.</p>",
+      "authorsHtml": "<p>Ironvale Localization</p>",
+      "size": "236 KB",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Komunitní překlady",
+          "url": "https://komunitni-preklady.org/download/964?sig=ozgayoTMc_V7pWEuG8m9jg",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "4001350"
+    },
+    {
+      "title": "Call to Arms - Gates of Hell: Ostfront",
+      "studio": "Komunitní překlady",
+      "studioUrl": "https://komunitni-preklady.org/preklad/call-to-arms-gates-of-hell-ostfront",
+      "language": "Čeština",
+      "hasText": false,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": true,
+      "version": "0.8",
+      "updatedAt": "08.09.2026",
+      "requiredGameVersion": "1.0.5.7",
+      "pageUrl": "https://komunitni-preklady.org/preklad/call-to-arms-gates-of-hell-ostfront",
+      "howToInstallHtml": "<p>Každý překlad má vlastní postup instalace. Otevřete stránku překladu (tlačítko „Otevřít v prohlížeči“ níže) — najdete tam úplný návod k instalaci i tlačítko ke stažení.</p>",
+      "authorsHtml": "<p>Rangarsons</p>",
+      "size": "656 KB",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Komunitní překlady",
+          "url": "https://komunitni-preklady.org/download/967?sig=P7mthXB7vd3UYxg2wrwGmQ",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "400750"
+    },
+    {
+      "title": "STAR WARS Zero Company",
+      "studio": "Komunitní překlady",
+      "studioUrl": "https://komunitni-preklady.org/preklad/star-wars-zero-company",
+      "language": "Čeština",
+      "hasText": false,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": true,
+      "version": "1.3",
+      "updatedAt": "08.09.2026",
+      "requiredGameVersion": null,
+      "pageUrl": "https://komunitni-preklady.org/preklad/star-wars-zero-company",
+      "howToInstallHtml": "<p>Každý překlad má vlastní postup instalace. Otevřete stránku překladu (tlačítko „Otevřít v prohlížeči“ níže) — najdete tam úplný návod k instalaci i tlačítko ke stažení.</p>",
+      "authorsHtml": "<p>Rangarsons</p>",
+      "size": "2.10 MB",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Komunitní překlady",
+          "url": "https://komunitni-preklady.org/download/966?sig=hErKvAy3OVnzOseBrEXlcg",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "2075800"
+    },
+    {
       "title": "Banners of Ruin",
       "studio": "Komunitní překlady",
       "studioUrl": "https://komunitni-preklady.org/preklad/banners-of-ruin",
@@ -33,34 +195,6 @@
       "steamAppId": "1075740"
     },
     {
-      "title": "Call to Arms - Gates of Hell: Ostfront",
-      "studio": "Komunitní překlady",
-      "studioUrl": "https://komunitni-preklady.org/preklad/call-to-arms-gates-of-hell-ostfront",
-      "language": "Čeština",
-      "hasText": false,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": true,
-      "version": "0.7",
-      "updatedAt": "07.09.2026",
-      "requiredGameVersion": "1.0.5.7",
-      "pageUrl": "https://komunitni-preklady.org/preklad/call-to-arms-gates-of-hell-ostfront",
-      "howToInstallHtml": "<p>Každý překlad má vlastní postup instalace. Otevřete stránku překladu (tlačítko „Otevřít v prohlížeči“ níže) — najdete tam úplný návod k instalaci i tlačítko ke stažení.</p>",
-      "authorsHtml": "<p>Rangarsons</p>",
-      "size": "505 KB",
-      "inDevelopment": false,
-      "mirrors": [
-        {
-          "label": "Komunitní překlady",
-          "url": "https://komunitni-preklady.org/download/967?sig=P7mthXB7vd3UYxg2wrwGmQ",
-          "kind": "direct"
-        }
-      ],
-      "steamAppId": "400750"
-    },
-    {
       "title": "Help Will Come Tomorrow",
       "studio": "Komunitní překlady",
       "studioUrl": "https://komunitni-preklady.org/preklad/help-will-come-tomorrow",
@@ -87,34 +221,6 @@
         }
       ],
       "steamAppId": "1119600"
-    },
-    {
-      "title": "STAR WARS Zero Company",
-      "studio": "Komunitní překlady",
-      "studioUrl": "https://komunitni-preklady.org/preklad/star-wars-zero-company",
-      "language": "Čeština",
-      "hasText": false,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": true,
-      "version": "1.2",
-      "updatedAt": "06.09.2026",
-      "requiredGameVersion": null,
-      "pageUrl": "https://komunitni-preklady.org/preklad/star-wars-zero-company",
-      "howToInstallHtml": "<p>Každý překlad má vlastní postup instalace. Otevřete stránku překladu (tlačítko „Otevřít v prohlížeči“ níže) — najdete tam úplný návod k instalaci i tlačítko ke stažení.</p>",
-      "authorsHtml": "<p>Rangarsons</p>",
-      "size": "2.10 MB",
-      "inDevelopment": false,
-      "mirrors": [
-        {
-          "label": "Komunitní překlady",
-          "url": "https://komunitni-preklady.org/download/966?sig=hErKvAy3OVnzOseBrEXlcg",
-          "kind": "direct"
-        }
-      ],
-      "steamAppId": "2075800"
     },
     {
       "title": "Endless Space",
@@ -340,34 +446,6 @@
       "steamAppId": "1962700"
     },
     {
-      "title": "Night of the Dead",
-      "studio": "Komunitní překlady",
-      "studioUrl": "https://komunitni-preklady.org/preklad/night-of-the-dead",
-      "language": "Slovenčina",
-      "hasText": false,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": true,
-      "version": "0.3",
-      "updatedAt": "05.09.2026",
-      "requiredGameVersion": "1.2.00",
-      "pageUrl": "https://komunitni-preklady.org/preklad/night-of-the-dead",
-      "howToInstallHtml": "<p>Každý preklad má vlastný postup inštalácie. Otvorte stránku prekladu (tlačidlo „Otvoriť v prehliadači“ nižšie) — nájdete tam úplný návod na inštaláciu aj tlačidlo na stiahnutie.</p>",
-      "authorsHtml": "<p>SK/CZECH preklady</p>",
-      "size": "2.20 MB",
-      "inDevelopment": false,
-      "mirrors": [
-        {
-          "label": "Komunitní překlady",
-          "url": "https://komunitni-preklady.org/download/949?sig=f_qX5rh_09D3TGwjHwkkLw",
-          "kind": "direct"
-        }
-      ],
-      "steamAppId": "1377380"
-    },
-    {
       "title": "Serious Sam 3: BFE",
       "studio": "Komunitní překlady",
       "studioUrl": "https://komunitni-preklady.org/preklad/serious-sam-3-bfe",
@@ -505,34 +583,6 @@
           "kind": "direct"
         }
       ]
-    },
-    {
-      "title": "Iron Blight",
-      "studio": "Komunitní překlady",
-      "studioUrl": "https://komunitni-preklady.org/preklad/iron-blight",
-      "language": "Čeština",
-      "hasText": false,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": true,
-      "version": "1.04",
-      "updatedAt": "03.09.2026",
-      "requiredGameVersion": "1.04",
-      "pageUrl": "https://komunitni-preklady.org/preklad/iron-blight",
-      "howToInstallHtml": "<p>Každý překlad má vlastní postup instalace. Otevřete stránku překladu (tlačítko „Otevřít v prohlížeči“ níže) — najdete tam úplný návod k instalaci i tlačítko ke stažení.</p>",
-      "authorsHtml": "<p>Ironvale Localization</p>",
-      "size": "205 KB",
-      "inDevelopment": false,
-      "mirrors": [
-        {
-          "label": "Komunitní překlady",
-          "url": "https://komunitni-preklady.org/download/964?sig=ozgayoTMc_V7pWEuG8m9jg",
-          "kind": "direct"
-        }
-      ],
-      "steamAppId": "4001350"
     },
     {
       "title": "Eldest Souls",
@@ -2724,7 +2774,7 @@
       "hasNeuralDub": false,
       "hasNeuralText": true,
       "version": null,
-      "updatedAt": "05.09.2026",
+      "updatedAt": "08.09.2026",
       "requiredGameVersion": null,
       "pageUrl": "https://komunitni-preklady.org/preklad/restory-chill-electronics-repairs",
       "howToInstallHtml": "<p>Každý překlad má vlastní postup instalace. Otevřete stránku překladu (tlačítko „Otevřít v prohlížeči“ níže) — najdete tam úplný návod k instalaci i tlačítko ke stažení.</p>",
@@ -17952,7 +18002,7 @@
           "kind": "direct"
         }
       ],
-      "steamAppId": "1366950"
+      "steamAppId": "302080"
     },
     {
       "title": "Codename Eagles",
@@ -18297,11 +18347,11 @@
       "hasNeuralDub": false,
       "hasNeuralText": true,
       "version": null,
-      "updatedAt": "07.09.2026",
+      "updatedAt": "09.09.2026",
       "requiredGameVersion": null,
       "pageUrl": "https://komunitni-preklady.org/preklad/divinity-ii-dragon-knight-saga-",
       "howToInstallHtml": "<p>Každý překlad má vlastní postup instalace. Otevřete stránku překladu (tlačítko „Otevřít v prohlížeči“ níže) — najdete tam úplný návod k instalaci i tlačítko ke stažení.</p>",
-      "authorsHtml": "<p>Překlady z Masyafu</p>",
+      "authorsHtml": "<p>PERTIM CZ</p>",
       "size": null,
       "inDevelopment": true,
       "mirrors": []
@@ -18361,34 +18411,6 @@
         }
       ],
       "steamAppId": "44310"
-    },
-    {
-      "title": "Lara Croft and the Guardian of Light",
-      "studio": "Komunitní překlady",
-      "studioUrl": "https://komunitni-preklady.org/preklad/lara-croft-and-the-guardian-of-light",
-      "language": "Čeština",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": "1.0",
-      "updatedAt": "09.07.2026",
-      "requiredGameVersion": null,
-      "pageUrl": "https://komunitni-preklady.org/preklad/lara-croft-and-the-guardian-of-light",
-      "howToInstallHtml": "<p>Každý překlad má vlastní postup instalace. Otevřete stránku překladu (tlačítko „Otevřít v prohlížeči“ níže) — najdete tam úplný návod k instalaci i tlačítko ke stažení.</p>",
-      "authorsHtml": "<p>Mrazíkovy češtiny</p>",
-      "size": "168 KB",
-      "inDevelopment": false,
-      "mirrors": [
-        {
-          "label": "Komunitní překlady",
-          "url": "https://komunitni-preklady.org/download/95?sig=gy0e7csY9IbzIasNhQZOag",
-          "kind": "direct"
-        }
-      ],
-      "steamAppId": "35130"
     },
     {
       "title": "Darkness Within 2: The Dark Lineage",

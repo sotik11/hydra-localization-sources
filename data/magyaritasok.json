@@ -13270,6 +13270,30 @@
       ]
     },
     {
+      "steamAppId": "1161300",
+      "title": "The Legend of Crystal Valley",
+      "studio": "Magyarítások",
+      "studioUrl": "https://magyaritasok.hu",
+      "language": "Magyar",
+      "hasText": true,
+      "hasVoice": false,
+      "version": "1.00",
+      "updatedAt": "08.09.2026",
+      "requiredGameVersion": "1.6.0",
+      "size": "7.55 MB",
+      "pageUrl": "https://magyaritasok.hu/games/the-legend-of-crystal-valley",
+      "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
+      "authorsHtml": "<p>FEARka</p>",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Magyarítások",
+          "url": "https://magyaritasok.hu/dl/TheLegendofCrystalValley/TLoCV_HUN_1.00.exe",
+          "kind": "direct"
+        }
+      ]
+    },
+    {
       "steamAppId": "1158310",
       "title": "Crusader Kings III",
       "studio": "Magyarítások",
@@ -44405,7 +44429,7 @@
       "size": "3.06 MB",
       "pageUrl": "https://magyaritasok.hu/games/gothic",
       "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
-      "authorsHtml": "<p>UV, Panyi</p>",
+      "authorsHtml": "<p>UV, Panyi, Gothic fordítócsapat</p>",
       "inDevelopment": false,
       "mirrors": [
         {
