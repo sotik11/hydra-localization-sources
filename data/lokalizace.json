@@ -578,7 +578,7 @@
           "kind": "direct"
         }
       ],
-      "steamAppId": "4172530"
+      "steamAppId": "1175830"
     },
     {
       "title": "The Legend of Kyrandia: Hand Of Fate - CZ dabing",
@@ -606,7 +606,7 @@
           "kind": "direct"
         }
       ],
-      "steamAppId": "4172530"
+      "steamAppId": "1175830"
     },
     {
       "title": "Mass Effect Legendary Edition",
@@ -1767,7 +1767,7 @@
           "kind": "direct"
         }
       ],
-      "steamAppId": "4172530"
+      "steamAppId": "1175830"
     },
     {
       "title": "HumanitZ",
@@ -9308,7 +9308,7 @@
           "kind": "other"
         }
       ],
-      "steamAppId": "4172530"
+      "steamAppId": "1175830"
     },
     {
       "title": "The Legend of Kyrandia: Malcolm's Revenge (1994)",
@@ -9341,7 +9341,7 @@
           "kind": "other"
         }
       ],
-      "steamAppId": "4172530"
+      "steamAppId": "1175830"
     },
     {
       "title": "The Legend of Kyrandia (1992)",
@@ -9374,7 +9374,7 @@
           "kind": "other"
         }
       ],
-      "steamAppId": "4172530"
+      "steamAppId": "1175830"
     },
     {
       "title": "King's Bounty mód Red Sands (2011)",
@@ -20295,6 +20295,28 @@
       "steamAppId": "2369390"
     },
     {
+      "title": "LARA CROFT AND THE TEMPLE OF OSIRIS",
+      "studio": "Lokalizace.net",
+      "studioUrl": "https://lokalizace.net/localizations/lara-croft-and-the-temple-of-osiris",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": null,
+      "updatedAt": null,
+      "pageUrl": "https://lokalizace.net/localizations/lara-croft-and-the-temple-of-osiris",
+      "howToInstallHtml": "<p>Stáhněte ZIP soubor a rozbalte ho do složky hry, nebo použijte aplikaci CZManager pro automatickou instalaci češtiny.</p>",
+      "changelogHtml": null,
+      "authorsHtml": "<p>PERTIM</p>",
+      "size": null,
+      "inDevelopment": true,
+      "mirrors": [],
+      "steamAppId": "289690"
+    },
+    {
       "title": "Strange Brigade",
       "studio": "Lokalizace.net",
       "studioUrl": "https://lokalizace.net/localizations/strange-brigade",
@@ -20710,28 +20732,6 @@
       "inDevelopment": true,
       "mirrors": [],
       "steamAppId": "2428980"
-    },
-    {
-      "title": "The Joy of Creation DEMO",
-      "studio": "Lokalizace.net",
-      "studioUrl": "https://lokalizace.net/localizations/the-joy-of-creation-demo",
-      "language": "Čeština",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": null,
-      "updatedAt": null,
-      "pageUrl": "https://lokalizace.net/localizations/the-joy-of-creation-demo",
-      "howToInstallHtml": "<p>Stáhněte ZIP soubor a rozbalte ho do složky hry, nebo použijte aplikaci CZManager pro automatickou instalaci češtiny.</p>",
-      "changelogHtml": null,
-      "authorsHtml": "<p>GamerView Translations</p>",
-      "size": null,
-      "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "3107070"
     },
     {
       "title": "Dragon Age: Inquisition",

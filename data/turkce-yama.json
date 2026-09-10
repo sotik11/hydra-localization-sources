@@ -328,60 +328,6 @@
       "steamAppId": "391540"
     },
     {
-      "title": "Shadow of the Tomb Raider",
-      "studio": "Türkçe Yama",
-      "studioUrl": "https://turkce-yama.com/shadow-of-the-tomb-raider-turkce-yama.htm",
-      "language": "Türkçe",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": null,
-      "updatedAt": "23.03.2019",
-      "pageUrl": "https://turkce-yama.com/shadow-of-the-tomb-raider-turkce-yama.htm",
-      "howToInstallHtml": "<ol><li>Yama dosyasını yukarıdaki «İndir» butonuyla indirin.</li><li>Kurulum dosyasıysa (.exe) çalıştırın; arşivse (.rar/.zip) çıkartın.</li><li>Oyunun kurulu olduğu klasörü gösterin / dosyaları oraya kopyalayın.</li><li>Oyunu başlatın — Türkçe yama uygulanmış olacaktır.</li></ol>",
-      "authorsHtml": null,
-      "size": "29.4 MB",
-      "inDevelopment": false,
-      "mirrors": [
-        {
-          "label": "Türkçe Yama",
-          "url": "https://turkce-yama.com/shadow-of-the-tomb-raider-turkce-yama.htm",
-          "kind": "other"
-        }
-      ],
-      "steamAppId": "750920"
-    },
-    {
-      "title": "Grand Theft Auto: San Andreas",
-      "studio": "Türkçe Yama",
-      "studioUrl": "https://turkce-yama.com/grand-theft-auto-san-andreas-turkce-yama.htm",
-      "language": "Türkçe",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": null,
-      "updatedAt": "21.04.2014",
-      "pageUrl": "https://turkce-yama.com/grand-theft-auto-san-andreas-turkce-yama.htm",
-      "howToInstallHtml": "<ol><li>Yama dosyasını yukarıdaki «İndir» butonuyla indirin.</li><li>Kurulum dosyasıysa (.exe) çalıştırın; arşivse (.rar/.zip) çıkartın.</li><li>Oyunun kurulu olduğu klasörü gösterin / dosyaları oraya kopyalayın.</li><li>Oyunu başlatın — Türkçe yama uygulanmış olacaktır.</li></ol>",
-      "authorsHtml": "<p>Gta Bullet</p>",
-      "size": "589 KB",
-      "inDevelopment": false,
-      "mirrors": [
-        {
-          "label": "Türkçe Yama",
-          "url": "https://turkce-yama.com/grand-theft-auto-san-andreas-turkce-yama.htm",
-          "kind": "other"
-        }
-      ],
-      "steamAppId": "1547000"
-    },
-    {
       "title": "Call of Duty: Modern Warfare 2",
       "studio": "Türkçe Yama",
       "studioUrl": "https://turkce-yama.com/call-of-duty-modern-warfare-2-turkce-yama.htm",
@@ -407,33 +353,6 @@
         }
       ],
       "steamAppId": "3595230"
-    },
-    {
-      "title": "Pro Evolution Soccer 2013",
-      "studio": "Türkçe Yama",
-      "studioUrl": "https://turkce-yama.com/pro-evolution-soccer-2013-turkce-yama.htm",
-      "language": "Türkçe",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": null,
-      "updatedAt": "21.04.2014",
-      "pageUrl": "https://turkce-yama.com/pro-evolution-soccer-2013-turkce-yama.htm",
-      "howToInstallHtml": "<ol><li>Yama dosyasını yukarıdaki «İndir» butonuyla indirin.</li><li>Kurulum dosyasıysa (.exe) çalıştırın; arşivse (.rar/.zip) çıkartın.</li><li>Oyunun kurulu olduğu klasörü gösterin / dosyaları oraya kopyalayın.</li><li>Oyunu başlatın — Türkçe yama uygulanmış olacaktır.</li></ol>",
-      "authorsHtml": "<p>Konami</p>",
-      "size": "36.1 MB",
-      "inDevelopment": false,
-      "mirrors": [
-        {
-          "label": "Türkçe Yama",
-          "url": "https://turkce-yama.com/pro-evolution-soccer-2013-turkce-yama.htm",
-          "kind": "other"
-        }
-      ],
-      "steamAppId": "221430"
     },
     {
       "title": "Mafia 2",
@@ -463,6 +382,114 @@
       "steamAppId": "50130"
     },
     {
+      "title": "Shadow of the Tomb Raider",
+      "studio": "Türkçe Yama",
+      "studioUrl": "https://turkce-yama.com/shadow-of-the-tomb-raider-turkce-yama.htm",
+      "language": "Türkçe",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": null,
+      "updatedAt": "23.03.2019",
+      "pageUrl": "https://turkce-yama.com/shadow-of-the-tomb-raider-turkce-yama.htm",
+      "howToInstallHtml": "<ol><li>Yama dosyasını yukarıdaki «İndir» butonuyla indirin.</li><li>Kurulum dosyasıysa (.exe) çalıştırın; arşivse (.rar/.zip) çıkartın.</li><li>Oyunun kurulu olduğu klasörü gösterin / dosyaları oraya kopyalayın.</li><li>Oyunu başlatın — Türkçe yama uygulanmış olacaktır.</li></ol>",
+      "authorsHtml": null,
+      "size": "29.4 MB",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Türkçe Yama",
+          "url": "https://turkce-yama.com/shadow-of-the-tomb-raider-turkce-yama.htm",
+          "kind": "other"
+        }
+      ],
+      "steamAppId": "750920"
+    },
+    {
+      "title": "Far Cry 5",
+      "studio": "Türkçe Yama",
+      "studioUrl": "https://turkce-yama.com/farcry-5-turkce-yama.htm",
+      "language": "Türkçe",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": null,
+      "updatedAt": "11.04.2020",
+      "pageUrl": "https://turkce-yama.com/farcry-5-turkce-yama.htm",
+      "howToInstallHtml": "<ol><li>Yama dosyasını yukarıdaki «İndir» butonuyla indirin.</li><li>Kurulum dosyasıysa (.exe) çalıştırın; arşivse (.rar/.zip) çıkartın.</li><li>Oyunun kurulu olduğu klasörü gösterin / dosyaları oraya kopyalayın.</li><li>Oyunu başlatın — Türkçe yama uygulanmış olacaktır.</li></ol>",
+      "authorsHtml": null,
+      "size": "4.73 MB",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Türkçe Yama",
+          "url": "https://turkce-yama.com/farcry-5-turkce-yama.htm",
+          "kind": "other"
+        }
+      ],
+      "steamAppId": "552520"
+    },
+    {
+      "title": "Grand Theft Auto: San Andreas",
+      "studio": "Türkçe Yama",
+      "studioUrl": "https://turkce-yama.com/grand-theft-auto-san-andreas-turkce-yama.htm",
+      "language": "Türkçe",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": null,
+      "updatedAt": "21.04.2014",
+      "pageUrl": "https://turkce-yama.com/grand-theft-auto-san-andreas-turkce-yama.htm",
+      "howToInstallHtml": "<ol><li>Yama dosyasını yukarıdaki «İndir» butonuyla indirin.</li><li>Kurulum dosyasıysa (.exe) çalıştırın; arşivse (.rar/.zip) çıkartın.</li><li>Oyunun kurulu olduğu klasörü gösterin / dosyaları oraya kopyalayın.</li><li>Oyunu başlatın — Türkçe yama uygulanmış olacaktır.</li></ol>",
+      "authorsHtml": "<p>Gta Bullet</p>",
+      "size": "589 KB",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Türkçe Yama",
+          "url": "https://turkce-yama.com/grand-theft-auto-san-andreas-turkce-yama.htm",
+          "kind": "other"
+        }
+      ],
+      "steamAppId": "1547000"
+    },
+    {
+      "title": "Far Cry 4",
+      "studio": "Türkçe Yama",
+      "studioUrl": "https://turkce-yama.com/far-cry-4-turkce-yama.htm",
+      "language": "Türkçe",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": null,
+      "updatedAt": "10.06.2018",
+      "pageUrl": "https://turkce-yama.com/far-cry-4-turkce-yama.htm",
+      "howToInstallHtml": "<ol><li>Yama dosyasını yukarıdaki «İndir» butonuyla indirin.</li><li>Kurulum dosyasıysa (.exe) çalıştırın; arşivse (.rar/.zip) çıkartın.</li><li>Oyunun kurulu olduğu klasörü gösterin / dosyaları oraya kopyalayın.</li><li>Oyunu başlatın — Türkçe yama uygulanmış olacaktır.</li></ol>",
+      "authorsHtml": null,
+      "size": "658.3 MB",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Türkçe Yama",
+          "url": "https://turkce-yama.com/far-cry-4-turkce-yama.htm",
+          "kind": "other"
+        }
+      ],
+      "steamAppId": "298110"
+    },
+    {
       "title": "Far Cry 3",
       "studio": "Türkçe Yama",
       "studioUrl": "https://turkce-yama.com/far-cry-3-turkce-yama.htm",
@@ -488,6 +515,33 @@
         }
       ],
       "steamAppId": "220240"
+    },
+    {
+      "title": "Pro Evolution Soccer 2013",
+      "studio": "Türkçe Yama",
+      "studioUrl": "https://turkce-yama.com/pro-evolution-soccer-2013-turkce-yama.htm",
+      "language": "Türkçe",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": null,
+      "updatedAt": "21.04.2014",
+      "pageUrl": "https://turkce-yama.com/pro-evolution-soccer-2013-turkce-yama.htm",
+      "howToInstallHtml": "<ol><li>Yama dosyasını yukarıdaki «İndir» butonuyla indirin.</li><li>Kurulum dosyasıysa (.exe) çalıştırın; arşivse (.rar/.zip) çıkartın.</li><li>Oyunun kurulu olduğu klasörü gösterin / dosyaları oraya kopyalayın.</li><li>Oyunu başlatın — Türkçe yama uygulanmış olacaktır.</li></ol>",
+      "authorsHtml": "<p>Konami</p>",
+      "size": "36.1 MB",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Türkçe Yama",
+          "url": "https://turkce-yama.com/pro-evolution-soccer-2013-turkce-yama.htm",
+          "kind": "other"
+        }
+      ],
+      "steamAppId": "221430"
     },
     {
       "title": "The Witcher 3: Wild Hunt",
@@ -623,33 +677,6 @@
         }
       ],
       "steamAppId": "414700"
-    },
-    {
-      "title": "Far Cry 5",
-      "studio": "Türkçe Yama",
-      "studioUrl": "https://turkce-yama.com/farcry-5-turkce-yama.htm",
-      "language": "Türkçe",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": null,
-      "updatedAt": "11.04.2020",
-      "pageUrl": "https://turkce-yama.com/farcry-5-turkce-yama.htm",
-      "howToInstallHtml": "<ol><li>Yama dosyasını yukarıdaki «İndir» butonuyla indirin.</li><li>Kurulum dosyasıysa (.exe) çalıştırın; arşivse (.rar/.zip) çıkartın.</li><li>Oyunun kurulu olduğu klasörü gösterin / dosyaları oraya kopyalayın.</li><li>Oyunu başlatın — Türkçe yama uygulanmış olacaktır.</li></ol>",
-      "authorsHtml": null,
-      "size": "4.73 MB",
-      "inDevelopment": false,
-      "mirrors": [
-        {
-          "label": "Türkçe Yama",
-          "url": "https://turkce-yama.com/farcry-5-turkce-yama.htm",
-          "kind": "other"
-        }
-      ],
-      "steamAppId": "552520"
     },
     {
       "title": "Unreal Tournament 2004",
@@ -9298,33 +9325,6 @@
         }
       ],
       "steamAppId": "1120800"
-    },
-    {
-      "title": "Far Cry 4",
-      "studio": "Türkçe Yama",
-      "studioUrl": "https://turkce-yama.com/far-cry-4-turkce-yama.htm",
-      "language": "Türkçe",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": null,
-      "updatedAt": "10.06.2018",
-      "pageUrl": "https://turkce-yama.com/far-cry-4-turkce-yama.htm",
-      "howToInstallHtml": "<ol><li>Yama dosyasını yukarıdaki «İndir» butonuyla indirin.</li><li>Kurulum dosyasıysa (.exe) çalıştırın; arşivse (.rar/.zip) çıkartın.</li><li>Oyunun kurulu olduğu klasörü gösterin / dosyaları oraya kopyalayın.</li><li>Oyunu başlatın — Türkçe yama uygulanmış olacaktır.</li></ol>",
-      "authorsHtml": null,
-      "size": "658.3 MB",
-      "inDevelopment": false,
-      "mirrors": [
-        {
-          "label": "Türkçe Yama",
-          "url": "https://turkce-yama.com/far-cry-4-turkce-yama.htm",
-          "kind": "other"
-        }
-      ],
-      "steamAppId": "298110"
     },
     {
       "title": "The Walking Dead: Michonne Episode 1",
