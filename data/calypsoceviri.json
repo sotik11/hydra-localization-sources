@@ -6447,33 +6447,6 @@
       "steamAppId": "2054970"
     },
     {
-      "title": "Dragon Age: The Veilguard",
-      "studio": "Calypso Çeviri",
-      "studioUrl": "https://www.calypsoceviri.com",
-      "language": "Türkçe",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": "4",
-      "updatedAt": "23.06.2026",
-      "pageUrl": "https://www.calypsoceviri.com/turkce-yamalar/dragon-age-the-veilguard-turkce-yama-indir",
-      "howToInstallHtml": "<div>Aşağıda vermiş olduğumuz linkten indirdiğiniz Rar dosyasındaki Türkçe Yama exesini, oyunun kurulu olduğu ana dosya konumuna atarak, Türkçe yama exesini çalıştırın. Oyunun ana dosya konumunun seçili olduğunu kontrol ettikten sonra, hangi platformdan oynuyorsanız, o platformun yükle butonuna basarak yamayı yükleyebilirsiniz.<br><br>Yamayı kaldırmak için dosya konumundaki DaVeilguard_YamaKaldir.exe den yamayı kaldırabilirsiniz.</div>",
-      "authorsHtml": "<p>VolkTyson, Sweaty</p>",
-      "size": "11.2 MB",
-      "inDevelopment": false,
-      "mirrors": [
-        {
-          "label": "Calypso Çeviri",
-          "url": "https://www.calypsoceviri.com/_files/archives/7d262d_7bac2eff0ec8417e9205f01dc3ebbae4.rar?dn=Dragon%2520Age%2520The%2520Veilguard%2520T%25C3%25BCrk%25C3%25A7e%2520Yama%2520V4.rar",
-          "kind": "direct"
-        }
-      ],
-      "steamAppId": "1845910"
-    },
-    {
       "title": "Deliver Us The Moon",
       "studio": "Calypso Çeviri",
       "studioUrl": "https://www.calypsoceviri.com",
@@ -7051,17 +7024,17 @@
       "hasNeuralVoice": false,
       "hasNeuralDub": false,
       "hasNeuralText": false,
-      "version": "20",
-      "updatedAt": "23.06.2026",
+      "version": "21",
+      "updatedAt": "10.09.2026",
       "pageUrl": "https://www.calypsoceviri.com/turkce-yamalar/aska-turkce-yama-indir",
       "howToInstallHtml": "<div>Aşağıda vermiş olduğumuz linkten indirdiğiniz Rar dosyasındaki Türkçe Yama exesini, oyunun kurulu olduğu ana dosya konumuna atarak, Türkçe yama exesini çalıştırın. Oyunun ana dosya konumunun seçili olduğunu kontrol ettikten sonra, hangi platformdan oynuyorsanız, o platformun yükle butonuna basarak yamayı yükleyebilirsiniz.<br><br>Yamayı kaldırmak için oyunun dosyalarını doğrulamanız gerekiyor.</div>",
       "authorsHtml": "<p>VolkTyson, Indra</p>",
-      "size": "3.77 MB",
+      "size": "5.32 MB",
       "inDevelopment": false,
       "mirrors": [
         {
           "label": "Calypso Çeviri",
-          "url": "https://www.calypsoceviri.com/_files/archives/7d262d_fc3ea22edd55486f9f82d653f7d02760.rar?dn=ASKA%2520T%25C3%25BCrk%25C3%25A7e%2520Yama%2520V20.rar",
+          "url": "https://www.calypsoceviri.com/_files/archives/7d262d_52c732c2d8134de6944de2385bdf7634.zip?dn=ASKA%2520T%25C3%25BCrk%25C3%25A7e%2520Yama%2520V21.zip",
           "kind": "direct"
         }
       ],
@@ -7146,33 +7119,6 @@
           "kind": "direct"
         }
       ]
-    },
-    {
-      "title": "Achilles: Legends Untold",
-      "studio": "Calypso Çeviri",
-      "studioUrl": "https://www.calypsoceviri.com",
-      "language": "Türkçe",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": null,
-      "updatedAt": "23.06.2026",
-      "pageUrl": "https://www.calypsoceviri.com/turkce-yamalar/achilles-legends-untold-turkce-yama-indir",
-      "howToInstallHtml": "<div>Aşağıda vermiş olduğumuz linkten indirdiğiniz Rar dosyasındaki Türkçe Yama exesini, oyunun kurulu olduğu ana dosya konumuna atarak, Türkçe yama exesini çalıştırın. Oyunun ana dosya konumunun seçili olduğunu kontrol ettikten sonra, hangi platformdan oynuyorsanız, o platformun yükle butonuna basarak yamayı yükleyebilirsiniz.<br><br>Yamayı kaldırmak için dosya konumundaki Achilles_TürkçeYamaKaldır.exe den yamayı kaldırabilirsiniz.</div>",
-      "authorsHtml": "<p>VolkTyson</p>",
-      "size": "1.83 MB",
-      "inDevelopment": false,
-      "mirrors": [
-        {
-          "label": "Calypso Çeviri",
-          "url": "https://www.calypsoceviri.com/_files/archives/7d262d_ccbc953000f84bfb96b14788eee0d23b.rar?dn=Achilles%2520Legends%2520Untold%2520T%25C3%25BCrk%25C3%25A7e%2520Yama.rar",
-          "kind": "direct"
-        }
-      ],
-      "steamAppId": "1314000"
     },
     {
       "title": "A Quiet Place: The Road Ahead",

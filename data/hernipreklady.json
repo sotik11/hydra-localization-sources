@@ -228,6 +228,34 @@
       "steamAppId": "2464280"
     },
     {
+      "title": "Indika",
+      "studio": "HerníPřeklady",
+      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/indika",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": null,
+      "updatedAt": "08.05.2024",
+      "requiredGameVersion": "1.0",
+      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/indika",
+      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
+      "authorsHtml": "<p><strong>Překlad a test:</strong> Andrewek</p>",
+      "inDevelopment": false,
+      "size": "621 KB",
+      "mirrors": [
+        {
+          "label": "HerníPřeklady",
+          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=192",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "1373960"
+    },
+    {
       "title": "No Man's Sky",
       "studio": "HerníPřeklady",
       "studioUrl": "https://hernipreklady.cz/seznam-prekladu/no-man-s-sky",
@@ -254,34 +282,6 @@
         }
       ],
       "steamAppId": "275850"
-    },
-    {
-      "title": "Wartales + DLC",
-      "studio": "HerníPřeklady",
-      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/wartales-dlc",
-      "language": "Čeština",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": "2.6",
-      "updatedAt": "19.06.2026",
-      "requiredGameVersion": "1.0.47036",
-      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/wartales-dlc",
-      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
-      "authorsHtml": "<p><strong>Překlad a testování:</strong> Andrewek</p>",
-      "inDevelopment": false,
-      "size": "8.49 MB",
-      "mirrors": [
-        {
-          "label": "HerníPřeklady",
-          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=582",
-          "kind": "direct"
-        }
-      ],
-      "steamAppId": "1527950"
     },
     {
       "title": "Titanfall 2",
@@ -1607,34 +1607,6 @@
         }
       ],
       "steamAppId": "1671360"
-    },
-    {
-      "title": "Indika",
-      "studio": "HerníPřeklady",
-      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/indika",
-      "language": "Čeština",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": null,
-      "updatedAt": "08.05.2024",
-      "requiredGameVersion": "1.0",
-      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/indika",
-      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
-      "authorsHtml": "<p><strong>Překlad a test:</strong> Andrewek</p>",
-      "inDevelopment": false,
-      "size": "621 KB",
-      "mirrors": [
-        {
-          "label": "HerníPřeklady",
-          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=192",
-          "kind": "direct"
-        }
-      ],
-      "steamAppId": "1373960"
     },
     {
       "title": "Frostpunk 2",
@@ -3171,6 +3143,34 @@
         }
       ],
       "steamAppId": "428660"
+    },
+    {
+      "title": "Wartales + DLC",
+      "studio": "HerníPřeklady",
+      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/wartales-dlc",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": "2.6",
+      "updatedAt": "19.06.2026",
+      "requiredGameVersion": "1.0.47036",
+      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/wartales-dlc",
+      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
+      "authorsHtml": "<p><strong>Překlad a testování:</strong> Andrewek</p>",
+      "inDevelopment": false,
+      "size": "8.49 MB",
+      "mirrors": [
+        {
+          "label": "HerníPřeklady",
+          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=582",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "1527950"
     },
     {
       "title": "Returnal",
