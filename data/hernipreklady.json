@@ -5,6 +5,34 @@
   "siteUrl": "https://hernipreklady.cz",
   "localizations": [
     {
+      "title": "Cult of the Lamb",
+      "studio": "HerníPřeklady",
+      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/cult-of-the-lamb",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": "1.3",
+      "updatedAt": null,
+      "requiredGameVersion": "1.5.26",
+      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/cult-of-the-lamb",
+      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
+      "authorsHtml": "<p><strong>Překlad:</strong> Ralph Shepard<br><strong>Technika:</strong> Flu, Termit, Luc2as</p>",
+      "inDevelopment": false,
+      "size": "13.7 MB",
+      "mirrors": [
+        {
+          "label": "HerníPřeklady",
+          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=611",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "1313140"
+    },
+    {
       "title": "Cthulhu: The Cosmic Abyss",
       "studio": "HerníPřeklady",
       "studioUrl": "https://hernipreklady.cz/seznam-prekladu/cthulhu-the-cosmic-abyss",
@@ -116,34 +144,6 @@
       "steamAppId": "1176470"
     },
     {
-      "title": "Cult of the Lamb",
-      "studio": "HerníPřeklady",
-      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/cult-of-the-lamb",
-      "language": "Čeština",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": "1.3",
-      "updatedAt": null,
-      "requiredGameVersion": "1.5.25",
-      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/cult-of-the-lamb",
-      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
-      "authorsHtml": "<p><strong>Překlad:</strong> Ralph Shepard<br><strong>Technika:</strong> Flu, Termit, Luc2as</p>",
-      "inDevelopment": false,
-      "size": "13.7 MB",
-      "mirrors": [
-        {
-          "label": "HerníPřeklady",
-          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=606",
-          "kind": "direct"
-        }
-      ],
-      "steamAppId": "1313140"
-    },
-    {
       "title": "Two Point Museum",
       "studio": "HerníPřeklady",
       "studioUrl": "https://hernipreklady.cz/seznam-prekladu/two-point-museum",
@@ -228,9 +228,9 @@
       "steamAppId": "2464280"
     },
     {
-      "title": "Indika",
+      "title": "Civilization VI",
       "studio": "HerníPřeklady",
-      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/indika",
+      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/civilization-vi",
       "language": "Čeština",
       "hasText": true,
       "hasVoice": false,
@@ -238,22 +238,22 @@
       "hasNeuralVoice": false,
       "hasNeuralDub": false,
       "hasNeuralText": false,
-      "version": null,
-      "updatedAt": "08.05.2024",
-      "requiredGameVersion": "1.0",
-      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/indika",
+      "version": "1.35",
+      "updatedAt": "01.09.2024",
+      "requiredGameVersion": "1.0.12.68",
+      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/civilization-vi",
       "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
-      "authorsHtml": "<p><strong>Překlad a test:</strong> Andrewek</p>",
+      "authorsHtml": "<p><strong>Překlad:</strong> Jetro, Hawkeye, WhiteHorse, Coffin Corner, Ralph Shepard<br><strong>Testování:</strong> Jetro, Barbar, Sushi, Raptor</p>",
       "inDevelopment": false,
-      "size": "621 KB",
+      "size": "3.21 MB",
       "mirrors": [
         {
           "label": "HerníPřeklady",
-          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=192",
+          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=260",
           "kind": "direct"
         }
       ],
-      "steamAppId": "1373960"
+      "steamAppId": "289070"
     },
     {
       "title": "No Man's Sky",
@@ -1609,6 +1609,34 @@
       "steamAppId": "1671360"
     },
     {
+      "title": "Indika",
+      "studio": "HerníPřeklady",
+      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/indika",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": null,
+      "updatedAt": "08.05.2024",
+      "requiredGameVersion": "1.0",
+      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/indika",
+      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
+      "authorsHtml": "<p><strong>Překlad a test:</strong> Andrewek</p>",
+      "inDevelopment": false,
+      "size": "621 KB",
+      "mirrors": [
+        {
+          "label": "HerníPřeklady",
+          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=192",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "1373960"
+    },
+    {
       "title": "Frostpunk 2",
       "studio": "HerníPřeklady",
       "studioUrl": "https://hernipreklady.cz/seznam-prekladu/frostpunk-2",
@@ -2471,34 +2499,6 @@
           "kind": "direct"
         }
       ]
-    },
-    {
-      "title": "Civilization VI",
-      "studio": "HerníPřeklady",
-      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/civilization-vi",
-      "language": "Čeština",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": "1.35",
-      "updatedAt": "01.09.2024",
-      "requiredGameVersion": "1.0.12.68",
-      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/civilization-vi",
-      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
-      "authorsHtml": "<p><strong>Překlad:</strong> Jetro, Hawkeye, WhiteHorse, Coffin Corner, Ralph Shepard<br><strong>Testování:</strong> Jetro, Barbar, Sushi, Raptor</p>",
-      "inDevelopment": false,
-      "size": "3.21 MB",
-      "mirrors": [
-        {
-          "label": "HerníPřeklady",
-          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=260",
-          "kind": "direct"
-        }
-      ],
-      "steamAppId": "289070"
     },
     {
       "title": "Anno 1800",
