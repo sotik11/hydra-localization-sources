@@ -211,7 +211,7 @@
       "hasNeuralDub": false,
       "hasNeuralText": false,
       "version": "1.70",
-      "updatedAt": null,
+      "updatedAt": "13.08.2026",
       "requiredGameVersion": "Patch 1.5.0.20",
       "pageUrl": "https://hernipreklady.cz/seznam-prekladu/tormented-souls-2",
       "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
@@ -226,62 +226,6 @@
         }
       ],
       "steamAppId": "2464280"
-    },
-    {
-      "title": "Civilization VI",
-      "studio": "HerníPřeklady",
-      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/civilization-vi",
-      "language": "Čeština",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": "1.35",
-      "updatedAt": "01.09.2024",
-      "requiredGameVersion": "1.0.12.68",
-      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/civilization-vi",
-      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
-      "authorsHtml": "<p><strong>Překlad:</strong> Jetro, Hawkeye, WhiteHorse, Coffin Corner, Ralph Shepard<br><strong>Testování:</strong> Jetro, Barbar, Sushi, Raptor</p>",
-      "inDevelopment": false,
-      "size": "3.21 MB",
-      "mirrors": [
-        {
-          "label": "HerníPřeklady",
-          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=260",
-          "kind": "direct"
-        }
-      ],
-      "steamAppId": "289070"
-    },
-    {
-      "title": "Into the Radius VR",
-      "studio": "HerníPřeklady",
-      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/into-the-radius-vr",
-      "language": "Čeština",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": "1.5",
-      "updatedAt": "04.02.2024",
-      "requiredGameVersion": "Aktuální Steam",
-      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/into-the-radius-vr",
-      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
-      "authorsHtml": "<p><strong>Překlad textů a textur:</strong> Luc2as</p>",
-      "inDevelopment": false,
-      "size": "48.7 MB",
-      "mirrors": [
-        {
-          "label": "HerníPřeklady",
-          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=47",
-          "kind": "direct"
-        }
-      ],
-      "steamAppId": "1012790"
     },
     {
       "title": "No Man's Sky",
@@ -310,6 +254,34 @@
         }
       ],
       "steamAppId": "275850"
+    },
+    {
+      "title": "Civilization VI",
+      "studio": "HerníPřeklady",
+      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/civilization-vi",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": "1.35",
+      "updatedAt": "01.09.2024",
+      "requiredGameVersion": "1.0.12.68",
+      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/civilization-vi",
+      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
+      "authorsHtml": "<p><strong>Překlad:</strong> Jetro, Hawkeye, WhiteHorse, Coffin Corner, Ralph Shepard<br><strong>Testování:</strong> Jetro, Barbar, Sushi, Raptor</p>",
+      "inDevelopment": false,
+      "size": "3.21 MB",
+      "mirrors": [
+        {
+          "label": "HerníPřeklady",
+          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=260",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "289070"
     },
     {
       "title": "Titanfall 2",
@@ -2585,6 +2557,34 @@
       "steamAppId": "632470"
     },
     {
+      "title": "Into the Radius VR",
+      "studio": "HerníPřeklady",
+      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/into-the-radius-vr",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": "1.5",
+      "updatedAt": "04.02.2024",
+      "requiredGameVersion": "Aktuální Steam",
+      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/into-the-radius-vr",
+      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
+      "authorsHtml": "<p><strong>Překlad textů a textur:</strong> Luc2as</p>",
+      "inDevelopment": false,
+      "size": "48.7 MB",
+      "mirrors": [
+        {
+          "label": "HerníPřeklady",
+          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=47",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "1012790"
+    },
+    {
       "title": "State Of Mind",
       "studio": "HerníPřeklady",
       "studioUrl": "https://hernipreklady.cz/seznam-prekladu/state-of-mind",
@@ -4448,7 +4448,7 @@
           "kind": "direct"
         }
       ],
-      "steamAppId": "985830"
+      "steamAppId": "3732310"
     },
     {
       "title": "Twin Mirror",
