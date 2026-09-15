@@ -5,6 +5,34 @@
   "siteUrl": "https://lokalizace.net",
   "localizations": [
     {
+      "title": "Freedom Force vs. the Third Reich",
+      "studio": "Lokalizace.net",
+      "studioUrl": "https://lokalizace.net/localizations/freedom-force-vs-the-third-reich",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": "1.0.0",
+      "updatedAt": "14.09.2026",
+      "pageUrl": "https://lokalizace.net/localizations/freedom-force-vs-the-third-reich",
+      "howToInstallHtml": "<p>Stáhněte ZIP soubor a rozbalte ho do složky hry, nebo použijte aplikaci CZManager pro automatickou instalaci češtiny.</p>",
+      "changelogHtml": "<div><p>Nahrána nová verze překladu: 1.0.0</p></div>",
+      "authorsHtml": "<p>PERTIM</p>",
+      "size": "1.70 MB",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Lokalizace.net",
+          "url": "https://lokalizace.net/api/download/1820",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "8890"
+    },
+    {
       "title": "Kingdom Two Crowns",
       "studio": "Lokalizace.net",
       "studioUrl": "https://lokalizace.net/localizations/kingdom-two-crowns-1",
@@ -3393,8 +3421,7 @@
           "url": "https://lokalizace.net/api/download/1313",
           "kind": "direct"
         }
-      ],
-      "steamAppId": "239160"
+      ]
     },
     {
       "title": "Sinking Island",
@@ -11860,8 +11887,7 @@
           "url": "https://lokalizace.net/api/download/514",
           "kind": "direct"
         }
-      ],
-      "steamAppId": "239160"
+      ]
     },
     {
       "title": "Warcraft 1 Remastered - CZ překlad a dabing",
@@ -13929,6 +13955,49 @@
       "steamAppId": "1238810"
     },
     {
+      "title": "Sea of Stars: Sunset Edition",
+      "studio": "Lokalizace.net",
+      "studioUrl": "https://lokalizace.net/localizations/sea-of-stars",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": "3.0.60151",
+      "updatedAt": "14.09.2026",
+      "pageUrl": "https://lokalizace.net/localizations/sea-of-stars",
+      "howToInstallHtml": "<p>Stáhněte ZIP soubor a rozbalte ho do složky hry, nebo použijte aplikaci CZManager pro automatickou instalaci češtiny.</p>",
+      "changelogHtml": "<div><p><strong>Nová verze 3.0.60151</strong></p><p>Finální verze překladu pro finální verzi hry - Sunset Edition.</p></div>",
+      "authorsHtml": "<p>miracle.flame</p>",
+      "size": "20.6 MB",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Lokalizace.net",
+          "url": "https://lokalizace.net/api/download/1817",
+          "kind": "direct"
+        },
+        {
+          "label": "Версия 0.9.3",
+          "url": "https://lokalizace.net/api/download/1002",
+          "kind": "other"
+        },
+        {
+          "label": "Версия 0.9.2",
+          "url": "https://lokalizace.net/api/download/918",
+          "kind": "other"
+        },
+        {
+          "label": "Версия 0.9.1",
+          "url": "https://lokalizace.net/api/download/886",
+          "kind": "other"
+        }
+      ],
+      "steamAppId": "1244090"
+    },
+    {
       "title": "Call of Duty: Modern Warfare 2",
       "studio": "Lokalizace.net",
       "studioUrl": "https://lokalizace.net/localizations/call-of-duty-modern-warfare-2",
@@ -14555,8 +14624,7 @@
           "url": "https://lokalizace.net/api/download/328",
           "kind": "other"
         }
-      ],
-      "steamAppId": "239160"
+      ]
     },
     {
       "title": "The Almost Gone",
@@ -17136,19 +17204,24 @@
       "hasNeuralVoice": false,
       "hasNeuralDub": false,
       "hasNeuralText": false,
-      "version": "1.22",
-      "updatedAt": "05.09.2026",
+      "version": "1.23",
+      "updatedAt": "14.09.2026",
       "pageUrl": "https://lokalizace.net/localizations/the-planet-crafter",
       "howToInstallHtml": "<p>Stáhněte ZIP soubor a rozbalte ho do složky hry, nebo použijte aplikaci CZManager pro automatickou instalaci češtiny.</p>",
-      "changelogHtml": "<div><p>Nahrána nová verze překladu: 1.22</p><p>Nahrána nová verze překladu: 1.21</p></div>",
+      "changelogHtml": "<div><p>Nahrána nová verze překladu: 1.23</p><p>Nahrána nová verze překladu: 1.22</p><p>Nahrána nová verze překladu: 1.21</p></div>",
       "authorsHtml": "<p>Lukyn92</p>",
       "size": "1.30 MB",
       "inDevelopment": false,
       "mirrors": [
         {
           "label": "Lokalizace.net",
-          "url": "https://lokalizace.net/api/download/1800",
+          "url": "https://lokalizace.net/api/download/1818",
           "kind": "direct"
+        },
+        {
+          "label": "Версия 1.22",
+          "url": "https://lokalizace.net/api/download/1800",
+          "kind": "other"
         },
         {
           "label": "Версия 1.21",
@@ -20294,6 +20367,28 @@
       "inDevelopment": true,
       "mirrors": [],
       "steamAppId": "2369390"
+    },
+    {
+      "title": "Slay The Princess The Pristine",
+      "studio": "Lokalizace.net",
+      "studioUrl": "https://lokalizace.net/localizations/slay-the-princess-the-pristine",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": null,
+      "updatedAt": null,
+      "pageUrl": "https://lokalizace.net/localizations/slay-the-princess-the-pristine",
+      "howToInstallHtml": "<p>Stáhněte ZIP soubor a rozbalte ho do složky hry, nebo použijte aplikaci CZManager pro automatickou instalaci češtiny.</p>",
+      "changelogHtml": null,
+      "authorsHtml": "<p>VocalSync Studios</p>",
+      "size": null,
+      "inDevelopment": true,
+      "mirrors": [],
+      "steamAppId": "1989270"
     },
     {
       "title": "35MM",
