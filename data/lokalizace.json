@@ -634,7 +634,7 @@
           "kind": "direct"
         }
       ],
-      "steamAppId": "4172530"
+      "steamAppId": "1175830"
     },
     {
       "title": "The Legend of Kyrandia: Hand Of Fate - CZ dabing",
@@ -662,7 +662,7 @@
           "kind": "direct"
         }
       ],
-      "steamAppId": "4172530"
+      "steamAppId": "1175830"
     },
     {
       "title": "Mass Effect Legendary Edition",
@@ -1612,23 +1612,23 @@
       "hasNeuralVoice": false,
       "hasNeuralDub": false,
       "hasNeuralText": false,
-      "version": "1.1.5",
-      "updatedAt": "23.08.2026",
+      "version": "1.2.0",
+      "updatedAt": "15.09.2026",
       "pageUrl": "https://lokalizace.net/localizations/007-first-light-1",
       "howToInstallHtml": "<p>Stáhněte ZIP soubor a rozbalte ho do složky hry, nebo použijte aplikaci CZManager pro automatickou instalaci češtiny.</p>",
-      "changelogHtml": "<div><p><strong>Nová verze 1.1.5</strong></p><ul><li><p>tohle je poslední a finální verze :) huraa</p></li></ul><p></p><p><strong>Nová verze 1.0.0</strong></p><ul><li><p>opraveno mnoooho chyb</p></li></ul><p></p></div>",
+      "changelogHtml": "<div><p><strong>Nová verze 1.2.0</strong></p><ul><li><p>chybjejici texty po posledni aktualizaci hry</p></li></ul><p></p><p><strong>Nová verze 1.1.5</strong></p><ul><li><p>tohle je poslední a finální verze :) huraa</p></li></ul><p></p></div>",
       "authorsHtml": "<p>Lokalizace.Net</p>",
       "size": "29.8 MB",
       "inDevelopment": false,
       "mirrors": [
         {
           "label": "Lokalizace.net",
-          "url": "https://lokalizace.net/api/download/1767",
+          "url": "https://lokalizace.net/api/download/1822",
           "kind": "direct"
         },
         {
-          "label": "Версия 1.0.0",
-          "url": "https://lokalizace.net/api/download/1725",
+          "label": "Версия 1.1.5",
+          "url": "https://lokalizace.net/api/download/1767",
           "kind": "other"
         }
       ],
@@ -1823,7 +1823,7 @@
           "kind": "direct"
         }
       ],
-      "steamAppId": "4172530"
+      "steamAppId": "1175830"
     },
     {
       "title": "HumanitZ",
@@ -2821,7 +2821,7 @@
           "kind": "direct"
         }
       ],
-      "steamAppId": "2131630"
+      "steamAppId": "393360"
     },
     {
       "title": "The Last Door - Collector's Edition",
@@ -3062,7 +3062,8 @@
           "url": "https://lokalizace.net/api/download/1379",
           "kind": "direct"
         }
-      ]
+      ],
+      "steamAppId": "393360"
     },
     {
       "title": "Layers of Fear",
@@ -9363,7 +9364,7 @@
           "kind": "other"
         }
       ],
-      "steamAppId": "4172530"
+      "steamAppId": "1175830"
     },
     {
       "title": "The Legend of Kyrandia: Malcolm's Revenge (1994)",
@@ -9396,7 +9397,7 @@
           "kind": "other"
         }
       ],
-      "steamAppId": "4172530"
+      "steamAppId": "1175830"
     },
     {
       "title": "The Legend of Kyrandia (1992)",
@@ -9429,7 +9430,7 @@
           "kind": "other"
         }
       ],
-      "steamAppId": "4172530"
+      "steamAppId": "1175830"
     },
     {
       "title": "King's Bounty mód Red Sands (2011)",
@@ -20297,18 +20298,18 @@
       "hasNeuralVoice": false,
       "hasNeuralDub": false,
       "hasNeuralText": false,
-      "version": "3.0.1-Enhanced",
-      "updatedAt": "23.08.2026",
+      "version": "3.0.3-Enhanced",
+      "updatedAt": "15.09.2026",
       "pageUrl": "https://lokalizace.net/localizations/grand-theft-auto-v-steam",
       "howToInstallHtml": "<p>Stáhněte ZIP soubor a rozbalte ho do složky hry, nebo použijte aplikaci CZManager pro automatickou instalaci češtiny.</p>",
-      "changelogHtml": "<div><p><strong>Nová verze 3.0.1-Enhanced</strong></p><ul><li><p>verze která funguje na všech OS</p></li><li><p>testovan byl pouze steam</p></li><li><p>nevyžaduje dotnet a ostatní věci. Jsou to přímo soubory</p></li></ul><p style=\"text-align: center\"><span style=\"color: rgb(249, 115, 22)\"><strong>Tahle verze je úplně stejná jako ta předtím, ničím se neliší. Jen je určena pro VIP/Supporter only.</strong></span></p></div>",
+      "changelogHtml": "<div><p><strong>Nová verze 3.0.3-Enhanced</strong></p><ul><li><p>aktualizace pro posleni verzi hry GTA5.exe <strong>(1.0.889.15)</strong></p></li><li><p>testovan byl pouze steam</p></li><li><p>nevyžaduje dotnet a ostatní věci. Jsou to přímo soubory</p></li></ul><p style=\"text-align: center\"><span style=\"font-size: 14px; color: rgb(249, 115, 22)\"><strong>Tahle verze je úplně stejná jako ta předtím, ničím se neliší. Jen je určena pro VIP/Supporter only.</strong></span><br><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" class=\"text-primary underline\" href=\"https://lokalizace.net/localizations/grand-theft-auto-v-steam?tab=discussion&amp;highlight=6273\"><span style=\"color: rgb(249, 115, 22)\"><strong><u>tady je vysvetlení</u></strong></span></a></p></div>",
       "authorsHtml": "<p>Lokalizace.Net</p>",
       "size": "3.39 GB",
       "inDevelopment": false,
       "mirrors": [
         {
           "label": "Lokalizace.net",
-          "url": "https://lokalizace.net/api/download/1768",
+          "url": "https://lokalizace.net/api/download/1823",
           "kind": "direct"
         },
         {
@@ -20369,7 +20370,7 @@
       "steamAppId": "2369390"
     },
     {
-      "title": "Slay The Princess The Pristine",
+      "title": "Slay The Princess The Pristine - Titulky & Dabing",
       "studio": "Lokalizace.net",
       "studioUrl": "https://lokalizace.net/localizations/slay-the-princess-the-pristine",
       "language": "Čeština",
@@ -20388,7 +20389,7 @@
       "size": null,
       "inDevelopment": true,
       "mirrors": [],
-      "steamAppId": "1989270"
+      "steamAppId": "4103360"
     },
     {
       "title": "35MM",
