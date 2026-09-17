@@ -5,6 +5,61 @@
   "siteUrl": "https://hernipreklady.cz",
   "localizations": [
     {
+      "title": "Alan Wake 2",
+      "studio": "HerníPřeklady",
+      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/alan-wake-2",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": "1.6",
+      "updatedAt": "31.01.2025",
+      "requiredGameVersion": "1.2.4",
+      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/alan-wake-2",
+      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
+      "authorsHtml": "<p><strong>Překlad:</strong> Luc2as a Mayki<br><strong>Technika:</strong> Termit<br><strong>Korekce songů:</strong> Andrej Kalinin</p>",
+      "inDevelopment": false,
+      "size": "10.5 MB",
+      "mirrors": [
+        {
+          "label": "HerníPřeklady",
+          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=337",
+          "kind": "direct"
+        }
+      ]
+    },
+    {
+      "title": "Two Point Museum",
+      "studio": "HerníPřeklady",
+      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/two-point-museum",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": "2.0",
+      "updatedAt": null,
+      "requiredGameVersion": "Aktuální Steam",
+      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/two-point-museum",
+      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
+      "authorsHtml": null,
+      "inDevelopment": false,
+      "size": "2.70 MB",
+      "mirrors": [
+        {
+          "label": "HerníPřeklady",
+          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=605",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "2185060"
+    },
+    {
       "title": "Graveyard Keeper 2",
       "studio": "HerníPřeklady",
       "studioUrl": "https://hernipreklady.cz/seznam-prekladu/graveyard-keeper-2",
@@ -166,9 +221,9 @@
       ]
     },
     {
-      "title": "Terra Invicta",
+      "title": "Dune: Spice Wars",
       "studio": "HerníPřeklady",
-      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/terra-invicta",
+      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/dune-spice-wars",
       "language": "Čeština",
       "hasText": true,
       "hasVoice": false,
@@ -176,27 +231,27 @@
       "hasNeuralVoice": false,
       "hasNeuralDub": false,
       "hasNeuralText": false,
-      "version": null,
-      "updatedAt": null,
-      "requiredGameVersion": "1.0.53 + DLC",
-      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/terra-invicta",
+      "version": "1.12",
+      "updatedAt": "07.02.2026",
+      "requiredGameVersion": "2.2.7.32974+",
+      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/dune-spice-wars",
       "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
-      "authorsHtml": "<p><strong>Překlad:</strong> Ralph Shepard</p>",
+      "authorsHtml": "<p><strong>Překlad:</strong> Jetro, Coffin Corner, Ralph Shepard, Spid3rCZ<br><strong>Testování:</strong> Andrewek</p>",
       "inDevelopment": false,
-      "size": "835 KB",
+      "size": "7.23 MB",
       "mirrors": [
         {
           "label": "HerníPřeklady",
-          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=607",
+          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=519",
           "kind": "direct"
         }
       ],
-      "steamAppId": "1176470"
+      "steamAppId": "1605220"
     },
     {
-      "title": "Two Point Museum",
+      "title": "Diablo II Resurrected Infernal Edition",
       "studio": "HerníPřeklady",
-      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/two-point-museum",
+      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/diablo-ii-resurrected-infernal-edition",
       "language": "Čeština",
       "hasText": true,
       "hasVoice": false,
@@ -204,22 +259,22 @@
       "hasNeuralVoice": false,
       "hasNeuralDub": false,
       "hasNeuralText": false,
-      "version": "2.0",
-      "updatedAt": null,
-      "requiredGameVersion": "Aktuální Steam",
-      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/two-point-museum",
+      "version": "3.0.0",
+      "updatedAt": "07.08.2026",
+      "requiredGameVersion": "Všechny verze (OFFLINE)",
+      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/diablo-ii-resurrected-infernal-edition",
       "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
       "authorsHtml": null,
       "inDevelopment": false,
-      "size": "2.70 MB",
+      "size": "13.5 MB",
       "mirrors": [
         {
           "label": "HerníPřeklady",
-          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=605",
+          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=600",
           "kind": "direct"
         }
       ],
-      "steamAppId": "2185060"
+      "steamAppId": "2536520"
     },
     {
       "title": "Indiana Jones and The Great Circle",
@@ -1071,34 +1126,6 @@
       ]
     },
     {
-      "title": "Diablo II Resurrected Infernal Edition",
-      "studio": "HerníPřeklady",
-      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/diablo-ii-resurrected-infernal-edition",
-      "language": "Čeština",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": "3.0.0",
-      "updatedAt": "07.08.2026",
-      "requiredGameVersion": "Všechny verze (OFFLINE)",
-      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/diablo-ii-resurrected-infernal-edition",
-      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
-      "authorsHtml": null,
-      "inDevelopment": false,
-      "size": "13.5 MB",
-      "mirrors": [
-        {
-          "label": "HerníPřeklady",
-          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=600",
-          "kind": "direct"
-        }
-      ],
-      "steamAppId": "2536520"
-    },
-    {
       "title": "Go Home Annie",
       "studio": "HerníPřeklady",
       "studioUrl": "https://hernipreklady.cz/seznam-prekladu/go-home-annie",
@@ -1939,9 +1966,9 @@
       "steamAppId": "1681430"
     },
     {
-      "title": "Alan Wake 2",
+      "title": "Terra Invicta",
       "studio": "HerníPřeklady",
-      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/alan-wake-2",
+      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/terra-invicta",
       "language": "Čeština",
       "hasText": true,
       "hasVoice": false,
@@ -1949,49 +1976,22 @@
       "hasNeuralVoice": false,
       "hasNeuralDub": false,
       "hasNeuralText": false,
-      "version": "1.6",
-      "updatedAt": "31.01.2025",
-      "requiredGameVersion": "1.2.4",
-      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/alan-wake-2",
+      "version": null,
+      "updatedAt": null,
+      "requiredGameVersion": "1.0.53 + DLC",
+      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/terra-invicta",
       "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
-      "authorsHtml": "<p><strong>Překlad:</strong> Luc2as a Mayki<br><strong>Technika:</strong> Termit<br><strong>Korekce songů:</strong> Andrej Kalinin</p>",
+      "authorsHtml": "<p><strong>Překlad:</strong> Ralph Shepard</p>",
       "inDevelopment": false,
-      "size": "10.5 MB",
+      "size": "835 KB",
       "mirrors": [
         {
           "label": "HerníPřeklady",
-          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=337",
-          "kind": "direct"
-        }
-      ]
-    },
-    {
-      "title": "Dune: Spice Wars",
-      "studio": "HerníPřeklady",
-      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/dune-spice-wars",
-      "language": "Čeština",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": "1.12",
-      "updatedAt": "07.02.2026",
-      "requiredGameVersion": "2.2.7.32974+",
-      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/dune-spice-wars",
-      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
-      "authorsHtml": "<p><strong>Překlad:</strong> Jetro, Coffin Corner, Ralph Shepard, Spid3rCZ<br><strong>Testování:</strong> Andrewek</p>",
-      "inDevelopment": false,
-      "size": "7.23 MB",
-      "mirrors": [
-        {
-          "label": "HerníPřeklady",
-          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=519",
+          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=607",
           "kind": "direct"
         }
       ],
-      "steamAppId": "1605220"
+      "steamAppId": "1176470"
     },
     {
       "title": "Shadow Gambit: The Cursed Crew Complete Edition",
@@ -4302,7 +4302,7 @@
           "kind": "direct"
         }
       ],
-      "steamAppId": "3731860"
+      "steamAppId": "906100"
     },
     {
       "title": "Invisible hours",
@@ -4470,7 +4470,7 @@
           "kind": "direct"
         }
       ],
-      "steamAppId": "985830"
+      "steamAppId": "1520500"
     },
     {
       "title": "Twin Mirror",

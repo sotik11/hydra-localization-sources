@@ -301,9 +301,9 @@
       ]
     },
     {
-      "title": "Undertale",
+      "title": "60 Seconds!",
       "studio": "Türkçe Yama",
-      "studioUrl": "https://turkce-yama.com/undertale-turkce-yama.htm",
+      "studioUrl": "https://turkce-yama.com/60-seconds-turkce-yama.htm",
       "language": "Türkçe",
       "hasText": true,
       "hasVoice": false,
@@ -312,47 +312,20 @@
       "hasNeuralDub": false,
       "hasNeuralText": false,
       "version": null,
-      "updatedAt": "21.01.2020",
-      "pageUrl": "https://turkce-yama.com/undertale-turkce-yama.htm",
+      "updatedAt": "05.02.2019",
+      "pageUrl": "https://turkce-yama.com/60-seconds-turkce-yama.htm",
       "howToInstallHtml": "<ol><li>Yama dosyasını yukarıdaki «İndir» butonuyla indirin.</li><li>Kurulum dosyasıysa (.exe) çalıştırın; arşivse (.rar/.zip) çıkartın.</li><li>Oyunun kurulu olduğu klasörü gösterin / dosyaları oraya kopyalayın.</li><li>Oyunu başlatın — Türkçe yama uygulanmış olacaktır.</li></ol>",
       "authorsHtml": null,
-      "size": "25.1 MB",
+      "size": "5.98 MB",
       "inDevelopment": false,
       "mirrors": [
         {
           "label": "Türkçe Yama",
-          "url": "https://turkce-yama.com/undertale-turkce-yama.htm",
+          "url": "https://turkce-yama.com/60-seconds-turkce-yama.htm",
           "kind": "other"
         }
       ],
-      "steamAppId": "391540"
-    },
-    {
-      "title": "Shadow of the Tomb Raider",
-      "studio": "Türkçe Yama",
-      "studioUrl": "https://turkce-yama.com/shadow-of-the-tomb-raider-turkce-yama.htm",
-      "language": "Türkçe",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": null,
-      "updatedAt": "23.03.2019",
-      "pageUrl": "https://turkce-yama.com/shadow-of-the-tomb-raider-turkce-yama.htm",
-      "howToInstallHtml": "<ol><li>Yama dosyasını yukarıdaki «İndir» butonuyla indirin.</li><li>Kurulum dosyasıysa (.exe) çalıştırın; arşivse (.rar/.zip) çıkartın.</li><li>Oyunun kurulu olduğu klasörü gösterin / dosyaları oraya kopyalayın.</li><li>Oyunu başlatın — Türkçe yama uygulanmış olacaktır.</li></ol>",
-      "authorsHtml": null,
-      "size": "29.4 MB",
-      "inDevelopment": false,
-      "mirrors": [
-        {
-          "label": "Türkçe Yama",
-          "url": "https://turkce-yama.com/shadow-of-the-tomb-raider-turkce-yama.htm",
-          "kind": "other"
-        }
-      ],
-      "steamAppId": "750920"
+      "steamAppId": "368360"
     },
     {
       "title": "Far Cry 5",
@@ -380,6 +353,33 @@
         }
       ],
       "steamAppId": "552520"
+    },
+    {
+      "title": "Undertale",
+      "studio": "Türkçe Yama",
+      "studioUrl": "https://turkce-yama.com/undertale-turkce-yama.htm",
+      "language": "Türkçe",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": null,
+      "updatedAt": "21.01.2020",
+      "pageUrl": "https://turkce-yama.com/undertale-turkce-yama.htm",
+      "howToInstallHtml": "<ol><li>Yama dosyasını yukarıdaki «İndir» butonuyla indirin.</li><li>Kurulum dosyasıysa (.exe) çalıştırın; arşivse (.rar/.zip) çıkartın.</li><li>Oyunun kurulu olduğu klasörü gösterin / dosyaları oraya kopyalayın.</li><li>Oyunu başlatın — Türkçe yama uygulanmış olacaktır.</li></ol>",
+      "authorsHtml": null,
+      "size": "25.1 MB",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Türkçe Yama",
+          "url": "https://turkce-yama.com/undertale-turkce-yama.htm",
+          "kind": "other"
+        }
+      ],
+      "steamAppId": "391540"
     },
     {
       "title": "Mafia 2",
@@ -461,6 +461,33 @@
         }
       ],
       "steamAppId": "220240"
+    },
+    {
+      "title": "Shadow of the Tomb Raider",
+      "studio": "Türkçe Yama",
+      "studioUrl": "https://turkce-yama.com/shadow-of-the-tomb-raider-turkce-yama.htm",
+      "language": "Türkçe",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": null,
+      "updatedAt": "23.03.2019",
+      "pageUrl": "https://turkce-yama.com/shadow-of-the-tomb-raider-turkce-yama.htm",
+      "howToInstallHtml": "<ol><li>Yama dosyasını yukarıdaki «İndir» butonuyla indirin.</li><li>Kurulum dosyasıysa (.exe) çalıştırın; arşivse (.rar/.zip) çıkartın.</li><li>Oyunun kurulu olduğu klasörü gösterin / dosyaları oraya kopyalayın.</li><li>Oyunu başlatın — Türkçe yama uygulanmış olacaktır.</li></ol>",
+      "authorsHtml": null,
+      "size": "29.4 MB",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Türkçe Yama",
+          "url": "https://turkce-yama.com/shadow-of-the-tomb-raider-turkce-yama.htm",
+          "kind": "other"
+        }
+      ],
+      "steamAppId": "750920"
     },
     {
       "title": "Pro Evolution Soccer 2013",
@@ -5277,33 +5304,6 @@
         }
       ],
       "steamAppId": "738520"
-    },
-    {
-      "title": "60 Seconds!",
-      "studio": "Türkçe Yama",
-      "studioUrl": "https://turkce-yama.com/60-seconds-turkce-yama.htm",
-      "language": "Türkçe",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": null,
-      "updatedAt": "05.02.2019",
-      "pageUrl": "https://turkce-yama.com/60-seconds-turkce-yama.htm",
-      "howToInstallHtml": "<ol><li>Yama dosyasını yukarıdaki «İndir» butonuyla indirin.</li><li>Kurulum dosyasıysa (.exe) çalıştırın; arşivse (.rar/.zip) çıkartın.</li><li>Oyunun kurulu olduğu klasörü gösterin / dosyaları oraya kopyalayın.</li><li>Oyunu başlatın — Türkçe yama uygulanmış olacaktır.</li></ol>",
-      "authorsHtml": null,
-      "size": "5.98 MB",
-      "inDevelopment": false,
-      "mirrors": [
-        {
-          "label": "Türkçe Yama",
-          "url": "https://turkce-yama.com/60-seconds-turkce-yama.htm",
-          "kind": "other"
-        }
-      ],
-      "steamAppId": "368360"
     },
     {
       "title": "House Party",
