@@ -221,9 +221,9 @@
       ]
     },
     {
-      "title": "Dune: Spice Wars",
+      "title": "Code Vein 2",
       "studio": "HerníPřeklady",
-      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/dune-spice-wars",
+      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/code-vein-2",
       "language": "Čeština",
       "hasText": true,
       "hasVoice": false,
@@ -231,55 +231,27 @@
       "hasNeuralVoice": false,
       "hasNeuralDub": false,
       "hasNeuralText": false,
-      "version": "1.12",
-      "updatedAt": "07.02.2026",
-      "requiredGameVersion": "2.2.7.32974+",
-      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/dune-spice-wars",
-      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
-      "authorsHtml": "<p><strong>Překlad:</strong> Jetro, Coffin Corner, Ralph Shepard, Spid3rCZ<br><strong>Testování:</strong> Andrewek</p>",
-      "inDevelopment": false,
-      "size": "7.23 MB",
-      "mirrors": [
-        {
-          "label": "HerníPřeklady",
-          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=519",
-          "kind": "direct"
-        }
-      ],
-      "steamAppId": "1605220"
-    },
-    {
-      "title": "Diablo II Resurrected Infernal Edition",
-      "studio": "HerníPřeklady",
-      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/diablo-ii-resurrected-infernal-edition",
-      "language": "Čeština",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": "3.0.0",
-      "updatedAt": "07.08.2026",
-      "requiredGameVersion": "Všechny verze (OFFLINE)",
-      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/diablo-ii-resurrected-infernal-edition",
+      "version": "1.1",
+      "updatedAt": "26.04.2026",
+      "requiredGameVersion": "1.0.9",
+      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/code-vein-2",
       "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
       "authorsHtml": null,
       "inDevelopment": false,
-      "size": "13.5 MB",
+      "size": "1.12 MB",
       "mirrors": [
         {
           "label": "HerníPřeklady",
-          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=600",
+          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=565",
           "kind": "direct"
         }
       ],
-      "steamAppId": "2536520"
+      "steamAppId": "2362060"
     },
     {
-      "title": "Indiana Jones and The Great Circle",
+      "title": "Flintlock: The SIege of Dawn",
       "studio": "HerníPřeklady",
-      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/indiana-jones-and-the-great-circle",
+      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/flintlock-the-siege-of-dawn",
       "language": "Čeština",
       "hasText": true,
       "hasVoice": false,
@@ -287,27 +259,27 @@
       "hasNeuralVoice": false,
       "hasNeuralDub": false,
       "hasNeuralText": false,
-      "version": "1.85",
-      "updatedAt": "11.07.2026",
-      "requiredGameVersion": "Update 8 &ndash; Hotfix 1",
-      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/indiana-jones-and-the-great-circle",
+      "version": "1.0",
+      "updatedAt": "30.06.2025",
+      "requiredGameVersion": "1.0",
+      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/flintlock-the-siege-of-dawn",
       "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
-      "authorsHtml": null,
+      "authorsHtml": "<p><strong>Překlad:</strong> Kubinx</p>",
       "inDevelopment": false,
-      "size": "118.4 MB",
+      "size": "471 KB",
       "mirrors": [
         {
           "label": "HerníPřeklady",
-          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=591",
+          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=383",
           "kind": "direct"
         }
       ],
-      "steamAppId": "2677660"
+      "steamAppId": "1832040"
     },
     {
-      "title": "Anno 1800",
+      "title": "Shadow Gambit: The Cursed Crew Complete Edition",
       "studio": "HerníPřeklady",
-      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/anno-1800",
+      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/shadow-gambit-the-cursed-crew-complete-edition",
       "language": "Čeština",
       "hasText": true,
       "hasVoice": false,
@@ -315,50 +287,22 @@
       "hasNeuralVoice": false,
       "hasNeuralDub": false,
       "hasNeuralText": false,
-      "version": "1.40",
-      "updatedAt": "06.12.2024",
-      "requiredGameVersion": "18.4",
-      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/anno-1800",
+      "version": "1.2",
+      "updatedAt": "21.04.2026",
+      "requiredGameVersion": "1.2.133.r40893.f",
+      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/shadow-gambit-the-cursed-crew-complete-edition",
       "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
-      "authorsHtml": "<p><strong>Překlad:</strong> Jetro, Ralph Shepard, Coffin Corner, Mdzirza, Gear<br><strong>Testování:</strong> Jetro, Kondor114, Mdzirza</p>",
+      "authorsHtml": "<p><strong>Překlad a test:</strong> Andrewek</p>",
       "inDevelopment": false,
-      "size": "2.42 MB",
+      "size": "200.0 MB",
       "mirrors": [
         {
           "label": "HerníPřeklady",
-          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=297",
+          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=560",
           "kind": "direct"
         }
       ],
-      "steamAppId": "916440"
-    },
-    {
-      "title": "Wartales + DLC",
-      "studio": "HerníPřeklady",
-      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/wartales-dlc",
-      "language": "Čeština",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": "2.6",
-      "updatedAt": "19.06.2026",
-      "requiredGameVersion": "1.0.47036",
-      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/wartales-dlc",
-      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
-      "authorsHtml": "<p><strong>Překlad a testování:</strong> Andrewek</p>",
-      "inDevelopment": false,
-      "size": "8.49 MB",
-      "mirrors": [
-        {
-          "label": "HerníPřeklady",
-          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=582",
-          "kind": "direct"
-        }
-      ],
-      "steamAppId": "1527950"
+      "steamAppId": "1545560"
     },
     {
       "title": "Titanfall 2",
@@ -443,34 +387,6 @@
         }
       ],
       "steamAppId": "2005090"
-    },
-    {
-      "title": "Code Vein 2",
-      "studio": "HerníPřeklady",
-      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/code-vein-2",
-      "language": "Čeština",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": "1.1",
-      "updatedAt": "26.04.2026",
-      "requiredGameVersion": "1.0.9",
-      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/code-vein-2",
-      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
-      "authorsHtml": null,
-      "inDevelopment": false,
-      "size": "1.12 MB",
-      "mirrors": [
-        {
-          "label": "HerníPřeklady",
-          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=565",
-          "kind": "direct"
-        }
-      ],
-      "steamAppId": "2362060"
     },
     {
       "title": "Cairn",
@@ -1126,6 +1042,34 @@
       ]
     },
     {
+      "title": "Diablo II Resurrected Infernal Edition",
+      "studio": "HerníPřeklady",
+      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/diablo-ii-resurrected-infernal-edition",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": "3.0.0",
+      "updatedAt": "07.08.2026",
+      "requiredGameVersion": "Všechny verze (OFFLINE)",
+      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/diablo-ii-resurrected-infernal-edition",
+      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
+      "authorsHtml": null,
+      "inDevelopment": false,
+      "size": "13.5 MB",
+      "mirrors": [
+        {
+          "label": "HerníPřeklady",
+          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=600",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "2536520"
+    },
+    {
       "title": "Go Home Annie",
       "studio": "HerníPřeklady",
       "studioUrl": "https://hernipreklady.cz/seznam-prekladu/go-home-annie",
@@ -1152,6 +1096,34 @@
         }
       ],
       "steamAppId": "1535030"
+    },
+    {
+      "title": "Indiana Jones and The Great Circle",
+      "studio": "HerníPřeklady",
+      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/indiana-jones-and-the-great-circle",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": "1.85",
+      "updatedAt": "11.07.2026",
+      "requiredGameVersion": "Update 8 &ndash; Hotfix 1",
+      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/indiana-jones-and-the-great-circle",
+      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
+      "authorsHtml": null,
+      "inDevelopment": false,
+      "size": "118.4 MB",
+      "mirrors": [
+        {
+          "label": "HerníPřeklady",
+          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=591",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "2677660"
     },
     {
       "title": "Once Alive",
@@ -1432,34 +1404,6 @@
         }
       ],
       "steamAppId": "1939970"
-    },
-    {
-      "title": "Flintlock: The SIege of Dawn",
-      "studio": "HerníPřeklady",
-      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/flintlock-the-siege-of-dawn",
-      "language": "Čeština",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": "1.0",
-      "updatedAt": "30.06.2025",
-      "requiredGameVersion": "1.0",
-      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/flintlock-the-siege-of-dawn",
-      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
-      "authorsHtml": "<p><strong>Překlad:</strong> Kubinx</p>",
-      "inDevelopment": false,
-      "size": "471 KB",
-      "mirrors": [
-        {
-          "label": "HerníPřeklady",
-          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=383",
-          "kind": "direct"
-        }
-      ],
-      "steamAppId": "1832040"
     },
     {
       "title": "Daymare: 1994 Sandcastle",
@@ -1966,6 +1910,34 @@
       "steamAppId": "1681430"
     },
     {
+      "title": "Dune: Spice Wars",
+      "studio": "HerníPřeklady",
+      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/dune-spice-wars",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": "1.12",
+      "updatedAt": "07.02.2026",
+      "requiredGameVersion": "2.2.7.32974+",
+      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/dune-spice-wars",
+      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
+      "authorsHtml": "<p><strong>Překlad:</strong> Jetro, Coffin Corner, Ralph Shepard, Spid3rCZ<br><strong>Testování:</strong> Andrewek</p>",
+      "inDevelopment": false,
+      "size": "7.23 MB",
+      "mirrors": [
+        {
+          "label": "HerníPřeklady",
+          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=519",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "1605220"
+    },
+    {
       "title": "Terra Invicta",
       "studio": "HerníPřeklady",
       "studioUrl": "https://hernipreklady.cz/seznam-prekladu/terra-invicta",
@@ -1992,34 +1964,6 @@
         }
       ],
       "steamAppId": "1176470"
-    },
-    {
-      "title": "Shadow Gambit: The Cursed Crew Complete Edition",
-      "studio": "HerníPřeklady",
-      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/shadow-gambit-the-cursed-crew-complete-edition",
-      "language": "Čeština",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": "1.2",
-      "updatedAt": "21.04.2026",
-      "requiredGameVersion": "1.2.133.r40893.f",
-      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/shadow-gambit-the-cursed-crew-complete-edition",
-      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
-      "authorsHtml": "<p><strong>Překlad a test:</strong> Andrewek</p>",
-      "inDevelopment": false,
-      "size": "200.0 MB",
-      "mirrors": [
-        {
-          "label": "HerníPřeklady",
-          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=560",
-          "kind": "direct"
-        }
-      ],
-      "steamAppId": "1545560"
     },
     {
       "title": "Kona 2: Brume",
@@ -2577,6 +2521,34 @@
         }
       ],
       "steamAppId": "289070"
+    },
+    {
+      "title": "Anno 1800",
+      "studio": "HerníPřeklady",
+      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/anno-1800",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": "1.40",
+      "updatedAt": "06.12.2024",
+      "requiredGameVersion": "18.4",
+      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/anno-1800",
+      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
+      "authorsHtml": "<p><strong>Překlad:</strong> Jetro, Ralph Shepard, Coffin Corner, Mdzirza, Gear<br><strong>Testování:</strong> Jetro, Kondor114, Mdzirza</p>",
+      "inDevelopment": false,
+      "size": "2.42 MB",
+      "mirrors": [
+        {
+          "label": "HerníPřeklady",
+          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=297",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "916440"
     },
     {
       "title": "Disco Elysium - The Final Cut",
@@ -3193,6 +3165,34 @@
         }
       ],
       "steamAppId": "428660"
+    },
+    {
+      "title": "Wartales + DLC",
+      "studio": "HerníPřeklady",
+      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/wartales-dlc",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": "2.6",
+      "updatedAt": "19.06.2026",
+      "requiredGameVersion": "1.0.47036",
+      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/wartales-dlc",
+      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
+      "authorsHtml": "<p><strong>Překlad a testování:</strong> Andrewek</p>",
+      "inDevelopment": false,
+      "size": "8.49 MB",
+      "mirrors": [
+        {
+          "label": "HerníPřeklady",
+          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=582",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "1527950"
     },
     {
       "title": "Returnal",
@@ -4470,7 +4470,7 @@
           "kind": "direct"
         }
       ],
-      "steamAppId": "1520500"
+      "steamAppId": "985830"
     },
     {
       "title": "Twin Mirror",
