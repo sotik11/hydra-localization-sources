@@ -5,6 +5,56 @@
   "siteUrl": "https://hernipreklady.cz",
   "localizations": [
     {
+      "title": "Once Alive",
+      "studio": "HerníPřeklady",
+      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/once-alive",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": "1.10",
+      "updatedAt": null,
+      "requiredGameVersion": "v1.2.8",
+      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/once-alive",
+      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
+      "authorsHtml": null,
+      "inDevelopment": false,
+      "size": "2.32 MB",
+      "mirrors": [
+        {
+          "label": "HerníPřeklady",
+          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=613",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "2336440"
+    },
+    {
+      "title": "Graveyard Keeper 2",
+      "studio": "HerníPřeklady",
+      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/graveyard-keeper-2",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": null,
+      "updatedAt": null,
+      "requiredGameVersion": "1.002.4 (Win/PC)",
+      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/graveyard-keeper-2",
+      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
+      "authorsHtml": "<p><strong>Překlad:</strong> Jetro<br><strong>Testování:</strong> Jetro</p>",
+      "inDevelopment": true,
+      "size": null,
+      "mirrors": [],
+      "steamAppId": "4358690"
+    },
+    {
       "title": "Alan Wake 2",
       "studio": "HerníPřeklady",
       "studioUrl": "https://hernipreklady.cz/seznam-prekladu/alan-wake-2",
@@ -58,28 +108,6 @@
         }
       ],
       "steamAppId": "2185060"
-    },
-    {
-      "title": "Graveyard Keeper 2",
-      "studio": "HerníPřeklady",
-      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/graveyard-keeper-2",
-      "language": "Čeština",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": null,
-      "updatedAt": null,
-      "requiredGameVersion": "plná verze (Win/PC)",
-      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/graveyard-keeper-2",
-      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
-      "authorsHtml": "<p><strong>Překlad:</strong> Jetro<br><strong>Testování:</strong> Jetro</p>",
-      "inDevelopment": true,
-      "size": null,
-      "mirrors": [],
-      "steamAppId": "4358690"
     },
     {
       "title": "Civilization VII",
@@ -192,33 +220,6 @@
         }
       ],
       "steamAppId": "1783560"
-    },
-    {
-      "title": "Anno 117",
-      "studio": "HerníPřeklady",
-      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/anno-117",
-      "language": "Čeština",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": "1.08",
-      "updatedAt": null,
-      "requiredGameVersion": "2.0.1702353+",
-      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/anno-117",
-      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
-      "authorsHtml": "<p><strong>Překlad:</strong> Jetro, Ralph Shepard,<br><strong>Korektura:</strong> Jetro<br><strong>Testování:</strong> Andrewek, Jetro,</p>",
-      "inDevelopment": false,
-      "size": "3.59 MB",
-      "mirrors": [
-        {
-          "label": "HerníPřeklady",
-          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=608",
-          "kind": "direct"
-        }
-      ]
     },
     {
       "title": "Code Vein 2",
@@ -691,6 +692,33 @@
       "steamAppId": "2464280"
     },
     {
+      "title": "Anno 117",
+      "studio": "HerníPřeklady",
+      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/anno-117",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": "1.08",
+      "updatedAt": null,
+      "requiredGameVersion": "2.0.1702353+",
+      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/anno-117",
+      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
+      "authorsHtml": "<p><strong>Překlad:</strong> Jetro, Ralph Shepard,<br><strong>Korektura:</strong> Jetro<br><strong>Testování:</strong> Andrewek, Jetro,</p>",
+      "inDevelopment": false,
+      "size": "3.59 MB",
+      "mirrors": [
+        {
+          "label": "HerníPřeklady",
+          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=608",
+          "kind": "direct"
+        }
+      ]
+    },
+    {
       "title": "Two Point Campus",
       "studio": "HerníPřeklady",
       "studioUrl": "https://hernipreklady.cz/seznam-prekladu/two-point-campus",
@@ -1124,34 +1152,6 @@
         }
       ],
       "steamAppId": "2677660"
-    },
-    {
-      "title": "Once Alive",
-      "studio": "HerníPřeklady",
-      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/once-alive",
-      "language": "Čeština",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": "1.00",
-      "updatedAt": "17.01.2025",
-      "requiredGameVersion": "v0.9.9.98",
-      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/once-alive",
-      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
-      "authorsHtml": null,
-      "inDevelopment": false,
-      "size": "1.17 MB",
-      "mirrors": [
-        {
-          "label": "HerníPřeklady",
-          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=325",
-          "kind": "direct"
-        }
-      ],
-      "steamAppId": "2336440"
     },
     {
       "title": "Alien: Rogue Incursion VR",
@@ -4302,7 +4302,7 @@
           "kind": "direct"
         }
       ],
-      "steamAppId": "906100"
+      "steamAppId": "3731860"
     },
     {
       "title": "Invisible hours",
@@ -4470,7 +4470,7 @@
           "kind": "direct"
         }
       ],
-      "steamAppId": "985830"
+      "steamAppId": "1520500"
     },
     {
       "title": "Twin Mirror",
