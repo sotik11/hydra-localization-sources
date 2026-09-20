@@ -22,11 +22,11 @@
       "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
       "authorsHtml": null,
       "inDevelopment": false,
-      "size": "2.32 MB",
+      "size": "2.23 MB",
       "mirrors": [
         {
           "label": "HerníPřeklady",
-          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=613",
+          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=614",
           "kind": "direct"
         }
       ],
@@ -276,34 +276,6 @@
         }
       ],
       "steamAppId": "1832040"
-    },
-    {
-      "title": "Shadow Gambit: The Cursed Crew Complete Edition",
-      "studio": "HerníPřeklady",
-      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/shadow-gambit-the-cursed-crew-complete-edition",
-      "language": "Čeština",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": "1.2",
-      "updatedAt": "21.04.2026",
-      "requiredGameVersion": "1.2.133.r40893.f",
-      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/shadow-gambit-the-cursed-crew-complete-edition",
-      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
-      "authorsHtml": "<p><strong>Překlad a test:</strong> Andrewek</p>",
-      "inDevelopment": false,
-      "size": "200.0 MB",
-      "mirrors": [
-        {
-          "label": "HerníPřeklady",
-          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=560",
-          "kind": "direct"
-        }
-      ],
-      "steamAppId": "1545560"
     },
     {
       "title": "Titanfall 2",
@@ -1964,6 +1936,34 @@
         }
       ],
       "steamAppId": "1176470"
+    },
+    {
+      "title": "Shadow Gambit: The Cursed Crew Complete Edition",
+      "studio": "HerníPřeklady",
+      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/shadow-gambit-the-cursed-crew-complete-edition",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": "1.2",
+      "updatedAt": "21.04.2026",
+      "requiredGameVersion": "1.2.133.r40893.f",
+      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/shadow-gambit-the-cursed-crew-complete-edition",
+      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
+      "authorsHtml": "<p><strong>Překlad a test:</strong> Andrewek</p>",
+      "inDevelopment": false,
+      "size": "200.0 MB",
+      "mirrors": [
+        {
+          "label": "HerníPřeklady",
+          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=560",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "1545560"
     },
     {
       "title": "Kona 2: Brume",
@@ -4470,7 +4470,7 @@
           "kind": "direct"
         }
       ],
-      "steamAppId": "1520500"
+      "steamAppId": "985830"
     },
     {
       "title": "Twin Mirror",

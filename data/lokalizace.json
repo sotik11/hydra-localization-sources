@@ -4473,7 +4473,7 @@
       "updatedAt": null,
       "pageUrl": "https://lokalizace.net/localizations/hearts-of-iron-4",
       "howToInstallHtml": "<p>Stáhněte ZIP soubor a rozbalte ho do složky hry, nebo použijte aplikaci CZManager pro automatickou instalaci češtiny.</p>",
-      "changelogHtml": "<div><p>Nahrána nová verze překladu: 1.19.2</p><p><strong>Nová verze 1.19.1</strong></p><p>Kompletní čeština pro verzi 1.19.1</p><p><strong>Nová verze 1.19.1-BETA</strong></p><p>Nejsou přeloženy 3 soubory. Kompletní překlad bude brzy.</p><p>Nahrána nová verze překladu: 1.18.3</p><p>Nahrána nová verze překladu: 1.18.2</p><p>Nahrána nová verze překladu: 1.18.1</p><p><strong>Nová verze 1.18.0</strong></p><p>plná verze překladu </p><p><strong>Nová verze 1.18.0-beta</strong></p><p>Jedna se o beta verzi. Stavající soubory doplněny na aktualní verzi. Z novych chybí přeložit tři soubory. Ty jsou v beta verzi v originale.</p><p><strong>Nová verze 1.17.5</strong></p><p>čeština pro verzi 1.17.5</p><p>Nahrána nová verze překladu: 1.17.4</p><p><strong>Nová verze 1.17.3</strong></p><p>Oprava chyb v překladu</p></div>",
+      "changelogHtml": "<div><p>Nahrána nová verze překladu: 1.19.3</p><p>Nahrána nová verze překladu: 1.19.2</p><p><strong>Nová verze 1.19.1</strong></p><p>Kompletní čeština pro verzi 1.19.1</p><p><strong>Nová verze 1.19.1-BETA</strong></p><p>Nejsou přeloženy 3 soubory. Kompletní překlad bude brzy.</p><p>Nahrána nová verze překladu: 1.18.3</p><p>Nahrána nová verze překladu: 1.18.2</p><p>Nahrána nová verze překladu: 1.18.1</p><p><strong>Nová verze 1.18.0</strong></p><p>plná verze překladu </p><p><strong>Nová verze 1.18.0-beta</strong></p><p>Jedna se o beta verzi. Stavající soubory doplněny na aktualní verzi. Z novych chybí přeložit tři soubory. Ty jsou v beta verzi v originale.</p><p><strong>Nová verze 1.17.5</strong></p><p>čeština pro verzi 1.17.5</p><p>Nahrána nová verze překladu: 1.17.4</p><p><strong>Nová verze 1.17.3</strong></p><p>Oprava chyb v překladu</p></div>",
       "authorsHtml": "<p>Paradox češtiny</p>",
       "size": null,
       "inDevelopment": true,
@@ -10390,7 +10390,7 @@
       "updatedAt": null,
       "pageUrl": "https://lokalizace.net/localizations/rustler",
       "howToInstallHtml": "<p>Stáhněte ZIP soubor a rozbalte ho do složky hry, nebo použijte aplikaci CZManager pro automatickou instalaci češtiny.</p>",
-      "changelogHtml": "<div><p><strong>Nová verze 2.0</strong></p><p>Aktualizace pro Epic na verzi 1.60.15, Steam stejný.</p></div>",
+      "changelogHtml": "<div><p><strong>Nová verze 2.0</strong></p><p>Aktualizace instalátoru na Epic pro verzi hry <span style=\"font-size: 11pt\">1.61.15</span></p></div>",
       "authorsHtml": "<p>Sumilek86</p>",
       "size": null,
       "inDevelopment": true,
@@ -11967,7 +11967,7 @@
       "updatedAt": null,
       "pageUrl": "https://lokalizace.net/localizations/neon-abyss",
       "howToInstallHtml": "<p>Stáhněte ZIP soubor a rozbalte ho do složky hry, nebo použijte aplikaci CZManager pro automatickou instalaci češtiny.</p>",
-      "changelogHtml": null,
+      "changelogHtml": "<div><p><strong>Nová verze 1.03</strong></p><p>Aktualizace pro novou verzi hry. CZ_1.03_HRA_1.5.3.2.</p></div>",
       "authorsHtml": "<p>GWynter</p>",
       "size": null,
       "inDevelopment": true,
@@ -12910,7 +12910,7 @@
       "size": null,
       "inDevelopment": true,
       "mirrors": [],
-      "steamAppId": "212410"
+      "steamAppId": "1505430"
     },
     {
       "title": "Stellaris",
@@ -15439,7 +15439,7 @@
       "updatedAt": null,
       "pageUrl": "https://lokalizace.net/localizations/grand-theft-auto-v-steam",
       "howToInstallHtml": "<p>Stáhněte ZIP soubor a rozbalte ho do složky hry, nebo použijte aplikaci CZManager pro automatickou instalaci češtiny.</p>",
-      "changelogHtml": "<div><p><strong>Nová verze 3.0.3-Enhanced</strong></p><ul><li><p>aktualizace pro posleni verzi hry GTA5.exe <strong>(1.0.889.15)</strong></p></li><li><p>testovan byl pouze steam</p></li><li><p>nevyžaduje dotnet a ostatní věci. Jsou to přímo soubory</p></li></ul><p style=\"text-align: center\"><span style=\"font-size: 14px; color: rgb(249, 115, 22)\"><strong>Tahle verze je úplně stejná jako ta předtím, ničím se neliší. Jen je určena pro VIP/Supporter only.</strong></span><br><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" class=\"text-primary underline\" href=\"https://lokalizace.net/localizations/grand-theft-auto-v-steam?tab=discussion&amp;highlight=6273\"><span style=\"color: rgb(249, 115, 22)\"><strong><u>tady je vysvetlení</u></strong></span></a></p></div>",
+      "changelogHtml": "<div><p><strong>Nová verze 3.0.3-Enhanced</strong></p><ul><li><p>aktualizace pro posleni verzi hry GTA5.exe <strong>(1.0.889.15)</strong></p></li><li><p>testovan byl pouze steam</p></li><li><p>nevyžaduje dotnet a ostatní věci. Jsou to přímo soubory</p></li><li><p><span style=\"color: rgb(239, 68, 68)\">Starší verze lokalizace budou vždy taktéž aktuální.</span></p></li></ul><p style=\"text-align: center\"><span style=\"font-size: 14px; color: rgb(249, 115, 22)\"><strong>Tahle verze je úplně stejná jako ta předtím, ničím se neliší. Jen je určena pro VIP/Supporter only.</strong></span><br><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" class=\"text-primary underline\" href=\"https://lokalizace.net/localizations/grand-theft-auto-v-steam?tab=discussion&amp;highlight=6273\"><span style=\"color: rgb(249, 115, 22)\"><strong><u>tady je vysvetlení</u></strong></span></a></p></div>",
       "authorsHtml": "<p>Lokalizace.Net</p>",
       "size": null,
       "inDevelopment": true,
@@ -15509,8 +15509,7 @@
       "authorsHtml": "<p>VocalSync Studios</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "4103360"
+      "mirrors": []
     },
     {
       "title": "Breathedge 2",
@@ -15796,28 +15795,6 @@
       "inDevelopment": true,
       "mirrors": [],
       "steamAppId": "3812600"
-    },
-    {
-      "title": "Tattletail",
-      "studio": "Lokalizace.net",
-      "studioUrl": "https://lokalizace.net/localizations/tattletale",
-      "language": "Čeština",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": null,
-      "updatedAt": null,
-      "pageUrl": "https://lokalizace.net/localizations/tattletale",
-      "howToInstallHtml": "<p>Stáhněte ZIP soubor a rozbalte ho do složky hry, nebo použijte aplikaci CZManager pro automatickou instalaci češtiny.</p>",
-      "changelogHtml": null,
-      "authorsHtml": "<p>CzechDubStudio</p>",
-      "size": null,
-      "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "568090"
     },
     {
       "title": "Fable (2027)",
