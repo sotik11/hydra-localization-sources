@@ -1392,17 +1392,17 @@
       "hasNeuralVoice": false,
       "hasNeuralDub": false,
       "hasNeuralText": false,
-      "version": "4",
-      "updatedAt": "03.07.2026",
+      "version": "5",
+      "updatedAt": "20.09.2026",
       "pageUrl": "https://www.calypsoceviri.com/turkce-yamalar/starsand-island-turkce-yama-indir",
       "howToInstallHtml": "<div>Aşağıda vermiş olduğumuz linkten indirdiğiniz Rar dosyasındaki Türkçe Yama exesini, oyunun kurulu olduğu ana dosya konumuna atarak, Türkçe yama exesini çalıştırın. Oyunun ana dosya konumunun seçili olduğunu kontrol ettikten sonra, hangi platformdan oynuyorsanız, o platformun yükle butonuna basarak yamayı yükleyebilirsiniz. <br><br>Yamayı kaldırmak için oyunun dosyalarını doğrulamanız gerekiyor.</div>",
       "authorsHtml": "<p>VolkTyson, Sweaty, Indra, Mirayae</p>",
-      "size": "27.3 MB",
+      "size": "34.4 MB",
       "inDevelopment": false,
       "mirrors": [
         {
           "label": "Calypso Çeviri",
-          "url": "https://www.calypsoceviri.com/_files/archives/7d262d_b170f409fc594c5b9b338bb948dd72f1.rar?dn=Starsand%2520Island%2520T%25C3%25BCrk%25C3%25A7e%2520Yama%2520V4.rar",
+          "url": "https://www.calypsoceviri.com/_files/archives/7d262d_1b1fb4317a20486d808f17208a931829.zip?dn=Starsand%2520Island%2520T%25C3%25BCrk%25C3%25A7e%2520Yama%2520V5.zip",
           "kind": "direct"
         }
       ],
@@ -5720,33 +5720,6 @@
       "steamAppId": "1084600"
     },
     {
-      "title": "Marvel's Spider-Man: Miles Morales",
-      "studio": "Calypso Çeviri",
-      "studioUrl": "https://www.calypsoceviri.com",
-      "language": "Türkçe",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": "2",
-      "updatedAt": "23.06.2026",
-      "pageUrl": "https://www.calypsoceviri.com/turkce-yamalar/marvels-spider-man-miles-morales-turkce-yama-indir",
-      "howToInstallHtml": "<div>Aşağıda vermiş olduğumuz linkten indirdiğiniz Rar dosyasındaki Türkçe Yama exesini, oyunun kurulu olduğu ana dosya konumuna atarak, Türkçe yama exesini çalıştırın. Oyunun ana dosya konumunun seçili olduğunu kontrol ettikten sonra, hangi platformdan oynuyorsanız, o platformun yükle butonuna basarak yamayı yükleyebilirsiniz.<br><br>Yamayı kaldırmak için dosya konumundaki MilesMorales_YamaKaldir.exe den yamayı kaldırabilirsiniz.</div>",
-      "authorsHtml": "<p>VolkTyson, Sweaty</p>",
-      "size": "2.15 MB",
-      "inDevelopment": false,
-      "mirrors": [
-        {
-          "label": "Calypso Çeviri",
-          "url": "https://www.calypsoceviri.com/_files/archives/7d262d_401302af54c84b9a8a144691c9b282a5.rar?dn=Spiderman%2520Miles%2520Morales%2520T%25C3%25BCrk%25C3%25A7e%2520Yama%2520V2.rar",
-          "kind": "direct"
-        }
-      ],
-      "steamAppId": "1817190"
-    },
-    {
       "title": "Soulmask",
       "studio": "Calypso Çeviri",
       "studioUrl": "https://www.calypsoceviri.com",
@@ -6986,33 +6959,6 @@
         }
       ],
       "steamAppId": "2840770"
-    },
-    {
-      "title": "Atomic Heart Full DLC",
-      "studio": "Calypso Çeviri",
-      "studioUrl": "https://www.calypsoceviri.com",
-      "language": "Türkçe",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": "3",
-      "updatedAt": "07.08.2026",
-      "pageUrl": "https://www.calypsoceviri.com/turkce-yamalar/atomic-heart-turkce-yama-indir",
-      "howToInstallHtml": "<div>Aşağıda vermiş olduğumuz linkten indirdiğiniz Rar dosyasındaki Türkçe Yama exesini, oyunun kurulu olduğu ana dosya konumuna atarak, Türkçe yama exesini çalıştırın. Oyunun ana dosya konumunun seçili olduğunu kontrol ettikten sonra, hangi platformdan oynuyorsanız, o platformun yükle butonuna basarak yamayı yükleyebilirsiniz.<br><br>Yamayı kaldırmak için dosya konumundaki AtomicHeart_YamaKaldir.exe den yamayı kaldırabilirsiniz.</div>",
-      "authorsHtml": "<p>VolkTyson, CrimsonSwift</p>",
-      "size": "4.28 MB",
-      "inDevelopment": false,
-      "mirrors": [
-        {
-          "label": "Calypso Çeviri",
-          "url": "https://www.calypsoceviri.com/_files/archives/7d262d_77d37f5db88944f798b1fa0648807186.rar?dn=Atomic%2520Heart%2520T%25C3%25BCrk%25C3%25A7e%2520Yama%2520V3.rar",
-          "kind": "direct"
-        }
-      ],
-      "steamAppId": "668580"
     },
     {
       "title": "Atomfall",
