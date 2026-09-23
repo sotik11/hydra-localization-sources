@@ -5,6 +5,32 @@
   "siteUrl": "https://turkce-yama.com",
   "localizations": [
     {
+      "title": "Constantine",
+      "studio": "Türkçe Yama",
+      "studioUrl": "https://turkce-yama.com/constantine-turkce-yama.htm",
+      "language": "Türkçe",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": null,
+      "updatedAt": "22.09.2026",
+      "pageUrl": "https://turkce-yama.com/constantine-turkce-yama.htm",
+      "howToInstallHtml": "<ol><li>Yama dosyasını yukarıdaki «İndir» butonuyla indirin.</li><li>Kurulum dosyasıysa (.exe) çalıştırın; arşivse (.rar/.zip) çıkartın.</li><li>Oyunun kurulu olduğu klasörü gösterin / dosyaları oraya kopyalayın.</li><li>Oyunu başlatın — Türkçe yama uygulanmış olacaktır.</li></ol>",
+      "authorsHtml": "<p>Mirvuqar Abdulov</p>",
+      "size": "446.9 MB",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Türkçe Yama",
+          "url": "https://turkce-yama.com/constantine-turkce-yama.htm",
+          "kind": "other"
+        }
+      ]
+    },
+    {
       "title": "Life is Strange: Reunion",
       "studio": "Türkçe Yama",
       "studioUrl": "https://turkce-yama.com/life-is-strange-reunion-turkce-yama.htm",
@@ -28,8 +54,7 @@
           "url": "https://turkce-yama.com/life-is-strange-reunion-turkce-yama.htm",
           "kind": "other"
         }
-      ],
-      "steamAppId": "2624870"
+      ]
     },
     {
       "title": "Enter the Matrix",
@@ -55,8 +80,7 @@
           "url": "https://turkce-yama.com/enter-the-matrix-turkce-yama.htm",
           "kind": "other"
         }
-      ],
-      "steamAppId": "5030940"
+      ]
     },
     {
       "title": "Assassin's Creed Valhalla",
@@ -82,8 +106,7 @@
           "url": "https://turkce-yama.com/assassins-creed-valhalla-turkce-yama.htm",
           "kind": "other"
         }
-      ],
-      "steamAppId": "2208920"
+      ]
     },
     {
       "title": "Assassin's Creed Odyssey",
@@ -109,8 +132,7 @@
           "url": "https://turkce-yama.com/assassins-creed-odyssey-turkce-yama.htm",
           "kind": "other"
         }
-      ],
-      "steamAppId": "812140"
+      ]
     },
     {
       "title": "Assassin's Creed Origins",
@@ -136,8 +158,7 @@
           "url": "https://turkce-yama.com/assassins-creed-origins-turkce-yama.htm",
           "kind": "other"
         }
-      ],
-      "steamAppId": "582160"
+      ]
     },
     {
       "title": "Assassin's Creed III Remastered",
@@ -163,8 +184,7 @@
           "url": "https://turkce-yama.com/assassins-creed-iii-remastered-turkce-yama.htm",
           "kind": "other"
         }
-      ],
-      "steamAppId": "911400"
+      ]
     },
     {
       "title": "Assassin’s Creed III",
@@ -190,35 +210,7 @@
           "url": "https://turkce-yama.com/assassins-creed-iii-turkce-yama.htm",
           "kind": "other"
         }
-      ],
-      "steamAppId": "911400"
-    },
-    {
-      "title": "Yakuza 0",
-      "studio": "Türkçe Yama",
-      "studioUrl": "https://turkce-yama.com/yakuza-0-turkce-yama.htm",
-      "language": "Türkçe",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": null,
-      "updatedAt": "15.03.2026",
-      "pageUrl": "https://turkce-yama.com/yakuza-0-turkce-yama.htm",
-      "howToInstallHtml": "<ol><li>Yama dosyasını yukarıdaki «İndir» butonuyla indirin.</li><li>Kurulum dosyasıysa (.exe) çalıştırın; arşivse (.rar/.zip) çıkartın.</li><li>Oyunun kurulu olduğu klasörü gösterin / dosyaları oraya kopyalayın.</li><li>Oyunu başlatın — Türkçe yama uygulanmış olacaktır.</li></ol>",
-      "authorsHtml": "<p>DH ajira</p>",
-      "size": "20.4 MB",
-      "inDevelopment": false,
-      "mirrors": [
-        {
-          "label": "Türkçe Yama",
-          "url": "https://turkce-yama.com/yakuza-0-turkce-yama.htm",
-          "kind": "other"
-        }
-      ],
-      "steamAppId": "2988580"
+      ]
     },
     {
       "title": "Need For Speed: Most Wanted",
@@ -324,35 +316,7 @@
           "url": "https://turkce-yama.com/60-seconds-turkce-yama.htm",
           "kind": "other"
         }
-      ],
-      "steamAppId": "368360"
-    },
-    {
-      "title": "Far Cry 5",
-      "studio": "Türkçe Yama",
-      "studioUrl": "https://turkce-yama.com/farcry-5-turkce-yama.htm",
-      "language": "Türkçe",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": null,
-      "updatedAt": "11.04.2020",
-      "pageUrl": "https://turkce-yama.com/farcry-5-turkce-yama.htm",
-      "howToInstallHtml": "<ol><li>Yama dosyasını yukarıdaki «İndir» butonuyla indirin.</li><li>Kurulum dosyasıysa (.exe) çalıştırın; arşivse (.rar/.zip) çıkartın.</li><li>Oyunun kurulu olduğu klasörü gösterin / dosyaları oraya kopyalayın.</li><li>Oyunu başlatın — Türkçe yama uygulanmış olacaktır.</li></ol>",
-      "authorsHtml": null,
-      "size": "4.73 MB",
-      "inDevelopment": false,
-      "mirrors": [
-        {
-          "label": "Türkçe Yama",
-          "url": "https://turkce-yama.com/farcry-5-turkce-yama.htm",
-          "kind": "other"
-        }
-      ],
-      "steamAppId": "552520"
+      ]
     },
     {
       "title": "Undertale",
@@ -380,33 +344,6 @@
         }
       ],
       "steamAppId": "391540"
-    },
-    {
-      "title": "Far Cry 3",
-      "studio": "Türkçe Yama",
-      "studioUrl": "https://turkce-yama.com/far-cry-3-turkce-yama.htm",
-      "language": "Türkçe",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": null,
-      "updatedAt": "21.04.2014",
-      "pageUrl": "https://turkce-yama.com/far-cry-3-turkce-yama.htm",
-      "howToInstallHtml": "<ol><li>Yama dosyasını yukarıdaki «İndir» butonuyla indirin.</li><li>Kurulum dosyasıysa (.exe) çalıştırın; arşivse (.rar/.zip) çıkartın.</li><li>Oyunun kurulu olduğu klasörü gösterin / dosyaları oraya kopyalayın.</li><li>Oyunu başlatın — Türkçe yama uygulanmış olacaktır.</li></ol>",
-      "authorsHtml": null,
-      "size": "173.8 MB",
-      "inDevelopment": false,
-      "mirrors": [
-        {
-          "label": "Türkçe Yama",
-          "url": "https://turkce-yama.com/far-cry-3-turkce-yama.htm",
-          "kind": "other"
-        }
-      ],
-      "steamAppId": "220240"
     },
     {
       "title": "Far Cry Primal",
@@ -461,6 +398,60 @@
         }
       ],
       "steamAppId": "50130"
+    },
+    {
+      "title": "Far Cry 5",
+      "studio": "Türkçe Yama",
+      "studioUrl": "https://turkce-yama.com/farcry-5-turkce-yama.htm",
+      "language": "Türkçe",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": null,
+      "updatedAt": "11.04.2020",
+      "pageUrl": "https://turkce-yama.com/farcry-5-turkce-yama.htm",
+      "howToInstallHtml": "<ol><li>Yama dosyasını yukarıdaki «İndir» butonuyla indirin.</li><li>Kurulum dosyasıysa (.exe) çalıştırın; arşivse (.rar/.zip) çıkartın.</li><li>Oyunun kurulu olduğu klasörü gösterin / dosyaları oraya kopyalayın.</li><li>Oyunu başlatın — Türkçe yama uygulanmış olacaktır.</li></ol>",
+      "authorsHtml": null,
+      "size": "4.73 MB",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Türkçe Yama",
+          "url": "https://turkce-yama.com/farcry-5-turkce-yama.htm",
+          "kind": "other"
+        }
+      ],
+      "steamAppId": "552520"
+    },
+    {
+      "title": "Far Cry 3",
+      "studio": "Türkçe Yama",
+      "studioUrl": "https://turkce-yama.com/far-cry-3-turkce-yama.htm",
+      "language": "Türkçe",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": null,
+      "updatedAt": "21.04.2014",
+      "pageUrl": "https://turkce-yama.com/far-cry-3-turkce-yama.htm",
+      "howToInstallHtml": "<ol><li>Yama dosyasını yukarıdaki «İndir» butonuyla indirin.</li><li>Kurulum dosyasıysa (.exe) çalıştırın; arşivse (.rar/.zip) çıkartın.</li><li>Oyunun kurulu olduğu klasörü gösterin / dosyaları oraya kopyalayın.</li><li>Oyunu başlatın — Türkçe yama uygulanmış olacaktır.</li></ol>",
+      "authorsHtml": null,
+      "size": "173.8 MB",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Türkçe Yama",
+          "url": "https://turkce-yama.com/far-cry-3-turkce-yama.htm",
+          "kind": "other"
+        }
+      ],
+      "steamAppId": "220240"
     },
     {
       "title": "Pro Evolution Soccer 2013",
@@ -596,6 +587,33 @@
         }
       ],
       "steamAppId": "414700"
+    },
+    {
+      "title": "Yakuza 0",
+      "studio": "Türkçe Yama",
+      "studioUrl": "https://turkce-yama.com/yakuza-0-turkce-yama.htm",
+      "language": "Türkçe",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": null,
+      "updatedAt": "15.03.2026",
+      "pageUrl": "https://turkce-yama.com/yakuza-0-turkce-yama.htm",
+      "howToInstallHtml": "<ol><li>Yama dosyasını yukarıdaki «İndir» butonuyla indirin.</li><li>Kurulum dosyasıysa (.exe) çalıştırın; arşivse (.rar/.zip) çıkartın.</li><li>Oyunun kurulu olduğu klasörü gösterin / dosyaları oraya kopyalayın.</li><li>Oyunu başlatın — Türkçe yama uygulanmış olacaktır.</li></ol>",
+      "authorsHtml": "<p>DH ajira</p>",
+      "size": "20.4 MB",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Türkçe Yama",
+          "url": "https://turkce-yama.com/yakuza-0-turkce-yama.htm",
+          "kind": "other"
+        }
+      ],
+      "steamAppId": "2988580"
     },
     {
       "title": "Unreal Tournament 2004",
@@ -14095,7 +14113,8 @@
           "url": "https://turkce-yama.com/lord-of-the-rings-battle-for-middle-earth-turkce-yama.htm",
           "kind": "other"
         }
-      ]
+      ],
+      "steamAppId": "522610"
     },
     {
       "title": "Manhunt",
@@ -16252,7 +16271,8 @@
           "url": "https://turkce-yama.com/counter-strike-global-offensive-turkce-yama.htm",
           "kind": "other"
         }
-      ]
+      ],
+      "steamAppId": "10"
     },
     {
       "title": "Football Manager 2012",
@@ -16332,7 +16352,8 @@
           "url": "https://turkce-yama.com/black-mesa-source-turkce-yama.htm",
           "kind": "other"
         }
-      ]
+      ],
+      "steamAppId": "362890"
     },
     {
       "title": "Spec Ops: The Line",
@@ -16544,7 +16565,8 @@
           "url": "https://turkce-yama.com/need-for-speed-carbon-turkce-yama.htm",
           "kind": "other"
         }
-      ]
+      ],
+      "steamAppId": "1262540"
     },
     {
       "title": "Football Manager 2010",
@@ -16676,7 +16698,8 @@
           "url": "https://turkce-yama.com/half-life-2-episode-one-turkce-yama.htm",
           "kind": "other"
         }
-      ]
+      ],
+      "steamAppId": "220"
     },
     {
       "title": "Half Life 2: Episode Two",
@@ -16702,7 +16725,8 @@
           "url": "https://turkce-yama.com/half-life-2-episode-two-turkce-yama.htm",
           "kind": "other"
         }
-      ]
+      ],
+      "steamAppId": "220"
     },
     {
       "title": "Half-Life: Source",
@@ -16728,7 +16752,8 @@
           "url": "https://turkce-yama.com/half-life-source-turkce-yama.htm",
           "kind": "other"
         }
-      ]
+      ],
+      "steamAppId": "70"
     },
     {
       "title": "Counter Strike Source",
@@ -16754,7 +16779,8 @@
           "url": "https://turkce-yama.com/counter-strike-source-turkce-yama.htm",
           "kind": "other"
         }
-      ]
+      ],
+      "steamAppId": "240"
     },
     {
       "title": "I Am Alive",
@@ -16807,7 +16833,8 @@
           "url": "https://turkce-yama.com/fallout-new-vegas-turkce-yama.htm",
           "kind": "other"
         }
-      ]
+      ],
+      "steamAppId": "22380"
     },
     {
       "title": "Zombie Shooter",
@@ -16833,7 +16860,8 @@
           "url": "https://turkce-yama.com/zombie-shooter-turkce-yama.htm",
           "kind": "other"
         }
-      ]
+      ],
+      "steamAppId": "33130"
     },
     {
       "title": "Dragon Age Witch Hunt",
@@ -16911,7 +16939,8 @@
           "url": "https://turkce-yama.com/sniper-elite-v2-turkce-yama.htm",
           "kind": "other"
         }
-      ]
+      ],
+      "steamAppId": "63380"
     },
     {
       "title": "Rome: Total War",
@@ -16964,7 +16993,8 @@
           "url": "https://turkce-yama.com/18-wheels-of-steel-haulin-turkce-yama.htm",
           "kind": "other"
         }
-      ]
+      ],
+      "steamAppId": "514180"
     },
     {
       "title": "City Car Driving (3D Instructor)",
@@ -16990,7 +17020,8 @@
           "url": "https://turkce-yama.com/city-car-driving-3d-instructor-turkce-yama.htm",
           "kind": "other"
         }
-      ]
+      ],
+      "steamAppId": "493490"
     },
     {
       "title": "Alan Wake",
@@ -17016,7 +17047,8 @@
           "url": "https://turkce-yama.com/alan-wake-turkce-yama.htm",
           "kind": "other"
         }
-      ]
+      ],
+      "steamAppId": "108710"
     },
     {
       "title": "Alcatraz",
@@ -17042,7 +17074,8 @@
           "url": "https://turkce-yama.com/alcatraz-turkce-yama.htm",
           "kind": "other"
         }
-      ]
+      ],
+      "steamAppId": "255280"
     },
     {
       "title": "Alien Shooter",
@@ -17068,7 +17101,8 @@
           "url": "https://turkce-yama.com/alien-shooter-turkce-yama.htm",
           "kind": "other"
         }
-      ]
+      ],
+      "steamAppId": "33100"
     },
     {
       "title": "Arx Fatalis",
@@ -17094,7 +17128,8 @@
           "url": "https://turkce-yama.com/arx-fatalis-turkce-yama.htm",
           "kind": "other"
         }
-      ]
+      ],
+      "steamAppId": "1700"
     },
     {
       "title": "Angry Birds Space",
@@ -17279,7 +17314,8 @@
           "url": "https://turkce-yama.com/black-mirror-2-turkce-yama.htm",
           "kind": "other"
         }
-      ]
+      ],
+      "steamAppId": "286460"
     },
     {
       "title": "Borderlands",
@@ -17332,7 +17368,8 @@
           "url": "https://turkce-yama.com/braid-turkce-yama.htm",
           "kind": "other"
         }
-      ]
+      ],
+      "steamAppId": "26800"
     },
     {
       "title": "Broken Sword: The Shadow of the Templars",
@@ -17358,7 +17395,8 @@
           "url": "https://turkce-yama.com/broken-sword-the-shadow-of-the-templars-turkce-yama.htm",
           "kind": "other"
         }
-      ]
+      ],
+      "steamAppId": "2544110"
     },
     {
       "title": "Bus Driver",
@@ -17384,7 +17422,8 @@
           "url": "https://turkce-yama.com/bus-driver-turkce-yama.htm",
           "kind": "other"
         }
-      ]
+      ],
+      "steamAppId": "302080"
     },
     {
       "title": "Silent Hill 4 The Room",
@@ -17436,7 +17475,8 @@
           "url": "https://turkce-yama.com/call-of-cthulhu-dark-corners-of-the-earth-turkce-yama.htm",
           "kind": "other"
         }
-      ]
+      ],
+      "steamAppId": "22340"
     },
     {
       "title": "Caesar IV",
@@ -17462,7 +17502,8 @@
           "url": "https://turkce-yama.com/caesar-iv-turkce-yama.htm",
           "kind": "other"
         }
-      ]
+      ],
+      "steamAppId": "517810"
     },
     {
       "title": "Call Of Juarez",
@@ -17488,7 +17529,8 @@
           "url": "https://turkce-yama.com/call-of-juarez-turkce-yama.htm",
           "kind": "other"
         }
-      ]
+      ],
+      "steamAppId": "3020"
     },
     {
       "title": "Call Of Juarez 2 Bound in Blood",

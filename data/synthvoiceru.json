@@ -33,34 +33,6 @@
       "steamAppId": "1771300"
     },
     {
-      "title": "Dragon's Dogma 2",
-      "studio": "SynthVoiceRu",
-      "studioUrl": "https://www.playground.ru/dragons_dogma_2/file/dragons_dogma_2_russkij_nejrodublyazh_synthvoiceru_29_11_25-1739190",
-      "authorsHtml": "<p>SynthVoiceRu</p>",
-      "language": "Русский",
-      "hasText": false,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralText": false,
-      "hasNeuralVoice": true,
-      "hasNeuralDub": true,
-      "version": null,
-      "size": "2.61 GB",
-      "updatedAt": null,
-      "pageUrl": "https://www.playground.ru/dragons_dogma_2/file/dragons_dogma_2_russkij_nejrodublyazh_synthvoiceru_29_11_25-1739190",
-      "howToInstallHtml": "<p>Нейроозвучка от <strong>SynthVoiceRu</strong>. Бесплатная версия — на странице PlayGround («Открыть в браузере» ниже), там же инструкция по установке. Поддержать авторов и получить официальную версию можно на их <a href=\"https://boosty.to/synthvoiceru/showcase\">Boosty</a>.</p>",
-      "inDevelopment": false,
-      "fileName": "SynthVoiceRu_DD2_DUB.exe",
-      "mirrors": [
-        {
-          "label": "Boosty (поддержать авторов)",
-          "url": "https://boosty.to/synthvoiceru/posts/fa5cd667-5cda-4eb3-aefd-1de0509f2da5",
-          "kind": "other"
-        }
-      ],
-      "steamAppId": "2054970"
-    },
-    {
       "title": "Grand Theft Auto 5",
       "studio": "SynthVoiceRu",
       "studioUrl": "https://www.playground.ru/gta_5/file/grand_theft_auto_5_rusifikator_zvuka_nejrosetevoj_dublyazh_enhanced_v1_0_synthvoiceru_toreno-1706326",
@@ -87,6 +59,34 @@
         }
       ],
       "steamAppId": "3240220"
+    },
+    {
+      "title": "Dragon's Dogma 2",
+      "studio": "SynthVoiceRu",
+      "studioUrl": "https://www.playground.ru/dragons_dogma_2/file/dragons_dogma_2_russkij_nejrodublyazh_synthvoiceru_29_11_25-1739190",
+      "authorsHtml": "<p>SynthVoiceRu</p>",
+      "language": "Русский",
+      "hasText": false,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralText": false,
+      "hasNeuralVoice": true,
+      "hasNeuralDub": true,
+      "version": null,
+      "size": "2.61 GB",
+      "updatedAt": null,
+      "pageUrl": "https://www.playground.ru/dragons_dogma_2/file/dragons_dogma_2_russkij_nejrodublyazh_synthvoiceru_29_11_25-1739190",
+      "howToInstallHtml": "<p>Нейроозвучка от <strong>SynthVoiceRu</strong>. Бесплатная версия — на странице PlayGround («Открыть в браузере» ниже), там же инструкция по установке. Поддержать авторов и получить официальную версию можно на их <a href=\"https://boosty.to/synthvoiceru/showcase\">Boosty</a>.</p>",
+      "inDevelopment": false,
+      "fileName": "SynthVoiceRu_DD2_DUB.exe",
+      "mirrors": [
+        {
+          "label": "Boosty (поддержать авторов)",
+          "url": "https://boosty.to/synthvoiceru/posts/fa5cd667-5cda-4eb3-aefd-1de0509f2da5",
+          "kind": "other"
+        }
+      ],
+      "steamAppId": "2054970"
     },
     {
       "title": "Starfield",
@@ -312,6 +312,7 @@
       ]
     },
     {
+      "steamAppId": "3751260",
       "title": "The Blood of Dawnwalker",
       "studio": "SynthVoiceRu",
       "studioUrl": "https://boosty.to/synthvoiceru",
@@ -330,6 +331,7 @@
       "mirrors": []
     },
     {
+      "steamAppId": "1174180",
       "title": "Red Dead Redemption 2",
       "studio": "SynthVoiceRu",
       "studioUrl": "https://boosty.to/synthvoiceru",
@@ -348,6 +350,7 @@
       "mirrors": []
     },
     {
+      "steamAppId": "2713000",
       "title": "Resonance: A Plague Tale Legacy",
       "studio": "SynthVoiceRu",
       "studioUrl": "https://boosty.to/synthvoiceru",
@@ -366,6 +369,7 @@
       "mirrors": []
     },
     {
+      "steamAppId": "2584270",
       "title": "Mortal Shell 2",
       "studio": "SynthVoiceRu",
       "studioUrl": "https://boosty.to/synthvoiceru",
@@ -384,6 +388,7 @@
       "mirrors": []
     },
     {
+      "steamAppId": "532790",
       "title": "Vampire: The Masquerade Bloodlines 2",
       "studio": "SynthVoiceRu",
       "studioUrl": "https://boosty.to/synthvoiceru",
@@ -402,6 +407,7 @@
       "mirrors": []
     },
     {
+      "steamAppId": "4570720",
       "title": "DragonSword Awakening",
       "studio": "SynthVoiceRu",
       "studioUrl": "https://boosty.to/synthvoiceru",
@@ -420,6 +426,7 @@
       "mirrors": []
     },
     {
+      "steamAppId": "2001760",
       "title": "Beast of Reincarnation",
       "studio": "SynthVoiceRu",
       "studioUrl": "https://boosty.to/synthvoiceru",
@@ -438,6 +445,7 @@
       "mirrors": []
     },
     {
+      "steamAppId": "2255370",
       "title": "Directive 8020",
       "studio": "SynthVoiceRu",
       "studioUrl": "https://boosty.to/synthvoiceru",
@@ -456,6 +464,7 @@
       "mirrors": []
     },
     {
+      "steamAppId": "2483190",
       "title": "Forza Horizon 6",
       "studio": "SynthVoiceRu",
       "studioUrl": "https://boosty.to/synthvoiceru",
@@ -474,6 +483,7 @@
       "mirrors": []
     },
     {
+      "steamAppId": "3768760",
       "title": "007 First Light",
       "studio": "SynthVoiceRu",
       "studioUrl": "https://boosty.to/synthvoiceru",
@@ -492,6 +502,7 @@
       "mirrors": []
     },
     {
+      "steamAppId": "2215200",
       "title": "LEGO Batman: Legacy of the Dark Knight",
       "studio": "SynthVoiceRu",
       "studioUrl": "https://boosty.to/synthvoiceru",
@@ -510,6 +521,7 @@
       "mirrors": []
     },
     {
+      "steamAppId": "241260",
       "title": "Sherlock Holmes: Crimes and Punishments",
       "studio": "SynthVoiceRu",
       "studioUrl": "https://boosty.to/synthvoiceru",
@@ -528,6 +540,7 @@
       "mirrors": []
     },
     {
+      "steamAppId": "2677660",
       "title": "Indiana Jones and the Great Circle",
       "studio": "SynthVoiceRu",
       "studioUrl": "https://boosty.to/synthvoiceru",
@@ -546,6 +559,7 @@
       "mirrors": []
     },
     {
+      "steamAppId": "3727390",
       "title": "The Expanse: Osiris Reborn",
       "studio": "SynthVoiceRu",
       "studioUrl": "https://boosty.to/synthvoiceru",
@@ -564,6 +578,7 @@
       "mirrors": []
     },
     {
+      "steamAppId": "2457220",
       "title": "Avowed",
       "studio": "SynthVoiceRu",
       "studioUrl": "https://boosty.to/synthvoiceru",
@@ -582,6 +597,7 @@
       "mirrors": []
     },
     {
+      "steamAppId": "2416450",
       "title": "Mouse: p.i. for hire",
       "studio": "SynthVoiceRu",
       "studioUrl": "https://boosty.to/synthvoiceru",
@@ -619,6 +635,7 @@
       "mirrors": []
     },
     {
+      "steamAppId": "3321460",
       "title": "Crimson Desert",
       "studio": "SynthVoiceRu",
       "studioUrl": "https://boosty.to/synthvoiceru",
@@ -637,6 +654,7 @@
       "mirrors": []
     },
     {
+      "steamAppId": "600160",
       "title": "Mafia 3",
       "studio": "SynthVoiceRu",
       "studioUrl": "https://boosty.to/synthvoiceru",
@@ -655,6 +673,7 @@
       "mirrors": []
     },
     {
+      "steamAppId": "1790930",
       "title": "Crisol: Theater of Idols",
       "studio": "SynthVoiceRu",
       "studioUrl": "https://boosty.to/synthvoiceru",
@@ -673,6 +692,7 @@
       "mirrors": []
     },
     {
+      "steamAppId": "3290690",
       "title": "Styx: Blades of Greed",
       "studio": "SynthVoiceRu",
       "studioUrl": "https://boosty.to/synthvoiceru",
@@ -691,6 +711,7 @@
       "mirrors": []
     },
     {
+      "steamAppId": "2515020",
       "title": "- Final Fantasy XVI",
       "studio": "SynthVoiceRu",
       "studioUrl": "https://boosty.to/synthvoiceru",
@@ -709,6 +730,7 @@
       "mirrors": []
     },
     {
+      "steamAppId": "2515020",
       "title": "- Final Fantasy 16",
       "studio": "SynthVoiceRu",
       "studioUrl": "https://boosty.to/synthvoiceru",
@@ -727,6 +749,7 @@
       "mirrors": []
     },
     {
+      "steamAppId": "1145360",
       "title": "Hades",
       "studio": "SynthVoiceRu",
       "studioUrl": "https://boosty.to/synthvoiceru",
@@ -745,6 +768,7 @@
       "mirrors": []
     },
     {
+      "steamAppId": "2842040",
       "title": "Star Wars Outlaws",
       "studio": "SynthVoiceRu",
       "studioUrl": "https://boosty.to/synthvoiceru",
@@ -782,6 +806,7 @@
       "mirrors": []
     },
     {
+      "steamAppId": "1145350",
       "title": "Hades 2",
       "studio": "SynthVoiceRu",
       "studioUrl": "https://boosty.to/synthvoiceru",
@@ -800,6 +825,7 @@
       "mirrors": []
     },
     {
+      "steamAppId": "1449110",
       "title": "The Outer Worlds 2",
       "studio": "SynthVoiceRu",
       "studioUrl": "https://boosty.to/synthvoiceru",
@@ -818,6 +844,7 @@
       "mirrors": []
     },
     {
+      "steamAppId": "2101960",
       "title": "Cronos: The New Dawn",
       "studio": "SynthVoiceRu",
       "studioUrl": "https://boosty.to/synthvoiceru",
@@ -836,6 +863,7 @@
       "mirrors": []
     },
     {
+      "steamAppId": "1551360",
       "title": "Forza Horizon 5",
       "studio": "SynthVoiceRu",
       "studioUrl": "https://boosty.to/synthvoiceru",
@@ -854,6 +882,7 @@
       "mirrors": []
     },
     {
+      "steamAppId": "1620730",
       "title": "Hell is Us",
       "studio": "SynthVoiceRu",
       "studioUrl": "https://boosty.to/synthvoiceru",
@@ -872,6 +901,7 @@
       "mirrors": []
     },
     {
+      "steamAppId": "3489700",
       "title": "Stellar Blade",
       "studio": "SynthVoiceRu",
       "studioUrl": "https://boosty.to/synthvoiceru",
@@ -926,6 +956,7 @@
       "mirrors": []
     },
     {
+      "steamAppId": "2623190",
       "title": "The Elder Scrolls IV: Oblivion Remastered",
       "studio": "SynthVoiceRu",
       "studioUrl": "https://boosty.to/synthvoiceru",
@@ -981,6 +1012,7 @@
       "mirrors": []
     },
     {
+      "steamAppId": "2138330",
       "title": "Cyberpunk: Phantom Liberty",
       "studio": "SynthVoiceRu",
       "studioUrl": "https://boosty.to/synthvoiceru",
