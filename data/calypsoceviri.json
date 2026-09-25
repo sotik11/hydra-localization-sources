@@ -5,6 +5,32 @@
   "siteUrl": "https://www.calypsoceviri.com",
   "localizations": [
     {
+      "title": "Tiny Eden",
+      "studio": "Calypso Çeviri",
+      "studioUrl": "https://www.calypsoceviri.com",
+      "language": "Türkçe",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": "1",
+      "updatedAt": "24.09.2026",
+      "pageUrl": "https://www.calypsoceviri.com/turkce-yamalar/tiny-eden-turkce-yama-indir",
+      "howToInstallHtml": "<div>Aşağıda vermiş olduğumuz linkten indirdiğiniz Rar dosyasındaki Türkçe Yama exesini, oyunun kurulu olduğu ana dosya konumuna atarak, Türkçe yama exesini çalıştırın. Oyunun ana dosya konumunun seçili olduğunu kontrol ettikten sonra, hangi platformdan oynuyorsanız, o platformun yükle butonuna basarak yamayı yükleyebilirsiniz. <br><br>Yamayı kaldırmak isterseniz, oyunun dosya konumundaki \"TinyEden_YamaKaldır.exe\"'yi kullanarak, yamayı kaldırabilirsiniz.</div>",
+      "authorsHtml": "<p>VolkTyson</p>",
+      "size": "4.83 MB",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Calypso Çeviri",
+          "url": "https://www.calypsoceviri.com/_files/archives/7d262d_adfe27682a904bec81b0539c4bd06f83.zip?dn=Tiny%2520Eden%2520T%25C3%25BCrk%25C3%25A7e%2520Yama%2520V1.zip",
+          "kind": "direct"
+        }
+      ]
+    },
+    {
       "title": "Silent Hill Townfall",
       "studio": "Calypso Çeviri",
       "studioUrl": "https://www.calypsoceviri.com",
@@ -6556,32 +6582,6 @@
         {
           "label": "Calypso Çeviri",
           "url": "https://www.calypsoceviri.com/_files/archives/7d262d_a88bcc87d0c440f5afdcf02b39de4cbf.rar?dn=Clair%2520Obscur%2520Expedition%252033%2520T%25C3%25BCrk%25C3%25A7e%2520Yama%2520V3.rar",
-          "kind": "direct"
-        }
-      ]
-    },
-    {
-      "title": "Cities Skylines 2",
-      "studio": "Calypso Çeviri",
-      "studioUrl": "https://www.calypsoceviri.com",
-      "language": "Türkçe",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": "26",
-      "updatedAt": "23.06.2026",
-      "pageUrl": "https://www.calypsoceviri.com/turkce-yamalar/cities-skylines-2-turkce-yama-indir",
-      "howToInstallHtml": "<div>Aşağıda vermiş olduğumuz linkten indirdiğiniz Rar dosyasındaki Türkçe Yama exesini, oyunun kurulu olduğu ana dosya konumuna atarak, Türkçe yama exesini çalıştırın. Oyunun ana dosya konumunun seçili olduğunu kontrol ettikten sonra, hangi platformdan oynuyorsanız, o platformun yükle butonuna basarak yamayı yükleyebilirsiniz. Oyuna girdiğinizde menü İngilizce gözükür ise Settings kısmına girip tekrar geri geldiğinizde Türkçe olacaktır.<br><br>Yamayı kaldırmak için dosya konumundaki CitiesSkylinesII_YamaKaldır.exe den yamayı kaldırabilirsiniz.</div>",
-      "authorsHtml": "<p>VolkTyson, Sweaty, ThisRock</p>",
-      "size": "2.18 MB",
-      "inDevelopment": false,
-      "mirrors": [
-        {
-          "label": "Calypso Çeviri",
-          "url": "https://www.calypsoceviri.com/_files/archives/7d262d_5b14a31f3c0849478d07ff5fcd3e551c.rar?dn=Cities%2520Skylines%25202%2520T%25C3%25BCrk%25C3%25A7e%2520Yama%2520V26.rar",
           "kind": "direct"
         }
       ]
