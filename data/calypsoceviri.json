@@ -5,6 +5,32 @@
   "siteUrl": "https://www.calypsoceviri.com",
   "localizations": [
     {
+      "title": "Dont Pick Up",
+      "studio": "Calypso Çeviri",
+      "studioUrl": "https://www.calypsoceviri.com",
+      "language": "Türkçe",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": "2",
+      "updatedAt": "26.09.2026",
+      "pageUrl": "https://www.calypsoceviri.com/turkce-yamalar/dont-pick-up-turkce-yama-indir",
+      "howToInstallHtml": "<div>Aşağıda vermiş olduğumuz linkten indirdiğiniz Rar dosyasındaki Türkçe Yama exesini, oyunun kurulu olduğu ana dosya konumuna atarak, Türkçe yama exesini çalıştırın. Oyunun ana dosya konumunun seçili olduğunu kontrol ettikten sonra, hangi platformdan oynuyorsanız, o platformun yükle butonuna basarak yamayı yükleyebilirsiniz. <br><br>Yamayı kaldırmak isterseniz, oyunun dosyalarını doğrulamanız gerekiyor.</div>",
+      "authorsHtml": "<p>VolkTyson</p>",
+      "size": "3.01 MB",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Calypso Çeviri",
+          "url": "https://www.calypsoceviri.com/_files/archives/7d262d_97bc7be62f5e49b89463fd629263fe4e.zip?dn=Dont%2520Pick%2520Up%2520T%25C3%25BCrk%25C3%25A7e%2520Yama%2520V2.zip",
+          "kind": "direct"
+        }
+      ]
+    },
+    {
       "title": "Tiny Eden",
       "studio": "Calypso Çeviri",
       "studioUrl": "https://www.calypsoceviri.com",
@@ -1619,32 +1645,6 @@
       ]
     },
     {
-      "title": "Styx Blades of Greed",
-      "studio": "Calypso Çeviri",
-      "studioUrl": "https://www.calypsoceviri.com",
-      "language": "Türkçe",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": "1",
-      "updatedAt": "23.06.2026",
-      "pageUrl": "https://www.calypsoceviri.com/turkce-yamalar/styx-blades-of-greed-turkce-yama-indir",
-      "howToInstallHtml": "<div>Aşağıda vermiş olduğumuz linkten indirdiğiniz Rar dosyasındaki Türkçe Yama exesini, oyunun kurulu olduğu ana dosya konumuna atarak, Türkçe yama exesini çalıştırın. Oyunun ana dosya konumunun seçili olduğunu kontrol ettikten sonra, hangi platformdan oynuyorsanız, o platformun yükle butonuna basarak yamayı yükleyebilirsiniz. <br><br>Yamayı kaldırmak için oyunun dosya konumundaki Styx_YamaKaldır.exe'sini çalıştırarak kaldırabilirsiniz.</div>",
-      "authorsHtml": "<p>VolkTyson</p>",
-      "size": "3.80 MB",
-      "inDevelopment": false,
-      "mirrors": [
-        {
-          "label": "Calypso Çeviri",
-          "url": "https://www.calypsoceviri.com/_files/archives/7d262d_37f755e7d47f4dcb90dbbec275d50948.rar?dn=Styx%2520Blades%2520of%2520Greed%2520T%25C3%25BCrk%25C3%25A7e%2520Yama%2520V1.rar",
-          "kind": "direct"
-        }
-      ]
-    },
-    {
       "title": "Poppy Playtime Chapter 5",
       "studio": "Calypso Çeviri",
       "studioUrl": "https://www.calypsoceviri.com",
@@ -1785,17 +1785,17 @@
       "hasNeuralVoice": false,
       "hasNeuralDub": false,
       "hasNeuralText": false,
-      "version": "1",
-      "updatedAt": "23.06.2026",
+      "version": "2",
+      "updatedAt": "25.09.2026",
       "pageUrl": "https://www.calypsoceviri.com/turkce-yamalar/code-vein-2-turkce-yama-indir",
       "howToInstallHtml": "<div>Aşağıda vermiş olduğumuz linkten indirdiğiniz Rar dosyasındaki Türkçe Yama exesini, oyunun kurulu olduğu ana dosya konumuna atarak, Türkçe yama exesini çalıştırın. Oyunun ana dosya konumunun seçili olduğunu kontrol ettikten sonra, hangi platformdan oynuyorsanız, o platformun yükle butonuna basarak yamayı yükleyebilirsiniz. <br><br>Yamayı kaldırmak için oyunun dosya konumundaki CodeVein2_YamaKaldır.exe'sini çalıştırarak kaldırabilirsiniz.</div>",
       "authorsHtml": "<p>Sweaty, VolkTyson, Indra</p>",
-      "size": "24.3 MB",
+      "size": "14.7 MB",
       "inDevelopment": false,
       "mirrors": [
         {
           "label": "Calypso Çeviri",
-          "url": "https://www.calypsoceviri.com/_files/archives/7d262d_781ef86cade84095b56f854995457555.rar?dn=Code%2520Vein%25202%2520T%25C3%25BCrk%25C3%25A7e%2520Yama%2520V1.rar",
+          "url": "https://www.calypsoceviri.com/_files/archives/7d262d_3de51ad8ad384814bb037c64f751d827.zip?dn=Code%2520Vein%25202%2520T%25C3%25BCrk%25C3%25A7e%2520Yama%2520V2.zip",
           "kind": "direct"
         }
       ]
@@ -6259,17 +6259,17 @@
       "hasNeuralVoice": false,
       "hasNeuralDub": false,
       "hasNeuralText": false,
-      "version": "2",
-      "updatedAt": "23.06.2026",
+      "version": "3",
+      "updatedAt": "26.09.2026",
       "pageUrl": "https://www.calypsoceviri.com/turkce-yamalar/enotria-the-last-song-turkce-yama-indir",
       "howToInstallHtml": "<div>Aşağıda vermiş olduğumuz linkten indirdiğiniz Rar dosyasındaki Türkçe Yama exesini, oyunun kurulu olduğu ana dosya konumuna atarak, Türkçe yama exesini çalıştırın. Oyunun ana dosya konumunun seçili olduğunu kontrol ettikten sonra, hangi platformdan oynuyorsanız, o platformun yükle butonuna basarak yamayı yükleyebilirsiniz.<br><br>Yamayı kaldırmak için dosya konumundaki Enotria_YamaKaldir.exe den yamayı kaldırabilirsiniz.</div>",
       "authorsHtml": "<p>VolkTyson, Sweaty, Bugzade</p>",
-      "size": "1.89 MB",
+      "size": "4.79 MB",
       "inDevelopment": false,
       "mirrors": [
         {
           "label": "Calypso Çeviri",
-          "url": "https://www.calypsoceviri.com/_files/archives/7d262d_a3be47500f1b4b8eb3e25dcc60daf3b4.rar?dn=Enotria%2520The%2520Last%2520Song%2520T%25C3%25BCrk%25C3%25A7e%2520Yama%2520V2.rar",
+          "url": "https://www.calypsoceviri.com/_files/archives/7d262d_43119acca2a8468f8108aff9f69b9565.zip?dn=Enotria%2520The%2520Last%2520Song%2520T%25C3%25BCrk%25C3%25A7e%2520Yama%2520V3.zip",
           "kind": "direct"
         }
       ]

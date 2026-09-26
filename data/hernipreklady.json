@@ -5,6 +5,33 @@
   "siteUrl": "https://hernipreklady.cz",
   "localizations": [
     {
+      "title": "Graveyard Keeper 2",
+      "studio": "HerníPřeklady",
+      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/graveyard-keeper-2",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": "1.01",
+      "updatedAt": null,
+      "requiredGameVersion": "1.006+ (Win/PC)",
+      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/graveyard-keeper-2",
+      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
+      "authorsHtml": "<p><strong>Překlad:</strong> Jetro<br><strong>Testování:</strong> Jetro, Andrewek</p>",
+      "inDevelopment": false,
+      "size": "2.33 MB",
+      "mirrors": [
+        {
+          "label": "HerníPřeklady",
+          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=620",
+          "kind": "direct"
+        }
+      ]
+    },
+    {
       "title": "Wartales + DLC",
       "studio": "HerníPřeklady",
       "studioUrl": "https://hernipreklady.cz/seznam-prekladu/wartales-dlc",
@@ -31,27 +58,6 @@
         }
       ],
       "steamAppId": "1527950"
-    },
-    {
-      "title": "Graveyard Keeper 2",
-      "studio": "HerníPřeklady",
-      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/graveyard-keeper-2",
-      "language": "Čeština",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": null,
-      "updatedAt": null,
-      "requiredGameVersion": "1.002.4 (Win/PC)",
-      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/graveyard-keeper-2",
-      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
-      "authorsHtml": "<p><strong>Překlad:</strong> Jetro<br><strong>Testování:</strong> Jetro</p>",
-      "inDevelopment": true,
-      "size": null,
-      "mirrors": []
     },
     {
       "title": "Once Alive",
