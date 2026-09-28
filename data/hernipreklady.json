@@ -228,6 +228,56 @@
       "steamAppId": "2760560"
     },
     {
+      "title": "Until Dawn",
+      "studio": "HerníPřeklady",
+      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/until-dawn",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": "1.10",
+      "updatedAt": "20.12.2024",
+      "requiredGameVersion": "1.08",
+      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/until-dawn",
+      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
+      "authorsHtml": "<p><strong>Známé chyby:</strong> - některé titulky rychle mizí (není to chyba překladu, je to tak i v anglickém jazyku) - nejsou přeloženy skryté titulky, jde o přepis zvuků, které vydávají herní postavy</p>",
+      "inDevelopment": false,
+      "size": "930 B",
+      "mirrors": [
+        {
+          "label": "HerníPřeklady",
+          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=308",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "2172010"
+    },
+    {
+      "title": "Hail to the Rainbow",
+      "studio": "HerníPřeklady",
+      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/hail-to-the-rainbow",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": null,
+      "updatedAt": null,
+      "requiredGameVersion": "1.07",
+      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/hail-to-the-rainbow",
+      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
+      "authorsHtml": null,
+      "inDevelopment": true,
+      "size": null,
+      "mirrors": [],
+      "steamAppId": "1699230"
+    },
+    {
       "title": "Breathedge",
       "studio": "HerníPřeklady",
       "studioUrl": "https://hernipreklady.cz/seznam-prekladu/breathedge",
@@ -534,28 +584,6 @@
         }
       ],
       "steamAppId": "606160"
-    },
-    {
-      "title": "Hail to the Rainbow",
-      "studio": "HerníPřeklady",
-      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/hail-to-the-rainbow",
-      "language": "Čeština",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": null,
-      "updatedAt": null,
-      "requiredGameVersion": "1.07",
-      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/hail-to-the-rainbow",
-      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
-      "authorsHtml": null,
-      "inDevelopment": true,
-      "size": null,
-      "mirrors": [],
-      "steamAppId": "1699230"
     },
     {
       "title": "Portrait of a Torn",
@@ -1242,34 +1270,6 @@
         }
       ],
       "steamAppId": "2239150"
-    },
-    {
-      "title": "Until Dawn",
-      "studio": "HerníPřeklady",
-      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/until-dawn",
-      "language": "Čeština",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": "1.10",
-      "updatedAt": "20.12.2024",
-      "requiredGameVersion": "1.08",
-      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/until-dawn",
-      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
-      "authorsHtml": "<p><strong>Známé chyby:</strong> - některé titulky rychle mizí (není to chyba překladu, je to tak i v anglickém jazyku) - nejsou přeloženy skryté titulky, jde o přepis zvuků, které vydávají herní postavy</p>",
-      "inDevelopment": false,
-      "size": "930 B",
-      "mirrors": [
-        {
-          "label": "HerníPřeklady",
-          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=308",
-          "kind": "direct"
-        }
-      ],
-      "steamAppId": "2172010"
     },
     {
       "title": "The Casting of Frank Stone",
