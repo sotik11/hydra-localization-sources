@@ -5,6 +5,28 @@
   "siteUrl": "https://lokalizace.net",
   "localizations": [
     {
+      "title": "Tomb Raider: Legend",
+      "studio": "Lokalizace.net",
+      "studioUrl": "https://lokalizace.net/localizations/tomb-raider-legend",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": null,
+      "updatedAt": null,
+      "pageUrl": "https://lokalizace.net/localizations/tomb-raider-legend",
+      "howToInstallHtml": "<p>Stáhněte ZIP soubor a rozbalte ho do složky hry, nebo použijte aplikaci CZManager pro automatickou instalaci češtiny.</p>",
+      "changelogHtml": "<div><p><strong>Nová verze 1.0.0</strong></p><p>Preklad nepatrí mne, bol prevzatý od ABeCeDaHer pretože nefungoval a bolo ho potrebné aktualizovať. Preklad je bez diakritiky ale pokúsím sa tam diakritiku dostať a neskôr vydám update.</p></div>",
+      "authorsHtml": "<p>PERTIM</p>",
+      "size": null,
+      "inDevelopment": true,
+      "mirrors": [],
+      "steamAppId": "7000"
+    },
+    {
       "title": "Fallout: Sonora",
       "studio": "Lokalizace.net",
       "studioUrl": "https://lokalizace.net/localizations/fallout-sonora",
@@ -19,7 +41,7 @@
       "updatedAt": null,
       "pageUrl": "https://lokalizace.net/localizations/fallout-sonora",
       "howToInstallHtml": "<p>Stáhněte ZIP soubor a rozbalte ho do složky hry, nebo použijte aplikaci CZManager pro automatickou instalaci češtiny.</p>",
-      "changelogHtml": "<div><p>Nahrána nová verze překladu: 1.11</p>Nahrána nová verze překladu: 1.11</div>",
+      "changelogHtml": "<div><p><strong>Nová verze 1.12</strong></p><p>Oprava textů v pipboyi, aby buttony nebyli anglicky.<br>Všiml jsem si, že mi hra z ničeho nic vrátila rozlišení z 1280x720 na 800x500<br>Příčina resetování rozlišení je přímo ve Fissionu. Při potvrzení herního menu Nastavení se rozměry přepočítají podle <code>play_area</code>:</p><ul><li><p><code>0</code> → <code>640×480</code></p></li><li><p><code>1</code> → <code>800×500</code></p></li><li><p><code>2</code> → přibližně 70 % rozlišení monitoru</p></li><li><p><code>3</code> → plné rozlišení monitoru</p></li></ul><p>Při vlastním <code>1280×720</code> proto nejprve nastav ostatní volby ve hře, hru úplně ukonči a teprve potom uprav <code>fission.cfg</code>. Další potvrzení nabídky Nastavení může vlastní rozlišení znovu přepsat. Instalátor češtiny rozlišení nemění</p><p>Nahrána nová verze překladu: 1.11</p>Nahrána nová verze překladu: 1.11</div>",
       "authorsHtml": "<p>RetroGameplay_CZ</p>",
       "size": null,
       "inDevelopment": true,
@@ -91,7 +113,7 @@
       "steamAppId": "1665280"
     },
     {
-      "title": "Čeština do hry Hogwarts Legacy (Dabing)",
+      "title": "Hogwarts Legacy (Dabing)",
       "studio": "Lokalizace.net",
       "studioUrl": "https://lokalizace.net/localizations/cestina-do-hry-hogwarts-legacy-dabing",
       "language": "Čeština",
@@ -105,11 +127,12 @@
       "updatedAt": null,
       "pageUrl": "https://lokalizace.net/localizations/cestina-do-hry-hogwarts-legacy-dabing",
       "howToInstallHtml": "<p>Stáhněte ZIP soubor a rozbalte ho do složky hry, nebo použijte aplikaci CZManager pro automatickou instalaci češtiny.</p>",
-      "changelogHtml": "<div><p><strong>Nová verze 1.0.8</strong></p><p>Poslednich 600 replik předělaných, které neseděly na rty, tak snad finálka.</p></div>",
+      "changelogHtml": "<div><p><strong>Nová verze 1.0.9 (SOUBOR JSEM OMYLEM POJMENOVAL 1.0.8)</strong></p><h3>2. Novinky ve verzi 1.0.9</h3><p><strong>Oprava: prsknutí na konci replik</strong></p><p>Někteří z vás hlásili krátké „prsknutí“ nebo cvaknutí na konci věty, jako když se pustí tlačítko vysílačky. Neozývalo se u každé repliky, jen u některých, a to byla stopa k příčině.</p><p>Zjistil jsem, že asi u každé páté repliky nahrávka končila tvrdě: hlas byl useknutý v plné síle, místo aby doznil. Tenhle skok je slyšet jako prsknutí.</p><p>Opravil jsem 5 660 replik. Každá z nich teď na konci plynule dozní (posledních 60 milisekund). Zbytek zůstává beze změny: hlasy, texty, délky replik i lip sync jsou stejné jako v předchozí verzi.</p></div>",
       "authorsHtml": "<p>Czech dubbing</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": []
+      "mirrors": [],
+      "steamAppId": "990080"
     },
     {
       "title": "Freedom Force vs. the Third Reich",
@@ -192,7 +215,7 @@
       "updatedAt": null,
       "pageUrl": "https://lokalizace.net/localizations/onimusha-way-of-the-sword",
       "howToInstallHtml": "<p>Stáhněte ZIP soubor a rozbalte ho do složky hry, nebo použijte aplikaci CZManager pro automatickou instalaci češtiny.</p>",
-      "changelogHtml": "<div><p><strong>Nová verze 0.7.3</strong></p><p><span style=\"font-size: 16px; color: oklab(0.952693 0.000792831 -0.00253612)\">Celá hra prošla kompletní korekcí. Opravy se týkají hlavně: </span></p><ul><li><p><span style=\"font-size: 16px\">Sjednocení termínů (talisman/amulet, Lví psíci...)</span></p></li><li><p><span style=\"font-size: 16px\">Oprava veškerých rodů (ona, on - hlavně slovesa v minulém čase)</span></p></li><li><p><span style=\"font-size: 16px\">Oprava a sjednocení týkání a vykání</span></p></li><li><p><span style=\"font-size: 16px\">Oprava a sjednocení titulů některých bossů (Hříšnice, Požírač tykví...)</span></p></li><li><p><span style=\"font-size: 16px\">Oprava velkých písmen u názvů míst, předmětů apod. (Lví psíci, Zrcadlo duchů...)</span></p></li><li><p><span style=\"font-size: 16px\">Oprava nešikovných anglických obratů a doslovných překladů</span></p></li></ul><p><span style=\"font-size: 16px; color: oklab(0.952693 0.000792831 -0.00253612)\"> Čeština by nyní měla mít lepší, přirozenější a více konzistentní dialogy. Termíny, názvy, rody a tykání / vykání by měly být konzistentní, sjednocené a bez chyb. Nyní hru čeká již jen jeden finální playtest.</span></p><p><strong>Nová verze 0.5.0</strong></p><ul><li><p><span style=\"font-size: 16px; color: oklab(0.952693 0.000792831 -0.00253612)\">Kritické chyby by měly být vychytány. Největší slabost byla v amulety / talismany, takže to je teď sjednocené komplet, párkrát rody špatně a občas hodně nešťastná větná konstrukce.</span></p></li><li><p><span style=\"font-size: 16px; color: oklab(0.952693 0.000792831 -0.00253612)\">opravené všechny side questy, veškeré popisky předmětů, všechny Lví psíky, legendy.. atd..</span></p></li></ul><p></p></div>",
+      "changelogHtml": "<div><p><strong>Nová verze 1.0.0</strong></p><ul><li><p><span style=\"font-size: 16px\">Čeština prošla finálním testem a drobnými úpravami a nyní je kompletní a zcela otestovaná</span></p></li><li><p><span style=\"font-size: 16px\">Veškeré HUD nastavení, samotné dialogy hlavních i vedlejších questů a veškeré průpovídky postav jsou nyní opravené, termíny sjednocené</span></p></li></ul><p></p><p><strong>Nová verze 0.7.3</strong></p><p><span style=\"font-size: 16px; color: oklab(0.952693 0.000792831 -0.00253612)\">Celá hra prošla kompletní korekcí. Opravy se týkají hlavně: </span></p><ul><li><p><span style=\"font-size: 16px\">Sjednocení termínů (talisman/amulet, Lví psíci...)</span></p></li><li><p><span style=\"font-size: 16px\">Oprava veškerých rodů (ona, on - hlavně slovesa v minulém čase)</span></p></li><li><p><span style=\"font-size: 16px\">Oprava a sjednocení týkání a vykání</span></p></li><li><p><span style=\"font-size: 16px\">Oprava a sjednocení titulů některých bossů (Hříšnice, Požírač tykví...)</span></p></li><li><p><span style=\"font-size: 16px\">Oprava velkých písmen u názvů míst, předmětů apod. (Lví psíci, Zrcadlo duchů...)</span></p></li><li><p><span style=\"font-size: 16px\">Oprava nešikovných anglických obratů a doslovných překladů</span></p></li></ul><p><span style=\"font-size: 16px; color: oklab(0.952693 0.000792831 -0.00253612)\"> Čeština by nyní měla mít lepší, přirozenější a více konzistentní dialogy. Termíny, názvy, rody a tykání / vykání by měly být konzistentní, sjednocené a bez chyb. Nyní hru čeká již jen jeden finální playtest.</span></p></div>",
       "authorsHtml": "<p>Lokalizace.Net</p>",
       "size": null,
       "inDevelopment": true,
@@ -12643,8 +12666,7 @@
       "authorsHtml": "<p>GWynter</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "557340"
+      "mirrors": []
     },
     {
       "title": "Pillars of Eternity CE",
@@ -12704,12 +12726,11 @@
       "updatedAt": null,
       "pageUrl": "https://lokalizace.net/localizations/half-life-25th-anniversary",
       "howToInstallHtml": "<p>Stáhněte ZIP soubor a rozbalte ho do složky hry, nebo použijte aplikaci CZManager pro automatickou instalaci češtiny.</p>",
-      "changelogHtml": null,
+      "changelogHtml": "<div><p><strong>Nová verze 1.1.0</strong></p><p><span style=\"font-size: 14px; color: rgb(241, 196, 15)\">Byla vydána aktualizace překladu 1.1.0</span></p><p><span style=\"font-size: 14px; color: rgb(236, 240, 241)\">Tato aktualizace konečně přináší podporu diakritiky v titulcích. Dříve jsem to slíbil a trochu na to zapomněl, ale mód na titulky jsem upravil a doplnil nové náhledovky v galerii, jak to teď vypadá.</span></p></div>",
       "authorsHtml": "<p>Starsoul</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "70"
+      "mirrors": []
     },
     {
       "title": "Q.U.B.E. 2",
@@ -12752,8 +12773,7 @@
       "authorsHtml": "<p>ADV Dream</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "370910"
+      "mirrors": []
     },
     {
       "title": "Magnetic Cage Closed",
@@ -12774,8 +12794,7 @@
       "authorsHtml": "<p>siSINka</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "344410"
+      "mirrors": []
     },
     {
       "title": "Divinity: Original Sin 2 Definitive Edition",
@@ -12884,8 +12903,7 @@
       "authorsHtml": "<p>MikeCZ</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "367520"
+      "mirrors": []
     },
     {
       "title": "MADiSON",
@@ -12906,8 +12924,7 @@
       "authorsHtml": "<p>Lukyn92</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "1670870"
+      "mirrors": []
     },
     {
       "title": "Survival: Fountain of Youth",
@@ -13038,8 +13055,7 @@
       "authorsHtml": "<p>Tomiket</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "281990"
+      "mirrors": []
     },
     {
       "title": "Naval Action",
@@ -13060,8 +13076,7 @@
       "authorsHtml": "<p>Tomiket</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "311310"
+      "mirrors": []
     },
     {
       "title": "The Walking Dead: The Telltale Definitive Series",
@@ -13191,8 +13206,7 @@
       "authorsHtml": "<p>Spyker Tým</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "207610"
+      "mirrors": []
     },
     {
       "title": "Minecraft: Story Mode 2",
@@ -13300,8 +13314,7 @@
       "authorsHtml": "<p>Spyker Tým</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "208730"
+      "mirrors": []
     },
     {
       "title": "Life is Strange: Remastered Collection",
@@ -13388,8 +13401,7 @@
       "authorsHtml": "<p>Spyker Tým</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "2624870"
+      "mirrors": []
     },
     {
       "title": "Papers, Please",
@@ -13410,8 +13422,7 @@
       "authorsHtml": "<p>Spyker Tým</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "239030"
+      "mirrors": []
     },
     {
       "title": "Mini Ninjas",
@@ -13498,8 +13509,7 @@
       "authorsHtml": "<p>Spyker Tým</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "1205520"
+      "mirrors": []
     },
     {
       "title": "Bendy and the Dark Revival",
@@ -13542,8 +13552,7 @@
       "authorsHtml": "<p>Nowsterova nora</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "622650"
+      "mirrors": []
     },
     {
       "title": "Baldurs Gate 3",
@@ -13695,8 +13704,7 @@
       "authorsHtml": "<p>Lokalizace.Net</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "682990"
+      "mirrors": []
     },
     {
       "title": "Hogwarts Legacy",
@@ -13717,8 +13725,7 @@
       "authorsHtml": "<p>Lokalizace.Net</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "990080"
+      "mirrors": []
     },
     {
       "title": "Dishonored Dead Of The Outsider",
@@ -13761,8 +13768,7 @@
       "authorsHtml": "<p>Lokalizace.Net</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "403640"
+      "mirrors": []
     },
     {
       "title": "NieR: Automata™",
@@ -13913,8 +13919,7 @@
       "authorsHtml": "<p>Lokalizace.Net</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "883710"
+      "mirrors": []
     },
     {
       "title": "Quantum Break",
@@ -13957,8 +13962,7 @@
       "authorsHtml": "<p>Lokalizace.Net</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "17460"
+      "mirrors": []
     },
     {
       "title": "Rise of the Tomb Raider",
@@ -13979,8 +13983,7 @@
       "authorsHtml": "<p>Lokalizace.Net</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "391220"
+      "mirrors": []
     },
     {
       "title": "A Stroke of Fate: Operation Bunker",
@@ -14089,8 +14092,7 @@
       "authorsHtml": "<p>ADV Dream</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "358870"
+      "mirrors": []
     },
     {
       "title": "Dead Synchronicity: Tomorrow Comes Today",
@@ -14177,8 +14179,7 @@
       "authorsHtml": "<p>Lokalizace.Net</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "383870"
+      "mirrors": []
     },
     {
       "title": "Yesterday Origins",
@@ -14243,8 +14244,7 @@
       "authorsHtml": "<p>ADV Dream</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "403390"
+      "mirrors": []
     },
     {
       "title": "Call of Juarez Gunslinger",
@@ -14266,7 +14266,7 @@
       "size": null,
       "inDevelopment": true,
       "mirrors": [],
-      "steamAppId": "204450"
+      "steamAppId": "3020"
     },
     {
       "title": "Everspace",
@@ -14287,8 +14287,7 @@
       "authorsHtml": "<p>Lokalizace.Net</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "396750"
+      "mirrors": []
     },
     {
       "title": "Darksiders 3",
@@ -14396,8 +14395,7 @@
       "authorsHtml": "<p>ADV Dream</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "2818420"
+      "mirrors": []
     },
     {
       "title": "Normality",
@@ -14462,8 +14460,7 @@
       "authorsHtml": "<p>ADV Dream</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "430410"
+      "mirrors": []
     },
     {
       "title": "Silence",
@@ -14592,8 +14589,7 @@
       "authorsHtml": "<p>ADV Dream</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "1227530"
+      "mirrors": []
     },
     {
       "title": "1954 Alcatraz",
@@ -14614,8 +14610,7 @@
       "authorsHtml": "<p>ADV Dream</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "255280"
+      "mirrors": []
     },
     {
       "title": "Moebius: Empire Rising",
@@ -14746,8 +14741,7 @@
       "authorsHtml": "<p>Lokalizace.Net</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "960910"
+      "mirrors": []
     },
     {
       "title": "Stray",
@@ -14790,8 +14784,7 @@
       "authorsHtml": "<p>Lokalizace.Net</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "374320"
+      "mirrors": []
     },
     {
       "title": "Kingdom Hearts 3",
@@ -14877,8 +14870,7 @@
       "authorsHtml": "<p>ADV Dream</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "421050"
+      "mirrors": []
     },
     {
       "title": "Goodbye Deponia",
@@ -14899,8 +14891,7 @@
       "authorsHtml": "<p>ADV Dream</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "241910"
+      "mirrors": []
     },
     {
       "title": "Chaos on Deponia",
@@ -14987,8 +14978,7 @@
       "authorsHtml": "<p>ADV Dream</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "368370"
+      "mirrors": []
     },
     {
       "title": "Dead mountaineer's hotel",
@@ -15161,8 +15151,7 @@
       "authorsHtml": "<p>Lokalizace.Net</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "427290"
+      "mirrors": []
     },
     {
       "title": "Resident Evil Village",
@@ -15355,8 +15344,7 @@
       "authorsHtml": "<p>ADV Dream</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "34800"
+      "mirrors": []
     },
     {
       "title": "Art of Murder 3: Cards of the Destiny",
@@ -15484,8 +15472,7 @@
       "authorsHtml": "<p>Lokalizace.Net</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "2050650"
+      "mirrors": []
     },
     {
       "title": "Red Dead Redemption 2",
@@ -15594,8 +15581,7 @@
       "authorsHtml": "<p>Lokalizace.Net</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "2369390"
+      "mirrors": []
     },
     {
       "title": "BLOODMONEY: REQUIEM",
@@ -15659,8 +15645,7 @@
       "authorsHtml": "<p>PERTIM</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "4249110"
+      "mirrors": []
     },
     {
       "title": "Slay The Princess The Pristine - Titulky & Dabing",
@@ -15724,8 +15709,7 @@
       "authorsHtml": "<p>Lokalizace.Net</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "312670"
+      "mirrors": []
     },
     {
       "title": "Arctic Awakening",
@@ -15746,8 +15730,7 @@
       "authorsHtml": "<p>PERTIM</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "1275550"
+      "mirrors": []
     },
     {
       "title": "Baldi's Basics Classic Remastered",
@@ -15811,8 +15794,7 @@
       "authorsHtml": "<p>PERTIM</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "632950"
+      "mirrors": []
     },
     {
       "title": "Terraria",
@@ -15965,8 +15947,7 @@
       "authorsHtml": "<p>Lokalizace.Net</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "2769570"
+      "mirrors": []
     },
     {
       "title": "METAL GEAR SOLID: Peace Walker - Master Collection Vol.2",
@@ -16075,8 +16056,7 @@
       "authorsHtml": "<p>Smile</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "1729740"
+      "mirrors": []
     },
     {
       "title": "Bye Sweet Carole",
@@ -16185,8 +16165,7 @@
       "authorsHtml": "<p>Sumilek86</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "2807960"
+      "mirrors": []
     },
     {
       "title": "3 Minutes to Midnight",
@@ -16229,8 +16208,7 @@
       "authorsHtml": "<p>Lokalizace.Net</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "801800"
+      "mirrors": []
     },
     {
       "title": "Alba: A Wildlife Advent",
@@ -16403,7 +16381,7 @@
       "size": null,
       "inDevelopment": true,
       "mirrors": [],
-      "steamAppId": "1924720"
+      "steamAppId": "747660"
     },
     {
       "title": "Deltarune",
@@ -16424,8 +16402,7 @@
       "authorsHtml": "<p>LowFanProject</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "1671210"
+      "mirrors": []
     },
     {
       "title": "Trivia Murder Party 3",
@@ -16511,8 +16488,7 @@
       "authorsHtml": "<p>ADV Dream</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "1358530"
+      "mirrors": []
     },
     {
       "title": "The Outlast Trials",
@@ -16577,8 +16553,7 @@
       "authorsHtml": "<p>Tým Překladu Deltarune</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "1671210"
+      "mirrors": []
     },
     {
       "title": "The Excavation of Hob’s Barrow",
