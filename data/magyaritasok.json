@@ -28,6 +28,30 @@
       ]
     },
     {
+      "steamAppId": "2713000",
+      "title": "Resonance: A Plague Tale Legacy",
+      "studio": "Magyarítások",
+      "studioUrl": "https://magyaritasok.hu",
+      "language": "Magyar",
+      "hasText": true,
+      "hasVoice": false,
+      "version": "1.01",
+      "updatedAt": "24.09.2026",
+      "requiredGameVersion": "1.2.0.0",
+      "size": "20.1 MB",
+      "pageUrl": "https://magyaritasok.hu/games/resonance-a-plague-tale-legacy",
+      "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
+      "authorsHtml": "<p>NightVison, Johnykah</p>",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Magyarítások",
+          "url": "https://magyaritasok.hu/dl/ResonanceAPlagueTaleLegacy/Resonance_APTL_HUN_1.01.exe",
+          "kind": "direct"
+        }
+      ]
+    },
+    {
       "steamAppId": "2778580",
       "title": "Elden Ring: Shadow of the Erdtree",
       "studio": "Magyarítások",
@@ -35,9 +59,9 @@
       "language": "Magyar",
       "hasText": true,
       "hasVoice": false,
-      "version": "1.24",
-      "updatedAt": "31.08.2026",
-      "requiredGameVersion": "1.17",
+      "version": "1.25",
+      "updatedAt": "13.09.2026",
+      "requiredGameVersion": "1.17.1",
       "size": "59.7 MB",
       "pageUrl": "https://magyaritasok.hu/games/elden-ring-shadow-of-the-erdtree",
       "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
@@ -46,7 +70,31 @@
       "mirrors": [
         {
           "label": "Magyarítások",
-          "url": "https://magyaritasok.hu/dl/EldenRing/EldenRingHUNbyTRC_1.24.zip",
+          "url": "https://magyaritasok.hu/dl/EldenRing/EldenRingHUNbyTRC_1.25.zip",
+          "kind": "direct"
+        }
+      ]
+    },
+    {
+      "steamAppId": "294650",
+      "title": "Putt-Putt Goes to the Moon",
+      "studio": "Magyarítások",
+      "studioUrl": "https://magyaritasok.hu",
+      "language": "Magyar",
+      "hasText": true,
+      "hasVoice": false,
+      "version": "1.0",
+      "updatedAt": "17.09.2026",
+      "requiredGameVersion": "ScummVM",
+      "size": "26.9 MB",
+      "pageUrl": "https://magyaritasok.hu/games/putt-putt-goes-to-the-moon",
+      "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
+      "authorsHtml": null,
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Magyarítások",
+          "url": "https://magyaritasok.hu/dl/PuttPuttGoestotheMoon/PP_Moon_hun_v1.0.zip",
           "kind": "direct"
         }
       ]
@@ -1036,10 +1084,10 @@
       "language": "Magyar",
       "hasText": true,
       "hasVoice": false,
-      "version": "1.0",
-      "updatedAt": "26.08.2026",
+      "version": "1.1",
+      "updatedAt": "23.09.2026",
       "requiredGameVersion": "4.0.1386",
-      "size": "34.2 MB",
+      "size": "12.0 MB",
       "pageUrl": "https://magyaritasok.hu/games/deponia",
       "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
       "authorsHtml": "<p>KCsT</p>",
@@ -1047,7 +1095,7 @@
       "mirrors": [
         {
           "label": "Magyarítások",
-          "url": "https://magyaritasok.hu/dl/Deponia/Deponia1_1.0_HUN_KCsT.zip",
+          "url": "https://magyaritasok.hu/dl/Deponia/Deponia1_HUN_1.1.exe",
           "kind": "direct"
         }
       ]
@@ -1201,10 +1249,10 @@
       "language": "Magyar",
       "hasText": true,
       "hasVoice": false,
-      "version": "1.1",
-      "updatedAt": "28.03.2026",
-      "requiredGameVersion": "1.6",
-      "size": "5.32 MB",
+      "version": "1.2",
+      "updatedAt": "23.09.2026",
+      "requiredGameVersion": "1.7",
+      "size": "5.33 MB",
       "pageUrl": "https://magyaritasok.hu/games/dying-light-the-beast",
       "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
       "authorsHtml": "<p>NightVison</p>",
@@ -1212,7 +1260,7 @@
       "mirrors": [
         {
           "label": "Magyarítások",
-          "url": "https://magyaritasok.hu/dl/DyingLightTheBeast/DyingLightTheBeast_hun_v1.1.exe",
+          "url": "https://magyaritasok.hu/dl/DyingLightTheBeast/DyingLightTheBeast_hun_v1.2.exe",
           "kind": "direct"
         }
       ]
@@ -3292,10 +3340,10 @@
       "language": "Magyar",
       "hasText": true,
       "hasVoice": false,
-      "version": "3.2.3",
-      "updatedAt": "21.06.2026",
-      "requiredGameVersion": "1.28.0c",
-      "size": "6.58 MB",
+      "version": "3.2.4",
+      "updatedAt": "23.09.2026",
+      "requiredGameVersion": "1.29.2",
+      "size": "6.59 MB",
       "pageUrl": "https://magyaritasok.hu/games/dying-light-2-stay-human",
       "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
       "authorsHtml": "<p>NightVison, Evin</p>",
@@ -3303,7 +3351,7 @@
       "mirrors": [
         {
           "label": "Magyarítások",
-          "url": "https://magyaritasok.hu/dl/DyingLight2/DyingLight2_hun_v3.2.3.exe",
+          "url": "https://magyaritasok.hu/dl/DyingLight2/DyingLight2_hun_v3.2.4.exe",
           "kind": "direct"
         }
       ]
@@ -3362,10 +3410,10 @@
       "language": "Magyar",
       "hasText": true,
       "hasVoice": false,
-      "version": "1.0",
-      "updatedAt": "29.03.2025",
+      "version": "1.0AG",
+      "updatedAt": "23.09.2026",
       "requiredGameVersion": null,
-      "size": "7.09 MB",
+      "size": "6.36 MB",
       "pageUrl": "https://magyaritasok.hu/games/the-expanse-a-telltale-series-deluxe-edition",
       "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
       "authorsHtml": "<p>NightVison, Clabish, Sámánlány</p>",
@@ -3373,7 +3421,7 @@
       "mirrors": [
         {
           "label": "Magyarítások",
-          "url": "https://magyaritasok.hu/dl/TheExpanseATelltaleSeries/TheExpanse_hun_v1.0.exe",
+          "url": "https://magyaritasok.hu/dl/TheExpanseATelltaleSeries/TheExpanse_hun_v1.0AG.exe",
           "kind": "direct"
         }
       ]
@@ -5628,6 +5676,29 @@
         {
           "label": "Magyarítások",
           "url": "https://magyaritasok.hu/dl/kotor/kotor.exe",
+          "kind": "direct"
+        }
+      ]
+    },
+    {
+      "title": "Avatar: Frontiers of Pandora",
+      "studio": "Magyarítások",
+      "studioUrl": "https://magyaritasok.hu",
+      "language": "Magyar",
+      "hasText": true,
+      "hasVoice": false,
+      "version": "1.01",
+      "updatedAt": "25.09.2026",
+      "requiredGameVersion": null,
+      "size": "8.15 MB",
+      "pageUrl": "https://magyaritasok.hu/games/avatar-frontiers-of-pandora",
+      "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
+      "authorsHtml": null,
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Magyarítások",
+          "url": "https://magyaritasok.hu/dl/AvatarFrontiersofPandora/AvatarFoP_magyaritas_v101.exe",
           "kind": "direct"
         }
       ]
@@ -9646,10 +9717,10 @@
       "language": "Magyar",
       "hasText": true,
       "hasVoice": false,
-      "version": "1.02",
-      "updatedAt": "15.07.2023",
+      "version": "1.03",
+      "updatedAt": "28.09.2026",
       "requiredGameVersion": "1.2.40404",
-      "size": "4.10 MB",
+      "size": "4.35 MB",
       "pageUrl": "https://magyaritasok.hu/games/syberia-the-world-before",
       "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
       "authorsHtml": "<p>FEARka</p>",
@@ -9657,7 +9728,7 @@
       "mirrors": [
         {
           "label": "Magyarítások",
-          "url": "https://magyaritasok.hu/dl/Syberia_TheWorldBefore/Syberia_TheWorldBefore_HUN_1.02.exe",
+          "url": "https://magyaritasok.hu/dl/Syberia_TheWorldBefore/Syberia_TheWorldBefore_HUN_1.03.exe",
           "kind": "direct"
         }
       ]
@@ -9694,9 +9765,9 @@
       "language": "Magyar",
       "hasText": true,
       "hasVoice": false,
-      "version": "1.24",
-      "updatedAt": "31.08.2026",
-      "requiredGameVersion": "1.17",
+      "version": "1.25",
+      "updatedAt": "13.09.2026",
+      "requiredGameVersion": "1.17.1",
       "size": "59.7 MB",
       "pageUrl": "https://magyaritasok.hu/games/elden-ring",
       "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
@@ -9705,7 +9776,7 @@
       "mirrors": [
         {
           "label": "Magyarítások",
-          "url": "https://magyaritasok.hu/dl/EldenRing/EldenRingHUNbyTRC_1.24.zip",
+          "url": "https://magyaritasok.hu/dl/EldenRing/EldenRingHUNbyTRC_1.25.zip",
           "kind": "direct"
         }
       ]
@@ -24723,6 +24794,29 @@
       ]
     },
     {
+      "title": "The Cursed Crusade",
+      "studio": "Magyarítások",
+      "studioUrl": "https://magyaritasok.hu",
+      "language": "Magyar",
+      "hasText": true,
+      "hasVoice": false,
+      "version": "1.00",
+      "updatedAt": "26.09.2026",
+      "requiredGameVersion": null,
+      "size": "23.6 MB",
+      "pageUrl": "https://magyaritasok.hu/games/the-cursed-crusade",
+      "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
+      "authorsHtml": "<p>Gora</p>",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Magyarítások",
+          "url": "https://magyaritasok.hu/dl/TheCursedCrusade/TheCursedCrusade_HUN_v100.exe",
+          "kind": "direct"
+        }
+      ]
+    },
+    {
       "title": "Zoo Tycoon: Dinosaur Digs",
       "studio": "Magyarítások",
       "studioUrl": "https://magyaritasok.hu",
@@ -25345,8 +25439,8 @@
       "language": "Magyar",
       "hasText": true,
       "hasVoice": false,
-      "version": "1.00",
-      "updatedAt": "21.08.2026",
+      "version": "1.01",
+      "updatedAt": "12.09.2026",
       "requiredGameVersion": null,
       "size": "30.5 MB",
       "pageUrl": "https://magyaritasok.hu/games/resident-evil-3-nemesis",
@@ -25356,7 +25450,7 @@
       "mirrors": [
         {
           "label": "Magyarítások",
-          "url": "https://magyaritasok.hu/dl/residentevil3/RE3_1999_HUN_1.00.zip",
+          "url": "https://magyaritasok.hu/dl/residentevil3/RE3_1999_HUN_1.01.zip",
           "kind": "direct"
         }
       ]
