@@ -5,6 +5,61 @@
   "siteUrl": "https://hernipreklady.cz",
   "localizations": [
     {
+      "title": "Anno 117",
+      "studio": "HerníPřeklady",
+      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/anno-117",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": "1.09",
+      "updatedAt": null,
+      "requiredGameVersion": "2.1.0.1711091+",
+      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/anno-117",
+      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
+      "authorsHtml": "<p><strong>Překlad:</strong> Jetro, Ralph Shepard,<br><strong>Korektura:</strong> Jetro<br><strong>Testování:</strong> Andrewek, Jetro,</p>",
+      "inDevelopment": false,
+      "size": "3.59 MB",
+      "mirrors": [
+        {
+          "label": "HerníPřeklady",
+          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=624",
+          "kind": "direct"
+        }
+      ]
+    },
+    {
+      "title": "Stone Simulator - Just Be a Rock",
+      "studio": "HerníPřeklady",
+      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/stone-simulator-just-be-a-rock",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": "2.3",
+      "updatedAt": null,
+      "requiredGameVersion": "1.4.0.1",
+      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/stone-simulator-just-be-a-rock",
+      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
+      "authorsHtml": null,
+      "inDevelopment": false,
+      "size": "1.38 MB",
+      "mirrors": [
+        {
+          "label": "HerníPřeklady",
+          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=623",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "1425980"
+    },
+    {
       "title": "Graveyard Keeper 2",
       "studio": "HerníPřeklady",
       "studioUrl": "https://hernipreklady.cz/seznam-prekladu/graveyard-keeper-2",
@@ -172,62 +227,6 @@
       "steamAppId": "2185060"
     },
     {
-      "title": "Civilization VII",
-      "studio": "HerníPřeklady",
-      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/civilization-vii",
-      "language": "Čeština",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": "1.09",
-      "updatedAt": null,
-      "requiredGameVersion": "1.4.2 (PC - Win)",
-      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/civilization-vii",
-      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
-      "authorsHtml": "<p><strong>Překlad:</strong> Jetro, Ralph Shepard, Coffin Corner, Sushi<br><strong>Korektura:</strong> Jetro<br><strong>Testování:</strong> Ralph Shepard, Andrewek, Jetro</p>",
-      "inDevelopment": false,
-      "size": "3.38 MB",
-      "mirrors": [
-        {
-          "label": "HerníPřeklady",
-          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=612",
-          "kind": "direct"
-        }
-      ],
-      "steamAppId": "1295660"
-    },
-    {
-      "title": "Cult of the Lamb",
-      "studio": "HerníPřeklady",
-      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/cult-of-the-lamb",
-      "language": "Čeština",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": "1.3",
-      "updatedAt": null,
-      "requiredGameVersion": "1.5.26",
-      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/cult-of-the-lamb",
-      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
-      "authorsHtml": "<p><strong>Překlad:</strong> Ralph Shepard<br><strong>Technika:</strong> Flu, Termit, Luc2as</p>",
-      "inDevelopment": false,
-      "size": "13.7 MB",
-      "mirrors": [
-        {
-          "label": "HerníPřeklady",
-          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=611",
-          "kind": "direct"
-        }
-      ],
-      "steamAppId": "1313140"
-    },
-    {
       "title": "Songs of Conquest",
       "studio": "HerníPřeklady",
       "studioUrl": "https://hernipreklady.cz/seznam-prekladu/songs-of-conquest",
@@ -366,28 +365,6 @@
         }
       ],
       "steamAppId": "2172010"
-    },
-    {
-      "title": "Hail to the Rainbow",
-      "studio": "HerníPřeklady",
-      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/hail-to-the-rainbow",
-      "language": "Čeština",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": null,
-      "updatedAt": null,
-      "requiredGameVersion": "1.07",
-      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/hail-to-the-rainbow",
-      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
-      "authorsHtml": null,
-      "inDevelopment": true,
-      "size": null,
-      "mirrors": [],
-      "steamAppId": "1699230"
     },
     {
       "title": "Titanfall 2",
@@ -670,6 +647,28 @@
       "steamAppId": "606160"
     },
     {
+      "title": "Hail to the Rainbow",
+      "studio": "HerníPřeklady",
+      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/hail-to-the-rainbow",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": null,
+      "updatedAt": null,
+      "requiredGameVersion": "1.07",
+      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/hail-to-the-rainbow",
+      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
+      "authorsHtml": null,
+      "inDevelopment": true,
+      "size": null,
+      "mirrors": [],
+      "steamAppId": "1699230"
+    },
+    {
       "title": "Portrait of a Torn",
       "studio": "HerníPřeklady",
       "studioUrl": "https://hernipreklady.cz/seznam-prekladu/portrait-of-a-torn",
@@ -810,33 +809,6 @@
       "steamAppId": "2464280"
     },
     {
-      "title": "Anno 117",
-      "studio": "HerníPřeklady",
-      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/anno-117",
-      "language": "Čeština",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": "1.08",
-      "updatedAt": null,
-      "requiredGameVersion": "2.0.1702353+",
-      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/anno-117",
-      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
-      "authorsHtml": "<p><strong>Překlad:</strong> Jetro, Ralph Shepard,<br><strong>Korektura:</strong> Jetro<br><strong>Testování:</strong> Andrewek, Jetro,</p>",
-      "inDevelopment": false,
-      "size": "3.59 MB",
-      "mirrors": [
-        {
-          "label": "HerníPřeklady",
-          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=608",
-          "kind": "direct"
-        }
-      ]
-    },
-    {
       "title": "Two Point Campus",
       "studio": "HerníPřeklady",
       "studioUrl": "https://hernipreklady.cz/seznam-prekladu/two-point-campus",
@@ -935,34 +907,6 @@
         }
       ],
       "steamAppId": "2101960"
-    },
-    {
-      "title": "Stone Simulator - Just Be a Rock",
-      "studio": "HerníPřeklady",
-      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/stone-simulator-just-be-a-rock",
-      "language": "Čeština",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": "2.2",
-      "updatedAt": "22.12.2025",
-      "requiredGameVersion": "1.3.0.3",
-      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/stone-simulator-just-be-a-rock",
-      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
-      "authorsHtml": null,
-      "inDevelopment": false,
-      "size": "32.3 MB",
-      "mirrors": [
-        {
-          "label": "HerníPřeklady",
-          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=491",
-          "kind": "direct"
-        }
-      ],
-      "steamAppId": "1425980"
     },
     {
       "title": "Cash Cleaner Simulator",
@@ -1131,6 +1075,34 @@
         }
       ],
       "steamAppId": "361420"
+    },
+    {
+      "title": "Civilization VII",
+      "studio": "HerníPřeklady",
+      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/civilization-vii",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": "1.09",
+      "updatedAt": null,
+      "requiredGameVersion": "1.4.2 (PC - Win)",
+      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/civilization-vii",
+      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
+      "authorsHtml": "<p><strong>Překlad:</strong> Jetro, Ralph Shepard, Coffin Corner, Sushi<br><strong>Korektura:</strong> Jetro<br><strong>Testování:</strong> Ralph Shepard, Andrewek, Jetro</p>",
+      "inDevelopment": false,
+      "size": "3.38 MB",
+      "mirrors": [
+        {
+          "label": "HerníPřeklady",
+          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=612",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "1295660"
     },
     {
       "title": "SCP: Fragmented Minds",
@@ -1382,6 +1354,34 @@
         }
       ],
       "steamAppId": "2223840"
+    },
+    {
+      "title": "Cult of the Lamb",
+      "studio": "HerníPřeklady",
+      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/cult-of-the-lamb",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": "1.3",
+      "updatedAt": null,
+      "requiredGameVersion": "1.5.26",
+      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/cult-of-the-lamb",
+      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
+      "authorsHtml": "<p><strong>Překlad:</strong> Ralph Shepard<br><strong>Technika:</strong> Flu, Termit, Luc2as</p>",
+      "inDevelopment": false,
+      "size": "13.7 MB",
+      "mirrors": [
+        {
+          "label": "HerníPřeklady",
+          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=611",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "1313140"
     },
     {
       "title": "Black Myth: Wukong",
