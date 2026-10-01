@@ -8,83 +8,25 @@
  * short-lived signed URLs. So this is a metadata-only source — every entry has
  * no mirrors and a custom "how to install" that points users to the launcher.
  *
- * The anon key is the public client key (shipped in their site bundle and
- * launcher by design); it only allows the same read access the site itself has.
- * LBK rotates it now and then (2026-08-09: the embedded key started answering
- * 401 and the feed silently froze for two months), so the embedded copy is only
- * a first guess — on a 401 the current key is read from the public site bundle.
+ * API access (public anon key + recovery when LBK rotates it) lives in
+ * lib/lbk-api.mjs, shared with the weekly channel check.
  */
 import { writeFile, mkdir } from "node:fs/promises";
 import { fileURLToPath } from "node:url";
 import { dirname, join } from "node:path";
-import { getJson, getText } from "../lib/net.mjs";
+import { SITE, lbkGames } from "../lib/lbk-api.mjs";
 
 const ROOT = join(dirname(fileURLToPath(import.meta.url)), "..");
-
-const SUPABASE = "https://supabase.lbklauncher.com";
-const ANON =
-  "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJyb2xlIjoiYW5vbiIsImlzcyI6InN1cGFiYXNlIiwiaWF0IjoxNzg2MjkzMjcxLCJleHAiOjIxMDE2NTMyNzF9.EfWNGG8mp6Ck5HfQBMnWJolQ-ykUMPLwzGsMMlJUuIw";
-const SITE = "https://lbklauncher.com";
 
 const SOURCE_NAME = "LBK";
 const LANGUAGE = "Українська";
 
-const JWT_RE = /eyJ[A-Za-z0-9_-]{10,}\.eyJ[A-Za-z0-9_-]{10,}\.[A-Za-z0-9_-]{10,}/g;
-
-/** `iat` of a Supabase anon JWT, or -1 if the token is something else. */
-function anonIssuedAt(jwt) {
-  try {
-    const payload = JSON.parse(Buffer.from(jwt.split(".")[1], "base64url").toString("utf8"));
-    return payload.role === "anon" && payload.iss === "supabase" ? (payload.iat ?? 0) : -1;
-  } catch {
-    return -1;
-  }
-}
-
-/** The anon key the site itself ships to every visitor (newest one in the bundle). */
-async function discoverAnonKey() {
-  const home = await getText(SITE);
-  const chunks = [...new Set(home.match(/\/_next\/static\/chunks\/[^"'\\]+\.js/g) || [])];
-  let best = null;
-  let bestIat = -1;
-  const scan = (text) => {
-    for (const key of text.match(JWT_RE) || []) {
-      const iat = anonIssuedAt(key);
-      if (iat > bestIat) [best, bestIat] = [key, iat];
-    }
-  };
-  scan(home);
-  for (const chunk of chunks) {
-    try {
-      scan(await getText(SITE + chunk));
-    } catch {
-      // one unreadable chunk is fine as long as the key turns up in another
-    }
-  }
-  if (!best) throw new Error(`[LBK] no anon key found in the site bundle (${chunks.length} chunks scanned)`);
-  return best;
-}
-
-async function fetchGames(key) {
-  const url =
-    `${SUPABASE}/rest/v1/games?select=name,slug,steam_app_id,team,status,` +
-    `translation_progress,version,archive_path,voice_archive_path,updated_at,` +
-    `translation_updated_at` +
-    `&approved=eq.true&hide=eq.false&order=name.asc&limit=2000`;
-  // tries: 1 — a 401 will not get better on a retry.
-  return getJson(url, { headers: { apikey: key, Authorization: `Bearer ${key}` }, tries: 1 });
-}
-
-/** Games via the embedded key; if it has been rotated (401), via the site's current one. */
-async function fetchGamesWithKeyRecovery() {
-  try {
-    return await fetchGames(ANON);
-  } catch (err) {
-    if (!/->\s*401\b/.test(err.message)) throw err;
-    console.log("[LBK] embedded anon key rejected (401) — reading the current one from the site bundle…");
-    return fetchGames(await discoverAnonKey());
-  }
-}
+// hide=eq.false: hidden entries are code-gated translations (the launcher shows
+// them only after the user unlocks one with a code) and have no public page.
+const GAMES_QUERY =
+  "select=name,slug,steam_app_id,team,status,translation_progress,version," +
+  "archive_path,voice_archive_path,updated_at,translation_updated_at" +
+  "&approved=eq.true&hide=eq.false&order=name.asc&limit=2000";
 
 /** "2026-03-09T13:29:03Z" -> "09.03.2026" */
 function formatDate(iso) {
@@ -132,7 +74,7 @@ function buildEntry(game) {
 
 async function main() {
   console.log("[LBK] fetching games…");
-  const games = (await fetchGamesWithKeyRecovery()).filter((g) => g.name);
+  const games = (await lbkGames(GAMES_QUERY)).filter((g) => g.name);
   console.log(`[LBK] ${games.length} games`);
 
   const localizations = games.map(buildEntry);
