@@ -95,17 +95,17 @@
       "hasNeuralVoice": false,
       "hasNeuralDub": false,
       "hasNeuralText": false,
-      "version": "1",
-      "updatedAt": "22.09.2026",
+      "version": "2",
+      "updatedAt": "30.09.2026",
       "pageUrl": "https://www.calypsoceviri.com/turkce-yamalar/silent-hill-townfall-turkce-yama-indir",
       "howToInstallHtml": "<div>Aşağıda vermiş olduğumuz linkten indirdiğiniz Rar dosyasındaki Türkçe Yama exesini, oyunun kurulu olduğu ana dosya konumuna atarak, Türkçe yama exesini çalıştırın. Oyunun ana dosya konumunun seçili olduğunu kontrol ettikten sonra, hangi platformdan oynuyorsanız, o platformun yükle butonuna basarak yamayı yükleyebilirsiniz. <br><br>Yamayı kaldırmak isterseniz, oyunun dosya konumundaki \"SHTownfall_YamaKaldır.exe\"'yi kullanarak, yamayı kaldırabilirsiniz.</div>",
       "authorsHtml": "<p>VolkTyson</p>",
-      "size": "5.94 MB",
+      "size": "5.97 MB",
       "inDevelopment": false,
       "mirrors": [
         {
           "label": "Calypso Çeviri",
-          "url": "https://www.calypsoceviri.com/_files/archives/7d262d_4e4c0d63498f4a7ab902faff68db0f80.zip?dn=SILENT%2520HILL%2520Townfall%2520T%25C3%25BCrk%25C3%25A7e%2520Yama%2520V1.zip",
+          "url": "https://www.calypsoceviri.com/_files/archives/7d262d_b1512c1c54374f9eb07ceafc55acf881.zip?dn=SILENT%2520HILL%2520Townfall%2520T%25C3%25BCrk%25C3%25A7e%2520Yama%2520V2.zip",
           "kind": "direct"
         }
       ],
@@ -1013,17 +1013,17 @@
       "hasNeuralVoice": false,
       "hasNeuralDub": false,
       "hasNeuralText": false,
-      "version": "2",
-      "updatedAt": "26.06.2026",
+      "version": "3",
+      "updatedAt": "30.09.2026",
       "pageUrl": "https://www.calypsoceviri.com/turkce-yamalar/dead-as-disco-turkce-yama-indir",
       "howToInstallHtml": "<div>Aşağıda vermiş olduğumuz linkten indirdiğiniz Rar dosyasındaki Türkçe Yama exesini, oyunun kurulu olduğu ana dosya konumuna atarak, Türkçe yama exesini çalıştırın. Oyunun ana dosya konumunun seçili olduğunu kontrol ettikten sonra, hangi platformdan oynuyorsanız, o platformun yükle butonuna basarak yamayı yükleyebilirsiniz. <br><br>Yamayı kaldırmak için oyunun dosya konumundaki \"DeadasDisco_YamaKaldır.exe\"'sini çalıştırabilirsiniz.</div>",
       "authorsHtml": "<p>CrimsonSwift, VolkTyson</p>",
-      "size": "4.13 MB",
+      "size": "4.81 MB",
       "inDevelopment": false,
       "mirrors": [
         {
           "label": "Calypso Çeviri",
-          "url": "https://www.calypsoceviri.com/_files/archives/7d262d_a2856da753454617b9fd9186940d3435.rar?dn=Dead%2520as%2520Disco%2520T%25C3%25BCrk%25C3%25A7e%2520Yama%2520V2.rar",
+          "url": "https://www.calypsoceviri.com/_files/archives/7d262d_c6e32458504c40c0aff5d656336df9ff.zip?dn=Dead%2520as%2520Disco%2520T%25C3%25BCrk%25C3%25A7e%2520Yama%2520V3.zip",
           "kind": "direct"
         }
       ],
@@ -1136,6 +1136,33 @@
         }
       ],
       "steamAppId": "2582320"
+    },
+    {
+      "title": "Bylina",
+      "studio": "Calypso Çeviri",
+      "studioUrl": "https://www.calypsoceviri.com",
+      "language": "Türkçe",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": "1",
+      "updatedAt": "23.06.2026",
+      "pageUrl": "https://www.calypsoceviri.com/turkce-yamalar/bylina-turkce-yama-indir",
+      "howToInstallHtml": "<div>Aşağıda vermiş olduğumuz linkten indirdiğiniz Rar dosyasındaki Türkçe Yama exesini, oyunun kurulu olduğu ana dosya konumuna atarak, Türkçe yama exesini çalıştırın. Oyunun ana dosya konumunun seçili olduğunu kontrol ettikten sonra, hangi platformdan oynuyorsanız, o platformun yükle butonuna basarak yamayı yükleyebilirsiniz. <br><br>Yamayı kaldırmak için oyunun dosya konumundaki \"Bylina_YamaKaldır.exe\"'sini çalıştırabilirsiniz.</div>",
+      "authorsHtml": "<p>Bugzade</p>",
+      "size": "4.16 MB",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Calypso Çeviri",
+          "url": "https://www.calypsoceviri.com/_files/archives/7d262d_fa7008f4a2cc49dcb158c3a4d8770845.rar?dn=Bylina%2520T%25C3%25BCrk%25C3%25A7e%2520Yama%2520V1.rar",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "2461440"
     },
     {
       "title": "Invincible Presents Atom Eve",
@@ -3383,17 +3410,17 @@
       "hasNeuralVoice": false,
       "hasNeuralDub": false,
       "hasNeuralText": false,
-      "version": "3",
-      "updatedAt": "23.06.2026",
+      "version": "4",
+      "updatedAt": "01.10.2026",
       "pageUrl": "https://www.calypsoceviri.com/turkce-yamalar/slime-rancher-2-turkce-yama-indir",
       "howToInstallHtml": "<div>Aşağıda vermiş olduğumuz linkten indirdiğiniz Rar dosyasındaki Türkçe Yama exesini, oyunun kurulu olduğu ana dosya konumuna atarak, Türkçe yama exesini çalıştırın. Oyunun ana dosya konumunun seçili olduğunu kontrol ettikten sonra, hangi platformdan oynuyorsanız, o platformun yükle butonuna basarak yamayı yükleyebilirsiniz.<br><br>Yamayı kaldırmak için oyunun dosyalarını doğrulamanız gerekiyor.</div>",
       "authorsHtml": "<p>Indra</p>",
-      "size": "4.10 MB",
+      "size": "5.74 MB",
       "inDevelopment": false,
       "mirrors": [
         {
           "label": "Calypso Çeviri",
-          "url": "https://www.calypsoceviri.com/_files/archives/7d262d_49f60ecfaad942bb845b0d888d93047b.rar?dn=Slime%2520Rancher%25202%2520T%25C3%25BCrk%25C3%25A7e%2520Yama%2520V3.rar",
+          "url": "https://www.calypsoceviri.com/_files/archives/7d262d_16ea41b866a245599e56dfb8a9ecf4c6.zip?dn=Slime%2520Rancher%25202%2520T%25C3%25BCrk%25C3%25A7e%2520Yama%2520V4.zip",
           "kind": "direct"
         }
       ],
@@ -4112,7 +4139,7 @@
       "version": "1",
       "updatedAt": "23.06.2026",
       "pageUrl": "https://www.calypsoceviri.com/turkce-yamalar/killing-floor-3-turkce-yama-indir",
-      "howToInstallHtml": "<div>Aşağıda vermi\u0000ş olduğumuz linkten indirdiğiniz Rar dosyasındaki Türkçe Yama exesini, oyunun kurulu olduğu ana dosya konumuna atarak, Türkçe yama exesini çalıştırın. Oyunun ana dosya konumunun seçili olduğunu kontrol ettikten sonra, hangi platformdan oynuyorsanız, o platformun yükle butonuna basarak yamayı yükleyebilirsiniz.<br><br>Yamayı kaldırmak için dosya konumundaki KilingFloor3_YamaKaldır.exe den yamayı kaldırabilirsiniz.</div>",
+      "howToInstallHtml": "<div>Aşağıda vermiş olduğumuz linkten indirdiğiniz Rar dosyasındaki Türkçe Yama exesini, oyunun kurulu olduğu ana dosya konumuna atarak, Türkçe yama exesini çalıştırın. Oyunun ana dosya konumunun seçili olduğunu kontrol ettikten sonra, hangi platformdan oynuyorsanız, o platformun yükle butonuna basarak yamayı yükleyebilirsiniz.<br><br>Yamayı kaldırmak için dosya konumundaki KilingFloor3_YamaKaldır.exe den yamayı kaldırabilirsiniz.</div>",
       "authorsHtml": "<p>VolkTyson, Indra</p>",
       "size": "2.94 MB",
       "inDevelopment": false,
@@ -4244,17 +4271,17 @@
       "hasNeuralVoice": false,
       "hasNeuralDub": false,
       "hasNeuralText": false,
-      "version": "7",
-      "updatedAt": "23.06.2026",
+      "version": "8",
+      "updatedAt": "30.09.2026",
       "pageUrl": "https://www.calypsoceviri.com/turkce-yamalar/tainted-grail-the-fall-of-avalon-turkce-yama-indir",
       "howToInstallHtml": "<div>Aşağıda vermiş olduğumuz linkten indirdiğiniz Rar dosyasındaki Türkçe Yama exesini, oyunun kurulu olduğu ana dosya konumuna atarak, Türkçe yama exesini çalıştırın. Oyunun ana dosya konumunun seçili olduğunu kontrol ettikten sonra, hangi platformdan oynuyorsanız, o platformun yükle butonuna basarak yamayı yükleyebilirsiniz.<br><br>Yamayı kaldırmak için dosya konumundaki TaintedGrail_YamaKaldır.exe den yamayı kaldırabilirsiniz.</div>",
       "authorsHtml": "<p>Indra</p>",
-      "size": "19.2 MB",
+      "size": "26.2 MB",
       "inDevelopment": false,
       "mirrors": [
         {
           "label": "Calypso Çeviri",
-          "url": "https://www.calypsoceviri.com/_files/archives/7d262d_e78e7b95ba614f43b899aa4b5ecaac34.rar?dn=Tainted%2520Grail%2520The%2520Fall%2520of%2520Avalon%2520T%25C3%25BCrk%25C3%25A7e%2520Yama%2520V7.rar",
+          "url": "https://www.calypsoceviri.com/_files/archives/7d262d_5e9938cc990c498e94a6bb1083dacce1.zip?dn=Tainted%2520Grail%2520The%2520Fall%2520of%2520Avalon%2520T%25C3%25BCrk%25C3%25A7e%2520Yama%2520V8.zip",
           "kind": "direct"
         }
       ],
@@ -5854,33 +5881,6 @@
       "steamAppId": "1817190"
     },
     {
-      "title": "Soulmask",
-      "studio": "Calypso Çeviri",
-      "studioUrl": "https://www.calypsoceviri.com",
-      "language": "Türkçe",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": "12",
-      "updatedAt": "03.09.2026",
-      "pageUrl": "https://www.calypsoceviri.com/turkce-yamalar/soulmask-turkce-yama-indir",
-      "howToInstallHtml": "<div>Aşağıda vermiş olduğumuz linkten indirdiğiniz Rar dosyasındaki Türkçe Yama exesini, oyunun kurulu olduğu ana dosya konumuna atarak, Türkçe yama exesini çalıştırın. Oyunun ana dosya konumunun seçili olduğunu kontrol ettikten sonra, hangi platformdan oynuyorsanız, o platformun yükle butonuna basarak yamayı yükleyebilirsiniz. Yama yüklendikten sonra rar dosyasındaki kurulum notlarında yazan adımları, sırasıyla eksiksiz olarak tamamlamanız gerekiyor.<br><br>Yamayı kaldırmak için dosya konumundaki Soulmask_YamaKaldir.exe den yamayı kaldırabilirsiniz.</div>",
-      "authorsHtml": "<p>VolkTyson</p>",
-      "size": "4.34 MB",
-      "inDevelopment": false,
-      "mirrors": [
-        {
-          "label": "Calypso Çeviri",
-          "url": "https://www.calypsoceviri.com/_files/archives/7d262d_885ae55ac4a241cda1ef1c1073c3bc16.zip?dn=Soulmask%2520T%25C3%25BCrk%25C3%25A7e%2520Yama%2520V12.zip",
-          "kind": "direct"
-        }
-      ],
-      "steamAppId": "2646460"
-    },
-    {
       "title": "The Elder Scrolls IV: Oblivion Remastered",
       "studio": "Calypso Çeviri",
       "studioUrl": "https://www.calypsoceviri.com",
@@ -6299,7 +6299,7 @@
       "version": null,
       "updatedAt": "23.06.2026",
       "pageUrl": "https://www.calypsoceviri.com/turkce-yamalar/gylt-turkce-yama-indir",
-      "howToInstallHtml": "<div>Aşağıda vermiş olduğumuz linkten indirdiğiniz Rar dosyasındaki Türkçe Yama exesini, oyunun kurulu olduğu ana dosya konumuna atarak, T\u0000ürkçe yama exesini çalıştırın. Oyunun ana dosya konumunun seçili olduğunu kontrol ettikten sonra, hangi platformdan oynuyorsanız, o platformun yükle butonuna basarak yamayı yükleyebilirsiniz.<br><br>Yamayı kaldırmak için dosya konumundaki GYLT_YamaKaldir.exe den yamayı kaldırabilirsiniz.</div>",
+      "howToInstallHtml": "<div>Aşağıda vermiş olduğumuz linkten indirdiğiniz Rar dosyasındaki Türkçe Yama exesini, oyunun kurulu olduğu ana dosya konumuna atarak, Türkçe yama exesini çalıştırın. Oyunun ana dosya konumunun seçili olduğunu kontrol ettikten sonra, hangi platformdan oynuyorsanız, o platformun yükle butonuna basarak yamayı yükleyebilirsiniz.<br><br>Yamayı kaldırmak için dosya konumundaki GYLT_YamaKaldir.exe den yamayı kaldırabilirsiniz.</div>",
       "authorsHtml": "<p>VolkTyson</p>",
       "size": "1.36 MB",
       "inDevelopment": false,
@@ -6687,7 +6687,7 @@
           "kind": "direct"
         }
       ],
-      "steamAppId": "3129050"
+      "steamAppId": "3714400"
     },
     {
       "title": "Darksiders Genesis",
@@ -6960,6 +6960,33 @@
       "steamAppId": "2358720"
     },
     {
+      "title": "Banishers Ghosts of New Eden",
+      "studio": "Calypso Çeviri",
+      "studioUrl": "https://www.calypsoceviri.com",
+      "language": "Türkçe",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": "3",
+      "updatedAt": "23.06.2026",
+      "pageUrl": "https://www.calypsoceviri.com/turkce-yamalar/banishers-ghosts-of-new-eden-turkce-yama-indir",
+      "howToInstallHtml": "<div>Aşağıda vermiş olduğumuz linkten indirdiğiniz Rar dosyasındaki Türkçe Yama exesini, oyunun kurulu olduğu ana dosya konumuna atarak, Türkçe yama exesini çalıştırın. Oyunun ana dosya konumunun seçili olduğunu kontrol ettikten sonra, hangi platformdan oynuyorsanız, o platformun yükle butonuna basarak yamayı yükleyebilirsiniz.<br><br>Yamayı kaldırmak için dosya konumundaki Banishers_YamaKaldir.exe den yamayı kaldırabilirsiniz.</div>",
+      "authorsHtml": "<p>N.</p>",
+      "size": "2.90 MB",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Calypso Çeviri",
+          "url": "https://www.calypsoceviri.com/_files/archives/7d262d_58873c9ee36640bfbad055160295830d.rar?dn=Banishers%2520Ghosts%2520Of%2520New%2520Eden%2520T%25C3%25BCrk%25C3%25A7e%2520Yama%2520V3.rar",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "1493640"
+    },
+    {
       "title": "Backrooms Break",
       "studio": "Calypso Çeviri",
       "studioUrl": "https://www.calypsoceviri.com",
@@ -7105,8 +7132,8 @@
       "hasNeuralVoice": false,
       "hasNeuralDub": false,
       "hasNeuralText": false,
-      "version": "22",
-      "updatedAt": "22.09.2026",
+      "version": "23",
+      "updatedAt": "01.10.2026",
       "pageUrl": "https://www.calypsoceviri.com/turkce-yamalar/aska-turkce-yama-indir",
       "howToInstallHtml": "<div>Aşağıda vermiş olduğumuz linkten indirdiğiniz Rar dosyasındaki Türkçe Yama exesini, oyunun kurulu olduğu ana dosya konumuna atarak, Türkçe yama exesini çalıştırın. Oyunun ana dosya konumunun seçili olduğunu kontrol ettikten sonra, hangi platformdan oynuyorsanız, o platformun yükle butonuna basarak yamayı yükleyebilirsiniz.<br><br>Yamayı kaldırmak için oyunun dosyalarını doğrulamanız gerekiyor.</div>",
       "authorsHtml": "<p>VolkTyson, Indra</p>",
@@ -7115,7 +7142,7 @@
       "mirrors": [
         {
           "label": "Calypso Çeviri",
-          "url": "https://www.calypsoceviri.com/_files/archives/7d262d_7b9385cc85e945edab7d27b38033d5d9.zip?dn=ASKA%2520T%25C3%25BCrk%25C3%25A7e%2520Yama%2520V22.zip",
+          "url": "https://www.calypsoceviri.com/_files/archives/7d262d_bf1f4cbf18324e48955ea7cb7e7c5180.zip?dn=ASKA%2520T%25C3%25BCrk%25C3%25A7e%2520Yama%2520V23.zip",
           "kind": "direct"
         }
       ],

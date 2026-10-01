@@ -311,62 +311,6 @@
       "steamAppId": "1119980"
     },
     {
-      "title": "The Thaumaturge",
-      "studio": "HerníPřeklady",
-      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/the-thaumaturge",
-      "language": "Čeština",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": null,
-      "updatedAt": "02.05.2025",
-      "requiredGameVersion": "73,488/2024-07-16/23:02",
-      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/the-thaumaturge",
-      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
-      "authorsHtml": "<p><strong>Překlad a test:</strong> Andrewek</p>",
-      "inDevelopment": false,
-      "size": "3.57 MB",
-      "mirrors": [
-        {
-          "label": "HerníPřeklady",
-          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=372",
-          "kind": "direct"
-        }
-      ],
-      "steamAppId": "1684350"
-    },
-    {
-      "title": "Until Dawn",
-      "studio": "HerníPřeklady",
-      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/until-dawn",
-      "language": "Čeština",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": "1.10",
-      "updatedAt": "20.12.2024",
-      "requiredGameVersion": "1.08",
-      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/until-dawn",
-      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
-      "authorsHtml": "<p><strong>Známé chyby:</strong> - některé titulky rychle mizí (není to chyba překladu, je to tak i v anglickém jazyku) - nejsou přeloženy skryté titulky, jde o přepis zvuků, které vydávají herní postavy</p>",
-      "inDevelopment": false,
-      "size": "930 B",
-      "mirrors": [
-        {
-          "label": "HerníPřeklady",
-          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=308",
-          "kind": "direct"
-        }
-      ],
-      "steamAppId": "2172010"
-    },
-    {
       "title": "Titanfall 2",
       "studio": "HerníPřeklady",
       "studioUrl": "https://hernipreklady.cz/seznam-prekladu/titanfall-2",
@@ -1328,6 +1272,34 @@
       "steamAppId": "2239150"
     },
     {
+      "title": "Until Dawn",
+      "studio": "HerníPřeklady",
+      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/until-dawn",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": "1.10",
+      "updatedAt": "20.12.2024",
+      "requiredGameVersion": "1.08",
+      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/until-dawn",
+      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
+      "authorsHtml": "<p><strong>Známé chyby:</strong> - některé titulky rychle mizí (není to chyba překladu, je to tak i v anglickém jazyku) - nejsou přeloženy skryté titulky, jde o přepis zvuků, které vydávají herní postavy</p>",
+      "inDevelopment": false,
+      "size": "930 B",
+      "mirrors": [
+        {
+          "label": "HerníPřeklady",
+          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=308",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "2172010"
+    },
+    {
       "title": "The Casting of Frank Stone",
       "studio": "HerníPřeklady",
       "studioUrl": "https://hernipreklady.cz/seznam-prekladu/the-casting-of-frank-stone",
@@ -1886,6 +1858,34 @@
         }
       ],
       "steamAppId": "1466640"
+    },
+    {
+      "title": "The Thaumaturge",
+      "studio": "HerníPřeklady",
+      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/the-thaumaturge",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": null,
+      "updatedAt": "02.05.2025",
+      "requiredGameVersion": "73,488/2024-07-16/23:02",
+      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/the-thaumaturge",
+      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
+      "authorsHtml": "<p><strong>Překlad a test:</strong> Andrewek</p>",
+      "inDevelopment": false,
+      "size": "3.57 MB",
+      "mirrors": [
+        {
+          "label": "HerníPřeklady",
+          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=372",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "1684350"
     },
     {
       "title": "SpellRogue",

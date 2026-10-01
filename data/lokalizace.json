@@ -1030,6 +1030,28 @@
       "steamAppId": "999220"
     },
     {
+      "title": "PRIM",
+      "studio": "Lokalizace.net",
+      "studioUrl": "https://lokalizace.net/localizations/prim",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": null,
+      "updatedAt": null,
+      "pageUrl": "https://lokalizace.net/localizations/prim",
+      "howToInstallHtml": "<p>Stáhněte ZIP soubor a rozbalte ho do složky hry, nebo použijte aplikaci CZManager pro automatickou instalaci češtiny.</p>",
+      "changelogHtml": "<div><p><strong>Nová verze 1.0</strong></p><p>Ahoj všem příznivcům adventur!</p><p>Právě vydáváme český překlad hry PRIM.</p><p>Jde o point-and-click adventuru, pojednávající o dospívající dceři vládce podsvětí, která začne slyšet záhadné volání o pomoc ze světa živých. Přes zákaz otce se vydává pátrat po jeho původu a během cesty řeší hádanky a odhaluje tajemství. Hra kombinuje řeckou mytologii, gotickou atmosféru a ručně kreslenou černobílou grafiku inspirovanou Timem Burtonem.</p><p>Užijte si hru, pořádně potrapte mozkové závity a hlavně si celé dobrodružství užijte!</p><p>Verze: Steam a GOG</p><p>Váš tým </p><p>ADV Dream</p></div>",
+      "authorsHtml": "<p>ADV Dream</p>",
+      "size": null,
+      "inDevelopment": true,
+      "mirrors": [],
+      "steamAppId": "1510470"
+    },
+    {
       "title": "Tomb Raider IV-VI Remastered",
       "studio": "Lokalizace.net",
       "studioUrl": "https://lokalizace.net/localizations/tomb-raider-iv-vi-remastered",
@@ -13040,7 +13062,7 @@
       "size": null,
       "inDevelopment": true,
       "mirrors": [],
-      "steamAppId": "212410"
+      "steamAppId": "1505430"
     },
     {
       "title": "Stellaris",
@@ -14878,8 +14900,7 @@
       "authorsHtml": "<p>ADV Dream</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "292910"
+      "mirrors": []
     },
     {
       "title": "Deponia Doomsday",
@@ -15010,8 +15031,7 @@
       "authorsHtml": "<p>ADV Dream</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "368370"
+      "mirrors": []
     },
     {
       "title": "Dead mountaineer's hotel",
@@ -15162,8 +15182,7 @@
       "authorsHtml": "<p>Lokalizace.Net</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "287630"
+      "mirrors": []
     },
     {
       "title": "Vampyr",
@@ -15184,8 +15203,7 @@
       "authorsHtml": "<p>Lokalizace.Net</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "427290"
+      "mirrors": []
     },
     {
       "title": "Resident Evil Village",
@@ -15292,8 +15310,7 @@
       "authorsHtml": "<p>ADV Dream</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "18480"
+      "mirrors": []
     },
     {
       "title": "The Rockin' Dead",
@@ -15378,8 +15395,7 @@
       "authorsHtml": "<p>ADV Dream</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "34800"
+      "mirrors": []
     },
     {
       "title": "Art of Murder 3: Cards of the Destiny",
@@ -15485,8 +15501,7 @@
       "authorsHtml": "<p>Lokalizace.Net</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "1544020"
+      "mirrors": []
     },
     {
       "title": "Resident Evil 4 (Remake)",
@@ -15639,8 +15654,7 @@
       "authorsHtml": "<p>Czech dubbing</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "292030"
+      "mirrors": []
     },
     {
       "title": "BLOODMONEY: REQUIEM",
@@ -15726,7 +15740,8 @@
       "authorsHtml": "<p>VocalSync Studios</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": []
+      "mirrors": [],
+      "steamAppId": "4102770"
     },
     {
       "title": "Breathedge 2",
@@ -15769,8 +15784,7 @@
       "authorsHtml": "<p>Lokalizace.Net</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "312670"
+      "mirrors": []
     },
     {
       "title": "Arctic Awakening",
@@ -16010,8 +16024,7 @@
       "authorsHtml": "<p>Lokalizace.Net</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "2769570"
+      "mirrors": []
     },
     {
       "title": "METAL GEAR SOLID: Peace Walker - Master Collection Vol.2",
@@ -16098,8 +16111,7 @@
       "authorsHtml": "<p>ADV Dream</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "1542390"
+      "mirrors": []
     },
     {
       "title": "Luto",
@@ -16600,8 +16612,7 @@
       "authorsHtml": "<p>Mikošek Dubbing</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "417860"
+      "mirrors": []
     },
     {
       "title": "Deltarune",
@@ -16856,7 +16867,7 @@
       "updatedAt": null,
       "pageUrl": "https://lokalizace.net/localizations/cities-skylines-ii",
       "howToInstallHtml": "<p>Stáhněte ZIP soubor a rozbalte ho do složky hry, nebo použijte aplikaci CZManager pro automatickou instalaci češtiny.</p>",
-      "changelogHtml": "<div>Nahrána nová verze překladu: 1.6.0.1</div>",
+      "changelogHtml": "<div><p>Nahrána nová verze překladu: 1.6.2f1</p></div>",
       "authorsHtml": "<p>PrekladyWoytman</p>",
       "size": null,
       "inDevelopment": true,
