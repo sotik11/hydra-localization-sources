@@ -43,6 +43,21 @@ tg() { # $1 = HTML text — piped via stdin (text@-) on purpose: MSYS mangles
 
 SOURCES="komunitni-preklady magyaritasok tribogamer"
 
+# A feed that lost more than this in one run is a throttled/blocked/broken run,
+# not reality — keep the previous feed. (50% used to be the bar; a run cut short
+# by an IP ban at 441 of 751 entries sailed through it.)
+MAX_DROP_PCT=15
+
+# Sources fetched at most once a week. komunitni-preklady sits behind CrowdSec,
+# which IP-bans a crawl that comes back every day; weekly is plenty for a
+# translation catalogue. The gate is a "not before" timestamp rather than a
+# weekday, so a week when the PC was off does not cost a whole extra week:
+# success -> next run in 7 days, failure -> retry in 2 (no daily hammering).
+WEEKLY="komunitni-preklady"
+WEEK_S=$((7 * 86400))
+RETRY_S=$((2 * 86400))
+stamp_of() { echo "data/.$1.next-run"; }
+
 echo ""
 echo "######## refresh_local $(date '+%Y-%m-%d %H:%M:%S %z') ########"
 notify "Hydra refresh — старт" "Обновляю: komunitni-preklady, magyaritasok, tribogamer…"
@@ -74,16 +89,50 @@ TOAST=""
 TG=""       # Telegram body: one source per line, "<u>name</u> — +N (was → now)"
 SEP=""
 for g in $SOURCES; do
+  weekly=0; retry_note=""
+  case " $WEEKLY " in *" $g "*) weekly=1 ;; esac
+  now=$(date +%s)
+
+  if [ "$weekly" -eq 1 ]; then
+    due=$(cat "$(stamp_of "$g")" 2>/dev/null); due=${due//[^0-9]/}; due=${due:-0}
+    if [ "$now" -lt "$due" ]; then
+      days=$(( (due - now + 86399) / 86400 ))
+      cur=$(count "data/$g.json")
+      echo ">>> $g — weekly source, not due for ${days}d — skipped (feed stays at $cur)"
+      SUMMARY="$SUMMARY\n  $g: skipped (weekly, due in ${days}d; feed $cur)"
+      TOAST="$TOAST$SEP$g: пропуск (${days} дн.)"
+      TG="${TG:+$TG$NL}<u>$g</u> — пропуск (раз в неделю), следующий через ${days} дн. ($cur)"
+      SEP=" · "
+      continue
+    fi
+  fi
+
   [ -f "data/$g.json" ] && cp -f "data/$g.json" "data/$g.json.backup"
   echo ">>> $g ($(date +%H:%M:%S))"
   node "generators/$g.mjs" 2>&1 | tail -1
+  rc=${PIPESTATUS[0]}
   new=$(count "data/$g.json"); bak=$(count "data/$g.json.backup")
-  if [ "$bak" -gt 0 ] && [ "$new" -lt $((bak / 2)) ]; then
-    echo "  !! $g degraded ($new < 50% of $bak) -> restoring backup"
-    cp -f "data/$g.json.backup" "data/$g.json"
-    SUMMARY="$SUMMARY\n  $g: $new (DEGRADED -> restored $bak)"
+  floor=$(( bak * (100 - MAX_DROP_PCT) / 100 ))
+
+  ok=1
+  if [ "$rc" -ne 0 ]; then
+    ok=0; why="ошибка генератора ($rc)"
+    echo "  !! $g exited $rc -> restoring backup"
+  elif [ "$bak" -gt 0 ] && [ "$new" -lt "$floor" ]; then
+    ok=0; why="обвал ($bak → $new)"
+    echo "  !! $g degraded ($new < $floor = -${MAX_DROP_PCT}% of $bak) -> restoring backup"
+  fi
+
+  if [ "$weekly" -eq 1 ]; then
+    if [ "$ok" -eq 1 ]; then echo $((now + WEEK_S)) > "$(stamp_of "$g")"
+    else echo $((now + RETRY_S)) > "$(stamp_of "$g")"; retry_note=", повтор через 2 дн."; fi
+  fi
+
+  if [ "$ok" -eq 0 ]; then
+    [ -f "data/$g.json.backup" ] && cp -f "data/$g.json.backup" "data/$g.json"
+    SUMMARY="$SUMMARY\n  $g: $new (FAILED: rc=$rc -> restored $bak)"
     TOAST="$TOAST$SEP$g: $bak (откат!)"
-    TG="${TG:+$TG$NL}<u>$g</u> — обвал ($new), откат к $bak"
+    TG="${TG:+$TG$NL}<u>$g</u> — $why, откат к $bak$retry_note"
   else
     delta=$((new - bak)); sign=$([ "$delta" -ge 0 ] && echo "+")
     SUMMARY="$SUMMARY\n  $g: $new (backup $bak)"

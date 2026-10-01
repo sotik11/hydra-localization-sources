@@ -60,19 +60,47 @@ const isoToDate = (iso) => {
   return m ? `${m[3]}.${m[2]}.${m[1]}` : null;
 };
 
+/* ------------------------------ polite fetch ------------------------------ */
+// The site sits behind CrowdSec, which bans an IP for "suspicious behaviour" —
+// i.e. our own crawl when it is too fast — and counts every request made while
+// banned as more of the same. So: few workers, a gap before each request, and
+// the FIRST 403 aborts the whole run instead of hammering on.
+
+const POOL = 2;
+const GAP_MS = 500;
+
+class BlockedError extends Error {}
+let blocked = false;
+
+async function politeGet(url) {
+  if (blocked) throw new BlockedError("run aborted: the site is blocking this IP");
+  await sleep(GAP_MS);
+  for (let attempt = 1; ; attempt += 1) {
+    try {
+      return await getText(url, { tries: 1 });
+    } catch (err) {
+      if (/->\s*403\b/.test(err.message)) {
+        blocked = true;
+        throw new BlockedError(`403 on ${url} — IP blocked (CrowdSec), aborting the run`);
+      }
+      if (attempt >= 2) throw err;
+      await sleep(2000);
+    }
+  }
+}
+
 /* ----------------------------- catalogue index ---------------------------- */
 
-/** All translation slugs, walking /preklady/strana/N. */
+/**
+ * All translation slugs, walking /preklady/strana/N. A page that fails to load
+ * THROWS: the walk ends on empty pages, not on errors, so an error means a
+ * truncated catalogue — which used to pass as a (much smaller) real one.
+ */
 async function fetchCatalogue() {
   const slugs = new Set();
   let zeros = 0;
   for (let page = 1; page <= 80; page += 1) {
-    let html;
-    try {
-      html = await getText(`${SITE}/preklady/strana/${page}`);
-    } catch {
-      break;
-    }
+    const html = await politeGet(`${SITE}/preklady/strana/${page}`);
     const before = slugs.size;
     for (const m of html.matchAll(/\/preklad\/([a-z0-9-]+)/gi)) slugs.add(m[1]);
     process.stdout.write(`\r[komunitni-preklady] strana ${page}, ${slugs.size} games     `);
@@ -84,7 +112,6 @@ async function fetchCatalogue() {
     } else {
       zeros = 0;
     }
-    await sleep(80);
   }
   console.log("");
   return slugs;
@@ -161,12 +188,15 @@ async function main() {
   console.log(`[komunitni-preklady] ${slugs.length} translations`);
 
   let done = 0;
+  let failed = 0;
   const built = (
-    await mapPool(slugs, 4, async (slug) => {
+    await mapPool(slugs, POOL, async (slug) => {
       let entry = null;
       try {
-        entry = buildEntry(slug, await getText(`${SITE}/preklad/${slug}`));
+        entry = buildEntry(slug, await politeGet(`${SITE}/preklad/${slug}`));
       } catch (err) {
+        if (err instanceof BlockedError) throw err; // stop everything, now
+        failed += 1;
         console.warn(`\n  ! ${slug}: ${err.message}`);
       }
       done += 1;
@@ -176,6 +206,12 @@ async function main() {
     })
   ).filter(Boolean);
   console.log("");
+
+  // A handful of dead pages is normal; a lot of them is a throttled run, and a
+  // partial feed must not be written over a full one.
+  if (failed > slugs.length * 0.05) {
+    throw new Error(`${failed}/${slugs.length} translation pages failed — refusing a partial feed`);
+  }
 
   const appCache = new Map();
   const resolveCached = (title) => {
