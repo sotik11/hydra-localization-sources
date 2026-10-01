@@ -38,8 +38,31 @@ if (mode === "--snapshot") {
   process.exit(0);
 }
 
+// --failed <file>: Telegram-HTML block for the sources regen_all.sh had to
+// restore ("name|reason" per line). Prints nothing when the file is empty.
+if (mode === "--failed") {
+  const escHtml = (s) =>
+    String(s).replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;");
+  let lines = [];
+  try {
+    lines = readFileSync(a, "utf8").split("\n").map((l) => l.trim()).filter(Boolean);
+  } catch {
+    lines = [];
+  }
+  if (lines.length) {
+    console.log("⚠️ <b>Не обновились — оставлен прежний фид:</b>");
+    for (const line of lines) {
+      const [name, ...why] = line.split("|");
+      console.log(`• <u>${escHtml(name)}</u> — ${escHtml(why.join("|") || "причина неизвестна")}`);
+    }
+  }
+  process.exit(0);
+}
+
 if (mode !== "--report") {
-  console.error("Usage: --snapshot <dataDir> <outFile> | --report <beforeFile> <dataDir>");
+  console.error(
+    "Usage: --snapshot <dataDir> <outFile> | --report <beforeFile> <dataDir> | --failed <failedFile>"
+  );
   process.exit(2);
 }
 
