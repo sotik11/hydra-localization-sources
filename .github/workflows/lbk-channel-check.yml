@@ -1,0 +1,77 @@
+name: LBK channel check
+
+# Weekly reconciliation of LBK's Telegram announcements (t.me/LittleBitUA,
+# public web preview) with the live data/lbk.json: every translation announced
+# in the last two weeks must be in the feed. Catches a generator that runs fine
+# but returns less than LBK has published. Report goes to Telegram; the run goes
+# red only when something is actually missing (or the channel can't be read).
+#
+# Read-only: checks out `stable` (the live feed) and never commits.
+
+on:
+  schedule:
+    # Mondays 13:00 UTC — well after the daily regenerate has landed.
+    - cron: "0 13 * * 1"
+  workflow_dispatch:
+    inputs:
+      days:
+        description: "Look-back window in days"
+        required: false
+        default: "14"
+
+permissions:
+  contents: read
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: stable
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Reconcile channel announcements with the feed
+        id: check
+        env:
+          DAYS: ${{ github.event.inputs.days || '14' }}
+        run: |
+          # The script exits 3 when something needs attention; keep going so the
+          # report is still sent, and fail the run in the last step instead.
+          set +e
+          node .github/scripts/lbk-channel-check.mjs --days "${DAYS}" > /tmp/lbk-report.txt
+          code=$?
+          set -e
+          cat /tmp/lbk-report.txt
+          echo "code=${code}" >> "$GITHUB_OUTPUT"
+
+      - name: Telegram — report
+        if: always()
+        continue-on-error: true
+        env:
+          TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          CHAT: ${{ secrets.TELEGRAM_CHAT_ID }}
+          RUN_URL: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}
+        run: |
+          if [ -z "${TOKEN}" ]; then echo "no Telegram token — skipping"; exit 0; fi
+          if [ -s /tmp/lbk-report.txt ]; then
+            BODY="$(cat /tmp/lbk-report.txt)"
+          else
+            BODY=$'⚠️ <b>LBK — сверка с каналом</b>\n\nСкрипт не выдал отчёта.'
+          fi
+          TEXT="${BODY}"$'\n\n<a href="'"${RUN_URL}"$'">run</a>'
+          curl -s -X POST "https://api.telegram.org/bot${TOKEN}/sendMessage" \
+            --data-urlencode "chat_id=${CHAT}" \
+            --data-urlencode "parse_mode=HTML" \
+            --data-urlencode "disable_web_page_preview=true" \
+            --data-urlencode "text=${TEXT}"
+
+      - name: Fail the run if something needs attention
+        if: steps.check.outputs.code != '0'
+        run: |
+          echo "::error::LBK channel check needs attention (exit ${{ steps.check.outputs.code }})"
+          exit 1
