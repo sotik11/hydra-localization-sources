@@ -1273,10 +1273,10 @@
       "language": "Magyar",
       "hasText": true,
       "hasVoice": false,
-      "version": "1.11",
-      "updatedAt": "23.05.2026",
+      "version": "2.0",
+      "updatedAt": "01.10.2026",
       "requiredGameVersion": null,
-      "size": "17.2 MB",
+      "size": "25.3 MB",
       "pageUrl": "https://magyaritasok.hu/games/phoenix-wright-ace-attorney-trilogy",
       "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
       "authorsHtml": "<p>hamarfa</p>",
@@ -1284,7 +1284,7 @@
       "mirrors": [
         {
           "label": "Magyarítások",
-          "url": "https://magyaritasok.hu/dl/PhoenixWright_AATrilogy/PhoenixWright_AceAttorneyTrilogy_v1.11.zip",
+          "url": "https://magyaritasok.hu/dl/PhoenixWright_AceAttorneyTrilogy/PW_AA_hun_v2.0.zip",
           "kind": "direct"
         }
       ]
