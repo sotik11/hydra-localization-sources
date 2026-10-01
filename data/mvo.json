@@ -108,8 +108,8 @@
       "language": "Русский",
       "hasVoice": true,
       "hasText": true,
-      "version": "1.01",
-      "updatedAt": "21.03.2026",
+      "version": "1.02",
+      "updatedAt": "01.09.2026",
       "requiredGameVersion": "Любая",
       "howToInstallHtml": "<p><strong>Установка:</strong></p><p>Следуйте инструкциям инсталлятора. Установка полностью автоматическая.</p><br><p><strong>Удаление:</strong></p><p>Зайдите в директорию Install_Rus_Snd и запустите файл unins***.exe.</p>",
       "pageUrl": "https://rgmvo.ru/game/silent-hill-f/",
@@ -548,7 +548,7 @@
       ]
     },
     {
-      "steamAppId": "332210",
+      "steamAppId": "285540",
       "title": "Among The Sleep",
       "studio": "Mechanics VoiceOver",
       "studioUrl": "https://rgmvo.ru",
@@ -691,6 +691,7 @@
       ]
     },
     {
+      "steamAppId": "967460",
       "title": "Eclipse",
       "studio": "Mechanics VoiceOver",
       "studioUrl": "https://rgmvo.ru",
@@ -1051,7 +1052,7 @@
       ]
     },
     {
-      "steamAppId": "2229890",
+      "steamAppId": "2229870",
       "title": "Command & Conquer: Tiberian Dawn",
       "studio": "Mechanics VoiceOver",
       "studioUrl": "https://rgmvo.ru",
@@ -1085,9 +1086,9 @@
       "language": "Русский",
       "hasVoice": true,
       "hasText": true,
-      "version": "2.8",
-      "updatedAt": "08.07.2024",
-      "requiredGameVersion": "11960962 (DX12, RT) [Steam] | 11047294 (DX11, NON-RT) [Steam] | 1.2.0.0 [MS Store]",
+      "version": "2.9",
+      "updatedAt": "27.09.2026",
+      "requiredGameVersion": "24468913 (DX12, RT) [Steam] | 11047294 (DX11, NON-RT) [Steam] | 1.2.0.0 [MS Store]",
       "howToInstallHtml": "<p><strong>Установка:</strong></p><p>Следуйте инструкциям инсталлятора. Установка полностью автоматическая.</p><br><p><strong>Удаление:</strong></p><p>Зайдите в директорию Install_Rus_Snd и запустите файл unins***.exe.</p>",
       "pageUrl": "https://rgmvo.ru/game/resident-evil-3-remake/",
       "inDevelopment": false,
@@ -1434,7 +1435,7 @@
       ]
     },
     {
-      "steamAppId": "2229890",
+      "steamAppId": "2229870",
       "title": "Command & Conquer:  Red Alert",
       "studio": "Mechanics VoiceOver",
       "studioUrl": "https://rgmvo.ru",
@@ -2185,7 +2186,7 @@
       ]
     },
     {
-      "steamAppId": "2950860",
+      "steamAppId": "5213750",
       "title": "Shadows Of The Damned",
       "studio": "Mechanics VoiceOver",
       "studioUrl": "https://rgmvo.ru",
@@ -2281,7 +2282,7 @@
       ]
     },
     {
-      "steamAppId": "3764200",
+      "steamAppId": "304240",
       "title": "Resident Evil HD Remaster",
       "studio": "Mechanics VoiceOver",
       "studioUrl": "https://rgmvo.ru",
@@ -2696,7 +2697,7 @@
       "mirrors": []
     },
     {
-      "steamAppId": "1271420",
+      "steamAppId": "2410750",
       "title": "The Chronicles of Riddick",
       "studio": "Mechanics VoiceOver",
       "studioUrl": "https://rgmvo.ru",

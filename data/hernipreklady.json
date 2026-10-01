@@ -5,6 +5,200 @@
   "siteUrl": "https://hernipreklady.cz",
   "localizations": [
     {
+      "title": "Anno 117",
+      "studio": "HerníPřeklady",
+      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/anno-117",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": "1.09",
+      "updatedAt": null,
+      "requiredGameVersion": "2.1.0.1711091+",
+      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/anno-117",
+      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
+      "authorsHtml": "<p><strong>Překlad:</strong> Jetro, Ralph Shepard,<br><strong>Korektura:</strong> Jetro<br><strong>Testování:</strong> Andrewek, Jetro,</p>",
+      "inDevelopment": false,
+      "size": "3.59 MB",
+      "mirrors": [
+        {
+          "label": "HerníPřeklady",
+          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=624",
+          "kind": "direct"
+        }
+      ]
+    },
+    {
+      "title": "Stone Simulator - Just Be a Rock",
+      "studio": "HerníPřeklady",
+      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/stone-simulator-just-be-a-rock",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": "2.3",
+      "updatedAt": null,
+      "requiredGameVersion": "1.4.0.1",
+      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/stone-simulator-just-be-a-rock",
+      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
+      "authorsHtml": null,
+      "inDevelopment": false,
+      "size": "1.38 MB",
+      "mirrors": [
+        {
+          "label": "HerníPřeklady",
+          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=623",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "1425980"
+    },
+    {
+      "title": "Graveyard Keeper 2",
+      "studio": "HerníPřeklady",
+      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/graveyard-keeper-2",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": "1.02",
+      "updatedAt": null,
+      "requiredGameVersion": "1.007+ (Win/PC)",
+      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/graveyard-keeper-2",
+      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
+      "authorsHtml": "<p><strong>Překlad:</strong> Jetro<br><strong>Testování:</strong> Jetro, Andrewek</p>",
+      "inDevelopment": false,
+      "size": "2.33 MB",
+      "mirrors": [
+        {
+          "label": "HerníPřeklady",
+          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=622",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "4358690"
+    },
+    {
+      "title": "Cthulhu: The Cosmic Abyss",
+      "studio": "HerníPřeklady",
+      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/cthulhu-the-cosmic-abyss",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": "1.10",
+      "updatedAt": null,
+      "requiredGameVersion": "Aktuální na Steamu",
+      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/cthulhu-the-cosmic-abyss",
+      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
+      "authorsHtml": null,
+      "inDevelopment": false,
+      "size": "2.16 MB",
+      "mirrors": [
+        {
+          "label": "HerníPřeklady",
+          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=621",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "2760560"
+    },
+    {
+      "title": "Wartales + DLC",
+      "studio": "HerníPřeklady",
+      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/wartales-dlc",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": "2.7",
+      "updatedAt": null,
+      "requiredGameVersion": "1.0.48274",
+      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/wartales-dlc",
+      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
+      "authorsHtml": "<p><strong>Překlad a testování:</strong> Andrewek</p>",
+      "inDevelopment": false,
+      "size": "154.0 MB",
+      "mirrors": [
+        {
+          "label": "HerníPřeklady",
+          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=617",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "1527950"
+    },
+    {
+      "title": "Once Alive",
+      "studio": "HerníPřeklady",
+      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/once-alive",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": "1.10",
+      "updatedAt": null,
+      "requiredGameVersion": "v1.2.8",
+      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/once-alive",
+      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
+      "authorsHtml": null,
+      "inDevelopment": false,
+      "size": "2.23 MB",
+      "mirrors": [
+        {
+          "label": "HerníPřeklady",
+          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=614",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "2336440"
+    },
+    {
+      "title": "Alan Wake 2",
+      "studio": "HerníPřeklady",
+      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/alan-wake-2",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": "1.6",
+      "updatedAt": "31.01.2025",
+      "requiredGameVersion": "1.2.4",
+      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/alan-wake-2",
+      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
+      "authorsHtml": "<p><strong>Překlad:</strong> Luc2as a Mayki<br><strong>Technika:</strong> Termit<br><strong>Korekce songů:</strong> Andrej Kalinin</p>",
+      "inDevelopment": false,
+      "size": "10.5 MB",
+      "mirrors": [
+        {
+          "label": "HerníPřeklady",
+          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=337",
+          "kind": "direct"
+        }
+      ]
+    },
+    {
       "title": "Two Point Museum",
       "studio": "HerníPřeklady",
       "studioUrl": "https://hernipreklady.cz/seznam-prekladu/two-point-museum",
@@ -15,8 +209,8 @@
       "hasNeuralVoice": false,
       "hasNeuralDub": false,
       "hasNeuralText": false,
-      "version": "1.9",
-      "updatedAt": null,
+      "version": "2.0",
+      "updatedAt": "21.08.2026",
       "requiredGameVersion": "Aktuální Steam",
       "pageUrl": "https://hernipreklady.cz/seznam-prekladu/two-point-museum",
       "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
@@ -26,16 +220,16 @@
       "mirrors": [
         {
           "label": "HerníPřeklady",
-          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=594",
+          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=605",
           "kind": "direct"
         }
       ],
       "steamAppId": "2185060"
     },
     {
-      "title": "Directive 8020",
+      "title": "Songs of Conquest",
       "studio": "HerníPřeklady",
-      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/directive-8020",
+      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/songs-of-conquest",
       "language": "Čeština",
       "hasText": true,
       "hasVoice": false,
@@ -43,16 +237,78 @@
       "hasNeuralVoice": false,
       "hasNeuralDub": false,
       "hasNeuralText": false,
-      "version": null,
-      "updatedAt": null,
-      "requiredGameVersion": "Aktuální na Steamu",
-      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/directive-8020",
+      "version": "1.54",
+      "updatedAt": "03.07.2026",
+      "requiredGameVersion": "1.10.4",
+      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/songs-of-conquest",
       "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
-      "authorsHtml": null,
-      "inDevelopment": true,
-      "size": null,
-      "mirrors": [],
-      "steamAppId": "2255370"
+      "authorsHtml": "<p><strong>Překlad:</strong> Jetro<br><strong>Testování:</strong> Jetro, Paras</p>",
+      "inDevelopment": false,
+      "size": "41.4 MB",
+      "mirrors": [
+        {
+          "label": "HerníPřeklady",
+          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=587",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "867210"
+    },
+    {
+      "title": "Graveyard Keeper",
+      "studio": "HerníPřeklady",
+      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/graveyard-keeper",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": "1.36",
+      "updatedAt": "10.04.2026",
+      "requiredGameVersion": "1.407 (Win / PC)",
+      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/graveyard-keeper",
+      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
+      "authorsHtml": "<p><strong>Překlad:</strong> Jetro<br><strong>Testování:</strong> Jetro, Stan307, pesty, Merelen, Barbar</p>",
+      "inDevelopment": false,
+      "size": "9.77 MB",
+      "mirrors": [
+        {
+          "label": "HerníPřeklady",
+          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=550",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "599140"
+    },
+    {
+      "title": "In Sound Mind",
+      "studio": "HerníPřeklady",
+      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/in-sound-mind",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": "1.0",
+      "updatedAt": "03.02.2024",
+      "requiredGameVersion": "Aktuální Steam",
+      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/in-sound-mind",
+      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
+      "authorsHtml": "<p><strong>Překlad textů a textur:</strong> Luc2as<br><strong>Testování:</strong> Solid</p>",
+      "inDevelopment": false,
+      "size": "22.0 MB",
+      "mirrors": [
+        {
+          "label": "HerníPřeklady",
+          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=26",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "1119980"
     },
     {
       "title": "Titanfall 2",
@@ -66,7 +322,7 @@
       "hasNeuralDub": false,
       "hasNeuralText": false,
       "version": "1.0",
-      "updatedAt": null,
+      "updatedAt": "13.07.2026",
       "requiredGameVersion": "2.0.11.0",
       "pageUrl": "https://hernipreklady.cz/seznam-prekladu/titanfall-2",
       "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
@@ -83,9 +339,9 @@
       "steamAppId": "1237970"
     },
     {
-      "title": "Alien: Rogue Incursion Evolved Edition",
+      "title": "Directive 8020",
       "studio": "HerníPřeklady",
-      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/alien-rogue-incursion-evolved-edition",
+      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/directive-8020",
       "language": "Čeština",
       "hasText": true,
       "hasVoice": false,
@@ -93,216 +349,22 @@
       "hasNeuralVoice": false,
       "hasNeuralDub": false,
       "hasNeuralText": false,
-      "version": "1.30",
-      "updatedAt": null,
-      "requiredGameVersion": "Hotfix 1.1.2",
-      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/alien-rogue-incursion-evolved-edition",
+      "version": "1.10",
+      "updatedAt": "14.08.2026",
+      "requiredGameVersion": "Patch z 15.6.2026",
+      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/directive-8020",
       "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
       "authorsHtml": null,
       "inDevelopment": false,
-      "size": "654 KB",
+      "size": "77.3 MB",
       "mirrors": [
         {
           "label": "HerníPřeklady",
-          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=592",
+          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=603",
           "kind": "direct"
         }
       ],
-      "steamAppId": "3655390"
-    },
-    {
-      "title": "Indiana Jones and The Great Circle",
-      "studio": "HerníPřeklady",
-      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/indiana-jones-and-the-great-circle",
-      "language": "Čeština",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": "1.85",
-      "updatedAt": null,
-      "requiredGameVersion": "Update 8 &ndash; Hotfix 1",
-      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/indiana-jones-and-the-great-circle",
-      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
-      "authorsHtml": null,
-      "inDevelopment": false,
-      "size": "118.4 MB",
-      "mirrors": [
-        {
-          "label": "HerníPřeklady",
-          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=591",
-          "kind": "direct"
-        }
-      ],
-      "steamAppId": "2677660"
-    },
-    {
-      "title": "Demeo PC / VR",
-      "studio": "HerníPřeklady",
-      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/demeo-pc-vr",
-      "language": "Čeština",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": "2.0",
-      "updatedAt": "13.04.2025",
-      "requiredGameVersion": "1.41.40432",
-      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/demeo-pc-vr",
-      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
-      "authorsHtml": "<p><strong>Překlad textů a textur:</strong> Luc2as<br><strong>Technika:</strong> Termit</p>",
-      "inDevelopment": false,
-      "size": "135.2 MB",
-      "mirrors": [
-        {
-          "label": "HerníPřeklady",
-          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=365",
-          "kind": "direct"
-        }
-      ]
-    },
-    {
-      "title": "Blade and Sorcery",
-      "studio": "HerníPřeklady",
-      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/blade-and-sorcery",
-      "language": "Čeština",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": "1.4",
-      "updatedAt": null,
-      "requiredGameVersion": "1.2",
-      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/blade-and-sorcery",
-      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
-      "authorsHtml": "<p><strong>Překlad textů:</strong> Luc2as</p>",
-      "inDevelopment": false,
-      "size": "17.5 MB",
-      "mirrors": [
-        {
-          "label": "HerníPřeklady",
-          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=589",
-          "kind": "direct"
-        }
-      ],
-      "steamAppId": "629730"
-    },
-    {
-      "title": "The Last Caretaker",
-      "studio": "HerníPřeklady",
-      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/the-last-caretaker",
-      "language": "Čeština",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": "0.93",
-      "updatedAt": null,
-      "requiredGameVersion": "0.8.0.612251",
-      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/the-last-caretaker",
-      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
-      "authorsHtml": "<p><strong>Překlad a test:</strong> Andrewek</p>",
-      "inDevelopment": false,
-      "size": "3.46 MB",
-      "mirrors": [
-        {
-          "label": "HerníPřeklady",
-          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=588",
-          "kind": "direct"
-        }
-      ],
-      "steamAppId": "1783560"
-    },
-    {
-      "title": "Northgard",
-      "studio": "HerníPřeklady",
-      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/northgard",
-      "language": "Čeština",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": "1.116",
-      "updatedAt": "25.03.2025",
-      "requiredGameVersion": "3.6.66.41153+",
-      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/northgard",
-      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
-      "authorsHtml": "<p><strong>Překlad:</strong> Jetro, Arqwell<br><strong>Testování:</strong> Jetro</p>",
-      "inDevelopment": false,
-      "size": "7.41 MB",
-      "mirrors": [
-        {
-          "label": "HerníPřeklady",
-          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=360",
-          "kind": "direct"
-        }
-      ]
-    },
-    {
-      "title": "Shadow Gambit: The Cursed Crew Complete Edition",
-      "studio": "HerníPřeklady",
-      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/shadow-gambit-the-cursed-crew-complete-edition",
-      "language": "Čeština",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": "1.2",
-      "updatedAt": "21.04.2026",
-      "requiredGameVersion": "1.2.133.r40893.f",
-      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/shadow-gambit-the-cursed-crew-complete-edition",
-      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
-      "authorsHtml": "<p><strong>Překlad a test:</strong> Andrewek</p>",
-      "inDevelopment": false,
-      "size": "200.0 MB",
-      "mirrors": [
-        {
-          "label": "HerníPřeklady",
-          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=560",
-          "kind": "direct"
-        }
-      ],
-      "steamAppId": "1545560"
-    },
-    {
-      "title": "Songs of Conquest",
-      "studio": "HerníPřeklady",
-      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/songs-of-conquest",
-      "language": "Čeština",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": "1.54",
-      "updatedAt": null,
-      "requiredGameVersion": "1.10.4",
-      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/songs-of-conquest",
-      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
-      "authorsHtml": "<p><strong>Překlad:</strong> Jetro<br><strong>Testování:</strong> Jetro, Paras</p>",
-      "inDevelopment": false,
-      "size": "41.4 MB",
-      "mirrors": [
-        {
-          "label": "HerníPřeklady",
-          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=587",
-          "kind": "direct"
-        }
-      ],
-      "steamAppId": "867210"
+      "steamAppId": "2255370"
     },
     {
       "title": "Evotinction",
@@ -607,6 +669,34 @@
       "steamAppId": "3636620"
     },
     {
+      "title": "The Last Caretaker",
+      "studio": "HerníPřeklady",
+      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/the-last-caretaker",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": "0.94",
+      "updatedAt": null,
+      "requiredGameVersion": "0.8.5.650920",
+      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/the-last-caretaker",
+      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
+      "authorsHtml": "<p><strong>Překlad a test:</strong> Andrewek</p>",
+      "inDevelopment": false,
+      "size": "3.48 MB",
+      "mirrors": [
+        {
+          "label": "HerníPřeklady",
+          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=609",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "1783560"
+    },
+    {
       "title": "The Lightkeeper",
       "studio": "HerníPřeklady",
       "studioUrl": "https://hernipreklady.cz/seznam-prekladu/the-lightkeeper",
@@ -645,49 +735,22 @@
       "hasNeuralVoice": false,
       "hasNeuralDub": false,
       "hasNeuralText": false,
-      "version": "1.60",
-      "updatedAt": "10.06.2026",
-      "requiredGameVersion": "Update ze dne 04.06.2026",
+      "version": "1.70",
+      "updatedAt": "13.08.2026",
+      "requiredGameVersion": "Patch 1.5.0.20",
       "pageUrl": "https://hernipreklady.cz/seznam-prekladu/tormented-souls-2",
       "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
       "authorsHtml": null,
       "inDevelopment": false,
-      "size": "33.8 MB",
+      "size": "27.5 MB",
       "mirrors": [
         {
           "label": "HerníPřeklady",
-          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=579",
+          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=602",
           "kind": "direct"
         }
       ],
       "steamAppId": "2464280"
-    },
-    {
-      "title": "Anno 117",
-      "studio": "HerníPřeklady",
-      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/anno-117",
-      "language": "Čeština",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": "1.06",
-      "updatedAt": null,
-      "requiredGameVersion": "1.6.0.1668904+",
-      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/anno-117",
-      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
-      "authorsHtml": "<p><strong>Překlad:</strong> Jetro, Ralph Shepard,<br><strong>Korektura:</strong> Jetro<br><strong>Testování:</strong> Andrewek, Jetro,</p>",
-      "inDevelopment": false,
-      "size": "3.54 MB",
-      "mirrors": [
-        {
-          "label": "HerníPřeklady",
-          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=586",
-          "kind": "direct"
-        }
-      ]
     },
     {
       "title": "Two Point Campus",
@@ -710,6 +773,34 @@
       "size": null,
       "mirrors": [],
       "steamAppId": "1649080"
+    },
+    {
+      "title": "Alien: Rogue Incursion Evolved Edition",
+      "studio": "HerníPřeklady",
+      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/alien-rogue-incursion-evolved-edition",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": "1.30",
+      "updatedAt": "12.07.2026",
+      "requiredGameVersion": "Hotfix 1.1.2",
+      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/alien-rogue-incursion-evolved-edition",
+      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
+      "authorsHtml": null,
+      "inDevelopment": false,
+      "size": "654 KB",
+      "mirrors": [
+        {
+          "label": "HerníPřeklady",
+          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=592",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "3655390"
     },
     {
       "title": "Millennia",
@@ -760,34 +851,6 @@
         }
       ],
       "steamAppId": "2101960"
-    },
-    {
-      "title": "Stone Simulator - Just Be a Rock",
-      "studio": "HerníPřeklady",
-      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/stone-simulator-just-be-a-rock",
-      "language": "Čeština",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": "2.2",
-      "updatedAt": "22.12.2025",
-      "requiredGameVersion": "1.3.0.3",
-      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/stone-simulator-just-be-a-rock",
-      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
-      "authorsHtml": null,
-      "inDevelopment": false,
-      "size": "32.3 MB",
-      "mirrors": [
-        {
-          "label": "HerníPřeklady",
-          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=491",
-          "kind": "direct"
-        }
-      ],
-      "steamAppId": "1425980"
     },
     {
       "title": "Cash Cleaner Simulator",
@@ -968,18 +1031,18 @@
       "hasNeuralVoice": false,
       "hasNeuralDub": false,
       "hasNeuralText": false,
-      "version": "1.07",
+      "version": "1.09",
       "updatedAt": null,
-      "requiredGameVersion": "1.4.1 (PC - Win)",
+      "requiredGameVersion": "1.4.2 (PC - Win)",
       "pageUrl": "https://hernipreklady.cz/seznam-prekladu/civilization-vii",
       "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
       "authorsHtml": "<p><strong>Překlad:</strong> Jetro, Ralph Shepard, Coffin Corner, Sushi<br><strong>Korektura:</strong> Jetro<br><strong>Testování:</strong> Ralph Shepard, Andrewek, Jetro</p>",
       "inDevelopment": false,
-      "size": "3.30 MB",
+      "size": "3.38 MB",
       "mirrors": [
         {
           "label": "HerníPřeklady",
-          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=585",
+          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=612",
           "kind": "direct"
         }
       ],
@@ -1052,7 +1115,7 @@
       "hasNeuralDub": false,
       "hasNeuralText": false,
       "version": "3.0.0",
-      "updatedAt": "15.04.2026",
+      "updatedAt": "07.08.2026",
       "requiredGameVersion": "Všechny verze (OFFLINE)",
       "pageUrl": "https://hernipreklady.cz/seznam-prekladu/diablo-ii-resurrected-infernal-edition",
       "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
@@ -1062,7 +1125,7 @@
       "mirrors": [
         {
           "label": "HerníPřeklady",
-          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=552",
+          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=600",
           "kind": "direct"
         }
       ],
@@ -1097,9 +1160,9 @@
       "steamAppId": "1535030"
     },
     {
-      "title": "Once Alive",
+      "title": "Indiana Jones and The Great Circle",
       "studio": "HerníPřeklady",
-      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/once-alive",
+      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/indiana-jones-and-the-great-circle",
       "language": "Čeština",
       "hasText": true,
       "hasVoice": false,
@@ -1107,22 +1170,22 @@
       "hasNeuralVoice": false,
       "hasNeuralDub": false,
       "hasNeuralText": false,
-      "version": "1.00",
-      "updatedAt": "17.01.2025",
-      "requiredGameVersion": "v0.9.9.98",
-      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/once-alive",
+      "version": "1.85",
+      "updatedAt": "11.07.2026",
+      "requiredGameVersion": "Update 8 &ndash; Hotfix 1",
+      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/indiana-jones-and-the-great-circle",
       "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
       "authorsHtml": null,
       "inDevelopment": false,
-      "size": "1.17 MB",
+      "size": "118.4 MB",
       "mirrors": [
         {
           "label": "HerníPřeklady",
-          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=325",
+          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=591",
           "kind": "direct"
         }
       ],
-      "steamAppId": "2336440"
+      "steamAppId": "2677660"
     },
     {
       "title": "Alien: Rogue Incursion VR",
@@ -1276,8 +1339,8 @@
       "hasNeuralDub": false,
       "hasNeuralText": false,
       "version": "1.3",
-      "updatedAt": "20.04.2026",
-      "requiredGameVersion": "1.5.25",
+      "updatedAt": null,
+      "requiredGameVersion": "1.5.26",
       "pageUrl": "https://hernipreklady.cz/seznam-prekladu/cult-of-the-lamb",
       "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
       "authorsHtml": "<p><strong>Překlad:</strong> Ralph Shepard<br><strong>Technika:</strong> Flu, Termit, Luc2as</p>",
@@ -1286,7 +1349,7 @@
       "mirrors": [
         {
           "label": "HerníPřeklady",
-          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=558",
+          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=611",
           "kind": "direct"
         }
       ],
@@ -1319,6 +1382,34 @@
         }
       ],
       "steamAppId": "2358720"
+    },
+    {
+      "title": "Blade and Sorcery",
+      "studio": "HerníPřeklady",
+      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/blade-and-sorcery",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": "1.4",
+      "updatedAt": "09.07.2026",
+      "requiredGameVersion": "1.2",
+      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/blade-and-sorcery",
+      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
+      "authorsHtml": "<p><strong>Překlad textů:</strong> Luc2as</p>",
+      "inDevelopment": false,
+      "size": "17.5 MB",
+      "mirrors": [
+        {
+          "label": "HerníPřeklady",
+          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=589",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "629730"
     },
     {
       "title": "This Bed We Made",
@@ -1909,33 +2000,6 @@
       "steamAppId": "1681430"
     },
     {
-      "title": "Alan Wake 2",
-      "studio": "HerníPřeklady",
-      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/alan-wake-2",
-      "language": "Čeština",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": "1.6",
-      "updatedAt": "31.01.2025",
-      "requiredGameVersion": "1.2.4",
-      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/alan-wake-2",
-      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
-      "authorsHtml": "<p><strong>Překlad:</strong> Luc2as a Mayki<br><strong>Technika:</strong> Termit<br><strong>Korekce songů:</strong> Andrej Kalinin</p>",
-      "inDevelopment": false,
-      "size": "10.5 MB",
-      "mirrors": [
-        {
-          "label": "HerníPřeklady",
-          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=337",
-          "kind": "direct"
-        }
-      ]
-    },
-    {
       "title": "Dune: Spice Wars",
       "studio": "HerníPřeklady",
       "studioUrl": "https://hernipreklady.cz/seznam-prekladu/dune-spice-wars",
@@ -1975,21 +2039,49 @@
       "hasNeuralDub": false,
       "hasNeuralText": false,
       "version": null,
-      "updatedAt": null,
-      "requiredGameVersion": "1.0.38",
+      "updatedAt": "26.08.2026",
+      "requiredGameVersion": "1.0.53 + DLC",
       "pageUrl": "https://hernipreklady.cz/seznam-prekladu/terra-invicta",
       "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
       "authorsHtml": "<p><strong>Překlad:</strong> Ralph Shepard</p>",
       "inDevelopment": false,
-      "size": "789 KB",
+      "size": "835 KB",
       "mirrors": [
         {
           "label": "HerníPřeklady",
-          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=584",
+          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=607",
           "kind": "direct"
         }
       ],
       "steamAppId": "1176470"
+    },
+    {
+      "title": "Shadow Gambit: The Cursed Crew Complete Edition",
+      "studio": "HerníPřeklady",
+      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/shadow-gambit-the-cursed-crew-complete-edition",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": "1.2",
+      "updatedAt": "21.04.2026",
+      "requiredGameVersion": "1.2.133.r40893.f",
+      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/shadow-gambit-the-cursed-crew-complete-edition",
+      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
+      "authorsHtml": "<p><strong>Překlad a test:</strong> Andrewek</p>",
+      "inDevelopment": false,
+      "size": "200.0 MB",
+      "mirrors": [
+        {
+          "label": "HerníPřeklady",
+          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=560",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "1545560"
     },
     {
       "title": "Kona 2: Brume",
@@ -2216,6 +2308,33 @@
       "steamAppId": "1824960"
     },
     {
+      "title": "Demeo PC / VR",
+      "studio": "HerníPřeklady",
+      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/demeo-pc-vr",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": "2.0",
+      "updatedAt": "13.04.2025",
+      "requiredGameVersion": "1.41.40432",
+      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/demeo-pc-vr",
+      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
+      "authorsHtml": "<p><strong>Překlad textů a textur:</strong> Luc2as<br><strong>Technika:</strong> Termit</p>",
+      "inDevelopment": false,
+      "size": "135.2 MB",
+      "mirrors": [
+        {
+          "label": "HerníPřeklady",
+          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=365",
+          "kind": "direct"
+        }
+      ]
+    },
+    {
       "title": "SteamWorld Build",
       "studio": "HerníPřeklady",
       "studioUrl": "https://hernipreklady.cz/seznam-prekladu/steamworld-build",
@@ -2242,6 +2361,33 @@
         }
       ],
       "steamAppId": "2134770"
+    },
+    {
+      "title": "Northgard",
+      "studio": "HerníPřeklady",
+      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/northgard",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": "1.116",
+      "updatedAt": "25.03.2025",
+      "requiredGameVersion": "3.6.66.41153+",
+      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/northgard",
+      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
+      "authorsHtml": "<p><strong>Překlad:</strong> Jetro, Arqwell<br><strong>Testování:</strong> Jetro</p>",
+      "inDevelopment": false,
+      "size": "7.41 MB",
+      "mirrors": [
+        {
+          "label": "HerníPřeklady",
+          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=360",
+          "kind": "direct"
+        }
+      ]
     },
     {
       "title": "Red Matter",
@@ -2382,34 +2528,6 @@
         }
       ],
       "steamAppId": "1345890"
-    },
-    {
-      "title": "Graveyard Keeper",
-      "studio": "HerníPřeklady",
-      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/graveyard-keeper",
-      "language": "Čeština",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": "1.36",
-      "updatedAt": "10.04.2026",
-      "requiredGameVersion": "1.407 (Win / PC)",
-      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/graveyard-keeper",
-      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
-      "authorsHtml": "<p><strong>Překlad:</strong> Jetro<br><strong>Testování:</strong> Jetro, Stan307, pesty, Merelen, Barbar</p>",
-      "inDevelopment": false,
-      "size": "9.77 MB",
-      "mirrors": [
-        {
-          "label": "HerníPřeklady",
-          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=550",
-          "kind": "direct"
-        }
-      ],
-      "steamAppId": "599140"
     },
     {
       "title": "Moss",
@@ -3111,34 +3229,6 @@
       "steamAppId": "428660"
     },
     {
-      "title": "Wartales + DLC",
-      "studio": "HerníPřeklady",
-      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/wartales-dlc",
-      "language": "Čeština",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": "2.6",
-      "updatedAt": "19.06.2026",
-      "requiredGameVersion": "1.0.47036",
-      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/wartales-dlc",
-      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
-      "authorsHtml": "<p><strong>Překlad a testování:</strong> Andrewek</p>",
-      "inDevelopment": false,
-      "size": "8.49 MB",
-      "mirrors": [
-        {
-          "label": "HerníPřeklady",
-          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=582",
-          "kind": "direct"
-        }
-      ],
-      "steamAppId": "1527950"
-    },
-    {
       "title": "Returnal",
       "studio": "HerníPřeklady",
       "studioUrl": "https://hernipreklady.cz/seznam-prekladu/returnal",
@@ -3780,34 +3870,6 @@
       "steamAppId": "1343240"
     },
     {
-      "title": "In Sound Mind",
-      "studio": "HerníPřeklady",
-      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/in-sound-mind",
-      "language": "Čeština",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": "1.0",
-      "updatedAt": "03.02.2024",
-      "requiredGameVersion": "Aktuální Steam",
-      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/in-sound-mind",
-      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
-      "authorsHtml": "<p><strong>Překlad textů a textur:</strong> Luc2as<br><strong>Testování:</strong> Solid</p>",
-      "inDevelopment": false,
-      "size": "22.0 MB",
-      "mirrors": [
-        {
-          "label": "HerníPřeklady",
-          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=26",
-          "kind": "direct"
-        }
-      ],
-      "steamAppId": "1119980"
-    },
-    {
       "title": "Moss Book II",
       "studio": "HerníPřeklady",
       "studioUrl": "https://hernipreklady.cz/seznam-prekladu/moss-book-ii",
@@ -4246,7 +4308,7 @@
           "kind": "direct"
         }
       ],
-      "steamAppId": "3731860"
+      "steamAppId": "906100"
     },
     {
       "title": "Invisible hours",
@@ -4414,7 +4476,7 @@
           "kind": "direct"
         }
       ],
-      "steamAppId": "1520500"
+      "steamAppId": "985830"
     },
     {
       "title": "Twin Mirror",

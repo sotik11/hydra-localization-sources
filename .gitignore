@@ -11,6 +11,9 @@ data/*.bak.json
 data/*.full-*.json
 data/*.json.backup
 
+# local "not before" timestamps of weekly sources (refresh_local.sh)
+data/.*.next-run
+
 # manual overrides research (candidates, cached app list — huge, regenerated on demand)
 data/*.candidates.json
 data/steam-applist.json

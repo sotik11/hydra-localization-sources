@@ -5,6 +5,292 @@
   "siteUrl": "https://magyaritasok.hu",
   "localizations": [
     {
+      "title": "Mall Tycoon",
+      "studio": "Magyarítások",
+      "studioUrl": "https://magyaritasok.hu",
+      "language": "Magyar",
+      "hasText": true,
+      "hasVoice": false,
+      "version": "1.0",
+      "updatedAt": "08.09.2005",
+      "requiredGameVersion": null,
+      "size": "453 KB",
+      "pageUrl": "https://magyaritasok.hu/games/mall-tycoon",
+      "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
+      "authorsHtml": null,
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Magyarítások",
+          "url": "https://magyaritasok.hu/dl/MallTycoon/MallTycoon_Hun.exe",
+          "kind": "direct"
+        }
+      ]
+    },
+    {
+      "steamAppId": "2713000",
+      "title": "Resonance: A Plague Tale Legacy",
+      "studio": "Magyarítások",
+      "studioUrl": "https://magyaritasok.hu",
+      "language": "Magyar",
+      "hasText": true,
+      "hasVoice": false,
+      "version": "1.01",
+      "updatedAt": "24.09.2026",
+      "requiredGameVersion": "1.2.0.0",
+      "size": "20.1 MB",
+      "pageUrl": "https://magyaritasok.hu/games/resonance-a-plague-tale-legacy",
+      "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
+      "authorsHtml": "<p>NightVison, Johnykah</p>",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Magyarítások",
+          "url": "https://magyaritasok.hu/dl/ResonanceAPlagueTaleLegacy/Resonance_APTL_HUN_1.01.exe",
+          "kind": "direct"
+        }
+      ]
+    },
+    {
+      "steamAppId": "2778580",
+      "title": "Elden Ring: Shadow of the Erdtree",
+      "studio": "Magyarítások",
+      "studioUrl": "https://magyaritasok.hu",
+      "language": "Magyar",
+      "hasText": true,
+      "hasVoice": false,
+      "version": "1.25",
+      "updatedAt": "13.09.2026",
+      "requiredGameVersion": "1.17.1",
+      "size": "59.7 MB",
+      "pageUrl": "https://magyaritasok.hu/games/elden-ring-shadow-of-the-erdtree",
+      "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
+      "authorsHtml": "<p>The_Reaper_CooL</p>",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Magyarítások",
+          "url": "https://magyaritasok.hu/dl/EldenRing/EldenRingHUNbyTRC_1.25.zip",
+          "kind": "direct"
+        }
+      ]
+    },
+    {
+      "steamAppId": "294650",
+      "title": "Putt-Putt Goes to the Moon",
+      "studio": "Magyarítások",
+      "studioUrl": "https://magyaritasok.hu",
+      "language": "Magyar",
+      "hasText": true,
+      "hasVoice": false,
+      "version": "1.0",
+      "updatedAt": "17.09.2026",
+      "requiredGameVersion": "ScummVM",
+      "size": "26.9 MB",
+      "pageUrl": "https://magyaritasok.hu/games/putt-putt-goes-to-the-moon",
+      "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
+      "authorsHtml": null,
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Magyarítások",
+          "url": "https://magyaritasok.hu/dl/PuttPuttGoestotheMoon/PP_Moon_hun_v1.0.zip",
+          "kind": "direct"
+        }
+      ]
+    },
+    {
+      "steamAppId": "294660",
+      "title": "Putt-Putt Saves the Zoo",
+      "studio": "Magyarítások",
+      "studioUrl": "https://magyaritasok.hu",
+      "language": "Magyar",
+      "hasText": true,
+      "hasVoice": false,
+      "version": "1.0",
+      "updatedAt": "24.08.2026",
+      "requiredGameVersion": "ScummVM",
+      "size": "26.9 MB",
+      "pageUrl": "https://magyaritasok.hu/games/putt-putt-saves-the-zoo",
+      "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
+      "authorsHtml": "<p>hamarfa</p>",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Magyarítások",
+          "url": "https://magyaritasok.hu/dl/PuttPuttSavestheZoo/PP_Zoo_hun_v1.0.zip",
+          "kind": "direct"
+        }
+      ]
+    },
+    {
+      "steamAppId": "4492700",
+      "title": "Mafia: The Old Country - Man of Honor",
+      "studio": "Magyarítások",
+      "studioUrl": "https://magyaritasok.hu",
+      "language": "Magyar",
+      "hasText": true,
+      "hasVoice": false,
+      "version": "1.3",
+      "updatedAt": "22.08.2026",
+      "requiredGameVersion": null,
+      "size": "11.0 MB",
+      "pageUrl": "https://magyaritasok.hu/games/mafia-the-old-country-man-of-honor",
+      "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
+      "authorsHtml": "<p>NightVison, bienstock, Ghost203014, Ssource, Sámánlány</p>",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Magyarítások",
+          "url": "https://magyaritasok.hu/dl/MafiaTheOldCountry/MafiaTheOldCountry_hun_v1.3.exe",
+          "kind": "direct"
+        }
+      ]
+    },
+    {
+      "steamAppId": "1202900",
+      "title": "Assemble With Care",
+      "studio": "Magyarítások",
+      "studioUrl": "https://magyaritasok.hu",
+      "language": "Magyar",
+      "hasText": true,
+      "hasVoice": false,
+      "version": "1.00",
+      "updatedAt": "17.08.2026",
+      "requiredGameVersion": "v1.4.0.509 és 1.6.1.512",
+      "size": "4.17 MB",
+      "pageUrl": "https://magyaritasok.hu/games/assemble-with-care",
+      "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
+      "authorsHtml": "<p>FEARka</p>",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Magyarítások",
+          "url": "https://magyaritasok.hu/dl/AssembleWithCare/AssemblewithCare_HUN_1.00.exe",
+          "kind": "direct"
+        }
+      ]
+    },
+    {
+      "steamAppId": "1364010",
+      "title": "The Librarian",
+      "studio": "Magyarítások",
+      "studioUrl": "https://magyaritasok.hu",
+      "language": "Magyar",
+      "hasText": true,
+      "hasVoice": false,
+      "version": "1.00",
+      "updatedAt": "05.08.2026",
+      "requiredGameVersion": "1.03a",
+      "size": "3.36 MB",
+      "pageUrl": "https://magyaritasok.hu/games/the-librarian",
+      "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
+      "authorsHtml": "<p>FEARka</p>",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Magyarítások",
+          "url": "https://magyaritasok.hu/dl/TheLibrarian/TheLibrarian_HUN_1.00.exe",
+          "kind": "direct"
+        }
+      ]
+    },
+    {
+      "steamAppId": "1478500",
+      "title": "Big Walk",
+      "studio": "Magyarítások",
+      "studioUrl": "https://magyaritasok.hu",
+      "language": "Magyar",
+      "hasText": true,
+      "hasVoice": false,
+      "version": "1.06",
+      "updatedAt": "29.08.2026",
+      "requiredGameVersion": "1.5.1 2608271531",
+      "size": "351 KB",
+      "pageUrl": "https://magyaritasok.hu/games/big-walk",
+      "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
+      "authorsHtml": "<p>The_Reaper_CooL</p>",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Magyarítások",
+          "url": "https://magyaritasok.hu/dl/BigWalk/BigWalk_HUN_by_TRC_1.06.zip",
+          "kind": "direct"
+        }
+      ]
+    },
+    {
+      "title": "Pong: The Next Level",
+      "studio": "Magyarítások",
+      "studioUrl": "https://magyaritasok.hu",
+      "language": "Magyar",
+      "hasText": true,
+      "hasVoice": false,
+      "version": "1.0",
+      "updatedAt": "29.08.2014",
+      "requiredGameVersion": null,
+      "size": "315 KB",
+      "pageUrl": "https://magyaritasok.hu/games/pong-the-next-level",
+      "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
+      "authorsHtml": null,
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Magyarítások",
+          "url": "https://magyaritasok.hu/dl/pong3d/pong3d_hun.exe",
+          "kind": "direct"
+        }
+      ]
+    },
+    {
+      "steamAppId": "2427430",
+      "title": "S.T.A.L.K.E.R.: Call of Prypiat - Enhanced Edition",
+      "studio": "Magyarítások",
+      "studioUrl": "https://magyaritasok.hu",
+      "language": "Magyar",
+      "hasText": true,
+      "hasVoice": false,
+      "version": "1.0",
+      "updatedAt": "11.10.2025",
+      "requiredGameVersion": "1.3.1 vagy újabb",
+      "size": "368 KB",
+      "pageUrl": "https://magyaritasok.hu/games/s-dot-t-a-dot-l-k-dot-e-r-dot-call-of-prypiat-enhanced-edition",
+      "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
+      "authorsHtml": "<p>Mr. Fusion, ·f·i· csoport</p>",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Magyarítások",
+          "url": "https://magyaritasok.hu/dl/StalkerCallofPripyat/SCOPEEHU-v1.0.zip",
+          "kind": "direct"
+        }
+      ]
+    },
+    {
+      "steamAppId": "2427420",
+      "title": "S.T.A.L.K.E.R.: Clear Sky - Enhanced Edition",
+      "studio": "Magyarítások",
+      "studioUrl": "https://magyaritasok.hu",
+      "language": "Magyar",
+      "hasText": true,
+      "hasVoice": false,
+      "version": "1.0",
+      "updatedAt": "14.07.2026",
+      "requiredGameVersion": "1.3.2 vagy újabb",
+      "size": "383 KB",
+      "pageUrl": "https://magyaritasok.hu/games/s-dot-t-a-dot-l-k-dot-e-r-dot-clear-sky-enhanced-edition",
+      "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
+      "authorsHtml": "<p>Mr. Fusion, ·f·i· csoport</p>",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Magyarítások",
+          "url": "https://magyaritasok.hu/dl/StalkerClearSky/SCSEEHU-v1.0.zip",
+          "kind": "direct"
+        }
+      ]
+    },
+    {
       "steamAppId": "40392",
       "title": "Risen 2: Dark Waters - Treasure Isle",
       "studio": "Magyarítások",
@@ -791,6 +1077,30 @@
       ]
     },
     {
+      "steamAppId": "214340",
+      "title": "Deponia",
+      "studio": "Magyarítások",
+      "studioUrl": "https://magyaritasok.hu",
+      "language": "Magyar",
+      "hasText": true,
+      "hasVoice": false,
+      "version": "1.1",
+      "updatedAt": "23.09.2026",
+      "requiredGameVersion": "4.0.1386",
+      "size": "12.0 MB",
+      "pageUrl": "https://magyaritasok.hu/games/deponia",
+      "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
+      "authorsHtml": "<p>KCsT</p>",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Magyarítások",
+          "url": "https://magyaritasok.hu/dl/Deponia/Deponia1_HUN_1.1.exe",
+          "kind": "direct"
+        }
+      ]
+    },
+    {
       "steamAppId": "2544110",
       "title": "Broken Sword: Shadow of the Templars Reforged",
       "studio": "Magyarítások",
@@ -798,10 +1108,10 @@
       "language": "Magyar",
       "hasText": true,
       "hasVoice": false,
-      "version": "1.02",
-      "updatedAt": "04.11.2025",
-      "requiredGameVersion": "1.1.10",
-      "size": "9.05 MB",
+      "version": "1.04",
+      "updatedAt": "17.08.2026",
+      "requiredGameVersion": "1.1.10 és 1.1.11",
+      "size": "7.37 MB",
       "pageUrl": "https://magyaritasok.hu/games/broken-sword-shadow-of-the-templars-reforged",
       "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
       "authorsHtml": "<p>FEARka</p>",
@@ -809,7 +1119,30 @@
       "mirrors": [
         {
           "label": "Magyarítások",
-          "url": "https://magyaritasok.hu/dl/BrokenSwordSotTReforged/BS1Reforged_HUN_1.02.exe",
+          "url": "https://magyaritasok.hu/dl/BrokenSwordSotTReforged/BS1Reforged_HUN_1.04.exe",
+          "kind": "direct"
+        }
+      ]
+    },
+    {
+      "title": "Resident Evil 2",
+      "studio": "Magyarítások",
+      "studioUrl": "https://magyaritasok.hu",
+      "language": "Magyar",
+      "hasText": true,
+      "hasVoice": false,
+      "version": "1.00",
+      "updatedAt": "21.08.2026",
+      "requiredGameVersion": null,
+      "size": "18.7 MB",
+      "pageUrl": "https://magyaritasok.hu/games/resident-evil-2",
+      "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
+      "authorsHtml": "<p>FEARka</p>",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Magyarítások",
+          "url": "https://magyaritasok.hu/dl/residentevil2/RE2_1998_HUN_1.00.zip",
           "kind": "direct"
         }
       ]
@@ -916,10 +1249,10 @@
       "language": "Magyar",
       "hasText": true,
       "hasVoice": false,
-      "version": "1.1",
-      "updatedAt": "28.03.2026",
-      "requiredGameVersion": "1.6",
-      "size": "5.32 MB",
+      "version": "1.2",
+      "updatedAt": "23.09.2026",
+      "requiredGameVersion": "1.7",
+      "size": "5.33 MB",
       "pageUrl": "https://magyaritasok.hu/games/dying-light-the-beast",
       "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
       "authorsHtml": "<p>NightVison</p>",
@@ -927,7 +1260,7 @@
       "mirrors": [
         {
           "label": "Magyarítások",
-          "url": "https://magyaritasok.hu/dl/DyingLightTheBeast/DyingLightTheBeast_hun_v1.1.exe",
+          "url": "https://magyaritasok.hu/dl/DyingLightTheBeast/DyingLightTheBeast_hun_v1.2.exe",
           "kind": "direct"
         }
       ]
@@ -940,10 +1273,10 @@
       "language": "Magyar",
       "hasText": true,
       "hasVoice": false,
-      "version": "1.11",
-      "updatedAt": "23.05.2026",
+      "version": "2.0",
+      "updatedAt": "01.10.2026",
       "requiredGameVersion": null,
-      "size": "17.2 MB",
+      "size": "25.3 MB",
       "pageUrl": "https://magyaritasok.hu/games/phoenix-wright-ace-attorney-trilogy",
       "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
       "authorsHtml": "<p>hamarfa</p>",
@@ -951,7 +1284,7 @@
       "mirrors": [
         {
           "label": "Magyarítások",
-          "url": "https://magyaritasok.hu/dl/PhoenixWright_AATrilogy/PhoenixWright_AceAttorneyTrilogy_v1.11.zip",
+          "url": "https://magyaritasok.hu/dl/PhoenixWright_AceAttorneyTrilogy/PW_AA_hun_v2.0.zip",
           "kind": "direct"
         }
       ]
@@ -1228,10 +1561,10 @@
       "language": "Magyar",
       "hasText": true,
       "hasVoice": false,
-      "version": "1.04",
-      "updatedAt": "16.05.2026",
-      "requiredGameVersion": "1.7 (360676 / 8)",
-      "size": "22 KB",
+      "version": "1.07",
+      "updatedAt": "29.08.2026",
+      "requiredGameVersion": "1.9 (368137 / 11)",
+      "size": "25 KB",
       "pageUrl": "https://magyaritasok.hu/games/reanimal",
       "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
       "authorsHtml": "<p>The_Reaper_CooL</p>",
@@ -1239,7 +1572,7 @@
       "mirrors": [
         {
           "label": "Magyarítások",
-          "url": "https://magyaritasok.hu/dl/Reanimal/REANIMAL_Hun_by_TRC_1.04.zip",
+          "url": "https://magyaritasok.hu/dl/Reanimal/REANIMAL_Hun_by_TRC_1.07.zip",
           "kind": "direct"
         }
       ]
@@ -1365,6 +1698,30 @@
       ]
     },
     {
+      "steamAppId": "1145350",
+      "title": "Hades II",
+      "studio": "Magyarítások",
+      "studioUrl": "https://magyaritasok.hu",
+      "language": "Magyar",
+      "hasText": true,
+      "hasVoice": false,
+      "version": "1.0",
+      "updatedAt": "01.08.2026",
+      "requiredGameVersion": "v1.139251",
+      "size": "2.45 MB",
+      "pageUrl": "https://magyaritasok.hu/games/hades-ii",
+      "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
+      "authorsHtml": "<p>TSL16b, Mr. Fusion, ·f·i· csoport</p>",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Magyarítások",
+          "url": "https://magyaritasok.hu/dl/HadesII/HadesIIHU-v1.0.zip",
+          "kind": "direct"
+        }
+      ]
+    },
+    {
       "steamAppId": "860510",
       "title": "Little Nightmares II",
       "studio": "Magyarítások",
@@ -1442,10 +1799,10 @@
       "language": "Magyar",
       "hasText": true,
       "hasVoice": false,
-      "version": "1.2",
-      "updatedAt": "05.12.2025",
+      "version": "1.3",
+      "updatedAt": "22.08.2026",
       "requiredGameVersion": null,
-      "size": "9.79 MB",
+      "size": "11.0 MB",
       "pageUrl": "https://magyaritasok.hu/games/mafia-the-old-country",
       "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
       "authorsHtml": "<p>NightVison, bienstock, Ghost203014, Ssource, Sámánlány</p>",
@@ -1453,7 +1810,7 @@
       "mirrors": [
         {
           "label": "Magyarítások",
-          "url": "https://magyaritasok.hu/dl/MafiaTheOldCountry/MafiaTheOldCountry_hun_v1.2.exe",
+          "url": "https://magyaritasok.hu/dl/MafiaTheOldCountry/MafiaTheOldCountry_hun_v1.3.exe",
           "kind": "direct"
         }
       ]
@@ -1542,7 +1899,7 @@
       "size": "28.1 MB",
       "pageUrl": "https://magyaritasok.hu/games/puppetshow-souls-of-the-innocent-collectors-edition",
       "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
-      "authorsHtml": null,
+      "authorsHtml": "<p>RaveAir</p>",
       "inDevelopment": false,
       "mirrors": [
         {
@@ -1870,18 +2227,18 @@
       "language": "Magyar",
       "hasText": true,
       "hasVoice": false,
-      "version": "1.0",
-      "updatedAt": "10.08.2025",
-      "requiredGameVersion": null,
+      "version": "1.01",
+      "updatedAt": "16.09.2025",
+      "requiredGameVersion": "1.3 vagy újabb",
       "size": "384 KB",
       "pageUrl": "https://magyaritasok.hu/games/s-dot-t-a-dot-l-k-dot-e-r-dot-shadow-of-chornobyl-enhanced-edition",
       "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
-      "authorsHtml": "<p>Mr. Fusion</p>",
+      "authorsHtml": "<p>Mr. Fusion / ·f·i· csoport</p>",
       "inDevelopment": false,
       "mirrors": [
         {
           "label": "Magyarítások",
-          "url": "https://magyaritasok.hu/dl/stalker/SSOCEEHU-v1.0.zip",
+          "url": "https://magyaritasok.hu/dl/stalker/SSOCEEHU-v1.01.zip",
           "kind": "direct"
         }
       ]
@@ -2036,9 +2393,9 @@
       "language": "Magyar",
       "hasText": true,
       "hasVoice": false,
-      "version": "1.19",
-      "updatedAt": "13.04.2026",
-      "requiredGameVersion": "1.61.a",
+      "version": "1.24",
+      "updatedAt": "03.09.2026",
+      "requiredGameVersion": "2.4.b",
       "size": "13.0 MB",
       "pageUrl": "https://magyaritasok.hu/games/peak--1",
       "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
@@ -2047,7 +2404,7 @@
       "mirrors": [
         {
           "label": "Magyarítások",
-          "url": "https://magyaritasok.hu/dl/PEAK/PEAK_Hun_by_TRC_1.19.zip",
+          "url": "https://magyaritasok.hu/dl/PEAK/PEAK_Hun_by_TRC_1.24.zip",
           "kind": "direct"
         }
       ]
@@ -2172,6 +2529,30 @@
       ]
     },
     {
+      "steamAppId": "2214823",
+      "title": "Atomic Heart: Enchantment Under the Sea",
+      "studio": "Magyarítások",
+      "studioUrl": "https://magyaritasok.hu",
+      "language": "Magyar",
+      "hasText": true,
+      "hasVoice": false,
+      "version": "1.3",
+      "updatedAt": "11.09.2025",
+      "requiredGameVersion": "1.11.0.0",
+      "size": "42.3 MB",
+      "pageUrl": "https://magyaritasok.hu/games/atomic-heart-enchantment-under-the-sea",
+      "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
+      "authorsHtml": null,
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Magyarítások",
+          "url": "https://magyaritasok.hu/dl/AtomicHeart/AtomicHeartHUN_v1.3.zip",
+          "kind": "direct"
+        }
+      ]
+    },
+    {
       "steamAppId": "3059070",
       "title": "The Headliners",
       "studio": "Magyarítások",
@@ -2191,6 +2572,30 @@
         {
           "label": "Magyarítások",
           "url": "https://magyaritasok.hu/dl/TheHeadliners/TheHeadliners_hun_v11.exe",
+          "kind": "direct"
+        }
+      ]
+    },
+    {
+      "steamAppId": "3465690",
+      "title": "Still Wakes the Deep: Siren's Rest",
+      "studio": "Magyarítások",
+      "studioUrl": "https://magyaritasok.hu",
+      "language": "Magyar",
+      "hasText": true,
+      "hasVoice": false,
+      "version": "1.1",
+      "updatedAt": "27.09.2025",
+      "requiredGameVersion": "1.4",
+      "size": "4.97 MB",
+      "pageUrl": "https://magyaritasok.hu/games/still-wakes-the-deep-sirens-rest",
+      "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
+      "authorsHtml": null,
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Magyarítások",
+          "url": "https://magyaritasok.hu/dl/StillWakesTheDeep/StillWakesTheDeepHun_1.1.zip",
           "kind": "direct"
         }
       ]
@@ -2442,10 +2847,10 @@
       "language": "Magyar",
       "hasText": true,
       "hasVoice": false,
-      "version": "1.04",
-      "updatedAt": "20.09.2025",
-      "requiredGameVersion": "1.5.3",
-      "size": "27.9 MB",
+      "version": "1.08",
+      "updatedAt": "20.04.2026",
+      "requiredGameVersion": "1.9.0",
+      "size": "29.9 MB",
       "pageUrl": "https://magyaritasok.hu/games/stalker-2-heart-of-chornobyl",
       "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
       "authorsHtml": "<p>TSL16b, Mr. Fusion / ·f·i· csoport</p>",
@@ -2453,7 +2858,7 @@
       "mirrors": [
         {
           "label": "Magyarítások",
-          "url": "https://magyaritasok.hu/dl/Stalker2/Stalker2-HOC_HU-v1.04.zip",
+          "url": "https://magyaritasok.hu/dl/Stalker2/S2HOCHU-v1.08.zip",
           "kind": "direct"
         }
       ]
@@ -2535,13 +2940,13 @@
       "language": "Magyar",
       "hasText": true,
       "hasVoice": false,
-      "version": null,
+      "version": "1.1",
       "updatedAt": "31.05.2014",
       "requiredGameVersion": null,
       "size": "316 KB",
       "pageUrl": "https://magyaritasok.hu/games/hellforces",
       "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
-      "authorsHtml": null,
+      "authorsHtml": "<p>Hungarian Language Team</p>",
       "inDevelopment": false,
       "mirrors": [
         {
@@ -2652,13 +3057,13 @@
       "language": "Magyar",
       "hasText": true,
       "hasVoice": false,
-      "version": null,
+      "version": "1.0",
       "updatedAt": "30.05.2014",
       "requiredGameVersion": null,
       "size": "1.31 MB",
       "pageUrl": "https://magyaritasok.hu/games/fire-department-3",
       "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
-      "authorsHtml": null,
+      "authorsHtml": "<p>jnc</p>",
       "inDevelopment": false,
       "mirrors": [
         {
@@ -2935,10 +3340,10 @@
       "language": "Magyar",
       "hasText": true,
       "hasVoice": false,
-      "version": "3.2.3",
-      "updatedAt": "21.06.2026",
-      "requiredGameVersion": "1.28.0c",
-      "size": "6.58 MB",
+      "version": "3.2.4",
+      "updatedAt": "23.09.2026",
+      "requiredGameVersion": "1.29.2",
+      "size": "6.59 MB",
       "pageUrl": "https://magyaritasok.hu/games/dying-light-2-stay-human",
       "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
       "authorsHtml": "<p>NightVison, Evin</p>",
@@ -2946,7 +3351,7 @@
       "mirrors": [
         {
           "label": "Magyarítások",
-          "url": "https://magyaritasok.hu/dl/DyingLight2/DyingLight2_hun_v3.2.3.exe",
+          "url": "https://magyaritasok.hu/dl/DyingLight2/DyingLight2_hun_v3.2.4.exe",
           "kind": "direct"
         }
       ]
@@ -3005,10 +3410,10 @@
       "language": "Magyar",
       "hasText": true,
       "hasVoice": false,
-      "version": "1.0",
-      "updatedAt": "29.03.2025",
+      "version": "1.0AG",
+      "updatedAt": "23.09.2026",
       "requiredGameVersion": null,
-      "size": "7.09 MB",
+      "size": "6.36 MB",
       "pageUrl": "https://magyaritasok.hu/games/the-expanse-a-telltale-series-deluxe-edition",
       "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
       "authorsHtml": "<p>NightVison, Clabish, Sámánlány</p>",
@@ -3016,7 +3421,7 @@
       "mirrors": [
         {
           "label": "Magyarítások",
-          "url": "https://magyaritasok.hu/dl/TheExpanseATelltaleSeries/TheExpanse_hun_v1.0.exe",
+          "url": "https://magyaritasok.hu/dl/TheExpanseATelltaleSeries/TheExpanse_hun_v1.0AG.exe",
           "kind": "direct"
         }
       ]
@@ -3080,7 +3485,7 @@
       "size": "442 KB",
       "pageUrl": "https://magyaritasok.hu/games/sonic-r",
       "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
-      "authorsHtml": "<p>EVM</p>",
+      "authorsHtml": "<p>Andy, EVM</p>",
       "inDevelopment": false,
       "mirrors": [
         {
@@ -3242,7 +3647,7 @@
       "size": "46.6 MB",
       "pageUrl": "https://magyaritasok.hu/games/warcraft-iii-reign-of-chaos",
       "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
-      "authorsHtml": "<p>Cyrus, Husimoto, Andy, Panyi, Huncraft Int.</p>",
+      "authorsHtml": "<p>TBlinT, Cyrus, Husimoto, Andy, Panyi, Huncraft Int.</p>",
       "inDevelopment": false,
       "mirrors": [
         {
@@ -3283,8 +3688,8 @@
       "language": "Magyar",
       "hasText": true,
       "hasVoice": false,
-      "version": "1.01",
-      "updatedAt": "12.11.2025",
+      "version": "1.02",
+      "updatedAt": "23.08.2026",
       "requiredGameVersion": "1.4.1",
       "size": "1004 KB",
       "pageUrl": "https://magyaritasok.hu/games/stellar-blade",
@@ -3294,7 +3699,7 @@
       "mirrors": [
         {
           "label": "Magyarítások",
-          "url": "https://magyaritasok.hu/dl/StellarBlade/Stellar_Blade_hun_v101.zip",
+          "url": "https://magyaritasok.hu/dl/StellarBlade/Stellar_Blade_hun_v102.zip",
           "kind": "direct"
         }
       ]
@@ -3542,13 +3947,13 @@
       "language": "Magyar",
       "hasText": true,
       "hasVoice": false,
-      "version": null,
+      "version": "1.201",
       "updatedAt": "03.09.2016",
       "requiredGameVersion": null,
       "size": "215 KB",
       "pageUrl": "https://magyaritasok.hu/games/lost-lands-mahjong",
       "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
-      "authorsHtml": null,
+      "authorsHtml": "<p>Evin</p>",
       "inDevelopment": false,
       "mirrors": [
         {
@@ -4901,7 +5306,7 @@
       "language": "Magyar",
       "hasText": true,
       "hasVoice": false,
-      "version": null,
+      "version": "1.0",
       "updatedAt": "20.06.2016",
       "requiredGameVersion": null,
       "size": "1004 KB",
@@ -5108,6 +5513,30 @@
       ]
     },
     {
+      "steamAppId": "2214822",
+      "title": "Atomic Heart: Trapped in Limbo",
+      "studio": "Magyarítások",
+      "studioUrl": "https://magyaritasok.hu",
+      "language": "Magyar",
+      "hasText": true,
+      "hasVoice": false,
+      "version": "1.3",
+      "updatedAt": "11.09.2025",
+      "requiredGameVersion": "1.11.0.0",
+      "size": "42.3 MB",
+      "pageUrl": "https://magyaritasok.hu/games/atomic-heart-trapped-in-limbo",
+      "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
+      "authorsHtml": "<p>Evin</p>",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Magyarítások",
+          "url": "https://magyaritasok.hu/dl/AtomicHeart/AtomicHeartHUN_v1.3.zip",
+          "kind": "direct"
+        }
+      ]
+    },
+    {
       "steamAppId": "1952520",
       "title": "Paw Patrol: World",
       "studio": "Magyarítások",
@@ -5247,6 +5676,29 @@
         {
           "label": "Magyarítások",
           "url": "https://magyaritasok.hu/dl/kotor/kotor.exe",
+          "kind": "direct"
+        }
+      ]
+    },
+    {
+      "title": "Avatar: Frontiers of Pandora",
+      "studio": "Magyarítások",
+      "studioUrl": "https://magyaritasok.hu",
+      "language": "Magyar",
+      "hasText": true,
+      "hasVoice": false,
+      "version": "1.01",
+      "updatedAt": "25.09.2026",
+      "requiredGameVersion": null,
+      "size": "8.15 MB",
+      "pageUrl": "https://magyaritasok.hu/games/avatar-frontiers-of-pandora",
+      "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
+      "authorsHtml": null,
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Magyarítások",
+          "url": "https://magyaritasok.hu/dl/AvatarFrontiersofPandora/AvatarFoP_magyaritas_v101.exe",
           "kind": "direct"
         }
       ]
@@ -5634,6 +6086,54 @@
       ]
     },
     {
+      "steamAppId": "1233061",
+      "title": "Borderlands 3: Psycho Krieg and the Fantastic Fustercluck",
+      "studio": "Magyarítások",
+      "studioUrl": "https://magyaritasok.hu",
+      "language": "Magyar",
+      "hasText": true,
+      "hasVoice": false,
+      "version": "1.0 beta v4",
+      "updatedAt": "28.03.2026",
+      "requiredGameVersion": null,
+      "size": "13.2 MB",
+      "pageUrl": "https://magyaritasok.hu/games/borderlands-3-psycho-krieg-and-the-fantastic-fustercluck",
+      "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
+      "authorsHtml": "<p>Danther, Galgóczi Gellért, Gergácz Gergely, Ország Tibor, Rocsik Zoltán, Szabó Krisztián, Tibler, Tóth András</p>",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Magyarítások",
+          "url": "https://magyaritasok.hu/dl/Borderlands3/Borderlands3_hun_v1.4.1beta.zip",
+          "kind": "direct"
+        }
+      ]
+    },
+    {
+      "steamAppId": "2214821",
+      "title": "Atomic Heart: Annihilation Instinct",
+      "studio": "Magyarítások",
+      "studioUrl": "https://magyaritasok.hu",
+      "language": "Magyar",
+      "hasText": true,
+      "hasVoice": false,
+      "version": "1.3",
+      "updatedAt": "11.09.2025",
+      "requiredGameVersion": "1.11.0.0",
+      "size": "42.3 MB",
+      "pageUrl": "https://magyaritasok.hu/games/atomic-heart-annihilation-instinct",
+      "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
+      "authorsHtml": "<p>Evin</p>",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Magyarítások",
+          "url": "https://magyaritasok.hu/dl/AtomicHeart/AtomicHeartHUN_v1.3.zip",
+          "kind": "direct"
+        }
+      ]
+    },
+    {
       "title": "The Lord of the Rings: Return to Moria",
       "studio": "Magyarítások",
       "studioUrl": "https://magyaritasok.hu",
@@ -5902,10 +6402,10 @@
       "language": "Magyar",
       "hasText": true,
       "hasVoice": false,
-      "version": "1.3.1",
-      "updatedAt": "24.12.2025",
-      "requiredGameVersion": "1.2.8",
-      "size": "8.78 MB",
+      "version": "1.4",
+      "updatedAt": "27.08.2026",
+      "requiredGameVersion": "1.2.10",
+      "size": "6.06 MB",
       "pageUrl": "https://magyaritasok.hu/games/alan-wake-ii",
       "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
       "authorsHtml": "<p>Evin</p>",
@@ -5913,7 +6413,7 @@
       "mirrors": [
         {
           "label": "Magyarítások",
-          "url": "https://magyaritasok.hu/dl/AlanWake2/AlanWakeII_hunv131.exe",
+          "url": "https://magyaritasok.hu/dl/AlanWake2/AlanWakeII_hunv140.exe",
           "kind": "direct"
         }
       ]
@@ -6680,6 +7180,29 @@
       ]
     },
     {
+      "title": "Borderlands 3: Bounty of Blood - A Fistful of Redemption",
+      "studio": "Magyarítások",
+      "studioUrl": "https://magyaritasok.hu",
+      "language": "Magyar",
+      "hasText": true,
+      "hasVoice": false,
+      "version": "1.0 beta v4",
+      "updatedAt": "28.03.2026",
+      "requiredGameVersion": null,
+      "size": "13.2 MB",
+      "pageUrl": "https://magyaritasok.hu/games/borderlands-3-bounty-of-blood-a-fistful-of-redemption",
+      "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
+      "authorsHtml": "<p>Danther, Galgóczi Gellért, Gergácz Gergely, Ország Tibor, Rocsik Zoltán, Szabó Krisztián, Tibler, Tóth András</p>",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Magyarítások",
+          "url": "https://magyaritasok.hu/dl/Borderlands3/Borderlands3_hun_v1.4.1beta.zip",
+          "kind": "direct"
+        }
+      ]
+    },
+    {
       "title": "Dead Island 2",
       "studio": "Magyarítások",
       "studioUrl": "https://magyaritasok.hu",
@@ -6941,6 +7464,30 @@
       ]
     },
     {
+      "steamAppId": "1232257",
+      "title": "Borderlands 3: Guns, Love and Tentacles: The Marriage of Wainwright & Hammerlock",
+      "studio": "Magyarítások",
+      "studioUrl": "https://magyaritasok.hu",
+      "language": "Magyar",
+      "hasText": true,
+      "hasVoice": false,
+      "version": "1.0 beta v4",
+      "updatedAt": "28.03.2026",
+      "requiredGameVersion": null,
+      "size": "13.2 MB",
+      "pageUrl": "https://magyaritasok.hu/games/borderlands-3-guns-love-and-tentacles-the-marriage-of-wainwright-and-hammerlock",
+      "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
+      "authorsHtml": "<p>warg, Danther, Galgóczi Gellért, Gergácz Gergely, Ország Tibor, Rocsik Zoltán, Szabó Krisztián, Tibler, Tóth András</p>",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Magyarítások",
+          "url": "https://magyaritasok.hu/dl/Borderlands3/Borderlands3_hun_v1.4.1beta.zip",
+          "kind": "direct"
+        }
+      ]
+    },
+    {
       "steamAppId": "1370050",
       "title": "Trek to Yomi",
       "studio": "Magyarítások",
@@ -7103,6 +7650,30 @@
         {
           "label": "Magyarítások",
           "url": "https://magyaritasok.hu/dl/TheWorksofMercy/The_Works_of_Mercy_HUN_1.0.exe",
+          "kind": "direct"
+        }
+      ]
+    },
+    {
+      "steamAppId": "1232256",
+      "title": "Borderlands 3: Moxxi's Heist of the Handsome Jackpot",
+      "studio": "Magyarítások",
+      "studioUrl": "https://magyaritasok.hu",
+      "language": "Magyar",
+      "hasText": true,
+      "hasVoice": false,
+      "version": "1.0 beta v4",
+      "updatedAt": "28.03.2026",
+      "requiredGameVersion": null,
+      "size": "13.2 MB",
+      "pageUrl": "https://magyaritasok.hu/games/borderlands-3-moxxis-heist-of-the-handsome-jackpot",
+      "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
+      "authorsHtml": "<p>warg, Danther, Galgóczi Gellért, Gergácz Gergely, Ország Tibor, Rocsik Zoltán, Szabó Krisztián, Tibler, Tóth András</p>",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Magyarítások",
+          "url": "https://magyaritasok.hu/dl/Borderlands3/Borderlands3_hun_v1.4.1beta.zip",
           "kind": "direct"
         }
       ]
@@ -9146,10 +9717,10 @@
       "language": "Magyar",
       "hasText": true,
       "hasVoice": false,
-      "version": "1.02",
-      "updatedAt": "15.07.2023",
+      "version": "1.03",
+      "updatedAt": "28.09.2026",
       "requiredGameVersion": "1.2.40404",
-      "size": "4.10 MB",
+      "size": "4.35 MB",
       "pageUrl": "https://magyaritasok.hu/games/syberia-the-world-before",
       "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
       "authorsHtml": "<p>FEARka</p>",
@@ -9157,7 +9728,7 @@
       "mirrors": [
         {
           "label": "Magyarítások",
-          "url": "https://magyaritasok.hu/dl/Syberia_TheWorldBefore/Syberia_TheWorldBefore_HUN_1.02.exe",
+          "url": "https://magyaritasok.hu/dl/Syberia_TheWorldBefore/Syberia_TheWorldBefore_HUN_1.03.exe",
           "kind": "direct"
         }
       ]
@@ -9194,10 +9765,10 @@
       "language": "Magyar",
       "hasText": true,
       "hasVoice": false,
-      "version": "1.23",
-      "updatedAt": "29.05.2026",
-      "requiredGameVersion": "1.16.2",
-      "size": "59.6 MB",
+      "version": "1.25",
+      "updatedAt": "13.09.2026",
+      "requiredGameVersion": "1.17.1",
+      "size": "59.7 MB",
       "pageUrl": "https://magyaritasok.hu/games/elden-ring",
       "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
       "authorsHtml": "<p>The_Reaper_CooL, Evin</p>",
@@ -9205,7 +9776,7 @@
       "mirrors": [
         {
           "label": "Magyarítások",
-          "url": "https://magyaritasok.hu/dl/EldenRing/EldenRingHUNbyTRC_1.23.zip",
+          "url": "https://magyaritasok.hu/dl/EldenRing/EldenRingHUNbyTRC_1.25.zip",
           "kind": "direct"
         }
       ]
@@ -9519,6 +10090,30 @@
       ]
     },
     {
+      "steamAppId": "1444560",
+      "title": "Trine 4: Melody of Mystery",
+      "studio": "Magyarítások",
+      "studioUrl": "https://magyaritasok.hu",
+      "language": "Magyar",
+      "hasText": true,
+      "hasVoice": false,
+      "version": "1.1",
+      "updatedAt": "04.01.2026",
+      "requiredGameVersion": null,
+      "size": "4.29 MB",
+      "pageUrl": "https://magyaritasok.hu/games/trine-4-melody-of-mystery",
+      "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
+      "authorsHtml": "<p>Ateszkoma</p>",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Magyarítások",
+          "url": "https://magyaritasok.hu/dl/Trine4/Trine4_magyaritas_v11.exe",
+          "kind": "direct"
+        }
+      ]
+    },
+    {
       "steamAppId": "1252330",
       "title": "DEATHLOOP",
       "studio": "Magyarítások",
@@ -9610,6 +10205,29 @@
         {
           "label": "Magyarítások",
           "url": "https://magyaritasok.hu/dl/zeusgold/zeusgold.rar",
+          "kind": "direct"
+        }
+      ]
+    },
+    {
+      "title": "Emergency Fire Response",
+      "studio": "Magyarítások",
+      "studioUrl": "https://magyaritasok.hu",
+      "language": "Magyar",
+      "hasText": true,
+      "hasVoice": false,
+      "version": "1.0",
+      "updatedAt": "30.05.2014",
+      "requiredGameVersion": null,
+      "size": "154 KB",
+      "pageUrl": "https://magyaritasok.hu/games/emergency-fire-response",
+      "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
+      "authorsHtml": null,
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Magyarítások",
+          "url": "https://magyaritasok.hu/dl/firechief/firec.exe",
           "kind": "direct"
         }
       ]
@@ -10132,6 +10750,54 @@
         {
           "label": "Magyarítások",
           "url": "https://magyaritasok.hu/dl/secretservice_ultimatesacrifice/ssus_hun.exe",
+          "kind": "direct"
+        }
+      ]
+    },
+    {
+      "steamAppId": "296570",
+      "title": "Lords of Xulima: Deluxe Edition",
+      "studio": "Magyarítások",
+      "studioUrl": "https://magyaritasok.hu",
+      "language": "Magyar",
+      "hasText": true,
+      "hasVoice": false,
+      "version": "1.2",
+      "updatedAt": "03.02.2020",
+      "requiredGameVersion": "2.1.1",
+      "size": "4.72 MB",
+      "pageUrl": "https://magyaritasok.hu/games/lords-of-xulima-deluxe-edition",
+      "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
+      "authorsHtml": null,
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Magyarítások",
+          "url": "https://magyaritasok.hu/dl/LordsOfXulima/LordsOfXulimaHun.1.2.zip",
+          "kind": "direct"
+        }
+      ]
+    },
+    {
+      "steamAppId": "298880",
+      "title": "Lords of Xulima: The Talisman of Golot",
+      "studio": "Magyarítások",
+      "studioUrl": "https://magyaritasok.hu",
+      "language": "Magyar",
+      "hasText": true,
+      "hasVoice": false,
+      "version": "1.2",
+      "updatedAt": "03.02.2020",
+      "requiredGameVersion": "2.1.1",
+      "size": "4.72 MB",
+      "pageUrl": "https://magyaritasok.hu/games/lords-of-xulima-the-talisman-of-golot",
+      "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
+      "authorsHtml": null,
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Magyarítások",
+          "url": "https://magyaritasok.hu/dl/LordsOfXulima/LordsOfXulimaHun.1.2.zip",
           "kind": "direct"
         }
       ]
@@ -10878,18 +11544,18 @@
       "language": "Magyar",
       "hasText": true,
       "hasVoice": false,
-      "version": null,
+      "version": "1.1",
       "updatedAt": "28.07.2014",
       "requiredGameVersion": null,
       "size": "5.80 MB",
       "pageUrl": "https://magyaritasok.hu/games/john-deere-american-farmer",
       "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
-      "authorsHtml": "<p>Panyi</p>",
+      "authorsHtml": "<p>Panyi, Andy</p>",
       "inDevelopment": false,
       "mirrors": [
         {
           "label": "Magyarítások",
-          "url": "https://magyaritasok.hu/dl/jdafd/jdaf.exe",
+          "url": "https://magyaritasok.hu/dl/JohnDeereAmericanFarmer/jdaf.exe",
           "kind": "direct"
         }
       ]
@@ -10907,12 +11573,12 @@
       "size": "2.24 MB",
       "pageUrl": "https://magyaritasok.hu/games/john-deere-american-builder-deluxe",
       "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
-      "authorsHtml": "<p>Andy, Panyi</p>",
+      "authorsHtml": "<p>Panyi, Andy</p>",
       "inDevelopment": false,
       "mirrors": [
         {
           "label": "Magyarítások",
-          "url": "https://magyaritasok.hu/dl/jdabuilder/John-Deere-American-Builder-v0.8.exe",
+          "url": "https://magyaritasok.hu/dl/JohnDeereAmericanBuilder/John-Deere-American-Builder-v0.8.exe",
           "kind": "direct"
         }
       ]
@@ -11024,7 +11690,7 @@
       "size": "527 KB",
       "pageUrl": "https://magyaritasok.hu/games/loco-mania",
       "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
-      "authorsHtml": null,
+      "authorsHtml": "<p>Husimoto</p>",
       "inDevelopment": false,
       "mirrors": [
         {
@@ -11845,18 +12511,18 @@
       "language": "Magyar",
       "hasText": true,
       "hasVoice": false,
-      "version": "1.0a",
-      "updatedAt": "04.02.2023",
-      "requiredGameVersion": "1.6.640.0.8",
-      "size": "19.1 MB",
+      "version": "2.0",
+      "updatedAt": "17.05.2020",
+      "requiredGameVersion": null,
+      "size": "115.4 MB",
       "pageUrl": "https://magyaritasok.hu/games/the-elder-scrolls-v-skyrim-special-edition",
       "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
-      "authorsHtml": "<p>GothMan, MorroHun Team</p>",
+      "authorsHtml": "<p>GothMan, MorroHUN Team</p>",
       "inDevelopment": false,
       "mirrors": [
         {
           "label": "Magyarítások",
-          "url": "https://magyaritasok.hu/dl/skyrim/SkyrimSpecEd+USSEP_hun_SteamDeck_1.0a.zip",
+          "url": "https://magyaritasok.hu/dl/skyrim/MorroHun_Skyrim_v2.exe",
           "kind": "direct"
         }
       ]
@@ -12675,6 +13341,30 @@
       ]
     },
     {
+      "steamAppId": "1161300",
+      "title": "The Legend of Crystal Valley",
+      "studio": "Magyarítások",
+      "studioUrl": "https://magyaritasok.hu",
+      "language": "Magyar",
+      "hasText": true,
+      "hasVoice": false,
+      "version": "1.00",
+      "updatedAt": "08.09.2026",
+      "requiredGameVersion": "1.6.0",
+      "size": "7.55 MB",
+      "pageUrl": "https://magyaritasok.hu/games/the-legend-of-crystal-valley",
+      "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
+      "authorsHtml": "<p>FEARka</p>",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Magyarítások",
+          "url": "https://magyaritasok.hu/dl/TheLegendofCrystalValley/TLoCV_HUN_1.00.exe",
+          "kind": "direct"
+        }
+      ]
+    },
+    {
       "steamAppId": "1158310",
       "title": "Crusader Kings III",
       "studio": "Magyarítások",
@@ -13351,10 +14041,10 @@
       "language": "Magyar",
       "hasText": true,
       "hasVoice": false,
-      "version": "1.0.3",
-      "updatedAt": "21.07.2022",
+      "version": "1.4",
+      "updatedAt": "17.08.2026",
       "requiredGameVersion": null,
-      "size": "3.68 MB",
+      "size": "20.1 MB",
       "pageUrl": "https://magyaritasok.hu/games/call-of-duty-wwii",
       "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
       "authorsHtml": null,
@@ -13362,7 +14052,7 @@
       "mirrors": [
         {
           "label": "Magyarítások",
-          "url": "https://magyaritasok.hu/dl/callofduty_wwii/CODWWII_HUN_v103_TNBC.zip",
+          "url": "https://magyaritasok.hu/dl/callofduty_wwii/CoDWWII_HUN_1.4.exe",
           "kind": "direct"
         }
       ]
@@ -15482,6 +16172,29 @@
       ]
     },
     {
+      "title": "Age of Empires: The Rise of Rome",
+      "studio": "Magyarítások",
+      "studioUrl": "https://magyaritasok.hu",
+      "language": "Magyar",
+      "hasText": true,
+      "hasVoice": false,
+      "version": null,
+      "updatedAt": "28.07.2014",
+      "requiredGameVersion": null,
+      "size": "2.55 MB",
+      "pageUrl": "https://magyaritasok.hu/games/age-of-empires-the-rise-of-rome",
+      "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
+      "authorsHtml": null,
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Magyarítások",
+          "url": "https://magyaritasok.hu/dl/aoe/age_of_empires1_ror.rar",
+          "kind": "direct"
+        }
+      ]
+    },
+    {
       "steamAppId": "222480",
       "title": "Resident Evil: Revelations HD",
       "studio": "Magyarítások",
@@ -16599,6 +17312,52 @@
         {
           "label": "Magyarítások",
           "url": "https://magyaritasok.hu/dl/YokusIslandExpress/Yokus_Island_Express_HUNv1.2.exe",
+          "kind": "direct"
+        }
+      ]
+    },
+    {
+      "title": "Yu-Gi-Oh! Power of Chaos: Joey the Passion",
+      "studio": "Magyarítások",
+      "studioUrl": "https://magyaritasok.hu",
+      "language": "Magyar",
+      "hasText": true,
+      "hasVoice": false,
+      "version": "1.1",
+      "updatedAt": "07.05.2020",
+      "requiredGameVersion": null,
+      "size": "65.8 MB",
+      "pageUrl": "https://magyaritasok.hu/games/yu-gi-oh-power-of-chaos-joey-the-passion",
+      "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
+      "authorsHtml": null,
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Magyarítások",
+          "url": "https://magyaritasok.hu/dl/yugioh_powerofchaos_yugi_the_destiny/yu_gi_oh_poc_ytd_hun_1.1.rar",
+          "kind": "direct"
+        }
+      ]
+    },
+    {
+      "title": "Yu-Gi-Oh! Power of Chaos: Kaiba the Revenge",
+      "studio": "Magyarítások",
+      "studioUrl": "https://magyaritasok.hu",
+      "language": "Magyar",
+      "hasText": true,
+      "hasVoice": false,
+      "version": "1.1",
+      "updatedAt": "07.05.2020",
+      "requiredGameVersion": null,
+      "size": "65.8 MB",
+      "pageUrl": "https://magyaritasok.hu/games/yu-gi-oh-power-of-chaos-kaiba-the-revenge",
+      "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
+      "authorsHtml": null,
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Magyarítások",
+          "url": "https://magyaritasok.hu/dl/yugioh_powerofchaos_yugi_the_destiny/yu_gi_oh_poc_ytd_hun_1.1.rar",
           "kind": "direct"
         }
       ]
@@ -20230,7 +20989,7 @@
       "language": "Magyar",
       "hasText": true,
       "hasVoice": false,
-      "version": null,
+      "version": "1.201",
       "updatedAt": "03.09.2016",
       "requiredGameVersion": null,
       "size": "215 KB",
@@ -21031,6 +21790,29 @@
         {
           "label": "Magyarítások",
           "url": "https://magyaritasok.hu/dl/TheWhisperedWorldSE/TWWSEhun11.exe",
+          "kind": "direct"
+        }
+      ]
+    },
+    {
+      "title": "Disciples II: Gold Edition",
+      "studio": "Magyarítások",
+      "studioUrl": "https://magyaritasok.hu",
+      "language": "Magyar",
+      "hasText": true,
+      "hasVoice": false,
+      "version": "1.0",
+      "updatedAt": "03.06.2014",
+      "requiredGameVersion": null,
+      "size": "378 KB",
+      "pageUrl": "https://magyaritasok.hu/games/disciples-ii-gold-edition",
+      "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
+      "authorsHtml": "<p>Panyi</p>",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Magyarítások",
+          "url": "https://magyaritasok.hu/dl/disciples2/Disciples2Gallean1.0.HUN.rar",
           "kind": "direct"
         }
       ]
@@ -22152,6 +22934,30 @@
         {
           "label": "Magyarítások",
           "url": "https://magyaritasok.hu/dl/surgeonsimulator/SS2013HUNbyTRC.rar",
+          "kind": "direct"
+        }
+      ]
+    },
+    {
+      "steamAppId": "203358",
+      "title": "King's Bounty: Warriors of the North - Ice and Fire",
+      "studio": "Magyarítások",
+      "studioUrl": "https://magyaritasok.hu",
+      "language": "Magyar",
+      "hasText": true,
+      "hasVoice": false,
+      "version": "1.01",
+      "updatedAt": "22.01.2016",
+      "requiredGameVersion": null,
+      "size": "2.12 MB",
+      "pageUrl": "https://magyaritasok.hu/games/kings-bounty-warriors-of-the-north-ice-and-fire",
+      "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
+      "authorsHtml": "<p>Panyi</p>",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Magyarítások",
+          "url": "https://magyaritasok.hu/dl/kingsbounty/Kings_Bounty_Warriors_of_the_north_DLC_v1.01.zip",
           "kind": "direct"
         }
       ]
@@ -23988,6 +24794,29 @@
       ]
     },
     {
+      "title": "The Cursed Crusade",
+      "studio": "Magyarítások",
+      "studioUrl": "https://magyaritasok.hu",
+      "language": "Magyar",
+      "hasText": true,
+      "hasVoice": false,
+      "version": "1.00",
+      "updatedAt": "26.09.2026",
+      "requiredGameVersion": null,
+      "size": "23.6 MB",
+      "pageUrl": "https://magyaritasok.hu/games/the-cursed-crusade",
+      "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
+      "authorsHtml": "<p>Gora</p>",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Magyarítások",
+          "url": "https://magyaritasok.hu/dl/TheCursedCrusade/TheCursedCrusade_HUN_v100.exe",
+          "kind": "direct"
+        }
+      ]
+    },
+    {
       "title": "Zoo Tycoon: Dinosaur Digs",
       "studio": "Magyarítások",
       "studioUrl": "https://magyaritasok.hu",
@@ -24023,7 +24852,7 @@
       "size": "288 KB",
       "pageUrl": "https://magyaritasok.hu/games/re-volt",
       "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
-      "authorsHtml": "<p>RaveAir</p>",
+      "authorsHtml": "<p>RaveAir, Panyi</p>",
       "inDevelopment": false,
       "mirrors": [
         {
@@ -24041,8 +24870,8 @@
       "language": "Magyar",
       "hasText": true,
       "hasVoice": false,
-      "version": "1.01",
-      "updatedAt": "04.11.2025",
+      "version": "1.02",
+      "updatedAt": "17.08.2026",
       "requiredGameVersion": "1.0.744",
       "size": "75.7 MB",
       "pageUrl": "https://magyaritasok.hu/games/broken-sword-shadow-of-the-templars-the-directors-cut",
@@ -24052,7 +24881,7 @@
       "mirrors": [
         {
           "label": "Magyarítások",
-          "url": "https://magyaritasok.hu/dl/BrokenSwordSotTDC/BS1DC_HUN_1.01.exe",
+          "url": "https://magyaritasok.hu/dl/BrokenSwordSotTDC/BS1DC_HUN_1.02.exe",
           "kind": "direct"
         }
       ]
@@ -24279,10 +25108,10 @@
       "language": "Magyar",
       "hasText": true,
       "hasVoice": false,
-      "version": "1.02",
-      "updatedAt": "06.10.2022",
+      "version": "1.03",
+      "updatedAt": "07.09.2026",
       "requiredGameVersion": null,
-      "size": "1.35 MB",
+      "size": "3.00 MB",
       "pageUrl": "https://magyaritasok.hu/games/need-for-speed-the-run",
       "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
       "authorsHtml": "<p>Evin</p>",
@@ -24290,7 +25119,7 @@
       "mirrors": [
         {
           "label": "Magyarítások",
-          "url": "https://magyaritasok.hu/dl/needforspeed_therun/NfSRun_hunv102.exe",
+          "url": "https://magyaritasok.hu/dl/needforspeed_therun/NFSRUN_HUN_1.03.exe",
           "kind": "direct"
         }
       ]
@@ -24462,6 +25291,29 @@
       ]
     },
     {
+      "title": "The Sims Medieval: Pirates and Nobles",
+      "studio": "Magyarítások",
+      "studioUrl": "https://magyaritasok.hu",
+      "language": "Magyar",
+      "hasText": true,
+      "hasVoice": false,
+      "version": "Beta",
+      "updatedAt": "11.07.2017",
+      "requiredGameVersion": null,
+      "size": "2.82 MB",
+      "pageUrl": "https://magyaritasok.hu/games/the-sims-medieval-pirates-and-nobles",
+      "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
+      "authorsHtml": "<p>Edinyau</p>",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Magyarítások",
+          "url": "https://magyaritasok.hu/dl/TheSimsMedieval/TheSimsMedieval_hun.zip",
+          "kind": "direct"
+        }
+      ]
+    },
+    {
       "steamAppId": "203140",
       "title": "Hitman: Absolution",
       "studio": "Magyarítások",
@@ -24576,6 +25428,29 @@
         {
           "label": "Magyarítások",
           "url": "https://magyaritasok.hu/dl/theball/theballhun.exe",
+          "kind": "direct"
+        }
+      ]
+    },
+    {
+      "title": "Resident Evil 3: Nemesis",
+      "studio": "Magyarítások",
+      "studioUrl": "https://magyaritasok.hu",
+      "language": "Magyar",
+      "hasText": true,
+      "hasVoice": false,
+      "version": "1.01",
+      "updatedAt": "12.09.2026",
+      "requiredGameVersion": null,
+      "size": "30.5 MB",
+      "pageUrl": "https://magyaritasok.hu/games/resident-evil-3-nemesis",
+      "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
+      "authorsHtml": "<p>FEARka, Cyrus, Panyi</p>",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Magyarítások",
+          "url": "https://magyaritasok.hu/dl/residentevil3/RE3_1999_HUN_1.01.zip",
           "kind": "direct"
         }
       ]
@@ -25233,7 +26108,7 @@
       "hasText": true,
       "hasVoice": false,
       "version": "1.10",
-      "updatedAt": "27.10.2020",
+      "updatedAt": "24.08.2020",
       "requiredGameVersion": null,
       "size": "1.12 MB",
       "pageUrl": "https://magyaritasok.hu/games/xcom-enemy-within",
@@ -26962,7 +27837,7 @@
       "hasText": true,
       "hasVoice": false,
       "version": "1.3",
-      "updatedAt": "05.04.2022",
+      "updatedAt": "16.11.2018",
       "requiredGameVersion": "1.20",
       "size": "1.74 MB",
       "pageUrl": "https://magyaritasok.hu/games/rise-of-nations-extended-edition",
@@ -27132,7 +28007,7 @@
       "size": "9.60 MB",
       "pageUrl": "https://magyaritasok.hu/games/puppetshow-mystery-of-joyville",
       "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
-      "authorsHtml": null,
+      "authorsHtml": "<p>RaveAir</p>",
       "inDevelopment": false,
       "mirrors": [
         {
@@ -27344,7 +28219,7 @@
       "size": "139 KB",
       "pageUrl": "https://magyaritasok.hu/games/lego-chess",
       "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
-      "authorsHtml": null,
+      "authorsHtml": "<p>Hungarian Language Team</p>",
       "inDevelopment": false,
       "mirrors": [
         {
@@ -27954,7 +28829,7 @@
       "hasVoice": false,
       "version": "1.0",
       "updatedAt": "08.10.2014",
-      "requiredGameVersion": null,
+      "requiredGameVersion": "1.3",
       "size": "710 KB",
       "pageUrl": "https://magyaritasok.hu/games/rage-the-scorchers",
       "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
@@ -30554,7 +31429,7 @@
       "size": "1.12 MB",
       "pageUrl": "https://magyaritasok.hu/games/xcom-enemy-unknown",
       "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
-      "authorsHtml": "<p>Panyi, ·f·i· csoport</p>",
+      "authorsHtml": "<p>RaveAir, Panyi, ·f·i· csoport</p>",
       "inDevelopment": false,
       "mirrors": [
         {
@@ -30598,7 +31473,7 @@
       "hasVoice": false,
       "version": "1.1",
       "updatedAt": "08.10.2014",
-      "requiredGameVersion": null,
+      "requiredGameVersion": "1.2",
       "size": "24.0 MB",
       "pageUrl": "https://magyaritasok.hu/games/rage",
       "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
@@ -32121,7 +32996,7 @@
       "hasText": true,
       "hasVoice": false,
       "version": "2.01",
-      "updatedAt": "20.08.2015",
+      "updatedAt": "28.01.2015",
       "requiredGameVersion": "1.6.00 - 1.6.02",
       "size": "556 KB",
       "pageUrl": "https://magyaritasok.hu/games/s-dot-t-a-dot-l-k-dot-e-r-dot-call-of-pripyat",
@@ -32131,7 +33006,7 @@
       "mirrors": [
         {
           "label": "Magyarítások",
-          "url": "https://magyaritasok.hu/dl/stalker_cop/SCOPHU-v2.01.zip",
+          "url": "https://magyaritasok.hu/dl/StalkerCallofPripyat/SCOPHU-v2.01.zip",
           "kind": "direct"
         }
       ]
@@ -32334,7 +33209,7 @@
       "language": "Magyar",
       "hasText": true,
       "hasVoice": false,
-      "version": null,
+      "version": "1.0",
       "updatedAt": "27.01.2016",
       "requiredGameVersion": null,
       "size": "2.79 GB",
@@ -33330,7 +34205,7 @@
       "hasText": true,
       "hasVoice": false,
       "version": "2.0",
-      "updatedAt": "16.11.2020",
+      "updatedAt": "12.06.2014",
       "requiredGameVersion": null,
       "size": "2.53 MB",
       "pageUrl": "https://magyaritasok.hu/games/nikopol-secrets-of-the-immortals",
@@ -33660,8 +34535,8 @@
       "language": "Magyar",
       "hasText": true,
       "hasVoice": false,
-      "version": "1.00",
-      "updatedAt": "13.12.2016",
+      "version": "1.00a",
+      "updatedAt": "17.01.2017",
       "requiredGameVersion": null,
       "size": "723 KB",
       "pageUrl": "https://magyaritasok.hu/games/s-dot-t-a-dot-l-k-dot-e-r-dot-clear-sky",
@@ -33671,7 +34546,7 @@
       "mirrors": [
         {
           "label": "Magyarítások",
-          "url": "https://magyaritasok.hu/dl/stalker/STCSHU-v1.00.zip",
+          "url": "https://magyaritasok.hu/dl/StalkerClearSky/STCSHU-v1.00.zip",
           "kind": "direct"
         }
       ]
@@ -33896,13 +34771,13 @@
       "language": "Magyar",
       "hasText": true,
       "hasVoice": false,
-      "version": null,
+      "version": "1.0",
       "updatedAt": "31.05.2014",
       "requiredGameVersion": null,
       "size": "2.17 MB",
       "pageUrl": "https://magyaritasok.hu/games/supreme-commander-forged-alliance",
       "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
-      "authorsHtml": "<p>jnc</p>",
+      "authorsHtml": "<p>jnc, Hungarian Language Team</p>",
       "inDevelopment": false,
       "mirrors": [
         {
@@ -35458,7 +36333,7 @@
       "size": "520 KB",
       "pageUrl": "https://magyaritasok.hu/games/hospital-tycoon",
       "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
-      "authorsHtml": "<p>Panyi</p>",
+      "authorsHtml": "<p>Panyi, jnc</p>",
       "inDevelopment": false,
       "mirrors": [
         {
@@ -35973,7 +36848,7 @@
       "size": "1.27 MB",
       "pageUrl": "https://magyaritasok.hu/games/la-street-racing",
       "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
-      "authorsHtml": "<p>Ordel</p>",
+      "authorsHtml": "<p>Ordel, Hungarian Languages Team</p>",
       "inDevelopment": false,
       "mirrors": [
         {
@@ -36300,7 +37175,7 @@
       "size": "113.5 MB",
       "pageUrl": "https://magyaritasok.hu/games/infernal",
       "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
-      "authorsHtml": "<p>Panyi</p>",
+      "authorsHtml": "<p>Panyi, Hungarian Language Team</p>",
       "inDevelopment": false,
       "mirrors": [
         {
@@ -36317,7 +37192,7 @@
       "language": "Magyar",
       "hasText": true,
       "hasVoice": false,
-      "version": null,
+      "version": "1.0",
       "updatedAt": "18.06.2014",
       "requiredGameVersion": null,
       "size": "886 KB",
@@ -36340,7 +37215,7 @@
       "language": "Magyar",
       "hasText": true,
       "hasVoice": false,
-      "version": null,
+      "version": "1.0",
       "updatedAt": "31.05.2014",
       "requiredGameVersion": null,
       "size": "861 KB",
@@ -36650,7 +37525,7 @@
       "size": "835 KB",
       "pageUrl": "https://magyaritasok.hu/games/zoo-tycoon-2",
       "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
-      "authorsHtml": "<p>Druzsba, Panyi, Andy</p>",
+      "authorsHtml": "<p>Druzsba, Panyi, Andy, Hungarian Language Team</p>",
       "inDevelopment": false,
       "mirrors": [
         {
@@ -36769,7 +37644,7 @@
       "size": "237 KB",
       "pageUrl": "https://magyaritasok.hu/games/xiii",
       "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
-      "authorsHtml": "<p>Minigun, Panyi, Ranloth, Andy, HunGames</p>",
+      "authorsHtml": "<p>Minigun, Panyi, Ranloth, Andy</p>",
       "inDevelopment": false,
       "mirrors": [
         {
@@ -37231,12 +38106,12 @@
       "hasText": true,
       "hasVoice": false,
       "version": null,
-      "updatedAt": "27.10.2020",
+      "updatedAt": "21.06.2014",
       "requiredGameVersion": "1.24a",
       "size": "46.6 MB",
       "pageUrl": "https://magyaritasok.hu/games/warcraft-iii-the-frozen-throne",
       "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
-      "authorsHtml": "<p>Cyrus, RaveAir, Panyi, Andy, Huncraft Int.</p>",
+      "authorsHtml": "<p>TBlinT, Cyrus, RaveAir, Panyi, Andy, Huncraft Int.</p>",
       "inDevelopment": false,
       "mirrors": [
         {
@@ -37631,13 +38506,13 @@
       "language": "Magyar",
       "hasText": true,
       "hasVoice": false,
-      "version": null,
+      "version": "1.0",
       "updatedAt": "18.06.2014",
       "requiredGameVersion": null,
       "size": "1.55 MB",
       "pageUrl": "https://magyaritasok.hu/games/uefa-champions-league-2004-2005",
       "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
-      "authorsHtml": "<p>Andy, Panyi</p>",
+      "authorsHtml": "<p>Andy, Panyi, PcGamesHuns</p>",
       "inDevelopment": false,
       "mirrors": [
         {
@@ -38316,7 +39191,7 @@
       "size": "68 KB",
       "pageUrl": "https://magyaritasok.hu/games/theme-hospital",
       "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
-      "authorsHtml": null,
+      "authorsHtml": "<p>Panyi</p>",
       "inDevelopment": false,
       "mirrors": [
         {
@@ -38474,13 +39349,13 @@
       "language": "Magyar",
       "hasText": true,
       "hasVoice": false,
-      "version": null,
+      "version": "1.1",
       "updatedAt": "31.05.2014",
       "requiredGameVersion": null,
       "size": "243 KB",
       "pageUrl": "https://magyaritasok.hu/games/the-secrets-of-atlantis-the-sacred-legacy",
       "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
-      "authorsHtml": "<p>Panyi</p>",
+      "authorsHtml": "<p>Panyi, Hungarian Language Team</p>",
       "inDevelopment": false,
       "mirrors": [
         {
@@ -38902,7 +39777,7 @@
       "size": "3.87 MB",
       "pageUrl": "https://magyaritasok.hu/games/supreme-commander",
       "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
-      "authorsHtml": "<p>Minigun, Panyi, Husimoto</p>",
+      "authorsHtml": "<p>Minigun, Panyi, Husimoto, Hungarian Language Team</p>",
       "inDevelopment": false,
       "mirrors": [
         {
@@ -39704,7 +40579,7 @@
       "size": "765 KB",
       "pageUrl": "https://magyaritasok.hu/games/silent-hunter-iii",
       "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
-      "authorsHtml": "<p>GameHunter TEAM</p>",
+      "authorsHtml": "<p>Husimoto, jnc, Andy, GameHunter TEAM</p>",
       "inDevelopment": false,
       "mirrors": [
         {
@@ -42487,7 +43362,7 @@
       "language": "Magyar",
       "hasText": true,
       "hasVoice": false,
-      "version": null,
+      "version": "1.0",
       "updatedAt": "18.06.2014",
       "requiredGameVersion": null,
       "size": "168 KB",
@@ -42499,6 +43374,30 @@
         {
           "label": "Magyarítások",
           "url": "https://magyaritasok.hu/dl/knightsofthetemple/kott_hungames.zip",
+          "kind": "direct"
+        }
+      ]
+    },
+    {
+      "steamAppId": "25830",
+      "title": "Knights of Honor",
+      "studio": "Magyarítások",
+      "studioUrl": "https://magyaritasok.hu",
+      "language": "Magyar",
+      "hasText": true,
+      "hasVoice": false,
+      "version": "0.1 Beta",
+      "updatedAt": "11.09.2014",
+      "requiredGameVersion": null,
+      "size": "11.0 MB",
+      "pageUrl": "https://magyaritasok.hu/games/knights-of-honor",
+      "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
+      "authorsHtml": null,
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Magyarítások",
+          "url": "https://magyaritasok.hu/dl/KnightsofHonor/KnightsofHonor_v0.1Beta_Hun_By_TGWH.zip",
           "kind": "direct"
         }
       ]
@@ -42773,7 +43672,7 @@
       "size": "1.14 MB",
       "pageUrl": "https://magyaritasok.hu/games/in-80-days-around-the-world",
       "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
-      "authorsHtml": "<p>Gmiki és Imyke2000</p>",
+      "authorsHtml": "<p>EVM</p>",
       "inDevelopment": false,
       "mirrors": [
         {
@@ -43219,7 +44118,7 @@
       "size": "1.62 MB",
       "pageUrl": "https://magyaritasok.hu/games/hearts-of-iron-ii",
       "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
-      "authorsHtml": "<p>Andy</p>",
+      "authorsHtml": "<p>Minigun, Husimoto, Panyi, Andy</p>",
       "inDevelopment": false,
       "mirrors": [
         {
@@ -43670,7 +44569,7 @@
       "size": "3.06 MB",
       "pageUrl": "https://magyaritasok.hu/games/gothic",
       "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
-      "authorsHtml": "<p>UV, Panyi</p>",
+      "authorsHtml": "<p>UV, Panyi, Gothic fordítócsapat</p>",
       "inDevelopment": false,
       "mirrors": [
         {
@@ -44296,10 +45195,10 @@
       "language": "Magyar",
       "hasText": true,
       "hasVoice": false,
-      "version": null,
-      "updatedAt": "31.05.2014",
+      "version": "1.1",
+      "updatedAt": "07.02.2026",
       "requiredGameVersion": null,
-      "size": "3.24 MB",
+      "size": "4.29 MB",
       "pageUrl": "https://magyaritasok.hu/games/fable-the-lost-chapters",
       "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
       "authorsHtml": "<p>jnc, Panyi, Sajt és a többiek</p>",
@@ -44307,7 +45206,7 @@
       "mirrors": [
         {
           "label": "Magyarítások",
-          "url": "https://magyaritasok.hu/dl/fable/fable_the_lost_chapters_hu.rar",
+          "url": "https://magyaritasok.hu/dl/fable/FableTheLostChaptersHun1.1.zip",
           "kind": "direct"
         }
       ]
@@ -44795,7 +45694,7 @@
       "size": "74 KB",
       "pageUrl": "https://magyaritasok.hu/games/emergency-3",
       "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
-      "authorsHtml": null,
+      "authorsHtml": "<p>Panyi</p>",
       "inDevelopment": false,
       "mirrors": [
         {
@@ -44989,6 +45888,75 @@
         {
           "label": "Magyarítások",
           "url": "https://magyaritasok.hu/dl/divinedivinity/div-divinity-magyar-teljes.rar",
+          "kind": "direct"
+        }
+      ]
+    },
+    {
+      "title": "Disciples II: Servants of the Dark",
+      "studio": "Magyarítások",
+      "studioUrl": "https://magyaritasok.hu",
+      "language": "Magyar",
+      "hasText": true,
+      "hasVoice": false,
+      "version": "1.0",
+      "updatedAt": "03.06.2014",
+      "requiredGameVersion": null,
+      "size": "378 KB",
+      "pageUrl": "https://magyaritasok.hu/games/disciples-ii-servants-of-the-dark",
+      "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
+      "authorsHtml": null,
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Magyarítások",
+          "url": "https://magyaritasok.hu/dl/disciples2/Disciples2Gallean1.0.HUN.rar",
+          "kind": "direct"
+        }
+      ]
+    },
+    {
+      "title": "Disciples II: Guardians of the Light",
+      "studio": "Magyarítások",
+      "studioUrl": "https://magyaritasok.hu",
+      "language": "Magyar",
+      "hasText": true,
+      "hasVoice": false,
+      "version": "1.0",
+      "updatedAt": "03.06.2014",
+      "requiredGameVersion": null,
+      "size": "378 KB",
+      "pageUrl": "https://magyaritasok.hu/games/disciples-ii-guardians-of-the-light",
+      "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
+      "authorsHtml": null,
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Magyarítások",
+          "url": "https://magyaritasok.hu/dl/disciples2/Disciples2Gallean1.0.HUN.rar",
+          "kind": "direct"
+        }
+      ]
+    },
+    {
+      "title": "Disciples II: Dark Prophecy",
+      "studio": "Magyarítások",
+      "studioUrl": "https://magyaritasok.hu",
+      "language": "Magyar",
+      "hasText": true,
+      "hasVoice": false,
+      "version": "1.0",
+      "updatedAt": "03.06.2014",
+      "requiredGameVersion": null,
+      "size": "378 KB",
+      "pageUrl": "https://magyaritasok.hu/games/disciples-ii-dark-prophecy",
+      "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
+      "authorsHtml": "<p>RaveAir, Panyi</p>",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Magyarítások",
+          "url": "https://magyaritasok.hu/dl/disciples2/Disciples2Gallean1.0.HUN.rar",
           "kind": "direct"
         }
       ]
@@ -45266,7 +46234,7 @@
       "size": "1.26 MB",
       "pageUrl": "https://magyaritasok.hu/games/defcon",
       "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
-      "authorsHtml": null,
+      "authorsHtml": "<p>Hungarian Language Team</p>",
       "inDevelopment": false,
       "mirrors": [
         {
@@ -47774,7 +48742,7 @@
       "size": "1.35 MB",
       "pageUrl": "https://magyaritasok.hu/games/18-wheels-of-steel-convoy",
       "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
-      "authorsHtml": null,
+      "authorsHtml": "<p>Andy</p>",
       "inDevelopment": false,
       "mirrors": [
         {
@@ -47814,7 +48782,7 @@
       "language": "Magyar",
       "hasText": true,
       "hasVoice": false,
-      "version": null,
+      "version": "1.0",
       "updatedAt": "22.06.2014",
       "requiredGameVersion": null,
       "size": "2 KB",
@@ -47831,24 +48799,24 @@
       ]
     },
     {
-      "title": "Fire Chief (????)",
+      "title": "Puerto Rico (????)",
       "studio": "Magyarítások",
       "studioUrl": "https://magyaritasok.hu",
       "language": "Magyar",
       "hasText": true,
       "hasVoice": false,
       "version": null,
-      "updatedAt": "30.05.2014",
+      "updatedAt": "22.06.2014",
       "requiredGameVersion": null,
-      "size": "154 KB",
-      "pageUrl": "https://magyaritasok.hu/games/fire-chief",
+      "size": "1.40 MB",
+      "pageUrl": "https://magyaritasok.hu/games/puerto-rico",
       "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
-      "authorsHtml": null,
+      "authorsHtml": "<p>Panyi</p>",
       "inDevelopment": false,
       "mirrors": [
         {
           "label": "Magyarítások",
-          "url": "https://magyaritasok.hu/dl/firechief/firec.exe",
+          "url": "https://magyaritasok.hu/dl/puertorico/puertorico.zip",
           "kind": "direct"
         }
       ]
@@ -47946,6 +48914,29 @@
       ]
     },
     {
+      "title": "Puppet Show: Lost Town (????)",
+      "studio": "Magyarítások",
+      "studioUrl": "https://magyaritasok.hu",
+      "language": "Magyar",
+      "hasText": true,
+      "hasVoice": false,
+      "version": null,
+      "updatedAt": "28.06.2014",
+      "requiredGameVersion": null,
+      "size": "12.4 MB",
+      "pageUrl": "https://magyaritasok.hu/games/puppet-show-lost-town",
+      "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
+      "authorsHtml": "<p>RaveAir</p>",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Magyarítások",
+          "url": "https://magyaritasok.hu/dl/puppetshow3/PuppetShow_3_Az_elveszett_varos.exe",
+          "kind": "direct"
+        }
+      ]
+    },
+    {
       "title": "The Stalin Subway 2 (????)",
       "studio": "Magyarítások",
       "studioUrl": "https://magyaritasok.hu",
@@ -47975,13 +48966,13 @@
       "language": "Magyar",
       "hasText": true,
       "hasVoice": false,
-      "version": null,
+      "version": "1.0",
       "updatedAt": "09.02.2015",
       "requiredGameVersion": null,
       "size": "736 KB",
       "pageUrl": "https://magyaritasok.hu/games/supercow",
       "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
-      "authorsHtml": "<p>Druzsba, NightVison</p>",
+      "authorsHtml": "<p>Druzsba</p>",
       "inDevelopment": false,
       "mirrors": [
         {
@@ -48033,6 +49024,52 @@
         {
           "label": "Magyarítások",
           "url": "https://magyaritasok.hu/dl/grandprix3_2k/gp3_2000_season_magyar.zip",
+          "kind": "direct"
+        }
+      ]
+    },
+    {
+      "title": "Private Dancer (????)",
+      "studio": "Magyarítások",
+      "studioUrl": "https://magyaritasok.hu",
+      "language": "Magyar",
+      "hasText": true,
+      "hasVoice": false,
+      "version": null,
+      "updatedAt": "12.03.2016",
+      "requiredGameVersion": null,
+      "size": "3 KB",
+      "pageUrl": "https://magyaritasok.hu/games/private-dancer",
+      "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
+      "authorsHtml": null,
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Magyarítások",
+          "url": "https://magyaritasok.hu/dl/privatedancer/privatedancer_hun.zip",
+          "kind": "direct"
+        }
+      ]
+    },
+    {
+      "title": "Magic Ball 4 (????)",
+      "studio": "Magyarítások",
+      "studioUrl": "https://magyaritasok.hu",
+      "language": "Magyar",
+      "hasText": true,
+      "hasVoice": false,
+      "version": "1.0",
+      "updatedAt": "22.06.2014",
+      "requiredGameVersion": null,
+      "size": "163 KB",
+      "pageUrl": "https://magyaritasok.hu/games/magic-ball-4",
+      "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
+      "authorsHtml": "<p>Panyi</p>",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Magyarítások",
+          "url": "https://magyaritasok.hu/dl/magicball4/magic_ball_4_hun.exe",
           "kind": "direct"
         }
       ]
@@ -48159,13 +49196,13 @@
       "language": "Magyar",
       "hasText": true,
       "hasVoice": false,
-      "version": null,
+      "version": "1.0",
       "updatedAt": "22.06.2014",
       "requiredGameVersion": null,
       "size": "2 KB",
       "pageUrl": "https://magyaritasok.hu/games/magic-ball-2-new-worlds",
       "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
-      "authorsHtml": "<p>lacipuff</p>",
+      "authorsHtml": null,
       "inDevelopment": false,
       "mirrors": [
         {
@@ -48291,6 +49328,52 @@
       ]
     },
     {
+      "title": "Yucata - Sun Temple of the Maya (????)",
+      "studio": "Magyarítások",
+      "studioUrl": "https://magyaritasok.hu",
+      "language": "Magyar",
+      "hasText": true,
+      "hasVoice": false,
+      "version": null,
+      "updatedAt": "18.06.2014",
+      "requiredGameVersion": null,
+      "size": "310 KB",
+      "pageUrl": "https://magyaritasok.hu/games/yucata-sun-temple-of-the-maya",
+      "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
+      "authorsHtml": "<p>Panyi</p>",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Magyarítások",
+          "url": "https://magyaritasok.hu/dl/yacuta/yacuta.rar",
+          "kind": "direct"
+        }
+      ]
+    },
+    {
+      "title": "Zetrix (????)",
+      "studio": "Magyarítások",
+      "studioUrl": "https://magyaritasok.hu",
+      "language": "Magyar",
+      "hasText": true,
+      "hasVoice": false,
+      "version": "1.0",
+      "updatedAt": "18.06.2014",
+      "requiredGameVersion": "2.1",
+      "size": "2 KB",
+      "pageUrl": "https://magyaritasok.hu/games/zetrix",
+      "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
+      "authorsHtml": "<p>Panyi</p>",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Magyarítások",
+          "url": "https://magyaritasok.hu/dl/zetrix/ztx21hun.rar",
+          "kind": "direct"
+        }
+      ]
+    },
+    {
       "title": "Astral Tournament (????)",
       "studio": "Magyarítások",
       "studioUrl": "https://magyaritasok.hu",
@@ -48349,35 +49432,12 @@
       "size": "101 KB",
       "pageUrl": "https://magyaritasok.hu/games/yahtzee",
       "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
-      "authorsHtml": "<p>Panyi, lacipuff</p>",
+      "authorsHtml": "<p>Panyi</p>",
       "inDevelopment": false,
       "mirrors": [
         {
           "label": "Magyarítások",
           "url": "https://magyaritasok.hu/dl/yahtzee/yahtzee_hun.zip",
-          "kind": "direct"
-        }
-      ]
-    },
-    {
-      "title": "PuppetShow: Lost City (????)",
-      "studio": "Magyarítások",
-      "studioUrl": "https://magyaritasok.hu",
-      "language": "Magyar",
-      "hasText": true,
-      "hasVoice": false,
-      "version": null,
-      "updatedAt": "28.06.2014",
-      "requiredGameVersion": null,
-      "size": "12.4 MB",
-      "pageUrl": "https://magyaritasok.hu/games/puppetshow-lost-city",
-      "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
-      "authorsHtml": null,
-      "inDevelopment": false,
-      "mirrors": [
-        {
-          "label": "Magyarítások",
-          "url": "https://magyaritasok.hu/dl/puppetshow3/PuppetShow_3_Az_elveszett_varos.exe",
           "kind": "direct"
         }
       ]
@@ -48389,7 +49449,7 @@
       "language": "Magyar",
       "hasText": true,
       "hasVoice": false,
-      "version": null,
+      "version": "1.0",
       "updatedAt": "22.06.2014",
       "requiredGameVersion": null,
       "size": "172 KB",
@@ -48418,7 +49478,7 @@
       "size": "399 KB",
       "pageUrl": "https://magyaritasok.hu/games/pirate-mysteries-a-tale-of-monkeys-masks-and-hidden-objects",
       "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
-      "authorsHtml": "<p>Guillotine</p>",
+      "authorsHtml": "<p>RaveAir</p>",
       "inDevelopment": false,
       "mirrors": [
         {
@@ -48464,7 +49524,7 @@
       "size": "677 KB",
       "pageUrl": "https://magyaritasok.hu/games/snowmobile-racing",
       "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
-      "authorsHtml": "<p>Gmiki</p>",
+      "authorsHtml": null,
       "inDevelopment": false,
       "mirrors": [
         {
@@ -48521,6 +49581,29 @@
       ]
     },
     {
+      "title": "Jewelleria (????)",
+      "studio": "Magyarítások",
+      "studioUrl": "https://magyaritasok.hu",
+      "language": "Magyar",
+      "hasText": true,
+      "hasVoice": false,
+      "version": null,
+      "updatedAt": "04.06.2014",
+      "requiredGameVersion": null,
+      "size": "1.93 MB",
+      "pageUrl": "https://magyaritasok.hu/games/jewelleria",
+      "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
+      "authorsHtml": "<p>Panyi</p>",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Magyarítások",
+          "url": "https://magyaritasok.hu/dl/jewelleria/jewelleriahun.rar",
+          "kind": "direct"
+        }
+      ]
+    },
+    {
       "title": "Two Worlds: Curse of Souls DLC (????)",
       "studio": "Magyarítások",
       "studioUrl": "https://magyaritasok.hu",
@@ -48562,6 +49645,52 @@
         {
           "label": "Magyarítások",
           "url": "https://magyaritasok.hu/dl/NeighboursFromHell_WoodyComesBack/NFH_WCBhun_feljavitott.zip",
+          "kind": "direct"
+        }
+      ]
+    },
+    {
+      "title": "Margrave: The Curse of the Severed Heart Collector's Edition (????)",
+      "studio": "Magyarítások",
+      "studioUrl": "https://magyaritasok.hu",
+      "language": "Magyar",
+      "hasText": true,
+      "hasVoice": false,
+      "version": null,
+      "updatedAt": "22.06.2014",
+      "requiredGameVersion": null,
+      "size": "4.84 MB",
+      "pageUrl": "https://magyaritasok.hu/games/margrave-the-curse-of-the-severed-heart-collector-s-edition",
+      "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
+      "authorsHtml": "<p>RaveAir</p>",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Magyarítások",
+          "url": "https://magyaritasok.hu/dl/Margrave/margrave3.zip",
+          "kind": "direct"
+        }
+      ]
+    },
+    {
+      "title": "Margrave: The Blacksmith's Daughter Collector's Edition (????)",
+      "studio": "Magyarítások",
+      "studioUrl": "https://magyaritasok.hu",
+      "language": "Magyar",
+      "hasText": true,
+      "hasVoice": false,
+      "version": null,
+      "updatedAt": "22.06.2014",
+      "requiredGameVersion": null,
+      "size": "550 KB",
+      "pageUrl": "https://magyaritasok.hu/games/margrave-the-blacksmith-s-daughter-collector-s-edition",
+      "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
+      "authorsHtml": "<p>RaveAir</p>",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Magyarítások",
+          "url": "https://magyaritasok.hu/dl/Margrave/margrave4.zip",
           "kind": "direct"
         }
       ]
@@ -48613,6 +49742,29 @@
       ]
     },
     {
+      "title": "Perfect Sudoku (????)",
+      "studio": "Magyarítások",
+      "studioUrl": "https://magyaritasok.hu",
+      "language": "Magyar",
+      "hasText": true,
+      "hasVoice": false,
+      "version": "1.0",
+      "updatedAt": "22.06.2014",
+      "requiredGameVersion": null,
+      "size": "551 KB",
+      "pageUrl": "https://magyaritasok.hu/games/perfect-sudoku",
+      "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
+      "authorsHtml": null,
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Magyarítások",
+          "url": "https://magyaritasok.hu/dl/perfectsudoku/perfectsudoku.zip",
+          "kind": "direct"
+        }
+      ]
+    },
+    {
       "title": "Ibiza Babewatch (????)",
       "studio": "Magyarítások",
       "studioUrl": "https://magyaritasok.hu",
@@ -48631,6 +49783,29 @@
         {
           "label": "Magyarítások",
           "url": "https://magyaritasok.hu/dl/ibizababewatch/ibizababewatch.zip",
+          "kind": "direct"
+        }
+      ]
+    },
+    {
+      "title": "Settlers of Catan (????)",
+      "studio": "Magyarítások",
+      "studioUrl": "https://magyaritasok.hu",
+      "language": "Magyar",
+      "hasText": true,
+      "hasVoice": false,
+      "version": null,
+      "updatedAt": "22.06.2014",
+      "requiredGameVersion": null,
+      "size": "2.08 MB",
+      "pageUrl": "https://magyaritasok.hu/games/settlers-of-catan",
+      "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
+      "authorsHtml": "<p>RaveAir</p>",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Magyarítások",
+          "url": "https://magyaritasok.hu/dl/SettlersofCatan/catan.zip",
           "kind": "direct"
         }
       ]
@@ -48659,6 +49834,29 @@
       ]
     },
     {
+      "title": "Street Rod 3 (????)",
+      "studio": "Magyarítások",
+      "studioUrl": "https://magyaritasok.hu",
+      "language": "Magyar",
+      "hasText": true,
+      "hasVoice": false,
+      "version": "0.44",
+      "updatedAt": "23.06.2014",
+      "requiredGameVersion": null,
+      "size": "234 KB",
+      "pageUrl": "https://magyaritasok.hu/games/street-rod-3",
+      "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
+      "authorsHtml": null,
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Magyarítások",
+          "url": "https://magyaritasok.hu/dl/StreetRod3/street_rod_3_magyar.zip",
+          "kind": "direct"
+        }
+      ]
+    },
+    {
       "title": "The Enchanted Kingdom: Elisa's Adventure (????)",
       "studio": "Magyarítások",
       "studioUrl": "https://magyaritasok.hu",
@@ -48677,6 +49875,29 @@
         {
           "label": "Magyarítások",
           "url": "https://magyaritasok.hu/dl/theenchantedkingdom/The_Enchanted_Kingdom_v1.0.rar",
+          "kind": "direct"
+        }
+      ]
+    },
+    {
+      "title": "Regnum Online (????)",
+      "studio": "Magyarítások",
+      "studioUrl": "https://magyaritasok.hu",
+      "language": "Magyar",
+      "hasText": true,
+      "hasVoice": false,
+      "version": null,
+      "updatedAt": "22.06.2014",
+      "requiredGameVersion": null,
+      "size": "143 KB",
+      "pageUrl": "https://magyaritasok.hu/games/regnum-online",
+      "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
+      "authorsHtml": "<p>Panyi</p>",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Magyarítások",
+          "url": "https://magyaritasok.hu/dl/regnumonline/regnumonlineintrohun.rar",
           "kind": "direct"
         }
       ]
@@ -48769,6 +49990,29 @@
         {
           "label": "Magyarítások",
           "url": "https://magyaritasok.hu/dl/puzzlehero/puzzle_hero_hun.exe",
+          "kind": "direct"
+        }
+      ]
+    },
+    {
+      "title": "Implausible Mission (????)",
+      "studio": "Magyarítások",
+      "studioUrl": "https://magyaritasok.hu",
+      "language": "Magyar",
+      "hasText": true,
+      "hasVoice": false,
+      "version": "1.0",
+      "updatedAt": "22.06.2014",
+      "requiredGameVersion": null,
+      "size": "4.69 MB",
+      "pageUrl": "https://magyaritasok.hu/games/implausible-mission",
+      "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
+      "authorsHtml": "<p>RaveAir</p>",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Magyarítások",
+          "url": "https://magyaritasok.hu/dl/ImplausibleMission/ImplausibleMission.zip",
           "kind": "direct"
         }
       ]
@@ -48964,13 +50208,13 @@
       "language": "Magyar",
       "hasText": true,
       "hasVoice": false,
-      "version": null,
+      "version": "1.0",
       "updatedAt": "15.06.2014",
       "requiredGameVersion": null,
       "size": "6 KB",
       "pageUrl": "https://magyaritasok.hu/games/magic-ball-3",
       "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
-      "authorsHtml": "<p>Panyi, RavenX</p>",
+      "authorsHtml": "<p>Panyi</p>",
       "inDevelopment": false,
       "mirrors": [
         {
@@ -49062,7 +50306,7 @@
       "size": "18.5 MB",
       "pageUrl": "https://magyaritasok.hu/games/quest-for-yrolg",
       "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
-      "authorsHtml": "<p>Dunstan</p>",
+      "authorsHtml": null,
       "inDevelopment": false,
       "mirrors": [
         {
@@ -49085,7 +50329,7 @@
       "size": "20.2 MB",
       "pageUrl": "https://magyaritasok.hu/games/warthogs",
       "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
-      "authorsHtml": "<p>Dunstan</p>",
+      "authorsHtml": null,
       "inDevelopment": false,
       "mirrors": [
         {

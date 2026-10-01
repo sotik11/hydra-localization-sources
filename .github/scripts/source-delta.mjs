@@ -88,8 +88,12 @@ const totalDelta = total - totalBefore;
 const lines = [];
 if (changed.length) lines.push(...changed);
 else lines.push("• изменений по источникам нет");
-if (same.length)
-  lines.push(`• без изменений: ${same.map(src).join(", ")}`);
+if (same.length) {
+  // Blank line before, the label underlined, but the source names plain (this
+  // line only — the changed-source lines above keep their <u>name</u>).
+  lines.push("");
+  lines.push(`• <u>без изменений</u>: ${same.map(esc).join(", ")}`);
+}
 lines.push("");
 lines.push(
   `<u>Итого</u>: ${num(total)} записей (${num(`${totalDelta > 0 ? "+" : ""}${totalDelta}`)})`

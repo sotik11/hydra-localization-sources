@@ -5,6 +5,109 @@
   "siteUrl": "https://boosty.to/revoice",
   "localizations": [
     {
+      "title": "Dawnwalker",
+      "studio": "ReVoiceAI",
+      "studioUrl": "https://boosty.to/revoice",
+      "language": "Русский",
+      "hasText": false,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralText": false,
+      "hasNeuralDub": true,
+      "hasNeuralVoice": true,
+      "version": "1.0",
+      "updatedAt": null,
+      "pageUrl": "https://boosty.to/revoice/posts/f67fde07-e9fa-44b1-b9e1-dbe289fff04e",
+      "howToInstallHtml": "<p>Нейроозвучка от <strong>ReVoiceAI</strong>. Скачай через одно из зеркал выше (ShareMods — облако, PlayGround — их страница) и запусти <code>.exe</code>-установщик, указав путь к игре. Поддержать авторов можно на их <a href=\"https://boosty.to/revoice\">Boosty</a>.</p>",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "ShareMods (Дубляж)",
+          "url": "https://sharemods.com/vrhibskw4ggg/Dawnwalker_dub.zip.html",
+          "kind": "other"
+        },
+        {
+          "label": "MEGA (Дубляж)",
+          "url": "https://mega.nz/file/f2ZyyIAa#uOHGyEk0IiiIVQconw6wFpQ6A0KeST5mpClAUy1Qwxw",
+          "kind": "other"
+        },
+        {
+          "label": "Google Drive (Закадр)",
+          "url": "https://drive.google.com/file/d/1Z--q9avvnQCGC08VbVjrHEN0zLG5xJFz/view",
+          "kind": "other"
+        },
+        {
+          "label": "ShareMods (Закадр)",
+          "url": "https://sharemods.com/1ok14hz6cwrx/Dawnwalker_voiceover.zip.html",
+          "kind": "other"
+        },
+        {
+          "label": "MEGA (Закадр)",
+          "url": "https://mega.nz/file/uqQWFJCa#r0g38gSAuKxsXQF0M6ZMf6m5GDnEp6bsZ6hTNMQYKns",
+          "kind": "other"
+        },
+        {
+          "label": "Google Drive (Закадр)",
+          "url": "https://drive.google.com/file/d/1-i209gmiyXXC-bbuPb0YRQ9fAE7sWYDR/view",
+          "kind": "other"
+        },
+        {
+          "label": "Boosty (поддержать авторов)",
+          "url": "https://boosty.to/revoice/posts/f67fde07-e9fa-44b1-b9e1-dbe289fff04e",
+          "kind": "other"
+        }
+      ]
+    },
+    {
+      "steamAppId": "1575990",
+      "title": "Twisted Tower",
+      "studio": "ReVoiceAI",
+      "studioUrl": "https://boosty.to/revoice",
+      "language": "Русский",
+      "hasText": false,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralText": false,
+      "hasNeuralDub": false,
+      "hasNeuralVoice": true,
+      "version": null,
+      "updatedAt": null,
+      "pageUrl": "https://www.playground.ru/twisted_tower/file/twisted_tower_2026_polnaya_ii_ozvuchka_dublyazh_i_zakadr-1870848",
+      "howToInstallHtml": "<p>Нейроозвучка от <strong>ReVoiceAI</strong>. Скачай через одно из зеркал выше (ShareMods — облако, PlayGround — их страница) и запусти <code>.exe</code>-установщик, указав путь к игре. Поддержать авторов можно на их <a href=\"https://boosty.to/revoice\">Boosty</a>.</p>",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Boosty (поддержать авторов)",
+          "url": "https://boosty.to/revoice/posts/674d3d0c-05ce-4c17-8747-8f90cffc3135",
+          "kind": "other"
+        }
+      ]
+    },
+    {
+      "title": "Gears of War 2 Hollow",
+      "studio": "ReVoiceAI",
+      "studioUrl": "https://boosty.to/revoice",
+      "language": "Русский",
+      "hasText": false,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralText": false,
+      "hasNeuralDub": true,
+      "hasNeuralVoice": true,
+      "version": null,
+      "updatedAt": null,
+      "pageUrl": "https://www.playground.ru/gears_of_war_2/file/gears_of_war_2_hollow_polnaya_ii_ozvuchka_dublyazh_i_zakadr-1867147",
+      "howToInstallHtml": "<p>Нейроозвучка от <strong>ReVoiceAI</strong>. Скачай через одно из зеркал выше (ShareMods — облако, PlayGround — их страница) и запусти <code>.exe</code>-установщик, указав путь к игре. Поддержать авторов можно на их <a href=\"https://boosty.to/revoice\">Boosty</a>.</p>",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Boosty (поддержать авторов)",
+          "url": "https://boosty.to/revoice/posts/94aa5168-a184-477e-aec7-1a73eff58f61",
+          "kind": "other"
+        }
+      ]
+    },
+    {
       "title": "Resynced",
       "studio": "ReVoiceAI",
       "studioUrl": "https://boosty.to/revoice",
@@ -419,9 +522,9 @@
       "hasNeuralText": false,
       "hasNeuralDub": true,
       "hasNeuralVoice": true,
-      "version": "0.5.1",
+      "version": null,
       "updatedAt": null,
-      "pageUrl": "https://www.playground.ru/red_dead_redemption/file/russkaya_ii_ozvuchka_dlya_rdr_1-1831123",
+      "pageUrl": "https://www.playground.ru/red_dead_redemption/file/red_dead_redemption_russkaya_ozvuchka_ot_ii_v0_5_1_revoiceai-1831123",
       "howToInstallHtml": "<p>Нейроозвучка от <strong>ReVoiceAI</strong>. Скачай через одно из зеркал выше (ShareMods — облако, PlayGround — их страница) и запусти <code>.exe</code>-установщик, указав путь к игре. Поддержать авторов можно на их <a href=\"https://boosty.to/revoice\">Boosty</a>.</p>",
       "inDevelopment": false,
       "mirrors": [
@@ -446,13 +549,23 @@
           "kind": "other"
         },
         {
+          "label": "ShareMods (Дубляж Matched)",
+          "url": "https://sharemods.com/iqe529nhfnl1/RDR1_dub_matched_v1.5.zip.html",
+          "kind": "other"
+        },
+        {
+          "label": "ShareMods (Закадр)",
+          "url": "https://sharemods.com/j3ovvmxubsd6/RDR1_voiceover_v1.5.zip.html",
+          "kind": "other"
+        },
+        {
           "label": "MEGA (Закадр)",
           "url": "https://mega.nz/file/OnwwlQ4S#EupHZ33YO8j-ila6aS48uoPu6u53-Obkvf5zxjyvFeg",
           "kind": "other"
         },
         {
           "label": "Boosty (поддержать авторов)",
-          "url": "https://boosty.to/revoice/posts/b869ac6a-7722-4520-bdbd-bdd3660a6cae",
+          "url": "https://boosty.to/revoice/posts/342ab12a-e8de-4945-a886-eb53f954939f",
           "kind": "other"
         }
       ]
