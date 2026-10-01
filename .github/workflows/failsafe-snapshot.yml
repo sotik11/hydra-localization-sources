@@ -28,14 +28,17 @@ jobs:
       - name: Checkout repo (both branches)
         uses: actions/checkout@v4
         with:
+          # Always work on main, whatever ref the run was triggered from.
+          ref: main
           fetch-depth: 0
           # We push to main below; use the built-in token.
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Fetch branches
-        run: |
-          git fetch origin main:main stable:stable
-          git checkout main
+      - name: Fetch stable
+        # Only stable: main is the checked-out branch, and git refuses to fetch
+        # into it ("refusing to fetch into branch … checked out") — that killed
+        # every run of this workflow until 2026-10.
+        run: git fetch origin stable:stable
 
       - name: Materialize stable data into a sibling dir for comparison
         run: |
@@ -52,7 +55,7 @@ jobs:
       - name: Setup Node
         uses: actions/setup-node@v4
         with:
-          node-version: "20"
+          node-version: "22"
 
       - name: Run sanity check
         id: sanity
