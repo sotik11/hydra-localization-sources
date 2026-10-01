@@ -68,7 +68,8 @@ async function discoverAnonKey() {
 async function fetchGames(key) {
   const url =
     `${SUPABASE}/rest/v1/games?select=name,slug,steam_app_id,team,status,` +
-    `translation_progress,version,archive_path,voice_archive_path,updated_at` +
+    `translation_progress,version,archive_path,voice_archive_path,updated_at,` +
+    `translation_updated_at` +
     `&approved=eq.true&hide=eq.false&order=name.asc&limit=2000`;
   // tries: 1 — a 401 will not get better on a retry.
   return getJson(url, { headers: { apikey: key, Authorization: `Bearer ${key}` }, tries: 1 });
@@ -116,7 +117,10 @@ function buildEntry(game) {
     hasText: Boolean(game.archive_path),
     hasVoice: Boolean(game.voice_archive_path),
     version: game.version ?? null,
-    updatedAt: formatDate(game.updated_at),
+    // translation_updated_at is when the TRANSLATION changed; updated_at is the
+    // row's last write and moves on any edit (2/3 of the catalogue "updated" in
+    // one month), so it is only the fallback.
+    updatedAt: formatDate(game.translation_updated_at ?? game.updated_at),
     pageUrl,
     howToInstallHtml: HOW_TO_INSTALL,
     authorsHtml: game.team ? `<p>${String(game.team).trim()}</p>` : null,
