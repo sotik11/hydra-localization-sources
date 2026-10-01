@@ -2,10 +2,20 @@
 # Final clean re-generation of every source base.
 #   1. snapshot each data/<name>.json -> data/<name>.json.backup
 #   2. regen in dependency order (revoiceai -> playground -> synthvoiceru, rest after)
-#   3. degradation guard: if a fresh base has < 50% of its backup's entries,
-#      restore from the backup (a throttled run must not clobber good data)
+#   3. degradation guard: if a generator fails, or a fresh base lost more than
+#      MAX_DROP_PCT of its backup's entries, restore from the backup (a crashed
+#      or throttled run must not clobber good data)
+#   4. every restored source is written to $REGEN_FAILED_FILE as "name|reason",
+#      so the notification can say so. A restored source has the same count as
+#      before and used to be reported as "no changes" — that is how a generator
+#      that crashed every day (LBK, rotated API key) went unnoticed for 2 months.
 set -u
 cd "$(dirname "$0")"
+
+MAX_DROP_PCT=15
+REGEN_FAILED_FILE="${REGEN_FAILED_FILE:-/tmp/regen-failed.txt}"
+: > "$REGEN_FAILED_FILE"
+GEN_LOG="$(mktemp 2>/dev/null || echo /tmp/regen-gen.log)"
 
 BASES="gpp hernipreklady komunitni-preklady kuli lbk lokalizace magyaritasok mvo playground revoiceai synthvoiceru tribogamer turkce-yama calypsoceviri"
 ORDER="revoiceai playground synthvoiceru gpp hernipreklady komunitni-preklady kuli lbk lokalizace magyaritasok mvo tribogamer turkce-yama calypsoceviri"
@@ -40,13 +50,29 @@ echo "=== 2. regenerate ($ORDER) ==="
 SUMMARY=""
 for g in $ORDER; do
   echo ">>> $g ($(date +%H:%M:%S))"
-  node "generators/$g.mjs" 2>&1 | tail -1
+  node "generators/$g.mjs" > "$GEN_LOG" 2>&1
+  rc=$?
+  tail -1 "$GEN_LOG"
   new=$(count "data/$g.json"); bak=$(count "data/$g.json.backup")
-  # degradation guard
-  if [ "$bak" -gt 0 ] && [ "$new" -lt $((bak / 2)) ]; then
-    echo "  !! $g degraded ($new < 50% of $bak) -> restoring backup"
-    cp -f "data/$g.json.backup" "data/$g.json"
-    SUMMARY="$SUMMARY\n  $g: $new (DEGRADED -> restored $bak)"
+  floor=$(( bak * (100 - MAX_DROP_PCT) / 100 ))
+
+  why=""
+  if [ "$rc" -ne 0 ]; then
+    why="генератор упал (код $rc)"
+    # the real error is above the last line — show it instead of swallowing it
+    echo "  !! $g exited $rc — last lines:"; tail -15 "$GEN_LOG" | sed 's/^/     /'
+  elif [ "$bak" -gt 0 ] && [ "$new" -lt "$floor" ]; then
+    why="обвал ($bak → $new)"
+    echo "  !! $g degraded ($new < $floor = -${MAX_DROP_PCT}% of $bak)"
+  fi
+
+  if [ -n "$why" ]; then
+    if [ -f "data/$g.json.backup" ]; then
+      echo "  -> restoring backup ($bak)"
+      cp -f "data/$g.json.backup" "data/$g.json"
+    fi
+    echo "$g|$why" >> "$REGEN_FAILED_FILE"
+    SUMMARY="$SUMMARY\n  $g: $new (FAILED: $why -> restored $bak)"
   else
     SUMMARY="$SUMMARY\n  $g: $new (backup $bak)"
   fi

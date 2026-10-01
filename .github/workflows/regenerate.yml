@@ -75,6 +75,17 @@ jobs:
           # "paths are ignored by one of your .gitignore files" (candidates.json
           # per source + steam-applist.json cache).
           git add -- 'data/*.json' ':(exclude)data/*.candidates.json' ':(exclude)data/steam-applist.json'
+          # Sources regen_all.sh had to restore (generator crashed / feed collapsed).
+          # Their count is unchanged, so without this they'd read as "no changes".
+          FAILED=""
+          if [ -s /tmp/regen-failed.txt ]; then
+            FAILED=$(node .github/scripts/source-delta.mjs --failed /tmp/regen-failed.txt)
+          fi
+          {
+            echo "failed<<FAILED_EOF"
+            echo "${FAILED}"
+            echo "FAILED_EOF"
+          } >> "$GITHUB_OUTPUT"
           if git diff --staged --quiet; then
             echo "No data changes."
             echo "changes=false" >> "$GITHUB_OUTPUT"
@@ -97,12 +108,23 @@ jobs:
           CHAT: ${{ secrets.TELEGRAM_CHAT_ID }}
           CHANGES: ${{ steps.commit.outputs.changes }}
           SUMMARY: ${{ steps.commit.outputs.summary }}
+          FAILED: ${{ steps.commit.outputs.failed }}
           RUN_URL: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}
         run: |
-          if [ "${CHANGES}" = "true" ]; then
-            TEXT=$'✅ <b>regenerate OK — данные обновлены</b>\n\n'"${SUMMARY}"$'\n\nЗапушено в <code>stable</code>. <a href="'"${RUN_URL}"$'">run</a>'
+          # A source that crashed and was restored must be loud, not "no changes".
+          if [ -n "${FAILED}" ]; then
+            HEAD_OK=$'⚠️ <b>regenerate — есть сбои</b>'
+            TAIL=$'\n\n'"${FAILED}"
           else
-            TEXT=$'✅ <b>regenerate OK — изменений нет</b>\n\nВсе источники вернули то же самое. <a href="'"${RUN_URL}"$'">run</a>'
+            HEAD_OK=""
+            TAIL=""
+          fi
+          if [ "${CHANGES}" = "true" ]; then
+            if [ -z "${HEAD_OK}" ]; then HEAD_OK=$'✅ <b>regenerate OK — данные обновлены</b>'; fi
+            TEXT="${HEAD_OK}"$'\n\n'"${SUMMARY}${TAIL}"$'\n\nЗапушено в <code>stable</code>. <a href="'"${RUN_URL}"$'">run</a>'
+          else
+            if [ -z "${HEAD_OK}" ]; then HEAD_OK=$'✅ <b>regenerate OK — изменений нет</b>'; fi
+            TEXT="${HEAD_OK}"$'\n\nНовых данных нет.'"${TAIL}"$'\n\n<a href="'"${RUN_URL}"$'">run</a>'
           fi
           curl -s -X POST "https://api.telegram.org/bot${TOKEN}/sendMessage" \
             --data-urlencode "chat_id=${CHAT}" \
