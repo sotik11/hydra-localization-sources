@@ -4139,7 +4139,7 @@
       "version": "1",
       "updatedAt": "23.06.2026",
       "pageUrl": "https://www.calypsoceviri.com/turkce-yamalar/killing-floor-3-turkce-yama-indir",
-      "howToInstallHtml": "<div>Aşağıda vermiş olduğumuz linkten indirdiğiniz Rar dosyasındaki Türkçe Yama exesini, oyunun kurulu olduğu ana dosya konumuna atarak, Türkçe yama exesini çalıştırın. Oyunun ana dosya konumunun seçili olduğunu kontrol ettikten sonra, hangi platformdan oynuyorsanız, o platformun yükle butonuna basarak yamayı yükleyebilirsiniz.<br><br>Yamayı kaldırmak için dosya konumundaki KilingFloor3_YamaKaldır.exe den yamayı kaldırabilirsiniz.</div>",
+      "howToInstallHtml": "<div>Aşağıda vermi\u0000ş olduğumuz linkten indirdiğiniz Rar dosyasındaki Türkçe Yama exesini, oyunun kurulu olduğu ana dosya konumuna atarak, Türkçe yama exesini çalıştırın. Oyunun ana dosya konumunun seçili olduğunu kontrol ettikten sonra, hangi platformdan oynuyorsanız, o platformun yükle butonuna basarak yamayı yükleyebilirsiniz.<br><br>Yamayı kaldırmak için dosya konumundaki KilingFloor3_YamaKaldır.exe den yamayı kaldırabilirsiniz.</div>",
       "authorsHtml": "<p>VolkTyson, Indra</p>",
       "size": "2.94 MB",
       "inDevelopment": false,
@@ -5675,17 +5675,17 @@
       "hasNeuralVoice": false,
       "hasNeuralDub": false,
       "hasNeuralText": false,
-      "version": "2",
-      "updatedAt": "23.06.2026",
+      "version": "3",
+      "updatedAt": "01.10.2026",
       "pageUrl": "https://www.calypsoceviri.com/turkce-yamalar/raft-turkce-yama-indir",
       "howToInstallHtml": "<div>Aşağıda vermiş olduğumuz linkten indirdiğiniz Rar dosyasındaki Türkçe Yama exesini, oyunun kurulu olduğu ana dosya konumuna atarak, Türkçe yama exesini çalıştırın. Oyunun ana dosya konumunun seçili olduğunu kontrol ettikten sonra, hangi platformdan oynuyorsanız, o platformun yükle butonuna basarak yamayı yükleyebilirsiniz.<br><br>Yamayı kaldırmak için oyunun dosyalarını doğrulamanız gerekiyor.</div>",
       "authorsHtml": "<p>VolkTyson</p>",
-      "size": "3.28 MB",
+      "size": null,
       "inDevelopment": false,
       "mirrors": [
         {
           "label": "Calypso Çeviri",
-          "url": "https://www.calypsoceviri.com/_files/archives/7d262d_bdeffec0745440c6824db4714769afdc.rar?dn=Raft%2520T%25C3%25BCrk%25C3%25A7e%2520Yama%2520V2.rar",
+          "url": "https://www.calypsoceviri.com/_files/archives/7d262d_ae1d858bc46f429b909f46a28938eeb8.zip?dn=Raft%2520T%25C3%25BCrk%25C3%25A7e%2520Yama%2520V3.zip",
           "kind": "direct"
         }
       ],
@@ -5879,6 +5879,33 @@
         }
       ],
       "steamAppId": "1817190"
+    },
+    {
+      "title": "Soulmask",
+      "studio": "Calypso Çeviri",
+      "studioUrl": "https://www.calypsoceviri.com",
+      "language": "Türkçe",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": "12",
+      "updatedAt": "03.09.2026",
+      "pageUrl": "https://www.calypsoceviri.com/turkce-yamalar/soulmask-turkce-yama-indir",
+      "howToInstallHtml": "<div>Aşağıda vermiş olduğumuz linkten indirdiğiniz Rar dosyasındaki Türkçe Yama exesini, oyunun kurulu olduğu ana dosya konumuna atarak, Türkçe yama exesini çalıştırın. Oyunun ana dosya konumunun seçili olduğunu kontrol ettikten sonra, hangi platformdan oynuyorsanız, o platformun yükle butonuna basarak yamayı yükleyebilirsiniz. Yama yüklendikten sonra rar dosyasındaki kurulum notlarında yazan adımları, sırasıyla eksiksiz olarak tamamlamanız gerekiyor.<br><br>Yamayı kaldırmak için dosya konumundaki Soulmask_YamaKaldir.exe den yamayı kaldırabilirsiniz.</div>",
+      "authorsHtml": "<p>VolkTyson</p>",
+      "size": "4.34 MB",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Calypso Çeviri",
+          "url": "https://www.calypsoceviri.com/_files/archives/7d262d_885ae55ac4a241cda1ef1c1073c3bc16.zip?dn=Soulmask%2520T%25C3%25BCrk%25C3%25A7e%2520Yama%2520V12.zip",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "2646460"
     },
     {
       "title": "The Elder Scrolls IV: Oblivion Remastered",
@@ -6299,7 +6326,7 @@
       "version": null,
       "updatedAt": "23.06.2026",
       "pageUrl": "https://www.calypsoceviri.com/turkce-yamalar/gylt-turkce-yama-indir",
-      "howToInstallHtml": "<div>Aşağıda vermiş olduğumuz linkten indirdiğiniz Rar dosyasındaki Türkçe Yama exesini, oyunun kurulu olduğu ana dosya konumuna atarak, Türkçe yama exesini çalıştırın. Oyunun ana dosya konumunun seçili olduğunu kontrol ettikten sonra, hangi platformdan oynuyorsanız, o platformun yükle butonuna basarak yamayı yükleyebilirsiniz.<br><br>Yamayı kaldırmak için dosya konumundaki GYLT_YamaKaldir.exe den yamayı kaldırabilirsiniz.</div>",
+      "howToInstallHtml": "<div>Aşağıda vermiş olduğumuz linkten indirdiğiniz Rar dosyasındaki Türkçe Yama exesini, oyunun kurulu olduğu ana dosya konumuna atarak, T\u0000ürkçe yama exesini çalıştırın. Oyunun ana dosya konumunun seçili olduğunu kontrol ettikten sonra, hangi platformdan oynuyorsanız, o platformun yükle butonuna basarak yamayı yükleyebilirsiniz.<br><br>Yamayı kaldırmak için dosya konumundaki GYLT_YamaKaldir.exe den yamayı kaldırabilirsiniz.</div>",
       "authorsHtml": "<p>VolkTyson</p>",
       "size": "1.36 MB",
       "inDevelopment": false,
@@ -6687,7 +6714,7 @@
           "kind": "direct"
         }
       ],
-      "steamAppId": "3714400"
+      "steamAppId": "3129050"
     },
     {
       "title": "Darksiders Genesis",

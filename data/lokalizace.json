@@ -1044,7 +1044,7 @@
       "updatedAt": null,
       "pageUrl": "https://lokalizace.net/localizations/prim",
       "howToInstallHtml": "<p>Stáhněte ZIP soubor a rozbalte ho do složky hry, nebo použijte aplikaci CZManager pro automatickou instalaci češtiny.</p>",
-      "changelogHtml": "<div><p><strong>Nová verze 1.0</strong></p><p>Ahoj všem příznivcům adventur!</p><p>Právě vydáváme český překlad hry PRIM.</p><p>Jde o point-and-click adventuru, pojednávající o dospívající dceři vládce podsvětí, která začne slyšet záhadné volání o pomoc ze světa živých. Přes zákaz otce se vydává pátrat po jeho původu a během cesty řeší hádanky a odhaluje tajemství. Hra kombinuje řeckou mytologii, gotickou atmosféru a ručně kreslenou černobílou grafiku inspirovanou Timem Burtonem.</p><p>Užijte si hru, pořádně potrapte mozkové závity a hlavně si celé dobrodružství užijte!</p><p>Verze: Steam a GOG</p><p>Váš tým </p><p>ADV Dream</p></div>",
+      "changelogHtml": "<div><p><strong>Nová verze 1.0</strong></p><p>Překlad pouze do Steam verze hry</p><p><strong>Nová verze 1.0</strong></p><p>Překlad pouze do GoG verze hry</p></div>",
       "authorsHtml": "<p>ADV Dream</p>",
       "size": null,
       "inDevelopment": true,
@@ -1417,7 +1417,7 @@
       "updatedAt": null,
       "pageUrl": "https://lokalizace.net/localizations/007-first-light-1",
       "howToInstallHtml": "<p>Stáhněte ZIP soubor a rozbalte ho do složky hry, nebo použijte aplikaci CZManager pro automatickou instalaci češtiny.</p>",
-      "changelogHtml": "<div><p><strong>Nová verze 1.2.5</strong></p><ul><li><p>dalsi sada oprav :)</p></li></ul><p></p><p><strong>Nová verze 1.2.0</strong></p><ul><li><p>chybjejici texty po posledni aktualizaci hry</p></li></ul><p></p><p><strong>Nová verze 1.1.5</strong></p><ul><li><p>tohle je poslední a finální verze :) huraa</p></li></ul><p></p></div>",
+      "changelogHtml": "<div><p><strong>Nová verze 1.3.1</strong></p><ul><li><p>doprelozeno z novehou updatu</p></li></ul><p></p></div>",
       "authorsHtml": "<p>Lokalizace.Net</p>",
       "size": null,
       "inDevelopment": true,
@@ -4067,6 +4067,28 @@
       "mirrors": []
     },
     {
+      "title": "Life is Strange: Reunion",
+      "studio": "Lokalizace.net",
+      "studioUrl": "https://lokalizace.net/localizations/life-is-strange-reunion",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": null,
+      "updatedAt": null,
+      "pageUrl": "https://lokalizace.net/localizations/life-is-strange-reunion",
+      "howToInstallHtml": "<p>Stáhněte ZIP soubor a rozbalte ho do složky hry, nebo použijte aplikaci CZManager pro automatickou instalaci češtiny.</p>",
+      "changelogHtml": null,
+      "authorsHtml": "<p>Spyker Tým</p>",
+      "size": null,
+      "inDevelopment": true,
+      "mirrors": [],
+      "steamAppId": "2624870"
+    },
+    {
       "title": "Tails Noir Prologue",
       "studio": "Lokalizace.net",
       "studioUrl": "https://lokalizace.net/localizations/tails-noir-prologue",
@@ -5354,6 +5376,28 @@
       "inDevelopment": true,
       "mirrors": [],
       "steamAppId": "1143810"
+    },
+    {
+      "title": "The Precinct",
+      "studio": "Lokalizace.net",
+      "studioUrl": "https://lokalizace.net/localizations/the-precinct",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": null,
+      "updatedAt": null,
+      "pageUrl": "https://lokalizace.net/localizations/the-precinct",
+      "howToInstallHtml": "<p>Stáhněte ZIP soubor a rozbalte ho do složky hry, nebo použijte aplikaci CZManager pro automatickou instalaci češtiny.</p>",
+      "changelogHtml": "<div><p><strong>Nová verze 4.0</strong></p><p>Vydána nová cz s dopřekladem pro verzi hry 1.13.24987.</p></div>",
+      "authorsHtml": "<p>Sumilek86</p>",
+      "size": null,
+      "inDevelopment": true,
+      "mirrors": [],
+      "steamAppId": "490110"
     },
     {
       "title": "Chessmaster 11: Grandmaster Edition",
@@ -13062,7 +13106,7 @@
       "size": null,
       "inDevelopment": true,
       "mirrors": [],
-      "steamAppId": "1505430"
+      "steamAppId": "212410"
     },
     {
       "title": "Stellaris",
@@ -14900,7 +14944,8 @@
       "authorsHtml": "<p>ADV Dream</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": []
+      "mirrors": [],
+      "steamAppId": "292910"
     },
     {
       "title": "Deponia Doomsday",
@@ -15031,7 +15076,8 @@
       "authorsHtml": "<p>ADV Dream</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": []
+      "mirrors": [],
+      "steamAppId": "368370"
     },
     {
       "title": "Dead mountaineer's hotel",
@@ -15182,7 +15228,8 @@
       "authorsHtml": "<p>Lokalizace.Net</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": []
+      "mirrors": [],
+      "steamAppId": "287630"
     },
     {
       "title": "Vampyr",
@@ -15203,7 +15250,8 @@
       "authorsHtml": "<p>Lokalizace.Net</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": []
+      "mirrors": [],
+      "steamAppId": "427290"
     },
     {
       "title": "Resident Evil Village",
@@ -15310,7 +15358,8 @@
       "authorsHtml": "<p>ADV Dream</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": []
+      "mirrors": [],
+      "steamAppId": "18480"
     },
     {
       "title": "The Rockin' Dead",
@@ -15395,7 +15444,8 @@
       "authorsHtml": "<p>ADV Dream</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": []
+      "mirrors": [],
+      "steamAppId": "34800"
     },
     {
       "title": "Art of Murder 3: Cards of the Destiny",
@@ -15501,7 +15551,8 @@
       "authorsHtml": "<p>Lokalizace.Net</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": []
+      "mirrors": [],
+      "steamAppId": "1544020"
     },
     {
       "title": "Resident Evil 4 (Remake)",
@@ -15654,7 +15705,8 @@
       "authorsHtml": "<p>Czech dubbing</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": []
+      "mirrors": [],
+      "steamAppId": "292030"
     },
     {
       "title": "BLOODMONEY: REQUIEM",
@@ -15784,7 +15836,8 @@
       "authorsHtml": "<p>Lokalizace.Net</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": []
+      "mirrors": [],
+      "steamAppId": "312670"
     },
     {
       "title": "Arctic Awakening",
@@ -16024,7 +16077,8 @@
       "authorsHtml": "<p>Lokalizace.Net</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": []
+      "mirrors": [],
+      "steamAppId": "2769570"
     },
     {
       "title": "METAL GEAR SOLID: Peace Walker - Master Collection Vol.2",
@@ -16111,7 +16165,8 @@
       "authorsHtml": "<p>ADV Dream</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": []
+      "mirrors": [],
+      "steamAppId": "1542390"
     },
     {
       "title": "Luto",
@@ -16507,28 +16562,6 @@
       "steamAppId": "3048060"
     },
     {
-      "title": "Life is Strange: Reunion",
-      "studio": "Lokalizace.net",
-      "studioUrl": "https://lokalizace.net/localizations/life-is-strange-reunion",
-      "language": "Čeština",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": null,
-      "updatedAt": null,
-      "pageUrl": "https://lokalizace.net/localizations/life-is-strange-reunion",
-      "howToInstallHtml": "<p>Stáhněte ZIP soubor a rozbalte ho do složky hry, nebo použijte aplikaci CZManager pro automatickou instalaci češtiny.</p>",
-      "changelogHtml": null,
-      "authorsHtml": "<p>Spyker Tým</p>",
-      "size": null,
-      "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "2624870"
-    },
-    {
       "title": "Final Fantasy XV (PC)",
       "studio": "Lokalizace.net",
       "studioUrl": "https://lokalizace.net/localizations/final-fantasy-xv-pc",
@@ -16612,7 +16645,8 @@
       "authorsHtml": "<p>Mikošek Dubbing</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": []
+      "mirrors": [],
+      "steamAppId": "417860"
     },
     {
       "title": "Deltarune",
@@ -16657,28 +16691,6 @@
       "inDevelopment": true,
       "mirrors": [],
       "steamAppId": "1182310"
-    },
-    {
-      "title": "The Precinct",
-      "studio": "Lokalizace.net",
-      "studioUrl": "https://lokalizace.net/localizations/the-precinct",
-      "language": "Čeština",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": null,
-      "updatedAt": null,
-      "pageUrl": "https://lokalizace.net/localizations/the-precinct",
-      "howToInstallHtml": "<p>Stáhněte ZIP soubor a rozbalte ho do složky hry, nebo použijte aplikaci CZManager pro automatickou instalaci češtiny.</p>",
-      "changelogHtml": null,
-      "authorsHtml": "<p>Sumilek86</p>",
-      "size": null,
-      "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "490110"
     },
     {
       "title": "Pathfinder - Wrath of the Righteous",
