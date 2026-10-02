@@ -11559,6 +11559,34 @@
       "steamAppId": "42640"
     },
     {
+      "title": "Eets Munchies",
+      "studio": "Tribo Gamer",
+      "studioUrl": "https://tribogamer.com/traducoes/62_traducao-do-eets-munchies-para-portugues-do-brasil.html",
+      "language": "Português (Brasil)",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": "1.00",
+      "updatedAt": "01/10/2026",
+      "pageUrl": "https://tribogamer.com/traducoes/62_traducao-do-eets-munchies-para-portugues-do-brasil.html",
+      "howToInstallHtml": "<p>As traduções da Tribo Gamer são instaladores (.exe). Baixe o arquivo, execute o instalador e siga as instruções na tela — a instalação é automática.</p>",
+      "changelogHtml": null,
+      "authorsHtml": "<p><strong>Administrador:</strong> xedoc</p><p><strong>Tradutores:</strong> xedoc</p><p><strong>Revisores:</strong> xedoc</p><p><strong>Tests-ingame:</strong> xedoc</p><p><strong>Instalador:</strong> H3rdell</p>",
+      "size": "484 KB",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Tribo Gamer",
+          "url": "http://s1.ttriber.com/traducoes/download/cdn/970071/eets_munchies_br-v1.00[tribogamer.com].exe",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "214550"
+    },
+    {
       "title": "DeathSpank",
       "studio": "Tribo Gamer",
       "studioUrl": "https://tribogamer.com/traducoes/61_traducao-do-deathspank-para-portugues-do-brasil.html",
