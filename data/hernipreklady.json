@@ -5,6 +5,34 @@
   "siteUrl": "https://hernipreklady.cz",
   "localizations": [
     {
+      "title": "Graveyard Keeper 2",
+      "studio": "HerníPřeklady",
+      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/graveyard-keeper-2",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": "1.03",
+      "updatedAt": null,
+      "requiredGameVersion": "1.007.1+ (Win/PC)",
+      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/graveyard-keeper-2",
+      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
+      "authorsHtml": "<p><strong>Překlad:</strong> Jetro<br><strong>Testování:</strong> Jetro, Andrewek</p>",
+      "inDevelopment": false,
+      "size": "2.33 MB",
+      "mirrors": [
+        {
+          "label": "HerníPřeklady",
+          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=625",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "4358690"
+    },
+    {
       "title": "Anno 117",
       "studio": "HerníPřeklady",
       "studioUrl": "https://hernipreklady.cz/seznam-prekladu/anno-117",
@@ -58,34 +86,6 @@
         }
       ],
       "steamAppId": "1425980"
-    },
-    {
-      "title": "Graveyard Keeper 2",
-      "studio": "HerníPřeklady",
-      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/graveyard-keeper-2",
-      "language": "Čeština",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": "1.02",
-      "updatedAt": null,
-      "requiredGameVersion": "1.007+ (Win/PC)",
-      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/graveyard-keeper-2",
-      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
-      "authorsHtml": "<p><strong>Překlad:</strong> Jetro<br><strong>Testování:</strong> Jetro, Andrewek</p>",
-      "inDevelopment": false,
-      "size": "2.33 MB",
-      "mirrors": [
-        {
-          "label": "HerníPřeklady",
-          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=622",
-          "kind": "direct"
-        }
-      ],
-      "steamAppId": "4358690"
     },
     {
       "title": "Cthulhu: The Cosmic Abyss",
@@ -227,6 +227,62 @@
       "steamAppId": "2185060"
     },
     {
+      "title": "Code Vein 2",
+      "studio": "HerníPřeklady",
+      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/code-vein-2",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": "1.1",
+      "updatedAt": "26.04.2026",
+      "requiredGameVersion": "1.0.9",
+      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/code-vein-2",
+      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
+      "authorsHtml": null,
+      "inDevelopment": false,
+      "size": "1.12 MB",
+      "mirrors": [
+        {
+          "label": "HerníPřeklady",
+          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=565",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "2362060"
+    },
+    {
+      "title": "The Invincible",
+      "studio": "HerníPřeklady",
+      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/the-invincible",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": "1.70",
+      "updatedAt": "21.10.2025",
+      "requiredGameVersion": "Patch 1.7 - Cosmic Pierogi",
+      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/the-invincible",
+      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
+      "authorsHtml": null,
+      "inDevelopment": false,
+      "size": "32.5 MB",
+      "mirrors": [
+        {
+          "label": "HerníPřeklady",
+          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=442",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "731040"
+    },
+    {
       "title": "Frostpunk 2",
       "studio": "HerníPřeklady",
       "studioUrl": "https://hernipreklady.cz/seznam-prekladu/frostpunk-2",
@@ -337,34 +393,6 @@
         }
       ],
       "steamAppId": "2005090"
-    },
-    {
-      "title": "Code Vein 2",
-      "studio": "HerníPřeklady",
-      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/code-vein-2",
-      "language": "Čeština",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": "1.1",
-      "updatedAt": "26.04.2026",
-      "requiredGameVersion": "1.0.9",
-      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/code-vein-2",
-      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
-      "authorsHtml": null,
-      "inDevelopment": false,
-      "size": "1.12 MB",
-      "mirrors": [
-        {
-          "label": "HerníPřeklady",
-          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=565",
-          "kind": "direct"
-        }
-      ],
-      "steamAppId": "2362060"
     },
     {
       "title": "Cairn",
@@ -624,7 +652,7 @@
       "hasNeuralDub": false,
       "hasNeuralText": false,
       "version": "0.94",
-      "updatedAt": null,
+      "updatedAt": "01.09.2026",
       "requiredGameVersion": "0.8.5.650920",
       "pageUrl": "https://hernipreklady.cz/seznam-prekladu/the-last-caretaker",
       "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
@@ -1522,34 +1550,6 @@
         }
       ],
       "steamAppId": "1881120"
-    },
-    {
-      "title": "The Invincible",
-      "studio": "HerníPřeklady",
-      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/the-invincible",
-      "language": "Čeština",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": "1.70",
-      "updatedAt": "21.10.2025",
-      "requiredGameVersion": "Patch 1.7 - Cosmic Pierogi",
-      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/the-invincible",
-      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
-      "authorsHtml": null,
-      "inDevelopment": false,
-      "size": "32.5 MB",
-      "mirrors": [
-        {
-          "label": "HerníPřeklady",
-          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=442",
-          "kind": "direct"
-        }
-      ],
-      "steamAppId": "731040"
     },
     {
       "title": "Still Wakes the Deep",
