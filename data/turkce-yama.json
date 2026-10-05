@@ -380,33 +380,6 @@
       ]
     },
     {
-      "title": "Far Cry 3",
-      "studio": "Türkçe Yama",
-      "studioUrl": "https://turkce-yama.com/far-cry-3-turkce-yama.htm",
-      "language": "Türkçe",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": null,
-      "updatedAt": "21.04.2014",
-      "pageUrl": "https://turkce-yama.com/far-cry-3-turkce-yama.htm",
-      "howToInstallHtml": "<ol><li>Yama dosyasını yukarıdaki «İndir» butonuyla indirin.</li><li>Kurulum dosyasıysa (.exe) çalıştırın; arşivse (.rar/.zip) çıkartın.</li><li>Oyunun kurulu olduğu klasörü gösterin / dosyaları oraya kopyalayın.</li><li>Oyunu başlatın — Türkçe yama uygulanmış olacaktır.</li></ol>",
-      "authorsHtml": null,
-      "size": "173.8 MB",
-      "inDevelopment": false,
-      "mirrors": [
-        {
-          "label": "Türkçe Yama",
-          "url": "https://turkce-yama.com/far-cry-3-turkce-yama.htm",
-          "kind": "other"
-        }
-      ],
-      "steamAppId": "220240"
-    },
-    {
       "title": "Mafia 2",
       "studio": "Türkçe Yama",
       "studioUrl": "https://turkce-yama.com/mafia-2-turkce-yama.htm",
@@ -461,9 +434,9 @@
       "steamAppId": "3595230"
     },
     {
-      "title": "60 Seconds!",
+      "title": "Far Cry Primal",
       "studio": "Türkçe Yama",
-      "studioUrl": "https://turkce-yama.com/60-seconds-turkce-yama.htm",
+      "studioUrl": "https://turkce-yama.com/far-cry-primal-turkce-yama.htm",
       "language": "Türkçe",
       "hasText": true,
       "hasVoice": false,
@@ -472,20 +445,47 @@
       "hasNeuralDub": false,
       "hasNeuralText": false,
       "version": null,
-      "updatedAt": "05.02.2019",
-      "pageUrl": "https://turkce-yama.com/60-seconds-turkce-yama.htm",
+      "updatedAt": "10.06.2018",
+      "pageUrl": "https://turkce-yama.com/far-cry-primal-turkce-yama.htm",
       "howToInstallHtml": "<ol><li>Yama dosyasını yukarıdaki «İndir» butonuyla indirin.</li><li>Kurulum dosyasıysa (.exe) çalıştırın; arşivse (.rar/.zip) çıkartın.</li><li>Oyunun kurulu olduğu klasörü gösterin / dosyaları oraya kopyalayın.</li><li>Oyunu başlatın — Türkçe yama uygulanmış olacaktır.</li></ol>",
       "authorsHtml": null,
-      "size": "5.98 MB",
+      "size": "30.5 MB",
       "inDevelopment": false,
       "mirrors": [
         {
           "label": "Türkçe Yama",
-          "url": "https://turkce-yama.com/60-seconds-turkce-yama.htm",
+          "url": "https://turkce-yama.com/far-cry-primal-turkce-yama.htm",
           "kind": "other"
         }
       ],
-      "steamAppId": "368360"
+      "steamAppId": "371660"
+    },
+    {
+      "title": "Far Cry 3",
+      "studio": "Türkçe Yama",
+      "studioUrl": "https://turkce-yama.com/far-cry-3-turkce-yama.htm",
+      "language": "Türkçe",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": null,
+      "updatedAt": "21.04.2014",
+      "pageUrl": "https://turkce-yama.com/far-cry-3-turkce-yama.htm",
+      "howToInstallHtml": "<ol><li>Yama dosyasını yukarıdaki «İndir» butonuyla indirin.</li><li>Kurulum dosyasıysa (.exe) çalıştırın; arşivse (.rar/.zip) çıkartın.</li><li>Oyunun kurulu olduğu klasörü gösterin / dosyaları oraya kopyalayın.</li><li>Oyunu başlatın — Türkçe yama uygulanmış olacaktır.</li></ol>",
+      "authorsHtml": null,
+      "size": "173.8 MB",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Türkçe Yama",
+          "url": "https://turkce-yama.com/far-cry-3-turkce-yama.htm",
+          "kind": "other"
+        }
+      ],
+      "steamAppId": "220240"
     },
     {
       "title": "Pro Evolution Soccer 2013",
@@ -567,33 +567,6 @@
         }
       ],
       "steamAppId": "12200"
-    },
-    {
-      "title": "Far Cry Primal",
-      "studio": "Türkçe Yama",
-      "studioUrl": "https://turkce-yama.com/far-cry-primal-turkce-yama.htm",
-      "language": "Türkçe",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": null,
-      "updatedAt": "10.06.2018",
-      "pageUrl": "https://turkce-yama.com/far-cry-primal-turkce-yama.htm",
-      "howToInstallHtml": "<ol><li>Yama dosyasını yukarıdaki «İndir» butonuyla indirin.</li><li>Kurulum dosyasıysa (.exe) çalıştırın; arşivse (.rar/.zip) çıkartın.</li><li>Oyunun kurulu olduğu klasörü gösterin / dosyaları oraya kopyalayın.</li><li>Oyunu başlatın — Türkçe yama uygulanmış olacaktır.</li></ol>",
-      "authorsHtml": null,
-      "size": "30.5 MB",
-      "inDevelopment": false,
-      "mirrors": [
-        {
-          "label": "Türkçe Yama",
-          "url": "https://turkce-yama.com/far-cry-primal-turkce-yama.htm",
-          "kind": "other"
-        }
-      ],
-      "steamAppId": "371660"
     },
     {
       "title": "Far Cry 5",
@@ -1913,7 +1886,8 @@
           "url": "https://turkce-yama.com/pine-turkce-yama.htm",
           "kind": "other"
         }
-      ]
+      ],
+      "steamAppId": "1042780"
     },
     {
       "title": "The Forgotten City",
@@ -4951,7 +4925,7 @@
           "kind": "other"
         }
       ],
-      "steamAppId": "212410"
+      "steamAppId": "1505430"
     },
     {
       "title": "Home Sweet Home",
@@ -5410,6 +5384,33 @@
         }
       ],
       "steamAppId": "738520"
+    },
+    {
+      "title": "60 Seconds!",
+      "studio": "Türkçe Yama",
+      "studioUrl": "https://turkce-yama.com/60-seconds-turkce-yama.htm",
+      "language": "Türkçe",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": null,
+      "updatedAt": "05.02.2019",
+      "pageUrl": "https://turkce-yama.com/60-seconds-turkce-yama.htm",
+      "howToInstallHtml": "<ol><li>Yama dosyasını yukarıdaki «İndir» butonuyla indirin.</li><li>Kurulum dosyasıysa (.exe) çalıştırın; arşivse (.rar/.zip) çıkartın.</li><li>Oyunun kurulu olduğu klasörü gösterin / dosyaları oraya kopyalayın.</li><li>Oyunu başlatın — Türkçe yama uygulanmış olacaktır.</li></ol>",
+      "authorsHtml": null,
+      "size": "5.98 MB",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Türkçe Yama",
+          "url": "https://turkce-yama.com/60-seconds-turkce-yama.htm",
+          "kind": "other"
+        }
+      ],
+      "steamAppId": "368360"
     },
     {
       "title": "House Party",
