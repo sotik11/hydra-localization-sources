@@ -201,34 +201,6 @@
       "steamAppId": "1643320"
     },
     {
-      "title": "Clair Obscur: Expedition 33",
-      "studio": "SynthVoiceRu",
-      "studioUrl": "https://www.playground.ru/clair_obscur_expedition_33/file/clair_obscur_expedition_33_rusifikator_zvuka_nejrosetevoj_dublyazh_i_zakadrovaya_ozvuchka_synthvoiceru-1769524",
-      "authorsHtml": "<p>SynthVoiceRu</p>",
-      "language": "Русский",
-      "hasText": false,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralText": false,
-      "hasNeuralVoice": true,
-      "hasNeuralDub": true,
-      "version": null,
-      "size": "290.8 MB",
-      "updatedAt": null,
-      "pageUrl": "https://www.playground.ru/clair_obscur_expedition_33/file/clair_obscur_expedition_33_rusifikator_zvuka_nejrosetevoj_dublyazh_i_zakadrovaya_ozvuchka_synthvoiceru-1769524",
-      "howToInstallHtml": "<p>Нейроозвучка от <strong>SynthVoiceRu</strong>. Бесплатная версия — на странице PlayGround («Открыть в браузере» ниже), там же инструкция по установке. Поддержать авторов и получить официальную версию можно на их <a href=\"https://boosty.to/synthvoiceru/showcase\">Boosty</a>.</p>",
-      "inDevelopment": false,
-      "fileName": "SynthVoiceRu.zip",
-      "mirrors": [
-        {
-          "label": "Boosty (поддержать авторов)",
-          "url": "https://boosty.to/synthvoiceru/posts/4cef3aee-15ee-4072-94a9-859f6f1b4abf",
-          "kind": "other"
-        }
-      ],
-      "steamAppId": "1903340"
-    },
-    {
       "title": "Kingdom Come Deliverance",
       "studio": "SynthVoiceRu",
       "studioUrl": "https://www.playground.ru/kingdom_come_deliverance/file/kingdom_come_deliverance_rusifikator_zvuka_nejrosetevoj_dublyazh_v1_0_synthvoiceru-1712411",
@@ -255,6 +227,34 @@
         }
       ],
       "steamAppId": "379430"
+    },
+    {
+      "title": "Clair Obscur: Expedition 33",
+      "studio": "SynthVoiceRu",
+      "studioUrl": "https://www.playground.ru/clair_obscur_expedition_33/file/clair_obscur_expedition_33_rusifikator_zvuka_nejrosetevoj_dublyazh_i_zakadrovaya_ozvuchka_synthvoiceru-1769524",
+      "authorsHtml": "<p>SynthVoiceRu</p>",
+      "language": "Русский",
+      "hasText": false,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralText": false,
+      "hasNeuralVoice": true,
+      "hasNeuralDub": true,
+      "version": null,
+      "size": "290.8 MB",
+      "updatedAt": null,
+      "pageUrl": "https://www.playground.ru/clair_obscur_expedition_33/file/clair_obscur_expedition_33_rusifikator_zvuka_nejrosetevoj_dublyazh_i_zakadrovaya_ozvuchka_synthvoiceru-1769524",
+      "howToInstallHtml": "<p>Нейроозвучка от <strong>SynthVoiceRu</strong>. Бесплатная версия — на странице PlayGround («Открыть в браузере» ниже), там же инструкция по установке. Поддержать авторов и получить официальную версию можно на их <a href=\"https://boosty.to/synthvoiceru/showcase\">Boosty</a>.</p>",
+      "inDevelopment": false,
+      "fileName": "SynthVoiceRu.zip",
+      "mirrors": [
+        {
+          "label": "Boosty (поддержать авторов)",
+          "url": "https://boosty.to/synthvoiceru/posts/4cef3aee-15ee-4072-94a9-859f6f1b4abf",
+          "kind": "other"
+        }
+      ],
+      "steamAppId": "1903340"
     },
     {
       "title": "Divinity: Original Sin 2 - Definitive Edition",
