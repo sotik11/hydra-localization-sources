@@ -5,6 +5,34 @@
   "siteUrl": "https://hernipreklady.cz",
   "localizations": [
     {
+      "title": "Graveyard Keeper 2",
+      "studio": "HerníPřeklady",
+      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/graveyard-keeper-2",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": "1.04",
+      "updatedAt": null,
+      "requiredGameVersion": "1.009.1+ (Win/PC)",
+      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/graveyard-keeper-2",
+      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
+      "authorsHtml": "<p><strong>Překlad:</strong> Jetro<br><strong>Testování:</strong> Jetro, Andrewek</p>",
+      "inDevelopment": false,
+      "size": "2.33 MB",
+      "mirrors": [
+        {
+          "label": "HerníPřeklady",
+          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=628",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "4358690"
+    },
+    {
       "title": "No Man's Sky",
       "studio": "HerníPřeklady",
       "studioUrl": "https://hernipreklady.cz/seznam-prekladu/no-man-s-sky",
@@ -31,34 +59,6 @@
         }
       ],
       "steamAppId": "275850"
-    },
-    {
-      "title": "Graveyard Keeper 2",
-      "studio": "HerníPřeklady",
-      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/graveyard-keeper-2",
-      "language": "Čeština",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": "1.03",
-      "updatedAt": null,
-      "requiredGameVersion": "1.007.1+ (Win/PC)",
-      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/graveyard-keeper-2",
-      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
-      "authorsHtml": "<p><strong>Překlad:</strong> Jetro<br><strong>Testování:</strong> Jetro, Andrewek</p>",
-      "inDevelopment": false,
-      "size": "2.33 MB",
-      "mirrors": [
-        {
-          "label": "HerníPřeklady",
-          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=625",
-          "kind": "direct"
-        }
-      ],
-      "steamAppId": "4358690"
     },
     {
       "title": "Anno 117",
@@ -4476,7 +4476,7 @@
           "kind": "direct"
         }
       ],
-      "steamAppId": "1520500"
+      "steamAppId": "985830"
     },
     {
       "title": "Twin Mirror",
