@@ -5,6 +5,33 @@
   "siteUrl": "https://www.calypsoceviri.com",
   "localizations": [
     {
+      "title": "Clive Barkers Hellraiser Revival",
+      "studio": "Calypso Çeviri",
+      "studioUrl": "https://www.calypsoceviri.com",
+      "language": "Türkçe",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": "1",
+      "updatedAt": "08.10.2026",
+      "pageUrl": "https://www.calypsoceviri.com/turkce-yamalar/clive-barkers-hellraiser-revival-turkce-yama-indir",
+      "howToInstallHtml": "<div>Aşağıda vermiş olduğumuz linkten indirdiğiniz Rar dosyasındaki Türkçe Yama exesini, oyunun kurulu olduğu ana dosya konumuna atarak, Türkçe yama exesini çalıştırın. Oyunun ana dosya konumunun seçili olduğunu kontrol ettikten sonra, hangi platformdan oynuyorsanız, o platformun yükle butonuna basarak yamayı yükleyebilirsiniz. <br><br>Yamayı kaldırmak isterseniz, oyunun dosya konumundaki \"Hellraiser_YamaKaldır.exe\"'yi kullanarak, yamayı kaldırabilirsiniz.</div>",
+      "authorsHtml": "<p>CrimsonSwift</p>",
+      "size": "4.59 MB",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Calypso Çeviri",
+          "url": "https://www.calypsoceviri.com/_files/archives/7d262d_b90789cfe617486aa81612bed2bb7c3d.zip?dn=Clive%2520Barkers%2520Hellraiser%2520Revival%2520T%25C3%25BCrk%25C3%25A7e%2520Yama%2520V1.zip",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "1551980"
+    },
+    {
       "title": "Deponia The Complete Journey",
       "studio": "Calypso Çeviri",
       "studioUrl": "https://www.calypsoceviri.com",
@@ -5960,6 +5987,33 @@
         }
       ],
       "steamAppId": "2623190"
+    },
+    {
+      "title": "Lost Records: Bloom & Rage",
+      "studio": "Calypso Çeviri",
+      "studioUrl": "https://www.calypsoceviri.com",
+      "language": "Türkçe",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": "4",
+      "updatedAt": "23.06.2026",
+      "pageUrl": "https://www.calypsoceviri.com/turkce-yamalar/lost-records-bloom-%26-rage-turkce-yama-indir",
+      "howToInstallHtml": "<div>Aşağıda vermiş olduğumuz linkten indirdiğiniz Rar dosyasındaki Türkçe Yama exesini, oyunun kurulu olduğu ana dosya konumuna atarak, Türkçe yama exesini çalıştırın. Oyunun ana dosya konumunun seçili olduğunu kontrol ettikten sonra, hangi platformdan oynuyorsanız, o platformun yükle butonuna basarak yamayı yükleyebilirsiniz.<br><br>Yamayı kaldırmak için dosya konumundaki Samsara_YamaKaldir.exe den yamayı kaldırabilirsiniz.</div>",
+      "authorsHtml": "<p>VolkTyson, Sweaty</p>",
+      "size": "2.62 MB",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Calypso Çeviri",
+          "url": "https://www.calypsoceviri.com/_files/archives/7d262d_537e9b705e5d41188b39e2fb5ce145eb.rar?dn=Lost%2520Records%2520Bloom%2520and%2520Rage%2520T%25C3%25BCrk%25C3%25A7e%2520Yama%2520V4.rar",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "1902960"
     },
     {
       "title": "Lords of the Fallen",

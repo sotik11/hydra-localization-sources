@@ -222,6 +222,33 @@
       ]
     },
     {
+      "title": "Graveyard Keeper",
+      "studio": "HerníPřeklady",
+      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/graveyard-keeper",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": "1.36",
+      "updatedAt": "10.04.2026",
+      "requiredGameVersion": "1.407 (Win / PC)",
+      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/graveyard-keeper",
+      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
+      "authorsHtml": "<p><strong>Překlad:</strong> Jetro<br><strong>Testování:</strong> Jetro, Stan307, pesty, Merelen, Barbar</p>",
+      "inDevelopment": false,
+      "size": "9.77 MB",
+      "mirrors": [
+        {
+          "label": "HerníPřeklady",
+          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=550",
+          "kind": "direct"
+        }
+      ]
+    },
+    {
       "title": "Frostpunk 2",
       "studio": "HerníPřeklady",
       "studioUrl": "https://hernipreklady.cz/seznam-prekladu/frostpunk-2",
@@ -2387,33 +2414,6 @@
         {
           "label": "HerníPřeklady",
           "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=83",
-          "kind": "direct"
-        }
-      ]
-    },
-    {
-      "title": "Graveyard Keeper",
-      "studio": "HerníPřeklady",
-      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/graveyard-keeper",
-      "language": "Čeština",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": "1.36",
-      "updatedAt": "10.04.2026",
-      "requiredGameVersion": "1.407 (Win / PC)",
-      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/graveyard-keeper",
-      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
-      "authorsHtml": "<p><strong>Překlad:</strong> Jetro<br><strong>Testování:</strong> Jetro, Stan307, pesty, Merelen, Barbar</p>",
-      "inDevelopment": false,
-      "size": "9.77 MB",
-      "mirrors": [
-        {
-          "label": "HerníPřeklady",
-          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=550",
           "kind": "direct"
         }
       ]
