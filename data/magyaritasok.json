@@ -12432,6 +12432,30 @@
       ]
     },
     {
+      "steamAppId": "504130",
+      "title": "Manual Samuel",
+      "studio": "Magyarítások",
+      "studioUrl": "https://magyaritasok.hu",
+      "language": "Magyar",
+      "hasText": true,
+      "hasVoice": false,
+      "version": "1.01",
+      "updatedAt": "22.05.2021",
+      "requiredGameVersion": "5.3.5.16077826",
+      "size": "440 KB",
+      "pageUrl": "https://magyaritasok.hu/games/manual-samuel",
+      "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
+      "authorsHtml": "<p>Hirvadhor</p>",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Magyarítások",
+          "url": "https://magyaritasok.hu/dl/ManualSamuel/ManualSamuelHUNbyTRC_1.01.rar",
+          "kind": "direct"
+        }
+      ]
+    },
+    {
       "steamAppId": "701160",
       "title": "Kingdom Two Crowns",
       "studio": "Magyarítások",
@@ -19758,6 +19782,30 @@
       ]
     },
     {
+      "steamAppId": "581300",
+      "title": "Black Mirror",
+      "studio": "Magyarítások",
+      "studioUrl": "https://magyaritasok.hu",
+      "language": "Magyar",
+      "hasText": true,
+      "hasVoice": false,
+      "version": "1.1",
+      "updatedAt": "28.05.2021",
+      "requiredGameVersion": "1.1.0.1006 rev. 8834",
+      "size": "4.86 MB",
+      "pageUrl": "https://magyaritasok.hu/games/black-mirror--1",
+      "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
+      "authorsHtml": null,
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Magyarítások",
+          "url": "https://magyaritasok.hu/dl/BlackMirror/Black_Mirror_2017_HUN_1.1.exe",
+          "kind": "direct"
+        }
+      ]
+    },
+    {
       "steamAppId": "392110",
       "title": "Endless Space 2",
       "studio": "Magyarítások",
@@ -26692,6 +26740,30 @@
         {
           "label": "Magyarítások",
           "url": "https://magyaritasok.hu/dl/thief/DarkMod_hun.zip",
+          "kind": "direct"
+        }
+      ]
+    },
+    {
+      "steamAppId": "233290",
+      "title": "Murdered: Soul Suspect",
+      "studio": "Magyarítások",
+      "studioUrl": "https://magyaritasok.hu",
+      "language": "Magyar",
+      "hasText": true,
+      "hasVoice": false,
+      "version": null,
+      "updatedAt": "24.08.2014",
+      "requiredGameVersion": null,
+      "size": "597 KB",
+      "pageUrl": "https://magyaritasok.hu/games/murdered-soul-suspect",
+      "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
+      "authorsHtml": "<p>Evin, Keldorn, TON</p>",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Magyarítások",
+          "url": "https://magyaritasok.hu/dl/MurderedSoulSuspect/MurderedSoulSuspectHUN.exe",
           "kind": "direct"
         }
       ]
