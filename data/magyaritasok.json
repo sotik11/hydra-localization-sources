@@ -1173,6 +1173,30 @@
       ]
     },
     {
+      "steamAppId": "1182310",
+      "title": "The Excavation of Hob's Barrow",
+      "studio": "Magyarítások",
+      "studioUrl": "https://magyaritasok.hu",
+      "language": "Magyar",
+      "hasText": true,
+      "hasVoice": false,
+      "version": "1.0",
+      "updatedAt": "11.10.2026",
+      "requiredGameVersion": "v2.0",
+      "size": "9.48 MB",
+      "pageUrl": "https://magyaritasok.hu/games/the-excavation-of-hobs-barrow",
+      "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
+      "authorsHtml": "<p>hamarfa</p>",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Magyarítások",
+          "url": "https://magyaritasok.hu/dl/TheExcavationofHobsBarrow/TEOHB_hun_v1.0.zip",
+          "kind": "direct"
+        }
+      ]
+    },
+    {
       "steamAppId": "2544110",
       "title": "Broken Sword: Shadow of the Templars Reforged",
       "studio": "Magyarítások",
@@ -4467,6 +4491,29 @@
       ]
     },
     {
+      "title": "Alan Wake II: The Lake House",
+      "studio": "Magyarítások",
+      "studioUrl": "https://magyaritasok.hu",
+      "language": "Magyar",
+      "hasText": true,
+      "hasVoice": false,
+      "version": "1.4",
+      "updatedAt": "27.08.2026",
+      "requiredGameVersion": "1.2.10",
+      "size": "6.06 MB",
+      "pageUrl": "https://magyaritasok.hu/games/alan-wake-ii-the-lake-house",
+      "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
+      "authorsHtml": "<p>Evin</p>",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Magyarítások",
+          "url": "https://magyaritasok.hu/dl/AlanWake2/AlanWakeII_hunv140.exe",
+          "kind": "direct"
+        }
+      ]
+    },
+    {
       "steamAppId": "359620",
       "title": "Prisoner of Ice",
       "studio": "Magyarítások",
@@ -5152,6 +5199,52 @@
         {
           "label": "Magyarítások",
           "url": "https://magyaritasok.hu/dl/NobodyWantsToDie/NobodyWantstoDie_hun_v1.4.exe",
+          "kind": "direct"
+        }
+      ]
+    },
+    {
+      "title": "Alan Wake II: Deluxe Edition",
+      "studio": "Magyarítások",
+      "studioUrl": "https://magyaritasok.hu",
+      "language": "Magyar",
+      "hasText": true,
+      "hasVoice": false,
+      "version": "1.4",
+      "updatedAt": "27.08.2026",
+      "requiredGameVersion": "1.2.10",
+      "size": "6.06 MB",
+      "pageUrl": "https://magyaritasok.hu/games/alan-wake-ii-deluxe-edition",
+      "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
+      "authorsHtml": "<p>Evin</p>",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Magyarítások",
+          "url": "https://magyaritasok.hu/dl/AlanWake2/AlanWakeII_hunv140.exe",
+          "kind": "direct"
+        }
+      ]
+    },
+    {
+      "title": "Alan Wake II: Night Springs",
+      "studio": "Magyarítások",
+      "studioUrl": "https://magyaritasok.hu",
+      "language": "Magyar",
+      "hasText": true,
+      "hasVoice": false,
+      "version": "1.4",
+      "updatedAt": "27.08.2026",
+      "requiredGameVersion": "1.2.10",
+      "size": "6.06 MB",
+      "pageUrl": "https://magyaritasok.hu/games/alan-wake-ii-night-springs",
+      "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
+      "authorsHtml": "<p>Evin</p>",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Magyarítások",
+          "url": "https://magyaritasok.hu/dl/AlanWake2/AlanWakeII_hunv140.exe",
           "kind": "direct"
         }
       ]
