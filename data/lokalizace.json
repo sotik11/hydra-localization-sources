@@ -2536,6 +2536,28 @@
       "mirrors": []
     },
     {
+      "title": "Alba: A Wildlife Advent",
+      "studio": "Lokalizace.net",
+      "studioUrl": "https://lokalizace.net/localizations/alba-a-wildlife-advent",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": null,
+      "updatedAt": null,
+      "pageUrl": "https://lokalizace.net/localizations/alba-a-wildlife-advent",
+      "howToInstallHtml": "<p>Stáhněte ZIP soubor a rozbalte ho do složky hry, nebo použijte aplikaci CZManager pro automatickou instalaci češtiny.</p>",
+      "changelogHtml": "<div><p><strong>Nová verze 1.0.0</strong></p><h2>Čeština pro Alba: A Wildlife Adventure je kompletně hotová!</h2><p>S velkou radostí vám můžeme oznámit, že práce na české lokalizaci byly úspěšně završeny. Po týdnech překládání, ladění a pečlivého testování přímo ve hře je překlad připraven pro všechny hráče, kteří se chtějí vydat na prosluněný středomořský ostrov a užít si tento pohodový příběh v rodném jazyce.</p><p>Při překladu jsme kladli velký důraz na lehkost a přístupnost dialogů, ale také na odbornější stránku hry. Zvláštní péči jsme věnovali ornitologickému a zoologickému názvosloví, aby veškerá fauna, kterou s fotoaparátem v ruce objevíte, odpovídala správným českým pojmenováním. Procházení přírodou a doplňování vašeho kapesního atlasu tak bude nejen zábavné, ale i poučné.</p><h3>Co všechno lokalizace obsahuje?</h3><ul><li><p>Kompletní překlad veškerých dialogů a příběhových textů.</p></li><li><p>Přeložené uživatelské rozhraní, mapu, úkoly a menu hry.</p></li><li><p>Odborně zkonzultované české názvy zvířat a jejich popisky.</p></li><li><p>Plnou podporu české diakritiky ve všech herních fontech.</p></li></ul><p>Překlad si nyní můžete stáhnout a pustit se do zachraňování ostrova a jeho přírodní rezervace. Věříme, že si dobrodružství malé Alby užijete plnými doušky, a budeme velmi rádi za jakoukoliv zpětnou vazbu či dojmy z hraní s naší češtinou.</p></div>",
+      "authorsHtml": "<p>Lokalizace.Net</p>",
+      "size": null,
+      "inDevelopment": true,
+      "mirrors": [],
+      "steamAppId": "1337010"
+    },
+    {
       "title": "Gobliins 6",
       "studio": "Lokalizace.net",
       "studioUrl": "https://lokalizace.net/localizations/gobliins-6",
@@ -6099,8 +6121,7 @@
       "authorsHtml": "<p>Lost And Found 2</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "387990"
+      "mirrors": []
     },
     {
       "title": "Witcher 3 - Enhanced Edition mód (2021)",
@@ -15822,7 +15843,7 @@
       "steamAppId": "2333000"
     },
     {
-      "title": "Resident Evil Code Veronica X",
+      "title": "Resident Evil Code Veronica X (2000)",
       "studio": "Lokalizace.net",
       "studioUrl": "https://lokalizace.net/localizations/resident-evil-code-veronica-x",
       "language": "Čeština",
@@ -16499,28 +16520,6 @@
       "inDevelopment": true,
       "mirrors": [],
       "steamAppId": "801800"
-    },
-    {
-      "title": "Alba: A Wildlife Advent",
-      "studio": "Lokalizace.net",
-      "studioUrl": "https://lokalizace.net/localizations/alba-a-wildlife-advent",
-      "language": "Čeština",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": null,
-      "updatedAt": null,
-      "pageUrl": "https://lokalizace.net/localizations/alba-a-wildlife-advent",
-      "howToInstallHtml": "<p>Stáhněte ZIP soubor a rozbalte ho do složky hry, nebo použijte aplikaci CZManager pro automatickou instalaci češtiny.</p>",
-      "changelogHtml": null,
-      "authorsHtml": "<p>Lokalizace.Net</p>",
-      "size": null,
-      "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "1337010"
     },
     {
       "title": "METAL GEAR SOLID 2: Sons of Liberty - Master Collection - Steam",
