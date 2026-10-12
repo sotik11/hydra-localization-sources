@@ -15256,10 +15256,10 @@
       "language": "Magyar",
       "hasText": true,
       "hasVoice": false,
-      "version": "1.09",
-      "updatedAt": "28.06.2026",
+      "version": "1.10",
+      "updatedAt": "11.10.2026",
       "requiredGameVersion": "1.407",
-      "size": "5.47 MB",
+      "size": "391 KB",
       "pageUrl": "https://magyaritasok.hu/games/graveyard-keeper",
       "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
       "authorsHtml": null,
@@ -15267,7 +15267,7 @@
       "mirrors": [
         {
           "label": "Magyarítások",
-          "url": "https://magyaritasok.hu/dl/GraveyardKeeper/GraveyardKeeperHUNbyTRC_1.09.zip",
+          "url": "https://magyaritasok.hu/dl/GraveyardKeeper/GraveyardKeeperHUNbyTRC_1.10.zip",
           "kind": "direct"
         }
       ]
