@@ -1180,8 +1180,8 @@
       "language": "Magyar",
       "hasText": true,
       "hasVoice": false,
-      "version": "1.0",
-      "updatedAt": "11.10.2026",
+      "version": "1.1",
+      "updatedAt": "13.10.2026",
       "requiredGameVersion": "v2.0",
       "size": "9.48 MB",
       "pageUrl": "https://magyaritasok.hu/games/the-excavation-of-hobs-barrow",
@@ -1191,7 +1191,7 @@
       "mirrors": [
         {
           "label": "Magyarítások",
-          "url": "https://magyaritasok.hu/dl/TheExcavationofHobsBarrow/TEOHB_hun_v1.0.zip",
+          "url": "https://magyaritasok.hu/dl/TheExcavationofHobsBarrow/TEOHB_hun_v1.1.zip",
           "kind": "direct"
         }
       ]
@@ -36932,29 +36932,6 @@
       ]
     },
     {
-      "title": "Team Factor",
-      "studio": "Magyarítások",
-      "studioUrl": "https://magyaritasok.hu",
-      "language": "Magyar",
-      "hasText": true,
-      "hasVoice": false,
-      "version": null,
-      "updatedAt": "09.02.2015",
-      "requiredGameVersion": null,
-      "size": "480 KB",
-      "pageUrl": "https://magyaritasok.hu/games/team-factor",
-      "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
-      "authorsHtml": null,
-      "inDevelopment": false,
-      "mirrors": [
-        {
-          "label": "Magyarítások",
-          "url": "https://magyaritasok.hu/dl/teamfactor/team_factor_i2k.rar",
-          "kind": "direct"
-        }
-      ]
-    },
-    {
       "title": "Rise of Nations: Thrones & Patriots",
       "studio": "Magyarítások",
       "studioUrl": "https://magyaritasok.hu",
@@ -45679,29 +45656,6 @@
         {
           "label": "Magyarítások",
           "url": "https://magyaritasok.hu/dl/euro2004/euro2004.exe",
-          "kind": "direct"
-        }
-      ]
-    },
-    {
-      "title": "Enter the Matrix",
-      "studio": "Magyarítások",
-      "studioUrl": "https://magyaritasok.hu",
-      "language": "Magyar",
-      "hasText": true,
-      "hasVoice": false,
-      "version": null,
-      "updatedAt": "18.06.2014",
-      "requiredGameVersion": null,
-      "size": "422 KB",
-      "pageUrl": "https://magyaritasok.hu/games/enter-the-matrix",
-      "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
-      "authorsHtml": null,
-      "inDevelopment": false,
-      "mirrors": [
-        {
-          "label": "Magyarítások",
-          "url": "https://magyaritasok.hu/dl/etm/etm_hun.exe",
           "kind": "direct"
         }
       ]
