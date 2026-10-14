@@ -12556,10 +12556,10 @@
       "language": "Magyar",
       "hasText": true,
       "hasVoice": false,
-      "version": "1.22",
-      "updatedAt": "01.10.2026",
-      "requiredGameVersion": "2.4.2 (R23529)",
-      "size": "4.99 MB",
+      "version": "1.23",
+      "updatedAt": "13.10.2026",
+      "requiredGameVersion": "2.4.3 (R23537)",
+      "size": "10.6 MB",
       "pageUrl": "https://magyaritasok.hu/games/kingdom-two-crowns",
       "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
       "authorsHtml": "<p>Hirvadhor</p>",
@@ -12567,7 +12567,7 @@
       "mirrors": [
         {
           "label": "Magyarítások",
-          "url": "https://magyaritasok.hu/dl/KingdomTwoCrowns/KingdomTwoCrownsHUNbyTRC_1.22.zip",
+          "url": "https://magyaritasok.hu/dl/KingdomTwoCrowns/KingdomTwoCrownsHUNbyTRC_1.23.zip",
           "kind": "direct"
         }
       ]
@@ -29745,30 +29745,6 @@
       ]
     },
     {
-      "steamAppId": "72850",
-      "title": "The Elder Scrolls V: Skyrim",
-      "studio": "Magyarítások",
-      "studioUrl": "https://magyaritasok.hu",
-      "language": "Magyar",
-      "hasText": true,
-      "hasVoice": false,
-      "version": "2.0",
-      "updatedAt": "17.05.2020",
-      "requiredGameVersion": null,
-      "size": "115.4 MB",
-      "pageUrl": "https://magyaritasok.hu/games/the-elder-scrolls-v-skyrim",
-      "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
-      "authorsHtml": "<p>Evin, RaveAir, MorroHUN Team</p>",
-      "inDevelopment": false,
-      "mirrors": [
-        {
-          "label": "Magyarítások",
-          "url": "https://magyaritasok.hu/dl/skyrim/MorroHun_Skyrim_v2.exe",
-          "kind": "direct"
-        }
-      ]
-    },
-    {
       "steamAppId": "108600",
       "title": "Project Zomboid",
       "studio": "Magyarítások",
@@ -29788,30 +29764,6 @@
         {
           "label": "Magyarítások",
           "url": "https://magyaritasok.hu/dl/projectzomboid/project_zomboid_hun_v11.zip",
-          "kind": "direct"
-        }
-      ]
-    },
-    {
-      "steamAppId": "282030",
-      "title": "Carmageddon II: Carpocalypse Now",
-      "studio": "Magyarítások",
-      "studioUrl": "https://magyaritasok.hu",
-      "language": "Magyar",
-      "hasText": true,
-      "hasVoice": false,
-      "version": null,
-      "updatedAt": "31.05.2014",
-      "requiredGameVersion": null,
-      "size": "317 KB",
-      "pageUrl": "https://magyaritasok.hu/games/carmageddon-ii-carpocalypse-now",
-      "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
-      "authorsHtml": null,
-      "inDevelopment": false,
-      "mirrors": [
-        {
-          "label": "Magyarítások",
-          "url": "https://magyaritasok.hu/dl/carmageddon_2/carmageddon2.rar",
           "kind": "direct"
         }
       ]
@@ -35593,30 +35545,6 @@
       ]
     },
     {
-      "steamAppId": "21090",
-      "title": "F.E.A.R. Perseus Mandate",
-      "studio": "Magyarítások",
-      "studioUrl": "https://magyaritasok.hu",
-      "language": "Magyar",
-      "hasText": true,
-      "hasVoice": false,
-      "version": "1.0",
-      "updatedAt": "25.01.2023",
-      "requiredGameVersion": null,
-      "size": "778 KB",
-      "pageUrl": "https://magyaritasok.hu/games/f-e-a-r-perseus-mandate",
-      "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
-      "authorsHtml": null,
-      "inDevelopment": false,
-      "mirrors": [
-        {
-          "label": "Magyarítások",
-          "url": "https://magyaritasok.hu/dl/fear/FEAR_Perseus_Mandate_hun.zip",
-          "kind": "direct"
-        }
-      ]
-    },
-    {
       "title": "Road to India: Between Hell and Nirvana",
       "studio": "Magyarítások",
       "studioUrl": "https://magyaritasok.hu",
@@ -36927,6 +36855,29 @@
         {
           "label": "Magyarítások",
           "url": "https://magyaritasok.hu/dl/riddick/Riddick_hun_1.1.exe",
+          "kind": "direct"
+        }
+      ]
+    },
+    {
+      "title": "Team Factor",
+      "studio": "Magyarítások",
+      "studioUrl": "https://magyaritasok.hu",
+      "language": "Magyar",
+      "hasText": true,
+      "hasVoice": false,
+      "version": null,
+      "updatedAt": "09.02.2015",
+      "requiredGameVersion": null,
+      "size": "480 KB",
+      "pageUrl": "https://magyaritasok.hu/games/team-factor",
+      "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
+      "authorsHtml": null,
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Magyarítások",
+          "url": "https://magyaritasok.hu/dl/teamfactor/team_factor_i2k.rar",
           "kind": "direct"
         }
       ]
@@ -39619,29 +39570,6 @@
         {
           "label": "Magyarítások",
           "url": "https://magyaritasok.hu/dl/bfme/bfme_hun.exe",
-          "kind": "direct"
-        }
-      ]
-    },
-    {
-      "title": "The Lord of the Rings: The Battle for Middle-earth II: The Rise of the Witch-king",
-      "studio": "Magyarítások",
-      "studioUrl": "https://magyaritasok.hu",
-      "language": "Magyar",
-      "hasText": true,
-      "hasVoice": false,
-      "version": null,
-      "updatedAt": "23.07.2014",
-      "requiredGameVersion": null,
-      "size": "8.44 MB",
-      "pageUrl": "https://magyaritasok.hu/games/the-lord-of-the-rings-the-battle-for-middle-earth-ii-the-rise-of-the-witch-king",
-      "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
-      "authorsHtml": "<p>GameHunter TEAM</p>",
-      "inDevelopment": false,
-      "mirrors": [
-        {
-          "label": "Magyarítások",
-          "url": "https://magyaritasok.hu/dl/bfme2/bfme2wk_hun.exe",
           "kind": "direct"
         }
       ]
@@ -45656,6 +45584,29 @@
         {
           "label": "Magyarítások",
           "url": "https://magyaritasok.hu/dl/euro2004/euro2004.exe",
+          "kind": "direct"
+        }
+      ]
+    },
+    {
+      "title": "Enter the Matrix",
+      "studio": "Magyarítások",
+      "studioUrl": "https://magyaritasok.hu",
+      "language": "Magyar",
+      "hasText": true,
+      "hasVoice": false,
+      "version": null,
+      "updatedAt": "18.06.2014",
+      "requiredGameVersion": null,
+      "size": "422 KB",
+      "pageUrl": "https://magyaritasok.hu/games/enter-the-matrix",
+      "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
+      "authorsHtml": null,
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Magyarítások",
+          "url": "https://magyaritasok.hu/dl/etm/etm_hun.exe",
           "kind": "direct"
         }
       ]
