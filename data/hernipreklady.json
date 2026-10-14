@@ -5,9 +5,9 @@
   "siteUrl": "https://hernipreklady.cz",
   "localizations": [
     {
-      "title": "Frostpunk 2",
+      "title": "Code Vein 2",
       "studio": "HerníPřeklady",
-      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/frostpunk-2",
+      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/code-vein-2",
       "language": "Čeština",
       "hasText": true,
       "hasVoice": false,
@@ -15,50 +15,22 @@
       "hasNeuralVoice": false,
       "hasNeuralDub": false,
       "hasNeuralText": false,
-      "version": "1.08",
+      "version": "2.0",
       "updatedAt": null,
-      "requiredGameVersion": "1.6.1",
-      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/frostpunk-2",
+      "requiredGameVersion": "2.0.1",
+      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/code-vein-2",
       "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
-      "authorsHtml": "<p><strong>Překlad:</strong> Jetro, Ralph Shepard,<br><strong>Testování:</strong> Jetro, Andrewek</p>",
+      "authorsHtml": null,
       "inDevelopment": false,
-      "size": "3.44 MB",
+      "size": "9.52 MB",
       "mirrors": [
         {
           "label": "HerníPřeklady",
-          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=638",
+          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=640",
           "kind": "direct"
         }
       ],
-      "steamAppId": "1601580"
-    },
-    {
-      "title": "Wartales + DLC",
-      "studio": "HerníPřeklady",
-      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/wartales-dlc",
-      "language": "Čeština",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": "2.7",
-      "updatedAt": null,
-      "requiredGameVersion": "1.0.48274",
-      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/wartales-dlc",
-      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
-      "authorsHtml": "<p><strong>Překlad a testování:</strong> Andrewek</p>",
-      "inDevelopment": false,
-      "size": "154.0 MB",
-      "mirrors": [
-        {
-          "label": "HerníPřeklady",
-          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=629",
-          "kind": "direct"
-        }
-      ],
-      "steamAppId": "1527950"
+      "steamAppId": "2362060"
     },
     {
       "title": "Graveyard Keeper 2",
@@ -71,9 +43,9 @@
       "hasNeuralVoice": false,
       "hasNeuralDub": false,
       "hasNeuralText": false,
-      "version": "1.04",
+      "version": "1.05",
       "updatedAt": null,
-      "requiredGameVersion": "1.009.1+ (Win/PC)",
+      "requiredGameVersion": "1.010+ (Win/PC)",
       "pageUrl": "https://hernipreklady.cz/seznam-prekladu/graveyard-keeper-2",
       "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
       "authorsHtml": "<p><strong>Překlad:</strong> Jetro<br><strong>Testování:</strong> Jetro, Andrewek</p>",
@@ -82,7 +54,7 @@
       "mirrors": [
         {
           "label": "HerníPřeklady",
-          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=628",
+          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=639",
           "kind": "direct"
         }
       ],
@@ -200,34 +172,6 @@
       "steamAppId": "2760560"
     },
     {
-      "title": "Once Alive",
-      "studio": "HerníPřeklady",
-      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/once-alive",
-      "language": "Čeština",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": "1.10",
-      "updatedAt": null,
-      "requiredGameVersion": "v1.2.8",
-      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/once-alive",
-      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
-      "authorsHtml": null,
-      "inDevelopment": false,
-      "size": "2.23 MB",
-      "mirrors": [
-        {
-          "label": "HerníPřeklady",
-          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=614",
-          "kind": "direct"
-        }
-      ],
-      "steamAppId": "2336440"
-    },
-    {
       "title": "Frostpunk",
       "studio": "HerníPřeklady",
       "studioUrl": "https://hernipreklady.cz/seznam-prekladu/frostpunk",
@@ -254,34 +198,6 @@
         }
       ],
       "steamAppId": "323190"
-    },
-    {
-      "title": "Civilization VII",
-      "studio": "HerníPřeklady",
-      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/civilization-vii",
-      "language": "Čeština",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": "1.09",
-      "updatedAt": null,
-      "requiredGameVersion": "1.4.2 (PC - Win)",
-      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/civilization-vii",
-      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
-      "authorsHtml": "<p><strong>Překlad:</strong> Jetro, Ralph Shepard, Coffin Corner, Sushi<br><strong>Korektura:</strong> Jetro<br><strong>Testování:</strong> Ralph Shepard, Andrewek, Jetro</p>",
-      "inDevelopment": false,
-      "size": "3.38 MB",
-      "mirrors": [
-        {
-          "label": "HerníPřeklady",
-          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=612",
-          "kind": "direct"
-        }
-      ],
-      "steamAppId": "1295660"
     },
     {
       "title": "Titanfall 2",
@@ -366,34 +282,6 @@
         }
       ],
       "steamAppId": "2005090"
-    },
-    {
-      "title": "Code Vein 2",
-      "studio": "HerníPřeklady",
-      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/code-vein-2",
-      "language": "Čeština",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": "1.1",
-      "updatedAt": "26.04.2026",
-      "requiredGameVersion": "1.0.9",
-      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/code-vein-2",
-      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
-      "authorsHtml": null,
-      "inDevelopment": false,
-      "size": "1.12 MB",
-      "mirrors": [
-        {
-          "label": "HerníPřeklady",
-          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=565",
-          "kind": "direct"
-        }
-      ],
-      "steamAppId": "2362060"
     },
     {
       "title": "Cairn",
@@ -994,6 +882,34 @@
       "steamAppId": "361420"
     },
     {
+      "title": "Civilization VII",
+      "studio": "HerníPřeklady",
+      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/civilization-vii",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": "1.09",
+      "updatedAt": null,
+      "requiredGameVersion": "1.4.2 (PC - Win)",
+      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/civilization-vii",
+      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
+      "authorsHtml": "<p><strong>Překlad:</strong> Jetro, Ralph Shepard, Coffin Corner, Sushi<br><strong>Korektura:</strong> Jetro<br><strong>Testování:</strong> Ralph Shepard, Andrewek, Jetro</p>",
+      "inDevelopment": false,
+      "size": "3.38 MB",
+      "mirrors": [
+        {
+          "label": "HerníPřeklady",
+          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=612",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "1295660"
+    },
+    {
       "title": "SCP: Fragmented Minds",
       "studio": "HerníPřeklady",
       "studioUrl": "https://hernipreklady.cz/seznam-prekladu/scp-fragmented-minds",
@@ -1131,6 +1047,34 @@
         }
       ],
       "steamAppId": "2677660"
+    },
+    {
+      "title": "Once Alive",
+      "studio": "HerníPřeklady",
+      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/once-alive",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": "1.10",
+      "updatedAt": null,
+      "requiredGameVersion": "v1.2.8",
+      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/once-alive",
+      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
+      "authorsHtml": null,
+      "inDevelopment": false,
+      "size": "2.23 MB",
+      "mirrors": [
+        {
+          "label": "HerníPřeklady",
+          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=614",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "2336440"
     },
     {
       "title": "Alien: Rogue Incursion VR",
