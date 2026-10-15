@@ -193,7 +193,7 @@
       "updatedAt": null,
       "pageUrl": "https://lokalizace.net/localizations/fallout-sonora",
       "howToInstallHtml": "<p>Stáhněte ZIP soubor a rozbalte ho do složky hry, nebo použijte aplikaci CZManager pro automatickou instalaci češtiny.</p>",
-      "changelogHtml": "<div><p><strong>Nová verze 1.0</strong></p><p><strong>Po cca 7-8 herních letech se bugnou obchodníci</strong> a přestanou nabízet nové zboží.<br><strong>Dal jsem dohromady script</strong>, který vám udělá zálohu uložené pozice a <strong>opraví vám data</strong> ve hře. Resetuje počet ticků u obchodníků a resetují herní datum.</p><p>Jak to použít:<br>Spustit \"RESET_OBCHODNIKU\" -&gt; Zadat cestu kde je \"master.dat\" (to je tam kde je .exe pro Sonoru) a potvrdit. -&gt; Mělo by se to pak zeptat jaký save slot chcete opravit -&gt; Zadáte číslo slotu (příklad: 5) a ono to opraví 5. slot.</p><p><strong>Nová verze 1.13</strong></p><p>Update na poslední verzi z 5.10.2026 verze 0.9.7.7<br><strong>Kompletní </strong>balík<strong> s Češtinou a updatem.</strong></p><p>Je potřeba mít <strong>celou hru</strong> <strong>Fallout Sonora -&gt; Spustit script nebo ručně vložit do složky</strong><br>Měl by ten update opravovat nějaké chyby v enginu hry.</p><p><strong>Nová verze 1.13</strong></p><p>Update na poslední verzi z 5.10.2026 verze 0.9.7.7<br><strong>Obsahuje pouze</strong> fission a .exe file, které je potřeba přepsat ve složce. <strong>Neobsahuje češtinu!</strong><br></p><p>Je potřeba mít celou hru <strong>Fallout Sonora -&gt; Stáhnout v1.12 (RC12) a aplikovat Češtinu -&gt; přepsat soubory ve složce Fallout Sonora verzí 1.13 (RC13) </strong>a můžete hrát.<br>Měl by ten update opravovat nějaké chyby v enginu hry.</p><p><strong>Nová verze 1.12</strong></p><p>Oprava textů v pipboyi, aby buttony nebyli anglicky.<br>Všiml jsem si, že mi hra z ničeho nic vrátila rozlišení z 1280x720 na 800x500<br>Příčina resetování rozlišení je přímo ve Fissionu. Při potvrzení herního menu Nastavení se rozměry přepočítají podle <code>play_area</code>:</p><ul><li><p><code>0</code> → <code>640×480</code></p></li><li><p><code>1</code> → <code>800×500</code></p></li><li><p><code>2</code> → přibližně 70 % rozlišení monitoru</p></li><li><p><code>3</code> → plné rozlišení monitoru</p></li></ul><p>Při vlastním <code>1280×720</code> proto nejprve nastav ostatní volby ve hře, hru úplně ukonči a teprve potom uprav <code>fission.cfg</code>. Další potvrzení nabídky Nastavení může vlastní rozlišení znovu přepsat. Instalátor češtiny rozlišení nemění</p><p>Nahrána nová verze překladu: 1.11</p>Nahrána nová verze překladu: 1.11</div>",
+      "changelogHtml": "<div><p><strong>Nová verze 1.14</strong></p><p>Co je v této verzi:<br>- Kompletní čeština na poslední verzi se skriptem na reset ticků u obchodníků. (Zadat cestu k master.dat a pak číslo slotu savu)<br>- Pár úprav a korekce textu.</p><p><strong>Nová verze 1.0</strong></p><p><strong>Po cca 7-8 herních letech se bugnou obchodníci</strong> a přestanou nabízet nové zboží.<br><strong>Dal jsem dohromady script</strong>, který vám udělá zálohu uložené pozice a <strong>opraví vám data</strong> ve hře. Resetuje počet ticků u obchodníků a resetují herní datum.</p><p>Jak to použít:<br>Spustit \"RESET_OBCHODNIKU\" -&gt; Zadat cestu kde je \"master.dat\" (to je tam kde je .exe pro Sonoru) a potvrdit. -&gt; Mělo by se to pak zeptat jaký save slot chcete opravit -&gt; Zadáte číslo slotu (příklad: 5) a ono to opraví 5. slot.</p><p><strong>Nová verze 1.13</strong></p><p>Update na poslední verzi z 5.10.2026 verze 0.9.7.7<br><strong>Kompletní </strong>balík<strong> s Češtinou a updatem.</strong></p><p>Je potřeba mít <strong>celou hru</strong> <strong>Fallout Sonora -&gt; Spustit script nebo ručně vložit do složky</strong><br>Měl by ten update opravovat nějaké chyby v enginu hry.</p><p><strong>Nová verze 1.13</strong></p><p>Update na poslední verzi z 5.10.2026 verze 0.9.7.7<br><strong>Obsahuje pouze</strong> fission a .exe file, které je potřeba přepsat ve složce. <strong>Neobsahuje češtinu!</strong><br></p><p>Je potřeba mít celou hru <strong>Fallout Sonora -&gt; Stáhnout v1.12 (RC12) a aplikovat Češtinu -&gt; přepsat soubory ve složce Fallout Sonora verzí 1.13 (RC13) </strong>a můžete hrát.<br>Měl by ten update opravovat nějaké chyby v enginu hry.</p><p><strong>Nová verze 1.12</strong></p><p>Oprava textů v pipboyi, aby buttony nebyli anglicky.<br>Všiml jsem si, že mi hra z ničeho nic vrátila rozlišení z 1280x720 na 800x500<br>Příčina resetování rozlišení je přímo ve Fissionu. Při potvrzení herního menu Nastavení se rozměry přepočítají podle <code>play_area</code>:</p><ul><li><p><code>0</code> → <code>640×480</code></p></li><li><p><code>1</code> → <code>800×500</code></p></li><li><p><code>2</code> → přibližně 70 % rozlišení monitoru</p></li><li><p><code>3</code> → plné rozlišení monitoru</p></li></ul><p>Při vlastním <code>1280×720</code> proto nejprve nastav ostatní volby ve hře, hru úplně ukonči a teprve potom uprav <code>fission.cfg</code>. Další potvrzení nabídky Nastavení může vlastní rozlišení znovu přepsat. Instalátor češtiny rozlišení nemění</p></div>",
       "authorsHtml": "<p>RetroGameplay_CZ</p>",
       "size": null,
       "inDevelopment": true,
@@ -241,6 +241,28 @@
       "size": null,
       "inDevelopment": true,
       "mirrors": []
+    },
+    {
+      "title": "CONTROL Resonant",
+      "studio": "Lokalizace.net",
+      "studioUrl": "https://lokalizace.net/localizations/control-resonant",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": null,
+      "updatedAt": null,
+      "pageUrl": "https://lokalizace.net/localizations/control-resonant",
+      "howToInstallHtml": "<p>Stáhněte ZIP soubor a rozbalte ho do složky hry, nebo použijte aplikaci CZManager pro automatickou instalaci češtiny.</p>",
+      "changelogHtml": "<div><p><strong>Nová verze 0.6.8</strong></p><ul><li><p>Hlavní příběh je zkontrolovaný a otestován</p></li><li><p>je tam mraky ale mraky oprav</p></li></ul><p></p></div>",
+      "authorsHtml": "<p>Lokalizace.Net</p>",
+      "size": null,
+      "inDevelopment": true,
+      "mirrors": [],
+      "steamAppId": "3669870"
     },
     {
       "title": "Alone in the Dark: The New Nightmare",
@@ -3033,8 +3055,7 @@
       "authorsHtml": "<p>Zhilian</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "239160"
+      "mirrors": []
     },
     {
       "title": "Sinking Island",
@@ -9412,8 +9433,7 @@
       "authorsHtml": "<p>Lost And Found</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "239160"
+      "mirrors": []
     },
     {
       "title": "Warcraft 1 Remastered - CZ překlad a dabing",
@@ -9740,7 +9760,7 @@
       "size": null,
       "inDevelopment": true,
       "mirrors": [],
-      "steamAppId": "961620"
+      "steamAppId": "2252960"
     },
     {
       "title": "Spirit of the North",
@@ -10107,7 +10127,7 @@
       "updatedAt": null,
       "pageUrl": "https://lokalizace.net/localizations/infection-free-zone",
       "howToInstallHtml": "<p>Stáhněte ZIP soubor a rozbalte ho do složky hry, nebo použijte aplikaci CZManager pro automatickou instalaci češtiny.</p>",
-      "changelogHtml": "<div><p><strong>Nová verze 0.26.8.18-16</strong></p><p><span style=\"font-size: 14px; color: rgb(241, 196, 15)\">Byla vydána aktualizace překladu 0.26.8.18-16</span></p><p><span style=\"font-size: 14px; color: rgb(236, 240, 241)\">Bugfix Update #43 ze dne 24.08.2026</span></p><p><span style=\"font-size: 14px; color: rgb(236, 240, 241)\">Přidali 16 nových řádků a 3 upravili.</span></p><p><strong>Nová verze 0.26.7.30-18</strong></p><p><span style=\"font-size: 14px; color: rgb(241, 196, 15)\">Byla vydána aktualizace překladu 0.26.7.30-18 </span></p><p><span style=\"font-size: 14px; color: rgb(236, 240, 241)\">Bugfix Update #42 ze dne 04.08.2026 </span></p><p><span style=\"font-size: 14px; color: rgb(236, 240, 241)\">Přidali 10 nových řádků a 5 jich upravili.</span></p><p><strong>Nová verze 0.26.7.15-12</strong></p><p><span style=\"font-size: 14px; color: rgb(241, 196, 15)\">Byla vydána aktualizace překladu 0.26.7.15-12 </span></p><p><span style=\"font-size: 14px; color: rgb(236, 240, 241)\">Bugfix Update #41 ze dne 16.07.2026 </span></p><p><span style=\"font-size: 14px; color: rgb(236, 240, 241)\">přidali 11 nových řádků a 6 jich upravili.</span></p><p><strong>Nová verze 0.26.6.18-13</strong></p><p><span style=\"font-size: 14px; color: rgb(241, 196, 15)\">Byla vydána aktualizace překladu 0.26.6.18-13</span></p><p><span style=\"font-size: 14px; color: rgb(236, 240, 241)\">Major Update #6 ze dne 05.06. 2026 a Bugfix Update #39 ze dne 20.06.2026 </span></p><p><span style=\"font-size: 14px; color: rgb(236, 240, 241)\">přidali 357 nových řádků,  77 jich upravili a 36 odstranili.</span></p><p><strong>Nová verze 0.26.3.4-15</strong></p><p><span style=\"font-family: Inter, system-ui, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, sans-serif; font-size: 14px; color: rgb(241, 196, 15);\">Byla vydána aktualizace překladu 0.26.3.4-15</span></p><p><span style=\"font-family: Inter, system-ui, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, sans-serif; font-size: 14px; color: rgb(236, 240, 241);\">Bugfix Update #36 ze dne 06.03.2026 přidal 1 nový řádek a 14.</span></p><p><strong>Nová verze 0.26.2.19-15</strong></p><p><span style=\"font-family: Inter, system-ui, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, sans-serif; font-size: 14px; color: rgb(241, 196, 15);\">Byla vydána aktualizace překladu 0.26.2.19-15</span></p><p><span style=\"font-family: Inter, system-ui, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, sans-serif; font-size: 14px; color: rgb(236, 240, 241);\">Bugfix Update #35 ze dne 23.02.2026 přidal 102 nových řádků a 14 upravil.</span></p><p><span style=\"font-family: Inter, system-ui, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, sans-serif; font-size: 14px; color: rgb(236, 240, 241);\">Navíc je sloučen překlad \"Pohonné hmoty\" jako \"Palivo\" a opraveno pár chyb, kterých jsem si všiml z původní verze.</span></p><p>Nahrána nová verze překladu: 0.26.1.12-13</p></div>",
+      "changelogHtml": "<div><p><strong>Nová verze 0.26.10.8-15</strong></p><p><span style=\"font-size: 14px; color: rgb(241, 196, 15)\">Byla vydána aktualizace překladu 0.26.10.8-15 </span></p><p><span style=\"font-size: 14px; color: rgb(236, 240, 241)\">Bugfix Update #45 ze dne 14.10.2026 </span></p><p><span style=\"font-size: 14px; color: rgb(236, 240, 241)\">Přidali 24 nových řádků.</span></p><p><strong>Nová verze 0.26.8.18-16</strong></p><p><span style=\"font-size: 14px; color: rgb(241, 196, 15)\">Byla vydána aktualizace překladu 0.26.8.18-16</span></p><p><span style=\"font-size: 14px; color: rgb(236, 240, 241)\">Bugfix Update #43 ze dne 24.08.2026</span></p><p><span style=\"font-size: 14px; color: rgb(236, 240, 241)\">Přidali 16 nových řádků a 3 upravili.</span></p><p><strong>Nová verze 0.26.7.30-18</strong></p><p><span style=\"font-size: 14px; color: rgb(241, 196, 15)\">Byla vydána aktualizace překladu 0.26.7.30-18 </span></p><p><span style=\"font-size: 14px; color: rgb(236, 240, 241)\">Bugfix Update #42 ze dne 04.08.2026 </span></p><p><span style=\"font-size: 14px; color: rgb(236, 240, 241)\">Přidali 10 nových řádků a 5 jich upravili.</span></p><p><strong>Nová verze 0.26.7.15-12</strong></p><p><span style=\"font-size: 14px; color: rgb(241, 196, 15)\">Byla vydána aktualizace překladu 0.26.7.15-12 </span></p><p><span style=\"font-size: 14px; color: rgb(236, 240, 241)\">Bugfix Update #41 ze dne 16.07.2026 </span></p><p><span style=\"font-size: 14px; color: rgb(236, 240, 241)\">přidali 11 nových řádků a 6 jich upravili.</span></p><p><strong>Nová verze 0.26.6.18-13</strong></p><p><span style=\"font-size: 14px; color: rgb(241, 196, 15)\">Byla vydána aktualizace překladu 0.26.6.18-13</span></p><p><span style=\"font-size: 14px; color: rgb(236, 240, 241)\">Major Update #6 ze dne 05.06. 2026 a Bugfix Update #39 ze dne 20.06.2026 </span></p><p><span style=\"font-size: 14px; color: rgb(236, 240, 241)\">přidali 357 nových řádků,  77 jich upravili a 36 odstranili.</span></p><p><strong>Nová verze 0.26.3.4-15</strong></p><p><span style=\"font-family: Inter, system-ui, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, sans-serif; font-size: 14px; color: rgb(241, 196, 15);\">Byla vydána aktualizace překladu 0.26.3.4-15</span></p><p><span style=\"font-family: Inter, system-ui, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, sans-serif; font-size: 14px; color: rgb(236, 240, 241);\">Bugfix Update #36 ze dne 06.03.2026 přidal 1 nový řádek a 14.</span></p><p><strong>Nová verze 0.26.2.19-15</strong></p><p><span style=\"font-family: Inter, system-ui, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, sans-serif; font-size: 14px; color: rgb(241, 196, 15);\">Byla vydána aktualizace překladu 0.26.2.19-15</span></p><p><span style=\"font-family: Inter, system-ui, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, sans-serif; font-size: 14px; color: rgb(236, 240, 241);\">Bugfix Update #35 ze dne 23.02.2026 přidal 102 nových řádků a 14 upravil.</span></p><p><span style=\"font-family: Inter, system-ui, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, sans-serif; font-size: 14px; color: rgb(236, 240, 241);\">Navíc je sloučen překlad \"Pohonné hmoty\" jako \"Palivo\" a opraveno pár chyb, kterých jsem si všiml z původní verze.</span></p><p>Nahrána nová verze překladu: 0.26.1.12-13</p></div>",
       "authorsHtml": "<p>Starsoul</p>",
       "size": null,
       "inDevelopment": true,
@@ -11359,8 +11379,7 @@
       "authorsHtml": "<p>miracle.flame</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "239160"
+      "mirrors": []
     },
     {
       "title": "The Almost Gone",
@@ -15928,6 +15947,50 @@
       "inDevelopment": true,
       "mirrors": [],
       "steamAppId": "2369390"
+    },
+    {
+      "title": "Resident Evil 4 (2005)",
+      "studio": "Lokalizace.net",
+      "studioUrl": "https://lokalizace.net/localizations/resident-evil-4-2005-1",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": null,
+      "updatedAt": null,
+      "pageUrl": "https://lokalizace.net/localizations/resident-evil-4-2005-1",
+      "howToInstallHtml": "<p>Stáhněte ZIP soubor a rozbalte ho do složky hry, nebo použijte aplikaci CZManager pro automatickou instalaci češtiny.</p>",
+      "changelogHtml": null,
+      "authorsHtml": "<p>PERTIM</p>",
+      "size": null,
+      "inDevelopment": true,
+      "mirrors": [],
+      "steamAppId": "254700"
+    },
+    {
+      "title": "Resident Evil 5 Gold Edition (2009)",
+      "studio": "Lokalizace.net",
+      "studioUrl": "https://lokalizace.net/localizations/resident-evil-5-gold-edition",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": null,
+      "updatedAt": null,
+      "pageUrl": "https://lokalizace.net/localizations/resident-evil-5-gold-edition",
+      "howToInstallHtml": "<p>Stáhněte ZIP soubor a rozbalte ho do složky hry, nebo použijte aplikaci CZManager pro automatickou instalaci češtiny.</p>",
+      "changelogHtml": null,
+      "authorsHtml": "<p>PERTIM</p>",
+      "size": null,
+      "inDevelopment": true,
+      "mirrors": [],
+      "steamAppId": "21690"
     },
     {
       "title": "Clive Barker's Hellraiser: Revival",

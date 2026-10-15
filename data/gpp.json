@@ -3572,6 +3572,28 @@
       ]
     },
     {
+      "steamAppId": "304240",
+      "title": "Resident Evil HD Remaster",
+      "studio": "Graj Po Polsku",
+      "studioUrl": "https://grajpopolsku.pl",
+      "language": "Polski",
+      "hasText": true,
+      "hasVoice": false,
+      "version": null,
+      "updatedAt": "14.10.2026",
+      "pageUrl": "https://grajpopolsku.pl/download/resident-evil-hd-remaster/",
+      "howToInstallHtml": "<ol><li>Pobierz archiwum spolszczenia, korzystając z jednego z powyższych źródeł.</li><li>Rozpakuj archiwum.</li><li>Skopiuj wypakowane pliki do folderu z zainstalowaną grą (zastąp pliki, jeśli pojawi się pytanie).</li><li>Uruchom grę — spolszczenie powinno zostać zastosowane. Niektóre spolszczenia pozwalają wybrać język w ustawieniach gry.</li></ol>",
+      "authorsHtml": null,
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Graj Po Polsku",
+          "url": "https://grajpopolsku.pl/dwn/dwn2.0/pc/Resident_Evil_HD_Remaster_PL.rar",
+          "kind": "direct"
+        }
+      ]
+    },
+    {
       "steamAppId": "2060130",
       "title": "Return to Monkey Island",
       "studio": "Graj Po Polsku",

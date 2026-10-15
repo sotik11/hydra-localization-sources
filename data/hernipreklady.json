@@ -5,6 +5,28 @@
   "siteUrl": "https://hernipreklady.cz",
   "localizations": [
     {
+      "title": "End of Abyss",
+      "studio": "HerníPřeklady",
+      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/end-of-abyss",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": "1.00",
+      "updatedAt": null,
+      "requiredGameVersion": "Aktuální na Epicu",
+      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/end-of-abyss",
+      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
+      "authorsHtml": null,
+      "inDevelopment": true,
+      "size": null,
+      "mirrors": [],
+      "steamAppId": "530611"
+    },
+    {
       "title": "Code Vein 2",
       "studio": "HerníPřeklady",
       "studioUrl": "https://hernipreklady.cz/seznam-prekladu/code-vein-2",
@@ -59,6 +81,62 @@
         }
       ],
       "steamAppId": "4358690"
+    },
+    {
+      "title": "Frostpunk 2",
+      "studio": "HerníPřeklady",
+      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/frostpunk-2",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": "1.08",
+      "updatedAt": null,
+      "requiredGameVersion": "1.6.1",
+      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/frostpunk-2",
+      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
+      "authorsHtml": "<p><strong>Překlad:</strong> Jetro, Ralph Shepard,<br><strong>Testování:</strong> Jetro, Andrewek</p>",
+      "inDevelopment": false,
+      "size": "3.44 MB",
+      "mirrors": [
+        {
+          "label": "HerníPřeklady",
+          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=638",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "1601580"
+    },
+    {
+      "title": "Wartales + DLC",
+      "studio": "HerníPřeklady",
+      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/wartales-dlc",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": "2.7",
+      "updatedAt": null,
+      "requiredGameVersion": "1.0.48274",
+      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/wartales-dlc",
+      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
+      "authorsHtml": "<p><strong>Překlad a testování:</strong> Andrewek</p>",
+      "inDevelopment": false,
+      "size": "154.0 MB",
+      "mirrors": [
+        {
+          "label": "HerníPřeklady",
+          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=629",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "1527950"
     },
     {
       "title": "No Man's Sky",
@@ -144,34 +222,6 @@
       "steamAppId": "1425980"
     },
     {
-      "title": "Cthulhu: The Cosmic Abyss",
-      "studio": "HerníPřeklady",
-      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/cthulhu-the-cosmic-abyss",
-      "language": "Čeština",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": "1.10",
-      "updatedAt": null,
-      "requiredGameVersion": "Aktuální na Steamu",
-      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/cthulhu-the-cosmic-abyss",
-      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
-      "authorsHtml": null,
-      "inDevelopment": false,
-      "size": "2.16 MB",
-      "mirrors": [
-        {
-          "label": "HerníPřeklady",
-          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=621",
-          "kind": "direct"
-        }
-      ],
-      "steamAppId": "2760560"
-    },
-    {
       "title": "Frostpunk",
       "studio": "HerníPřeklady",
       "studioUrl": "https://hernipreklady.cz/seznam-prekladu/frostpunk",
@@ -198,6 +248,34 @@
         }
       ],
       "steamAppId": "323190"
+    },
+    {
+      "title": "Cthulhu: The Cosmic Abyss",
+      "studio": "HerníPřeklady",
+      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/cthulhu-the-cosmic-abyss",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": "1.10",
+      "updatedAt": null,
+      "requiredGameVersion": "Aktuální na Steamu",
+      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/cthulhu-the-cosmic-abyss",
+      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
+      "authorsHtml": null,
+      "inDevelopment": false,
+      "size": "2.16 MB",
+      "mirrors": [
+        {
+          "label": "HerníPřeklady",
+          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=621",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "2760560"
     },
     {
       "title": "Titanfall 2",
@@ -4420,7 +4498,7 @@
           "kind": "direct"
         }
       ],
-      "steamAppId": "1520500"
+      "steamAppId": "985830"
     },
     {
       "title": "Twin Mirror",
