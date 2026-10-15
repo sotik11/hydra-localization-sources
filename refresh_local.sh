@@ -48,6 +48,9 @@ SOURCES="komunitni-preklady magyaritasok tribogamer"
 # by an IP ban at 441 of 751 entries sailed through it.)
 MAX_DROP_PCT=15
 
+# Pause before the single rerun of a generator that exited non-zero.
+RETRY_PAUSE=120
+
 # Sources fetched at most once a week. komunitni-preklady sits behind CrowdSec,
 # which IP-bans a crawl that comes back every day; weekly is plenty for a
 # translation catalogue. The gate is a "not before" timestamp rather than a
@@ -111,6 +114,16 @@ for g in $SOURCES; do
   echo ">>> $g ($(date +%H:%M:%S))"
   node "generators/$g.mjs" 2>&1 | tail -1
   rc=${PIPESTATUS[0]}
+  # One patient retry: a site that is down for a minute must not cost the whole
+  # day. Not for weekly sources — their failure is usually an IP ban, and
+  # knocking again two minutes later only prolongs it.
+  if [ "$rc" -ne 0 ] && [ "$weekly" -eq 0 ]; then
+    echo "  !! $g exited $rc — retrying once in ${RETRY_PAUSE}s"
+    [ -f "data/$g.json.backup" ] && cp -f "data/$g.json.backup" "data/$g.json"
+    sleep "$RETRY_PAUSE"
+    node "generators/$g.mjs" 2>&1 | tail -1
+    rc=${PIPESTATUS[0]}
+  fi
   new=$(count "data/$g.json"); bak=$(count "data/$g.json.backup")
   floor=$(( bak * (100 - MAX_DROP_PCT) / 100 ))
 

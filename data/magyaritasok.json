@@ -5,6 +5,30 @@
   "siteUrl": "https://magyaritasok.hu",
   "localizations": [
     {
+      "steamAppId": "529490",
+      "title": "Rogue Trooper: Redux",
+      "studio": "Magyarítások",
+      "studioUrl": "https://magyaritasok.hu",
+      "language": "Magyar",
+      "hasText": true,
+      "hasVoice": false,
+      "version": "1.00",
+      "updatedAt": "01.10.2026",
+      "requiredGameVersion": "Steam: R5607 | GoG: R5592",
+      "size": "2.81 MB",
+      "pageUrl": "https://magyaritasok.hu/games/rogue-trooper-redux",
+      "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
+      "authorsHtml": "<p>FEARka</p>",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Magyarítások",
+          "url": "https://magyaritasok.hu/dl/RogueTrooperRedux/RogueTrooperRedux_HUN_1.00.exe",
+          "kind": "direct"
+        }
+      ]
+    },
+    {
       "title": "Mall Tycoon",
       "studio": "Magyarítások",
       "studioUrl": "https://magyaritasok.hu",
@@ -172,6 +196,30 @@
       ]
     },
     {
+      "steamAppId": "1103800",
+      "title": "World War Zero",
+      "studio": "Magyarítások",
+      "studioUrl": "https://magyaritasok.hu",
+      "language": "Magyar",
+      "hasText": true,
+      "hasVoice": false,
+      "version": "1.0",
+      "updatedAt": "01.10.2026",
+      "requiredGameVersion": null,
+      "size": "983 KB",
+      "pageUrl": "https://magyaritasok.hu/games/world-war-zero",
+      "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
+      "authorsHtml": "<p>FEARka</p>",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Magyarítások",
+          "url": "https://magyaritasok.hu/dl/WorldWarZero/WorldWarZero_HUN_v1.0.zip",
+          "kind": "direct"
+        }
+      ]
+    },
+    {
       "steamAppId": "1364010",
       "title": "The Librarian",
       "studio": "Magyarítások",
@@ -203,10 +251,10 @@
       "language": "Magyar",
       "hasText": true,
       "hasVoice": false,
-      "version": "1.06",
-      "updatedAt": "29.08.2026",
-      "requiredGameVersion": "1.5.1 2608271531",
-      "size": "351 KB",
+      "version": "1.07",
+      "updatedAt": "06.10.2026",
+      "requiredGameVersion": "1.6.0 2609301522",
+      "size": "287 KB",
       "pageUrl": "https://magyaritasok.hu/games/big-walk",
       "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
       "authorsHtml": "<p>The_Reaper_CooL</p>",
@@ -214,7 +262,7 @@
       "mirrors": [
         {
           "label": "Magyarítások",
-          "url": "https://magyaritasok.hu/dl/BigWalk/BigWalk_HUN_by_TRC_1.06.zip",
+          "url": "https://magyaritasok.hu/dl/BigWalk/BigWalk_HUN_by_TRC_1.07.zip",
           "kind": "direct"
         }
       ]
@@ -574,6 +622,30 @@
         {
           "label": "Magyarítások",
           "url": "https://magyaritasok.hu/dl/OuterWilds/Outer_Wilds_HUN_1.46.exe",
+          "kind": "direct"
+        }
+      ]
+    },
+    {
+      "steamAppId": "1049810",
+      "title": "Ancestors Legacy: Saladin's Conquest",
+      "studio": "Magyarítások",
+      "studioUrl": "https://magyaritasok.hu",
+      "language": "Magyar",
+      "hasText": true,
+      "hasVoice": false,
+      "version": "1.0",
+      "updatedAt": "01.10.2026",
+      "requiredGameVersion": null,
+      "size": "1.90 MB",
+      "pageUrl": "https://magyaritasok.hu/games/ancestors-legacy-saladins-conquest",
+      "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
+      "authorsHtml": null,
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Magyarítások",
+          "url": "https://magyaritasok.hu/dl/AncestorsLegacy/AncestorsLegacy_HUN_v1.0.zip",
           "kind": "direct"
         }
       ]
@@ -1096,6 +1168,30 @@
         {
           "label": "Magyarítások",
           "url": "https://magyaritasok.hu/dl/Deponia/Deponia1_HUN_1.1.exe",
+          "kind": "direct"
+        }
+      ]
+    },
+    {
+      "steamAppId": "1182310",
+      "title": "The Excavation of Hob's Barrow",
+      "studio": "Magyarítások",
+      "studioUrl": "https://magyaritasok.hu",
+      "language": "Magyar",
+      "hasText": true,
+      "hasVoice": false,
+      "version": "1.1",
+      "updatedAt": "13.10.2026",
+      "requiredGameVersion": "v2.0",
+      "size": "9.48 MB",
+      "pageUrl": "https://magyaritasok.hu/games/the-excavation-of-hobs-barrow",
+      "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
+      "authorsHtml": "<p>hamarfa</p>",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Magyarítások",
+          "url": "https://magyaritasok.hu/dl/TheExcavationofHobsBarrow/TEOHB_hun_v1.1.zip",
           "kind": "direct"
         }
       ]
@@ -2393,10 +2489,10 @@
       "language": "Magyar",
       "hasText": true,
       "hasVoice": false,
-      "version": "1.24",
-      "updatedAt": "03.09.2026",
-      "requiredGameVersion": "2.4.b",
-      "size": "13.0 MB",
+      "version": "1.25",
+      "updatedAt": "01.10.2026",
+      "requiredGameVersion": "2.5.a",
+      "size": "12.0 MB",
       "pageUrl": "https://magyaritasok.hu/games/peak--1",
       "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
       "authorsHtml": null,
@@ -2404,7 +2500,7 @@
       "mirrors": [
         {
           "label": "Magyarítások",
-          "url": "https://magyaritasok.hu/dl/PEAK/PEAK_Hun_by_TRC_1.24.zip",
+          "url": "https://magyaritasok.hu/dl/PEAK/PEAK_Hun_by_TRC_1.25.zip",
           "kind": "direct"
         }
       ]
@@ -4395,6 +4491,29 @@
       ]
     },
     {
+      "title": "Alan Wake II: The Lake House",
+      "studio": "Magyarítások",
+      "studioUrl": "https://magyaritasok.hu",
+      "language": "Magyar",
+      "hasText": true,
+      "hasVoice": false,
+      "version": "1.4",
+      "updatedAt": "27.08.2026",
+      "requiredGameVersion": "1.2.10",
+      "size": "6.06 MB",
+      "pageUrl": "https://magyaritasok.hu/games/alan-wake-ii-the-lake-house",
+      "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
+      "authorsHtml": "<p>Evin</p>",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Magyarítások",
+          "url": "https://magyaritasok.hu/dl/AlanWake2/AlanWakeII_hunv140.exe",
+          "kind": "direct"
+        }
+      ]
+    },
+    {
       "steamAppId": "359620",
       "title": "Prisoner of Ice",
       "studio": "Magyarítások",
@@ -4615,10 +4734,10 @@
       "language": "Magyar",
       "hasText": true,
       "hasVoice": false,
-      "version": "1.2",
-      "updatedAt": "22.05.2025",
-      "requiredGameVersion": "1.5",
-      "size": "4.47 MB",
+      "version": "1.3",
+      "updatedAt": "09.10.2026",
+      "requiredGameVersion": "2025-11-04",
+      "size": "4.49 MB",
       "pageUrl": "https://magyaritasok.hu/games/the-rise-of-the-golden-idol",
       "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
       "authorsHtml": "<p>mmatyas</p>",
@@ -4626,7 +4745,7 @@
       "mirrors": [
         {
           "label": "Magyarítások",
-          "url": "https://magyaritasok.hu/dl/TheRiseoftheGoldenIdol/GoldenIdol2_hun_v120.zip",
+          "url": "https://magyaritasok.hu/dl/TheRiseoftheGoldenIdol/GoldenIdol2_hun_v130.zip",
           "kind": "direct"
         }
       ]
@@ -5080,6 +5199,52 @@
         {
           "label": "Magyarítások",
           "url": "https://magyaritasok.hu/dl/NobodyWantsToDie/NobodyWantstoDie_hun_v1.4.exe",
+          "kind": "direct"
+        }
+      ]
+    },
+    {
+      "title": "Alan Wake II: Deluxe Edition",
+      "studio": "Magyarítások",
+      "studioUrl": "https://magyaritasok.hu",
+      "language": "Magyar",
+      "hasText": true,
+      "hasVoice": false,
+      "version": "1.4",
+      "updatedAt": "27.08.2026",
+      "requiredGameVersion": "1.2.10",
+      "size": "6.06 MB",
+      "pageUrl": "https://magyaritasok.hu/games/alan-wake-ii-deluxe-edition",
+      "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
+      "authorsHtml": "<p>Evin</p>",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Magyarítások",
+          "url": "https://magyaritasok.hu/dl/AlanWake2/AlanWakeII_hunv140.exe",
+          "kind": "direct"
+        }
+      ]
+    },
+    {
+      "title": "Alan Wake II: Night Springs",
+      "studio": "Magyarítások",
+      "studioUrl": "https://magyaritasok.hu",
+      "language": "Magyar",
+      "hasText": true,
+      "hasVoice": false,
+      "version": "1.4",
+      "updatedAt": "27.08.2026",
+      "requiredGameVersion": "1.2.10",
+      "size": "6.06 MB",
+      "pageUrl": "https://magyaritasok.hu/games/alan-wake-ii-night-springs",
+      "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
+      "authorsHtml": "<p>Evin</p>",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Magyarítások",
+          "url": "https://magyaritasok.hu/dl/AlanWake2/AlanWakeII_hunv140.exe",
           "kind": "direct"
         }
       ]
@@ -12391,10 +12556,10 @@
       "language": "Magyar",
       "hasText": true,
       "hasVoice": false,
-      "version": "1.21",
-      "updatedAt": "09.05.2026",
-      "requiredGameVersion": "2.4.0 (R23488)",
-      "size": "7.84 MB",
+      "version": "1.23",
+      "updatedAt": "13.10.2026",
+      "requiredGameVersion": "2.4.3 (R23537)",
+      "size": "10.6 MB",
       "pageUrl": "https://magyaritasok.hu/games/kingdom-two-crowns",
       "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
       "authorsHtml": "<p>Hirvadhor</p>",
@@ -12402,7 +12567,7 @@
       "mirrors": [
         {
           "label": "Magyarítások",
-          "url": "https://magyaritasok.hu/dl/KingdomTwoCrowns/KingdomTwoCrownsHUNbyTRC_1.21.zip",
+          "url": "https://magyaritasok.hu/dl/KingdomTwoCrowns/KingdomTwoCrownsHUNbyTRC_1.23.zip",
           "kind": "direct"
         }
       ]
@@ -13348,8 +13513,8 @@
       "language": "Magyar",
       "hasText": true,
       "hasVoice": false,
-      "version": "1.00",
-      "updatedAt": "08.09.2026",
+      "version": "1.01",
+      "updatedAt": "06.10.2026",
       "requiredGameVersion": "1.6.0",
       "size": "7.55 MB",
       "pageUrl": "https://magyaritasok.hu/games/the-legend-of-crystal-valley",
@@ -13359,7 +13524,7 @@
       "mirrors": [
         {
           "label": "Magyarítások",
-          "url": "https://magyaritasok.hu/dl/TheLegendofCrystalValley/TLoCV_HUN_1.00.exe",
+          "url": "https://magyaritasok.hu/dl/TheLegendofCrystalValley/TLoCV_HUN_1.01.exe",
           "kind": "direct"
         }
       ]
@@ -14125,6 +14290,30 @@
         {
           "label": "Magyarítások",
           "url": "https://magyaritasok.hu/dl/MetalGearSolidV/MGSV_GroundZeroes_hunv101.exe",
+          "kind": "direct"
+        }
+      ]
+    },
+    {
+      "steamAppId": "620590",
+      "title": "Ancestors Legacy",
+      "studio": "Magyarítások",
+      "studioUrl": "https://magyaritasok.hu",
+      "language": "Magyar",
+      "hasText": true,
+      "hasVoice": false,
+      "version": "1.0",
+      "updatedAt": "01.10.2026",
+      "requiredGameVersion": null,
+      "size": "1.90 MB",
+      "pageUrl": "https://magyaritasok.hu/games/ancestors-legacy",
+      "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
+      "authorsHtml": "<p>FEARka, Evin</p>",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Magyarítások",
+          "url": "https://magyaritasok.hu/dl/AncestorsLegacy/AncestorsLegacy_HUN_v1.0.zip",
           "kind": "direct"
         }
       ]
@@ -15067,10 +15256,10 @@
       "language": "Magyar",
       "hasText": true,
       "hasVoice": false,
-      "version": "1.09",
-      "updatedAt": "28.06.2026",
+      "version": "1.10",
+      "updatedAt": "11.10.2026",
       "requiredGameVersion": "1.407",
-      "size": "5.47 MB",
+      "size": "391 KB",
       "pageUrl": "https://magyaritasok.hu/games/graveyard-keeper",
       "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
       "authorsHtml": null,
@@ -15078,7 +15267,7 @@
       "mirrors": [
         {
           "label": "Magyarítások",
-          "url": "https://magyaritasok.hu/dl/GraveyardKeeper/GraveyardKeeperHUNbyTRC_1.09.zip",
+          "url": "https://magyaritasok.hu/dl/GraveyardKeeper/GraveyardKeeperHUNbyTRC_1.10.zip",
           "kind": "direct"
         }
       ]
@@ -29556,30 +29745,6 @@
       ]
     },
     {
-      "steamAppId": "72850",
-      "title": "The Elder Scrolls V: Skyrim",
-      "studio": "Magyarítások",
-      "studioUrl": "https://magyaritasok.hu",
-      "language": "Magyar",
-      "hasText": true,
-      "hasVoice": false,
-      "version": "2.0",
-      "updatedAt": "17.05.2020",
-      "requiredGameVersion": null,
-      "size": "115.4 MB",
-      "pageUrl": "https://magyaritasok.hu/games/the-elder-scrolls-v-skyrim",
-      "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
-      "authorsHtml": "<p>Evin, RaveAir, MorroHUN Team</p>",
-      "inDevelopment": false,
-      "mirrors": [
-        {
-          "label": "Magyarítások",
-          "url": "https://magyaritasok.hu/dl/skyrim/MorroHun_Skyrim_v2.exe",
-          "kind": "direct"
-        }
-      ]
-    },
-    {
       "steamAppId": "108600",
       "title": "Project Zomboid",
       "studio": "Magyarítások",
@@ -29599,30 +29764,6 @@
         {
           "label": "Magyarítások",
           "url": "https://magyaritasok.hu/dl/projectzomboid/project_zomboid_hun_v11.zip",
-          "kind": "direct"
-        }
-      ]
-    },
-    {
-      "steamAppId": "282030",
-      "title": "Carmageddon II: Carpocalypse Now",
-      "studio": "Magyarítások",
-      "studioUrl": "https://magyaritasok.hu",
-      "language": "Magyar",
-      "hasText": true,
-      "hasVoice": false,
-      "version": null,
-      "updatedAt": "31.05.2014",
-      "requiredGameVersion": null,
-      "size": "317 KB",
-      "pageUrl": "https://magyaritasok.hu/games/carmageddon-ii-carpocalypse-now",
-      "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
-      "authorsHtml": null,
-      "inDevelopment": false,
-      "mirrors": [
-        {
-          "label": "Magyarítások",
-          "url": "https://magyaritasok.hu/dl/carmageddon_2/carmageddon2.rar",
           "kind": "direct"
         }
       ]
@@ -35404,30 +35545,6 @@
       ]
     },
     {
-      "steamAppId": "21090",
-      "title": "F.E.A.R. Perseus Mandate",
-      "studio": "Magyarítások",
-      "studioUrl": "https://magyaritasok.hu",
-      "language": "Magyar",
-      "hasText": true,
-      "hasVoice": false,
-      "version": "1.0",
-      "updatedAt": "25.01.2023",
-      "requiredGameVersion": null,
-      "size": "778 KB",
-      "pageUrl": "https://magyaritasok.hu/games/f-e-a-r-perseus-mandate",
-      "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
-      "authorsHtml": null,
-      "inDevelopment": false,
-      "mirrors": [
-        {
-          "label": "Magyarítások",
-          "url": "https://magyaritasok.hu/dl/fear/FEAR_Perseus_Mandate_hun.zip",
-          "kind": "direct"
-        }
-      ]
-    },
-    {
       "title": "Road to India: Between Hell and Nirvana",
       "studio": "Magyarítások",
       "studioUrl": "https://magyaritasok.hu",
@@ -39453,29 +39570,6 @@
         {
           "label": "Magyarítások",
           "url": "https://magyaritasok.hu/dl/bfme/bfme_hun.exe",
-          "kind": "direct"
-        }
-      ]
-    },
-    {
-      "title": "The Lord of the Rings: The Battle for Middle-earth II: The Rise of the Witch-king",
-      "studio": "Magyarítások",
-      "studioUrl": "https://magyaritasok.hu",
-      "language": "Magyar",
-      "hasText": true,
-      "hasVoice": false,
-      "version": null,
-      "updatedAt": "23.07.2014",
-      "requiredGameVersion": null,
-      "size": "8.44 MB",
-      "pageUrl": "https://magyaritasok.hu/games/the-lord-of-the-rings-the-battle-for-middle-earth-ii-the-rise-of-the-witch-king",
-      "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
-      "authorsHtml": "<p>GameHunter TEAM</p>",
-      "inDevelopment": false,
-      "mirrors": [
-        {
-          "label": "Magyarítások",
-          "url": "https://magyaritasok.hu/dl/bfme2/bfme2wk_hun.exe",
           "kind": "direct"
         }
       ]

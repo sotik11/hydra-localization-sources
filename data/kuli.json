@@ -5,6 +5,141 @@
   "siteUrl": "https://kuli.com.ua",
   "localizations": [
     {
+      "steamAppId": "582160",
+      "title": "Assassin's Creed Origins",
+      "studio": "КУЛІ",
+      "studioUrl": "https://kuli.com.ua/assassins-creed-origins",
+      "language": "Українська",
+      "hasText": true,
+      "hasVoice": false,
+      "hasNeuralText": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "version": null,
+      "updatedAt": "13.10.2026",
+      "pageUrl": "https://kuli.com.ua/assassins-creed-origins",
+      "howToInstallHtml": "<ol><li>Завантаж українізатор за посиланням вище.</li><li>Якщо це інсталятор (.exe) — запусти його; якщо архів — розпакуй.</li><li>Скопіюй файли до теки з грою (за запиту — замінити файли).</li><li>Запусти гру — локалізація має застосуватися. Інколи мову треба вибрати в налаштуваннях гри.</li></ol>",
+      "authorsHtml": "<p>litarry, Jobitronik, DidGeim, slav1k-_-, StaLkeR318, Bloody Punisher, miK_0451, Невдоволення, Kefir, sonic</p>",
+      "size": null,
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Google Drive",
+          "url": "https://drive.google.com/file/d/1XocqVBmYMGOpB8AdZjGZWCxmEIvYGxMb/view?usp=sharing",
+          "kind": "google",
+          "size": null
+        }
+      ]
+    },
+    {
+      "steamAppId": "2169200",
+      "title": "Sniper Elite: Resistance",
+      "studio": "КУЛІ",
+      "studioUrl": "https://kuli.com.ua/sniper-elite-resistance",
+      "language": "Українська",
+      "hasText": true,
+      "hasVoice": false,
+      "hasNeuralText": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "version": null,
+      "updatedAt": "12.10.2026",
+      "pageUrl": "https://kuli.com.ua/sniper-elite-resistance",
+      "howToInstallHtml": "<ol><li>Завантаж українізатор за посиланням вище.</li><li>Якщо це інсталятор (.exe) — запусти його; якщо архів — розпакуй.</li><li>Скопіюй файли до теки з грою (за запиту — замінити файли).</li><li>Запусти гру — локалізація має застосуватися. Інколи мову треба вибрати в налаштуваннях гри.</li></ol>",
+      "authorsHtml": "<p>976h, Vnckxnt</p>",
+      "size": null,
+      "inDevelopment": true,
+      "mirrors": [
+        {
+          "label": "Google Drive",
+          "url": "https://drive.google.com/file/d/1jJ___W9daW7VdlP3ulRZrvkfwJeJfMrW/view",
+          "kind": "google",
+          "size": null
+        }
+      ]
+    },
+    {
+      "steamAppId": "3008130",
+      "title": "Dying Light The Beast",
+      "studio": "КУЛІ",
+      "studioUrl": "https://kuli.com.ua/dying-light-the-beast",
+      "language": "Українська",
+      "hasText": true,
+      "hasVoice": false,
+      "hasNeuralText": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "version": null,
+      "updatedAt": "12.10.2026",
+      "pageUrl": "https://kuli.com.ua/dying-light-the-beast",
+      "howToInstallHtml": "<ol><li>Завантаж українізатор за посиланням вище.</li><li>Якщо це інсталятор (.exe) — запусти його; якщо архів — розпакуй.</li><li>Скопіюй файли до теки з грою (за запиту — замінити файли).</li><li>Запусти гру — локалізація має застосуватися. Інколи мову треба вибрати в налаштуваннях гри.</li></ol>",
+      "authorsHtml": "<p>Parapando, litarry, Vnckxnt, Bloody Punisher, shadowww</p>",
+      "size": null,
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Google Drive",
+          "url": "https://drive.google.com/file/d/1CRgRiqpOQ7VTTWOH-ksifYUx8jVLLktg/edit",
+          "kind": "google",
+          "size": null
+        }
+      ]
+    },
+    {
+      "steamAppId": "219990",
+      "title": "Grim Dawn",
+      "studio": "КУЛІ",
+      "studioUrl": "https://kuli.com.ua/grim-dawn",
+      "language": "Українська",
+      "hasText": true,
+      "hasVoice": false,
+      "hasNeuralText": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "version": null,
+      "updatedAt": "09.10.2026",
+      "pageUrl": "https://kuli.com.ua/grim-dawn",
+      "howToInstallHtml": "<ol><li>Завантаж українізатор за посиланням вище.</li><li>Якщо це інсталятор (.exe) — запусти його; якщо архів — розпакуй.</li><li>Скопіюй файли до теки з грою (за запиту — замінити файли).</li><li>Запусти гру — локалізація має застосуватися. Інколи мову треба вибрати в налаштуваннях гри.</li></ol>",
+      "authorsHtml": "<p>Aedan</p>",
+      "size": null,
+      "inDevelopment": true,
+      "mirrors": [
+        {
+          "label": "Google Drive",
+          "url": "https://drive.google.com/drive/folders/1rC7fMWpzA7SxF3weLOwXNkE5pHpTLtWn?usp=sharing",
+          "kind": "google",
+          "size": null
+        }
+      ]
+    },
+    {
+      "steamAppId": "1194630",
+      "title": "The Dark Pictures Anthology: Little Hope",
+      "studio": "КУЛІ",
+      "studioUrl": "https://kuli.com.ua/the-dark-pictures-anthology-little-hope",
+      "language": "Українська",
+      "hasText": true,
+      "hasVoice": false,
+      "hasNeuralText": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "version": null,
+      "updatedAt": "01.10.2026",
+      "pageUrl": "https://kuli.com.ua/the-dark-pictures-anthology-little-hope",
+      "howToInstallHtml": "<ol><li>Завантаж українізатор за посиланням вище.</li><li>Якщо це інсталятор (.exe) — запусти його; якщо архів — розпакуй.</li><li>Скопіюй файли до теки з грою (за запиту — замінити файли).</li><li>Запусти гру — локалізація має застосуватися. Інколи мову треба вибрати в налаштуваннях гри.</li></ol>",
+      "authorsHtml": "<p>Loolze</p>",
+      "size": null,
+      "inDevelopment": true,
+      "mirrors": [
+        {
+          "label": "Google Drive",
+          "url": "https://drive.google.com/drive/folders/1GeKKxPzQUEJgPXukrDiUAn89EdKi_vnc",
+          "kind": "google",
+          "size": null
+        }
+      ]
+    },
+    {
       "steamAppId": "816340",
       "title": "Kingdom Rush Origins - Tower Defense",
       "studio": "КУЛІ",
@@ -16,7 +151,7 @@
       "hasNeuralVoice": false,
       "hasNeuralDub": false,
       "version": null,
-      "updatedAt": "28.09.2026",
+      "updatedAt": "10.10.2026",
       "pageUrl": "https://kuli.com.ua/kingdom-rush-origins-tower-defence",
       "howToInstallHtml": "<ol><li>Завантаж українізатор за посиланням вище.</li><li>Якщо це інсталятор (.exe) — запусти його; якщо архів — розпакуй.</li><li>Скопіюй файли до теки з грою (за запиту — замінити файли).</li><li>Запусти гру — локалізація має застосуватися. Інколи мову треба вибрати в налаштуваннях гри.</li></ol>",
       "authorsHtml": "<p>art0 з локалізацією коміксів</p>",
@@ -43,7 +178,7 @@
       "hasNeuralVoice": false,
       "hasNeuralDub": false,
       "version": null,
-      "updatedAt": "28.09.2026",
+      "updatedAt": "10.10.2026",
       "pageUrl": "https://kuli.com.ua/kingdom-rush-frontiers-tower-defense",
       "howToInstallHtml": "<ol><li>Завантаж українізатор за посиланням вище.</li><li>Якщо це інсталятор (.exe) — запусти його; якщо архів — розпакуй.</li><li>Скопіюй файли до теки з грою (за запиту — замінити файли).</li><li>Запусти гру — локалізація має застосуватися. Інколи мову треба вибрати в налаштуваннях гри.</li></ol>",
       "authorsHtml": "<p>art0 з локалізацією коміксів</p>",
@@ -70,7 +205,7 @@
       "hasNeuralVoice": false,
       "hasNeuralDub": false,
       "version": null,
-      "updatedAt": "26.09.2026",
+      "updatedAt": "01.10.2026",
       "pageUrl": "https://kuli.com.ua/star-wars-battlefront-ii-classic-2005-2",
       "howToInstallHtml": "<ol><li>Завантаж українізатор за посиланням вище.</li><li>Якщо це інсталятор (.exe) — запусти його; якщо архів — розпакуй.</li><li>Скопіюй файли до теки з грою (за запиту — замінити файли).</li><li>Запусти гру — локалізація має застосуватися. Інколи мову треба вибрати в налаштуваннях гри.</li></ol>",
       "authorsHtml": "<p>EMP_UA</p>",
@@ -80,6 +215,33 @@
         {
           "label": "Google Drive",
           "url": "https://drive.google.com/drive/folders/1uL36by-MD6x-wNZlqfcCH7nPBXR7eaTK?usp=sharing",
+          "kind": "google",
+          "size": null
+        }
+      ]
+    },
+    {
+      "steamAppId": "1588550",
+      "title": "Cairn",
+      "studio": "КУЛІ",
+      "studioUrl": "https://kuli.com.ua/cairn",
+      "language": "Українська",
+      "hasText": true,
+      "hasVoice": false,
+      "hasNeuralText": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "version": null,
+      "updatedAt": "09.10.2026",
+      "pageUrl": "https://kuli.com.ua/cairn",
+      "howToInstallHtml": "<ol><li>Завантаж українізатор за посиланням вище.</li><li>Якщо це інсталятор (.exe) — запусти його; якщо архів — розпакуй.</li><li>Скопіюй файли до теки з грою (за запиту — замінити файли).</li><li>Запусти гру — локалізація має застосуватися. Інколи мову треба вибрати в налаштуваннях гри.</li></ol>",
+      "authorsHtml": "<p>Daimosok</p>",
+      "size": null,
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Google Drive",
+          "url": "https://drive.google.com/file/d/12GqDDK4AkIrlKib7jS_yoaHQvDVYHPe2/view?usp=sharing",
           "kind": "google",
           "size": null
         }
@@ -987,7 +1149,7 @@
       "hasNeuralVoice": false,
       "hasNeuralDub": false,
       "version": null,
-      "updatedAt": "08.08.2026",
+      "updatedAt": "01.10.2026",
       "pageUrl": "https://kuli.com.ua/farmers-dynasty-2",
       "howToInstallHtml": "<ol><li>Завантаж українізатор за посиланням вище.</li><li>Якщо це інсталятор (.exe) — запусти його; якщо архів — розпакуй.</li><li>Скопіюй файли до теки з грою (за запиту — замінити файли).</li><li>Запусти гру — локалізація має застосуватися. Інколи мову треба вибрати в налаштуваннях гри.</li></ol>",
       "authorsHtml": "<p>JustEndryu</p>",
@@ -1348,33 +1510,6 @@
         {
           "label": "Google Drive",
           "url": "https://drive.google.com/file/d/1Y1guRfDX3lXSH0l4czIWjTuGTF1zFb47/view",
-          "kind": "google",
-          "size": null
-        }
-      ]
-    },
-    {
-      "steamAppId": "21690",
-      "title": "Resident Evil 5",
-      "studio": "КУЛІ",
-      "studioUrl": "https://kuli.com.ua/resident-evil-5",
-      "language": "Українська",
-      "hasText": false,
-      "hasVoice": false,
-      "hasNeuralText": true,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "version": null,
-      "updatedAt": "07.04.2026",
-      "pageUrl": "https://kuli.com.ua/resident-evil-5",
-      "howToInstallHtml": "<ol><li>Завантаж українізатор за посиланням вище.</li><li>Якщо це інсталятор (.exe) — запусти його; якщо архів — розпакуй.</li><li>Скопіюй файли до теки з грою (за запиту — замінити файли).</li><li>Запусти гру — локалізація має застосуватися. Інколи мову треба вибрати в налаштуваннях гри.</li></ol>",
-      "authorsHtml": "<p>dmg&ua</p>",
-      "size": null,
-      "inDevelopment": false,
-      "mirrors": [
-        {
-          "label": "Google Drive",
-          "url": "https://drive.google.com/file/d/1bysciG_YwRXIaQ260_NInXpfQIrY_Gfm/view",
           "kind": "google",
           "size": null
         }
@@ -6368,6 +6503,33 @@
       ]
     },
     {
+      "steamAppId": "243950",
+      "title": "Divinity: Dragon Commander",
+      "studio": "КУЛІ",
+      "studioUrl": "https://kuli.com.ua/divinity-dragon-commander",
+      "language": "Українська",
+      "hasText": true,
+      "hasVoice": false,
+      "hasNeuralText": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "version": null,
+      "updatedAt": "08.10.2026",
+      "pageUrl": "https://kuli.com.ua/divinity-dragon-commander",
+      "howToInstallHtml": "<ol><li>Завантаж українізатор за посиланням вище.</li><li>Якщо це інсталятор (.exe) — запусти його; якщо архів — розпакуй.</li><li>Скопіюй файли до теки з грою (за запиту — замінити файли).</li><li>Запусти гру — локалізація має застосуватися. Інколи мову треба вибрати в налаштуваннях гри.</li></ol>",
+      "authorsHtml": "<p>Галицького Розбишаки</p>",
+      "size": null,
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Google Drive",
+          "url": "https://drive.google.com/drive/folders/1-pjUBG1W_O9RjWqc4P5K970llBsdrsU4",
+          "kind": "google",
+          "size": null
+        }
+      ]
+    },
+    {
       "steamAppId": "965320",
       "title": "The Settlers 7: Paths to a Kingdom",
       "studio": "КУЛІ",
@@ -8850,7 +9012,7 @@
       "hasNeuralVoice": false,
       "hasNeuralDub": false,
       "version": null,
-      "updatedAt": "03.09.2024",
+      "updatedAt": "08.10.2026",
       "pageUrl": "https://kuli.com.ua/shadow-of-the-tomb-raider-definitive-edition",
       "howToInstallHtml": "<ol><li>Завантаж українізатор за посиланням вище.</li><li>Якщо це інсталятор (.exe) — запусти його; якщо архів — розпакуй.</li><li>Скопіюй файли до теки з грою (за запиту — замінити файли).</li><li>Запусти гру — локалізація має застосуватися. Інколи мову треба вибрати в налаштуваннях гри.</li></ol>",
       "authorsHtml": "<p>спільноти</p>",
@@ -11469,33 +11631,6 @@
         {
           "label": "Google Drive",
           "url": "https://drive.google.com/file/d/1Ihoz3wQOt5WX6i5EJEMPsx95h05xYKon/view?usp=sharing",
-          "kind": "google",
-          "size": null
-        }
-      ]
-    },
-    {
-      "steamAppId": "941570",
-      "title": "Relicta",
-      "studio": "КУЛІ",
-      "studioUrl": "https://kuli.com.ua/relicta",
-      "language": "Українська",
-      "hasText": true,
-      "hasVoice": false,
-      "hasNeuralText": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "version": null,
-      "updatedAt": "24.01.2024",
-      "pageUrl": "https://kuli.com.ua/relicta",
-      "howToInstallHtml": "<ol><li>Завантаж українізатор за посиланням вище.</li><li>Якщо це інсталятор (.exe) — запусти його; якщо архів — розпакуй.</li><li>Скопіюй файли до теки з грою (за запиту — замінити файли).</li><li>Запусти гру — локалізація має застосуватися. Інколи мову треба вибрати в налаштуваннях гри.</li></ol>",
-      "authorsHtml": "<p>Дмитра Топорця</p>",
-      "size": null,
-      "inDevelopment": true,
-      "mirrors": [
-        {
-          "label": "Google Drive",
-          "url": "https://drive.google.com/file/d/1G5TFt7pf3gVEWqSfUJqDkqKXp8hZq0RI/view?usp=sharing",
           "kind": "google",
           "size": null
         }
@@ -20109,7 +20244,7 @@
       "mirrors": [
         {
           "label": "Google Drive",
-          "url": "https://www.google.com/sorry/index?continue=https://drive.google.com/file/d/1HuBFhLtueTko6b4F1kW8_IHO1kn7W-u1/view%3Fusp%3Dsharing&q=EgQUPs8DGKXd-NUGIjCSsTaLXNig3pQPorG3Hw_HXZq2KLuN-kBbd8Iwh2K8O8SFtIWkZBCN7VmRUORfhtQyAnJSShFTT1JSWV9JU1BfTUVTU0FHRVoBQw",
+          "url": "https://drive.google.com/file/d/1HuBFhLtueTko6b4F1kW8_IHO1kn7W-u1/view?usp=sharing",
           "kind": "google",
           "size": null
         }
@@ -20406,7 +20541,7 @@
       "mirrors": [
         {
           "label": "Google Drive",
-          "url": "https://www.google.com/sorry/index?continue=https://drive.google.com/file/d/1WN8QUyhxCSnH9Oqcqluy9AfQLGDFsRVk/view&q=EgQUPs8DGKbd-NUGIjDT_mq3DAL-UE75gMEoWeQvgiyXDdM_6rmfapzGFsaeHpDVajnpJDfr7jc1DbbaXacyAnJSShFTT1JSWV9JU1BfTUVTU0FHRVoBQw",
+          "url": "https://drive.google.com/file/d/1WN8QUyhxCSnH9Oqcqluy9AfQLGDFsRVk/view",
           "kind": "google",
           "size": null
         }
@@ -20595,7 +20730,7 @@
       "mirrors": [
         {
           "label": "Google Drive",
-          "url": "https://drive.google.com/file/d/1bvXWHZWNlRoQ_ohpYYf9LLGIcw34ywW1/view?usp=sharing",
+          "url": "https://www.google.com/sorry/index?continue=https://drive.google.com/file/d/1bvXWHZWNlRoQ_ohpYYf9LLGIcw34ywW1/view%3Fusp%3Dsharing&q=EgSsrJkoGKX-vNYGIjBHx7Z4BfITJLpLnAgGIH2Ru924l3KDbQgHNKys_z3dHNiUoBEy3_nIVOQH9hllLCEyAnJSShFTT1JSWV9JU1BfTUVTU0FHRVoBQw",
           "kind": "google",
           "size": null
         }
@@ -20649,7 +20784,7 @@
       "mirrors": [
         {
           "label": "Google Drive",
-          "url": "https://www.google.com/sorry/index?continue=https://drive.google.com/file/d/1ME4Pid-e6UXSLi4UMc20jKQMgcBC0YXf/view%3Fusp%3Dshare_link&q=EgQUPs8DGKnd-NUGIjB0xbkFwnjzvigkDJhhHGPzY55Jc4OAOT_Tb-2PkPk_6kYPmsmkzS1siDO20J8_lukyAnJSShFTT1JSWV9JU1BfTUVTU0FHRVoBQw",
+          "url": "https://www.google.com/sorry/index?continue=https://drive.google.com/file/d/1ME4Pid-e6UXSLi4UMc20jKQMgcBC0YXf/view%3Fusp%3Dshare_link&q=EgSsrJkoGKX-vNYGIjA-A6BJGasrSKDArPmrlAgduBrPXi4AQ05DD8taeyJedLt1EhY2XwYIAnhMu9KNMnAyAnJSShFTT1JSWV9JU1BfTUVTU0FHRVoBQw",
           "kind": "google",
           "size": null
         }
@@ -20891,7 +21026,7 @@
       "mirrors": [
         {
           "label": "Google Drive",
-          "url": "https://www.google.com/sorry/index?continue=https://drive.google.com/file/d/1DkpIX0VGC6UDMOe736yqiQTyNWYUXkvA/view%3Fusp%3Ddrive_link&q=EgQUPs8DGKvd-NUGIjAKVyO5HUWktlllsUK1TKRKVizDTuASDi_gLT9bVkvuCb8GQBmO3F393oipny2VUXsyAnJSShFTT1JSWV9JU1BfTUVTU0FHRVoBQw",
+          "url": "https://drive.google.com/file/d/1DkpIX0VGC6UDMOe736yqiQTyNWYUXkvA/view?usp=drive_link",
           "kind": "google",
           "size": null
         }
@@ -20918,7 +21053,7 @@
       "mirrors": [
         {
           "label": "Google Drive",
-          "url": "https://drive.google.com/file/d/1nJykV5OD9Ahpu89h5aqrwleanQ8DOpLE/view?usp=sharing",
+          "url": "https://www.google.com/sorry/index?continue=https://drive.google.com/file/d/1nJykV5OD9Ahpu89h5aqrwleanQ8DOpLE/view%3Fusp%3Dsharing&q=EgSsrJkoGKf-vNYGIjDR8llfaWkYKGk-6KBlpdCszfERq1jiitrObc9RdxkPJ1mYoNS3H3Eq2fJPv5wVm7gyAnJSShFTT1JSWV9JU1BfTUVTU0FHRVoBQw",
           "kind": "google",
           "size": null
         }
@@ -21053,7 +21188,7 @@
       "mirrors": [
         {
           "label": "Google Drive",
-          "url": "https://www.google.com/sorry/index?continue=https://drive.google.com/file/d/1fcwlxVHUnNZTdzhVwwJ-xOt3xvSQkiVL/view&q=EgQUPs8DGK3d-NUGIjDnRLC5cBg_q8IxysBxqPU8adk3mwMC8IBRwb8umPsVBwxnQRYK-5Y-8sr0qhWSBBwyAnJSShFTT1JSWV9JU1BfTUVTU0FHRVoBQw",
+          "url": "https://www.google.com/sorry/index?continue=https://drive.google.com/file/d/1fcwlxVHUnNZTdzhVwwJ-xOt3xvSQkiVL/view&q=EgSsrJkoGKn-vNYGIjDjqMPw-xUyVOg9h4jt6UxUKhs4hUHfgpIr10JcurxbvnyGPlHP0YJkfkqdXhKnGVsyAnJSShFTT1JSWV9JU1BfTUVTU0FHRVoBQw",
           "kind": "google",
           "size": null
         }
@@ -21161,7 +21296,7 @@
       "mirrors": [
         {
           "label": "Google Drive",
-          "url": "https://www.google.com/sorry/index?continue=https://drive.google.com/file/d/1d189lNSDicQgLNqOr1uJsjn-uthHNA3b/view&q=EgQUPs8DGK3d-NUGIjDmbjZAPmsHE_SMcm3HF3fYMtwOlg0k56Wmy0KfbsUWVOLF0_lMCwMJIA90ZxETCYMyAnJSShFTT1JSWV9JU1BfTUVTU0FHRVoBQw",
+          "url": "https://drive.google.com/file/d/1d189lNSDicQgLNqOr1uJsjn-uthHNA3b/view",
           "kind": "google",
           "size": null
         }
@@ -21188,7 +21323,7 @@
       "mirrors": [
         {
           "label": "Google Drive",
-          "url": "https://www.google.com/sorry/index?continue=https://drive.google.com/file/d/1lHuX155TtOkTwEfXApwNTnnUamCpvpCM/view&q=EgQUPs8DGK3d-NUGIjBaUzJi54GLwo7mXvLXBqCKIMXrkh8RIy63EebaL8G4Gw7sLonHRvz8K0tLA3f2d84yAnJSShFTT1JSWV9JU1BfTUVTU0FHRVoBQw",
+          "url": "https://drive.google.com/file/d/1lHuX155TtOkTwEfXApwNTnnUamCpvpCM/view",
           "kind": "google",
           "size": null
         }
@@ -21215,7 +21350,7 @@
       "mirrors": [
         {
           "label": "Google Drive",
-          "url": "https://www.google.com/sorry/index?continue=https://drive.google.com/file/d/1a5dqzwFT7W4ALN1ZQ4HRfQWB1_gYVPns/view&q=EgQUPs8DGK3d-NUGIjBwS0LBPCARR4uycLlQlfkmQlA0BZhxX4edX3Hhf0MCRwLBpxr3-RN_dufvfg1T-eoyAnJSShFTT1JSWV9JU1BfTUVTU0FHRVoBQw",
+          "url": "https://drive.google.com/file/d/1a5dqzwFT7W4ALN1ZQ4HRfQWB1_gYVPns/view",
           "kind": "google",
           "size": null
         }
@@ -21242,7 +21377,7 @@
       "mirrors": [
         {
           "label": "Google Drive",
-          "url": "https://drive.google.com/file/d/1z3iQiRs10JEaprV2aWug4Umbw-HIAYBZ/view",
+          "url": "https://www.google.com/sorry/index?continue=https://drive.google.com/file/d/1z3iQiRs10JEaprV2aWug4Umbw-HIAYBZ/view&q=EgSsrJkoGKr-vNYGIjA25xrbltk1ksohlNEEd2_LA8eA-N_1qZFk0IOVPO2DcuKVnzvvsOPokPYaCJQryJ4yAnJSShFTT1JSWV9JU1BfTUVTU0FHRVoBQw",
           "kind": "google",
           "size": null
         }
@@ -21350,7 +21485,7 @@
       "mirrors": [
         {
           "label": "Google Drive",
-          "url": "https://drive.google.com/file/d/1UBwAhvbKp5BKfLSzU9nCI55oCPrMjVU_/view",
+          "url": "https://www.google.com/sorry/index?continue=https://drive.google.com/file/d/1UBwAhvbKp5BKfLSzU9nCI55oCPrMjVU_/view&q=EgSsrJkoGKv-vNYGIjBnBYA7cFL3DPMjIdavKDG15YXYEsSvJsdfTQaBemGG7ExuQiYxqq-uPlE0FZhWi4EyAnJSShFTT1JSWV9JU1BfTUVTU0FHRVoBQw",
           "kind": "google",
           "size": null
         }
@@ -21377,7 +21512,7 @@
       "mirrors": [
         {
           "label": "Google Drive",
-          "url": "https://www.google.com/sorry/index?continue=https://drive.google.com/file/d/1-gzMhh6AoqM9ASxsue-nvE-_UpfGwOMw/view&q=EgQUPs8DGK_d-NUGIjAsbsM3S2tznJ5N0KxZwDpmoSvgb2pRO56u3LaXr_jhrmqiwQ7aPTyIM9vryFoTJs8yAnJSShFTT1JSWV9JU1BfTUVTU0FHRVoBQw",
+          "url": "https://drive.google.com/file/d/1-gzMhh6AoqM9ASxsue-nvE-_UpfGwOMw/view",
           "kind": "google",
           "size": null
         }
@@ -21431,7 +21566,7 @@
       "mirrors": [
         {
           "label": "Google Drive",
-          "url": "https://www.google.com/sorry/index?continue=https://drive.google.com/file/d/1c5FfdHL67QtYFbX81BlanS_EBdjDHYGK/view&q=EgQUPs8DGLDd-NUGIjBRM2JuDAewZNrdw7379kmiMg42KYohbB49gJDLP3reZPJQIatnwmJFNyP25M8sBnkyAnJSShFTT1JSWV9JU1BfTUVTU0FHRVoBQw",
+          "url": "https://www.google.com/sorry/index?continue=https://drive.google.com/file/d/1c5FfdHL67QtYFbX81BlanS_EBdjDHYGK/view&q=EgSsrJkoGK3-vNYGIjAQtnlpQkdZiO76ayZfyvR68Sd9wIfd8rEh6gOu3eizd_dNUPCtCxmSuNThTmuBflsyAnJSShFTT1JSWV9JU1BfTUVTU0FHRVoBQw",
           "kind": "google",
           "size": null
         }
@@ -21539,7 +21674,7 @@
       "mirrors": [
         {
           "label": "Google Drive",
-          "url": "https://www.google.com/sorry/index?continue=https://drive.google.com/file/d/1-uo5Vc0fmzPgUmhNlOjxOPH6bJMYzaFp/view&q=EgQUPs8DGLLd-NUGIjALXIAOL33XnLo6LgPsfQQzgFMomIvzrddgPOeHnPIfBSfCasflMlcve8YbqO4jD2gyAnJSShFTT1JSWV9JU1BfTUVTU0FHRVoBQw",
+          "url": "https://drive.google.com/file/d/1-uo5Vc0fmzPgUmhNlOjxOPH6bJMYzaFp/view",
           "kind": "google",
           "size": null
         }
@@ -21566,7 +21701,7 @@
       "mirrors": [
         {
           "label": "Google Drive",
-          "url": "https://www.google.com/sorry/index?continue=https://drive.google.com/file/d/1oWsFo4Akx4xhww-Ly2szO4dJcnP9wxIy/view&q=EgQUPs8DGLLd-NUGIjCQBjztjYpYRGui_-MoGKj5CIJIsrLkOWKXvbvLmWqdRqbOW8jW5UPU2vUu4zVtWNIyAnJSShFTT1JSWV9JU1BfTUVTU0FHRVoBQw",
+          "url": "https://www.google.com/sorry/index?continue=https://drive.google.com/file/d/1oWsFo4Akx4xhww-Ly2szO4dJcnP9wxIy/view&q=EgSsrJkoGK7-vNYGIjC80KIqY_q7PSpfdb9q3Yj1yEvleD_aMpPNulEidzgZbqQN8MYXmSs8S9tWB_0GcU4yAnJSShFTT1JSWV9JU1BfTUVTU0FHRVoBQw",
           "kind": "google",
           "size": null
         }
@@ -21593,7 +21728,7 @@
       "mirrors": [
         {
           "label": "Google Drive",
-          "url": "https://www.google.com/sorry/index?continue=https://drive.google.com/file/d/1SYXJplGrHkRKBZ_RxZdU-vpBGJygQtZZ/view&q=EgQUPs8DGLLd-NUGIjCs38J4Jw7f8SK3l3qnO2HNMdOTN2Mw-IgSqTcEh5D6ehBcMSAuCQdrtH2V9XkYnCcyAnJSShFTT1JSWV9JU1BfTUVTU0FHRVoBQw",
+          "url": "https://www.google.com/sorry/index?continue=https://drive.google.com/file/d/1SYXJplGrHkRKBZ_RxZdU-vpBGJygQtZZ/view&q=EgSsrJkoGK7-vNYGIjAEGytm2V5H68psS4jB107Vv7H7OQN0Xsq5S3U9IYyLU64T9bcAm_3bFByf6uf00IAyAnJSShFTT1JSWV9JU1BfTUVTU0FHRVoBQw",
           "kind": "google",
           "size": null
         }
@@ -21620,7 +21755,7 @@
       "mirrors": [
         {
           "label": "Google Drive",
-          "url": "https://www.google.com/sorry/index?continue=https://drive.google.com/file/d/1ZI0NctYqp79chy-uqlKKiEqkyCZJPaTZ/view&q=EgQUPs8DGLLd-NUGIjBBh_yvnIw6HhjAD7IyWS_PkPamGy4gzD3oDV0FlusrLiX19skss_tODKS6GbwEO2gyAnJSShFTT1JSWV9JU1BfTUVTU0FHRVoBQw",
+          "url": "https://www.google.com/sorry/index?continue=https://drive.google.com/file/d/1ZI0NctYqp79chy-uqlKKiEqkyCZJPaTZ/view&q=EgSsrJkoGK_-vNYGIjC5maRUyR_P-17LovgYZ924AY_xSzt-t4b652kHrCovx56iGl-14SafN0gU_Mz_l2UyAnJSShFTT1JSWV9JU1BfTUVTU0FHRVoBQw",
           "kind": "google",
           "size": null
         }
@@ -21647,7 +21782,7 @@
       "mirrors": [
         {
           "label": "Google Drive",
-          "url": "https://www.google.com/sorry/index?continue=https://drive.google.com/file/d/1kUtpabLELUPHodiUYH0V3CoOuraRJXAA/view&q=EgQUPs8DGLPd-NUGIjDZrFemufRM3rqFfJnmkggeMvmXbNjaxW1-B0YwnxZaqanst9oGpDgbR9LDbW7K5AMyAnJSShFTT1JSWV9JU1BfTUVTU0FHRVoBQw",
+          "url": "https://www.google.com/sorry/index?continue=https://drive.google.com/file/d/1kUtpabLELUPHodiUYH0V3CoOuraRJXAA/view&q=EgSsrJkoGK_-vNYGIjCIdwMWMcnsQXduI1gbKRPR__53H4cm1BIvS4_2BB_8ZtnSw63JKR3fL3HVC4Z--PsyAnJSShFTT1JSWV9JU1BfTUVTU0FHRVoBQw",
           "kind": "google",
           "size": null
         }
@@ -21674,7 +21809,7 @@
       "mirrors": [
         {
           "label": "Google Drive",
-          "url": "https://www.google.com/sorry/index?continue=https://drive.google.com/file/d/1twS5hp-lavedg7aDmtxuGIFAX9FRqYqG/view&q=EgQUPs8DGLPd-NUGIjA9-CD9-BYPjlTub9ZcmGslte-zWF00edqZehwQuwo3hFGL18tcpnuNmPBdZHkUSNYyAnJSShFTT1JSWV9JU1BfTUVTU0FHRVoBQw",
+          "url": "https://www.google.com/sorry/index?continue=https://drive.google.com/file/d/1twS5hp-lavedg7aDmtxuGIFAX9FRqYqG/view&q=EgSsrJkoGK_-vNYGIjB_CE4-BGK9C2PKQfdEk1mIeQcor3xIkzGuAjBrwPDOfZALsRyJde2jgUUbE2xy3ooyAnJSShFTT1JSWV9JU1BfTUVTU0FHRVoBQw",
           "kind": "google",
           "size": null
         }
@@ -21701,7 +21836,7 @@
       "mirrors": [
         {
           "label": "Google Drive",
-          "url": "https://www.google.com/sorry/index?continue=https://drive.google.com/file/d/1eGxqleK3ymQCp2b9uRjDIWaNnrZuqfRz/view&q=EgQUPs8DGLPd-NUGIjAKIil6plQBOmFu2X7gjIc40qXiTD4W_1ZchO8RBQ-19UW9KUorrHNsdB_qibpJlXIyAnJSShFTT1JSWV9JU1BfTUVTU0FHRVoBQw",
+          "url": "https://www.google.com/sorry/index?continue=https://drive.google.com/file/d/1eGxqleK3ymQCp2b9uRjDIWaNnrZuqfRz/view&q=EgSsrJkoGLD-vNYGIjB9esPHaVzrt5IzwsCFec3YgswPLmGW-rgvVkhNtKcv-J91CR00oCi8bzPhjaJCtzAyAnJSShFTT1JSWV9JU1BfTUVTU0FHRVoBQw",
           "kind": "google",
           "size": null
         }
@@ -21890,7 +22025,7 @@
       "mirrors": [
         {
           "label": "Google Drive",
-          "url": "https://www.google.com/sorry/index?continue=https://drive.google.com/file/d/1TbhXRoQjSC1mN-yTrJqr5XvzoYWKRcO8/view%3Fusp%3Dsharing&q=EgQUPs8DGLTd-NUGIjB4llHpFWKeMlmLZPuFYW51-GPQIucCpNdcdggD1xBgDpfQc0Xgi-tn0sQPtYAIHNMyAnJSShFTT1JSWV9JU1BfTUVTU0FHRVoBQw",
+          "url": "https://www.google.com/sorry/index?continue=https://drive.google.com/file/d/1TbhXRoQjSC1mN-yTrJqr5XvzoYWKRcO8/view%3Fusp%3Dsharing&q=EgSsrJkoGLH-vNYGIjDLuCHQQRxdqv68CTjNjExTxl3VFKOhG-lpmreIMs6Hroux19oelEOgucobAuFp69syAnJSShFTT1JSWV9JU1BfTUVTU0FHRVoBQw",
           "kind": "google",
           "size": null
         }
@@ -21917,7 +22052,7 @@
       "mirrors": [
         {
           "label": "Google Drive",
-          "url": "https://drive.google.com/file/d/1hkKn74IK-OvqdXfnz0DngcM3PhUmD0aP/view?usp=sharing",
+          "url": "https://www.google.com/sorry/index?continue=https://drive.google.com/file/d/1hkKn74IK-OvqdXfnz0DngcM3PhUmD0aP/view%3Fusp%3Dsharing&q=EgSsrJkoGLH-vNYGIjCSEIxB6JMropULNrohIe7CGm3JQt7q8t9Sp04Nx9L01B2W9j4PvyKUCQjrKFc4PgwyAnJSShFTT1JSWV9JU1BfTUVTU0FHRVoBQw",
           "kind": "google",
           "size": null
         }
@@ -22132,7 +22267,7 @@
       "mirrors": [
         {
           "label": "Google Drive",
-          "url": "https://www.google.com/sorry/index?continue=https://drive.google.com/file/d/1Ll8YUXV7ujCfnWPQ-Qgi8vMNNu5v0vh8/view&q=EgQUPs8DGLfd-NUGIjCQxPS-Q_BsOZDo3a9ZPJK3oZcNhMQ7lE6iYYCR9Q61yanVQvKH2AWB_X_JleZ3YuoyAnJSShFTT1JSWV9JU1BfTUVTU0FHRVoBQw",
+          "url": "https://drive.google.com/file/d/1Ll8YUXV7ujCfnWPQ-Qgi8vMNNu5v0vh8/view",
           "kind": "google",
           "size": null
         }
@@ -22186,7 +22321,7 @@
       "mirrors": [
         {
           "label": "Google Drive",
-          "url": "https://www.google.com/sorry/index?continue=https://drive.google.com/file/d/13bvup37EoieHugHzXPt9rTDSAM5PPj6J/view%3Fusp%3Dsharing&q=EgQUPs8DGLfd-NUGIjD6MwZrkNmv7MNwPf3uX089JSaAO_hgYVsiKflYmarw3_L08SOxsoThQ7dr-Ne2FrYyAnJSShFTT1JSWV9JU1BfTUVTU0FHRVoBQw",
+          "url": "https://www.google.com/sorry/index?continue=https://drive.google.com/file/d/13bvup37EoieHugHzXPt9rTDSAM5PPj6J/view%3Fusp%3Dsharing&q=EgSsrJkoGLP-vNYGIjBox6jiA4mVymIxLSydiW9CavvifgKw_tum9ZlzzjHEgWOjwF2CgtISxQyWu-sZG-IyAnJSShFTT1JSWV9JU1BfTUVTU0FHRVoBQw",
           "kind": "google",
           "size": null
         }
@@ -22213,7 +22348,7 @@
       "mirrors": [
         {
           "label": "Google Drive",
-          "url": "https://www.google.com/sorry/index?continue=https://drive.google.com/file/d/1O2HnoIoSjf4k3akj_g7dDCOMhru6xOvn/view&q=EgQUPs8DGLjd-NUGIjAt3X7wuZjdg5We8rl88unkF7RnnZSlqO7CIY3n_eMsTmmiM-z42Si1GQqC8kbIPy4yAnJSShFTT1JSWV9JU1BfTUVTU0FHRVoBQw",
+          "url": "https://www.google.com/sorry/index?continue=https://drive.google.com/file/d/1O2HnoIoSjf4k3akj_g7dDCOMhru6xOvn/view&q=EgSsrJkoGLT-vNYGIjBQkdiMUTXXDG4PwdV66sTkeZdqkIisaAWSFjHZYgzNzKHh99PZ5FcBEIerU4qNxowyAnJSShFTT1JSWV9JU1BfTUVTU0FHRVoBQw",
           "kind": "google",
           "size": null
         }
@@ -22240,7 +22375,7 @@
       "mirrors": [
         {
           "label": "Google Drive",
-          "url": "https://www.google.com/sorry/index?continue=https://drive.google.com/file/d/1aIKSR1oBpzfV_FJJ_oxNVgVRyHQqZp70/view&q=EgQUPs8DGLnd-NUGIjCs17nmOspb6Wr6WvIpBhxSzH4aBe-FFMDqPcgGb8FR9xGzzOc4sVhsUWJu7YBiaAMyAnJSShFTT1JSWV9JU1BfTUVTU0FHRVoBQw",
+          "url": "https://www.google.com/sorry/index?continue=https://drive.google.com/file/d/1aIKSR1oBpzfV_FJJ_oxNVgVRyHQqZp70/view&q=EgSsrJkoGLX-vNYGIjBkbVV-dnliT0t9cmp7MH4biZQHOsv_kdsOwEmgQRu_DoisZJfs1QkyDebBU8CaBZYyAnJSShFTT1JSWV9JU1BfTUVTU0FHRVoBQw",
           "kind": "google",
           "size": null
         }
@@ -22267,7 +22402,7 @@
       "mirrors": [
         {
           "label": "Google Drive",
-          "url": "https://www.google.com/sorry/index?continue=https://drive.google.com/file/d/1MR5TU0odR4I717iOVVkvEcUBmQWAfxbj/view&q=EgQUPs8DGLnd-NUGIjC9Sl15LJeUZWbeXhr8S2NNvllEjaIhhlZSXBITHMUM3wqxhMOW0d90Pr7fN-hFwjsyAnJSShFTT1JSWV9JU1BfTUVTU0FHRVoBQw",
+          "url": "https://www.google.com/sorry/index?continue=https://drive.google.com/file/d/1MR5TU0odR4I717iOVVkvEcUBmQWAfxbj/view&q=EgSsrJkoGLX-vNYGIjBtdXRYF7SP-p9ZGytc49_m4ptHelNmroUQVvyqBfEGSr7sFaxzj8WioY0WR8jUKwYyAnJSShFTT1JSWV9JU1BfTUVTU0FHRVoBQw",
           "kind": "google",
           "size": null
         }
@@ -22426,7 +22561,7 @@
       "mirrors": [
         {
           "label": "Google Drive",
-          "url": "https://www.google.com/sorry/index?continue=https://drive.google.com/file/d/13fGvaxcF9pOvXaG8Z8LeRRBhbe6BITPK/view%3Fusp%3Dsharing&q=EgQUPs8DGLnd-NUGIjBj-6T8c3IuO_OO1OsGqU_Xg8zsiJjUHkH5MU3Ozn6-6FbF6Lj09x5dbqIHF63imf4yAnJSShFTT1JSWV9JU1BfTUVTU0FHRVoBQw",
+          "url": "https://drive.google.com/file/d/13fGvaxcF9pOvXaG8Z8LeRRBhbe6BITPK/view?usp=sharing",
           "kind": "google",
           "size": null
         }
@@ -22559,7 +22694,7 @@
       "mirrors": [
         {
           "label": "Google Drive",
-          "url": "https://www.google.com/sorry/index?continue=https://drive.google.com/file/d/1_dlpPMgmNR7T-gyTt84TmpIKH2fYNUB1/view&q=EgQUPs8DGL7d-NUGIjAUJhh8PGAOohHNlaZyvQdXHx41m_xe8JnB9zXtq7crIpdVIxPRhduFosvNmncl6ScyAnJSShFTT1JSWV9JU1BfTUVTU0FHRVoBQw",
+          "url": "https://www.google.com/sorry/index?continue=https://drive.google.com/file/d/1_dlpPMgmNR7T-gyTt84TmpIKH2fYNUB1/view&q=EgSsrJkoGLv-vNYGIjC6v-BXRnXlbyVzlVhGf1kRKaHNF44aCI-KJ_E3F0dWTmZxXvEGnPAu8LTyp-dLdskyAnJSShFTT1JSWV9JU1BfTUVTU0FHRVoBQw",
           "kind": "google",
           "size": null
         }
@@ -22586,7 +22721,7 @@
       "mirrors": [
         {
           "label": "Google Drive",
-          "url": "https://www.google.com/sorry/index?continue=https://drive.google.com/file/d/1_vF4zGbRk517aJmm1Z7mMQc_RFh5u9g2/view%3Fusp%3Dsharing&q=EgQUPs8DGL_d-NUGIjCvvU6DQZMX9Y3vU1CQN8SjkvqCZKfq0yzCXwlhv4Z0dUee81rOPIDC2NGEMKEfB4kyAnJSShFTT1JSWV9JU1BfTUVTU0FHRVoBQw",
+          "url": "https://www.google.com/sorry/index?continue=https://drive.google.com/file/d/1_vF4zGbRk517aJmm1Z7mMQc_RFh5u9g2/view%3Fusp%3Dsharing&q=EgSsrJkoGLv-vNYGIjCTaUB_06cdWQcESS8Z9PbQlxkcsHr34r5sAHVDLIBpLrlBJ4r4x0OqTPoBgZni7fwyAnJSShFTT1JSWV9JU1BfTUVTU0FHRVoBQw",
           "kind": "google",
           "size": null
         }
@@ -22613,7 +22748,7 @@
       "mirrors": [
         {
           "label": "Google Drive",
-          "url": "https://www.google.com/sorry/index?continue=https://drive.google.com/file/d/1QVmHCCy1jPZNa9rFYkMuqgTLkK1IWIdY/view%3Fusp%3Dsharing&q=EgQUPs8DGL_d-NUGIjADjOUfVYi97_c9vnVIciuFle--kED_AQxznnCz9_-kHc2dc2ra2IAZMrMFeG86_voyAnJSShFTT1JSWV9JU1BfTUVTU0FHRVoBQw",
+          "url": "https://drive.google.com/file/d/1QVmHCCy1jPZNa9rFYkMuqgTLkK1IWIdY/view?usp=sharing",
           "kind": "google",
           "size": null
         }
@@ -22640,7 +22775,7 @@
       "mirrors": [
         {
           "label": "Google Drive",
-          "url": "https://www.google.com/sorry/index?continue=https://drive.google.com/file/d/1JDaC05DNtYYnnPwzXmZjnPuB7WMVPN_a/view%3Fusp%3Dsharing&q=EgQUPs8DGMDd-NUGIjDFreWTC3_YQq6jpk6jou5p3Rl9mw9tzk0mHsqQpbs_1A5YxP1Kxs3a8LwnSqCw0NwyAnJSShFTT1JSWV9JU1BfTUVTU0FHRVoBQw",
+          "url": "https://www.google.com/sorry/index?continue=https://drive.google.com/file/d/1JDaC05DNtYYnnPwzXmZjnPuB7WMVPN_a/view%3Fusp%3Dsharing&q=EgSsrJkoGLz-vNYGIjDJizjEaKmN8B0IuUiNsMbT0pSoGymVMJ3CCRV2WVTFNg-6QkcL7t27NVRzKRBhQE4yAnJSShFTT1JSWV9JU1BfTUVTU0FHRVoBQw",
           "kind": "google",
           "size": null
         }

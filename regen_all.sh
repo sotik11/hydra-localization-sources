@@ -13,6 +13,8 @@ set -u
 cd "$(dirname "$0")"
 
 MAX_DROP_PCT=15
+# Pause before the single rerun of a generator that exited non-zero.
+RETRY_PAUSE="${RETRY_PAUSE:-120}"
 REGEN_FAILED_FILE="${REGEN_FAILED_FILE:-/tmp/regen-failed.txt}"
 : > "$REGEN_FAILED_FILE"
 GEN_LOG="$(mktemp 2>/dev/null || echo /tmp/regen-gen.log)"
@@ -52,6 +54,14 @@ for g in $ORDER; do
   echo ">>> $g ($(date +%H:%M:%S))"
   node "generators/$g.mjs" > "$GEN_LOG" 2>&1
   rc=$?
+  if [ "$rc" -ne 0 ]; then
+    # One patient retry: a site that is down for a minute must not cost the day.
+    echo "  !! $g exited $rc — retrying once in ${RETRY_PAUSE}s; first failure:"
+    tail -4 "$GEN_LOG" | sed 's/^/     /'
+    sleep "$RETRY_PAUSE"
+    node "generators/$g.mjs" > "$GEN_LOG" 2>&1
+    rc=$?
+  fi
   tail -1 "$GEN_LOG"
   new=$(count "data/$g.json"); bak=$(count "data/$g.json.backup")
   floor=$(( bak * (100 - MAX_DROP_PCT) / 100 ))
