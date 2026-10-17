@@ -603,6 +603,30 @@
       ]
     },
     {
+      "steamAppId": "2825860",
+      "title": "The Sinking City 2",
+      "studio": "Magyarítások",
+      "studioUrl": "https://magyaritasok.hu",
+      "language": "Magyar",
+      "hasText": true,
+      "hasVoice": false,
+      "version": "1.0",
+      "updatedAt": "16.10.2026",
+      "requiredGameVersion": null,
+      "size": "5.57 MB",
+      "pageUrl": "https://magyaritasok.hu/games/the-sinking-city-2",
+      "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
+      "authorsHtml": "<p>ZéBé</p>",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Magyarítások",
+          "url": "https://magyaritasok.hu/dl/TheSinkingCity2/TheSinkingCity2_hun_v1.0.exe",
+          "kind": "direct"
+        }
+      ]
+    },
+    {
       "steamAppId": "753640",
       "title": "Outer Wilds",
       "studio": "Magyarítások",
@@ -2979,6 +3003,29 @@
         {
           "label": "Magyarítások",
           "url": "https://magyaritasok.hu/dl/oblivion/TESIV_Oblivion_Remastered_MorroHUN_v1.02.zip",
+          "kind": "direct"
+        }
+      ]
+    },
+    {
+      "title": "Smash Frenzy 4",
+      "studio": "Magyarítások",
+      "studioUrl": "https://magyaritasok.hu",
+      "language": "Magyar",
+      "hasText": true,
+      "hasVoice": false,
+      "version": null,
+      "updatedAt": "23.02.2017",
+      "requiredGameVersion": null,
+      "size": "44 KB",
+      "pageUrl": "https://magyaritasok.hu/games/smash-frenzy-4",
+      "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
+      "authorsHtml": "<p>Evin</p>",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Magyarítások",
+          "url": "https://magyaritasok.hu/dl/SmashFrenzy4/SmashFrenzy4-Hun.rar",
           "kind": "direct"
         }
       ]
@@ -41338,6 +41385,30 @@
         {
           "label": "Magyarítások",
           "url": "https://magyaritasok.hu/dl/rometotalwar_barbarianinvasion/romebihun.exe",
+          "kind": "direct"
+        }
+      ]
+    },
+    {
+      "steamAppId": "4770",
+      "title": "Rome: Total War - Alexander",
+      "studio": "Magyarítások",
+      "studioUrl": "https://magyaritasok.hu",
+      "language": "Magyar",
+      "hasText": true,
+      "hasVoice": false,
+      "version": null,
+      "updatedAt": "18.06.2014",
+      "requiredGameVersion": null,
+      "size": "468 KB",
+      "pageUrl": "https://magyaritasok.hu/games/rome-total-war-alexander",
+      "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
+      "authorsHtml": "<p>Minigun</p>",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Magyarítások",
+          "url": "https://magyaritasok.hu/dl/rometotalwar_alexander/rometotalwar_alexander.exe",
           "kind": "direct"
         }
       ]
