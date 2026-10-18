@@ -5,6 +5,34 @@
   "siteUrl": "https://hernipreklady.cz",
   "localizations": [
     {
+      "title": "Astroneer",
+      "studio": "HerníPřeklady",
+      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/astroneer",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": null,
+      "updatedAt": null,
+      "requiredGameVersion": "1.45.1.0",
+      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/astroneer",
+      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
+      "authorsHtml": "<p><strong>Překlad:</strong> Unread</p>",
+      "inDevelopment": false,
+      "size": "3.66 MB",
+      "mirrors": [
+        {
+          "label": "HerníPřeklady",
+          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=641",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "361420"
+    },
+    {
       "title": "End of Abyss",
       "studio": "HerníPřeklady",
       "studioUrl": "https://hernipreklady.cz/seznam-prekladu/end-of-abyss",
@@ -194,34 +222,6 @@
       ]
     },
     {
-      "title": "Stone Simulator - Just Be a Rock",
-      "studio": "HerníPřeklady",
-      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/stone-simulator-just-be-a-rock",
-      "language": "Čeština",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": "2.3",
-      "updatedAt": null,
-      "requiredGameVersion": "1.4.0.1",
-      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/stone-simulator-just-be-a-rock",
-      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
-      "authorsHtml": null,
-      "inDevelopment": false,
-      "size": "1.38 MB",
-      "mirrors": [
-        {
-          "label": "HerníPřeklady",
-          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=623",
-          "kind": "direct"
-        }
-      ],
-      "steamAppId": "1425980"
-    },
-    {
       "title": "Diablo II Resurrected Infernal Edition",
       "studio": "HerníPřeklady",
       "studioUrl": "https://hernipreklady.cz/seznam-prekladu/diablo-ii-resurrected-infernal-edition",
@@ -248,34 +248,6 @@
         }
       ],
       "steamAppId": "2536520"
-    },
-    {
-      "title": "Frostpunk",
-      "studio": "HerníPřeklady",
-      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/frostpunk",
-      "language": "Čeština",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": "1.18",
-      "updatedAt": "06.02.2024",
-      "requiredGameVersion": "1.6.2",
-      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/frostpunk",
-      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
-      "authorsHtml": "<p><strong>Překlad:</strong> Jetro, Coffin Corner, Ralph Shepard<br><strong>Testování:</strong> Ralph Shepard, Jetro, Barbar</p>",
-      "inDevelopment": false,
-      "size": "10.1 MB",
-      "mirrors": [
-        {
-          "label": "HerníPřeklady",
-          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=126",
-          "kind": "direct"
-        }
-      ],
-      "steamAppId": "323190"
     },
     {
       "title": "Cthulhu: The Cosmic Abyss",
@@ -820,6 +792,34 @@
       "steamAppId": "2101960"
     },
     {
+      "title": "Stone Simulator - Just Be a Rock",
+      "studio": "HerníPřeklady",
+      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/stone-simulator-just-be-a-rock",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": "2.3",
+      "updatedAt": null,
+      "requiredGameVersion": "1.4.0.1",
+      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/stone-simulator-just-be-a-rock",
+      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
+      "authorsHtml": null,
+      "inDevelopment": false,
+      "size": "1.38 MB",
+      "mirrors": [
+        {
+          "label": "HerníPřeklady",
+          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=623",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "1425980"
+    },
+    {
       "title": "Cash Cleaner Simulator",
       "studio": "HerníPřeklady",
       "studioUrl": "https://hernipreklady.cz/seznam-prekladu/cash-cleaner-simulator",
@@ -958,34 +958,6 @@
         }
       ],
       "steamAppId": "282070"
-    },
-    {
-      "title": "Astroneer",
-      "studio": "HerníPřeklady",
-      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/astroneer",
-      "language": "Čeština",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": null,
-      "updatedAt": "12.03.2026",
-      "requiredGameVersion": "1.38.7.0",
-      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/astroneer",
-      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
-      "authorsHtml": "<p><strong>Překlad:</strong> Unread</p>",
-      "inDevelopment": false,
-      "size": "3.39 MB",
-      "mirrors": [
-        {
-          "label": "HerníPřeklady",
-          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=542",
-          "kind": "direct"
-        }
-      ],
-      "steamAppId": "361420"
     },
     {
       "title": "Civilization VII",
@@ -3973,6 +3945,34 @@
         }
       ],
       "steamAppId": "1414650"
+    },
+    {
+      "title": "Frostpunk",
+      "studio": "HerníPřeklady",
+      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/frostpunk",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": "1.18",
+      "updatedAt": "06.02.2024",
+      "requiredGameVersion": "1.6.2",
+      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/frostpunk",
+      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
+      "authorsHtml": "<p><strong>Překlad:</strong> Jetro, Coffin Corner, Ralph Shepard<br><strong>Testování:</strong> Ralph Shepard, Jetro, Barbar</p>",
+      "inDevelopment": false,
+      "size": "10.1 MB",
+      "mirrors": [
+        {
+          "label": "HerníPřeklady",
+          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=126",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "323190"
     },
     {
       "title": "Tales of Tomorrow: Experiment",
