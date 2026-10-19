@@ -14,6 +14,9 @@ data/*.json.backup
 # local "not before" timestamps of weekly sources (refresh_local.sh)
 data/.*.next-run
 
+# incremental state of local generators (komunitni-preklady: slug -> lastmod + entry)
+data/*.state.json
+
 # manual overrides research (candidates, cached app list — huge, regenerated on demand)
 data/*.candidates.json
 data/steam-applist.json

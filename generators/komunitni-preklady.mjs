@@ -1,11 +1,17 @@
 /**
  * Generator: Komunitní překlady (komunitni-preklady.org) -> data/komunitni-preklady.json
  *
- * Czech & Slovak community translation portal. Catalogue pages
- * /preklady/strana/N carry a JSON-LD ItemList (name, /preklad/<slug> url,
- * inLanguage cs|sk, author team, dates). Each translation page carries a JSON-LD
- * SoftwareApplication (softwareVersion, fileSize, dateModified, downloadUrl) plus
- * HTML for the game version and the translation type badge ("Ruční" vs AI).
+ * Czech & Slovak community translation portal. The list of translations comes
+ * from /sitemap.xml (advertised in robots.txt): every /preklad/<slug> with its
+ * <lastmod>. Each translation page carries a JSON-LD SoftwareApplication
+ * (softwareVersion, fileSize, dateModified, downloadUrl) plus HTML for the game
+ * version and the translation type badge ("Ruční" vs AI).
+ *
+ * Incremental: data/komunitni-preklady.state.json keeps slug -> {lastmod, entry};
+ * only pages that are new or whose lastmod moved are fetched (~30-70 a week
+ * instead of ~830 requests for a full walk, which made CrowdSec ban us mid-run).
+ * Without a state file it is seeded from the current feed as of SEED_LASTMOD.
+ *   FULL=1   ignore the state and fetch every page (slow and ban-prone!)
  *
  * Download: /download/<id>?sig=... — the signature is REQUIRED (404 without it).
  * Taken as a direct in-app mirror (the sig is fresh each run); if it turns out to
@@ -14,7 +20,7 @@
  * Category: aggregator -> authorsHtml = the team. Modal content (install) stays
  * in the translation's own language (cs/sk); mirror labels are UI language.
  */
-import { writeFile, mkdir } from "node:fs/promises";
+import { readFile, writeFile, mkdir } from "node:fs/promises";
 import { fileURLToPath } from "node:url";
 import { dirname, join } from "node:path";
 import { UA, sleep, fetchTimeout, mapPool, getText, normalizeSize } from "../lib/net.mjs";
@@ -23,6 +29,12 @@ import { resolveSteamAppIdWithScore } from "../lib/steam-search.mjs";
 const ROOT = join(dirname(fileURLToPath(import.meta.url)), "..");
 
 const SITE = "https://komunitni-preklady.org";
+const FEED = join(ROOT, "data", "komunitni-preklady.json");
+const STATE = join(ROOT, "data", "komunitni-preklady.state.json");
+const FULL = process.env.FULL === "1";
+// Date of the last complete crawl behind the committed feed (751 entries) —
+// used once, to seed the state when there is no state file yet.
+const SEED_LASTMOD = "2026-09-29";
 
 const STUDIO = "Komunitní překlady";
 const LANG_NAME = { cs: "Čeština", sk: "Slovenčina" };
@@ -62,28 +74,28 @@ const isoToDate = (iso) => {
 
 /* ------------------------------ polite fetch ------------------------------ */
 // The site sits behind CrowdSec, which bans an IP for "suspicious behaviour" —
-// i.e. our own crawl when it is too fast — and counts every request made while
-// banned as more of the same. So: few workers, a gap before each request, and
-// the FIRST 403 aborts the whole run instead of hammering on.
+// i.e. our own crawl when it is too fast or too long — and counts every request
+// made while banned as more of the same. So: one worker, a 2 s gap before each
+// request, only the pages that changed, and the FIRST 403 aborts the whole run.
 
-const POOL = 2;
-const GAP_MS = 500;
+const POOL = 1;
+const GAP_MS = 2000;
 
 class BlockedError extends Error {}
 let blocked = false;
 
-async function politeGet(url) {
+async function politeGet(url, ms = 8000) {
   if (blocked) throw new BlockedError("run aborted: the site is blocking this IP");
   await sleep(GAP_MS);
   for (let attempt = 1; ; attempt += 1) {
     try {
-      return await getText(url, { tries: 1 });
+      return await getText(url, { tries: 1, ms });
     } catch (err) {
       if (/->\s*403\b/.test(err.message)) {
         blocked = true;
         throw new BlockedError(`403 on ${url} — IP blocked (CrowdSec), aborting the run`);
       }
-      if (attempt >= 2) throw err;
+      if (attempt >= 2 || /->\s*4\d\d\b/.test(err.message)) throw err; // 4xx: no retry
       await sleep(2000);
     }
   }
@@ -91,30 +103,36 @@ async function politeGet(url) {
 
 /* ----------------------------- catalogue index ---------------------------- */
 
-/**
- * All translation slugs, walking /preklady/strana/N. A page that fails to load
- * THROWS: the walk ends on empty pages, not on errors, so an error means a
- * truncated catalogue — which used to pass as a (much smaller) real one.
- */
-async function fetchCatalogue() {
-  const slugs = new Set();
-  let zeros = 0;
-  for (let page = 1; page <= 80; page += 1) {
-    const html = await politeGet(`${SITE}/preklady/strana/${page}`);
-    const before = slugs.size;
-    for (const m of html.matchAll(/\/preklad\/([a-z0-9-]+)/gi)) slugs.add(m[1]);
-    process.stdout.write(`\r[komunitni-preklady] strana ${page}, ${slugs.size} games     `);
-    // strana 2-3 repeat page 1 (sidebar) before new content resumes, so don't
-    // stop on the first empty page — only after several empties in a row.
-    if (slugs.size === before) {
-      zeros += 1;
-      if (zeros >= 6) break;
-    } else {
-      zeros = 0;
-    }
+/** Every translation in the sitemap: Map slug -> lastmod ("YYYY-MM-DD" or null). */
+async function fetchSitemap() {
+  const xml = await politeGet(`${SITE}/sitemap.xml`, 30000);
+  const slugs = new Map();
+  for (const [, block] of xml.matchAll(/<url>([\s\S]*?)<\/url>/g)) {
+    const slug = (block.match(/<loc>[^<]*\/preklad\/([a-z0-9-]+)\/?<\/loc>/i) || [])[1];
+    if (!slug) continue;
+    slugs.set(slug, (block.match(/<lastmod>(\d{4}-\d{2}-\d{2})/) || [])[1] || null);
   }
-  console.log("");
   return slugs;
+}
+
+/** slug -> {lastmod, entry}; seeded from the committed feed when there is no state. */
+async function readState() {
+  if (FULL) return {};
+  try {
+    return JSON.parse(await readFile(STATE, "utf8"));
+  } catch {}
+  try {
+    const feed = JSON.parse(await readFile(FEED, "utf8"));
+    const seeded = {};
+    for (const entry of feed.localizations) {
+      const slug = (entry.pageUrl.match(/\/preklad\/([a-z0-9-]+)/i) || [])[1];
+      if (slug) seeded[slug] = { lastmod: SEED_LASTMOD, entry };
+    }
+    console.log(`[komunitni-preklady] no state — seeded ${Object.keys(seeded).length} from the feed as of ${SEED_LASTMOD}`);
+    return seeded;
+  } catch {
+    return {};
+  }
 }
 
 /* ------------------------------- file page -------------------------------- */
@@ -183,35 +201,68 @@ function buildEntry(slug, html) {
 /* ---------------------------------- main ---------------------------------- */
 
 async function main() {
-  console.log("[komunitni-preklady] fetching catalogue…");
-  const slugs = [...(await fetchCatalogue())];
-  console.log(`[komunitni-preklady] ${slugs.length} translations`);
+  console.log("[komunitni-preklady] reading sitemap…");
+  const sitemap = await fetchSitemap();
+  const prev = await readState();
+  const known = Object.keys(prev).length;
+  // An empty or cut-down sitemap must not shrink the feed (or the state).
+  if (sitemap.size === 0 || (known && sitemap.size < known * 0.7)) {
+    throw new Error(`sitemap lists ${sitemap.size} translations, ${known} known — refusing`);
+  }
 
+  const changed = [...sitemap]
+    .filter(([slug, lastmod]) => !prev[slug] || !lastmod || lastmod > prev[slug].lastmod)
+    .map(([slug]) => slug);
+  // Known translations missing from the sitemap are not necessarily gone (seen
+  // 2026-10-19: 21 of them, some pages alive) — re-check each one: 404/410 drops
+  // it, a live page keeps it.
+  const unlisted = Object.keys(prev).filter((slug) => !sitemap.has(slug));
+  const todo = [...changed, ...unlisted];
+  console.log(
+    `[komunitni-preklady] ${sitemap.size} in sitemap: ${changed.length} new/changed, ` +
+      `${unlisted.length} known but unlisted — ${todo.length} pages to fetch`
+  );
+
+  const next = {};
+  const gone = new Set();
   let done = 0;
   let failed = 0;
-  const built = (
-    await mapPool(slugs, POOL, async (slug) => {
-      let entry = null;
-      try {
-        entry = buildEntry(slug, await politeGet(`${SITE}/preklad/${slug}`));
-      } catch (err) {
-        if (err instanceof BlockedError) throw err; // stop everything, now
+  const today = new Date().toISOString().slice(0, 10);
+  await mapPool(todo, POOL, async (slug) => {
+    try {
+      const entry = buildEntry(slug, await politeGet(`${SITE}/preklad/${slug}`));
+      next[slug] = { lastmod: sitemap.get(slug) || prev[slug]?.lastmod || today, entry };
+    } catch (err) {
+      if (err instanceof BlockedError) throw err; // stop everything, now
+      if (/->\s*(?:404|410)\b/.test(err.message)) {
+        gone.add(slug);
+      } else {
         failed += 1;
         console.warn(`\n  ! ${slug}: ${err.message}`);
       }
-      done += 1;
-      if (done % 25 === 0 || done === slugs.length)
-        process.stdout.write(`\r[komunitni-preklady] page ${done}/${slugs.length}     `);
-      return entry;
-    })
-  ).filter(Boolean);
+    }
+    done += 1;
+    if (done % 10 === 0 || done === todo.length)
+      process.stdout.write(`\r[komunitni-preklady] page ${done}/${todo.length}     `);
+  });
   console.log("");
 
   // A handful of dead pages is normal; a lot of them is a throttled run, and a
   // partial feed must not be written over a full one.
-  if (failed > slugs.length * 0.05) {
-    throw new Error(`${failed}/${slugs.length} translation pages failed — refusing a partial feed`);
+  if (failed > Math.max(3, todo.length * 0.05)) {
+    throw new Error(`${failed}/${todo.length} translation pages failed — refusing a partial feed`);
   }
+
+  // Sitemap order, then the live unlisted ones; unchanged pages (and a page that
+  // failed to load this time) keep their previous entry; 404/410 pages drop out.
+  const state = {};
+  for (const slug of [...sitemap.keys(), ...unlisted]) {
+    const item = gone.has(slug) ? null : next[slug] || prev[slug];
+    if (item) state[slug] = item;
+  }
+  if (gone.size) console.log(`[komunitni-preklady] removed (404/410): ${[...gone].join(", ")}`);
+  const built = Object.values(state).map((item) => item.entry);
+  for (const e of built) delete e.steamAppId; // re-resolved below
 
   const appCache = new Map();
   const resolveCached = (title) => {
@@ -242,7 +293,7 @@ async function main() {
 
   await mkdir(join(ROOT, "data"), { recursive: true });
   await writeFile(
-    join(ROOT, "data", "komunitni-preklady.json"),
+    FEED,
     JSON.stringify(
       { name: STUDIO, language: "Čeština", category: "aggregator", siteUrl: SITE, localizations: built },
       null,
@@ -250,6 +301,7 @@ async function main() {
     ),
     "utf8"
   );
+  await writeFile(STATE, JSON.stringify(state), "utf8");
 
   const appid = built.filter((l) => l.steamAppId).length;
   const inDev = built.filter((l) => l.inDevelopment).length;

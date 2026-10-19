@@ -51,6 +51,16 @@ MAX_DROP_PCT=15
 # Pause before the single rerun of a generator that exited non-zero.
 RETRY_PAUSE=120
 
+# Full generator output goes here; the log gets the last line on success and
+# the last 15 on failure (a bare `| tail -1` kept only the end of a stack trace).
+GEN_LOG="$(mktemp 2>/dev/null || echo /tmp/refresh-gen.log)"
+run_gen() { # $1 = source; returns the generator's exit code
+  node "generators/$1.mjs" > "$GEN_LOG" 2>&1
+  local rc=$?
+  if [ "$rc" -ne 0 ]; then tail -15 "$GEN_LOG" | sed 's/^/     /'; else tail -1 "$GEN_LOG"; fi
+  return "$rc"
+}
+
 # Sources fetched at most once a week. komunitni-preklady sits behind CrowdSec,
 # which IP-bans a crawl that comes back every day; weekly is plenty for a
 # translation catalogue. The gate is a "not before" timestamp rather than a
@@ -111,18 +121,23 @@ for g in $SOURCES; do
   fi
 
   [ -f "data/$g.json" ] && cp -f "data/$g.json" "data/$g.json.backup"
+  # Incremental generators keep a state file; it is rolled back with the feed.
+  st="data/$g.state.json"; rm -f "$st.backup"
+  [ -f "$st" ] && cp -f "$st" "$st.backup"
+  restore() {
+    [ -f "data/$g.json.backup" ] && cp -f "data/$g.json.backup" "data/$g.json"
+    if [ -f "$st.backup" ]; then cp -f "$st.backup" "$st"; else rm -f "$st"; fi
+  }
   echo ">>> $g ($(date +%H:%M:%S))"
-  node "generators/$g.mjs" 2>&1 | tail -1
-  rc=${PIPESTATUS[0]}
+  run_gen "$g"; rc=$?
   # One patient retry: a site that is down for a minute must not cost the whole
   # day. Not for weekly sources — their failure is usually an IP ban, and
   # knocking again two minutes later only prolongs it.
   if [ "$rc" -ne 0 ] && [ "$weekly" -eq 0 ]; then
     echo "  !! $g exited $rc — retrying once in ${RETRY_PAUSE}s"
-    [ -f "data/$g.json.backup" ] && cp -f "data/$g.json.backup" "data/$g.json"
+    restore
     sleep "$RETRY_PAUSE"
-    node "generators/$g.mjs" 2>&1 | tail -1
-    rc=${PIPESTATUS[0]}
+    run_gen "$g"; rc=$?
   fi
   new=$(count "data/$g.json"); bak=$(count "data/$g.json.backup")
   floor=$(( bak * (100 - MAX_DROP_PCT) / 100 ))
@@ -142,7 +157,7 @@ for g in $SOURCES; do
   fi
 
   if [ "$ok" -eq 0 ]; then
-    [ -f "data/$g.json.backup" ] && cp -f "data/$g.json.backup" "data/$g.json"
+    restore
     SUMMARY="$SUMMARY\n  $g: $new (FAILED: rc=$rc -> restored $bak)"
     TOAST="$TOAST$SEP$g: $bak (откат!)"
     TG="${TG:+$TG$NL}<u>$g</u> — $why, откат к $bak$retry_note"
