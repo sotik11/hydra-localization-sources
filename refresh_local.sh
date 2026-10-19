@@ -61,13 +61,14 @@ run_gen() { # $1 = source; returns the generator's exit code
   return "$rc"
 }
 
-# Sources fetched at most once a week. komunitni-preklady sits behind CrowdSec,
-# which IP-bans a crawl that comes back every day; weekly is plenty for a
-# translation catalogue. The gate is a "not before" timestamp rather than a
-# weekday, so a week when the PC was off does not cost a whole extra week:
-# success -> next run in 7 days, failure -> retry in 2 (no daily hammering).
-WEEKLY="komunitni-preklady"
-WEEK_S=$((7 * 86400))
+# Ban-prone sources. komunitni-preklady sits behind CrowdSec, which IP-bans a
+# crawl that looks like one; since 2026-10-19 the generator fetches only changed
+# pages (~20 requests), so it runs daily. What stays special is the failure
+# path: no 2-minute rerun (knocking again prolongs a ban) and a 2-day pause.
+# The gate is a "not before" timestamp: success -> due again in 20 h (the next
+# day's 15:00 run even if today's started late), failure -> in 2 days.
+BAN_PRONE="komunitni-preklady"
+OK_S=$((20 * 3600))
 RETRY_S=$((2 * 86400))
 stamp_of() { echo "data/.$1.next-run"; }
 
@@ -102,19 +103,19 @@ TOAST=""
 TG=""       # Telegram body: one source per line, "<u>name</u> — +N (was → now)"
 SEP=""
 for g in $SOURCES; do
-  weekly=0; retry_note=""
-  case " $WEEKLY " in *" $g "*) weekly=1 ;; esac
+  careful=0; retry_note=""
+  case " $BAN_PRONE " in *" $g "*) careful=1 ;; esac
   now=$(date +%s)
 
-  if [ "$weekly" -eq 1 ]; then
+  if [ "$careful" -eq 1 ]; then
     due=$(cat "$(stamp_of "$g")" 2>/dev/null); due=${due//[^0-9]/}; due=${due:-0}
     if [ "$now" -lt "$due" ]; then
       days=$(( (due - now + 86399) / 86400 ))
       cur=$(count "data/$g.json")
-      echo ">>> $g — weekly source, not due for ${days}d — skipped (feed stays at $cur)"
-      SUMMARY="$SUMMARY\n  $g: skipped (weekly, due in ${days}d; feed $cur)"
+      echo ">>> $g — paused after a failure, due in ${days}d — skipped (feed stays at $cur)"
+      SUMMARY="$SUMMARY\n  $g: skipped (paused after a failure, due in ${days}d; feed $cur)"
       TOAST="$TOAST$SEP$g: пропуск (${days} дн.)"
-      TG="${TG:+$TG$NL}<u>$g</u> — пропуск (раз в неделю), следующий через ${days} дн. ($cur)"
+      TG="${TG:+$TG$NL}<u>$g</u> — пропуск (пауза после сбоя), следующий через ${days} дн. ($cur)"
       SEP=" · "
       continue
     fi
@@ -131,9 +132,9 @@ for g in $SOURCES; do
   echo ">>> $g ($(date +%H:%M:%S))"
   run_gen "$g"; rc=$?
   # One patient retry: a site that is down for a minute must not cost the whole
-  # day. Not for weekly sources — their failure is usually an IP ban, and
+  # day. Not for ban-prone sources — their failure is usually an IP ban, and
   # knocking again two minutes later only prolongs it.
-  if [ "$rc" -ne 0 ] && [ "$weekly" -eq 0 ]; then
+  if [ "$rc" -ne 0 ] && [ "$careful" -eq 0 ]; then
     echo "  !! $g exited $rc — retrying once in ${RETRY_PAUSE}s"
     restore
     sleep "$RETRY_PAUSE"
@@ -151,8 +152,8 @@ for g in $SOURCES; do
     echo "  !! $g degraded ($new < $floor = -${MAX_DROP_PCT}% of $bak) -> restoring backup"
   fi
 
-  if [ "$weekly" -eq 1 ]; then
-    if [ "$ok" -eq 1 ]; then echo $((now + WEEK_S)) > "$(stamp_of "$g")"
+  if [ "$careful" -eq 1 ]; then
+    if [ "$ok" -eq 1 ]; then echo $((now + OK_S)) > "$(stamp_of "$g")"
     else echo $((now + RETRY_S)) > "$(stamp_of "$g")"; retry_note=", повтор через 2 дн."; fi
   fi
 
