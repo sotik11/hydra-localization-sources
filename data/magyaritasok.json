@@ -83,10 +83,10 @@
       "language": "Magyar",
       "hasText": true,
       "hasVoice": false,
-      "version": "1.25",
-      "updatedAt": "13.09.2026",
-      "requiredGameVersion": "1.17.1",
-      "size": "59.7 MB",
+      "version": "1.26",
+      "updatedAt": "20.10.2026",
+      "requiredGameVersion": "1.17.2",
+      "size": "59.6 MB",
       "pageUrl": "https://magyaritasok.hu/games/elden-ring-shadow-of-the-erdtree",
       "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
       "authorsHtml": "<p>The_Reaper_CooL</p>",
@@ -94,7 +94,7 @@
       "mirrors": [
         {
           "label": "Magyarítások",
-          "url": "https://magyaritasok.hu/dl/EldenRing/EldenRingHUNbyTRC_1.25.zip",
+          "url": "https://magyaritasok.hu/dl/EldenRing/EldenRingHUNbyTRC_1.26.zip",
           "kind": "direct"
         }
       ]
@@ -9954,10 +9954,10 @@
       "language": "Magyar",
       "hasText": true,
       "hasVoice": false,
-      "version": "1.25",
-      "updatedAt": "13.09.2026",
-      "requiredGameVersion": "1.17.1",
-      "size": "59.7 MB",
+      "version": "1.26",
+      "updatedAt": "20.10.2026",
+      "requiredGameVersion": "1.17.2",
+      "size": "59.6 MB",
       "pageUrl": "https://magyaritasok.hu/games/elden-ring",
       "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
       "authorsHtml": "<p>The_Reaper_CooL, Evin</p>",
@@ -9965,7 +9965,7 @@
       "mirrors": [
         {
           "label": "Magyarítások",
-          "url": "https://magyaritasok.hu/dl/EldenRing/EldenRingHUNbyTRC_1.25.zip",
+          "url": "https://magyaritasok.hu/dl/EldenRing/EldenRingHUNbyTRC_1.26.zip",
           "kind": "direct"
         }
       ]
@@ -18662,10 +18662,10 @@
       "language": "Magyar",
       "hasText": true,
       "hasVoice": false,
-      "version": "1.0.000514",
-      "updatedAt": "20.09.2021",
-      "requiredGameVersion": "479045",
-      "size": "5.74 MB",
+      "version": "1.6.051217",
+      "updatedAt": "20.10.2026",
+      "requiredGameVersion": "744825",
+      "size": "2.78 MB",
       "pageUrl": "https://magyaritasok.hu/games/oxygen-not-included",
       "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
       "authorsHtml": "<p>Evin</p>",
@@ -18673,7 +18673,7 @@
       "mirrors": [
         {
           "label": "Magyarítások",
-          "url": "https://magyaritasok.hu/dl/OxygenNotIncluded/OxygenNotIncluded_000514.exe",
+          "url": "https://magyaritasok.hu/dl/OxygenNotIncluded/OxygenNotIncluded_1.6.051217.zip",
           "kind": "direct"
         }
       ]
@@ -20518,30 +20518,6 @@
         {
           "label": "Magyarítások",
           "url": "https://magyaritasok.hu/dl/Flashback/flashback2013hun.exe",
-          "kind": "direct"
-        }
-      ]
-    },
-    {
-      "steamAppId": "320820",
-      "title": "Toren",
-      "studio": "Magyarítások",
-      "studioUrl": "https://magyaritasok.hu",
-      "language": "Magyar",
-      "hasText": true,
-      "hasVoice": false,
-      "version": "1.1",
-      "updatedAt": "22.04.2022",
-      "requiredGameVersion": null,
-      "size": "3.35 MB",
-      "pageUrl": "https://magyaritasok.hu/games/toren",
-      "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
-      "authorsHtml": "<p>Evin</p>",
-      "inDevelopment": false,
-      "mirrors": [
-        {
-          "label": "Magyarítások",
-          "url": "https://magyaritasok.hu/dl/Toren/Toren_HUN_1.1.exe",
           "kind": "direct"
         }
       ]
