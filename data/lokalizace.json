@@ -214,7 +214,7 @@
       "updatedAt": null,
       "pageUrl": "https://lokalizace.net/localizations/resident-evil-2-1998",
       "howToInstallHtml": "<p>Stáhněte ZIP soubor a rozbalte ho do složky hry, nebo použijte aplikaci CZManager pro automatickou instalaci češtiny.</p>",
-      "changelogHtml": "<div><p><strong>Nová verze 1.3</strong></p><p>Toto je nová verzia grafického módu v preklade. Z verzie 2.0 na 3.0. Pre istotu nechávam na stiahnutie aj preklad s módom 2.0. Nech sú obidva keby niekto mal problémy</p><p><strong>Nová verze 1.2</strong></p><p>Nová oprava na GOG, titulky tam už teraz musia fungovať. Dajte vedieť do komentárov prosím</p></div>",
+      "changelogHtml": "<div>Nahrána nová verze překladu: 1.4<p><strong>Nová verze 1.3</strong></p><p>Toto je nová verzia grafického módu v preklade. Z verzie 2.0 na 3.0. Pre istotu nechávam na stiahnutie aj preklad s módom 2.0. Nech sú obidva keby niekto mal problémy</p></div>",
       "authorsHtml": "<p>PERTIM</p>",
       "size": null,
       "inDevelopment": true,
@@ -3099,8 +3099,7 @@
       "authorsHtml": "<p>Zhilian</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "239160"
+      "mirrors": []
     },
     {
       "title": "Sinking Island",
@@ -9478,8 +9477,7 @@
       "authorsHtml": "<p>Lost And Found</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "239160"
+      "mirrors": []
     },
     {
       "title": "Warcraft 1 Remastered - CZ překlad a dabing",
@@ -11425,8 +11423,7 @@
       "authorsHtml": "<p>miracle.flame</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "239160"
+      "mirrors": []
     },
     {
       "title": "The Almost Gone",
@@ -13415,7 +13412,7 @@
       "size": null,
       "inDevelopment": true,
       "mirrors": [],
-      "steamAppId": "212410"
+      "steamAppId": "1505430"
     },
     {
       "title": "Stellaris",
@@ -15994,6 +15991,28 @@
       "inDevelopment": true,
       "mirrors": [],
       "steamAppId": "2369390"
+    },
+    {
+      "title": "Henry the Stickmin",
+      "studio": "Lokalizace.net",
+      "studioUrl": "https://lokalizace.net/localizations/henry-the-stickmin",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": null,
+      "updatedAt": null,
+      "pageUrl": "https://lokalizace.net/localizations/henry-the-stickmin",
+      "howToInstallHtml": "<p>Stáhněte ZIP soubor a rozbalte ho do složky hry, nebo použijte aplikaci CZManager pro automatickou instalaci češtiny.</p>",
+      "changelogHtml": null,
+      "authorsHtml": "<p>Debilní Meloun Studios</p>",
+      "size": null,
+      "inDevelopment": true,
+      "mirrors": [],
+      "steamAppId": "1089980"
     },
     {
       "title": "Dune: Awakening",
