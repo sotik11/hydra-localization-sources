@@ -20523,6 +20523,30 @@
       ]
     },
     {
+      "steamAppId": "320820",
+      "title": "Toren",
+      "studio": "Magyarítások",
+      "studioUrl": "https://magyaritasok.hu",
+      "language": "Magyar",
+      "hasText": true,
+      "hasVoice": false,
+      "version": "1.1",
+      "updatedAt": "22.04.2022",
+      "requiredGameVersion": null,
+      "size": "3.35 MB",
+      "pageUrl": "https://magyaritasok.hu/games/toren",
+      "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
+      "authorsHtml": "<p>Evin</p>",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Magyarítások",
+          "url": "https://magyaritasok.hu/dl/Toren/Toren_HUN_1.1.exe",
+          "kind": "direct"
+        }
+      ]
+    },
+    {
       "steamAppId": "312660",
       "title": "Sniper Elite 4",
       "studio": "Magyarítások",
