@@ -58,6 +58,33 @@
       ]
     },
     {
+      "steamAppId": "582160",
+      "title": "Assassin's Creed Origins",
+      "studio": "КУЛІ",
+      "studioUrl": "https://kuli.com.ua/assassins-creed-origins",
+      "language": "Українська",
+      "hasText": true,
+      "hasVoice": false,
+      "hasNeuralText": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "version": null,
+      "updatedAt": "13.10.2026",
+      "pageUrl": "https://kuli.com.ua/assassins-creed-origins",
+      "howToInstallHtml": "<ol><li>Завантаж українізатор за посиланням вище.</li><li>Якщо це інсталятор (.exe) — запусти його; якщо архів — розпакуй.</li><li>Скопіюй файли до теки з грою (за запиту — замінити файли).</li><li>Запусти гру — локалізація має застосуватися. Інколи мову треба вибрати в налаштуваннях гри.</li></ol>",
+      "authorsHtml": "<p>litarry, Jobitronik, DidGeim, slav1k-_-, StaLkeR318, Bloody Punisher, miK_0451, Невдоволення, Kefir, sonic</p>",
+      "size": null,
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Google Drive",
+          "url": "https://drive.google.com/file/d/1XocqVBmYMGOpB8AdZjGZWCxmEIvYGxMb/view?usp=sharing",
+          "kind": "google",
+          "size": null
+        }
+      ]
+    },
+    {
       "steamAppId": "2169200",
       "title": "Sniper Elite: Resistance",
       "studio": "КУЛІ",
@@ -11771,33 +11798,6 @@
       ]
     },
     {
-      "steamAppId": "1525700",
-      "title": "Tavern Master",
-      "studio": "КУЛІ",
-      "studioUrl": "https://kuli.com.ua/tavern-master",
-      "language": "Українська",
-      "hasText": true,
-      "hasVoice": false,
-      "hasNeuralText": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "version": null,
-      "updatedAt": "20.01.2024",
-      "pageUrl": "https://kuli.com.ua/tavern-master",
-      "howToInstallHtml": "<ol><li>Завантаж українізатор за посиланням вище.</li><li>Якщо це інсталятор (.exe) — запусти його; якщо архів — розпакуй.</li><li>Скопіюй файли до теки з грою (за запиту — замінити файли).</li><li>Запусти гру — локалізація має застосуватися. Інколи мову треба вибрати в налаштуваннях гри.</li></ol>",
-      "authorsHtml": "<p>MsEmi</p>",
-      "size": null,
-      "inDevelopment": false,
-      "mirrors": [
-        {
-          "label": "Google Drive",
-          "url": "https://drive.google.com/file/d/1VQQEbD8Q--k946uzkb8E8yr2a0HoOTD4/view",
-          "kind": "google",
-          "size": null
-        }
-      ]
-    },
-    {
       "steamAppId": "1472560",
       "title": "I Am Fish",
       "studio": "КУЛІ",
@@ -16271,32 +16271,6 @@
       ]
     },
     {
-      "title": "Prey (2006)",
-      "studio": "КУЛІ",
-      "studioUrl": "https://kuli.com.ua/prey-2006",
-      "language": "Українська",
-      "hasText": true,
-      "hasVoice": false,
-      "hasNeuralText": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "version": null,
-      "updatedAt": "25.01.2021",
-      "pageUrl": "https://kuli.com.ua/prey-2006",
-      "howToInstallHtml": "<ol><li>Завантаж українізатор за посиланням вище.</li><li>Якщо це інсталятор (.exe) — запусти його; якщо архів — розпакуй.</li><li>Скопіюй файли до теки з грою (за запиту — замінити файли).</li><li>Запусти гру — локалізація має застосуватися. Інколи мову треба вибрати в налаштуваннях гри.</li></ol>",
-      "authorsHtml": "<p>Дракон Сходу</p>",
-      "size": null,
-      "inDevelopment": false,
-      "mirrors": [
-        {
-          "label": "Google Drive",
-          "url": "https://drive.google.com/file/d/1VFubHIqrMjuhAWF3L6IkyM9NNdIwt-Ru/view",
-          "kind": "google",
-          "size": null
-        }
-      ]
-    },
-    {
       "steamAppId": "632070",
       "title": "Fidelio Incident",
       "studio": "КУЛІ",
@@ -18288,6 +18262,33 @@
       ]
     },
     {
+      "steamAppId": "1722860",
+      "title": "Munchkin Digital",
+      "studio": "КУЛІ",
+      "studioUrl": "https://kuli.com.ua/munchkin-digital",
+      "language": "Українська",
+      "hasText": true,
+      "hasVoice": false,
+      "hasNeuralText": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "version": null,
+      "updatedAt": "10.08.2024",
+      "pageUrl": "https://kuli.com.ua/munchkin-digital",
+      "howToInstallHtml": "<ol><li>Завантаж українізатор за посиланням вище.</li><li>Якщо це інсталятор (.exe) — запусти його; якщо архів — розпакуй.</li><li>Скопіюй файли до теки з грою (за запиту — замінити файли).</li><li>Запусти гру — локалізація має застосуватися. Інколи мову треба вибрати в налаштуваннях гри.</li></ol>",
+      "authorsHtml": "<p>stockgolm та borlak</p>",
+      "size": null,
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Google Drive",
+          "url": "https://drive.google.com/file/d/1_C5YlebtahassAYYK0K7Ajcn7lG8ON3h/view",
+          "kind": "google",
+          "size": null
+        }
+      ]
+    },
+    {
       "steamAppId": "362680",
       "title": "Fran Bow",
       "studio": "КУЛІ",
@@ -18335,7 +18336,7 @@
       "mirrors": [
         {
           "label": "Google Drive",
-          "url": "https://drive.google.com/file/d/1O_0ZT3RMdcsE6CenthumceNJ5AsmWmCq/view?usp=share_link",
+          "url": "https://www.google.com/sorry/index?continue=https://drive.google.com/file/d/1O_0ZT3RMdcsE6CenthumceNJ5AsmWmCq/view%3Fusp%3Dshare_link&q=EgQNU6bjGIjx4dYGIjCJBSKwZRtOjL1wr9whDf8puJSP-ggDsr8JcIxZP6T7ty7y5BC-VGsrnQXGc8wTVtgyAnJSShFTT1JSWV9JU1BfTUVTU0FHRVoBQw",
           "kind": "google",
           "size": null
         }
@@ -18362,7 +18363,7 @@
       "mirrors": [
         {
           "label": "Google Drive",
-          "url": "https://drive.google.com/file/d/1yCcFAS_hDrWoXwTtyLRAZn54McaPR-go/view?usp=sharing",
+          "url": "https://www.google.com/sorry/index?continue=https://drive.google.com/file/d/1yCcFAS_hDrWoXwTtyLRAZn54McaPR-go/view%3Fusp%3Dsharing&q=EgQNU6bjGIjx4dYGIjAF8mo4WE_32Fs-dWByB0ncwlLhVR1gcV2y_nIhsoU28MqV7ukEG6fhEEiBILJk5KsyAnJSShFTT1JSWV9JU1BfTUVTU0FHRVoBQw",
           "kind": "google",
           "size": null
         }
@@ -18389,7 +18390,7 @@
       "mirrors": [
         {
           "label": "Google Drive",
-          "url": "https://drive.google.com/file/d/1ZqZC1iEa3KLpul9b1QIdMD9jvDm1kHww/view?usp=share_link",
+          "url": "https://www.google.com/sorry/index?continue=https://drive.google.com/file/d/1ZqZC1iEa3KLpul9b1QIdMD9jvDm1kHww/view%3Fusp%3Dshare_link&q=EgQNU6bjGInx4dYGIjD11OrLziNUGSn97WUs1TRZUBCIY1i-k_zwh9i5vMFcjIeq3ZTHwFAHO8y6viQXEDsyAnJSShFTT1JSWV9JU1BfTUVTU0FHRVoBQw",
           "kind": "google",
           "size": null
         }
@@ -18632,7 +18633,7 @@
       "mirrors": [
         {
           "label": "Google Drive",
-          "url": "https://drive.google.com/file/d/1pszVpCJdDzuwehnngwi1aest30tB-xQs/view?usp=sharing",
+          "url": "https://www.google.com/sorry/index?continue=https://drive.google.com/file/d/1pszVpCJdDzuwehnngwi1aest30tB-xQs/view%3Fusp%3Dsharing&q=EgQNU6bjGIzx4dYGIjCqVYTIsh15U3Z-TtbjxnAoM5wbmXQb3mSeOTWiwbA9A4mET2F1lUjdYf6QvqDYvqwyAnJSShFTT1JSWV9JU1BfTUVTU0FHRVoBQw",
           "kind": "google",
           "size": null
         }
@@ -18658,7 +18659,7 @@
       "mirrors": [
         {
           "label": "Google Drive",
-          "url": "https://drive.google.com/file/d/1pRlvKiEj5nNng6A4TVGJKbS0Yhvlfndw/view?usp=sharing[/url",
+          "url": "https://www.google.com/sorry/index?continue=https://drive.google.com/file/d/1pRlvKiEj5nNng6A4TVGJKbS0Yhvlfndw/view%3Fusp%3Dsharing%5B/url&q=EgQNU6bjGIzx4dYGIjA6n2yTLDFAo7u4H22yZ4NiiWwKVPmuyOlHTn3gLbxZ_AUJA-JHuhNNsARiWVOBec8yAnJSShFTT1JSWV9JU1BfTUVTU0FHRVoBQw",
           "kind": "google",
           "size": null
         }
@@ -18685,7 +18686,7 @@
       "mirrors": [
         {
           "label": "Google Drive",
-          "url": "https://drive.google.com/file/d/10rhJ3i9m4heOUXQ-JSSQKarc51V7HKSR/view?usp=share_link",
+          "url": "https://www.google.com/sorry/index?continue=https://drive.google.com/file/d/10rhJ3i9m4heOUXQ-JSSQKarc51V7HKSR/view%3Fusp%3Dshare_link&q=EgQNU6bjGIzx4dYGIjD7yCjJDpKsZcZ-_FsYnxiP9x7cUg0Gqj3IVt75d2vSbJJsohwEQVWDvgaeDvrA5hEyAnJSShFTT1JSWV9JU1BfTUVTU0FHRVoBQw",
           "kind": "google",
           "size": null
         }
@@ -18739,7 +18740,7 @@
       "mirrors": [
         {
           "label": "Google Drive",
-          "url": "https://drive.google.com/file/d/1tqIxv2mvsc5zRDO8Mr9SYyhasZ1uZbHe/view",
+          "url": "https://www.google.com/sorry/index?continue=https://drive.google.com/file/d/1tqIxv2mvsc5zRDO8Mr9SYyhasZ1uZbHe/view&q=EgQNU6bjGI3x4dYGIjDsn7Tfx1nJmAIGUXwylgLD6_5qePowksU_YX13nXD5Bb3cQ9MTIlgh8eQRGNhebGIyAnJSShFTT1JSWV9JU1BfTUVTU0FHRVoBQw",
           "kind": "google",
           "size": null
         }
@@ -18818,7 +18819,7 @@
       "mirrors": [
         {
           "label": "Google Drive",
-          "url": "https://drive.google.com/file/d/1x-UXqMPxdv1x5ctQ-eThj7IDjQX3QlvI/view",
+          "url": "https://www.google.com/sorry/index?continue=https://drive.google.com/file/d/1x-UXqMPxdv1x5ctQ-eThj7IDjQX3QlvI/view&q=EgQNU6bjGI7x4dYGIjAPIxuBxzXBjZTvpiOwghwh5wvs7vM3JbjYRsOypRrkJITOA0DcJRwT3ZPDRj3IBHIyAnJSShFTT1JSWV9JU1BfTUVTU0FHRVoBQw",
           "kind": "google",
           "size": null
         }
@@ -18844,7 +18845,7 @@
       "mirrors": [
         {
           "label": "Google Drive",
-          "url": "https://drive.google.com/file/d/10t3yk3a1bBQiHrLWF5nywx4PiWp-2-5a/view",
+          "url": "https://www.google.com/sorry/index?continue=https://drive.google.com/file/d/10t3yk3a1bBQiHrLWF5nywx4PiWp-2-5a/view&q=EgQNU6bjGI7x4dYGIjDyuNfw-1fVw6QNRUJXK3wDyltRoqeA2fNyWVnrydI8GKRTVOrUJQFJpTeE4E7V0dwyAnJSShFTT1JSWV9JU1BfTUVTU0FHRVoBQw",
           "kind": "google",
           "size": null
         }
@@ -18870,7 +18871,7 @@
       "mirrors": [
         {
           "label": "Google Drive",
-          "url": "https://drive.google.com/file/d/1k_7NlcTBmlWvLkHvdUXSVNk638F_bkIf/view?usp=share_link",
+          "url": "https://www.google.com/sorry/index?continue=https://drive.google.com/file/d/1k_7NlcTBmlWvLkHvdUXSVNk638F_bkIf/view%3Fusp%3Dshare_link&q=EgQNU6bjGI7x4dYGIjBYCQ1Pd6GTF7lKhvkzlnk1mubhIy8PU2vTR_i_6Qo8MzNqlkJ2yjqCoBKuVqAA1YIyAnJSShFTT1JSWV9JU1BfTUVTU0FHRVoBQw",
           "kind": "google",
           "size": null
         }
@@ -18896,7 +18897,7 @@
       "mirrors": [
         {
           "label": "Google Drive",
-          "url": "https://drive.google.com/file/d/1Si_o4oG6nnR060XHML9S3mFQEvYYOJr2/view?usp=sharing",
+          "url": "https://www.google.com/sorry/index?continue=https://drive.google.com/file/d/1Si_o4oG6nnR060XHML9S3mFQEvYYOJr2/view%3Fusp%3Dsharing&q=EgQNU6bjGI_x4dYGIjA6oIoOSybeJwwRInkrVt_PiQoHo9fF1_mtztvoyODFbdOHmc4nL_IPcd0r-eKQ2WgyAnJSShFTT1JSWV9JU1BfTUVTU0FHRVoBQw",
           "kind": "google",
           "size": null
         }
@@ -18922,7 +18923,7 @@
       "mirrors": [
         {
           "label": "Google Drive",
-          "url": "https://drive.google.com/file/d/1ds_zP6vbM_qtqzs61_7HtkDQEcYA9C6V/view?usp=share_link",
+          "url": "https://www.google.com/sorry/index?continue=https://drive.google.com/file/d/1ds_zP6vbM_qtqzs61_7HtkDQEcYA9C6V/view%3Fusp%3Dshare_link&q=EgQNU6bjGI_x4dYGIjAK40HfedmIp1PwL9jM8sZLVZs2oCE9FqsNrxpNDCy1FaSEvmpy0jXvAVdgMMspPFgyAnJSShFTT1JSWV9JU1BfTUVTU0FHRVoBQw",
           "kind": "google",
           "size": null
         }
@@ -19001,7 +19002,7 @@
       "mirrors": [
         {
           "label": "Google Drive",
-          "url": "https://drive.google.com/file/d/1MzTmBXj4lhyn5zeeJm81QaAfLPQTpYR8/view?usp=sharing",
+          "url": "https://www.google.com/sorry/index?continue=https://drive.google.com/file/d/1MzTmBXj4lhyn5zeeJm81QaAfLPQTpYR8/view%3Fusp%3Dsharing&q=EgQNU6bjGI_x4dYGIjCC5ByrECy9bi-aZwnPwViC9ZNrQngIg3SAkufFP06hvkIqsFF0CISV5nVQZk7HUF8yAnJSShFTT1JSWV9JU1BfTUVTU0FHRVoBQw",
           "kind": "google",
           "size": null
         }
@@ -19082,7 +19083,7 @@
       "mirrors": [
         {
           "label": "Google Drive",
-          "url": "https://drive.google.com/file/d/15fF4OPJeDBizTIWRq-kAxzg6SVN_1DCO/view",
+          "url": "https://www.google.com/sorry/index?continue=https://drive.google.com/file/d/15fF4OPJeDBizTIWRq-kAxzg6SVN_1DCO/view&q=EgQNU6bjGJDx4dYGIjB5j8xLgbVOtPJKD9cUID6NDvEw_C4Fd7XoTe4yk0k_nJwkJBqqTVUkZ33GCNuboLwyAnJSShFTT1JSWV9JU1BfTUVTU0FHRVoBQw",
           "kind": "google",
           "size": null
         }
@@ -19109,7 +19110,7 @@
       "mirrors": [
         {
           "label": "Google Drive",
-          "url": "https://drive.google.com/file/d/1Zl_8Fw1GVkcX-b22OYPPpRfrCVkxAl-E/view?usp=sharing",
+          "url": "https://www.google.com/sorry/index?continue=https://drive.google.com/file/d/1Zl_8Fw1GVkcX-b22OYPPpRfrCVkxAl-E/view%3Fusp%3Dsharing&q=EgQNU6bjGJDx4dYGIjC4ODtghzqFl5NeWdHC8jL_MBnvK3-muVCbfLYsZZUN7JhP-QxYNIQ5nh1PZUxp94IyAnJSShFTT1JSWV9JU1BfTUVTU0FHRVoBQw",
           "kind": "google",
           "size": null
         }
@@ -19136,7 +19137,7 @@
       "mirrors": [
         {
           "label": "Google Drive",
-          "url": "https://drive.google.com/file/d/1fyiwt_s1aBaxdgumJD0Ci_VQ3z9OSGAH/view?usp=sharing",
+          "url": "https://www.google.com/sorry/index?continue=https://drive.google.com/file/d/1fyiwt_s1aBaxdgumJD0Ci_VQ3z9OSGAH/view%3Fusp%3Dsharing&q=EgQNU6bjGJHx4dYGIjDME7k41MQGq60Cp257sVhxcIyA72WIdbAvKYntp72isgAfaoqdf-kCKgtpXKeV1uMyAnJSShFTT1JSWV9JU1BfTUVTU0FHRVoBQw",
           "kind": "google",
           "size": null
         }
@@ -19244,7 +19245,7 @@
       "mirrors": [
         {
           "label": "Google Drive",
-          "url": "https://www.google.com/sorry/index?continue=https://drive.google.com/file/d/1ATX7cXdnBPgOs96e8v7h72D67gS4jyRV/view%3Fusp%3Dsharing&q=EgQUdvadGNTK3NYGIjAsXvvBGuVsUeM7QitzGG8UEi8mcqWL2b_hxqRn4H8jUAT2-yc2D1BXB6q65XCr5YMyAnJSShFTT1JSWV9JU1BfTUVTU0FHRVoBQw",
+          "url": "https://www.google.com/sorry/index?continue=https://drive.google.com/file/d/1ATX7cXdnBPgOs96e8v7h72D67gS4jyRV/view%3Fusp%3Dsharing&q=EgQNU6bjGJLx4dYGIjDn5ixZr_mT2D2Y-weL44jezNXBJAivb1rHPATNBb1T3PaXFvxshGbC66x2bP3GiGgyAnJSShFTT1JSWV9JU1BfTUVTU0FHRVoBQw",
           "kind": "google",
           "size": null
         }
@@ -19271,7 +19272,7 @@
       "mirrors": [
         {
           "label": "Google Drive",
-          "url": "https://www.google.com/sorry/index?continue=https://drive.google.com/file/d/1Ee9opmaoFptT1G1PXQ6rLq1S4CItRHy9/view%3Fusp%3Dshare_link&q=EgQUdvadGNbK3NYGIjDVJFMpq1QW2u7jp_BN6JESHvfaAZ2BWWeFq4JzATWa-ye2iqzFYMjHMbwfg10OUSEyAnJSShFTT1JSWV9JU1BfTUVTU0FHRVoBQw",
+          "url": "https://www.google.com/sorry/index?continue=https://drive.google.com/file/d/1Ee9opmaoFptT1G1PXQ6rLq1S4CItRHy9/view%3Fusp%3Dshare_link&q=EgQNU6bjGJPx4dYGIjBQh539xS5j2ltqkLAAdE6LdaWgjDOdUjowbGOBQG9haXe1zOs8xJzxYd3z_aWaFhAyAnJSShFTT1JSWV9JU1BfTUVTU0FHRVoBQw",
           "kind": "google",
           "size": null
         }
@@ -19352,7 +19353,7 @@
       "mirrors": [
         {
           "label": "Google Drive",
-          "url": "https://drive.google.com/file/d/1ScbBUI-uT2nAvr6k_ZX1fxk-xgI05BCE/view",
+          "url": "https://www.google.com/sorry/index?continue=https://drive.google.com/file/d/1ScbBUI-uT2nAvr6k_ZX1fxk-xgI05BCE/view&q=EgQNU6bjGJPx4dYGIjBeFEeMFxtRxP79erzs7jUUep3YE6ZVtAkj9CluA5G57IU5fOVYBkWuQUCaPBFD39syAnJSShFTT1JSWV9JU1BfTUVTU0FHRVoBQw",
           "kind": "google",
           "size": null
         }
@@ -19379,7 +19380,7 @@
       "mirrors": [
         {
           "label": "Google Drive",
-          "url": "https://drive.google.com/file/d/1wqVv_Tk7nxftaF00xs8ISn956x4EtVoi/view?usp=sharing",
+          "url": "https://www.google.com/sorry/index?continue=https://drive.google.com/file/d/1wqVv_Tk7nxftaF00xs8ISn956x4EtVoi/view%3Fusp%3Dsharing&q=EgQNU6bjGJPx4dYGIjA6o8URhM8LuS0io2XYFwiO0BKMmc419uN8DriBABfxoV7x6GvvJU5FMaWylzDBeaUyAnJSShFTT1JSWV9JU1BfTUVTU0FHRVoBQw",
           "kind": "google",
           "size": null
         }
@@ -19406,7 +19407,7 @@
       "mirrors": [
         {
           "label": "Google Drive",
-          "url": "https://www.google.com/sorry/index?continue=https://drive.google.com/file/d/1c4bt2ZoO2YrSkYGeH4Q2n3EfYx5cYOig/view%3Fusp%3Dsharing&q=EgQUdvadGNfK3NYGIjCAfuZLoSxfPgQ1Ss92cDbbJvuovXYsMxHuudyxmrvV1Jdhmw2wiSx8ltIgEmE8uLAyAnJSShFTT1JSWV9JU1BfTUVTU0FHRVoBQw",
+          "url": "https://www.google.com/sorry/index?continue=https://drive.google.com/file/d/1c4bt2ZoO2YrSkYGeH4Q2n3EfYx5cYOig/view%3Fusp%3Dsharing&q=EgQNU6bjGJTx4dYGIjD-wRStEd6ShqlYvkICKjxok8aZzN29f9jagVhDPtFhBpPLQBtK7B5TUvieX-pvQQYyAnJSShFTT1JSWV9JU1BfTUVTU0FHRVoBQw",
           "kind": "google",
           "size": null
         }
@@ -19433,7 +19434,7 @@
       "mirrors": [
         {
           "label": "Google Drive",
-          "url": "https://drive.google.com/file/d/1HMclASWGeSuPY1Gb1WGlXzNuEBOyLpSA/view?usp=share_link",
+          "url": "https://www.google.com/sorry/index?continue=https://drive.google.com/file/d/1HMclASWGeSuPY1Gb1WGlXzNuEBOyLpSA/view%3Fusp%3Dshare_link&q=EgQNU6bjGJXx4dYGIjB_3SENFpYwcuLsEwwBaPA9_AV_dL5LoqEcDaeQCWr462XeFlEqKs8I3MuXL56mZLsyAnJSShFTT1JSWV9JU1BfTUVTU0FHRVoBQw",
           "kind": "google",
           "size": null
         }
@@ -19460,7 +19461,7 @@
       "mirrors": [
         {
           "label": "Google Drive",
-          "url": "https://drive.google.com/file/d/1uxhpvgTW9xzUN4VR_Tf3o0npopnidmif/view?usp=sharing",
+          "url": "https://www.google.com/sorry/index?continue=https://drive.google.com/file/d/1uxhpvgTW9xzUN4VR_Tf3o0npopnidmif/view%3Fusp%3Dsharing&q=EgQNU6bjGJbx4dYGIjCkP26SD7iwSGCQky8h4MyjANvmr8NAqwFF-SUyNMWOJuYXigT__V9GfnVJk92tXW0yAnJSShFTT1JSWV9JU1BfTUVTU0FHRVoBQw",
           "kind": "google",
           "size": null
         }
@@ -19487,7 +19488,7 @@
       "mirrors": [
         {
           "label": "Google Drive",
-          "url": "https://drive.google.com/file/d/1-91WN68mPyXCwrzgfAdijXJsRZF7MEOj/view?usp=sharing",
+          "url": "https://www.google.com/sorry/index?continue=https://drive.google.com/file/d/1-91WN68mPyXCwrzgfAdijXJsRZF7MEOj/view%3Fusp%3Dsharing&q=EgQNU6bjGJbx4dYGIjDF7K9d__UVzG84pIHxxnZdBGmv3ei7EJ25Ebe53KBsGuFnmyWzK1TcQ2fAfSWva34yAnJSShFTT1JSWV9JU1BfTUVTU0FHRVoBQw",
           "kind": "google",
           "size": null
         }
@@ -19514,7 +19515,7 @@
       "mirrors": [
         {
           "label": "Google Drive",
-          "url": "https://drive.google.com/file/d/1Rb6uFgJCl_N9HnNYuX7_yFqm1uesr7f8/view?usp=sharing",
+          "url": "https://www.google.com/sorry/index?continue=https://drive.google.com/file/d/1Rb6uFgJCl_N9HnNYuX7_yFqm1uesr7f8/view%3Fusp%3Dsharing&q=EgQNU6bjGJbx4dYGIjCpBgKtbjpbS35nOe4X3B1ZX1AvJhmX-qjRHLcFQoojLHnijiEgJ69W5DFfe8wWvZEyAnJSShFTT1JSWV9JU1BfTUVTU0FHRVoBQw",
           "kind": "google",
           "size": null
         }
@@ -19541,7 +19542,7 @@
       "mirrors": [
         {
           "label": "Google Drive",
-          "url": "https://drive.google.com/file/d/1t0ouZo-yRt_lPxbZaas76pny5P9mr6U0/view?usp=sharing",
+          "url": "https://www.google.com/sorry/index?continue=https://drive.google.com/file/d/1t0ouZo-yRt_lPxbZaas76pny5P9mr6U0/view%3Fusp%3Dsharing&q=EgQNU6bjGJbx4dYGIjCMOtH_8-GXHJIz56Saa-1fuT57Z_ntsO3mUxa8jNFY_Pwei7l-zxqAd9oli18xVFAyAnJSShFTT1JSWV9JU1BfTUVTU0FHRVoBQw",
           "kind": "google",
           "size": null
         }
@@ -19649,7 +19650,7 @@
       "mirrors": [
         {
           "label": "Google Drive",
-          "url": "https://www.google.com/sorry/index?continue=https://drive.google.com/file/d/1KO8G_hrkVjf7gLHNphPPo_lE-jDyqKtm/view%3Fusp%3Dsharing&q=EgQUdvadGNrK3NYGIjBANMQorvtCwcLIeer0ndhIqqpSEB3K1VC9Ooi_j5v4E_VCwJCXbuVlEbXp4Cdky24yAnJSShFTT1JSWV9JU1BfTUVTU0FHRVoBQw",
+          "url": "https://www.google.com/sorry/index?continue=https://drive.google.com/file/d/1KO8G_hrkVjf7gLHNphPPo_lE-jDyqKtm/view%3Fusp%3Dsharing&q=EgQNU6bjGJjx4dYGIjDuK4tp-zDj5GY5vU27O_VwvFoiK1Y8rwel_CbRwRB4E0dbDh1jrYMXUsXvKVTmRVAyAnJSShFTT1JSWV9JU1BfTUVTU0FHRVoBQw",
           "kind": "google",
           "size": null
         }
@@ -19676,7 +19677,7 @@
       "mirrors": [
         {
           "label": "Google Drive",
-          "url": "https://www.google.com/sorry/index?continue=https://drive.google.com/file/d/1ECiy_DxIXOov-p5vCsuW2rHiBh1UUhe1/view&q=EgQUdvadGNrK3NYGIjDlGMn-AJCrmK3lLqjDKJiG4Dq95_ygCk6wux95ToOjI6WjY31kpUW81k-XKqxyASsyAnJSShFTT1JSWV9JU1BfTUVTU0FHRVoBQw",
+          "url": "https://www.google.com/sorry/index?continue=https://drive.google.com/file/d/1ECiy_DxIXOov-p5vCsuW2rHiBh1UUhe1/view&q=EgQNU6bjGJfx4dYGIjA9hO8vUVmiXUrtg-MfzAU0vjHRM0eoq-HFvpZlr1Dg3q8o7L9ZzdLbhhNPNukzBe0yAnJSShFTT1JSWV9JU1BfTUVTU0FHRVoBQw",
           "kind": "google",
           "size": null
         }
@@ -19730,7 +19731,7 @@
       "mirrors": [
         {
           "label": "Google Drive",
-          "url": "https://www.google.com/sorry/index?continue=https://drive.google.com/file/d/1cFEzItA0eTFShCC29hhOtwOVPBKuFTB3/view&q=EgQUdvadGNrK3NYGIjCu6wvglx45XwB8PqedMnSqWIHDt-3WujeEIIB5G9_lMJxRNh5bdRr7x7BZ3YZxCYEyAnJSShFTT1JSWV9JU1BfTUVTU0FHRVoBQw",
+          "url": "https://www.google.com/sorry/index?continue=https://drive.google.com/file/d/1cFEzItA0eTFShCC29hhOtwOVPBKuFTB3/view&q=EgQNU6bjGJjx4dYGIjBL0GjlPvnFzEFuNawkXIWStISOnF_Ooo9NFkFIHsl6AwWUf3HYzjMlDhGRQVzlOZ0yAnJSShFTT1JSWV9JU1BfTUVTU0FHRVoBQw",
           "kind": "google",
           "size": null
         }
@@ -19757,7 +19758,7 @@
       "mirrors": [
         {
           "label": "Google Drive",
-          "url": "https://www.google.com/sorry/index?continue=https://drive.google.com/file/d/1jjuETdzeOAjBx0qPiVybH98p94zzBd31/view%3Fusp%3Dsharing&q=EgQUdvadGNvK3NYGIjBfs7dYUMoTRvPJuZv1UbnC4LAsheYdDugNgMkJSoy4UqVkodXxNjz7bq-_MHeqkywyAnJSShFTT1JSWV9JU1BfTUVTU0FHRVoBQw",
+          "url": "https://www.google.com/sorry/index?continue=https://drive.google.com/file/d/1jjuETdzeOAjBx0qPiVybH98p94zzBd31/view%3Fusp%3Dsharing&q=EgQNU6bjGJjx4dYGIjA7OFfoeJfBLt5m6OrbE2qVl31ZqkxyPnP2teOHfqefofXw9pDWuQZm2e3X-8w4pCsyAnJSShFTT1JSWV9JU1BfTUVTU0FHRVoBQw",
           "kind": "google",
           "size": null
         }
@@ -19811,7 +19812,7 @@
       "mirrors": [
         {
           "label": "Google Drive",
-          "url": "https://www.google.com/sorry/index?continue=https://drive.google.com/file/d/1B_qB0Xr8YC1uDXDLBUIrWYGciePqdeQb/view&q=EgQUdvadGNvK3NYGIjCpCXgme9VQag989M5lg3rmt5Jtlsptm3GzNlRcpIfHQkokElRf_57R8xnQVZDMW1syAnJSShFTT1JSWV9JU1BfTUVTU0FHRVoBQw",
+          "url": "https://www.google.com/sorry/index?continue=https://drive.google.com/file/d/1B_qB0Xr8YC1uDXDLBUIrWYGciePqdeQb/view&q=EgQNU6bjGJnx4dYGIjCsUKiD7vw16DJ_LjnW6xquHGqAj2xNZ5Wo_qe3TtLz-hytmXwIcTjUjvFUec279ZYyAnJSShFTT1JSWV9JU1BfTUVTU0FHRVoBQw",
           "kind": "google",
           "size": null
         }
@@ -19865,7 +19866,7 @@
       "mirrors": [
         {
           "label": "Google Drive",
-          "url": "https://www.google.com/sorry/index?continue=https://drive.google.com/file/d/1-7E8mE8Wt_Kob5F4V1jfr6mqUBlHtPvj/view&q=EgQUdvadGNvK3NYGIjAdnk8fs05UxNv0_pAmK4wEVIo1MVcDPPytv_B00pTwW7KKHCj6ODDsxOgPuOuY6msyAnJSShFTT1JSWV9JU1BfTUVTU0FHRVoBQw",
+          "url": "https://www.google.com/sorry/index?continue=https://drive.google.com/file/d/1-7E8mE8Wt_Kob5F4V1jfr6mqUBlHtPvj/view&q=EgQNU6bjGJnx4dYGIjBeOd1DOLg7WVVqV7nkL-D1Dc3usBeeuZ7uJPRnpksK8YtBZ0KG06AkE6_x-IR97E8yAnJSShFTT1JSWV9JU1BfTUVTU0FHRVoBQw",
           "kind": "google",
           "size": null
         }
@@ -19892,7 +19893,7 @@
       "mirrors": [
         {
           "label": "Google Drive",
-          "url": "https://www.google.com/sorry/index?continue=https://drive.google.com/file/d/1-MgUPZoViFdX4VkjoDtzFAzfGn8hjf3Z/view&q=EgQUdvadGNvK3NYGIjDvh90b1vK5dn3eTyDXfW4-JO0L2dSElzUYMIZPvKHS1ixLXNYuZIgpWxR6VAn44f0yAnJSShFTT1JSWV9JU1BfTUVTU0FHRVoBQw",
+          "url": "https://www.google.com/sorry/index?continue=https://drive.google.com/file/d/1-MgUPZoViFdX4VkjoDtzFAzfGn8hjf3Z/view&q=EgQNU6bjGJnx4dYGIjBQ8ixAw4S6vipLWa5enNvARtaU_Dm_E9IV_pRK0GVpo2SjdsBShn7NDM3LGC8nWCYyAnJSShFTT1JSWV9JU1BfTUVTU0FHRVoBQw",
           "kind": "google",
           "size": null
         }
@@ -20000,7 +20001,7 @@
       "mirrors": [
         {
           "label": "Google Drive",
-          "url": "https://www.google.com/sorry/index?continue=https://drive.google.com/file/d/1A91TKQL_717OfWN8LJjAYwa2kLj0DAZN/view%3Fusp%3Dsharing&q=EgQUdvadGN3K3NYGIjCfS8w7FZC8PNAq1bXjosfeHJqL6B6FtY6OzNMS2QnZd82ytK56wzLM7-BLLTtcAQMyAnJSShFTT1JSWV9JU1BfTUVTU0FHRVoBQw",
+          "url": "https://www.google.com/sorry/index?continue=https://drive.google.com/file/d/1A91TKQL_717OfWN8LJjAYwa2kLj0DAZN/view%3Fusp%3Dsharing&q=EgQNU6bjGJrx4dYGIjAOr49AtR8FUiBA8BZ6DcHjnWj1Mip1amoXRu_LnHM51Jlc0HtJTaGg6cCj27ekDeIyAnJSShFTT1JSWV9JU1BfTUVTU0FHRVoBQw",
           "kind": "google",
           "size": null
         }
@@ -20054,7 +20055,7 @@
       "mirrors": [
         {
           "label": "Google Drive",
-          "url": "https://www.google.com/sorry/index?continue=https://drive.google.com/file/d/1ien0_rER5_ztlnNnQEXcgLcX-z2IQ8ar/view&q=EgQUdvadGN3K3NYGIjBWK-5Jz-YDorrpRVcrLefzMSOgVfzi3ybR0muYFUwZOEZqp6FS4-0MSeDF8qqzaMUyAnJSShFTT1JSWV9JU1BfTUVTU0FHRVoBQw",
+          "url": "https://www.google.com/sorry/index?continue=https://drive.google.com/file/d/1ien0_rER5_ztlnNnQEXcgLcX-z2IQ8ar/view&q=EgQNU6bjGJvx4dYGIjCMNcrznn0_K3dMkhZtv2l3VZJu0ijlcf-k1G30Vt3fyVk5Zxpo1kFopZ7FGS86OZIyAnJSShFTT1JSWV9JU1BfTUVTU0FHRVoBQw",
           "kind": "google",
           "size": null
         }
@@ -20081,7 +20082,7 @@
       "mirrors": [
         {
           "label": "Google Drive",
-          "url": "https://drive.google.com/file/d/1ELghhsnKArLDJFThM2v2KjaqCvMLctac/view?usp=drive_link",
+          "url": "https://www.google.com/sorry/index?continue=https://drive.google.com/file/d/1ELghhsnKArLDJFThM2v2KjaqCvMLctac/view%3Fusp%3Ddrive_link&q=EgQNU6bjGJzx4dYGIjBoXeyLxgAYlbTdDf5PHNbZpKiHwINpd9b5Z5WNWK5E7aJpSC6jhsSO3VEbg2oEoacyAnJSShFTT1JSWV9JU1BfTUVTU0FHRVoBQw",
           "kind": "google",
           "size": null
         }
@@ -20135,7 +20136,7 @@
       "mirrors": [
         {
           "label": "Google Drive",
-          "url": "https://www.google.com/sorry/index?continue=https://drive.google.com/file/d/1_lTrmDL6FTv4ckJC7Uc5KdaBvICt0Cka/view&q=EgQUdvadGN7K3NYGIjBYwlEatQbPZj-CIzu8Z3VqW9eCElru8wEJWOwSjcu9q79I5_WbkWkb99ulSMcjZLUyAnJSShFTT1JSWV9JU1BfTUVTU0FHRVoBQw",
+          "url": "https://www.google.com/sorry/index?continue=https://drive.google.com/file/d/1_lTrmDL6FTv4ckJC7Uc5KdaBvICt0Cka/view&q=EgQNU6bjGJvx4dYGIjCKQkIa59qWyA7llgI-Z3gyUrKIfDdGc8mgo2N9LOFZxpDG0DfF5KSI2TlUd5hfUNUyAnJSShFTT1JSWV9JU1BfTUVTU0FHRVoBQw",
           "kind": "google",
           "size": null
         }
@@ -20189,7 +20190,7 @@
       "mirrors": [
         {
           "label": "Google Drive",
-          "url": "https://www.google.com/sorry/index?continue=https://drive.google.com/file/d/1bhD0_158rarGJJ28_FYgW6PjSzDj2sIc/view&q=EgQUdvadGN7K3NYGIjBP5Wy_sX7Jtw1VkYdo-j7Mws_b3AHqLNj5Lqepoh1Te_kgJS7RJOgkals-jie72twyAnJSShFTT1JSWV9JU1BfTUVTU0FHRVoBQw",
+          "url": "https://www.google.com/sorry/index?continue=https://drive.google.com/file/d/1bhD0_158rarGJJ28_FYgW6PjSzDj2sIc/view&q=EgQNU6bjGJzx4dYGIjA0DN-zgUn3XdcsCcYHtIbK3XnI-aqHy1DGwmliV5Sx3LGKBu2yYXBhHufS1fjGytkyAnJSShFTT1JSWV9JU1BfTUVTU0FHRVoBQw",
           "kind": "google",
           "size": null
         }
@@ -20216,7 +20217,7 @@
       "mirrors": [
         {
           "label": "Google Drive",
-          "url": "https://drive.google.com/file/d/14OweEwhnT6G7MQTJggmn_32q9Hi6FlBU/view?usp=sharing",
+          "url": "https://www.google.com/sorry/index?continue=https://drive.google.com/file/d/14OweEwhnT6G7MQTJggmn_32q9Hi6FlBU/view%3Fusp%3Dsharing&q=EgQNU6bjGJ3x4dYGIjCoTewyOb2Cft_267xUcfOjNnHLCyb-rfMk_00vpaddvpXpM50dgzPEI0eLDrRzr34yAnJSShFTT1JSWV9JU1BfTUVTU0FHRVoBQw",
           "kind": "google",
           "size": null
         }
@@ -20243,7 +20244,7 @@
       "mirrors": [
         {
           "label": "Google Drive",
-          "url": "https://drive.google.com/file/d/1ycmzWHIuM4t_OrXlPcJkI8uUNrlNVUiY/view",
+          "url": "https://www.google.com/sorry/index?continue=https://drive.google.com/file/d/1ycmzWHIuM4t_OrXlPcJkI8uUNrlNVUiY/view&q=EgQNU6bjGJzx4dYGIjBscz_Y92pSyxf8ltGJiDnX23jMbpFpW1-dLPEpeaiH4l13KrBNwaKSBuAK2bQSbBoyAnJSShFTT1JSWV9JU1BfTUVTU0FHRVoBQw",
           "kind": "google",
           "size": null
         }
@@ -20270,7 +20271,7 @@
       "mirrors": [
         {
           "label": "Google Drive",
-          "url": "https://drive.google.com/file/d/1FNuk6887VsP32q2s9vpDDYetrQoxQIDs/view",
+          "url": "https://www.google.com/sorry/index?continue=https://drive.google.com/file/d/1FNuk6887VsP32q2s9vpDDYetrQoxQIDs/view&q=EgQNU6bjGJ3x4dYGIjCW9NL4WE-EFYDmEWwAXGdgU0WUg-tVEq_Fx0Oer4z7YjUhZL6mWIP2VJ9cxTU3izsyAnJSShFTT1JSWV9JU1BfTUVTU0FHRVoBQw",
           "kind": "google",
           "size": null
         }
@@ -20297,7 +20298,7 @@
       "mirrors": [
         {
           "label": "Google Drive",
-          "url": "https://www.google.com/sorry/index?continue=https://drive.google.com/file/d/1HuBFhLtueTko6b4F1kW8_IHO1kn7W-u1/view%3Fusp%3Dsharing&q=EgQUdvadGN_K3NYGIjBCvQfIfjS2T45gSM8rjS91mJyVC82t2T6ul36BSwbr-AlCuDIjg1hDgvOaW4XDuT0yAnJSShFTT1JSWV9JU1BfTUVTU0FHRVoBQw",
+          "url": "https://www.google.com/sorry/index?continue=https://drive.google.com/file/d/1HuBFhLtueTko6b4F1kW8_IHO1kn7W-u1/view%3Fusp%3Dsharing&q=EgQNU6bjGJ3x4dYGIjBwGknggrU4c0wlt14NVfp1ZT-XtURMjYcsw8sG8W6Hg1gOkEv3exqRoBiXSmnxDy8yAnJSShFTT1JSWV9JU1BfTUVTU0FHRVoBQw",
           "kind": "google",
           "size": null
         }
@@ -20351,7 +20352,7 @@
       "mirrors": [
         {
           "label": "Google Drive",
-          "url": "https://www.google.com/sorry/index?continue=https://drive.google.com/file/d/1HHYkcwXkLSZLWMjLU9HXjy-gnTh0Ap90/view&q=EgQUdvadGODK3NYGIjBIq75Q6wcwEOdubBxrB-uzBfv8PMk02WF8ETczi5JIJiWWYlw4O66rhE367rk_VXsyAnJSShFTT1JSWV9JU1BfTUVTU0FHRVoBQw",
+          "url": "https://www.google.com/sorry/index?continue=https://drive.google.com/file/d/1HHYkcwXkLSZLWMjLU9HXjy-gnTh0Ap90/view&q=EgQNU6bjGJ3x4dYGIjCrBPSP-nN-cayh8vWRM8qWqITBvW7V-xMKDE3KuzV_R6Md_pfGecYE5DdGG8NgGeoyAnJSShFTT1JSWV9JU1BfTUVTU0FHRVoBQw",
           "kind": "google",
           "size": null
         }
@@ -20378,7 +20379,7 @@
       "mirrors": [
         {
           "label": "Google Drive",
-          "url": "https://www.google.com/sorry/index?continue=https://drive.google.com/file/d/1p2ETr620q0LI9yFKz22FtQy0nCg5HGbO/view%3Fusp%3Dshare_link&q=EgQUdvadGODK3NYGIjDP-d-CSifL9Up_gKJlIaa_ezOY8oJWmOFl2pnkvEfbNBFVtjWXy7IMN4evNPwuUasyAnJSShFTT1JSWV9JU1BfTUVTU0FHRVoBQw",
+          "url": "https://www.google.com/sorry/index?continue=https://drive.google.com/file/d/1p2ETr620q0LI9yFKz22FtQy0nCg5HGbO/view%3Fusp%3Dshare_link&q=EgQNU6bjGJ7x4dYGIjADHya1LIYOqw8l6MtP1B0J4dsb8QYWoqi6J4y--dHQfDLvNPTjDETpKY0BjwU9o9IyAnJSShFTT1JSWV9JU1BfTUVTU0FHRVoBQw",
           "kind": "google",
           "size": null
         }
@@ -20405,7 +20406,7 @@
       "mirrors": [
         {
           "label": "Google Drive",
-          "url": "https://drive.google.com/file/d/1WC02HNqMDwSoaDFYONGTenEEPV0w0KXM/view",
+          "url": "https://www.google.com/sorry/index?continue=https://drive.google.com/file/d/1WC02HNqMDwSoaDFYONGTenEEPV0w0KXM/view&q=EgQNU6bjGJ7x4dYGIjAr9O10bijoWuZI4lwFy_l8-4QWdPQR9KkG_QoLo7lsXh3ZGgyNboI2g_A_Cs3msSkyAnJSShFTT1JSWV9JU1BfTUVTU0FHRVoBQw",
           "kind": "google",
           "size": null
         }
@@ -20432,7 +20433,7 @@
       "mirrors": [
         {
           "label": "Google Drive",
-          "url": "https://www.google.com/sorry/index?continue=https://drive.google.com/file/d/1FFMlfWp8wzhtzYGqP69FvpSVjGDafp5v/view&q=EgQUdvadGODK3NYGIjB0ojfoFtHa0wWfQCNurBLjW6Jx5sMqecnDteaX4Xq0EI1_jwPmd8YNzki117mB42wyAnJSShFTT1JSWV9JU1BfTUVTU0FHRVoBQw",
+          "url": "https://www.google.com/sorry/index?continue=https://drive.google.com/file/d/1FFMlfWp8wzhtzYGqP69FvpSVjGDafp5v/view&q=EgQNU6bjGJ7x4dYGIjDdgVDHMdo6kB8Ruj64EIqfIjemRpEh8HrZyI36qrG8i5A95caKCWmhdofnnaiGYD4yAnJSShFTT1JSWV9JU1BfTUVTU0FHRVoBQw",
           "kind": "google",
           "size": null
         }
@@ -20459,7 +20460,7 @@
       "mirrors": [
         {
           "label": "Google Drive",
-          "url": "https://www.google.com/sorry/index?continue=https://drive.google.com/file/d/1J79iX4uVeYAfvHZWUJA_i9efEUkRIP1R/view%3Fusp%3Dsharing&q=EgQUdvadGOHK3NYGIjDmPu92ZSmiHNWCzpKkt9IMLKUur7j1AeGwzRewasxhNMyH95myLV8WKTGaSaDMTGgyAnJSShFTT1JSWV9JU1BfTUVTU0FHRVoBQw",
+          "url": "https://www.google.com/sorry/index?continue=https://drive.google.com/file/d/1J79iX4uVeYAfvHZWUJA_i9efEUkRIP1R/view%3Fusp%3Dsharing&q=EgQNU6bjGJ7x4dYGIjAUZUdNTCAyd8OAAspYJE3-7SYK6sO2leikn6uuCOIfIWXzrZFB3LxeCdxwA9SlIHcyAnJSShFTT1JSWV9JU1BfTUVTU0FHRVoBQw",
           "kind": "google",
           "size": null
         }
@@ -20486,7 +20487,7 @@
       "mirrors": [
         {
           "label": "Google Drive",
-          "url": "https://www.google.com/sorry/index?continue=https://drive.google.com/file/d/1VKazvTFV_xCn_D7dDh3pcqX0q1rM8bnU/view%3Fusp%3Dsharing&q=EgQUdvadGOHK3NYGIjAgCqIukc5MbjUQEQdRguUfLX9BOO7nzw58CA3X2m208ZUmIIYX5RcgI5CmKzXx7swyAnJSShFTT1JSWV9JU1BfTUVTU0FHRVoBQw",
+          "url": "https://www.google.com/sorry/index?continue=https://drive.google.com/file/d/1VKazvTFV_xCn_D7dDh3pcqX0q1rM8bnU/view%3Fusp%3Dsharing&q=EgQNU6bjGJ_x4dYGIjBH7_VjrfA0_nDqEI9sObl3JZ-9GLOLfvpuTTFZrnkQ43IglA3e1oVuFJxgJeeYfhwyAnJSShFTT1JSWV9JU1BfTUVTU0FHRVoBQw",
           "kind": "google",
           "size": null
         }
@@ -20513,7 +20514,7 @@
       "mirrors": [
         {
           "label": "Google Drive",
-          "url": "https://www.google.com/sorry/index?continue=https://drive.google.com/file/d/1TQhK0rENIjrbvpThDEMj1Wiw6KVyDxh5/view&q=EgQUdvadGOLK3NYGIjD-Rc8qw1a-MNJgBjyvCKWAjbEG38XXnY_WsTOTTeDb6fUIHLs3kQQ0WJ5sCLM5xrUyAnJSShFTT1JSWV9JU1BfTUVTU0FHRVoBQw",
+          "url": "https://www.google.com/sorry/index?continue=https://drive.google.com/file/d/1TQhK0rENIjrbvpThDEMj1Wiw6KVyDxh5/view&q=EgQNU6bjGKDx4dYGIjBtc59zCaXbB1KKbnxn9J9-L8PYtfK6pJvQsJvKNyGrl8j7Bu8fe9FKk3gLIpF8zZgyAnJSShFTT1JSWV9JU1BfTUVTU0FHRVoBQw",
           "kind": "google",
           "size": null
         }
@@ -20540,7 +20541,7 @@
       "mirrors": [
         {
           "label": "Google Drive",
-          "url": "https://drive.google.com/file/d/16QylwZN85RBHKuf8zmLUMGEp6ZOzbyNl/view",
+          "url": "https://www.google.com/sorry/index?continue=https://drive.google.com/file/d/16QylwZN85RBHKuf8zmLUMGEp6ZOzbyNl/view&q=EgQNU6bjGKHx4dYGIjDofu5UMm2lH3QGVDKd0dnBpHpIhWLje9Nqdtvr_09GAXyXU5C9s9fUnJATjTKyZ_UyAnJSShFTT1JSWV9JU1BfTUVTU0FHRVoBQw",
           "kind": "google",
           "size": null
         }
@@ -20594,7 +20595,7 @@
       "mirrors": [
         {
           "label": "Google Drive",
-          "url": "https://www.google.com/sorry/index?continue=https://drive.google.com/file/d/1WN8QUyhxCSnH9Oqcqluy9AfQLGDFsRVk/view&q=EgQUdvadGOHK3NYGIjBE3gNmXV8jXH9P1fELPchb0dZxiz8r0Fi_GUSR6SDaC57aceOq4QgTxHZjRA6eeFEyAnJSShFTT1JSWV9JU1BfTUVTU0FHRVoBQw",
+          "url": "https://www.google.com/sorry/index?continue=https://drive.google.com/file/d/1WN8QUyhxCSnH9Oqcqluy9AfQLGDFsRVk/view&q=EgQNU6bjGJ_x4dYGIjA1hENpEscpkHoho52zNYCDYhIEeBgk1TjtF-cBXNmVyNbmfBi8bBYD7G1cf-9pkWcyAnJSShFTT1JSWV9JU1BfTUVTU0FHRVoBQw",
           "kind": "google",
           "size": null
         }
@@ -20621,7 +20622,7 @@
       "mirrors": [
         {
           "label": "Google Drive",
-          "url": "https://drive.google.com/file/d/1eYsxW07Fxp5su8jk9u58_2RabWyPtcoC/view?usp=sharing",
+          "url": "https://www.google.com/sorry/index?continue=https://drive.google.com/file/d/1eYsxW07Fxp5su8jk9u58_2RabWyPtcoC/view%3Fusp%3Dsharing&q=EgQNU6bjGJ_x4dYGIjCPlg6aWS9n11pZJFGWpSQUHwVEuDlsNT2gr_AKHuejZ2Swwk_5BcpHIJHNU5LB3xUyAnJSShFTT1JSWV9JU1BfTUVTU0FHRVoBQw",
           "kind": "google",
           "size": null
         }
@@ -20648,7 +20649,7 @@
       "mirrors": [
         {
           "label": "Google Drive",
-          "url": "https://www.google.com/sorry/index?continue=https://drive.google.com/file/d/1ix9-9of5KXuHd27eESKt7U4ySczhrz0g/view&q=EgQUdvadGOHK3NYGIjCVuNUf_2UcmDGzyALgj1rM6fCud4wXNUhYXyBeFF0lp9Te5Ah3MH2HYtlq0kvbqZYyAnJSShFTT1JSWV9JU1BfTUVTU0FHRVoBQw",
+          "url": "https://www.google.com/sorry/index?continue=https://drive.google.com/file/d/1ix9-9of5KXuHd27eESKt7U4ySczhrz0g/view&q=EgQNU6bjGJ_x4dYGIjAcsUfpjresISOjbKLkcovP18hJv3RbTb7uwmqpQlVVhhYJ2xGNJbU9xD4FhSE1yWMyAnJSShFTT1JSWV9JU1BfTUVTU0FHRVoBQw",
           "kind": "google",
           "size": null
         }
@@ -20675,7 +20676,7 @@
       "mirrors": [
         {
           "label": "Google Drive",
-          "url": "https://www.google.com/sorry/index?continue=https://drive.google.com/file/d/1-nQFsq5uxZFzETF17CSOkoG1OG4tPgSv/view&q=EgQUdvadGOLK3NYGIjA_-yvjwdohdV0wNOhDRV6kigBYIiO_EgNYoL2nsGLc5yUUNhenNTtIXeouh2CaH78yAnJSShFTT1JSWV9JU1BfTUVTU0FHRVoBQw",
+          "url": "https://www.google.com/sorry/index?continue=https://drive.google.com/file/d/1-nQFsq5uxZFzETF17CSOkoG1OG4tPgSv/view&q=EgQNU6bjGKDx4dYGIjDl8tXOJAmZFy7cK_iHWT3GUdRp_MHRUEZOYUJZ8K0F3sJSez-yID2E2oKWf05oPFYyAnJSShFTT1JSWV9JU1BfTUVTU0FHRVoBQw",
           "kind": "google",
           "size": null
         }
@@ -20729,7 +20730,7 @@
       "mirrors": [
         {
           "label": "Google Drive",
-          "url": "https://www.google.com/sorry/index?continue=https://drive.google.com/file/d/1liQeV1BYUngONaubdzWZ9FFfCr_cnp_H/view&q=EgQUdvadGOPK3NYGIjD8puZDlzj0wY8pXuqSy6ie81NKzI83Yb9ruz18o4HwR8T_McLal-loOGhGK6IpNiYyAnJSShFTT1JSWV9JU1BfTUVTU0FHRVoBQw",
+          "url": "https://www.google.com/sorry/index?continue=https://drive.google.com/file/d/1liQeV1BYUngONaubdzWZ9FFfCr_cnp_H/view&q=EgQNU6bjGKHx4dYGIjCdFWPUgPssw1l583dleJaTZLTg9aBw35pI6WTZYRxyW7Gnt29DtrYcQDjZjAsufBwyAnJSShFTT1JSWV9JU1BfTUVTU0FHRVoBQw",
           "kind": "google",
           "size": null
         }
@@ -20756,7 +20757,7 @@
       "mirrors": [
         {
           "label": "Google Drive",
-          "url": "https://www.google.com/sorry/index?continue=https://drive.google.com/file/d/18X7P2AhuZDF5gN4HSNlIcZ5e4jtALZv-/view%3Fusp%3Dsharing&q=EgQUdvadGOPK3NYGIjDhctM8ZZiZ_o-PkChkBUGVp4ylONK0fSPHCI3Bu0DHj_fW3LhgEF0e1M14Bbt9mpIyAnJSShFTT1JSWV9JU1BfTUVTU0FHRVoBQw",
+          "url": "https://www.google.com/sorry/index?continue=https://drive.google.com/file/d/18X7P2AhuZDF5gN4HSNlIcZ5e4jtALZv-/view%3Fusp%3Dsharing&q=EgQNU6bjGKLx4dYGIjCYQO6xouwn0O4C95RK2XXcUDXHDefXYjbR7O7ocTxKVPY2vm9rXDGu4244drHlcnMyAnJSShFTT1JSWV9JU1BfTUVTU0FHRVoBQw",
           "kind": "google",
           "size": null
         }
@@ -20783,7 +20784,7 @@
       "mirrors": [
         {
           "label": "Google Drive",
-          "url": "https://www.google.com/sorry/index?continue=https://drive.google.com/file/d/1bvXWHZWNlRoQ_ohpYYf9LLGIcw34ywW1/view%3Fusp%3Dsharing&q=EgQUdvadGOPK3NYGIjCf3HUo0y4FR2dMMzgZWuesA7Xl3kVgy5xYZiO_yvDbDw-eizI2m1HLJmu4BAiu1a8yAnJSShFTT1JSWV9JU1BfTUVTU0FHRVoBQw",
+          "url": "https://www.google.com/sorry/index?continue=https://drive.google.com/file/d/1bvXWHZWNlRoQ_ohpYYf9LLGIcw34ywW1/view%3Fusp%3Dsharing&q=EgQNU6bjGKLx4dYGIjDXmigLP3mwfXrm_8LefwJQCR-lxa38OfvwdI72_ZIyLP0PGpNSEwRhgJE_y6V9FEYyAnJSShFTT1JSWV9JU1BfTUVTU0FHRVoBQw",
           "kind": "google",
           "size": null
         }
@@ -20837,7 +20838,7 @@
       "mirrors": [
         {
           "label": "Google Drive",
-          "url": "https://www.google.com/sorry/index?continue=https://drive.google.com/file/d/1ME4Pid-e6UXSLi4UMc20jKQMgcBC0YXf/view%3Fusp%3Dshare_link&q=EgQUdvadGOTK3NYGIjA9DXfS3egcv78xwhOPu7Pw6dbEbU56DnUG0mXBVccd6LDw1WuOYWxyfcRe0HiYJxQyAnJSShFTT1JSWV9JU1BfTUVTU0FHRVoBQw",
+          "url": "https://www.google.com/sorry/index?continue=https://drive.google.com/file/d/1ME4Pid-e6UXSLi4UMc20jKQMgcBC0YXf/view%3Fusp%3Dshare_link&q=EgQNU6bjGKLx4dYGIjDv_hQIlJFaFD0A3KcIni4HFPRKO2fRPQ4QdFQF6m_i5Ea_vwDl_NS0Fn1gbSlBW4oyAnJSShFTT1JSWV9JU1BfTUVTU0FHRVoBQw",
           "kind": "google",
           "size": null
         }
@@ -20944,7 +20945,7 @@
       "mirrors": [
         {
           "label": "Google Drive",
-          "url": "https://www.google.com/sorry/index?continue=https://drive.google.com/file/d/1Z5hLmXGxaI816WnIMXnavtEDdwcI5RBA/view%3Fusp%3Dsharing&q=EgQUdvadGOXK3NYGIjBakP07nGfuoG4T-8gH-S4zqdg4ci4MvxeuayDGDoGa334PNhIwb_Lw78N8UFq_7_IyAnJSShFTT1JSWV9JU1BfTUVTU0FHRVoBQw",
+          "url": "https://www.google.com/sorry/index?continue=https://drive.google.com/file/d/1Z5hLmXGxaI816WnIMXnavtEDdwcI5RBA/view%3Fusp%3Dsharing&q=EgQNU6bjGKTx4dYGIjCogvzZpdqYVSSNiUjlhYa-JWxBOsDhzo9m77JEYBKFbuZnj6QIpogVkH3RKeu0oKoyAnJSShFTT1JSWV9JU1BfTUVTU0FHRVoBQw",
           "kind": "google",
           "size": null
         }
@@ -20971,7 +20972,7 @@
       "mirrors": [
         {
           "label": "Google Drive",
-          "url": "https://www.google.com/sorry/index?continue=https://drive.google.com/file/d/1u3NqBj7VB1I8KsiSzmds4W6WW4om8Edq/view&q=EgQUdvadGOXK3NYGIjDfOh3VUuS7sncgrMjNxo-Z5Hyd6yycXo7seXFCq0iMhudOlrhoegNxgSMyTKTQBL8yAnJSShFTT1JSWV9JU1BfTUVTU0FHRVoBQw",
+          "url": "https://www.google.com/sorry/index?continue=https://drive.google.com/file/d/1u3NqBj7VB1I8KsiSzmds4W6WW4om8Edq/view&q=EgQNU6bjGKTx4dYGIjBQWIn4lwixfkoJDNdziiLcyRcWg0-9Hbsbd2uiMXOSjsB44j6Q950CVzjB6V-_BpMyAnJSShFTT1JSWV9JU1BfTUVTU0FHRVoBQw",
           "kind": "google",
           "size": null
         }
@@ -20998,7 +20999,7 @@
       "mirrors": [
         {
           "label": "Google Drive",
-          "url": "https://drive.google.com/file/d/15DVxfBFRvTcKBauthO8zi5ztpHCO7zwU/view",
+          "url": "https://www.google.com/sorry/index?continue=https://drive.google.com/file/d/15DVxfBFRvTcKBauthO8zi5ztpHCO7zwU/view&q=EgQNU6bjGKTx4dYGIjCgbZrzsRV6gidjhiTeHyvcOKO395jgm2Ics286RHNIxbcb_gKY8g-wVS0gDfpXY9EyAnJSShFTT1JSWV9JU1BfTUVTU0FHRVoBQw",
           "kind": "google",
           "size": null
         }
@@ -21025,7 +21026,7 @@
       "mirrors": [
         {
           "label": "Google Drive",
-          "url": "https://www.google.com/sorry/index?continue=https://drive.google.com/file/d/16jqUhVP2M_VVlgeR69gq9FSYeX18hlEJ/view&q=EgQUdvadGObK3NYGIjCvJUzvp-VTqANIAyEyw1g0Drs5kN8TkiMzgL6IQ4hvjLXXTW5Mw64cma75m_XWBiwyAnJSShFTT1JSWV9JU1BfTUVTU0FHRVoBQw",
+          "url": "https://www.google.com/sorry/index?continue=https://drive.google.com/file/d/16jqUhVP2M_VVlgeR69gq9FSYeX18hlEJ/view&q=EgQNU6bjGKXx4dYGIjBKyqQkx_BEMfylhwggNyx3Xct51aEPK4NcQ8EiWOsOtzxFAnfTOur9fRfZskERgz8yAnJSShFTT1JSWV9JU1BfTUVTU0FHRVoBQw",
           "kind": "google",
           "size": null
         }
@@ -21052,7 +21053,7 @@
       "mirrors": [
         {
           "label": "Google Drive",
-          "url": "https://www.google.com/sorry/index?continue=https://drive.google.com/file/d/1WA_CwRVGledaAsdDOvSFoinZ2XwGXUOJ/view%3Fusp%3Dsharing&q=EgQUdvadGObK3NYGIjDF1bdkIKfC2Q58NbAI8_ahxSDCgQdcz6g5qLSmEOni7YOJYZ1uEEXIqVXIaw71Bd8yAnJSShFTT1JSWV9JU1BfTUVTU0FHRVoBQw",
+          "url": "https://www.google.com/sorry/index?continue=https://drive.google.com/file/d/1WA_CwRVGledaAsdDOvSFoinZ2XwGXUOJ/view%3Fusp%3Dsharing&q=EgQNU6bjGKXx4dYGIjBW_tZYifMw3fjDlpWcHZgZJAxIf7BTT9D4Dnbe7kBukiZqURXN3eZNPmJwMYzJB4syAnJSShFTT1JSWV9JU1BfTUVTU0FHRVoBQw",
           "kind": "google",
           "size": null
         }
@@ -21079,7 +21080,7 @@
       "mirrors": [
         {
           "label": "Google Drive",
-          "url": "https://www.google.com/sorry/index?continue=https://drive.google.com/file/d/1DkpIX0VGC6UDMOe736yqiQTyNWYUXkvA/view%3Fusp%3Ddrive_link&q=EgQUdvadGObK3NYGIjC30nExcGiOnY5dZ5Tegw4-AAsSLK93wDbZhWFKPVpgJgNiBeSYjVOFLlGCdhnybN8yAnJSShFTT1JSWV9JU1BfTUVTU0FHRVoBQw",
+          "url": "https://www.google.com/sorry/index?continue=https://drive.google.com/file/d/1DkpIX0VGC6UDMOe736yqiQTyNWYUXkvA/view%3Fusp%3Ddrive_link&q=EgQNU6bjGKXx4dYGIjDFsUBk4d1SG3VdwVqN8vbPWzcv2VHWPy9rKA1djw5vBgBC70-wGza1FJh7knzcznYyAnJSShFTT1JSWV9JU1BfTUVTU0FHRVoBQw",
           "kind": "google",
           "size": null
         }
@@ -21106,7 +21107,7 @@
       "mirrors": [
         {
           "label": "Google Drive",
-          "url": "https://www.google.com/sorry/index?continue=https://drive.google.com/file/d/1nJykV5OD9Ahpu89h5aqrwleanQ8DOpLE/view%3Fusp%3Dsharing&q=EgQUdvadGObK3NYGIjAnytAbnDBd6J-IJOA9H9_cQR_5GHSg8dwrq9p9jQUNpI11q1TxG6BjE8bu6d6p4RkyAnJSShFTT1JSWV9JU1BfTUVTU0FHRVoBQw",
+          "url": "https://www.google.com/sorry/index?continue=https://drive.google.com/file/d/1nJykV5OD9Ahpu89h5aqrwleanQ8DOpLE/view%3Fusp%3Dsharing&q=EgQNU6bjGKXx4dYGIjBI7UofYTHv6L9ecsw5lUmB9dy0YT_27qZwPLXmT4twZdnSq7JJzv5ToGw_j-tqIpUyAnJSShFTT1JSWV9JU1BfTUVTU0FHRVoBQw",
           "kind": "google",
           "size": null
         }
@@ -21133,7 +21134,7 @@
       "mirrors": [
         {
           "label": "Google Drive",
-          "url": "https://www.google.com/sorry/index?continue=https://drive.google.com/file/d/18G1Er9ve3FXEV5Tfx4o6A9p3WSFO6L4f/view&q=EgQUdvadGOfK3NYGIjDvnkigXyunO8uzxmDrmvw_0ibxfK5OaMff68AFYP_Dz9nkCftP3FcoBodsUZcT8joyAnJSShFTT1JSWV9JU1BfTUVTU0FHRVoBQw",
+          "url": "https://www.google.com/sorry/index?continue=https://drive.google.com/file/d/18G1Er9ve3FXEV5Tfx4o6A9p3WSFO6L4f/view&q=EgQNU6bjGKbx4dYGIjCylVMgbWaZ6RWQD1ODKb6BN9oi7dXDzj8n5HQjG5W8ejwW7Q1Ci06UPdfOqJpY_CUyAnJSShFTT1JSWV9JU1BfTUVTU0FHRVoBQw",
           "kind": "google",
           "size": null
         }
@@ -21160,7 +21161,7 @@
       "mirrors": [
         {
           "label": "Google Drive",
-          "url": "https://www.google.com/sorry/index?continue=https://drive.google.com/file/d/1j5GuIavkLJkBgT6AOHkMP17KAQm9sBoN/view&q=EgQUdvadGOfK3NYGIjD-0hh96W25KmzVVY4zVpfPq6pyQCtXYzvyeeZpITeU6YH3mI5PSilEdwRJmZ4snWkyAnJSShFTT1JSWV9JU1BfTUVTU0FHRVoBQw",
+          "url": "https://www.google.com/sorry/index?continue=https://drive.google.com/file/d/1j5GuIavkLJkBgT6AOHkMP17KAQm9sBoN/view&q=EgQNU6bjGKbx4dYGIjCJpHOF-jgJbABcQ793sofPpU9kGmodiG5HF_sMSoAcUtFKUTdp_IrIgwp6s78hcBgyAnJSShFTT1JSWV9JU1BfTUVTU0FHRVoBQw",
           "kind": "google",
           "size": null
         }
@@ -21214,7 +21215,7 @@
       "mirrors": [
         {
           "label": "Google Drive",
-          "url": "https://www.google.com/sorry/index?continue=https://drive.google.com/file/d/1ENcQtYfca0IvzmLNvIbN-vId1SiiTXZa/view&q=EgQUdvadGOjK3NYGIjA2R0ChjYGCAgnmMvdGSs1Uf0Ku5FtxZv6S9wMNPSc9NrI4tKBMIdfCv_mbL6YQEIIyAnJSShFTT1JSWV9JU1BfTUVTU0FHRVoBQw",
+          "url": "https://www.google.com/sorry/index?continue=https://drive.google.com/file/d/1ENcQtYfca0IvzmLNvIbN-vId1SiiTXZa/view&q=EgQNU6bjGKbx4dYGIjAOXrHpK-8xdvX41XBc0CSfJS9j_I_nWhqmW0Q3nlhU-ARVQ4Th2KUOx3goasLxZugyAnJSShFTT1JSWV9JU1BfTUVTU0FHRVoBQw",
           "kind": "google",
           "size": null
         }
@@ -21241,7 +21242,7 @@
       "mirrors": [
         {
           "label": "Google Drive",
-          "url": "https://www.google.com/sorry/index?continue=https://drive.google.com/file/d/1fcwlxVHUnNZTdzhVwwJ-xOt3xvSQkiVL/view&q=EgQUdvadGOjK3NYGIjD_s-z9uxcJ4uVpfVJX9RChDR5UKvDI0a6zdZAj5n5tio6TUeZbWmhBfBl4p5RLwyUyAnJSShFTT1JSWV9JU1BfTUVTU0FHRVoBQw",
+          "url": "https://www.google.com/sorry/index?continue=https://drive.google.com/file/d/1fcwlxVHUnNZTdzhVwwJ-xOt3xvSQkiVL/view&q=EgQNU6bjGKfx4dYGIjCI_0l2cKW7pad5vZTlEa5vYuuPKKk1T2oc9bg4nRJ-7NosxI_6hFf21DcJqbq99oEyAnJSShFTT1JSWV9JU1BfTUVTU0FHRVoBQw",
           "kind": "google",
           "size": null
         }
@@ -21295,7 +21296,7 @@
       "mirrors": [
         {
           "label": "Google Drive",
-          "url": "https://www.google.com/sorry/index?continue=https://drive.google.com/file/d/1SYTiwPhy-fKmz4uJtfh_Ks51p8JylJNV/view%3Fusp%3Dsharing&q=EgQUdvadGOjK3NYGIjCW1E3Chvua2wC9bZ3K_m5l_gD0egoX9IAAB2lVsY-YAMLHY2n8fqHTP2jSyHvxeFMyAnJSShFTT1JSWV9JU1BfTUVTU0FHRVoBQw",
+          "url": "https://www.google.com/sorry/index?continue=https://drive.google.com/file/d/1SYTiwPhy-fKmz4uJtfh_Ks51p8JylJNV/view%3Fusp%3Dsharing&q=EgQNU6bjGKfx4dYGIjDi4wHCzdBlieHBb8JYBrdNm5atzbIBZUn4CAqUZcmY-fNYV8s6YSDxfLzoE09dBSQyAnJSShFTT1JSWV9JU1BfTUVTU0FHRVoBQw",
           "kind": "google",
           "size": null
         }
@@ -21322,7 +21323,7 @@
       "mirrors": [
         {
           "label": "Google Drive",
-          "url": "https://www.google.com/sorry/index?continue=https://drive.google.com/file/d/1I9Y7D0JBTXr_Yymbl8R1UuZf7tWpVDDg/view&q=EgQUdvadGOnK3NYGIjDOQqCk6xiB6uWo9tuohaSmNc2TtoupZe9CFhhfI2H6Gct5s4QqnHoFDKbzA5qkRhgyAnJSShFTT1JSWV9JU1BfTUVTU0FHRVoBQw",
+          "url": "https://www.google.com/sorry/index?continue=https://drive.google.com/file/d/1I9Y7D0JBTXr_Yymbl8R1UuZf7tWpVDDg/view&q=EgQNU6bjGKjx4dYGIjBofpjtee26_lV_ExCJmSVWevNJfa_8yrhuq3HWOozYnz2t-3kFdE50kXRKzd5WutYyAnJSShFTT1JSWV9JU1BfTUVTU0FHRVoBQw",
           "kind": "google",
           "size": null
         }
@@ -21349,7 +21350,7 @@
       "mirrors": [
         {
           "label": "Google Drive",
-          "url": "https://www.google.com/sorry/index?continue=https://drive.google.com/file/d/1d189lNSDicQgLNqOr1uJsjn-uthHNA3b/view&q=EgQUdvadGOnK3NYGIjC_E-AbGrV691g7Mm1IWYvxheBALq38q2jSiRf_EbGoA4_S2p2NHyui3HxpZq3lX1MyAnJSShFTT1JSWV9JU1BfTUVTU0FHRVoBQw",
+          "url": "https://www.google.com/sorry/index?continue=https://drive.google.com/file/d/1d189lNSDicQgLNqOr1uJsjn-uthHNA3b/view&q=EgQNU6bjGKjx4dYGIjB9E4m3ZIJS_9c86UkbVeJyXMik7Z79ncmnhJEGWKFzVABmztXA7OqujEkUCrHXSWMyAnJSShFTT1JSWV9JU1BfTUVTU0FHRVoBQw",
           "kind": "google",
           "size": null
         }
@@ -21376,7 +21377,7 @@
       "mirrors": [
         {
           "label": "Google Drive",
-          "url": "https://www.google.com/sorry/index?continue=https://drive.google.com/file/d/1lHuX155TtOkTwEfXApwNTnnUamCpvpCM/view&q=EgQUdvadGOnK3NYGIjAIM30QamiNMoqArYVeILiVtKm_QpE5waqMhMT0-lnByiS2AMTXrc_BLIDickGTKKoyAnJSShFTT1JSWV9JU1BfTUVTU0FHRVoBQw",
+          "url": "https://www.google.com/sorry/index?continue=https://drive.google.com/file/d/1lHuX155TtOkTwEfXApwNTnnUamCpvpCM/view&q=EgQNU6bjGKjx4dYGIjC3ly-kTyBzChI-iLw5bQ5BrPUa0FiL2w-m2dYxywm1dEeE72jp58JpZur6Ln5i-0MyAnJSShFTT1JSWV9JU1BfTUVTU0FHRVoBQw",
           "kind": "google",
           "size": null
         }
@@ -21403,7 +21404,7 @@
       "mirrors": [
         {
           "label": "Google Drive",
-          "url": "https://www.google.com/sorry/index?continue=https://drive.google.com/file/d/1a5dqzwFT7W4ALN1ZQ4HRfQWB1_gYVPns/view&q=EgQUdvadGOnK3NYGIjCkwggMctkmZEUK37-oaI9VvXbVTqI7fGPWhysCud-GiBbBb2iVv1zqPhqCV2KBPi8yAnJSShFTT1JSWV9JU1BfTUVTU0FHRVoBQw",
+          "url": "https://www.google.com/sorry/index?continue=https://drive.google.com/file/d/1a5dqzwFT7W4ALN1ZQ4HRfQWB1_gYVPns/view&q=EgQNU6bjGKjx4dYGIjBWybJTrTYmM5ueDPTFQ0cTbPlU7H33DA_GlDCqB1NgXFkwFTxkZ6UVyYK0a19C844yAnJSShFTT1JSWV9JU1BfTUVTU0FHRVoBQw",
           "kind": "google",
           "size": null
         }
@@ -21430,7 +21431,7 @@
       "mirrors": [
         {
           "label": "Google Drive",
-          "url": "https://www.google.com/sorry/index?continue=https://drive.google.com/file/d/1z3iQiRs10JEaprV2aWug4Umbw-HIAYBZ/view&q=EgQUdvadGOnK3NYGIjDwBBie-WxSnkV6VXRMs8bOYbVRSb4snenLp7nOFLZBAnsLAtrEOYExJPPwgZeJXOkyAnJSShFTT1JSWV9JU1BfTUVTU0FHRVoBQw",
+          "url": "https://www.google.com/sorry/index?continue=https://drive.google.com/file/d/1z3iQiRs10JEaprV2aWug4Umbw-HIAYBZ/view&q=EgQNU6bjGKnx4dYGIjBfsc2_esWI-2kAXvrIRanlp7I85ipp5rI_js71VvO0mDJ8Q0TqA8kdInIN5I3EvdIyAnJSShFTT1JSWV9JU1BfTUVTU0FHRVoBQw",
           "kind": "google",
           "size": null
         }
@@ -21457,7 +21458,7 @@
       "mirrors": [
         {
           "label": "Google Drive",
-          "url": "https://www.google.com/sorry/index?continue=https://drive.google.com/file/d/1G7Mbp4IRq0ezMU1aWylTeoUkt1cQsPLi/view&q=EgQUdvadGOrK3NYGIjDFgFQ12Uu5wWWnj3owuirDFAZ2AoPkYVaUd-wQ7Gfxa3KxtVrRIRkbLwAUTBpTiU0yAnJSShFTT1JSWV9JU1BfTUVTU0FHRVoBQw",
+          "url": "https://www.google.com/sorry/index?continue=https://drive.google.com/file/d/1G7Mbp4IRq0ezMU1aWylTeoUkt1cQsPLi/view&q=EgQNU6bjGKnx4dYGIjDfKt94MKc_xXJ9KSu4KIFpi5QGV2LygezKvVvPYydShAdCOlGPwUf6-YqthFVz_TQyAnJSShFTT1JSWV9JU1BfTUVTU0FHRVoBQw",
           "kind": "google",
           "size": null
         }
@@ -21484,7 +21485,7 @@
       "mirrors": [
         {
           "label": "Google Drive",
-          "url": "https://www.google.com/sorry/index?continue=https://drive.google.com/file/d/10f6JotkwfA_jDIKbWUkX4Pidbh9aPgMm/view&q=EgQUdvadGOrK3NYGIjAwEwojw27R56u4-lIPXZBEFEzu7I4vY8QEhhifNdqMl58jyIlUPHLfGtlMyvGamPsyAnJSShFTT1JSWV9JU1BfTUVTU0FHRVoBQw",
+          "url": "https://www.google.com/sorry/index?continue=https://drive.google.com/file/d/10f6JotkwfA_jDIKbWUkX4Pidbh9aPgMm/view&q=EgQNU6bjGKnx4dYGIjAxdVghQOuO8skim54sNxu4nGoNCYoBiVSVlSlkvrYctLmwYR0DTdhq8ZyAbvPM4-YyAnJSShFTT1JSWV9JU1BfTUVTU0FHRVoBQw",
           "kind": "google",
           "size": null
         }
@@ -21511,7 +21512,7 @@
       "mirrors": [
         {
           "label": "Google Drive",
-          "url": "https://www.google.com/sorry/index?continue=https://drive.google.com/file/d/1begTs6h1TAZQO3bIzpF56F6KyGP7NS-O/view&q=EgQUdvadGOrK3NYGIjAgr0IW3U9DO8bFYWdeaKLfC3AE-bqVDq1tiHGUdZeh2LFj6bfwDh4Q5O-hDMvCnDUyAnJSShFTT1JSWV9JU1BfTUVTU0FHRVoBQw",
+          "url": "https://www.google.com/sorry/index?continue=https://drive.google.com/file/d/1begTs6h1TAZQO3bIzpF56F6KyGP7NS-O/view&q=EgQNU6bjGKnx4dYGIjBGibGnBAaL2bUmd2CVUTumesQwqUni9GKdqYspN3vKiZRQW4KXoZZ0A9peZp0hpyoyAnJSShFTT1JSWV9JU1BfTUVTU0FHRVoBQw",
           "kind": "google",
           "size": null
         }
@@ -21538,7 +21539,7 @@
       "mirrors": [
         {
           "label": "Google Drive",
-          "url": "https://www.google.com/sorry/index?continue=https://drive.google.com/file/d/1UBwAhvbKp5BKfLSzU9nCI55oCPrMjVU_/view&q=EgQUdvadGOvK3NYGIjBPlnL-7eL7hUD571McUQwZRO7lcBpS_YYNWM03Xvt0w-CSoMaPfRwJabQQPp1i8ZQyAnJSShFTT1JSWV9JU1BfTUVTU0FHRVoBQw",
+          "url": "https://www.google.com/sorry/index?continue=https://drive.google.com/file/d/1UBwAhvbKp5BKfLSzU9nCI55oCPrMjVU_/view&q=EgQNU6bjGKrx4dYGIjCGoHEHbXGhJYJwLytVhvYAJSS8vlwFvoCIqZBcILwJr95nrBdFr9xW6BFXZyHVFY4yAnJSShFTT1JSWV9JU1BfTUVTU0FHRVoBQw",
           "kind": "google",
           "size": null
         }
@@ -21565,7 +21566,7 @@
       "mirrors": [
         {
           "label": "Google Drive",
-          "url": "https://www.google.com/sorry/index?continue=https://drive.google.com/file/d/1-gzMhh6AoqM9ASxsue-nvE-_UpfGwOMw/view&q=EgQUdvadGOzK3NYGIjD6SqdeqZYFD0QRMzDgLp76FB355R159rKi1ZaD9vcvi4xGnjtWsdjezAtbY3cW0D8yAnJSShFTT1JSWV9JU1BfTUVTU0FHRVoBQw",
+          "url": "https://www.google.com/sorry/index?continue=https://drive.google.com/file/d/1-gzMhh6AoqM9ASxsue-nvE-_UpfGwOMw/view&q=EgQNU6bjGKvx4dYGIjBmBSPe7AaCGbjlwBq20otro76HVGeQuiyk0autammA6ERAMDuQdzVqC05Rd1UgQNcyAnJSShFTT1JSWV9JU1BfTUVTU0FHRVoBQw",
           "kind": "google",
           "size": null
         }
@@ -21619,7 +21620,7 @@
       "mirrors": [
         {
           "label": "Google Drive",
-          "url": "https://www.google.com/sorry/index?continue=https://drive.google.com/file/d/1c5FfdHL67QtYFbX81BlanS_EBdjDHYGK/view&q=EgQUdvadGO3K3NYGIjBDaSIBEKGmeISqOS5E5R413qgPZ1RSghNaqD8s090m6Qdk0U2U8g7iXKXSTyeZBTkyAnJSShFTT1JSWV9JU1BfTUVTU0FHRVoBQw",
+          "url": "https://www.google.com/sorry/index?continue=https://drive.google.com/file/d/1c5FfdHL67QtYFbX81BlanS_EBdjDHYGK/view&q=EgQNU6bjGKzx4dYGIjDCHdjiX1mUcJMy1b9cTz4z7-Fxes3bZ4Xu0kJu_blfZrYZZHH-Dr5F4gBJF6AL1ecyAnJSShFTT1JSWV9JU1BfTUVTU0FHRVoBQw",
           "kind": "google",
           "size": null
         }
@@ -21700,7 +21701,7 @@
       "mirrors": [
         {
           "label": "Google Drive",
-          "url": "https://www.google.com/sorry/index?continue=https://drive.google.com/file/d/1Ibs2TAZowsTZLU6CYklaY9lL-bVuQUhI/view&q=EgQUdvadGO7K3NYGIjA31xVn_Kr_DXkN-zYYGYg_KYZNEoQCd7a2zQTVFeYVOQTZ3YJV7S5StMU6rbn_ItoyAnJSShFTT1JSWV9JU1BfTUVTU0FHRVoBQw",
+          "url": "https://www.google.com/sorry/index?continue=https://drive.google.com/file/d/1Ibs2TAZowsTZLU6CYklaY9lL-bVuQUhI/view&q=EgQNU6bjGK3x4dYGIjCXwwmHD5ZQrKkJPxVSI7QgbnNWOQTUzZq48-X8uRR00UsUJ16yzhBG5CbDpbsZmlAyAnJSShFTT1JSWV9JU1BfTUVTU0FHRVoBQw",
           "kind": "google",
           "size": null
         }
@@ -21727,7 +21728,7 @@
       "mirrors": [
         {
           "label": "Google Drive",
-          "url": "https://www.google.com/sorry/index?continue=https://drive.google.com/file/d/1-uo5Vc0fmzPgUmhNlOjxOPH6bJMYzaFp/view&q=EgQUdvadGO_K3NYGIjDijIihJfPXXLw9zYtOH5byl2ksdMaJUQLvSaX2o_S9zKyyMvPZrUXvveHPm_XHHesyAnJSShFTT1JSWV9JU1BfTUVTU0FHRVoBQw",
+          "url": "https://www.google.com/sorry/index?continue=https://drive.google.com/file/d/1-uo5Vc0fmzPgUmhNlOjxOPH6bJMYzaFp/view&q=EgQNU6bjGK7x4dYGIjB76owvIt0WrU-9PtJLKdaKD0KnXDYbJXDH6AIFPwalnNJDAeXex9DVEbOU_bQqjUoyAnJSShFTT1JSWV9JU1BfTUVTU0FHRVoBQw",
           "kind": "google",
           "size": null
         }
@@ -21754,7 +21755,7 @@
       "mirrors": [
         {
           "label": "Google Drive",
-          "url": "https://www.google.com/sorry/index?continue=https://drive.google.com/file/d/1oWsFo4Akx4xhww-Ly2szO4dJcnP9wxIy/view&q=EgQUdvadGO_K3NYGIjDjq9X9Bm1ZA7Szs9mj11zFltU1YX1GAf-q_Um-WH9_sPGjbW1pb9tY50bs-AS_RNIyAnJSShFTT1JSWV9JU1BfTUVTU0FHRVoBQw",
+          "url": "https://www.google.com/sorry/index?continue=https://drive.google.com/file/d/1oWsFo4Akx4xhww-Ly2szO4dJcnP9wxIy/view&q=EgQNU6bjGK7x4dYGIjC8TPV-LhpW5--O84uESqYz8XJweCk0BHWv1MNQW531AKTG2xSEd0NSG0lFmOFFKb8yAnJSShFTT1JSWV9JU1BfTUVTU0FHRVoBQw",
           "kind": "google",
           "size": null
         }
@@ -21781,7 +21782,7 @@
       "mirrors": [
         {
           "label": "Google Drive",
-          "url": "https://www.google.com/sorry/index?continue=https://drive.google.com/file/d/1SYXJplGrHkRKBZ_RxZdU-vpBGJygQtZZ/view&q=EgQUdvadGO_K3NYGIjB9jKsUI9O-wNHfZyraxq5xWGeqOG-YJFQhlHFBHbGI4Yu8KVXtw2SNmtzYHQhmYaYyAnJSShFTT1JSWV9JU1BfTUVTU0FHRVoBQw",
+          "url": "https://www.google.com/sorry/index?continue=https://drive.google.com/file/d/1SYXJplGrHkRKBZ_RxZdU-vpBGJygQtZZ/view&q=EgQNU6bjGK7x4dYGIjCMlHeAhPAZcSBEbK8pEIQdkpOPk4FfFkx45Ow6Sx6K_3hpKufMVUExPS0No6iDwX8yAnJSShFTT1JSWV9JU1BfTUVTU0FHRVoBQw",
           "kind": "google",
           "size": null
         }
@@ -21808,7 +21809,7 @@
       "mirrors": [
         {
           "label": "Google Drive",
-          "url": "https://www.google.com/sorry/index?continue=https://drive.google.com/file/d/1ZI0NctYqp79chy-uqlKKiEqkyCZJPaTZ/view&q=EgQUdvadGO_K3NYGIjBqi6S5_ayjJUujgKNhvrryK3st56Kel7kWF8oBqp8gcjH6tak34Rp7lymjqXqmbBsyAnJSShFTT1JSWV9JU1BfTUVTU0FHRVoBQw",
+          "url": "https://www.google.com/sorry/index?continue=https://drive.google.com/file/d/1ZI0NctYqp79chy-uqlKKiEqkyCZJPaTZ/view&q=EgQNU6bjGK_x4dYGIjDTx2gVyWufJVeeUrhrCj6eYkR1wTRPLzrDeZwoF1v6apmyf0Pzm7IXhOtJELtkb30yAnJSShFTT1JSWV9JU1BfTUVTU0FHRVoBQw",
           "kind": "google",
           "size": null
         }
@@ -21835,7 +21836,7 @@
       "mirrors": [
         {
           "label": "Google Drive",
-          "url": "https://www.google.com/sorry/index?continue=https://drive.google.com/file/d/1kUtpabLELUPHodiUYH0V3CoOuraRJXAA/view&q=EgQUdvadGPDK3NYGIjCUXmmyuDgp0kvgdujfu4F4kL3zKVRC-XOHjzMjKeY8jNwp3D6ZuKrUWGEywwbCaKcyAnJSShFTT1JSWV9JU1BfTUVTU0FHRVoBQw",
+          "url": "https://www.google.com/sorry/index?continue=https://drive.google.com/file/d/1kUtpabLELUPHodiUYH0V3CoOuraRJXAA/view&q=EgQNU6bjGK_x4dYGIjAwfZWBTttKw-L7Mv5E2WA-WVsbBu1ZwKwPt_xcigQzZeifEqwou8ahDZ5bNvPZ0OgyAnJSShFTT1JSWV9JU1BfTUVTU0FHRVoBQw",
           "kind": "google",
           "size": null
         }
@@ -21862,7 +21863,7 @@
       "mirrors": [
         {
           "label": "Google Drive",
-          "url": "https://www.google.com/sorry/index?continue=https://drive.google.com/file/d/1twS5hp-lavedg7aDmtxuGIFAX9FRqYqG/view&q=EgQUdvadGPDK3NYGIjCfImNB_6ZAck018rD_a_1fEq8R840Q0t3vwmRoZ1jWWLRjn1EY1jtgiTu2lk9wmMwyAnJSShFTT1JSWV9JU1BfTUVTU0FHRVoBQw",
+          "url": "https://www.google.com/sorry/index?continue=https://drive.google.com/file/d/1twS5hp-lavedg7aDmtxuGIFAX9FRqYqG/view&q=EgQNU6bjGK_x4dYGIjAHX4SutUJDpo7CnA9qvUoLQDVqwwa5MUMpfvTyPnYLyDgTIxDqwzg9uMK9Mf5pq-4yAnJSShFTT1JSWV9JU1BfTUVTU0FHRVoBQw",
           "kind": "google",
           "size": null
         }
@@ -21889,7 +21890,7 @@
       "mirrors": [
         {
           "label": "Google Drive",
-          "url": "https://www.google.com/sorry/index?continue=https://drive.google.com/file/d/1eGxqleK3ymQCp2b9uRjDIWaNnrZuqfRz/view&q=EgQUdvadGPDK3NYGIjBC4hUUWv_nPdyY_JKz5tMVqxHiqTzx4fb5nORRHvCrRTViuybeHacb5QW3meQ1DFUyAnJSShFTT1JSWV9JU1BfTUVTU0FHRVoBQw",
+          "url": "https://www.google.com/sorry/index?continue=https://drive.google.com/file/d/1eGxqleK3ymQCp2b9uRjDIWaNnrZuqfRz/view&q=EgQNU6bjGK_x4dYGIjCwBAKj7-5LsSHm0TFKJbL4YbBycS2xEE281Z2nX_PgcxL32bCr6ZnQKG8U9GTvy4kyAnJSShFTT1JSWV9JU1BfTUVTU0FHRVoBQw",
           "kind": "google",
           "size": null
         }
@@ -21916,7 +21917,7 @@
       "mirrors": [
         {
           "label": "Google Drive",
-          "url": "https://www.google.com/sorry/index?continue=https://drive.google.com/file/d/1WFraOMaLAhqcJeopGrNKJ4bIYda6XBvD/view&q=EgQUdvadGPHK3NYGIjDFNELxnzgF4olYnN5njqJMLGfo3auENJep6GVfALwFe9j8ksHTGGaHRpu4KuGhL1oyAnJSShFTT1JSWV9JU1BfTUVTU0FHRVoBQw",
+          "url": "https://www.google.com/sorry/index?continue=https://drive.google.com/file/d/1WFraOMaLAhqcJeopGrNKJ4bIYda6XBvD/view&q=EgQNU6bjGLHx4dYGIjAk5QIwv2r-AV61zS5KbquX8mPC66cVczAAUh6px-VHiYeuty7m96wddDZ480rC1M8yAnJSShFTT1JSWV9JU1BfTUVTU0FHRVoBQw",
           "kind": "google",
           "size": null
         }
@@ -21943,7 +21944,7 @@
       "mirrors": [
         {
           "label": "Google Drive",
-          "url": "https://www.google.com/sorry/index?continue=https://drive.google.com/file/d/1b4AA0PMVXSLdqCMtQrZX49VcXqQQAxxU/view&q=EgQUdvadGPHK3NYGIjCFMYwEVkYti9MpbrDVYVN2AA6fauLV0ilBzr8L6NANELlSbuu6jYIXrjD3XiwNaK4yAnJSShFTT1JSWV9JU1BfTUVTU0FHRVoBQw",
+          "url": "https://www.google.com/sorry/index?continue=https://drive.google.com/file/d/1b4AA0PMVXSLdqCMtQrZX49VcXqQQAxxU/view&q=EgQNU6bjGLDx4dYGIjDx9TNfQNZPwJMHNj50sC72fjACn-rU-WHLoHgL8FXMm1N8cTMj_w7FESHLYD_T0v8yAnJSShFTT1JSWV9JU1BfTUVTU0FHRVoBQw",
           "kind": "google",
           "size": null
         }
@@ -22078,7 +22079,7 @@
       "mirrors": [
         {
           "label": "Google Drive",
-          "url": "https://www.google.com/sorry/index?continue=https://drive.google.com/file/d/1TbhXRoQjSC1mN-yTrJqr5XvzoYWKRcO8/view%3Fusp%3Dsharing&q=EgQUdvadGPLK3NYGIjDSQ6MG1lWwyIO-zvCoZ16ERzVu4_S9QkpihkElLl3ZhJPjtNHIc7UUk0rgnxprTJEyAnJSShFTT1JSWV9JU1BfTUVTU0FHRVoBQw",
+          "url": "https://www.google.com/sorry/index?continue=https://drive.google.com/file/d/1TbhXRoQjSC1mN-yTrJqr5XvzoYWKRcO8/view%3Fusp%3Dsharing&q=EgQNU6bjGLHx4dYGIjAySr4JUEFb932I4bs0kTVtSmh9JAVq9qmqcI-lSnSeMt091pGMkpY3MJcym2gVD9gyAnJSShFTT1JSWV9JU1BfTUVTU0FHRVoBQw",
           "kind": "google",
           "size": null
         }
@@ -22105,7 +22106,7 @@
       "mirrors": [
         {
           "label": "Google Drive",
-          "url": "https://www.google.com/sorry/index?continue=https://drive.google.com/file/d/1hkKn74IK-OvqdXfnz0DngcM3PhUmD0aP/view%3Fusp%3Dsharing&q=EgQUdvadGPPK3NYGIjBcoh7_eIU8dH9tXZI_g5cs9DVevOA6jWOOVBVIu5HsChTziqjkabqfn3Hq2cK0fu0yAnJSShFTT1JSWV9JU1BfTUVTU0FHRVoBQw",
+          "url": "https://www.google.com/sorry/index?continue=https://drive.google.com/file/d/1hkKn74IK-OvqdXfnz0DngcM3PhUmD0aP/view%3Fusp%3Dsharing&q=EgQNU6bjGLLx4dYGIjBrKRQHY2s8kxjB4FKWS1-50PU0JLa8orRPAZJY0p7m72huiZRmtHXSYRfUjB1TxcMyAnJSShFTT1JSWV9JU1BfTUVTU0FHRVoBQw",
           "kind": "google",
           "size": null
         }
@@ -22266,7 +22267,7 @@
       "mirrors": [
         {
           "label": "Google Drive",
-          "url": "https://www.google.com/sorry/index?continue=https://drive.google.com/file/d/1gE0-_cCUsMjrfQswc0RwtwjmCMBQGJrY/view&q=EgQUdvadGPTK3NYGIjBUkFK_yKCJVI1wrBl9-63jSt8irTG-aoNHBt7DLRnP3_MSiLtugF4JEPNM4NroU18yAnJSShFTT1JSWV9JU1BfTUVTU0FHRVoBQw",
+          "url": "https://www.google.com/sorry/index?continue=https://drive.google.com/file/d/1gE0-_cCUsMjrfQswc0RwtwjmCMBQGJrY/view&q=EgQNU6bjGLPx4dYGIjC2C0TyO1sNfhsDBlUB3Q_41lLZgVmqZ1qTVWbaONvyZo9Ar7E9ns-AvcKCIVfUPpkyAnJSShFTT1JSWV9JU1BfTUVTU0FHRVoBQw",
           "kind": "google",
           "size": null
         }
@@ -22320,7 +22321,7 @@
       "mirrors": [
         {
           "label": "Google Drive",
-          "url": "https://www.google.com/sorry/index?continue=https://drive.google.com/file/d/1Ll8YUXV7ujCfnWPQ-Qgi8vMNNu5v0vh8/view&q=EgQUdvadGPTK3NYGIjBNufcF68rigb567dthw2mS0CELHCAnDK5HZzHM7xNbuoy-NrbZ-FmcvlCPAOxxRY0yAnJSShFTT1JSWV9JU1BfTUVTU0FHRVoBQw",
+          "url": "https://www.google.com/sorry/index?continue=https://drive.google.com/file/d/1Ll8YUXV7ujCfnWPQ-Qgi8vMNNu5v0vh8/view&q=EgQNU6bjGLTx4dYGIjB6cBAshMtX35oH7_k2vd1fH7W97r1qsdW_GqEmv3-fsO-LCwLIVpAFKmLGCajBt1EyAnJSShFTT1JSWV9JU1BfTUVTU0FHRVoBQw",
           "kind": "google",
           "size": null
         }
@@ -22374,7 +22375,7 @@
       "mirrors": [
         {
           "label": "Google Drive",
-          "url": "https://www.google.com/sorry/index?continue=https://drive.google.com/file/d/13bvup37EoieHugHzXPt9rTDSAM5PPj6J/view%3Fusp%3Dsharing&q=EgQUdvadGPXK3NYGIjDNyx5oswLxdkkAyIYncnpfNlqgfxLqmloaHNfSahQgYZyN9sxI9cHQvahBn8vIwi0yAnJSShFTT1JSWV9JU1BfTUVTU0FHRVoBQw",
+          "url": "https://www.google.com/sorry/index?continue=https://drive.google.com/file/d/13bvup37EoieHugHzXPt9rTDSAM5PPj6J/view%3Fusp%3Dsharing&q=EgQNU6bjGLTx4dYGIjB_r_8gF3hwMs_ofIuBFaMC3035aBUaVI8JgD5RWkHXP6GERBrR6OzPxYTsZ5Vv-UYyAnJSShFTT1JSWV9JU1BfTUVTU0FHRVoBQw",
           "kind": "google",
           "size": null
         }
@@ -22401,7 +22402,7 @@
       "mirrors": [
         {
           "label": "Google Drive",
-          "url": "https://www.google.com/sorry/index?continue=https://drive.google.com/file/d/1O2HnoIoSjf4k3akj_g7dDCOMhru6xOvn/view&q=EgQUdvadGPbK3NYGIjCMJfC--YYzb3b4b75EVKLVYEoPq1We71kJn4vljFdreGU6WGUInVQMIYcs8IfyKEoyAnJSShFTT1JSWV9JU1BfTUVTU0FHRVoBQw",
+          "url": "https://www.google.com/sorry/index?continue=https://drive.google.com/file/d/1O2HnoIoSjf4k3akj_g7dDCOMhru6xOvn/view&q=EgQNU6bjGLXx4dYGIjDTkAKSm8yN2n9KEMbrvtGxHe4Vgni8zYkXP0CqKiB2qXiZ-iqVInsRdZtNo-HHk9IyAnJSShFTT1JSWV9JU1BfTUVTU0FHRVoBQw",
           "kind": "google",
           "size": null
         }
@@ -22428,7 +22429,7 @@
       "mirrors": [
         {
           "label": "Google Drive",
-          "url": "https://www.google.com/sorry/index?continue=https://drive.google.com/file/d/1aIKSR1oBpzfV_FJJ_oxNVgVRyHQqZp70/view&q=EgQUdvadGPfK3NYGIjAh0-pSLmOmL28ceZLByyNx3Zcv2WuBub9dNJQyiuZ3aKVQAGgjm-BdBzckMUdjKDsyAnJSShFTT1JSWV9JU1BfTUVTU0FHRVoBQw",
+          "url": "https://www.google.com/sorry/index?continue=https://drive.google.com/file/d/1aIKSR1oBpzfV_FJJ_oxNVgVRyHQqZp70/view&q=EgQNU6bjGLbx4dYGIjAyMEiM1N9o-bvuxKR_cifpCbG6qw6_HzI-Q3sdqgkLZwBVaxF5CeekJPCV4YjZji8yAnJSShFTT1JSWV9JU1BfTUVTU0FHRVoBQw",
           "kind": "google",
           "size": null
         }
@@ -22455,7 +22456,7 @@
       "mirrors": [
         {
           "label": "Google Drive",
-          "url": "https://www.google.com/sorry/index?continue=https://drive.google.com/file/d/1MR5TU0odR4I717iOVVkvEcUBmQWAfxbj/view&q=EgQUdvadGPfK3NYGIjAq7suiUofsZ2ATidcmzu18-fXmoqjso2VbgCpNNnwBNR_jgKsZuRBn6bBkWaXxhxQyAnJSShFTT1JSWV9JU1BfTUVTU0FHRVoBQw",
+          "url": "https://www.google.com/sorry/index?continue=https://drive.google.com/file/d/1MR5TU0odR4I717iOVVkvEcUBmQWAfxbj/view&q=EgQNU6bjGLfx4dYGIjB3W3DCzCfCuQ98mqlSzByZxW5jUBO67oTHuY0QMtkjCgip1sDm0P-EQ6iekE5_MLEyAnJSShFTT1JSWV9JU1BfTUVTU0FHRVoBQw",
           "kind": "google",
           "size": null
         }
@@ -22614,7 +22615,7 @@
       "mirrors": [
         {
           "label": "Google Drive",
-          "url": "https://www.google.com/sorry/index?continue=https://drive.google.com/file/d/13fGvaxcF9pOvXaG8Z8LeRRBhbe6BITPK/view%3Fusp%3Dsharing&q=EgQUdvadGPfK3NYGIjBHFVn0hgP8yfqwIbXVhnfXb25iu37PbrDxtba-X54QnxCrYMq3aH5Ub34LN-BaUX8yAnJSShFTT1JSWV9JU1BfTUVTU0FHRVoBQw",
+          "url": "https://www.google.com/sorry/index?continue=https://drive.google.com/file/d/13fGvaxcF9pOvXaG8Z8LeRRBhbe6BITPK/view%3Fusp%3Dsharing&q=EgQNU6bjGLbx4dYGIjCsj6l77dwtKmmaA3ZmGbjMwds92MbaCw00_4j7wth_3ZjFmtZZb60PB6Mu1J3qTVUyAnJSShFTT1JSWV9JU1BfTUVTU0FHRVoBQw",
           "kind": "google",
           "size": null
         }
@@ -22747,7 +22748,7 @@
       "mirrors": [
         {
           "label": "Google Drive",
-          "url": "https://www.google.com/sorry/index?continue=https://drive.google.com/file/d/1_dlpPMgmNR7T-gyTt84TmpIKH2fYNUB1/view&q=EgQUdvadGP_K3NYGIjDbcnBllS1KOZq9N5WPlbbNG38UQetmJefefty121ulvVIoWzg1ZR1ZkVR3Zd4l874yAnJSShFTT1JSWV9JU1BfTUVTU0FHRVoBQw",
+          "url": "https://www.google.com/sorry/index?continue=https://drive.google.com/file/d/1_dlpPMgmNR7T-gyTt84TmpIKH2fYNUB1/view&q=EgQNU6bjGLzx4dYGIjD5_eTguMrZFhoMjnAZ_KAGJng7Pt_oPaHx67CMksamWTTdLrvXb8WybZMIdgug4wwyAnJSShFTT1JSWV9JU1BfTUVTU0FHRVoBQw",
           "kind": "google",
           "size": null
         }
@@ -22774,7 +22775,7 @@
       "mirrors": [
         {
           "label": "Google Drive",
-          "url": "https://www.google.com/sorry/index?continue=https://drive.google.com/file/d/1_vF4zGbRk517aJmm1Z7mMQc_RFh5u9g2/view%3Fusp%3Dsharing&q=EgQUdvadGIDL3NYGIjDrmR-eiBKNlnNkFAbuHA0KKO_Im1oSGw4JWF7TVuUzUeRANQ822Em3y9_vDdEAfJMyAnJSShFTT1JSWV9JU1BfTUVTU0FHRVoBQw",
+          "url": "https://www.google.com/sorry/index?continue=https://drive.google.com/file/d/1_vF4zGbRk517aJmm1Z7mMQc_RFh5u9g2/view%3Fusp%3Dsharing&q=EgQNU6bjGLzx4dYGIjBOO-DvZoW4wunUZgR5eNoha0GrS6QAFF8L8X4KPRJK8jXYpaBuNvxWa5VgC16tQ_8yAnJSShFTT1JSWV9JU1BfTUVTU0FHRVoBQw",
           "kind": "google",
           "size": null
         }
@@ -22801,7 +22802,7 @@
       "mirrors": [
         {
           "label": "Google Drive",
-          "url": "https://www.google.com/sorry/index?continue=https://drive.google.com/file/d/1QVmHCCy1jPZNa9rFYkMuqgTLkK1IWIdY/view%3Fusp%3Dsharing&q=EgQUdvadGIHL3NYGIjAvn0_XxPuJpj5lP5nSZr7haBHvRPW0X9oMwj9WtdxauwI--NG3qIkUzJwBcE8Ds5kyAnJSShFTT1JSWV9JU1BfTUVTU0FHRVoBQw",
+          "url": "https://www.google.com/sorry/index?continue=https://drive.google.com/file/d/1QVmHCCy1jPZNa9rFYkMuqgTLkK1IWIdY/view%3Fusp%3Dsharing&q=EgQNU6bjGL3x4dYGIjCbFBEytMpIh4YM7ONadB17N3d-vz_AQ0G10AWmnTAOVDuHfi-fFIx5X6uM-HMi2I8yAnJSShFTT1JSWV9JU1BfTUVTU0FHRVoBQw",
           "kind": "google",
           "size": null
         }
@@ -22828,7 +22829,7 @@
       "mirrors": [
         {
           "label": "Google Drive",
-          "url": "https://www.google.com/sorry/index?continue=https://drive.google.com/file/d/1JDaC05DNtYYnnPwzXmZjnPuB7WMVPN_a/view%3Fusp%3Dsharing&q=EgQUdvadGILL3NYGIjD4l1cEDItRDGpBAcZFAebMIHnFXSJgNWbEdBcp7Y6yUwoDpWA9XzZVe7-14ixoPxsyAnJSShFTT1JSWV9JU1BfTUVTU0FHRVoBQw",
+          "url": "https://www.google.com/sorry/index?continue=https://drive.google.com/file/d/1JDaC05DNtYYnnPwzXmZjnPuB7WMVPN_a/view%3Fusp%3Dsharing&q=EgQNU6bjGL3x4dYGIjBLx6QVZGoOwSdHEH3ZL8Bk6QhwD8zfbZeiVSkrb_2aWLZSb-LOxJYZvNTknpxGqO0yAnJSShFTT1JSWV9JU1BfTUVTU0FHRVoBQw",
           "kind": "google",
           "size": null
         }

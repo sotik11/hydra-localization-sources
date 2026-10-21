@@ -127,12 +127,34 @@
       "updatedAt": null,
       "pageUrl": "https://lokalizace.net/localizations/resident-evil-1996",
       "howToInstallHtml": "<p>Stáhněte ZIP soubor a rozbalte ho do složky hry, nebo použijte aplikaci CZManager pro automatickou instalaci češtiny.</p>",
-      "changelogHtml": "<div><p><strong>Nová verze 1.0</strong></p><p>Hotové, otestované, ak sa objavia chyby alebo problémy s hrou, napíšte. Hra je odskúšaná na GOG aj STEAM</p></div>",
+      "changelogHtml": "<div><p><strong>Nová verze 1.1</strong></p><p>Doplnené o trochu kvalitnejšie videá</p></div>",
       "authorsHtml": "<p>PERTIM</p>",
       "size": null,
       "inDevelopment": true,
       "mirrors": [],
       "steamAppId": "4249100"
+    },
+    {
+      "title": "Raft",
+      "studio": "Lokalizace.net",
+      "studioUrl": "https://lokalizace.net/localizations/raft",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": null,
+      "updatedAt": null,
+      "pageUrl": "https://lokalizace.net/localizations/raft",
+      "howToInstallHtml": "<p>Stáhněte ZIP soubor a rozbalte ho do složky hry, nebo použijte aplikaci CZManager pro automatickou instalaci češtiny.</p>",
+      "changelogHtml": "<div><p><strong>Nová verze 0.9.3</strong></p><p><span style=\"font-size: 16px; color: oklab(0.952693 0.000792831 -0.00253612)\">Tak překlad je konečně hotový na 100 %! Prošel nyní i nějakým tím testováním, díky kterému jsem opravila pár věcí: </span></p><ul><li><p><span style=\"font-size: 16px\">Sparrow rod všude opraven správně na ženský</span></p></li><li><p><span style=\"font-size: 16px\">Překlepy, malá a velká písmena, drobné gramatické nedokonalosti</span></p></li></ul><p><span style=\"font-size: 16px; color: oklab(0.952693 0.000792831 -0.00253612)\">Překlad od začátku až do konce je 100% human made bez jakéhokoliv AI agenta a tak zůstává i po testu a opravách. A nyní už je i váš! Raft asi úplně nemá tu největší komunitu tady u nás v Čechách, ale je to herní kousek, který jsem nedávno dohrála a příběh neskutečně mě chytl. Proto ten překlad. Anglicky umím, ale ráda si hraju s jazykem, což platí dvojnásob u chytlavých a pro mě zajímavých příběhů. </span></p><p><span style=\"font-size: 16px; color: oklab(0.952693 0.000792831 -0.00253612)\">Doufám, že se třeba překlad někomu zalíbí. A jelikož se jedná o zcela lidskou práci, i přes korekce se vždy mohou protáhnout nějaký chybičky. Kdykoli lze cokoli nahlásit zde na webu, nebo přes discord a já to obratem opravím. :)) Děkuji za trpělivost a nyní konečně hurá na moře!</span></p></div>",
+      "authorsHtml": "<p>Lokalizace.Net</p>",
+      "size": null,
+      "inDevelopment": true,
+      "mirrors": [],
+      "steamAppId": "648800"
     },
     {
       "title": "This is the Police",
@@ -8517,8 +8539,7 @@
       "authorsHtml": "<p>Lost And Found</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "383120"
+      "mirrors": []
     },
     {
       "title": "Metal Gear Solid V: Ground Zeroes (2014)",
@@ -8670,8 +8691,7 @@
       "authorsHtml": "<p>COTT</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "217200"
+      "mirrors": []
     },
     {
       "title": "XCOM 2",
@@ -8692,8 +8712,7 @@
       "authorsHtml": "<p>COTT</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "268500"
+      "mirrors": []
     },
     {
       "title": "XCOM 2: War of the Chosen",
@@ -8758,8 +8777,7 @@
       "authorsHtml": "<p>COTT</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "882100"
+      "mirrors": []
     },
     {
       "title": "Gruntz",
@@ -8845,8 +8863,7 @@
       "authorsHtml": "<p>Bezdus</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "7760"
+      "mirrors": []
     },
     {
       "title": "Diablo + Hellfire",
@@ -8976,8 +8993,7 @@
       "authorsHtml": "<p>Sygfrost</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "813780"
+      "mirrors": []
     },
     {
       "title": "Max Payne 3",
@@ -9020,8 +9036,7 @@
       "authorsHtml": "<p>Point&Click team</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "307010"
+      "mirrors": []
     },
     {
       "title": "Full Throttle (1995)",
@@ -9042,8 +9057,7 @@
       "authorsHtml": "<p>Point&Click team</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "5230710"
+      "mirrors": []
     },
     {
       "title": "Return to Monkey Island (2022)",
@@ -9064,8 +9078,7 @@
       "authorsHtml": "<p>Point&Click team</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "2060130"
+      "mirrors": []
     },
     {
       "title": "The Secret of Monkey Island: Special Edition (2009)",
@@ -9236,8 +9249,7 @@
       "authorsHtml": "<p>Point&Click team</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "6040"
+      "mirrors": []
     },
     {
       "title": "Indiana Jones and The Last Crusade",
@@ -9258,8 +9270,7 @@
       "authorsHtml": "<p>Point&Click team</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "32310"
+      "mirrors": []
     },
     {
       "title": "Loom (1990)",
@@ -9302,8 +9313,7 @@
       "authorsHtml": "<p>Point&Click team</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "1368340"
+      "mirrors": []
     },
     {
       "title": "Help Will Come Tomorrow",
@@ -9324,8 +9334,7 @@
       "authorsHtml": "<p>Lost And Found</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "1119600"
+      "mirrors": []
     },
     {
       "title": "Thimbleweed Park (2017)",
@@ -9346,8 +9355,7 @@
       "authorsHtml": "<p>Point&Click team</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "569860"
+      "mirrors": []
     },
     {
       "title": "Monkey Island 2: Special Edition (2010)",
@@ -9368,8 +9376,7 @@
       "authorsHtml": "<p>Point&Click team</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "32460"
+      "mirrors": []
     },
     {
       "title": "Sam & Max Hit the Road (1993)",
@@ -9433,8 +9440,7 @@
       "authorsHtml": "<p>Point&Click team</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "32360"
+      "mirrors": []
     },
     {
       "title": "Saints Row 2 (2008)",
@@ -9584,8 +9590,7 @@
       "authorsHtml": "<p>siSINka</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "2594730"
+      "mirrors": []
     },
     {
       "title": "Daydream Mosaics 3: Shards Of Hope",
@@ -9628,8 +9633,7 @@
       "authorsHtml": "<p>siSINka</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "1799820"
+      "mirrors": []
     },
     {
       "title": "Daydream Mosaics 1",
@@ -9671,8 +9675,7 @@
       "authorsHtml": "<p>GWynter</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "1222370"
+      "mirrors": []
     },
     {
       "title": "Patterna",
@@ -9693,8 +9696,7 @@
       "authorsHtml": "<p>siSINka</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "503860"
+      "mirrors": []
     },
     {
       "title": "Lightmatter",
@@ -9715,8 +9717,7 @@
       "authorsHtml": "<p>siSINka</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "994140"
+      "mirrors": []
     },
     {
       "title": "Relicta",
@@ -9803,8 +9804,7 @@
       "authorsHtml": "<p>siSINka</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "2252960"
+      "mirrors": []
     },
     {
       "title": "Spirit of the North",
@@ -9825,8 +9825,7 @@
       "authorsHtml": "<p>siSINka</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "1213700"
+      "mirrors": []
     },
     {
       "title": "The Cave",
@@ -9847,8 +9846,7 @@
       "authorsHtml": "<p>Lost And Found</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "221810"
+      "mirrors": []
     },
     {
       "title": "Lost Chronicles of Zerzura",
@@ -9934,8 +9932,7 @@
       "authorsHtml": "<p>Lost And Found</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "200010"
+      "mirrors": []
     },
     {
       "title": "Hyperballoid 2: Time Rider",
@@ -10021,8 +10018,7 @@
       "authorsHtml": "<p>Lost And Found</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "203140"
+      "mirrors": []
     },
     {
       "title": "Dreamfall Chapters: The Final Cut",
@@ -10065,8 +10061,7 @@
       "authorsHtml": "<p>Lost And Found</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "110800"
+      "mirrors": []
     },
     {
       "title": "Trine Enchanted Edition",
@@ -10109,8 +10104,7 @@
       "authorsHtml": "<p>Lost And Found</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "1949030"
+      "mirrors": []
     },
     {
       "title": "Sherlock Holmes - Nemesis - Remastered",
@@ -10131,8 +10125,7 @@
       "authorsHtml": "<p>Lost And Found</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "11040"
+      "mirrors": []
     },
     {
       "title": "Red Dead Redemption",
@@ -10197,8 +10190,7 @@
       "authorsHtml": "<p>KriS</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "1538570"
+      "mirrors": []
     },
     {
       "title": "Conglomerate 451",
@@ -10219,8 +10211,7 @@
       "authorsHtml": "<p>GWynter</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "1022710"
+      "mirrors": []
     },
     {
       "title": "A New Beginning - Final Cut",
@@ -10284,8 +10275,7 @@
       "authorsHtml": "<p>KriS</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "313120"
+      "mirrors": []
     },
     {
       "title": "Two Point Hospital",
@@ -10328,8 +10318,7 @@
       "authorsHtml": "<p>Lost And Found</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "648350"
+      "mirrors": []
     },
     {
       "title": "Kingdom Two Crowns",
@@ -10372,8 +10361,7 @@
       "authorsHtml": "<p>Lost And Found</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "253110"
+      "mirrors": []
     },
     {
       "title": "Downfall: Redux",
@@ -10394,8 +10382,7 @@
       "authorsHtml": "<p>Lost And Found</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "364390"
+      "mirrors": []
     },
     {
       "title": "Niffelheim",
@@ -10416,8 +10403,7 @@
       "authorsHtml": "<p>Lost And Found</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "351100"
+      "mirrors": []
     },
     {
       "title": "The Forgotten Land",
@@ -10481,8 +10467,7 @@
       "authorsHtml": "<p>Lost And Found</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "304430"
+      "mirrors": []
     },
     {
       "title": "Last Resort Island",
@@ -10503,8 +10488,7 @@
       "authorsHtml": "<p>Lost And Found</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "820910"
+      "mirrors": []
     },
     {
       "title": "A Way Out",
@@ -10525,8 +10509,7 @@
       "authorsHtml": "<p>Lost And Found</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "1222700"
+      "mirrors": []
     },
     {
       "title": "Pilot Brothers 3",
@@ -10655,8 +10638,7 @@
       "authorsHtml": "<p>Lost And Found</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "623170"
+      "mirrors": []
     },
     {
       "title": "Ironcast",
@@ -10721,8 +10703,7 @@
       "authorsHtml": "<p>Lost And Found</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "23490"
+      "mirrors": []
     },
     {
       "title": "Door Kickers",
@@ -10743,8 +10724,7 @@
       "authorsHtml": "<p>Lukop100</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "248610"
+      "mirrors": []
     },
     {
       "title": "BioShock Infinite (2013)",
@@ -10787,8 +10767,7 @@
       "authorsHtml": "<p>WDK Games</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "208580"
+      "mirrors": []
     },
     {
       "title": "Fran Bow",
@@ -10809,8 +10788,7 @@
       "authorsHtml": "<p>Majkyska češtiny</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "362680"
+      "mirrors": []
     },
     {
       "title": "Sniper Elite 5",
@@ -10831,8 +10809,7 @@
       "authorsHtml": "<p>Sumilek86</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "1029690"
+      "mirrors": []
     },
     {
       "title": "Anno 2205",
@@ -10853,8 +10830,7 @@
       "authorsHtml": "<p>Sumilek86</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "375910"
+      "mirrors": []
     },
     {
       "title": "Corsair: Conquest at Sea",
@@ -10962,8 +10938,7 @@
       "authorsHtml": "<p>Ctihy</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "3595230"
+      "mirrors": []
     },
     {
       "title": "Bioshock 2 - REMASTERED",
@@ -10985,7 +10960,7 @@
       "size": null,
       "inDevelopment": true,
       "mirrors": [],
-      "steamAppId": "8850"
+      "steamAppId": "409720"
     },
     {
       "title": "Bioshock 2",
@@ -11094,8 +11069,7 @@
       "authorsHtml": "<p>Ctihy</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "21670"
+      "mirrors": []
     },
     {
       "title": "F.E.A.R. 2 - DLC Reborn",
@@ -11204,7 +11178,7 @@
       "size": null,
       "inDevelopment": true,
       "mirrors": [],
-      "steamAppId": "7670"
+      "steamAppId": "409710"
     },
     {
       "title": "Figment 2: Creed Valley",
@@ -11247,8 +11221,7 @@
       "authorsHtml": "<p>Ctihy</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "7670"
+      "mirrors": []
     },
     {
       "title": "Furi",
@@ -11313,8 +11286,7 @@
       "authorsHtml": "<p>Point&Click team</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "388210"
+      "mirrors": []
     },
     {
       "title": "Star Wars Outlaws",
@@ -11335,8 +11307,7 @@
       "authorsHtml": "<p>Lokalizace.Net</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "2842040"
+      "mirrors": []
     },
     {
       "title": "Deathtrap",
@@ -11357,8 +11328,7 @@
       "authorsHtml": "<p>Tuax</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "310510"
+      "mirrors": []
     },
     {
       "title": "Beneath A Steel Sky",
@@ -11466,8 +11436,7 @@
       "authorsHtml": "<p>COTT</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "219760"
+      "mirrors": []
     },
     {
       "title": "Divine Divinity",
@@ -11488,8 +11457,7 @@
       "authorsHtml": "<p>COTT</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "214170"
+      "mirrors": []
     },
     {
       "title": "Legends of Eisenwald",
@@ -11510,8 +11478,7 @@
       "authorsHtml": "<p>COTT</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "246760"
+      "mirrors": []
     },
     {
       "title": "Demigod",
@@ -11532,8 +11499,7 @@
       "authorsHtml": "<p>COTT</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "202710"
+      "mirrors": []
     },
     {
       "title": "Deathloop",
@@ -11576,8 +11542,7 @@
       "authorsHtml": "<p>Kwej</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "288060"
+      "mirrors": []
     },
     {
       "title": "Goetia",
@@ -11620,8 +11585,7 @@
       "authorsHtml": "<p>PrekladyWoytman</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "641320"
+      "mirrors": []
     },
     {
       "title": "Cities: Skylines",
@@ -11642,8 +11606,7 @@
       "authorsHtml": "<p>PrekladyWoytman</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "255710"
+      "mirrors": []
     },
     {
       "title": "PC Building Simulator 2",
@@ -11729,8 +11692,7 @@
       "authorsHtml": "<p>martanius</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "488790"
+      "mirrors": []
     },
     {
       "title": "The Curse of Monkey Island",
@@ -11795,8 +11757,7 @@
       "authorsHtml": "<p>miracle.flame</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "2600"
+      "mirrors": []
     },
     {
       "title": "Nuclear Blaze",
@@ -11861,8 +11822,7 @@
       "authorsHtml": "<p>Kwej</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "242530"
+      "mirrors": []
     },
     {
       "title": "Gas Guzzlers Extreme",
@@ -11883,8 +11843,7 @@
       "authorsHtml": "<p>Kwej</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "243800"
+      "mirrors": []
     },
     {
       "title": "The Swapper",
@@ -11949,8 +11908,7 @@
       "authorsHtml": "<p>Kwej</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "331510"
+      "mirrors": []
     },
     {
       "title": "Echo",
@@ -12036,8 +11994,7 @@
       "authorsHtml": "<p>CzechDubStudio</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "1089980"
+      "mirrors": []
     },
     {
       "title": "Supreme Commander 2",
@@ -12144,8 +12101,7 @@
       "authorsHtml": "<p>labros.cz</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "249630"
+      "mirrors": []
     },
     {
       "title": "SUPER STAR TREK",
@@ -12188,8 +12144,7 @@
       "authorsHtml": "<p>labros.cz</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "223830"
+      "mirrors": []
     },
     {
       "title": "FTL: FASTER THAN LIGHT",
@@ -12210,8 +12165,7 @@
       "authorsHtml": "<p>labros.cz</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "212680"
+      "mirrors": []
     },
     {
       "title": "Ambermoon.net",
@@ -12275,8 +12229,7 @@
       "authorsHtml": "<p>GWynter</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "385560"
+      "mirrors": []
     },
     {
       "title": "Cloudpunk",
@@ -12297,8 +12250,7 @@
       "authorsHtml": "<p>GWynter</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "746850"
+      "mirrors": []
     },
     {
       "title": "Retro Machina",
@@ -12341,8 +12293,7 @@
       "authorsHtml": "<p>GWynter</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "864540"
+      "mirrors": []
     },
     {
       "title": "Software Inc.",
@@ -12363,8 +12314,7 @@
       "authorsHtml": "<p>MaFeJP</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "362620"
+      "mirrors": []
     },
     {
       "title": "Eastshade",
@@ -12407,8 +12357,7 @@
       "authorsHtml": "<p>GWynter</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "355680"
+      "mirrors": []
     },
     {
       "title": "Stargate: Timekeepers",
@@ -12429,8 +12378,7 @@
       "authorsHtml": "<p>Petr Cejpek</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "1523650"
+      "mirrors": []
     },
     {
       "title": "The Way",
@@ -12451,8 +12399,7 @@
       "authorsHtml": "<p>GWynter</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "311010"
+      "mirrors": []
     },
     {
       "title": "Neon Abyss",
@@ -12473,8 +12420,7 @@
       "authorsHtml": "<p>GWynter</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "788100"
+      "mirrors": []
     },
     {
       "title": "Remnant 2",
@@ -12495,8 +12441,7 @@
       "authorsHtml": "<p>Lokalizace.Net</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "1282100"
+      "mirrors": []
     },
     {
       "title": "Party Hard 2",
@@ -12517,8 +12462,7 @@
       "authorsHtml": "<p>GWynter</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "572430"
+      "mirrors": []
     },
     {
       "title": "Laika: Aged Through Blood",
@@ -12605,8 +12549,7 @@
       "authorsHtml": "<p>GWynter</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "598550"
+      "mirrors": []
     },
     {
       "title": "Zombotron",
@@ -12627,8 +12570,7 @@
       "authorsHtml": "<p>GWynter</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "664830"
+      "mirrors": []
     },
     {
       "title": "Valfaris",
@@ -12649,8 +12591,7 @@
       "authorsHtml": "<p>GWynter</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "600130"
+      "mirrors": []
     },
     {
       "title": "Dungeon of the ENDLESS",
@@ -12693,8 +12634,7 @@
       "authorsHtml": "<p>Spyker Tým</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "1874000"
+      "mirrors": []
     },
     {
       "title": "The Coffin of Andy and LeyLey",
@@ -12802,8 +12742,7 @@
       "authorsHtml": "<p>GWynter</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "356570"
+      "mirrors": []
     },
     {
       "title": "Five Nights at Freddy's: Help Wanted",
@@ -12846,8 +12785,7 @@
       "authorsHtml": "<p>GWynter</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "428750"
+      "mirrors": []
     },
     {
       "title": "Stasis: Bone Totem",
@@ -13038,8 +12976,7 @@
       "authorsHtml": "<p>GWynter</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "557340"
+      "mirrors": []
     },
     {
       "title": "Pillars of Eternity CE",
@@ -13060,8 +12997,7 @@
       "authorsHtml": "<p>Lokalizace.Net</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "291650"
+      "mirrors": []
     },
     {
       "title": "Freelancer",
@@ -13103,8 +13039,7 @@
       "authorsHtml": "<p>Starsoul</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "70"
+      "mirrors": []
     },
     {
       "title": "Q.U.B.E. 2",
@@ -13125,8 +13060,7 @@
       "authorsHtml": "<p>siSINka</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "359100"
+      "mirrors": []
     },
     {
       "title": "Kathy Rain + Kathy Rain Director's Cut",
@@ -13191,8 +13125,7 @@
       "authorsHtml": "<p>COTT</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "435150"
+      "mirrors": []
     },
     {
       "title": "The Mystery of the Druids",
@@ -13213,8 +13146,7 @@
       "authorsHtml": "<p>ADV Dream</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "343000"
+      "mirrors": []
     },
     {
       "title": "The Bridge Curse Road to Salvation",
@@ -13258,7 +13190,7 @@
       "size": null,
       "inDevelopment": true,
       "mirrors": [],
-      "steamAppId": "3837340"
+      "steamAppId": "1462040"
     },
     {
       "title": "Hollow Knight",
@@ -13279,8 +13211,7 @@
       "authorsHtml": "<p>MikeCZ</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "367520"
+      "mirrors": []
     },
     {
       "title": "MADiSON",
@@ -13323,8 +13254,7 @@
       "authorsHtml": "<p>Lukyn92</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "1967630"
+      "mirrors": []
     },
     {
       "title": "The Planet Crafter",
@@ -13433,8 +13363,7 @@
       "authorsHtml": "<p>Tomiket</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "281990"
+      "mirrors": []
     },
     {
       "title": "Naval Action",
@@ -13651,8 +13580,7 @@
       "authorsHtml": "<p>Spyker Tým</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "1180660"
+      "mirrors": []
     },
     {
       "title": "Tales from the Borderlands",
@@ -13673,8 +13601,7 @@
       "authorsHtml": "<p>Spyker Tým</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "330830"
+      "mirrors": []
     },
     {
       "title": "Game of Thrones",
@@ -13695,8 +13622,7 @@
       "authorsHtml": "<p>Spyker Tým</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "208730"
+      "mirrors": []
     },
     {
       "title": "Life is Strange: Remastered Collection",
@@ -13783,8 +13709,7 @@
       "authorsHtml": "<p>Spyker Tým</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "2624870"
+      "mirrors": []
     },
     {
       "title": "Papers, Please",
@@ -13827,8 +13752,7 @@
       "authorsHtml": "<p>Spyker Tým</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "35000"
+      "mirrors": []
     },
     {
       "title": "60 Seconds!",
@@ -13849,8 +13773,7 @@
       "authorsHtml": "<p>Spyker Tým</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "368360"
+      "mirrors": []
     },
     {
       "title": "Brothers: A Tale of Two Sons",
@@ -13893,8 +13816,7 @@
       "authorsHtml": "<p>Spyker Tým</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "1205520"
+      "mirrors": []
     },
     {
       "title": "Bendy and the Dark Revival",
@@ -13915,8 +13837,7 @@
       "authorsHtml": "<p>Nowsterova nora</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "1063660"
+      "mirrors": []
     },
     {
       "title": "Bendy and the Ink Machine",
@@ -14090,8 +14011,7 @@
       "authorsHtml": "<p>Lokalizace.Net</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "682990"
+      "mirrors": []
     },
     {
       "title": "Hogwarts Legacy",
@@ -14112,8 +14032,7 @@
       "authorsHtml": "<p>Lokalizace.Net</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "990080"
+      "mirrors": []
     },
     {
       "title": "Dishonored Dead Of The Outsider",
@@ -14156,8 +14075,7 @@
       "authorsHtml": "<p>Lokalizace.Net</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "403640"
+      "mirrors": []
     },
     {
       "title": "NieR: Automata™",
@@ -14200,8 +14118,7 @@
       "authorsHtml": "<p>Lokalizace.Net</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "367500"
+      "mirrors": []
     },
     {
       "title": "The Flame in the Flood",
@@ -14330,8 +14247,7 @@
       "authorsHtml": "<p>Lokalizace.Net</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "474960"
+      "mirrors": []
     },
     {
       "title": "Mass Effect Andromeda",
@@ -14484,8 +14400,7 @@
       "authorsHtml": "<p>ADV Dream</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "358870"
+      "mirrors": []
     },
     {
       "title": "Dead Synchronicity: Tomorrow Comes Today",
@@ -14550,8 +14465,7 @@
       "authorsHtml": "<p>ADV Dream</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "2769570"
+      "mirrors": []
     },
     {
       "title": "Firewatch",
@@ -14572,8 +14486,7 @@
       "authorsHtml": "<p>Lokalizace.Net</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "383870"
+      "mirrors": []
     },
     {
       "title": "Yesterday Origins",
@@ -14594,8 +14507,7 @@
       "authorsHtml": "<p>ADV Dream</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "465280"
+      "mirrors": []
     },
     {
       "title": "Ankh 3: Battle of the Gods",
@@ -14660,8 +14572,7 @@
       "authorsHtml": "<p>Lokalizace.Net</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "204450"
+      "mirrors": []
     },
     {
       "title": "Everspace",
@@ -14704,8 +14615,7 @@
       "authorsHtml": "<p>Lokalizace.Net</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "606280"
+      "mirrors": []
     },
     {
       "title": "Leisure Suit Larry: Wet Dreams Dry Twice",
@@ -14726,8 +14636,7 @@
       "authorsHtml": "<p>ADV Dream</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "1373430"
+      "mirrors": []
     },
     {
       "title": "Leisure Suit Larry: Wet Dreams Don't Dry",
@@ -14791,8 +14700,7 @@
       "authorsHtml": "<p>ADV Dream</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "2818420"
+      "mirrors": []
     },
     {
       "title": "Normality",
@@ -14835,8 +14743,7 @@
       "authorsHtml": "<p>ADV Dream</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "345390"
+      "mirrors": []
     },
     {
       "title": "Memoranda",
@@ -14857,8 +14764,7 @@
       "authorsHtml": "<p>ADV Dream</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "430410"
+      "mirrors": []
     },
     {
       "title": "Silence",
@@ -14879,8 +14785,7 @@
       "authorsHtml": "<p>ADV Dream</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "1361000"
+      "mirrors": []
     },
     {
       "title": "The Whispered World Special Edition",
@@ -14923,8 +14828,7 @@
       "authorsHtml": "<p>ADV Dream</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "314810"
+      "mirrors": []
     },
     {
       "title": "Haunted",
@@ -14987,8 +14891,7 @@
       "authorsHtml": "<p>ADV Dream</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "1227530"
+      "mirrors": []
     },
     {
       "title": "1954 Alcatraz",
@@ -15009,8 +14912,7 @@
       "authorsHtml": "<p>ADV Dream</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "255280"
+      "mirrors": []
     },
     {
       "title": "Moebius: Empire Rising",
@@ -15054,7 +14956,7 @@
       "size": null,
       "inDevelopment": true,
       "mirrors": [],
-      "steamAppId": "202170"
+      "steamAppId": "215220"
     },
     {
       "title": "Evil Within 2",
@@ -15075,8 +14977,7 @@
       "authorsHtml": "<p>Lokalizace.Net</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "601430"
+      "mirrors": []
     },
     {
       "title": "Pharaoh: A New Era",
@@ -15141,8 +15042,7 @@
       "authorsHtml": "<p>Lokalizace.Net</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "960910"
+      "mirrors": []
     },
     {
       "title": "Stray",
@@ -15185,8 +15085,7 @@
       "authorsHtml": "<p>Lokalizace.Net</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "374320"
+      "mirrors": []
     },
     {
       "title": "Kingdom Hearts 3",
@@ -15272,8 +15171,7 @@
       "authorsHtml": "<p>ADV Dream</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "421050"
+      "mirrors": []
     },
     {
       "title": "Goodbye Deponia",
@@ -15294,8 +15192,7 @@
       "authorsHtml": "<p>ADV Dream</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "241910"
+      "mirrors": []
     },
     {
       "title": "Chaos on Deponia",
@@ -15316,8 +15213,7 @@
       "authorsHtml": "<p>ADV Dream</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "220740"
+      "mirrors": []
     },
     {
       "title": "Captain Morgane and the Golden Turtle",
@@ -15382,8 +15278,7 @@
       "authorsHtml": "<p>ADV Dream</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "368370"
+      "mirrors": []
     },
     {
       "title": "Dead mountaineer's hotel",
@@ -15404,8 +15299,7 @@
       "authorsHtml": "<p>ADV Dream</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "10230"
+      "mirrors": []
     },
     {
       "title": "Alpha Polaris",
@@ -15534,8 +15428,7 @@
       "authorsHtml": "<p>Lokalizace.Net</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "287630"
+      "mirrors": []
     },
     {
       "title": "Vampyr",
@@ -15556,8 +15449,7 @@
       "authorsHtml": "<p>Lokalizace.Net</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "427290"
+      "mirrors": []
     },
     {
       "title": "Resident Evil Village",
@@ -15578,8 +15470,7 @@
       "authorsHtml": "<p>Lokalizace.Net</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "1196590"
+      "mirrors": []
     },
     {
       "title": "Dracula 4 + 5  Special Steam Edition",
@@ -15664,8 +15555,7 @@
       "authorsHtml": "<p>ADV Dream</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "18480"
+      "mirrors": []
     },
     {
       "title": "The Rockin' Dead",
@@ -15750,8 +15640,7 @@
       "authorsHtml": "<p>ADV Dream</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "34800"
+      "mirrors": []
     },
     {
       "title": "Art of Murder 3: Cards of the Destiny",
@@ -15793,8 +15682,7 @@
       "authorsHtml": "<p>Lokalizace.Net</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "1088850"
+      "mirrors": []
     },
     {
       "title": "Dead Space 1 (2023)",
@@ -15879,8 +15767,7 @@
       "authorsHtml": "<p>Lokalizace.Net</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "2050650"
+      "mirrors": []
     },
     {
       "title": "Red Dead Redemption 2",
@@ -15923,8 +15810,7 @@
       "authorsHtml": "<p>Lokalizace.Net</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "795000"
+      "mirrors": []
     },
     {
       "title": "Grand Theft Auto V",
@@ -15993,7 +15879,7 @@
       "steamAppId": "2369390"
     },
     {
-      "title": "Henry the Stickmin",
+      "title": "Henry the Stickmin (Dabing)",
       "studio": "Lokalizace.net",
       "studioUrl": "https://lokalizace.net/localizations/henry-the-stickmin",
       "language": "Čeština",
@@ -16033,8 +15919,7 @@
       "authorsHtml": "<p>Lokalizace.Net</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "1172710"
+      "mirrors": []
     },
     {
       "title": "Resident Evil 4 (2005)",
@@ -16056,7 +15941,7 @@
       "size": null,
       "inDevelopment": true,
       "mirrors": [],
-      "steamAppId": "254700"
+      "steamAppId": "2050650"
     },
     {
       "title": "Resident Evil 5 Gold Edition (2009)",
@@ -16077,8 +15962,7 @@
       "authorsHtml": "<p>PERTIM</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "21690"
+      "mirrors": []
     },
     {
       "title": "Clive Barker's Hellraiser: Revival",
@@ -16121,8 +16005,7 @@
       "authorsHtml": "<p>Itenko14s Team</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "4919380"
+      "mirrors": []
     },
     {
       "title": "Sengoku Dynasty",
@@ -16143,8 +16026,7 @@
       "authorsHtml": "<p>SK/CZECH preklady</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "1702010"
+      "mirrors": []
     },
     {
       "title": "Graveyard Keeper 2",
@@ -16165,8 +16047,7 @@
       "authorsHtml": "<p>SK/CZECH preklady</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "4358690"
+      "mirrors": []
     },
     {
       "title": "Silver Pines",
@@ -16231,7 +16112,7 @@
       "size": null,
       "inDevelopment": true,
       "mirrors": [],
-      "steamAppId": "4249120"
+      "steamAppId": "952060"
     },
     {
       "title": "Tavern Keeper",
@@ -16252,30 +16133,7 @@
       "authorsHtml": "<p>Lokalizace.Net</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "436780"
-    },
-    {
-      "title": "Raft",
-      "studio": "Lokalizace.net",
-      "studioUrl": "https://lokalizace.net/localizations/raft",
-      "language": "Čeština",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": null,
-      "updatedAt": null,
-      "pageUrl": "https://lokalizace.net/localizations/raft",
-      "howToInstallHtml": "<p>Stáhněte ZIP soubor a rozbalte ho do složky hry, nebo použijte aplikaci CZManager pro automatickou instalaci češtiny.</p>",
-      "changelogHtml": null,
-      "authorsHtml": "<p>Lokalizace.Net</p>",
-      "size": null,
-      "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "648800"
+      "mirrors": []
     },
     {
       "title": "The Witcher 3: Wild Hunt — Remastered DABING",
@@ -16296,8 +16154,7 @@
       "authorsHtml": "<p>Czech dubbing</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "292030"
+      "mirrors": []
     },
     {
       "title": "BLOODMONEY: REQUIEM",
@@ -16318,8 +16175,7 @@
       "authorsHtml": "<p>GamerView Translations</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "5044390"
+      "mirrors": []
     },
     {
       "title": "Borderlands GOTY Enhanced",
@@ -16361,8 +16217,7 @@
       "authorsHtml": "<p>VocalSync Studios</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "4929450"
+      "mirrors": []
     },
     {
       "title": "Arctic Awakening",
@@ -16383,8 +16238,7 @@
       "authorsHtml": "<p>PERTIM</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "1275550"
+      "mirrors": []
     },
     {
       "title": "Baldi's Basics Classic Remastered",
@@ -16536,8 +16390,7 @@
       "authorsHtml": "<p>GamerView Translations</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "332800"
+      "mirrors": []
     },
     {
       "title": "Garten of Banban 2",
@@ -16558,8 +16411,7 @@
       "authorsHtml": "<p>GamerView Translations</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "2262770"
+      "mirrors": []
     },
     {
       "title": "ReStory: Chill Electronics Repairs",
@@ -16580,8 +16432,7 @@
       "authorsHtml": "<p>Žižkovské Překlady</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "3812600"
+      "mirrors": []
     },
     {
       "title": "Fable (2027)",
@@ -16602,8 +16453,7 @@
       "authorsHtml": "<p>Lokalizace.Net</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "2769570"
+      "mirrors": []
     },
     {
       "title": "METAL GEAR SOLID: Peace Walker - Master Collection Vol.2",
@@ -16624,8 +16474,7 @@
       "authorsHtml": "<p>PERTIM</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "3859630"
+      "mirrors": []
     },
     {
       "title": "METAL GEAR SOLID 4: Guns of the Patriots - Master Collection Vol.2",
@@ -16646,8 +16495,7 @@
       "authorsHtml": "<p>PERTIM</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "2492670"
+      "mirrors": []
     },
     {
       "title": "Starfield",
@@ -16668,8 +16516,7 @@
       "authorsHtml": "<p>Lokalizace.Net</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "1716740"
+      "mirrors": []
     },
     {
       "title": "Monolith",
@@ -16690,8 +16537,7 @@
       "authorsHtml": "<p>ADV Dream</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "1542390"
+      "mirrors": []
     },
     {
       "title": "Luto",
@@ -16712,8 +16558,7 @@
       "authorsHtml": "<p>Smile</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "1729740"
+      "mirrors": []
     },
     {
       "title": "Bye Sweet Carole",
@@ -16734,8 +16579,7 @@
       "authorsHtml": "<p>Smile</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "2428980"
+      "mirrors": []
     },
     {
       "title": "Dragon Age: Inquisition",
@@ -16756,8 +16600,7 @@
       "authorsHtml": "<p>Lokalizace.Net</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "1222690"
+      "mirrors": []
     },
     {
       "title": "Five Nights at Freddy's: Secret of the Mimic",
@@ -16778,8 +16621,7 @@
       "authorsHtml": "<p>Pět nocí na překladu</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "2215390"
+      "mirrors": []
     },
     {
       "title": "Battlefield 6",
@@ -16800,8 +16642,7 @@
       "authorsHtml": "<p>Sumilek86</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "2807960"
+      "mirrors": []
     },
     {
       "title": "3 Minutes to Midnight",
@@ -16822,8 +16663,7 @@
       "authorsHtml": "<p>ADV Dream</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "3209810"
+      "mirrors": []
     },
     {
       "title": "Atomfall",
@@ -16844,8 +16684,7 @@
       "authorsHtml": "<p>Lokalizace.Net</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "801800"
+      "mirrors": []
     },
     {
       "title": "FF7 Rebirth Demo PC & XBOX",
@@ -16887,8 +16726,7 @@
       "authorsHtml": "<p>Žižkovské Překlady</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "3298940"
+      "mirrors": []
     },
     {
       "title": "I Am Future: Cozy Apocalypse Survival",
@@ -16909,8 +16747,7 @@
       "authorsHtml": "<p>HAVELU Translation</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "1658040"
+      "mirrors": []
     },
     {
       "title": "Final Fantasy 16 DEMO PC & XBOX",
@@ -16973,8 +16810,7 @@
       "authorsHtml": "<p>Pět nocí na překladu</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "1924720"
+      "mirrors": []
     },
     {
       "title": "Deltarune",
@@ -16995,8 +16831,7 @@
       "authorsHtml": "<p>LowFanProject</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "1671210"
+      "mirrors": []
     },
     {
       "title": "Trivia Murder Party 3",
@@ -17017,8 +16852,7 @@
       "authorsHtml": "<p>DarbyCzech</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "3048060"
+      "mirrors": []
     },
     {
       "title": "Final Fantasy XV (PC)",
@@ -17060,8 +16894,7 @@
       "authorsHtml": "<p>Lukyn92</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "1304930"
+      "mirrors": []
     },
     {
       "title": "Emily Is Away",
@@ -17082,8 +16915,7 @@
       "authorsHtml": "<p>Mikošek Dubbing</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "417860"
+      "mirrors": []
     },
     {
       "title": "Deltarune",
@@ -17104,8 +16936,7 @@
       "authorsHtml": "<p>Tým Překladu Deltarune</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "1671210"
+      "mirrors": []
     },
     {
       "title": "Pathfinder - Wrath of the Righteous",
@@ -17190,8 +17021,7 @@
       "authorsHtml": "<p>Spid3rCZ</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "2807150"
+      "mirrors": []
     },
     {
       "title": "Final Fantasy XVI",
@@ -17212,8 +17042,7 @@
       "authorsHtml": "<p>Nehbet 2022</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "2515020"
+      "mirrors": []
     },
     {
       "title": "The coffin of Andy and Renee",
@@ -17234,8 +17063,7 @@
       "authorsHtml": "<p>Take of 🚀</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "546080"
+      "mirrors": []
     },
     {
       "title": "Warhammer 40K: Rogue Trader",
@@ -17298,8 +17126,7 @@
       "authorsHtml": "<p>PrekladyWoytman</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "949230"
+      "mirrors": []
     },
     {
       "title": "Star Trek: Resurgence",
@@ -17342,8 +17169,7 @@
       "authorsHtml": "<p>Nehbet 2022</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "1608070"
+      "mirrors": []
     },
     {
       "title": "Final Fantasy VII Rebirth",
@@ -17364,8 +17190,7 @@
       "authorsHtml": "<p>Nehbet 2022</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "2909400"
+      "mirrors": []
     },
     {
       "title": "Plague Inc",

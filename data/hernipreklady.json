@@ -217,9 +217,9 @@
       "steamAppId": "1527950"
     },
     {
-      "title": "Diablo II Resurrected Infernal Edition",
+      "title": "Songs of Conquest",
       "studio": "HerníPřeklady",
-      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/diablo-ii-resurrected-infernal-edition",
+      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/songs-of-conquest",
       "language": "Čeština",
       "hasText": true,
       "hasVoice": false,
@@ -227,22 +227,50 @@
       "hasNeuralVoice": false,
       "hasNeuralDub": false,
       "hasNeuralText": false,
-      "version": "3.0.0",
-      "updatedAt": "07.08.2026",
-      "requiredGameVersion": "Všechny verze (OFFLINE)",
-      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/diablo-ii-resurrected-infernal-edition",
+      "version": "1.54",
+      "updatedAt": "03.07.2026",
+      "requiredGameVersion": "1.10.4",
+      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/songs-of-conquest",
       "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
-      "authorsHtml": null,
+      "authorsHtml": "<p><strong>Překlad:</strong> Jetro<br><strong>Testování:</strong> Jetro, Paras</p>",
       "inDevelopment": false,
-      "size": "13.5 MB",
+      "size": "41.4 MB",
       "mirrors": [
         {
           "label": "HerníPřeklady",
-          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=600",
+          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=587",
           "kind": "direct"
         }
       ],
-      "steamAppId": "2536520"
+      "steamAppId": "867210"
+    },
+    {
+      "title": "The Quarry",
+      "studio": "HerníPřeklady",
+      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/the-quarry",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": "1.40",
+      "updatedAt": "04.02.2024",
+      "requiredGameVersion": "Aktuální",
+      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/the-quarry",
+      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
+      "authorsHtml": null,
+      "inDevelopment": false,
+      "size": "46.6 MB",
+      "mirrors": [
+        {
+          "label": "HerníPřeklady",
+          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=76",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "1577120"
     },
     {
       "title": "Cthulhu: The Cosmic Abyss",
@@ -1043,6 +1071,34 @@
       ]
     },
     {
+      "title": "Diablo II Resurrected Infernal Edition",
+      "studio": "HerníPřeklady",
+      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/diablo-ii-resurrected-infernal-edition",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": "3.0.0",
+      "updatedAt": "07.08.2026",
+      "requiredGameVersion": "Všechny verze (OFFLINE)",
+      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/diablo-ii-resurrected-infernal-edition",
+      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
+      "authorsHtml": null,
+      "inDevelopment": false,
+      "size": "13.5 MB",
+      "mirrors": [
+        {
+          "label": "HerníPřeklady",
+          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=600",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "2536520"
+    },
+    {
       "title": "Go Home Annie",
       "studio": "HerníPřeklady",
       "studioUrl": "https://hernipreklady.cz/seznam-prekladu/go-home-annie",
@@ -1110,7 +1166,7 @@
       "hasNeuralDub": false,
       "hasNeuralText": false,
       "version": "1.10",
-      "updatedAt": null,
+      "updatedAt": "19.09.2026",
       "requiredGameVersion": "v1.2.8",
       "pageUrl": "https://hernipreklady.cz/seznam-prekladu/once-alive",
       "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
@@ -2048,34 +2104,6 @@
         }
       ],
       "steamAppId": "1229020"
-    },
-    {
-      "title": "Songs of Conquest",
-      "studio": "HerníPřeklady",
-      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/songs-of-conquest",
-      "language": "Čeština",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": "1.54",
-      "updatedAt": "03.07.2026",
-      "requiredGameVersion": "1.10.4",
-      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/songs-of-conquest",
-      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
-      "authorsHtml": "<p><strong>Překlad:</strong> Jetro<br><strong>Testování:</strong> Jetro, Paras</p>",
-      "inDevelopment": false,
-      "size": "41.4 MB",
-      "mirrors": [
-        {
-          "label": "HerníPřeklady",
-          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=587",
-          "kind": "direct"
-        }
-      ],
-      "steamAppId": "867210"
     },
     {
       "title": "New Tales from the Borderlands",
@@ -3109,34 +3137,6 @@
         }
       ],
       "steamAppId": "1449320"
-    },
-    {
-      "title": "The Quarry",
-      "studio": "HerníPřeklady",
-      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/the-quarry",
-      "language": "Čeština",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": "1.40",
-      "updatedAt": "04.02.2024",
-      "requiredGameVersion": "Aktuální",
-      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/the-quarry",
-      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
-      "authorsHtml": null,
-      "inDevelopment": false,
-      "size": "46.6 MB",
-      "mirrors": [
-        {
-          "label": "HerníPřeklady",
-          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=76",
-          "kind": "direct"
-        }
-      ],
-      "steamAppId": "1577120"
     },
     {
       "title": "The Walking Dead: Saints & Sinners - Chapter 2: Retribution VR",
@@ -4498,7 +4498,7 @@
           "kind": "direct"
         }
       ],
-      "steamAppId": "1520500"
+      "steamAppId": "3213010"
     },
     {
       "title": "Twin Mirror",
