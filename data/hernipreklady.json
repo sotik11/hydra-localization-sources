@@ -5,6 +5,28 @@
   "siteUrl": "https://hernipreklady.cz",
   "localizations": [
     {
+      "title": "End of Abyss",
+      "studio": "HerníPřeklady",
+      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/end-of-abyss",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": "1.00",
+      "updatedAt": null,
+      "requiredGameVersion": "Aktuální na Epicu",
+      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/end-of-abyss",
+      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
+      "authorsHtml": null,
+      "inDevelopment": true,
+      "size": null,
+      "mirrors": [],
+      "steamAppId": "530611"
+    },
+    {
       "title": "Civilization VII",
       "studio": "HerníPřeklady",
       "studioUrl": "https://hernipreklady.cz/seznam-prekladu/civilization-vii",
@@ -81,28 +103,6 @@
         }
       ],
       "steamAppId": "361420"
-    },
-    {
-      "title": "End of Abyss",
-      "studio": "HerníPřeklady",
-      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/end-of-abyss",
-      "language": "Čeština",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": "1.00",
-      "updatedAt": null,
-      "requiredGameVersion": "Aktuální na Epicu",
-      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/end-of-abyss",
-      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
-      "authorsHtml": null,
-      "inDevelopment": true,
-      "size": null,
-      "mirrors": [],
-      "steamAppId": "530611"
     },
     {
       "title": "Code Vein 2",
@@ -243,6 +243,34 @@
         }
       ],
       "steamAppId": "867210"
+    },
+    {
+      "title": "Shadow Gambit: The Cursed Crew Complete Edition",
+      "studio": "HerníPřeklady",
+      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/shadow-gambit-the-cursed-crew-complete-edition",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": "1.2",
+      "updatedAt": "21.04.2026",
+      "requiredGameVersion": "1.2.133.r40893.f",
+      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/shadow-gambit-the-cursed-crew-complete-edition",
+      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
+      "authorsHtml": "<p><strong>Překlad a test:</strong> Andrewek</p>",
+      "inDevelopment": false,
+      "size": "200.0 MB",
+      "mirrors": [
+        {
+          "label": "HerníPřeklady",
+          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=560",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "1545560"
     },
     {
       "title": "The Quarry",
@@ -2048,34 +2076,6 @@
         }
       ],
       "steamAppId": "1176470"
-    },
-    {
-      "title": "Shadow Gambit: The Cursed Crew Complete Edition",
-      "studio": "HerníPřeklady",
-      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/shadow-gambit-the-cursed-crew-complete-edition",
-      "language": "Čeština",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": "1.2",
-      "updatedAt": "21.04.2026",
-      "requiredGameVersion": "1.2.133.r40893.f",
-      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/shadow-gambit-the-cursed-crew-complete-edition",
-      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
-      "authorsHtml": "<p><strong>Překlad a test:</strong> Andrewek</p>",
-      "inDevelopment": false,
-      "size": "200.0 MB",
-      "mirrors": [
-        {
-          "label": "HerníPřeklady",
-          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=560",
-          "kind": "direct"
-        }
-      ],
-      "steamAppId": "1545560"
     },
     {
       "title": "Kona 2: Brume",
@@ -4498,7 +4498,7 @@
           "kind": "direct"
         }
       ],
-      "steamAppId": "3213010"
+      "steamAppId": "1520500"
     },
     {
       "title": "Twin Mirror",
