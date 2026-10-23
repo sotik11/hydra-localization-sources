@@ -550,6 +550,28 @@
       "steamAppId": "2623190"
     },
     {
+      "title": "Strange Brigade",
+      "studio": "Lokalizace.net",
+      "studioUrl": "https://lokalizace.net/localizations/strange-brigade",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": null,
+      "updatedAt": null,
+      "pageUrl": "https://lokalizace.net/localizations/strange-brigade",
+      "howToInstallHtml": "<p>Stáhněte ZIP soubor a rozbalte ho do složky hry, nebo použijte aplikaci CZManager pro automatickou instalaci češtiny.</p>",
+      "changelogHtml": "<div><p><strong>Nová verze 0.8.5</strong></p><ul><li><p>uplne prvni release, hodne oprav</p></li><li><p>vyreseny fonty a to dekuji moc <strong>vanBrok</strong>ovi, pac mi hrozne pomohl</p></li></ul><p></p></div>",
+      "authorsHtml": "<p>Lokalizace.Net</p>",
+      "size": null,
+      "inDevelopment": true,
+      "mirrors": [],
+      "steamAppId": "312670"
+    },
+    {
       "title": "Cities in Motion (2011)",
       "studio": "Lokalizace.net",
       "studioUrl": "https://lokalizace.net/localizations/cities-in-motion-2011",
@@ -3121,8 +3143,7 @@
       "authorsHtml": "<p>Zhilian</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "239160"
+      "mirrors": []
     },
     {
       "title": "Sinking Island",
@@ -9500,8 +9521,7 @@
       "authorsHtml": "<p>Lost And Found</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "239160"
+      "mirrors": []
     },
     {
       "title": "Warcraft 1 Remastered - CZ překlad a dabing",
@@ -11447,8 +11467,7 @@
       "authorsHtml": "<p>miracle.flame</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "239160"
+      "mirrors": []
     },
     {
       "title": "The Almost Gone",
@@ -16016,6 +16035,27 @@
       "inDevelopment": true,
       "mirrors": [],
       "steamAppId": "2369390"
+    },
+    {
+      "title": "Final Fantasy I PR",
+      "studio": "Lokalizace.net",
+      "studioUrl": "https://lokalizace.net/localizations/final-fantasy-i-pixel-remaster",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": null,
+      "updatedAt": null,
+      "pageUrl": "https://lokalizace.net/localizations/final-fantasy-i-pixel-remaster",
+      "howToInstallHtml": "<p>Stáhněte ZIP soubor a rozbalte ho do složky hry, nebo použijte aplikaci CZManager pro automatickou instalaci češtiny.</p>",
+      "changelogHtml": null,
+      "authorsHtml": "<p>Starsoul</p>",
+      "size": null,
+      "inDevelopment": true,
+      "mirrors": []
     },
     {
       "title": "Henry the Stickmin (Dabing)",
