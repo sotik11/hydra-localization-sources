@@ -29,6 +29,30 @@
       ]
     },
     {
+      "steamAppId": "4233530",
+      "title": "Legacy of Kain: Ascendance",
+      "studio": "Magyarítások",
+      "studioUrl": "https://magyaritasok.hu",
+      "language": "Magyar",
+      "hasText": true,
+      "hasVoice": false,
+      "version": "1.0",
+      "updatedAt": "23.10.2026",
+      "requiredGameVersion": "1.0.5.2",
+      "size": "646 KB",
+      "pageUrl": "https://magyaritasok.hu/games/legacy-of-kain-ascendance",
+      "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
+      "authorsHtml": "<p>Gora</p>",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Magyarítások",
+          "url": "https://magyaritasok.hu/dl/LegacyofKainAscendance/LegacyofKainAscendance_HUN_v100.exe",
+          "kind": "direct"
+        }
+      ]
+    },
+    {
       "title": "Mall Tycoon",
       "studio": "Magyarítások",
       "studioUrl": "https://magyaritasok.hu",
