@@ -5,6 +5,28 @@
   "siteUrl": "https://lokalizace.net",
   "localizations": [
     {
+      "title": "Xenonauts 2",
+      "studio": "Lokalizace.net",
+      "studioUrl": "https://lokalizace.net/localizations/xenonauts-2",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": null,
+      "updatedAt": null,
+      "pageUrl": "https://lokalizace.net/localizations/xenonauts-2",
+      "howToInstallHtml": "<p>Stáhněte ZIP soubor a rozbalte ho do složky hry, nebo použijte aplikaci CZManager pro automatickou instalaci češtiny.</p>",
+      "changelogHtml": "<div><p><strong>Oprava Savu</strong></p><p>Dal jsem dohromady script pro lidi, kteří rozehráli novou hru s verzí lokalizace RC1 nebo RC2.<br>Script by měl doplnit chybějící hodnoty do uložené pozice pro správné zobrazení menu operací a jeho fungování.</p><p>Mám to úspěšně otestováno jen u sebe, ale věřím tomu, že to bude fungovat.</p><p><strong>Nová verze RC5</strong></p><p><span style=\"color: rgb(34, 197, 94)\">RC5 určená pro verzi 7.27.13 </span><br><span style=\"color: rgb(34, 197, 94)\">- Opravuje chybně přeložený klíčový text pro správné fungování Operačního panelu a jeho zobrazení</span><br><span style=\"color: rgb(34, 197, 94)\">- Změna rodu z mužského na ženský u Ředitele</span><br><span style=\"color: rgb(34, 197, 94)\">- Instalátor nainstaluje češtinu do jakékoliv verze (funkčnost není jistá)</span></p><p><span style=\"color: rgb(249, 115, 22)\">Proč RC5?<br>- Objevil jsem závažný bug v lokalizaci ve verzi <strong>RC1 a RC2</strong>, kdy jsem omylem přeložil věc, přes kterou si engine dohledává jiné věci.<br>Konkrétně jde o nefunkční panel pro Operace a využívání Operačních bodů. Jde o chybu, která poškodí uloženou pozici už od začátku. (při Nové hře)<br>Nemělo by to mít vliv na jíž rozehranou hru, kde to menu je vidět. (Na 100% si jistý ale nejsem)</span></p><p><span style=\"color: rgb(234, 179, 8)\">Pokud jste rozehráli novou hru s verzí RC1 nebo RC2, připravil jsem opravný script, který doplní chybějící hodnoty do uložené pozice</span><br><span style=\"color: rgb(234, 179, 8)\"><strong>Všem se moc omlouvám, koho postihne tato chyba.</strong></span></p></div>",
+      "authorsHtml": "<p>RetroGameplay_CZ</p>",
+      "size": null,
+      "inDevelopment": true,
+      "mirrors": [],
+      "steamAppId": "538030"
+    },
+    {
       "title": "Grand Theft Auto: Chinatown Wars (PSP)",
       "studio": "Lokalizace.net",
       "studioUrl": "https://lokalizace.net/localizations/grand-theft-auto-chinatown-wars-psp",
@@ -127,7 +149,7 @@
       "updatedAt": null,
       "pageUrl": "https://lokalizace.net/localizations/resident-evil-1996",
       "howToInstallHtml": "<p>Stáhněte ZIP soubor a rozbalte ho do složky hry, nebo použijte aplikaci CZManager pro automatickou instalaci češtiny.</p>",
-      "changelogHtml": "<div><p><strong>Nová verze 1.1</strong></p><p>Doplnené o trochu kvalitnejšie videá</p></div>",
+      "changelogHtml": "<div><p><strong>Nová verze 1.2</strong></p><p>Preklad vylepšený o nový grafický mod. Ten starší je tiež stále k dispozícii</p><p><strong>Nová verze 1.1</strong></p><p>Doplnené o trochu kvalitnejšie videá</p></div>",
       "authorsHtml": "<p>PERTIM</p>",
       "size": null,
       "inDevelopment": true,
@@ -1400,6 +1422,28 @@
       "inDevelopment": true,
       "mirrors": [],
       "steamAppId": "2825880"
+    },
+    {
+      "title": "Dragon Age: Inquisition",
+      "studio": "Lokalizace.net",
+      "studioUrl": "https://lokalizace.net/localizations/dragon-age-inquisition",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": null,
+      "updatedAt": null,
+      "pageUrl": "https://lokalizace.net/localizations/dragon-age-inquisition",
+      "howToInstallHtml": "<p>Stáhněte ZIP soubor a rozbalte ho do složky hry, nebo použijte aplikaci CZManager pro automatickou instalaci češtiny.</p>",
+      "changelogHtml": "<div><p><strong>Nová verze 1.0.5</strong></p><p><span style=\"font-size: 16px; color: oklab(0.952693 0.000792831 -0.00253612)\">Pár důležitých faktů k překladu: </span></p><ul><li><p><span style=\"font-size: 16px\">Překlad je dělán výhradně pro mužskou postavu (překlad pro ženu by znamenal prakticky udělat druhou verzi překladu, protože těch replik - nejen inkvizitora, ale i na inkvizitora -, které se nedaly přepsat genderově neutrálně je prostě příliš mnoho a na to momentálně nemáme kapacity)</span></p></li><li><p><span style=\"font-size: 16px\">Překlad je otestován dvěma kompletními průchody s různým background, přesto však nebyl čas testovat přímo různé variace jednotlivých průchodů, postav, původů apod (tedy pokud budete používat nějaké jiné cesty, můžete narazit na chyby - budeme rádi za nahlášení)</span></p></li><li><p><span style=\"font-size: 16px\">Zejména v rozhraní (inventář, popisy schopností apod.) je občas velice kostrbaté skloňování a formátování. O této chybě víme, nelze ji opravit - je to tím, že engine sám skládá z různých slov dané statistiky a angličtina prostě nemá takovou variabilitu, jako čeština. Prosíme tedy o pochopení.</span></p></li></ul><p></p></div>",
+      "authorsHtml": "<p>Lokalizace.Net</p>",
+      "size": null,
+      "inDevelopment": true,
+      "mirrors": [],
+      "steamAppId": "1222690"
     },
     {
       "title": "Evospace",
@@ -14770,8 +14814,7 @@
       "authorsHtml": "<p>ADV Dream</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "1373430"
+      "mirrors": []
     },
     {
       "title": "Leisure Suit Larry: Wet Dreams Don't Dry",
@@ -14792,8 +14835,7 @@
       "authorsHtml": "<p>ADV Dream</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "765870"
+      "mirrors": []
     },
     {
       "title": "Leisure Suit Larry: Reloaded",
@@ -16779,28 +16821,6 @@
       "inDevelopment": true,
       "mirrors": [],
       "steamAppId": "2428980"
-    },
-    {
-      "title": "Dragon Age: Inquisition",
-      "studio": "Lokalizace.net",
-      "studioUrl": "https://lokalizace.net/localizations/dragon-age-inquisition",
-      "language": "Čeština",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": null,
-      "updatedAt": null,
-      "pageUrl": "https://lokalizace.net/localizations/dragon-age-inquisition",
-      "howToInstallHtml": "<p>Stáhněte ZIP soubor a rozbalte ho do složky hry, nebo použijte aplikaci CZManager pro automatickou instalaci češtiny.</p>",
-      "changelogHtml": null,
-      "authorsHtml": "<p>Lokalizace.Net</p>",
-      "size": null,
-      "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "1222690"
     },
     {
       "title": "Five Nights at Freddy's: Secret of the Mimic",
