@@ -17,13 +17,19 @@
       "hasNeuralText": false,
       "version": "1.00",
       "updatedAt": null,
-      "requiredGameVersion": "Aktuální na Epicu",
+      "requiredGameVersion": "PC 1.0.1.8",
       "pageUrl": "https://hernipreklady.cz/seznam-prekladu/end-of-abyss",
       "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
       "authorsHtml": null,
-      "inDevelopment": true,
-      "size": null,
-      "mirrors": [],
+      "inDevelopment": false,
+      "size": "1.68 MB",
+      "mirrors": [
+        {
+          "label": "HerníPřeklady",
+          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=643",
+          "kind": "direct"
+        }
+      ],
       "steamAppId": "530611"
     },
     {

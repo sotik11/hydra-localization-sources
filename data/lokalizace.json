@@ -13212,8 +13212,7 @@
       "authorsHtml": "<p>Starsoul</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "70"
+      "mirrors": []
     },
     {
       "title": "Q.U.B.E. 2",
@@ -13256,8 +13255,7 @@
       "authorsHtml": "<p>ADV Dream</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "370910"
+      "mirrors": []
     },
     {
       "title": "Magnetic Cage Closed",
@@ -13278,8 +13276,7 @@
       "authorsHtml": "<p>siSINka</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "344410"
+      "mirrors": []
     },
     {
       "title": "Divinity: Original Sin 2 Definitive Edition",
@@ -13542,8 +13539,7 @@
       "authorsHtml": "<p>Tomiket</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "281990"
+      "mirrors": []
     },
     {
       "title": "Naval Action",
@@ -13564,8 +13560,7 @@
       "authorsHtml": "<p>Tomiket</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "311310"
+      "mirrors": []
     },
     {
       "title": "The Walking Dead: The Telltale Definitive Series",
@@ -16098,6 +16093,28 @@
       "inDevelopment": true,
       "mirrors": [],
       "steamAppId": "2369390"
+    },
+    {
+      "title": "Moon Sweepers",
+      "studio": "Lokalizace.net",
+      "studioUrl": "https://lokalizace.net/localizations/moon-sweepers",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": null,
+      "updatedAt": null,
+      "pageUrl": "https://lokalizace.net/localizations/moon-sweepers",
+      "howToInstallHtml": "<p>Stáhněte ZIP soubor a rozbalte ho do složky hry, nebo použijte aplikaci CZManager pro automatickou instalaci češtiny.</p>",
+      "changelogHtml": null,
+      "authorsHtml": "<p>SK/CZECH preklady</p>",
+      "size": null,
+      "inDevelopment": true,
+      "mirrors": [],
+      "steamAppId": "5335510"
     },
     {
       "title": "Dino Crisis 2",
