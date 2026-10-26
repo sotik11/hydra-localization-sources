@@ -1430,7 +1430,7 @@
           "kind": "direct"
         }
       ],
-      "steamAppId": "302080"
+      "steamAppId": "1366950"
     },
     {
       "title": "Duke Nukem 3D",
@@ -7323,34 +7323,6 @@
       "steamAppId": "640590"
     },
     {
-      "title": "Gears of War: Reloaded",
-      "studio": "Komunitní překlady",
-      "studioUrl": "https://komunitni-preklady.org/preklad/gears-of-war-reloaded",
-      "language": "Čeština",
-      "hasText": false,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": true,
-      "version": "0.2",
-      "updatedAt": "28.12.2025",
-      "requiredGameVersion": null,
-      "pageUrl": "https://komunitni-preklady.org/preklad/gears-of-war-reloaded",
-      "howToInstallHtml": "<p>Každý překlad má vlastní postup instalace. Otevřete stránku překladu (tlačítko „Otevřít v prohlížeči“ níže) — najdete tam úplný návod k instalaci i tlačítko ke stažení.</p>",
-      "authorsHtml": "<p>Lokalizační penetrátor</p>",
-      "size": "8.80 MB",
-      "inDevelopment": false,
-      "mirrors": [
-        {
-          "label": "Komunitní překlady",
-          "url": "https://komunitni-preklady.org/download/317?sig=TqFouUfbHMyXqS67kAvdSw",
-          "kind": "direct"
-        }
-      ],
-      "steamAppId": "2523720"
-    },
-    {
       "title": "Encased - A Sci-Fi Post-Apocalyptic RPG",
       "studio": "Komunitní překlady",
       "studioUrl": "https://komunitni-preklady.org/preklad/encased-a-sci-fi-post-apocalyptic-rpg",
@@ -8477,8 +8449,8 @@
       "hasNeuralVoice": false,
       "hasNeuralDub": false,
       "hasNeuralText": true,
-      "version": "0.74",
-      "updatedAt": "21.10.2026",
+      "version": "0.75",
+      "updatedAt": "25.10.2026",
       "requiredGameVersion": "25752338 (07.10.26)",
       "pageUrl": "https://komunitni-preklady.org/preklad/tempest-rising",
       "howToInstallHtml": "<p>Každý překlad má vlastní postup instalace. Otevřete stránku překladu (tlačítko „Otevřít v prohlížeči“ níže) — najdete tam úplný návod k instalaci i tlačítko ke stažení.</p>",
@@ -10522,8 +10494,7 @@
           "url": "https://komunitni-preklady.org/download/507?sig=s2OeTKWHDf2BdSGdqC_wxQ",
           "kind": "direct"
         }
-      ],
-      "steamAppId": "22000"
+      ]
     },
     {
       "title": "Professional Fishing 2",
@@ -10983,13 +10954,13 @@
       "hasNeuralVoice": false,
       "hasNeuralDub": false,
       "hasNeuralText": true,
-      "version": "1.1.38-1",
-      "updatedAt": "12.07.2026",
-      "requiredGameVersion": "1.1.38",
+      "version": "1.2.9-1",
+      "updatedAt": "26.10.2026",
+      "requiredGameVersion": "1.2.9.",
       "pageUrl": "https://komunitni-preklady.org/preklad/occupy-mars-the-game",
       "howToInstallHtml": "<p>Každý překlad má vlastní postup instalace. Otevřete stránku překladu (tlačítko „Otevřít v prohlížeči“ níže) — najdete tam úplný návod k instalaci i tlačítko ke stažení.</p>",
       "authorsHtml": "<p>Kružítko</p>",
-      "size": "71 KB",
+      "size": "712 KB",
       "inDevelopment": false,
       "mirrors": [
         {
@@ -16207,13 +16178,13 @@
       "hasNeuralVoice": false,
       "hasNeuralDub": false,
       "hasNeuralText": true,
-      "version": "0.9",
-      "updatedAt": "23.08.2026",
+      "version": "0.10",
+      "updatedAt": "25.10.2026",
       "requiredGameVersion": "1.1.2",
       "pageUrl": "https://komunitni-preklady.org/preklad/broken-arrow",
       "howToInstallHtml": "<p>Každý překlad má vlastní postup instalace. Otevřete stránku překladu (tlačítko „Otevřít v prohlížeči“ níže) — najdete tam úplný návod k instalaci i tlačítko ke stažení.</p>",
       "authorsHtml": "<p>Livi8D</p>",
-      "size": "2.70 MB",
+      "size": "2.90 MB",
       "inDevelopment": false,
       "mirrors": [
         {
@@ -17034,8 +17005,8 @@
       "hasNeuralVoice": false,
       "hasNeuralDub": false,
       "hasNeuralText": true,
-      "version": "1.3.0",
-      "updatedAt": "30.09.2026",
+      "version": "1.3.1",
+      "updatedAt": "25.10.2026",
       "requiredGameVersion": "0.4.2.112340",
       "pageUrl": "https://komunitni-preklady.org/preklad/solasta-ii-cz",
       "howToInstallHtml": "<p>Každý překlad má vlastní postup instalace. Otevřete stránku překladu (tlačítko „Otevřít v prohlížeči“ níže) — najdete tam úplný návod k instalaci i tlačítko ke stažení.</p>",
@@ -17990,34 +17961,6 @@
       "steamAppId": "602960"
     },
     {
-      "title": "You must",
-      "studio": "Komunitní překlady",
-      "studioUrl": "https://komunitni-preklady.org/preklad/you-must",
-      "language": "Čeština",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": "1.00",
-      "updatedAt": "12.08.2026",
-      "requiredGameVersion": null,
-      "pageUrl": "https://komunitni-preklady.org/preklad/you-must",
-      "howToInstallHtml": "<p>Každý překlad má vlastní postup instalace. Otevřete stránku překladu (tlačítko „Otevřít v prohlížeči“ níže) — najdete tam úplný návod k instalaci i tlačítko ke stažení.</p>",
-      "authorsHtml": "<p>PERTIM CZ</p>",
-      "size": "92 KB",
-      "inDevelopment": false,
-      "mirrors": [
-        {
-          "label": "Komunitní překlady",
-          "url": "https://komunitni-preklady.org/download/914?sig=WvGTqM-y1II8Tl889FIrAQ",
-          "kind": "direct"
-        }
-      ],
-      "steamAppId": "1726730"
-    },
-    {
       "title": "Locked Up",
       "studio": "Komunitní překlady",
       "studioUrl": "https://komunitni-preklady.org/preklad/locked-up",
@@ -18461,34 +18404,6 @@
         }
       ],
       "steamAppId": "1996770"
-    },
-    {
-      "title": "HELL OF FEAR: Mind Breach",
-      "studio": "Komunitní překlady",
-      "studioUrl": "https://komunitni-preklady.org/preklad/hell-of-fear-mind-breach",
-      "language": "Čeština",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": "1.0",
-      "updatedAt": "06.09.2026",
-      "requiredGameVersion": null,
-      "pageUrl": "https://komunitni-preklady.org/preklad/hell-of-fear-mind-breach",
-      "howToInstallHtml": "<p>Každý překlad má vlastní postup instalace. Otevřete stránku překladu (tlačítko „Otevřít v prohlížeči“ níže) — najdete tam úplný návod k instalaci i tlačítko ke stažení.</p>",
-      "authorsHtml": "<p>PERTIM CZ</p>",
-      "size": "92.5 MB",
-      "inDevelopment": false,
-      "mirrors": [
-        {
-          "label": "Komunitní překlady",
-          "url": "https://komunitni-preklady.org/download/931?sig=j9LSXPjXZS-9ncvI8ASwRA",
-          "kind": "direct"
-        }
-      ],
-      "steamAppId": "3372090"
     },
     {
       "title": "Sacred Gold",
@@ -19936,34 +19851,6 @@
       "steamAppId": "2458980"
     },
     {
-      "title": "Alone in the Dark: The New Nightmare",
-      "studio": "Komunitní překlady",
-      "studioUrl": "https://komunitni-preklady.org/preklad/alone-in-the-dark-the-new-nightmare",
-      "language": "Čeština",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": "1.01",
-      "updatedAt": "21.09.2026",
-      "requiredGameVersion": null,
-      "pageUrl": "https://komunitni-preklady.org/preklad/alone-in-the-dark-the-new-nightmare",
-      "howToInstallHtml": "<p>Každý překlad má vlastní postup instalace. Otevřete stránku překladu (tlačítko „Otevřít v prohlížeči“ níže) — najdete tam úplný návod k instalaci i tlačítko ke stažení.</p>",
-      "authorsHtml": "<p>PERTIM CZ</p>",
-      "size": "130.6 MB",
-      "inDevelopment": false,
-      "mirrors": [
-        {
-          "label": "Komunitní překlady",
-          "url": "https://komunitni-preklady.org/download/990?sig=4bplXb7V4j2hDgzyTLLfLw",
-          "kind": "direct"
-        }
-      ],
-      "steamAppId": "259190"
-    },
-    {
       "title": "Metal Gear Solid - Portable OPS (PSP)",
       "studio": "Komunitní překlady",
       "studioUrl": "https://komunitni-preklady.org/preklad/metal-gear-solid-portable-ops-psp",
@@ -20142,8 +20029,8 @@
       "hasNeuralVoice": false,
       "hasNeuralDub": false,
       "hasNeuralText": true,
-      "version": "0.32",
-      "updatedAt": "12.10.2026",
+      "version": "0.36",
+      "updatedAt": "24.10.2026",
       "requiredGameVersion": null,
       "pageUrl": "https://komunitni-preklady.org/preklad/silent-hill-townfall",
       "howToInstallHtml": "<p>Každý překlad má vlastní postup instalace. Otevřete stránku překladu (tlačítko „Otevřít v prohlížeči“ níže) — najdete tam úplný návod k instalaci i tlačítko ke stažení.</p>",
@@ -20198,13 +20085,13 @@
       "hasNeuralVoice": false,
       "hasNeuralDub": false,
       "hasNeuralText": true,
-      "version": "1.4",
-      "updatedAt": "02.10.2026",
+      "version": "1.5",
+      "updatedAt": "26.10.2026",
       "requiredGameVersion": null,
       "pageUrl": "https://komunitni-preklady.org/preklad/borderlands-4-cz",
       "howToInstallHtml": "<p>Každý překlad má vlastní postup instalace. Otevřete stránku překladu (tlačítko „Otevřít v prohlížeči“ níže) — najdete tam úplný návod k instalaci i tlačítko ke stažení.</p>",
       "authorsHtml": "<p>GoldCash</p>",
-      "size": "24.5 MB",
+      "size": "13.1 MB",
       "inDevelopment": false,
       "mirrors": [
         {
@@ -20602,8 +20489,7 @@
           "url": "https://komunitni-preklady.org/download/1016?sig=j4ZuaMUtEtDBt7vx2fZDHQ",
           "kind": "direct"
         }
-      ],
-      "steamAppId": "22000"
+      ]
     },
     {
       "title": "Warhammer 40,000: Inquisitor - Prophecy",
@@ -20952,13 +20838,13 @@
       "hasNeuralVoice": false,
       "hasNeuralDub": false,
       "hasNeuralText": true,
-      "version": "0.2",
-      "updatedAt": "20.10.2026",
+      "version": "0.3",
+      "updatedAt": "24.10.2026",
       "requiredGameVersion": "nejnovější dostupná verze z GOG",
       "pageUrl": "https://komunitni-preklady.org/preklad/in-cold-blood",
       "howToInstallHtml": "<p>Každý překlad má vlastní postup instalace. Otevřete stránku překladu (tlačítko „Otevřít v prohlížeči“ níže) — najdete tam úplný návod k instalaci i tlačítko ke stažení.</p>",
       "authorsHtml": "<p>Krasové Překlady</p>",
-      "size": "5.10 MB",
+      "size": "340.3 MB",
       "inDevelopment": false,
       "mirrors": [
         {
@@ -21213,13 +21099,13 @@
       "hasNeuralVoice": false,
       "hasNeuralDub": false,
       "hasNeuralText": true,
-      "version": "0.3",
-      "updatedAt": "24.10.2026",
-      "requiredGameVersion": "V seznamu verzí zaklikněte",
+      "version": "0.6",
+      "updatedAt": "26.10.2026",
+      "requiredGameVersion": "26203101 (25.10.26)",
       "pageUrl": "https://komunitni-preklady.org/preklad/moon-sweepers",
       "howToInstallHtml": "<p>Každý překlad má vlastní postup instalace. Otevřete stránku překladu (tlačítko „Otevřít v prohlížeči“ níže) — najdete tam úplný návod k instalaci i tlačítko ke stažení.</p>",
       "authorsHtml": "<p>NeonFox Loc</p>",
-      "size": "165.4 MB",
+      "size": "422.6 MB",
       "inDevelopment": false,
       "mirrors": [
         {
@@ -21229,6 +21115,118 @@
         }
       ],
       "steamAppId": "5335510"
+    },
+    {
+      "title": "Agatha Christie: Hercule Poirot - The First Cases",
+      "studio": "Komunitní překlady",
+      "studioUrl": "https://komunitni-preklady.org/preklad/agatha-christie-hercule-poirot-the-first-cases",
+      "language": "Čeština",
+      "hasText": false,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": true,
+      "version": "1.0",
+      "updatedAt": "26.10.2026",
+      "requiredGameVersion": "8046687 (21.02.22)",
+      "pageUrl": "https://komunitni-preklady.org/preklad/agatha-christie-hercule-poirot-the-first-cases",
+      "howToInstallHtml": "<p>Každý překlad má vlastní postup instalace. Otevřete stránku překladu (tlačítko „Otevřít v prohlížeči“ níže) — najdete tam úplný návod k instalaci i tlačítko ke stažení.</p>",
+      "authorsHtml": "<p>Krasové Překlady</p>",
+      "size": "19.8 MB",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Komunitní překlady",
+          "url": "https://komunitni-preklady.org/download/1041/steam?sig=CuAFth9RHPWQJD6xgkfFnQ",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "1573720"
+    },
+    {
+      "title": "Gears of War: Reloaded",
+      "studio": "Komunitní překlady",
+      "studioUrl": "https://komunitni-preklady.org/preklad/gears-of-war-reloaded-cz",
+      "language": "Čeština",
+      "hasText": false,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": true,
+      "version": "0.1",
+      "updatedAt": "26.10.2026",
+      "requiredGameVersion": "20087529 (24.09.25)",
+      "pageUrl": "https://komunitni-preklady.org/preklad/gears-of-war-reloaded-cz",
+      "howToInstallHtml": "<p>Každý překlad má vlastní postup instalace. Otevřete stránku překladu (tlačítko „Otevřít v prohlížeči“ níže) — najdete tam úplný návod k instalaci i tlačítko ke stažení.</p>",
+      "authorsHtml": "<p>stykson</p>",
+      "size": "101.7 MB",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Komunitní překlady",
+          "url": "https://komunitni-preklady.org/download/1042?sig=n9eJ4OCYb23CVaYfEbXIVg",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "2523720"
+    },
+    {
+      "title": "Serious Sam 4",
+      "studio": "Komunitní překlady",
+      "studioUrl": "https://komunitni-preklady.org/preklad/serious-sam-4",
+      "language": "Čeština",
+      "hasText": false,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": true,
+      "version": "1.0",
+      "updatedAt": "26.10.2026",
+      "requiredGameVersion": "8705708 (20.05.22)",
+      "pageUrl": "https://komunitni-preklady.org/preklad/serious-sam-4",
+      "howToInstallHtml": "<p>Každý překlad má vlastní postup instalace. Otevřete stránku překladu (tlačítko „Otevřít v prohlížeči“ níže) — najdete tam úplný návod k instalaci i tlačítko ke stažení.</p>",
+      "authorsHtml": "<p>Ironvale Localization</p>",
+      "size": "4.10 MB",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Komunitní překlady",
+          "url": "https://komunitni-preklady.org/download/1043?sig=ZWr8r_4B_SI47vuRVpDcDQ",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "257420"
+    },
+    {
+      "title": "Gears of War: Reloaded",
+      "studio": "Komunitní překlady",
+      "studioUrl": "https://komunitni-preklady.org/preklad/gears-of-war-reloaded",
+      "language": "Čeština",
+      "hasText": false,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": true,
+      "version": "0.1",
+      "updatedAt": "26.10.2026",
+      "requiredGameVersion": "20087529 (24.09.25)",
+      "pageUrl": "https://komunitni-preklady.org/preklad/gears-of-war-reloaded",
+      "howToInstallHtml": "<p>Každý překlad má vlastní postup instalace. Otevřete stránku překladu (tlačítko „Otevřít v prohlížeči“ níže) — najdete tam úplný návod k instalaci i tlačítko ke stažení.</p>",
+      "authorsHtml": "<p>stykson</p>",
+      "size": "101.7 MB",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Komunitní překlady",
+          "url": "https://komunitni-preklady.org/download/1042?sig=n9eJ4OCYb23CVaYfEbXIVg",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "2523720"
     },
     {
       "title": "Borderlands 4",
@@ -21241,13 +21239,13 @@
       "hasNeuralVoice": false,
       "hasNeuralDub": false,
       "hasNeuralText": true,
-      "version": "1.4",
-      "updatedAt": "02.10.2026",
+      "version": "1.5",
+      "updatedAt": "26.10.2026",
       "requiredGameVersion": null,
       "pageUrl": "https://komunitni-preklady.org/preklad/borderlands-4",
       "howToInstallHtml": "<p>Každý překlad má vlastní postup instalace. Otevřete stránku překladu (tlačítko „Otevřít v prohlížeči“ níže) — najdete tam úplný návod k instalaci i tlačítko ke stažení.</p>",
       "authorsHtml": "<p>GoldCash</p>",
-      "size": "24.5 MB",
+      "size": "13.1 MB",
       "inDevelopment": false,
       "mirrors": [
         {
@@ -21627,11 +21625,11 @@
       "hasNeuralDub": false,
       "hasNeuralText": true,
       "version": null,
-      "updatedAt": "24.10.2026",
+      "updatedAt": "26.10.2026",
       "requiredGameVersion": null,
       "pageUrl": "https://komunitni-preklady.org/preklad/divinity-ii-dragon-knight-saga-",
       "howToInstallHtml": "<p>Každý překlad má vlastní postup instalace. Otevřete stránku překladu (tlačítko „Otevřít v prohlížeči“ níže) — najdete tam úplný návod k instalaci i tlačítko ke stažení.</p>",
-      "authorsHtml": "<p>Lokalizační penetrátor</p>",
+      "authorsHtml": "<p>Ironvale Localization</p>",
       "size": null,
       "inDevelopment": true,
       "mirrors": []
