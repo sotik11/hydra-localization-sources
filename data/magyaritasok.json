@@ -3030,6 +3030,30 @@
       ]
     },
     {
+      "steamAppId": "1259840",
+      "title": "The House of Da Vinci 2",
+      "studio": "Magyarítások",
+      "studioUrl": "https://magyaritasok.hu",
+      "language": "Magyar",
+      "hasText": true,
+      "hasVoice": false,
+      "version": "1.01",
+      "updatedAt": "05.02.2026",
+      "requiredGameVersion": null,
+      "size": "6.42 MB",
+      "pageUrl": "https://magyaritasok.hu/games/the-house-of-da-vinci-2",
+      "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
+      "authorsHtml": "<p>Pityu Mester</p>",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Magyarítások",
+          "url": "https://magyaritasok.hu/dl/TheHouseofDaVinci2/TheHouseofDaVinci2_HUN_1.01.exe",
+          "kind": "direct"
+        }
+      ]
+    },
+    {
       "steamAppId": "1643320",
       "title": "S.T.A.L.K.E.R. 2: Heart of Chornobyl",
       "studio": "Magyarítások",
@@ -3049,6 +3073,30 @@
         {
           "label": "Magyarítások",
           "url": "https://magyaritasok.hu/dl/Stalker2/S2HOCHU-v1.08.zip",
+          "kind": "direct"
+        }
+      ]
+    },
+    {
+      "steamAppId": "2623190",
+      "title": "The Elder Scrolls IV: Oblivion Remastered",
+      "studio": "Magyarítások",
+      "studioUrl": "https://magyaritasok.hu",
+      "language": "Magyar",
+      "hasText": true,
+      "hasVoice": false,
+      "version": "1.02",
+      "updatedAt": "25.07.2025",
+      "requiredGameVersion": "v1.512.105.0",
+      "size": "24.6 MB",
+      "pageUrl": "https://magyaritasok.hu/games/the-elder-scrolls-iv-oblivion-remastered",
+      "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
+      "authorsHtml": "<p>warg, A MorroHUN Team fordításának felhasználásával.</p>",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Magyarítások",
+          "url": "https://magyaritasok.hu/dl/oblivion/TESIV_Oblivion_Remastered_MorroHUN_v1.02.zip",
           "kind": "direct"
         }
       ]
@@ -4804,10 +4852,10 @@
       "language": "Magyar",
       "hasText": true,
       "hasVoice": false,
-      "version": "1.3",
-      "updatedAt": "09.10.2026",
+      "version": "1.4",
+      "updatedAt": "26.10.2026",
       "requiredGameVersion": "2025-11-04",
-      "size": "4.49 MB",
+      "size": "4.50 MB",
       "pageUrl": "https://magyaritasok.hu/games/the-rise-of-the-golden-idol",
       "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
       "authorsHtml": "<p>mmatyas</p>",
@@ -4815,7 +4863,7 @@
       "mirrors": [
         {
           "label": "Magyarítások",
-          "url": "https://magyaritasok.hu/dl/TheRiseoftheGoldenIdol/GoldenIdol2_hun_v130.zip",
+          "url": "https://magyaritasok.hu/dl/TheRiseoftheGoldenIdol/GoldenIdol2_hun_v140.zip",
           "kind": "direct"
         }
       ]
@@ -5630,6 +5678,29 @@
       ]
     },
     {
+      "title": "Warhammer: Mark of Chaos - Gold Edition",
+      "studio": "Magyarítások",
+      "studioUrl": "https://magyaritasok.hu",
+      "language": "Magyar",
+      "hasText": true,
+      "hasVoice": false,
+      "version": "1.0",
+      "updatedAt": "04.04.2024",
+      "requiredGameVersion": "2.14",
+      "size": "972.8 B",
+      "pageUrl": "https://magyaritasok.hu/games/warhammer-mark-of-chaos-gold-edition",
+      "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
+      "authorsHtml": "<p>Seven m</p>",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Magyarítások",
+          "url": "https://magyaritasok.hu/dl/WarhammerMarkofChaos/Warhammer_MarkofChaos_GoldEdition.zip",
+          "kind": "direct"
+        }
+      ]
+    },
+    {
       "steamAppId": "1608640",
       "title": "OTXO",
       "studio": "Magyarítások",
@@ -5911,6 +5982,30 @@
         {
           "label": "Magyarítások",
           "url": "https://magyaritasok.hu/dl/AvatarFrontiersofPandora/AvatarFoP_magyaritas_v101.exe",
+          "kind": "direct"
+        }
+      ]
+    },
+    {
+      "steamAppId": "2114740",
+      "title": "Blasphemous II",
+      "studio": "Magyarítások",
+      "studioUrl": "https://magyaritasok.hu",
+      "language": "Magyar",
+      "hasText": true,
+      "hasVoice": false,
+      "version": "1.03",
+      "updatedAt": "01.07.2026",
+      "requiredGameVersion": "3.0.0-cs73341",
+      "size": "1.46 MB",
+      "pageUrl": "https://magyaritasok.hu/games/blasphemous-ii",
+      "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
+      "authorsHtml": "<p>The_Reaper_CooL</p>",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Magyarítások",
+          "url": "https://magyaritasok.hu/dl/Blasphemous2/Blasphemous2HUNbyTRC_1.03.zip",
           "kind": "direct"
         }
       ]
@@ -10872,6 +10967,30 @@
       ]
     },
     {
+      "steamAppId": "1284410",
+      "title": "Gwent: The Witcher Card Game",
+      "studio": "Magyarítások",
+      "studioUrl": "https://magyaritasok.hu",
+      "language": "Magyar",
+      "hasText": true,
+      "hasVoice": false,
+      "version": "1.17",
+      "updatedAt": "10.12.2023",
+      "requiredGameVersion": "11.10.3",
+      "size": "11.0 MB",
+      "pageUrl": "https://magyaritasok.hu/games/gwent-the-witcher-card-game",
+      "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
+      "authorsHtml": "<p>JohnAngel</p>",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Magyarítások",
+          "url": "https://magyaritasok.hu/dl/Gwent/GWENT_magyaritas_v11.10v4.exe",
+          "kind": "direct"
+        }
+      ]
+    },
+    {
       "steamAppId": "720350",
       "title": "Mundaun",
       "studio": "Magyarítások",
@@ -10943,6 +11062,30 @@
       ]
     },
     {
+      "steamAppId": "298880",
+      "title": "Lords of Xulima: The Talisman of Golot",
+      "studio": "Magyarítások",
+      "studioUrl": "https://magyaritasok.hu",
+      "language": "Magyar",
+      "hasText": true,
+      "hasVoice": false,
+      "version": "1.2",
+      "updatedAt": "03.02.2020",
+      "requiredGameVersion": "2.1.1",
+      "size": "4.72 MB",
+      "pageUrl": "https://magyaritasok.hu/games/lords-of-xulima-the-talisman-of-golot",
+      "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
+      "authorsHtml": null,
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Magyarítások",
+          "url": "https://magyaritasok.hu/dl/LordsOfXulima/LordsOfXulimaHun.1.2.zip",
+          "kind": "direct"
+        }
+      ]
+    },
+    {
       "steamAppId": "774361",
       "title": "Blasphemous",
       "studio": "Magyarítások",
@@ -10962,6 +11105,29 @@
         {
           "label": "Magyarítások",
           "url": "https://magyaritasok.hu/dl/Blasphemous/BlasphemousByTRC_1.14.zip",
+          "kind": "direct"
+        }
+      ]
+    },
+    {
+      "title": "Jane's Hotel: Family Hero",
+      "studio": "Magyarítások",
+      "studioUrl": "https://magyaritasok.hu",
+      "language": "Magyar",
+      "hasText": true,
+      "hasVoice": false,
+      "version": null,
+      "updatedAt": "18.06.2014",
+      "requiredGameVersion": null,
+      "size": "1.70 MB",
+      "pageUrl": "https://magyaritasok.hu/games/janes-hotel-family-hero",
+      "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
+      "authorsHtml": "<p>Panyi</p>",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Magyarítások",
+          "url": "https://magyaritasok.hu/dl/janeshotel2/janeshotel2-hun.rar",
           "kind": "direct"
         }
       ]
@@ -27752,6 +27918,549 @@
         {
           "label": "Magyarítások",
           "url": "https://magyaritasok.hu/dl/sacredcitadel/saci_steam_hun.exe",
+          "kind": "direct"
+        }
+      ]
+    },
+    {
+      "steamAppId": "42960",
+      "title": "Victoria II",
+      "studio": "Magyarítások",
+      "studioUrl": "https://magyaritasok.hu",
+      "language": "Magyar",
+      "hasText": true,
+      "hasVoice": false,
+      "version": null,
+      "updatedAt": "18.06.2014",
+      "requiredGameVersion": null,
+      "size": "3.16 MB",
+      "pageUrl": "https://magyaritasok.hu/games/victoria-ii",
+      "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
+      "authorsHtml": "<p>RaveAir</p>",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Magyarítások",
+          "url": "https://magyaritasok.hu/dl/victoria2/vic2_VRRP.zip",
+          "kind": "direct"
+        }
+      ]
+    },
+    {
+      "steamAppId": "95900",
+      "title": "Air Conflicts: Secret Wars",
+      "studio": "Magyarítások",
+      "studioUrl": "https://magyaritasok.hu",
+      "language": "Magyar",
+      "hasText": true,
+      "hasVoice": false,
+      "version": null,
+      "updatedAt": "17.06.2014",
+      "requiredGameVersion": null,
+      "size": "856 KB",
+      "pageUrl": "https://magyaritasok.hu/games/air-conflicts-secret-wars",
+      "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
+      "authorsHtml": "<p>RaveAir</p>",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Magyarítások",
+          "url": "https://magyaritasok.hu/dl/airconflictssecretwars/ACSWmagyar.zip",
+          "kind": "direct"
+        }
+      ]
+    },
+    {
+      "steamAppId": "596620",
+      "title": "Gas Guzzlers: Combat Carnage",
+      "studio": "Magyarítások",
+      "studioUrl": "https://magyaritasok.hu",
+      "language": "Magyar",
+      "hasText": true,
+      "hasVoice": false,
+      "version": null,
+      "updatedAt": "17.06.2014",
+      "requiredGameVersion": null,
+      "size": "2.58 MB",
+      "pageUrl": "https://magyaritasok.hu/games/gas-guzzlers-combat-carnage",
+      "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
+      "authorsHtml": null,
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Magyarítások",
+          "url": "https://magyaritasok.hu/dl/gasguzzlers_combatcarnage/GasGuzzlersHUN.exe",
+          "kind": "direct"
+        }
+      ]
+    },
+    {
+      "title": "Age of Pirates 2: City of Abandoned Ships",
+      "studio": "Magyarítások",
+      "studioUrl": "https://magyaritasok.hu",
+      "language": "Magyar",
+      "hasText": true,
+      "hasVoice": false,
+      "version": null,
+      "updatedAt": "17.06.2014",
+      "requiredGameVersion": null,
+      "size": "2.78 MB",
+      "pageUrl": "https://magyaritasok.hu/games/age-of-pirates-2-city-of-abandoned-ships",
+      "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
+      "authorsHtml": "<p>RaveAir</p>",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Magyarítások",
+          "url": "https://magyaritasok.hu/dl/ageofpirates2/AoP2HUN.exe",
+          "kind": "direct"
+        }
+      ]
+    },
+    {
+      "steamAppId": "205610",
+      "title": "Port Royale 3: Pirates & Merchants",
+      "studio": "Magyarítások",
+      "studioUrl": "https://magyaritasok.hu",
+      "language": "Magyar",
+      "hasText": true,
+      "hasVoice": false,
+      "version": null,
+      "updatedAt": "17.06.2014",
+      "requiredGameVersion": null,
+      "size": "285 KB",
+      "pageUrl": "https://magyaritasok.hu/games/port-royale-3-pirates-merchants",
+      "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
+      "authorsHtml": null,
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Magyarítások",
+          "url": "https://magyaritasok.hu/dl/portroyale3/PortRoyale3Hun.exe",
+          "kind": "direct"
+        }
+      ]
+    },
+    {
+      "steamAppId": "227480",
+      "title": "God Mode",
+      "studio": "Magyarítások",
+      "studioUrl": "https://magyaritasok.hu",
+      "language": "Magyar",
+      "hasText": true,
+      "hasVoice": false,
+      "version": null,
+      "updatedAt": "17.06.2014",
+      "requiredGameVersion": null,
+      "size": "529 KB",
+      "pageUrl": "https://magyaritasok.hu/games/god-mode",
+      "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
+      "authorsHtml": null,
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Magyarítások",
+          "url": "https://magyaritasok.hu/dl/godmode/GodModeHUN.exe",
+          "kind": "direct"
+        }
+      ]
+    },
+    {
+      "title": "Patrician IV: Rise of a Dynasty",
+      "studio": "Magyarítások",
+      "studioUrl": "https://magyaritasok.hu",
+      "language": "Magyar",
+      "hasText": true,
+      "hasVoice": false,
+      "version": null,
+      "updatedAt": "17.06.2014",
+      "requiredGameVersion": null,
+      "size": "389 KB",
+      "pageUrl": "https://magyaritasok.hu/games/patrician-iv-rise-of-a-dynasty",
+      "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
+      "authorsHtml": null,
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Magyarítások",
+          "url": "https://magyaritasok.hu/dl/patrician4/PatricianIVRoadHun.exe",
+          "kind": "direct"
+        }
+      ]
+    },
+    {
+      "title": "Patrician IV",
+      "studio": "Magyarítások",
+      "studioUrl": "https://magyaritasok.hu",
+      "language": "Magyar",
+      "hasText": true,
+      "hasVoice": false,
+      "version": null,
+      "updatedAt": "17.06.2014",
+      "requiredGameVersion": null,
+      "size": "410 KB",
+      "pageUrl": "https://magyaritasok.hu/games/patrician-iv",
+      "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
+      "authorsHtml": null,
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Magyarítások",
+          "url": "https://magyaritasok.hu/dl/patrician4/PatricianIVHun.exe",
+          "kind": "direct"
+        }
+      ]
+    },
+    {
+      "steamAppId": "35320",
+      "title": "Insane 2",
+      "studio": "Magyarítások",
+      "studioUrl": "https://magyaritasok.hu",
+      "language": "Magyar",
+      "hasText": true,
+      "hasVoice": false,
+      "version": null,
+      "updatedAt": "17.06.2014",
+      "requiredGameVersion": null,
+      "size": "40.3 MB",
+      "pageUrl": "https://magyaritasok.hu/games/insane-2",
+      "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
+      "authorsHtml": null,
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Magyarítások",
+          "url": "https://magyaritasok.hu/dl/insane2/Insane2HUN.exe",
+          "kind": "direct"
+        }
+      ]
+    },
+    {
+      "steamAppId": "287450",
+      "title": "Rise of Nations: Extended Edition",
+      "studio": "Magyarítások",
+      "studioUrl": "https://magyaritasok.hu",
+      "language": "Magyar",
+      "hasText": true,
+      "hasVoice": false,
+      "version": "1.3",
+      "updatedAt": "16.11.2018",
+      "requiredGameVersion": "1.20",
+      "size": "1.74 MB",
+      "pageUrl": "https://magyaritasok.hu/games/rise-of-nations-extended-edition",
+      "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
+      "authorsHtml": "<p>Cyrus, Panyi</p>",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Magyarítások",
+          "url": "https://magyaritasok.hu/dl/riseofnations/RoNEE_HUN_1.3.rar",
+          "kind": "direct"
+        }
+      ]
+    },
+    {
+      "steamAppId": "286480",
+      "title": "Black Mirror III: Final Fear",
+      "studio": "Magyarítások",
+      "studioUrl": "https://magyaritasok.hu",
+      "language": "Magyar",
+      "hasText": true,
+      "hasVoice": false,
+      "version": "1.1",
+      "updatedAt": "05.10.2025",
+      "requiredGameVersion": null,
+      "size": "57.7 MB",
+      "pageUrl": "https://magyaritasok.hu/games/black-mirror-iii-final-fear",
+      "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
+      "authorsHtml": "<p>RaveAir</p>",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Magyarítások",
+          "url": "https://magyaritasok.hu/dl/theblackmirror3/BlackMirrorIII_hun_KCsT_v1.1.zip",
+          "kind": "direct"
+        }
+      ]
+    },
+    {
+      "steamAppId": "237930",
+      "title": "Transistor",
+      "studio": "Magyarítások",
+      "studioUrl": "https://magyaritasok.hu",
+      "language": "Magyar",
+      "hasText": true,
+      "hasVoice": false,
+      "version": "1.01",
+      "updatedAt": "24.08.2020",
+      "requiredGameVersion": null,
+      "size": "1.19 MB",
+      "pageUrl": "https://magyaritasok.hu/games/transistor",
+      "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
+      "authorsHtml": "<p>Panyi, ·f·i· csoport</p>",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Magyarítások",
+          "url": "https://magyaritasok.hu/dl/transistor/setup-TransistorHU-v1.01.exe",
+          "kind": "direct"
+        }
+      ]
+    },
+    {
+      "title": "Fallout 3: Operation Anchorage",
+      "studio": "Magyarítások",
+      "studioUrl": "https://magyaritasok.hu",
+      "language": "Magyar",
+      "hasText": true,
+      "hasVoice": false,
+      "version": null,
+      "updatedAt": "31.08.2015",
+      "requiredGameVersion": null,
+      "size": "243 KB",
+      "pageUrl": "https://magyaritasok.hu/games/fallout-3-operation-anchorage",
+      "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
+      "authorsHtml": null,
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Magyarítások",
+          "url": "https://magyaritasok.hu/dl/fallout3/fallout3_anchorage_hun.zip",
+          "kind": "direct"
+        }
+      ]
+    },
+    {
+      "steamAppId": "6020",
+      "title": "Star Wars: Jedi Knight - Jedi Academy",
+      "studio": "Magyarítások",
+      "studioUrl": "https://magyaritasok.hu",
+      "language": "Magyar",
+      "hasText": true,
+      "hasVoice": false,
+      "version": null,
+      "updatedAt": "27.04.2018",
+      "requiredGameVersion": null,
+      "size": "1.18 MB",
+      "pageUrl": "https://magyaritasok.hu/games/star-wars-jedi-knight-jedi-academy",
+      "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
+      "authorsHtml": "<p>Cyrus, RaveAir, GameHunter TEAM</p>",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Magyarítások",
+          "url": "https://magyaritasok.hu/dl/jediacademy/jediacademy.exe",
+          "kind": "direct"
+        }
+      ]
+    },
+    {
+      "title": "Medal of Honor: Allied Assault - Spearhead",
+      "studio": "Magyarítások",
+      "studioUrl": "https://magyaritasok.hu",
+      "language": "Magyar",
+      "hasText": true,
+      "hasVoice": false,
+      "version": "1.00",
+      "updatedAt": "29.05.2015",
+      "requiredGameVersion": null,
+      "size": "8.75 MB",
+      "pageUrl": "https://magyaritasok.hu/games/medal-of-honor-allied-assault-spearhead",
+      "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
+      "authorsHtml": "<p>Panyi, Andy</p>",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Magyarítások",
+          "url": "https://magyaritasok.hu/dl/mohaa_spearhead/spearhead.exe",
+          "kind": "direct"
+        }
+      ]
+    },
+    {
+      "title": "True Crime: Streets of LA",
+      "studio": "Magyarítások",
+      "studioUrl": "https://magyaritasok.hu",
+      "language": "Magyar",
+      "hasText": true,
+      "hasVoice": false,
+      "version": null,
+      "updatedAt": "14.06.2014",
+      "requiredGameVersion": null,
+      "size": "11.7 MB",
+      "pageUrl": "https://magyaritasok.hu/games/true-crime-streets-of-la",
+      "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
+      "authorsHtml": "<p>Panyi, Andy</p>",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Magyarítások",
+          "url": "https://magyaritasok.hu/dl/truecrime/true_crime_la_hun_by_i2k.exe",
+          "kind": "direct"
+        }
+      ]
+    },
+    {
+      "steamAppId": "533060",
+      "title": "PuppetShow : Mystery Of Joyville",
+      "studio": "Magyarítások",
+      "studioUrl": "https://magyaritasok.hu",
+      "language": "Magyar",
+      "hasText": true,
+      "hasVoice": false,
+      "version": null,
+      "updatedAt": "20.06.2014",
+      "requiredGameVersion": null,
+      "size": "9.60 MB",
+      "pageUrl": "https://magyaritasok.hu/games/puppetshow-mystery-of-joyville",
+      "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
+      "authorsHtml": "<p>RaveAir</p>",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Magyarítások",
+          "url": "https://magyaritasok.hu/dl/puppetshow/PuppetShow_MysteryofJoyville.exe",
+          "kind": "direct"
+        }
+      ]
+    },
+    {
+      "steamAppId": "626840",
+      "title": "Shadow Wolf Mysteries: Curse of the Full Moon Collector's Edition",
+      "studio": "Magyarítások",
+      "studioUrl": "https://magyaritasok.hu",
+      "language": "Magyar",
+      "hasText": true,
+      "hasVoice": false,
+      "version": "1.0",
+      "updatedAt": "13.06.2014",
+      "requiredGameVersion": null,
+      "size": "22.6 MB",
+      "pageUrl": "https://magyaritasok.hu/games/shadow-wolf-mysteries-curse-of-the-full-moon-collectors-edition",
+      "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
+      "authorsHtml": "<p>RaveAir</p>",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Magyarítások",
+          "url": "https://magyaritasok.hu/dl/shadow_wolf_mysteries/Shadow_Wolf_Mysteries_Curse_of_the_Full_Moon.exe",
+          "kind": "direct"
+        }
+      ]
+    },
+    {
+      "title": "Sacra Terra: Angelic Night",
+      "studio": "Magyarítások",
+      "studioUrl": "https://magyaritasok.hu",
+      "language": "Magyar",
+      "hasText": true,
+      "hasVoice": false,
+      "version": null,
+      "updatedAt": "21.10.2020",
+      "requiredGameVersion": null,
+      "size": "2.73 MB",
+      "pageUrl": "https://magyaritasok.hu/games/sacra-terra-angelic-night",
+      "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
+      "authorsHtml": "<p>RaveAir</p>",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Magyarítások",
+          "url": "https://magyaritasok.hu/dl/sacra_terra_angelic_night/Sacra_Terra_magyaritas.zip",
+          "kind": "direct"
+        }
+      ]
+    },
+    {
+      "steamAppId": "38460",
+      "title": "MDK2",
+      "studio": "Magyarítások",
+      "studioUrl": "https://magyaritasok.hu",
+      "language": "Magyar",
+      "hasText": true,
+      "hasVoice": false,
+      "version": null,
+      "updatedAt": "12.06.2014",
+      "requiredGameVersion": null,
+      "size": "88 KB",
+      "pageUrl": "https://magyaritasok.hu/games/mdk2",
+      "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
+      "authorsHtml": null,
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Magyarítások",
+          "url": "https://magyaritasok.hu/dl/mdk2/mdk2.zip",
+          "kind": "direct"
+        }
+      ]
+    },
+    {
+      "title": "Age of Empires II: The Conquerors",
+      "studio": "Magyarítások",
+      "studioUrl": "https://magyaritasok.hu",
+      "language": "Magyar",
+      "hasText": true,
+      "hasVoice": false,
+      "version": null,
+      "updatedAt": "01.06.2014",
+      "requiredGameVersion": null,
+      "size": "3.63 MB",
+      "pageUrl": "https://magyaritasok.hu/games/age-of-empires-ii-the-conquerors",
+      "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
+      "authorsHtml": null,
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Magyarítások",
+          "url": "https://magyaritasok.hu/dl/aoe2/age_of_empires2_conq.rar",
+          "kind": "direct"
+        }
+      ]
+    },
+    {
+      "steamAppId": "3260",
+      "title": "Safecracker: The Ultimate Puzzle Adventure",
+      "studio": "Magyarítások",
+      "studioUrl": "https://magyaritasok.hu",
+      "language": "Magyar",
+      "hasText": true,
+      "hasVoice": false,
+      "version": null,
+      "updatedAt": "12.06.2014",
+      "requiredGameVersion": null,
+      "size": "5.63 MB",
+      "pageUrl": "https://magyaritasok.hu/games/safecracker-the-ultimate-puzzle-adventure",
+      "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
+      "authorsHtml": null,
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Magyarítások",
+          "url": "https://magyaritasok.hu/dl/safecracker/safecracker_hun.exe",
+          "kind": "direct"
+        }
+      ]
+    },
+    {
+      "title": "Might and Magic VII: For Blood and Honor",
+      "studio": "Magyarítások",
+      "studioUrl": "https://magyaritasok.hu",
+      "language": "Magyar",
+      "hasText": true,
+      "hasVoice": false,
+      "version": "1.00",
+      "updatedAt": "12.06.2014",
+      "requiredGameVersion": null,
+      "size": "41.3 MB",
+      "pageUrl": "https://magyaritasok.hu/games/might-and-magic-vii-for-blood-and-honor",
+      "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
+      "authorsHtml": null,
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Magyarítások",
+          "url": "https://magyaritasok.hu/dl/mightandmagic7/mm7-hun-100.rar",
           "kind": "direct"
         }
       ]
