@@ -15,17 +15,17 @@
       "hasNeuralVoice": false,
       "hasNeuralDub": false,
       "hasNeuralText": false,
-      "version": "1",
-      "updatedAt": "24.10.2026",
+      "version": "2",
+      "updatedAt": "26.10.2026",
       "pageUrl": "https://www.calypsoceviri.com/turkce-yamalar/call-of-duty-modern-warfare-4-turkce-yama-indir",
       "howToInstallHtml": "<div>Aşağıda vermiş olduğumuz linkten indirdiğiniz Rar dosyasındaki Türkçe Yama exesini, oyunun kurulu olduğu ana dosya konumuna atarak, Türkçe yama exesini çalıştırın. Oyunun ana dosya konumunun seçili olduğunu kontrol ettikten sonra, hangi platformdan oynuyorsanız, o platformun yükle butonuna basarak yamayı yükleyebilirsiniz. <br><br>Yamayı kaldırmak isterseniz, oyunun dosya konumundaki \"CodMF4_YamaKaldır.exe\"'yi kullanarak, yamayı kaldırabilirsiniz.</div>",
       "authorsHtml": "<p>VolkTyson</p>",
-      "size": "7.28 MB",
+      "size": "11.6 MB",
       "inDevelopment": false,
       "mirrors": [
         {
           "label": "Calypso Çeviri",
-          "url": "https://www.calypsoceviri.com/_files/archives/7d262d_4f545bf6952c4c8bb7c7d4d2b7687ddf.zip?dn=Call%2520Of%2520Duty%2520Modern%2520Warfare%25204%2520T%25C3%25BCrk%25C3%25A7e%2520Yama%2520V1.zip",
+          "url": "https://www.calypsoceviri.com/_files/archives/7d262d_d4a719fce68a416b86ba1658a94894a4.zip?dn=Call%2520Of%2520Duty%2520Modern%2520Warfare%25204%2520T%25C3%25BCrk%25C3%25A7e%2520Yama%2520V2.zip",
           "kind": "direct"
         }
       ],
@@ -1595,33 +1595,6 @@
         }
       ],
       "steamAppId": "2989180"
-    },
-    {
-      "title": "Starsand Island",
-      "studio": "Calypso Çeviri",
-      "studioUrl": "https://www.calypsoceviri.com",
-      "language": "Türkçe",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": "5",
-      "updatedAt": "20.09.2026",
-      "pageUrl": "https://www.calypsoceviri.com/turkce-yamalar/starsand-island-turkce-yama-indir",
-      "howToInstallHtml": "<div>Aşağıda vermiş olduğumuz linkten indirdiğiniz Rar dosyasındaki Türkçe Yama exesini, oyunun kurulu olduğu ana dosya konumuna atarak, Türkçe yama exesini çalıştırın. Oyunun ana dosya konumunun seçili olduğunu kontrol ettikten sonra, hangi platformdan oynuyorsanız, o platformun yükle butonuna basarak yamayı yükleyebilirsiniz. <br><br>Yamayı kaldırmak için oyunun dosyalarını doğrulamanız gerekiyor.</div>",
-      "authorsHtml": "<p>VolkTyson, Sweaty, Indra, Mirayae</p>",
-      "size": "34.4 MB",
-      "inDevelopment": false,
-      "mirrors": [
-        {
-          "label": "Calypso Çeviri",
-          "url": "https://www.calypsoceviri.com/_files/archives/7d262d_1b1fb4317a20486d808f17208a931829.zip?dn=Starsand%2520Island%2520T%25C3%25BCrk%25C3%25A7e%2520Yama%2520V5.zip",
-          "kind": "direct"
-        }
-      ],
-      "steamAppId": "2966320"
     },
     {
       "title": "Life is Strange: Reunion",

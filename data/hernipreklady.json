@@ -5,6 +5,28 @@
   "siteUrl": "https://hernipreklady.cz",
   "localizations": [
     {
+      "title": "Silver Pines",
+      "studio": "HerníPřeklady",
+      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/silver-pines",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": "1.00",
+      "updatedAt": null,
+      "requiredGameVersion": "Hotfix 2",
+      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/silver-pines",
+      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
+      "authorsHtml": null,
+      "inDevelopment": true,
+      "size": null,
+      "mirrors": [],
+      "steamAppId": "2333000"
+    },
+    {
       "title": "End of Abyss",
       "studio": "HerníPřeklady",
       "studioUrl": "https://hernipreklady.cz/seznam-prekladu/end-of-abyss",
@@ -195,9 +217,9 @@
       "steamAppId": "1601580"
     },
     {
-      "title": "Wartales + DLC",
+      "title": "Dune: Spice Wars",
       "studio": "HerníPřeklady",
-      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/wartales-dlc",
+      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/dune-spice-wars",
       "language": "Čeština",
       "hasText": true,
       "hasVoice": false,
@@ -205,22 +227,50 @@
       "hasNeuralVoice": false,
       "hasNeuralDub": false,
       "hasNeuralText": false,
-      "version": "2.7",
-      "updatedAt": null,
-      "requiredGameVersion": "1.0.48274",
-      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/wartales-dlc",
+      "version": "1.12",
+      "updatedAt": "07.02.2026",
+      "requiredGameVersion": "2.2.7.32974+",
+      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/dune-spice-wars",
       "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
-      "authorsHtml": "<p><strong>Překlad a testování:</strong> Andrewek</p>",
+      "authorsHtml": "<p><strong>Překlad:</strong> Jetro, Coffin Corner, Ralph Shepard, Spid3rCZ<br><strong>Testování:</strong> Andrewek</p>",
       "inDevelopment": false,
-      "size": "154.0 MB",
+      "size": "7.23 MB",
       "mirrors": [
         {
           "label": "HerníPřeklady",
-          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=629",
+          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=519",
           "kind": "direct"
         }
       ],
-      "steamAppId": "1527950"
+      "steamAppId": "1605220"
+    },
+    {
+      "title": "The Dark Pictures: Little Hope",
+      "studio": "HerníPřeklady",
+      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/the-dark-pictures-little-hope",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": "1.11",
+      "updatedAt": "23.11.2024",
+      "requiredGameVersion": "Aktuální",
+      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/the-dark-pictures-little-hope",
+      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
+      "authorsHtml": null,
+      "inDevelopment": false,
+      "size": "78.3 MB",
+      "mirrors": [
+        {
+          "label": "HerníPřeklady",
+          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=294",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "1194630"
     },
     {
       "title": "Diablo II Resurrected Infernal Edition",
@@ -251,6 +301,34 @@
       "steamAppId": "2536520"
     },
     {
+      "title": "Frostpunk",
+      "studio": "HerníPřeklady",
+      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/frostpunk",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": "1.18",
+      "updatedAt": "06.02.2024",
+      "requiredGameVersion": "1.6.2",
+      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/frostpunk",
+      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
+      "authorsHtml": "<p><strong>Překlad:</strong> Jetro, Coffin Corner, Ralph Shepard<br><strong>Testování:</strong> Ralph Shepard, Jetro, Barbar</p>",
+      "inDevelopment": false,
+      "size": "10.1 MB",
+      "mirrors": [
+        {
+          "label": "HerníPřeklady",
+          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=126",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "323190"
+    },
+    {
       "title": "Songs of Conquest",
       "studio": "HerníPřeklady",
       "studioUrl": "https://hernipreklady.cz/seznam-prekladu/songs-of-conquest",
@@ -277,62 +355,6 @@
         }
       ],
       "steamAppId": "867210"
-    },
-    {
-      "title": "Shadow Gambit: The Cursed Crew Complete Edition",
-      "studio": "HerníPřeklady",
-      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/shadow-gambit-the-cursed-crew-complete-edition",
-      "language": "Čeština",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": "1.2",
-      "updatedAt": "21.04.2026",
-      "requiredGameVersion": "1.2.133.r40893.f",
-      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/shadow-gambit-the-cursed-crew-complete-edition",
-      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
-      "authorsHtml": "<p><strong>Překlad a test:</strong> Andrewek</p>",
-      "inDevelopment": false,
-      "size": "200.0 MB",
-      "mirrors": [
-        {
-          "label": "HerníPřeklady",
-          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=560",
-          "kind": "direct"
-        }
-      ],
-      "steamAppId": "1545560"
-    },
-    {
-      "title": "The Quarry",
-      "studio": "HerníPřeklady",
-      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/the-quarry",
-      "language": "Čeština",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": "1.40",
-      "updatedAt": "04.02.2024",
-      "requiredGameVersion": "Aktuální",
-      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/the-quarry",
-      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
-      "authorsHtml": null,
-      "inDevelopment": false,
-      "size": "46.6 MB",
-      "mirrors": [
-        {
-          "label": "HerníPřeklady",
-          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=76",
-          "kind": "direct"
-        }
-      ],
-      "steamAppId": "1577120"
     },
     {
       "title": "Cthulhu: The Cosmic Abyss",
@@ -2028,34 +2050,6 @@
       ]
     },
     {
-      "title": "Dune: Spice Wars",
-      "studio": "HerníPřeklady",
-      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/dune-spice-wars",
-      "language": "Čeština",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": "1.12",
-      "updatedAt": "07.02.2026",
-      "requiredGameVersion": "2.2.7.32974+",
-      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/dune-spice-wars",
-      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
-      "authorsHtml": "<p><strong>Překlad:</strong> Jetro, Coffin Corner, Ralph Shepard, Spid3rCZ<br><strong>Testování:</strong> Andrewek</p>",
-      "inDevelopment": false,
-      "size": "7.23 MB",
-      "mirrors": [
-        {
-          "label": "HerníPřeklady",
-          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=519",
-          "kind": "direct"
-        }
-      ],
-      "steamAppId": "1605220"
-    },
-    {
       "title": "Terra Invicta",
       "studio": "HerníPřeklady",
       "studioUrl": "https://hernipreklady.cz/seznam-prekladu/terra-invicta",
@@ -2082,6 +2076,34 @@
         }
       ],
       "steamAppId": "1176470"
+    },
+    {
+      "title": "Shadow Gambit: The Cursed Crew Complete Edition",
+      "studio": "HerníPřeklady",
+      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/shadow-gambit-the-cursed-crew-complete-edition",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": "1.2",
+      "updatedAt": "21.04.2026",
+      "requiredGameVersion": "1.2.133.r40893.f",
+      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/shadow-gambit-the-cursed-crew-complete-edition",
+      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
+      "authorsHtml": "<p><strong>Překlad a test:</strong> Andrewek</p>",
+      "inDevelopment": false,
+      "size": "200.0 MB",
+      "mirrors": [
+        {
+          "label": "HerníPřeklady",
+          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=560",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "1545560"
     },
     {
       "title": "Kona 2: Brume",
@@ -3145,6 +3167,34 @@
       "steamAppId": "1449320"
     },
     {
+      "title": "The Quarry",
+      "studio": "HerníPřeklady",
+      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/the-quarry",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": "1.40",
+      "updatedAt": "04.02.2024",
+      "requiredGameVersion": "Aktuální",
+      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/the-quarry",
+      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
+      "authorsHtml": null,
+      "inDevelopment": false,
+      "size": "46.6 MB",
+      "mirrors": [
+        {
+          "label": "HerníPřeklady",
+          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=76",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "1577120"
+    },
+    {
       "title": "The Walking Dead: Saints & Sinners - Chapter 2: Retribution VR",
       "studio": "HerníPřeklady",
       "studioUrl": "https://hernipreklady.cz/seznam-prekladu/the-walking-dead-saints-sinners-chapter-2-retribution-vr",
@@ -3227,6 +3277,34 @@
         }
       ],
       "steamAppId": "428660"
+    },
+    {
+      "title": "Wartales + DLC",
+      "studio": "HerníPřeklady",
+      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/wartales-dlc",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": "2.7",
+      "updatedAt": null,
+      "requiredGameVersion": "1.0.48274",
+      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/wartales-dlc",
+      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
+      "authorsHtml": "<p><strong>Překlad a testování:</strong> Andrewek</p>",
+      "inDevelopment": false,
+      "size": "154.0 MB",
+      "mirrors": [
+        {
+          "label": "HerníPřeklady",
+          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=629",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "1527950"
     },
     {
       "title": "Returnal",
@@ -3703,34 +3781,6 @@
       "steamAppId": "1599560"
     },
     {
-      "title": "The Dark Pictures: Little Hope",
-      "studio": "HerníPřeklady",
-      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/the-dark-pictures-little-hope",
-      "language": "Čeština",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": "1.11",
-      "updatedAt": "23.11.2024",
-      "requiredGameVersion": "Aktuální",
-      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/the-dark-pictures-little-hope",
-      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
-      "authorsHtml": null,
-      "inDevelopment": false,
-      "size": "78.3 MB",
-      "mirrors": [
-        {
-          "label": "HerníPřeklady",
-          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=294",
-          "kind": "direct"
-        }
-      ],
-      "steamAppId": "1194630"
-    },
-    {
       "title": "The Chant",
       "studio": "HerníPřeklady",
       "studioUrl": "https://hernipreklady.cz/seznam-prekladu/the-chant",
@@ -3951,34 +4001,6 @@
         }
       ],
       "steamAppId": "1414650"
-    },
-    {
-      "title": "Frostpunk",
-      "studio": "HerníPřeklady",
-      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/frostpunk",
-      "language": "Čeština",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": "1.18",
-      "updatedAt": "06.02.2024",
-      "requiredGameVersion": "1.6.2",
-      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/frostpunk",
-      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
-      "authorsHtml": "<p><strong>Překlad:</strong> Jetro, Coffin Corner, Ralph Shepard<br><strong>Testování:</strong> Ralph Shepard, Jetro, Barbar</p>",
-      "inDevelopment": false,
-      "size": "10.1 MB",
-      "mirrors": [
-        {
-          "label": "HerníPřeklady",
-          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=126",
-          "kind": "direct"
-        }
-      ],
-      "steamAppId": "323190"
     },
     {
       "title": "Tales of Tomorrow: Experiment",
