@@ -338,17 +338,17 @@
       "hasNeuralVoice": false,
       "hasNeuralDub": false,
       "hasNeuralText": false,
-      "version": "2",
-      "updatedAt": "04.09.2026",
+      "version": "3",
+      "updatedAt": "27.10.2026",
       "pageUrl": "https://www.calypsoceviri.com/turkce-yamalar/mortal-shell-2-turkce-yama-indir",
       "howToInstallHtml": "<div>Aşağıda vermiş olduğumuz linkten indirdiğiniz Rar dosyasındaki Türkçe Yama exesini, oyunun kurulu olduğu ana dosya konumuna atarak, Türkçe yama exesini çalıştırın. Oyunun ana dosya konumunun seçili olduğunu kontrol ettikten sonra, hangi platformdan oynuyorsanız, o platformun yükle butonuna basarak yamayı yükleyebilirsiniz. <br><br>Yamayı kaldırmak isterseniz, oyunun dosya konumundaki \"MortalShell2_YamaKaldır.exe\"'si üzerinden kaldırabilirsiniz.</div>",
       "authorsHtml": "<p>VolkTyson, M3K1</p>",
-      "size": "4.78 MB",
+      "size": "4.83 MB",
       "inDevelopment": false,
       "mirrors": [
         {
           "label": "Calypso Çeviri",
-          "url": "https://www.calypsoceviri.com/_files/archives/7d262d_6c0002f6f89f4eeaa78150307ec3e2fc.zip?dn=Mortal%2520Shell%25202%2520T%25C3%25BCrk%25C3%25A7e%2520Yama%2520V2.zip",
+          "url": "https://www.calypsoceviri.com/_files/archives/7d262d_c5bff7bdb49f489a946e8334dd680ce1.zip?dn=Mortal%2520Shell%25202%2520T%25C3%25BCrk%25C3%25A7e%2520Yama%2520V3.zip",
           "kind": "direct"
         }
       ],
@@ -527,17 +527,17 @@
       "hasNeuralVoice": false,
       "hasNeuralDub": false,
       "hasNeuralText": false,
-      "version": "1",
-      "updatedAt": "03.08.2026",
+      "version": "2",
+      "updatedAt": "28.10.2026",
       "pageUrl": "https://www.calypsoceviri.com/turkce-yamalar/beast-of-reincarnation-turkce-yama-indir",
       "howToInstallHtml": "<div>Aşağıda vermiş olduğumuz linkten indirdiğiniz Rar dosyasındaki Türkçe Yama exesini, oyunun kurulu olduğu ana dosya konumuna atarak, Türkçe yama exesini çalıştırın. Oyunun ana dosya konumunun seçili olduğunu kontrol ettikten sonra, hangi platformdan oynuyorsanız, o platformun yükle butonuna basarak yamayı yükleyebilirsiniz. <br><br>Yamayı kaldırmak isterseniz, oyunun dosya konumundaki \"Reincarnation_YamaKaldır.exe\"'si üzerinden kaldırabilirsiniz.</div>",
       "authorsHtml": "<p>VolkTyson</p>",
-      "size": "40.8 MB",
+      "size": null,
       "inDevelopment": false,
       "mirrors": [
         {
           "label": "Calypso Çeviri",
-          "url": "https://www.calypsoceviri.com/_files/archives/7d262d_998f8cc40095473793e8e8352ca09584.rar?dn=Beast%2520of%2520Reincarnation%2520T%25C3%25BCrk%25C3%25A7e%2520Yama%2520V1.rar",
+          "url": "https://www.calypsoceviri.com/_files/archives/7d262d_3ea4f2346b5c4d5b90711984d92aec85.zip?dn=Beast%2520of%2520Reincarnation%2520T%25C3%25BCrk%25C3%25A7e%2520Yama%2520V2.zip",
           "kind": "direct"
         }
       ],
@@ -1595,6 +1595,33 @@
         }
       ],
       "steamAppId": "2989180"
+    },
+    {
+      "title": "Starsand Island",
+      "studio": "Calypso Çeviri",
+      "studioUrl": "https://www.calypsoceviri.com",
+      "language": "Türkçe",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": "5",
+      "updatedAt": "20.09.2026",
+      "pageUrl": "https://www.calypsoceviri.com/turkce-yamalar/starsand-island-turkce-yama-indir",
+      "howToInstallHtml": "<div>Aşağıda vermiş olduğumuz linkten indirdiğiniz Rar dosyasındaki Türkçe Yama exesini, oyunun kurulu olduğu ana dosya konumuna atarak, Türkçe yama exesini çalıştırın. Oyunun ana dosya konumunun seçili olduğunu kontrol ettikten sonra, hangi platformdan oynuyorsanız, o platformun yükle butonuna basarak yamayı yükleyebilirsiniz. <br><br>Yamayı kaldırmak için oyunun dosyalarını doğrulamanız gerekiyor.</div>",
+      "authorsHtml": "<p>VolkTyson, Sweaty, Indra, Mirayae</p>",
+      "size": "34.4 MB",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Calypso Çeviri",
+          "url": "https://www.calypsoceviri.com/_files/archives/7d262d_1b1fb4317a20486d808f17208a931829.zip?dn=Starsand%2520Island%2520T%25C3%25BCrk%25C3%25A7e%2520Yama%2520V5.zip",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "2966320"
     },
     {
       "title": "Life is Strange: Reunion",
@@ -2708,17 +2735,17 @@
       "hasNeuralVoice": false,
       "hasNeuralDub": false,
       "hasNeuralText": false,
-      "version": "6",
-      "updatedAt": "04.07.2026",
+      "version": "7",
+      "updatedAt": "27.10.2026",
       "pageUrl": "https://www.calypsoceviri.com/turkce-yamalar/the-last-caretaker-turkce-yama-indir",
       "howToInstallHtml": "<div>Aşağıda vermiş olduğumuz linkten indirdiğiniz Rar dosyasındaki Türkçe Yama exesini, oyunun kurulu olduğu ana dosya konumuna atarak, Türkçe yama exesini çalıştırın. Oyunun ana dosya konumunun seçili olduğunu kontrol ettikten sonra, hangi platformdan oynuyorsanız, o platformun yükle butonuna basarak yamayı yükleyebilirsiniz.<br><br>Yamayı kaldırmak için oyunun dosya konumundaki TheLastCaretaker_YamaKaldır.exe'sinden kaldırabilirsin.</div>",
       "authorsHtml": "<p>VolkTyson, HndGames</p>",
-      "size": "3.98 MB",
+      "size": "4.83 MB",
       "inDevelopment": false,
       "mirrors": [
         {
           "label": "Calypso Çeviri",
-          "url": "https://www.calypsoceviri.com/_files/archives/7d262d_fc46495b9311483bb201113910090685.rar?dn=The%2520Last%2520Caretaker%2520T%25C3%25BCrk%25C3%25A7e%2520Yama%2520V6.rar",
+          "url": "https://www.calypsoceviri.com/_files/archives/7d262d_408f5de969c84f14a1fa5a8f4d45141a.zip?dn=The%2520Last%2520Caretaker%2520T%25C3%25BCrk%25C3%25A7e%2520Yama%2520V7.zip",
           "kind": "direct"
         }
       ],
@@ -5944,17 +5971,17 @@
       "hasNeuralVoice": false,
       "hasNeuralDub": false,
       "hasNeuralText": false,
-      "version": "13",
-      "updatedAt": "20.10.2026",
+      "version": "14",
+      "updatedAt": "27.10.2026",
       "pageUrl": "https://www.calypsoceviri.com/turkce-yamalar/soulmask-turkce-yama-indir",
       "howToInstallHtml": "<div>Aşağıda vermiş olduğumuz linkten indirdiğiniz Rar dosyasındaki Türkçe Yama exesini, oyunun kurulu olduğu ana dosya konumuna atarak, Türkçe yama exesini çalıştırın. Oyunun ana dosya konumunun seçili olduğunu kontrol ettikten sonra, hangi platformdan oynuyorsanız, o platformun yükle butonuna basarak yamayı yükleyebilirsiniz. Yama yüklendikten sonra rar dosyasındaki kurulum notlarında yazan adımları, sırasıyla eksiksiz olarak tamamlamanız gerekiyor.<br><br>Yamayı kaldırmak için dosya konumundaki Soulmask_YamaKaldir.exe den yamayı kaldırabilirsiniz.</div>",
       "authorsHtml": "<p>VolkTyson</p>",
-      "size": "4.34 MB",
+      "size": "4.36 MB",
       "inDevelopment": false,
       "mirrors": [
         {
           "label": "Calypso Çeviri",
-          "url": "https://www.calypsoceviri.com/_files/archives/7d262d_fb61a6dc924a4718890befd5d4cfe3fd.zip?dn=Soulmask%2520T%25C3%25BCrk%25C3%25A7e%2520Yama%2520V13.zip",
+          "url": "https://www.calypsoceviri.com/_files/archives/7d262d_de83d957914c4cdeb745dd26bce21a03.zip?dn=Soulmask%2520T%25C3%25BCrk%25C3%25A7e%2520Yama%2520V14.zip",
           "kind": "direct"
         }
       ],
