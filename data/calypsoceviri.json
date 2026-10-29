@@ -5,6 +5,33 @@
   "siteUrl": "https://www.calypsoceviri.com",
   "localizations": [
     {
+      "title": "Phantom Blade Zero",
+      "studio": "Calypso Çeviri",
+      "studioUrl": "https://www.calypsoceviri.com",
+      "language": "Türkçe",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": "1",
+      "updatedAt": "29.10.2026",
+      "pageUrl": "https://www.calypsoceviri.com/turkce-yamalar/phantom-blade-zero-turkce-yama-indir",
+      "howToInstallHtml": "<div>Aşağıda vermiş olduğumuz linkten indirdiğiniz Rar dosyasındaki Türkçe Yama exesini, oyunun kurulu olduğu ana dosya konumuna atarak, Türkçe yama exesini çalıştırın. Oyunun ana dosya konumunun seçili olduğunu kontrol ettikten sonra, hangi platformdan oynuyorsanız, o platformun yükle butonuna basarak yamayı yükleyebilirsiniz. <br><br>Yamayı kaldırmak isterseniz, oyunun dosya konumundaki \"Phantom_YamaKaldır.exe\"'yi kullanarak, yamayı kaldırabilirsiniz.</div>",
+      "authorsHtml": "<p>VolkTyson, Indra</p>",
+      "size": "5.28 MB",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Calypso Çeviri",
+          "url": "https://www.calypsoceviri.com/_files/archives/7d262d_2f28a252ff2540eeaa45b15beebe06e4.zip?dn=Phantom%2520Blade%2520Zero%2520T%25C3%25BCrk%25C3%25A7e%2520Yama%2520V1.zip",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "4115450"
+    },
+    {
       "title": "Call of Duty Modern Warfare 4",
       "studio": "Calypso Çeviri",
       "studioUrl": "https://www.calypsoceviri.com",
@@ -15,8 +42,8 @@
       "hasNeuralVoice": false,
       "hasNeuralDub": false,
       "hasNeuralText": false,
-      "version": "2",
-      "updatedAt": "26.10.2026",
+      "version": "3",
+      "updatedAt": "28.10.2026",
       "pageUrl": "https://www.calypsoceviri.com/turkce-yamalar/call-of-duty-modern-warfare-4-turkce-yama-indir",
       "howToInstallHtml": "<div>Aşağıda vermiş olduğumuz linkten indirdiğiniz Rar dosyasındaki Türkçe Yama exesini, oyunun kurulu olduğu ana dosya konumuna atarak, Türkçe yama exesini çalıştırın. Oyunun ana dosya konumunun seçili olduğunu kontrol ettikten sonra, hangi platformdan oynuyorsanız, o platformun yükle butonuna basarak yamayı yükleyebilirsiniz. <br><br>Yamayı kaldırmak isterseniz, oyunun dosya konumundaki \"CodMF4_YamaKaldır.exe\"'yi kullanarak, yamayı kaldırabilirsiniz.</div>",
       "authorsHtml": "<p>VolkTyson</p>",
@@ -25,7 +52,7 @@
       "mirrors": [
         {
           "label": "Calypso Çeviri",
-          "url": "https://www.calypsoceviri.com/_files/archives/7d262d_d4a719fce68a416b86ba1658a94894a4.zip?dn=Call%2520Of%2520Duty%2520Modern%2520Warfare%25204%2520T%25C3%25BCrk%25C3%25A7e%2520Yama%2520V2.zip",
+          "url": "https://www.calypsoceviri.com/_files/archives/7d262d_27ef727ee92a4b9d8bca8fcdebfc6707.zip?dn=Call%2520Of%2520Duty%2520Modern%2520Warfare%25204%2520T%25C3%25BCrk%25C3%25A7e%2520Yama%2520V3.zip",
           "kind": "direct"
         }
       ],
@@ -311,8 +338,8 @@
       "hasNeuralVoice": false,
       "hasNeuralDub": false,
       "hasNeuralText": false,
-      "version": "2",
-      "updatedAt": "03.09.2026",
+      "version": "3",
+      "updatedAt": "28.10.2026",
       "pageUrl": "https://www.calypsoceviri.com/turkce-yamalar/assassins-creed-black-flag-resynced-turkce-yama-indir",
       "howToInstallHtml": "<div>Aşağıda vermiş olduğumuz linkten indirdiğiniz Rar dosyasındaki Türkçe Yama exesini, oyunun kurulu olduğu ana dosya konumuna atarak, Türkçe yama exesini çalıştırın. Oyunun ana dosya konumunun seçili olduğunu kontrol ettikten sonra, hangi platformdan oynuyorsanız, o platformun yükle butonuna basarak yamayı yükleyebilirsiniz. <br><br>Yamayı kaldırmak isterseniz, oyunun dosyalarını doğrulamanız gerekiyor.</div>",
       "authorsHtml": "<p>VolkTyson, Sweaty</p>",
@@ -321,7 +348,7 @@
       "mirrors": [
         {
           "label": "Calypso Çeviri",
-          "url": "https://www.calypsoceviri.com/_files/archives/7d262d_25732b117fc64cc98562b72b0527fbe3.zip?dn=Assassins%2520Creed%2520Black%2520Flag%2520Resynced%2520T%25C3%25BCrk%25C3%25A7e%2520Yama%2520V2.zip",
+          "url": "https://www.calypsoceviri.com/_files/archives/7d262d_ded8174491494b41ae3aa1909fbb1768.zip?dn=Assassins%2520Creed%2520Black%2520Flag%2520Resynced%2520T%25C3%25BCrk%25C3%25A7e%2520Yama%2520V3.zip",
           "kind": "direct"
         }
       ],
@@ -3585,7 +3612,8 @@
           "url": "https://www.calypsoceviri.com/_files/archives/7d262d_6ed3449c157a4ba0913edec26f44a845.rar?dn=Hue%2520T%25C3%25BCrk%25C3%25A7e%2520Yama%2520V1.rar",
           "kind": "direct"
         }
-      ]
+      ],
+      "steamAppId": "383270"
     },
     {
       "title": "Ninja Gaiden: Ragebound",
