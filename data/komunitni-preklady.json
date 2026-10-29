@@ -1430,7 +1430,7 @@
           "kind": "direct"
         }
       ],
-      "steamAppId": "1366950"
+      "steamAppId": "302080"
     },
     {
       "title": "Duke Nukem 3D",
@@ -6276,8 +6276,8 @@
       "hasNeuralVoice": false,
       "hasNeuralDub": false,
       "hasNeuralText": true,
-      "version": "0.4",
-      "updatedAt": "27.10.2026",
+      "version": "0.5",
+      "updatedAt": "28.10.2026",
       "requiredGameVersion": "1.5",
       "pageUrl": "https://komunitni-preklady.org/preklad/hellslave",
       "howToInstallHtml": "<p>Každý překlad má vlastní postup instalace. Otevřete stránku překladu (tlačítko „Otevřít v prohlížeči“ níže) — najdete tam úplný návod k instalaci i tlačítko ke stažení.</p>",
@@ -7946,13 +7946,13 @@
       "hasNeuralVoice": false,
       "hasNeuralDub": false,
       "hasNeuralText": true,
-      "version": "0.65",
-      "updatedAt": "21.01.2026",
-      "requiredGameVersion": "WS v1.1.3/BLK v.1.3.15",
+      "version": "0.66",
+      "updatedAt": "29.10.2026",
+      "requiredGameVersion": "24573425 (10.08.26)",
       "pageUrl": "https://komunitni-preklady.org/preklad/mount-blade-ii-bannerlord",
       "howToInstallHtml": "<p>Každý překlad má vlastní postup instalace. Otevřete stránku překladu (tlačítko „Otevřít v prohlížeči“ níže) — najdete tam úplný návod k instalaci i tlačítko ke stažení.</p>",
       "authorsHtml": "<p>Banditi</p>",
-      "size": "3.00 MB",
+      "size": "861 KB",
       "inDevelopment": false,
       "mirrors": [
         {
@@ -20057,13 +20057,13 @@
       "hasNeuralVoice": false,
       "hasNeuralDub": false,
       "hasNeuralText": true,
-      "version": "0.36",
-      "updatedAt": "24.10.2026",
-      "requiredGameVersion": null,
+      "version": "0.38",
+      "updatedAt": "29.10.2026",
+      "requiredGameVersion": "1.6.155963/ 26168151",
       "pageUrl": "https://komunitni-preklady.org/preklad/silent-hill-townfall",
       "howToInstallHtml": "<p>Každý překlad má vlastní postup instalace. Otevřete stránku překladu (tlačítko „Otevřít v prohlížeči“ níže) — najdete tam úplný návod k instalaci i tlačítko ke stažení.</p>",
       "authorsHtml": "<p>Ďáblorožec</p>",
-      "size": "2.60 MB",
+      "size": "1.90 MB",
       "inDevelopment": false,
       "mirrors": [
         {
@@ -20921,9 +20921,9 @@
       "hasNeuralVoice": false,
       "hasNeuralDub": false,
       "hasNeuralText": true,
-      "version": "1.1.1",
-      "updatedAt": "28.10.2026",
-      "requiredGameVersion": "build 26263409",
+      "version": "1.2",
+      "updatedAt": "29.10.2026",
+      "requiredGameVersion": "build 26284217",
       "pageUrl": "https://komunitni-preklady.org/preklad/probably-stolen",
       "howToInstallHtml": "<p>Každý překlad má vlastní postup instalace. Otevřete stránku překladu (tlačítko „Otevřít v prohlížeči“ níže) — najdete tam úplný návod k instalaci i tlačítko ke stažení.</p>",
       "authorsHtml": "<p>Livi8D</p>",
@@ -21394,6 +21394,146 @@
       ]
     },
     {
+      "title": "Call of Duty: Modern Warfare 4",
+      "studio": "Komunitní překlady",
+      "studioUrl": "https://komunitni-preklady.org/preklad/call-of-duty-modern-warfare-4",
+      "language": "Čeština",
+      "hasText": false,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": true,
+      "version": "0.3",
+      "updatedAt": "29.10.2026",
+      "requiredGameVersion": null,
+      "pageUrl": "https://komunitni-preklady.org/preklad/call-of-duty-modern-warfare-4",
+      "howToInstallHtml": "<p>Každý překlad má vlastní postup instalace. Otevřete stránku překladu (tlačítko „Otevřít v prohlížeči“ níže) — najdete tam úplný návod k instalaci i tlačítko ke stažení.</p>",
+      "authorsHtml": "<p>Lokalizační penetrátor</p>",
+      "size": "1.50 MB",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Komunitní překlady",
+          "url": "https://komunitni-preklady.org/download/1050?sig=dmUoWJcShIfkc9AzxTUVPw",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "4435490"
+    },
+    {
+      "title": "Crack",
+      "studio": "Komunitní překlady",
+      "studioUrl": "https://komunitni-preklady.org/preklad/crack",
+      "language": "Čeština",
+      "hasText": false,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": true,
+      "version": "1.1.1",
+      "updatedAt": "29.10.2026",
+      "requiredGameVersion": "1.1.1",
+      "pageUrl": "https://komunitni-preklady.org/preklad/crack",
+      "howToInstallHtml": "<p>Každý překlad má vlastní postup instalace. Otevřete stránku překladu (tlačítko „Otevřít v prohlížeči“ níže) — najdete tam úplný návod k instalaci i tlačítko ke stažení.</p>",
+      "authorsHtml": "<p>one-man-team</p>",
+      "size": "9.10 MB",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Komunitní překlady",
+          "url": "https://komunitni-preklady.org/download/1051?sig=R0rUBpz5M_u_bH6olmqfRw",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "4312190"
+    },
+    {
+      "title": "Crack",
+      "studio": "Komunitní překlady",
+      "studioUrl": "https://komunitni-preklady.org/preklad/crack-sk",
+      "language": "Slovenčina",
+      "hasText": false,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": true,
+      "version": "1.1.1",
+      "updatedAt": "29.10.2026",
+      "requiredGameVersion": "1.1.1",
+      "pageUrl": "https://komunitni-preklady.org/preklad/crack-sk",
+      "howToInstallHtml": "<p>Každý preklad má vlastný postup inštalácie. Otvorte stránku prekladu (tlačidlo „Otvoriť v prehliadači“ nižšie) — nájdete tam úplný návod na inštaláciu aj tlačidlo na stiahnutie.</p>",
+      "authorsHtml": "<p>one-man-team</p>",
+      "size": "9.10 MB",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Komunitní překlady",
+          "url": "https://komunitni-preklady.org/download/1052?sig=A29_wO6_IgWFRMvb_u-ypA",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "4312190"
+    },
+    {
+      "title": "Dirt Rally 2.0",
+      "studio": "Komunitní překlady",
+      "studioUrl": "https://komunitni-preklady.org/preklad/dirt-rally-20",
+      "language": "Čeština",
+      "hasText": false,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": true,
+      "version": "0.3a",
+      "updatedAt": "29.10.2026",
+      "requiredGameVersion": "6444206 (08.04.21)",
+      "pageUrl": "https://komunitni-preklady.org/preklad/dirt-rally-20",
+      "howToInstallHtml": "<p>Každý překlad má vlastní postup instalace. Otevřete stránku překladu (tlačítko „Otevřít v prohlížeči“ níže) — najdete tam úplný návod k instalaci i tlačítko ke stažení.</p>",
+      "authorsHtml": "<p>Lokalizační penetrátor</p>",
+      "size": "2.50 MB",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Komunitní překlady",
+          "url": "https://komunitni-preklady.org/download/1053?sig=-rlu9Q3dUfGDxZixd1XUXg",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "690790"
+    },
+    {
+      "title": "Phantom Blade Zero",
+      "studio": "Komunitní překlady",
+      "studioUrl": "https://komunitni-preklady.org/preklad/phantom-blade-zero",
+      "language": "Čeština",
+      "hasText": false,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": true,
+      "version": "0.1",
+      "updatedAt": "29.10.2026",
+      "requiredGameVersion": "26266538 (28.10.26)",
+      "pageUrl": "https://komunitni-preklady.org/preklad/phantom-blade-zero",
+      "howToInstallHtml": "<p>Každý překlad má vlastní postup instalace. Otevřete stránku překladu (tlačítko „Otevřít v prohlížeči“ níže) — najdete tam úplný návod k instalaci i tlačítko ke stažení.</p>",
+      "authorsHtml": "<p>Ďáblorožec</p>",
+      "size": "646 KB",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Komunitní překlady",
+          "url": "https://komunitni-preklady.org/download/1054?sig=_Dcj_Ag0MNqfz8oJLbC4zA",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "4115450"
+    },
+    {
       "title": "Borderlands 4",
       "studio": "Komunitní překlady",
       "studioUrl": "https://komunitni-preklady.org/preklad/borderlands-4",
@@ -21790,11 +21930,11 @@
       "hasNeuralDub": false,
       "hasNeuralText": true,
       "version": null,
-      "updatedAt": "28.10.2026",
+      "updatedAt": "29.10.2026",
       "requiredGameVersion": null,
       "pageUrl": "https://komunitni-preklady.org/preklad/divinity-ii-dragon-knight-saga-",
       "howToInstallHtml": "<p>Každý překlad má vlastní postup instalace. Otevřete stránku překladu (tlačítko „Otevřít v prohlížeči“ níže) — najdete tam úplný návod k instalaci i tlačítko ke stažení.</p>",
-      "authorsHtml": "<p>Word Artificers</p>",
+      "authorsHtml": "<p>one-man-team</p>",
       "size": null,
       "inDevelopment": true,
       "mirrors": []
