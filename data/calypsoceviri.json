@@ -5,6 +5,33 @@
   "siteUrl": "https://www.calypsoceviri.com",
   "localizations": [
     {
+      "title": "Probably Stolen - Cyberpunk Shopkeeper Sim",
+      "studio": "Calypso Çeviri",
+      "studioUrl": "https://www.calypsoceviri.com",
+      "language": "Türkçe",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": "1",
+      "updatedAt": "29.10.2026",
+      "pageUrl": "https://www.calypsoceviri.com/turkce-yamalar/probably-stolen-cyberpunk-shopkeeper-sim-turkce-yama-indir",
+      "howToInstallHtml": "<div>Aşağıda vermiş olduğumuz linkten indirdiğiniz Rar dosyasındaki Türkçe Yama exesini, oyunun kurulu olduğu ana dosya konumuna atarak, Türkçe yama exesini çalıştırın. Oyunun ana dosya konumunun seçili olduğunu kontrol ettikten sonra, hangi platformdan oynuyorsanız, o platformun yükle butonuna basarak yamayı yükleyebilirsiniz. <br><br>Yamayı kaldırmak isterseniz, oyunun dosyalarını doğrulamanız gerekiyor.</div>",
+      "authorsHtml": "<p>Indra</p>",
+      "size": "6.80 MB",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Calypso Çeviri",
+          "url": "https://www.calypsoceviri.com/_files/archives/7d262d_38288d5d0dd240d9a9e3a03b4bceb7bd.zip?dn=Probably%2520Stolen%2520Cyberpunk%2520Shopkeeper%2520Sim%2520T%25C3%25BCrk%25C3%25A7e%2520Yama%2520V1.zip",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "4348910"
+    },
+    {
       "title": "Phantom Blade Zero",
       "studio": "Calypso Çeviri",
       "studioUrl": "https://www.calypsoceviri.com",
@@ -25,7 +52,7 @@
       "mirrors": [
         {
           "label": "Calypso Çeviri",
-          "url": "https://www.calypsoceviri.com/_files/archives/7d262d_2f28a252ff2540eeaa45b15beebe06e4.zip?dn=Phantom%2520Blade%2520Zero%2520T%25C3%25BCrk%25C3%25A7e%2520Yama%2520V1.zip",
+          "url": "https://www.calypsoceviri.com/_files/archives/7d262d_212955f8bed8418eae87fdf1ef4656bb.zip?dn=Phantom%2520Blade%2520Zero%2520T%25C3%25BCrk%25C3%25A7e%2520Yama%2520V1.zip",
           "kind": "direct"
         }
       ],
@@ -43,16 +70,16 @@
       "hasNeuralDub": false,
       "hasNeuralText": false,
       "version": "3",
-      "updatedAt": "28.10.2026",
+      "updatedAt": "29.10.2026",
       "pageUrl": "https://www.calypsoceviri.com/turkce-yamalar/call-of-duty-modern-warfare-4-turkce-yama-indir",
       "howToInstallHtml": "<div>Aşağıda vermiş olduğumuz linkten indirdiğiniz Rar dosyasındaki Türkçe Yama exesini, oyunun kurulu olduğu ana dosya konumuna atarak, Türkçe yama exesini çalıştırın. Oyunun ana dosya konumunun seçili olduğunu kontrol ettikten sonra, hangi platformdan oynuyorsanız, o platformun yükle butonuna basarak yamayı yükleyebilirsiniz. <br><br>Yamayı kaldırmak isterseniz, oyunun dosya konumundaki \"CodMF4_YamaKaldır.exe\"'yi kullanarak, yamayı kaldırabilirsiniz.</div>",
       "authorsHtml": "<p>VolkTyson</p>",
-      "size": "11.6 MB",
+      "size": "7.31 MB",
       "inDevelopment": false,
       "mirrors": [
         {
           "label": "Calypso Çeviri",
-          "url": "https://www.calypsoceviri.com/_files/archives/7d262d_27ef727ee92a4b9d8bca8fcdebfc6707.zip?dn=Call%2520Of%2520Duty%2520Modern%2520Warfare%25204%2520T%25C3%25BCrk%25C3%25A7e%2520Yama%2520V3.zip",
+          "url": "https://www.calypsoceviri.com/_files/archives/7d262d_db295fa15e6148eab8257d750fcb9f01.zip?dn=Call%2520Of%2520Duty%2520Modern%2520Warfare%25204%2520T%25C3%25BCrk%25C3%25A7e%2520Yama%2520V3.zip",
           "kind": "direct"
         }
       ],
@@ -6822,7 +6849,7 @@
           "kind": "direct"
         }
       ],
-      "steamAppId": "3714400"
+      "steamAppId": "3129050"
     },
     {
       "title": "Darksiders Genesis",

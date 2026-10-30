@@ -5,9 +5,9 @@
   "siteUrl": "https://lokalizace.net",
   "localizations": [
     {
-      "title": "Stubbs the Zombie in Rebel Without a Pulse",
+      "title": "Pán prstenů: Bitva o středozem",
       "studio": "Lokalizace.net",
-      "studioUrl": "https://lokalizace.net/localizations/stubbs-the-zombie-in-rebel-without-a-pulse",
+      "studioUrl": "https://lokalizace.net/localizations/pan-prstenu-bitva-o-stredozem",
       "language": "Čeština",
       "hasText": true,
       "hasVoice": false,
@@ -17,36 +17,13 @@
       "hasNeuralText": false,
       "version": null,
       "updatedAt": null,
-      "pageUrl": "https://lokalizace.net/localizations/stubbs-the-zombie-in-rebel-without-a-pulse",
+      "pageUrl": "https://lokalizace.net/localizations/pan-prstenu-bitva-o-stredozem",
       "howToInstallHtml": "<p>Stáhněte ZIP soubor a rozbalte ho do složky hry, nebo použijte aplikaci CZManager pro automatickou instalaci češtiny.</p>",
-      "changelogHtml": null,
-      "authorsHtml": "<p>PERTIM</p>",
+      "changelogHtml": "<div><p><strong>Verze RC2 </strong>na verzi hry 1.03</p><p>Stačí kliknout na <strong>nainstalovat</strong> a čeština si najde hru přes .exe.<br><br><span style=\"color: rgb(34, 197, 94)\">Přeloženo je komplet vše na co jsem narazil.<br>Vypálil jsem titulky do načítání, kde je krátké vyprávění.<br>Rozchodil jsem titulky k vyprávění ve hře i World map.<br>Doplnil jsem fonty pro správné zobrazení diakritiky.</span></p><p><span style=\"color: rgb(249, 115, 22)\">Zbývá otestovat kompletní průchod kampaní, jestli se titulky zobrazí vždy u vyprávěcí sekvence a jestli nezůstali nějaké porušené znaky v textech.<br>Prosím případné chyby mi hlašte a já se pokusím je co nejrychleji vyřešit.</span></p></div>",
+      "authorsHtml": "<p>RetroGameplay_CZ</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "7800"
-    },
-    {
-      "title": "CRACK",
-      "studio": "Lokalizace.net",
-      "studioUrl": "https://lokalizace.net/localizations/crack",
-      "language": "Čeština",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": null,
-      "updatedAt": null,
-      "pageUrl": "https://lokalizace.net/localizations/crack",
-      "howToInstallHtml": "<p>Stáhněte ZIP soubor a rozbalte ho do složky hry, nebo použijte aplikaci CZManager pro automatickou instalaci češtiny.</p>",
-      "changelogHtml": "<div><p><strong>Nová verze 1.0.55</strong></p><p><strong>Instalator prekladu CZ aj SK pre </strong><span style=\"color: rgb(234, 179, 8)\"><strong>CRACK</strong></span><strong> </strong><span style=\"color: rgb(249, 115, 22)\"><strong>v1.0.55</strong></span><strong> - </strong><span style=\"color: rgb(234, 179, 8)\"><strong>Steam Windows</strong></span></p><p>/// upozornujem - virustotal instalator hlasi 5 antivirov (pravdepodobne priemyselnych) s detekciou .. je to false-alarm, ja len aby ste o tom vedeli dopredu ... kto chce zdrojovy kod, moze si ho prezriet a spravit build sam ...</p><p><strong>Nová verze 1.0.55</strong></p><p><strong>Instalator prekladu CZ aj SK pre </strong><span style=\"color: rgb(234, 179, 8)\"><strong>CRACK</strong></span><strong> </strong><span style=\"color: rgb(249, 115, 22)\"><strong>v1.0.55</strong></span><strong> - </strong><span style=\"color: rgb(234, 179, 8)\"><strong>Steam Linux</strong></span></p></div>",
-      "authorsHtml": "<p>one-man-team</p>",
-      "size": null,
-      "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "4312190"
+      "mirrors": []
     },
     {
       "title": "Resident Evil 2 - RE:ENHANCE (1998)",
@@ -71,9 +48,9 @@
       "steamAppId": "883710"
     },
     {
-      "title": "Orwell: Ignorance is Strength",
+      "title": "False Echo",
       "studio": "Lokalizace.net",
-      "studioUrl": "https://lokalizace.net/localizations/orwell-ignorance-is-strength-1",
+      "studioUrl": "https://lokalizace.net/localizations/false-echo",
       "language": "Čeština",
       "hasText": true,
       "hasVoice": false,
@@ -83,19 +60,19 @@
       "hasNeuralText": false,
       "version": null,
       "updatedAt": null,
-      "pageUrl": "https://lokalizace.net/localizations/orwell-ignorance-is-strength-1",
+      "pageUrl": "https://lokalizace.net/localizations/false-echo",
       "howToInstallHtml": "<p>Stáhněte ZIP soubor a rozbalte ho do složky hry, nebo použijte aplikaci CZManager pro automatickou instalaci češtiny.</p>",
-      "changelogHtml": "<div><p><strong>Steam - </strong><span style=\"color: rgb(234, 179, 8)\"><strong>Windows</strong></span><strong> verze 1.0.0</strong></p><p><strong>Steam - </strong><span style=\"color: rgb(234, 179, 8)\"><strong>Linux</strong></span><strong> verze 1.0.0</strong></p></div>",
-      "authorsHtml": "<p>one-man-team</p>",
+      "changelogHtml": null,
+      "authorsHtml": "<p>labros.cz</p>",
       "size": null,
       "inDevelopment": true,
       "mirrors": [],
-      "steamAppId": "633060"
+      "steamAppId": "4418080"
     },
     {
-      "title": "Orwell: Ignorance is Strength",
+      "title": "Moon Sweepers",
       "studio": "Lokalizace.net",
-      "studioUrl": "https://lokalizace.net/localizations/orwell-ignorance-is-strength",
+      "studioUrl": "https://lokalizace.net/localizations/moon-sweepers",
       "language": "Čeština",
       "hasText": true,
       "hasVoice": false,
@@ -105,58 +82,14 @@
       "hasNeuralText": false,
       "version": null,
       "updatedAt": null,
-      "pageUrl": "https://lokalizace.net/localizations/orwell-ignorance-is-strength",
+      "pageUrl": "https://lokalizace.net/localizations/moon-sweepers",
       "howToInstallHtml": "<p>Stáhněte ZIP soubor a rozbalte ho do složky hry, nebo použijte aplikaci CZManager pro automatickou instalaci češtiny.</p>",
-      "changelogHtml": "<div><p><strong>Steam - </strong><span style=\"color: rgb(234, 179, 8)\"><strong>Windows</strong></span><strong> verzia 1.0.0</strong></p><p><strong>Steam - </strong><span style=\"color: rgb(234, 179, 8)\"><strong>Linux</strong></span><strong> verzia 1.0.0</strong></p></div>",
-      "authorsHtml": "<p>one-man-team</p>",
+      "changelogHtml": "<div><p><strong>Nová verze 1.0.5</strong></p><p><span style=\"color: white\">v1.0.5 - doplnených 16 nových textov z aktualizácie hry (presúvanie stavieb, verejné hry, nočné videnie)</span></p><p>Nahrána nová verze překladu: 1.0</p></div>",
+      "authorsHtml": "<p>SK/CZECH preklady</p>",
       "size": null,
       "inDevelopment": true,
       "mirrors": [],
-      "steamAppId": "633060"
-    },
-    {
-      "title": "Orwell: Keeping an Eye On You",
-      "studio": "Lokalizace.net",
-      "studioUrl": "https://lokalizace.net/localizations/orwell-keeping-an-eye-on-you",
-      "language": "Čeština",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": null,
-      "updatedAt": null,
-      "pageUrl": "https://lokalizace.net/localizations/orwell-keeping-an-eye-on-you",
-      "howToInstallHtml": "<p>Stáhněte ZIP soubor a rozbalte ho do složky hry, nebo použijte aplikaci CZManager pro automatickou instalaci češtiny.</p>",
-      "changelogHtml": "<div><p><strong>Steam - </strong><span style=\"color: rgb(234, 179, 8)\"><strong>Windows</strong></span><strong> verze 1.0.0</strong></p><p></p><p><strong>Steam - </strong><span style=\"color: rgb(234, 179, 8)\"><strong>Linux</strong></span><strong> verze 1.0.0</strong></p></div>",
-      "authorsHtml": "<p>one-man-team</p>",
-      "size": null,
-      "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "491950"
-    },
-    {
-      "title": "Orwell: Keeping an Eye On You",
-      "studio": "Lokalizace.net",
-      "studioUrl": "https://lokalizace.net/localizations/orwell",
-      "language": "Čeština",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": null,
-      "updatedAt": null,
-      "pageUrl": "https://lokalizace.net/localizations/orwell",
-      "howToInstallHtml": "<p>Stáhněte ZIP soubor a rozbalte ho do složky hry, nebo použijte aplikaci CZManager pro automatickou instalaci češtiny.</p>",
-      "changelogHtml": "<div><p><strong>Steam - </strong><span style=\"color: rgb(234, 179, 8)\"><strong>Windows</strong></span><strong> verzia 1.0.0</strong></p><p><strong>Steam - </strong><span style=\"color: rgb(234, 179, 8)\"><strong>Linux</strong></span><strong> verzia 1.0.0</strong></p></div>",
-      "authorsHtml": "<p>one-man-team</p>",
-      "size": null,
-      "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "491950"
+      "steamAppId": "5335510"
     },
     {
       "title": "Gothic 3 - CZ dabing",
@@ -3248,7 +3181,7 @@
       "updatedAt": null,
       "pageUrl": "https://lokalizace.net/localizations/subliminal-episode-1",
       "howToInstallHtml": "<p>Stáhněte ZIP soubor a rozbalte ho do složky hry, nebo použijte aplikaci CZManager pro automatickou instalaci češtiny.</p>",
-      "changelogHtml": "<div><p><strong>Nová verze 1.09</strong></p><p><span style=\"font-size: 14px; color: oklch(0.6 0.02 280)\">Čeština pro verzi hry 1.0.9</span></p><p>Čeština pro verzi hry 1.0.3.5b</p></div>",
+      "changelogHtml": "<div><p><strong>Nová verze 1.09</strong></p><p><span style=\"font-size: 14px; color: oklch(0.6 0.02 280)\">Čeština pro verzi hry 1.0.9 </span><br><span style=\"font-size: 14px; color: oklch(0.6 0.02 280)\">(Kompatibilní s verzí 1.0.9.1)</span></p><p>Čeština pro verzi hry 1.0.3.5b</p></div>",
       "authorsHtml": "<p>Smile</p>",
       "size": null,
       "inDevelopment": true,
@@ -13586,7 +13519,7 @@
       "size": null,
       "inDevelopment": true,
       "mirrors": [],
-      "steamAppId": "1462040"
+      "steamAppId": "3837340"
     },
     {
       "title": "Hollow Knight",
@@ -13740,7 +13673,7 @@
       "size": null,
       "inDevelopment": true,
       "mirrors": [],
-      "steamAppId": "1505430"
+      "steamAppId": "212410"
     },
     {
       "title": "Stellaris",
@@ -13914,7 +13847,8 @@
       "authorsHtml": "<p>Spyker Tým</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": []
+      "mirrors": [],
+      "steamAppId": "207610"
     },
     {
       "title": "Minecraft: Story Mode 2",
@@ -14022,7 +13956,8 @@
       "authorsHtml": "<p>Spyker Tým</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": []
+      "mirrors": [],
+      "steamAppId": "208730"
     },
     {
       "title": "Life is Strange: Remastered Collection",
@@ -14065,7 +14000,8 @@
       "authorsHtml": "<p>Spyker Tým</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": []
+      "mirrors": [],
+      "steamAppId": "936790"
     },
     {
       "title": "Life is Strange 2",
@@ -14108,7 +14044,8 @@
       "authorsHtml": "<p>Spyker Tým</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": []
+      "mirrors": [],
+      "steamAppId": "2624870"
     },
     {
       "title": "Papers, Please",
@@ -14151,7 +14088,8 @@
       "authorsHtml": "<p>Spyker Tým</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": []
+      "mirrors": [],
+      "steamAppId": "35000"
     },
     {
       "title": "60 Seconds!",
@@ -14216,7 +14154,8 @@
       "authorsHtml": "<p>Spyker Tým</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": []
+      "mirrors": [],
+      "steamAppId": "1205520"
     },
     {
       "title": "Bendy and the Dark Revival",
@@ -14368,7 +14307,8 @@
       "authorsHtml": "<p>Lokalizace.Net</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": []
+      "mirrors": [],
+      "steamAppId": "540840"
     },
     {
       "title": "Spyro: Reignited Trilogy",
@@ -14565,7 +14505,8 @@
       "authorsHtml": "<p>Lokalizace.Net</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": []
+      "mirrors": [],
+      "steamAppId": "241540"
     },
     {
       "title": "Batman Akham Knight",
@@ -14650,7 +14591,8 @@
       "authorsHtml": "<p>Lokalizace.Net</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": []
+      "mirrors": [],
+      "steamAppId": "474960"
     },
     {
       "title": "Mass Effect Andromeda",
@@ -14671,7 +14613,8 @@
       "authorsHtml": "<p>Lokalizace.Net</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": []
+      "mirrors": [],
+      "steamAppId": "17460"
     },
     {
       "title": "Rise of the Tomb Raider",
@@ -14868,7 +14811,8 @@
       "authorsHtml": "<p>ADV Dream</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": []
+      "mirrors": [],
+      "steamAppId": "2769570"
     },
     {
       "title": "Firewatch",
@@ -14889,7 +14833,8 @@
       "authorsHtml": "<p>Lokalizace.Net</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": []
+      "mirrors": [],
+      "steamAppId": "383870"
     },
     {
       "title": "Yesterday Origins",
@@ -14976,7 +14921,8 @@
       "authorsHtml": "<p>Lokalizace.Net</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": []
+      "mirrors": [],
+      "steamAppId": "204450"
     },
     {
       "title": "Everspace",
@@ -15104,7 +15050,8 @@
       "authorsHtml": "<p>ADV Dream</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": []
+      "mirrors": [],
+      "steamAppId": "2818420"
     },
     {
       "title": "Normality",
@@ -15366,7 +15313,7 @@
       "size": null,
       "inDevelopment": true,
       "mirrors": [],
-      "steamAppId": "215220"
+      "steamAppId": "202170"
     },
     {
       "title": "Evil Within 2",
@@ -15453,7 +15400,8 @@
       "authorsHtml": "<p>Lokalizace.Net</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": []
+      "mirrors": [],
+      "steamAppId": "960910"
     },
     {
       "title": "Stray",
@@ -15474,7 +15422,8 @@
       "authorsHtml": "<p>Lokalizace.Net</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": []
+      "mirrors": [],
+      "steamAppId": "1332010"
     },
     {
       "title": "Dark Souls 3",
@@ -15582,7 +15531,8 @@
       "authorsHtml": "<p>ADV Dream</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": []
+      "mirrors": [],
+      "steamAppId": "421050"
     },
     {
       "title": "Goodbye Deponia",
@@ -15603,7 +15553,8 @@
       "authorsHtml": "<p>ADV Dream</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": []
+      "mirrors": [],
+      "steamAppId": "241910"
     },
     {
       "title": "Chaos on Deponia",
@@ -15624,7 +15575,8 @@
       "authorsHtml": "<p>ADV Dream</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": []
+      "mirrors": [],
+      "steamAppId": "220740"
     },
     {
       "title": "Captain Morgane and the Golden Turtle",
@@ -15841,7 +15793,8 @@
       "authorsHtml": "<p>Lokalizace.Net</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": []
+      "mirrors": [],
+      "steamAppId": "287630"
     },
     {
       "title": "Vampyr",
@@ -16299,6 +16252,28 @@
       "steamAppId": "2369390"
     },
     {
+      "title": "What Remains of Edith Finch",
+      "studio": "Lokalizace.net",
+      "studioUrl": "https://lokalizace.net/localizations/what-remains-of-edith-finch",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": null,
+      "updatedAt": null,
+      "pageUrl": "https://lokalizace.net/localizations/what-remains-of-edith-finch",
+      "howToInstallHtml": "<p>Stáhněte ZIP soubor a rozbalte ho do složky hry, nebo použijte aplikaci CZManager pro automatickou instalaci češtiny.</p>",
+      "changelogHtml": null,
+      "authorsHtml": "<p>PERTIM</p>",
+      "size": null,
+      "inDevelopment": true,
+      "mirrors": [],
+      "steamAppId": "501300"
+    },
+    {
       "title": "Stasis",
       "studio": "Lokalizace.net",
       "studioUrl": "https://lokalizace.net/localizations/stasis",
@@ -16317,7 +16292,8 @@
       "authorsHtml": "<p>Starsoul</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": []
+      "mirrors": [],
+      "steamAppId": "380150"
     },
     {
       "title": "Batman: Arkham Origins Blackgate",
@@ -16340,49 +16316,6 @@
       "inDevelopment": true,
       "mirrors": [],
       "steamAppId": "209000"
-    },
-    {
-      "title": "False Echo",
-      "studio": "Lokalizace.net",
-      "studioUrl": "https://lokalizace.net/localizations/false-echo",
-      "language": "Čeština",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": null,
-      "updatedAt": null,
-      "pageUrl": "https://lokalizace.net/localizations/false-echo",
-      "howToInstallHtml": "<p>Stáhněte ZIP soubor a rozbalte ho do složky hry, nebo použijte aplikaci CZManager pro automatickou instalaci češtiny.</p>",
-      "changelogHtml": null,
-      "authorsHtml": "<p>labros.cz</p>",
-      "size": null,
-      "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "4418080"
-    },
-    {
-      "title": "Moon Sweepers",
-      "studio": "Lokalizace.net",
-      "studioUrl": "https://lokalizace.net/localizations/moon-sweepers",
-      "language": "Čeština",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": null,
-      "updatedAt": null,
-      "pageUrl": "https://lokalizace.net/localizations/moon-sweepers",
-      "howToInstallHtml": "<p>Stáhněte ZIP soubor a rozbalte ho do složky hry, nebo použijte aplikaci CZManager pro automatickou instalaci češtiny.</p>",
-      "changelogHtml": null,
-      "authorsHtml": "<p>SK/CZECH preklady</p>",
-      "size": null,
-      "inDevelopment": true,
-      "mirrors": []
     },
     {
       "title": "Dino Crisis 2",
@@ -16447,7 +16380,8 @@
       "authorsHtml": "<p>Starsoul</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": []
+      "mirrors": [],
+      "steamAppId": "1173780"
     },
     {
       "title": "Henry the Stickmin (Dabing)",
@@ -16490,7 +16424,8 @@
       "authorsHtml": "<p>Lokalizace.Net</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": []
+      "mirrors": [],
+      "steamAppId": "1172710"
     },
     {
       "title": "Resident Evil 4 (2005)",
@@ -16533,7 +16468,8 @@
       "authorsHtml": "<p>PERTIM</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": []
+      "mirrors": [],
+      "steamAppId": "21690"
     },
     {
       "title": "Clive Barker's Hellraiser: Revival",
@@ -16576,7 +16512,8 @@
       "authorsHtml": "<p>Itenko14s Team</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": []
+      "mirrors": [],
+      "steamAppId": "4919380"
     },
     {
       "title": "Sengoku Dynasty",
@@ -16641,7 +16578,8 @@
       "authorsHtml": "<p>miracle.flame</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": []
+      "mirrors": [],
+      "steamAppId": "2333000"
     },
     {
       "title": "Resident Evil Code Veronica X (2000)",
@@ -16683,7 +16621,8 @@
       "authorsHtml": "<p>Lokalizace.Net</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": []
+      "mirrors": [],
+      "steamAppId": "436780"
     },
     {
       "title": "The Witcher 3: Wild Hunt — Remastered DABING",
@@ -16704,7 +16643,8 @@
       "authorsHtml": "<p>Czech dubbing</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": []
+      "mirrors": [],
+      "steamAppId": "292030"
     },
     {
       "title": "BLOODMONEY: REQUIEM",
@@ -16768,7 +16708,8 @@
       "authorsHtml": "<p>VocalSync Studios</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": []
+      "mirrors": [],
+      "steamAppId": "4929450"
     },
     {
       "title": "Arctic Awakening",
@@ -16789,7 +16730,8 @@
       "authorsHtml": "<p>PERTIM</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": []
+      "mirrors": [],
+      "steamAppId": "1275550"
     },
     {
       "title": "Baldi's Basics Classic Remastered",
@@ -16875,7 +16817,8 @@
       "authorsHtml": "<p>Sleeping Unicorn Studios</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": []
+      "mirrors": [],
+      "steamAppId": "105600"
     },
     {
       "title": "Five Nights at Freddy's: Help Wanted 2",
@@ -17006,7 +16949,8 @@
       "authorsHtml": "<p>Lokalizace.Net</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": []
+      "mirrors": [],
+      "steamAppId": "2769570"
     },
     {
       "title": "METAL GEAR SOLID: Peace Walker - Master Collection Vol.2",
@@ -17027,7 +16971,8 @@
       "authorsHtml": "<p>PERTIM</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": []
+      "mirrors": [],
+      "steamAppId": "3859630"
     },
     {
       "title": "METAL GEAR SOLID 4: Guns of the Patriots - Master Collection Vol.2",
@@ -17092,7 +17037,8 @@
       "authorsHtml": "<p>ADV Dream</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": []
+      "mirrors": [],
+      "steamAppId": "1542390"
     },
     {
       "title": "Luto",
@@ -17223,7 +17169,8 @@
       "authorsHtml": "<p>Lokalizace.Net</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": []
+      "mirrors": [],
+      "steamAppId": "801800"
     },
     {
       "title": "FF7 Rebirth Demo PC & XBOX",
@@ -17460,7 +17407,8 @@
       "authorsHtml": "<p>Mikošek Dubbing</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": []
+      "mirrors": [],
+      "steamAppId": "417860"
     },
     {
       "title": "Deltarune",
