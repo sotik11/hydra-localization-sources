@@ -52,6 +52,30 @@
       ]
     },
     {
+      "steamAppId": "3884860",
+      "title": "The Wolf Among Us Remastered",
+      "studio": "Magyarítások",
+      "studioUrl": "https://magyaritasok.hu",
+      "language": "Magyar",
+      "hasText": true,
+      "hasVoice": false,
+      "version": "1.00",
+      "updatedAt": "30.10.2026",
+      "requiredGameVersion": null,
+      "size": "5.03 MB",
+      "pageUrl": "https://magyaritasok.hu/games/the-wolf-among-us-remastered",
+      "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
+      "authorsHtml": "<p>FEARka, TaleHunters</p>",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Magyarítások",
+          "url": "https://magyaritasok.hu/dl/thewolfamongus/TWAU_Remastered_HUN_1.00.exe",
+          "kind": "direct"
+        }
+      ]
+    },
+    {
       "steamAppId": "529490",
       "title": "Rogue Trooper: Redux",
       "studio": "Magyarítások",
@@ -18821,6 +18845,30 @@
       ]
     },
     {
+      "steamAppId": "750920",
+      "title": "Shadow of the Tomb Raider",
+      "studio": "Magyarítások",
+      "studioUrl": "https://magyaritasok.hu",
+      "language": "Magyar",
+      "hasText": true,
+      "hasVoice": false,
+      "version": "1.05",
+      "updatedAt": "29.01.2024",
+      "requiredGameVersion": "v1.0 build 488.0",
+      "size": "3.61 MB",
+      "pageUrl": "https://magyaritasok.hu/games/shadow-of-the-tomb-raider",
+      "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
+      "authorsHtml": "<p>Evin, Thak, Matie, drlecter, Török Ágnes, sgtGiggsy</p>",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Magyarítások",
+          "url": "https://magyaritasok.hu/dl/ShadowOfTheTombRaider/SotTR_DE_hun_v105.exe",
+          "kind": "direct"
+        }
+      ]
+    },
+    {
       "steamAppId": "557340",
       "title": "My Friend Pedro",
       "studio": "Magyarítások",
@@ -21905,6 +21953,78 @@
         {
           "label": "Magyarítások",
           "url": "https://magyaritasok.hu/dl/blackguards/blackguards_hun_v102.exe",
+          "kind": "direct"
+        }
+      ]
+    },
+    {
+      "steamAppId": "329430",
+      "title": "State of Decay: Year-One Survival Edition",
+      "studio": "Magyarítások",
+      "studioUrl": "https://magyaritasok.hu",
+      "language": "Magyar",
+      "hasText": true,
+      "hasVoice": false,
+      "version": "1.01",
+      "updatedAt": "10.08.2021",
+      "requiredGameVersion": "1.01",
+      "size": "2.97 MB",
+      "pageUrl": "https://magyaritasok.hu/games/state-of-decay-year-one-survival-edition",
+      "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
+      "authorsHtml": null,
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Magyarítások",
+          "url": "https://magyaritasok.hu/dl/stateofdecay_yose/sodyose_hun_tort_v1.01.exe",
+          "kind": "direct"
+        }
+      ]
+    },
+    {
+      "steamAppId": "233270",
+      "title": "Far Cry 3: Blood Dragon",
+      "studio": "Magyarítások",
+      "studioUrl": "https://magyaritasok.hu",
+      "language": "Magyar",
+      "hasText": true,
+      "hasVoice": false,
+      "version": null,
+      "updatedAt": "26.07.2020",
+      "requiredGameVersion": null,
+      "size": "1.90 MB",
+      "pageUrl": "https://magyaritasok.hu/games/far-cry-3-blood-dragon",
+      "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
+      "authorsHtml": "<p>Evin</p>",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Magyarítások",
+          "url": "https://magyaritasok.hu/dl/farcry_blooddragon/blooddragon_hun.zip",
+          "kind": "direct"
+        }
+      ]
+    },
+    {
+      "steamAppId": "387990",
+      "title": "Scrap Mechanic",
+      "studio": "Magyarítások",
+      "studioUrl": "https://magyaritasok.hu",
+      "language": "Magyar",
+      "hasText": true,
+      "hasVoice": false,
+      "version": "0.6.5. Build723",
+      "updatedAt": "22.11.2023",
+      "requiredGameVersion": "0.6.5. Build723",
+      "size": "1.06 MB",
+      "pageUrl": "https://magyaritasok.hu/games/scrap-mechanic",
+      "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
+      "authorsHtml": "<p>Panyi</p>",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Magyarítások",
+          "url": "https://magyaritasok.hu/dl/ScrapMechanic/ScrapMechanic_0.6.5_Build723_HUN.zip",
           "kind": "direct"
         }
       ]
@@ -30515,13 +30635,13 @@
       "language": "Magyar",
       "hasText": true,
       "hasVoice": false,
-      "version": null,
-      "updatedAt": null,
+      "version": "1.0",
+      "updatedAt": "29.05.2014",
       "requiredGameVersion": null,
-      "size": null,
+      "size": "2.89 MB",
       "pageUrl": "https://magyaritasok.hu/games/lego-marvel-super-heroes",
       "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
-      "authorsHtml": "<p>Evin</p>",
+      "authorsHtml": "<p>Evin, HUNosítók Team</p>",
       "inDevelopment": false,
       "mirrors": [
         {
@@ -30574,6 +30694,53 @@
         {
           "label": "Magyarítások",
           "url": "https://magyaritasok.hu/dl/darkcolony/dc_hun.rar",
+          "kind": "direct"
+        }
+      ]
+    },
+    {
+      "steamAppId": "212630",
+      "title": "Tom Clancy's Ghost Recon: Future Soldier",
+      "studio": "Magyarítások",
+      "studioUrl": "https://magyaritasok.hu",
+      "language": "Magyar",
+      "hasText": true,
+      "hasVoice": false,
+      "version": "1.06",
+      "updatedAt": "29.05.2014",
+      "requiredGameVersion": null,
+      "size": "1.08 MB",
+      "pageUrl": "https://magyaritasok.hu/games/tom-clancy-s-ghost-recon-future-soldier",
+      "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
+      "authorsHtml": "<p>Evin</p>",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Magyarítások",
+          "url": "https://magyaritasok.hu/dl/grfuturesoldier/GRFutureSoldier_hunv1.06a.exe",
+          "kind": "direct"
+        }
+      ]
+    },
+    {
+      "title": "Enslaved: Odyssey to the West",
+      "studio": "Magyarítások",
+      "studioUrl": "https://magyaritasok.hu",
+      "language": "Magyar",
+      "hasText": true,
+      "hasVoice": false,
+      "version": "1.1",
+      "updatedAt": "21.10.2023",
+      "requiredGameVersion": null,
+      "size": "3.11 MB",
+      "pageUrl": "https://magyaritasok.hu/games/enslaved-odyssey-to-the-west",
+      "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
+      "authorsHtml": "<p>Evin</p>",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Magyarítások",
+          "url": "https://magyaritasok.hu/dl/enslaved/Enslaved_hunv11.exe",
           "kind": "direct"
         }
       ]
@@ -30646,6 +30813,30 @@
         {
           "label": "Magyarítások",
           "url": "https://magyaritasok.hu/dl/outlast/Outlast_HUN_1.2.exe",
+          "kind": "direct"
+        }
+      ]
+    },
+    {
+      "steamAppId": "243930",
+      "title": "Bound By Flame",
+      "studio": "Magyarítások",
+      "studioUrl": "https://magyaritasok.hu",
+      "language": "Magyar",
+      "hasText": true,
+      "hasVoice": false,
+      "version": "1.0",
+      "updatedAt": "27.11.2014",
+      "requiredGameVersion": null,
+      "size": "915 KB",
+      "pageUrl": "https://magyaritasok.hu/games/bound-by-flame",
+      "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
+      "authorsHtml": "<p>Teomus, Panyi</p>",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Magyarítások",
+          "url": "https://magyaritasok.hu/dl/boundbyflame/bbf_hun_1.0_teomus.zip",
           "kind": "direct"
         }
       ]

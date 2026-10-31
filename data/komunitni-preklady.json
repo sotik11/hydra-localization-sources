@@ -10522,7 +10522,8 @@
           "url": "https://komunitni-preklady.org/download/507?sig=s2OeTKWHDf2BdSGdqC_wxQ",
           "kind": "direct"
         }
-      ]
+      ],
+      "steamAppId": "22000"
     },
     {
       "title": "Professional Fishing 2",
@@ -16977,9 +16978,9 @@
       "hasNeuralVoice": false,
       "hasNeuralDub": false,
       "hasNeuralText": true,
-      "version": "2026.10.17.1",
-      "updatedAt": "17.10.2026",
-      "requiredGameVersion": "v1.2.0.r",
+      "version": "2026.10.30.1",
+      "updatedAt": "30.10.2026",
+      "requiredGameVersion": "v1.2.11.r",
       "pageUrl": "https://komunitni-preklady.org/preklad/news-tower",
       "howToInstallHtml": "<p>Každý překlad má vlastní postup instalace. Otevřete stránku překladu (tlačítko „Otevřít v prohlížeči“ níže) — najdete tam úplný návod k instalaci i tlačítko ke stažení.</p>",
       "authorsHtml": "<p>Livi8D</p>",
@@ -18045,34 +18046,6 @@
       "steamAppId": "1504740"
     },
     {
-      "title": "September 7th",
-      "studio": "Komunitní překlady",
-      "studioUrl": "https://komunitni-preklady.org/preklad/september-7th",
-      "language": "Čeština",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": "1.0",
-      "updatedAt": "12.08.2026",
-      "requiredGameVersion": null,
-      "pageUrl": "https://komunitni-preklady.org/preklad/september-7th",
-      "howToInstallHtml": "<p>Každý překlad má vlastní postup instalace. Otevřete stránku překladu (tlačítko „Otevřít v prohlížeči“ níže) — najdete tam úplný návod k instalaci i tlačítko ke stažení.</p>",
-      "authorsHtml": "<p>PERTIM CZ</p>",
-      "size": "1.10 MB",
-      "inDevelopment": false,
-      "mirrors": [
-        {
-          "label": "Komunitní překlady",
-          "url": "https://komunitni-preklady.org/download/917?sig=_LyhhQo-7rvpp6mzwjaN_g",
-          "kind": "direct"
-        }
-      ],
-      "steamAppId": "2249160"
-    },
-    {
       "title": "Father\\u0027s Day",
       "studio": "Komunitní překlady",
       "studioUrl": "https://komunitni-preklady.org/preklad/fathers-day",
@@ -18095,61 +18068,6 @@
         {
           "label": "Komunitní překlady",
           "url": "https://komunitni-preklady.org/download/918?sig=m56A5yOln1lFoMHfGGUrmA",
-          "kind": "direct"
-        }
-      ]
-    },
-    {
-      "title": "Summer of 58",
-      "studio": "Komunitní překlady",
-      "studioUrl": "https://komunitni-preklady.org/preklad/summer-of-58",
-      "language": "Čeština",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": "1.0",
-      "updatedAt": "13.08.2026",
-      "requiredGameVersion": null,
-      "pageUrl": "https://komunitni-preklady.org/preklad/summer-of-58",
-      "howToInstallHtml": "<p>Každý překlad má vlastní postup instalace. Otevřete stránku překladu (tlačítko „Otevřít v prohlížeči“ níže) — najdete tam úplný návod k instalaci i tlačítko ke stažení.</p>",
-      "authorsHtml": "<p>PERTIM CZ</p>",
-      "size": "98 KB",
-      "inDevelopment": false,
-      "mirrors": [
-        {
-          "label": "Komunitní překlady",
-          "url": "https://komunitni-preklady.org/download/919?sig=1ykc4F8Yq6TtgdbihOSFyg",
-          "kind": "direct"
-        }
-      ],
-      "steamAppId": "1609080"
-    },
-    {
-      "title": "I\\u0027m counting to 6...",
-      "studio": "Komunitní překlady",
-      "studioUrl": "https://komunitni-preklady.org/preklad/im-counting-to-6",
-      "language": "Čeština",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": "1.0",
-      "updatedAt": "13.08.2026",
-      "requiredGameVersion": null,
-      "pageUrl": "https://komunitni-preklady.org/preklad/im-counting-to-6",
-      "howToInstallHtml": "<p>Každý překlad má vlastní postup instalace. Otevřete stránku překladu (tlačítko „Otevřít v prohlížeči“ níže) — najdete tam úplný návod k instalaci i tlačítko ke stažení.</p>",
-      "authorsHtml": "<p>PERTIM CZ</p>",
-      "size": "21 KB",
-      "inDevelopment": false,
-      "mirrors": [
-        {
-          "label": "Komunitní překlady",
-          "url": "https://komunitni-preklady.org/download/920?sig=dfP71_KuO5xqdiE4rDNT1g",
           "kind": "direct"
         }
       ]
@@ -19991,34 +19909,6 @@
       "steamAppId": "1172710"
     },
     {
-      "title": "Resident Evil 2 (1998)",
-      "studio": "Komunitní překlady",
-      "studioUrl": "https://komunitni-preklady.org/preklad/resident-evil-2-1998",
-      "language": "Čeština",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": "1.2",
-      "updatedAt": "07.10.2026",
-      "requiredGameVersion": null,
-      "pageUrl": "https://komunitni-preklady.org/preklad/resident-evil-2-1998",
-      "howToInstallHtml": "<p>Každý překlad má vlastní postup instalace. Otevřete stránku překladu (tlačítko „Otevřít v prohlížeči“ níže) — najdete tam úplný návod k instalaci i tlačítko ke stažení.</p>",
-      "authorsHtml": "<p>PERTIM CZ</p>",
-      "size": null,
-      "inDevelopment": false,
-      "mirrors": [
-        {
-          "label": "Komunitní překlady",
-          "url": "https://komunitni-preklady.org/go/995",
-          "kind": "direct"
-        }
-      ],
-      "steamAppId": "4249110"
-    },
-    {
       "title": "Tharsis",
       "studio": "Komunitní překlady",
       "studioUrl": "https://komunitni-preklady.org/preklad/tharsis",
@@ -20157,34 +20047,6 @@
         }
       ],
       "steamAppId": "2327720"
-    },
-    {
-      "title": "Tomb Raider: Legend",
-      "studio": "Komunitní překlady",
-      "studioUrl": "https://komunitni-preklady.org/preklad/tomb-raider-legend",
-      "language": "Čeština",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": "1.2",
-      "updatedAt": "28.09.2026",
-      "requiredGameVersion": null,
-      "pageUrl": "https://komunitni-preklady.org/preklad/tomb-raider-legend",
-      "howToInstallHtml": "<p>Každý překlad má vlastní postup instalace. Otevřete stránku překladu (tlačítko „Otevřít v prohlížeči“ níže) — najdete tam úplný návod k instalaci i tlačítko ke stažení.</p>",
-      "authorsHtml": "<p>PERTIM CZ</p>",
-      "size": "1.50 MB",
-      "inDevelopment": false,
-      "mirrors": [
-        {
-          "label": "Komunitní překlady",
-          "url": "https://komunitni-preklady.org/download/1001?sig=Aw3Yms4EmxWzbM8uFTSXoQ",
-          "kind": "direct"
-        }
-      ],
-      "steamAppId": "7000"
     },
     {
       "title": "Minecraft Dungeons II",
@@ -20517,7 +20379,8 @@
           "url": "https://komunitni-preklady.org/download/1016?sig=j4ZuaMUtEtDBt7vx2fZDHQ",
           "kind": "direct"
         }
-      ]
+      ],
+      "steamAppId": "22000"
     },
     {
       "title": "Warhammer 40,000: Inquisitor - Prophecy",
@@ -20921,8 +20784,8 @@
       "hasNeuralVoice": false,
       "hasNeuralDub": false,
       "hasNeuralText": true,
-      "version": "1.2",
-      "updatedAt": "29.10.2026",
+      "version": "1.3",
+      "updatedAt": "30.10.2026",
       "requiredGameVersion": "build 26284217",
       "pageUrl": "https://komunitni-preklady.org/preklad/probably-stolen",
       "howToInstallHtml": "<p>Každý překlad má vlastní postup instalace. Otevřete stránku překladu (tlačítko „Otevřít v prohlížeči“ níže) — najdete tam úplný návod k instalaci i tlačítko ke stažení.</p>",
@@ -21245,7 +21108,7 @@
       "hasNeuralDub": false,
       "hasNeuralText": false,
       "version": null,
-      "updatedAt": "28.10.2026",
+      "updatedAt": "29.10.2026",
       "requiredGameVersion": "16390603 (18.11.24)",
       "pageUrl": "https://komunitni-preklady.org/preklad/grand-theft-auto-iii-the-definitive-edition",
       "howToInstallHtml": "<p>Každý překlad má vlastní postup instalace. Otevřete stránku překladu (tlačítko „Otevřít v prohlížeči“ níže) — najdete tam úplný návod k instalaci i tlačítko ke stažení.</p>",
@@ -21294,8 +21157,8 @@
       "hasNeuralVoice": false,
       "hasNeuralDub": false,
       "hasNeuralText": true,
-      "version": "0.8.7",
-      "updatedAt": "28.10.2026",
+      "version": "0.8.8",
+      "updatedAt": "30.10.2026",
       "requiredGameVersion": "28.10.2026",
       "pageUrl": "https://komunitni-preklady.org/preklad/enrage-living-world-and-nemesis-system-rdr2",
       "howToInstallHtml": "<p>Každý překlad má vlastní postup instalace. Otevřete stránku překladu (tlačítko „Otevřít v prohlížeči“ níže) — najdete tam úplný návod k instalaci i tlačítko ke stažení.</p>",
@@ -21349,8 +21212,8 @@
       "hasNeuralVoice": false,
       "hasNeuralDub": false,
       "hasNeuralText": true,
-      "version": "1.0",
-      "updatedAt": "28.10.2026",
+      "version": "1.1",
+      "updatedAt": "29.10.2026",
       "requiredGameVersion": "15526450 (12.02.25)",
       "pageUrl": "https://komunitni-preklady.org/preklad/beyond-blue",
       "howToInstallHtml": "<p>Každý překlad má vlastní postup instalace. Otevřete stránku překladu (tlačítko „Otevřít v prohlížeči“ níže) — najdete tam úplný návod k instalaci i tlačítko ke stažení.</p>",
@@ -21432,13 +21295,13 @@
       "hasNeuralVoice": false,
       "hasNeuralDub": false,
       "hasNeuralText": true,
-      "version": "1.1.1",
-      "updatedAt": "29.10.2026",
-      "requiredGameVersion": "1.1.1",
+      "version": "1.1.8",
+      "updatedAt": "30.10.2026",
+      "requiredGameVersion": "1.1.8",
       "pageUrl": "https://komunitni-preklady.org/preklad/crack",
       "howToInstallHtml": "<p>Každý překlad má vlastní postup instalace. Otevřete stránku překladu (tlačítko „Otevřít v prohlížeči“ níže) — najdete tam úplný návod k instalaci i tlačítko ke stažení.</p>",
       "authorsHtml": "<p>one-man-team</p>",
-      "size": "9.10 MB",
+      "size": "10.6 MB",
       "inDevelopment": false,
       "mirrors": [
         {
@@ -21460,13 +21323,13 @@
       "hasNeuralVoice": false,
       "hasNeuralDub": false,
       "hasNeuralText": true,
-      "version": "1.1.1",
-      "updatedAt": "29.10.2026",
-      "requiredGameVersion": "1.1.1",
+      "version": "1.1.8",
+      "updatedAt": "30.10.2026",
+      "requiredGameVersion": "1.1.8",
       "pageUrl": "https://komunitni-preklady.org/preklad/crack-sk",
       "howToInstallHtml": "<p>Každý preklad má vlastný postup inštalácie. Otvorte stránku prekladu (tlačidlo „Otvoriť v prehliadači“ nižšie) — nájdete tam úplný návod na inštaláciu aj tlačidlo na stiahnutie.</p>",
       "authorsHtml": "<p>one-man-team</p>",
-      "size": "9.10 MB",
+      "size": "10.6 MB",
       "inDevelopment": false,
       "mirrors": [
         {
@@ -21532,6 +21395,196 @@
         }
       ],
       "steamAppId": "4115450"
+    },
+    {
+      "title": "Mass Effect: Andromeda",
+      "studio": "Komunitní překlady",
+      "studioUrl": "https://komunitni-preklady.org/preklad/mass-effect-andromeda",
+      "language": "Slovenčina",
+      "hasText": false,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": true,
+      "version": "0.1",
+      "updatedAt": "29.10.2026",
+      "requiredGameVersion": "1.10",
+      "pageUrl": "https://komunitni-preklady.org/preklad/mass-effect-andromeda",
+      "howToInstallHtml": "<p>Každý preklad má vlastný postup inštalácie. Otvorte stránku prekladu (tlačidlo „Otvoriť v prehliadači“ nižšie) — nájdete tam úplný návod na inštaláciu aj tlačidlo na stiahnutie.</p>",
+      "authorsHtml": "<p>Flego</p>",
+      "size": "30.2 MB",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Komunitní překlady",
+          "url": "https://komunitni-preklady.org/download/1055?sig=cwsvtKRJdAG_pf_OET3Qog",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "1238000"
+    },
+    {
+      "title": "Hunting Simulator 3",
+      "studio": "Komunitní překlady",
+      "studioUrl": "https://komunitni-preklady.org/preklad/hunting-simulator-3",
+      "language": "Čeština",
+      "hasText": false,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": true,
+      "version": "0.12",
+      "updatedAt": "30.10.2026",
+      "requiredGameVersion": "26267130 (28.10.26)",
+      "pageUrl": "https://komunitni-preklady.org/preklad/hunting-simulator-3",
+      "howToInstallHtml": "<p>Každý překlad má vlastní postup instalace. Otevřete stránku překladu (tlačítko „Otevřít v prohlížeči“ níže) — najdete tam úplný návod k instalaci i tlačítko ke stažení.</p>",
+      "authorsHtml": "<p>Maar</p>",
+      "size": "3.00 MB",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Komunitní překlady",
+          "url": "https://komunitni-preklady.org/download/1056?sig=Pqd0TmQGg19KY8--DdvbNw",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "2482760"
+    },
+    {
+      "title": "Orwell: Keeping an Eye on You",
+      "studio": "Komunitní překlady",
+      "studioUrl": "https://komunitni-preklady.org/preklad/orwell-keeping-an-eye-on-you",
+      "language": "Slovenčina",
+      "hasText": false,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": true,
+      "version": "1.0",
+      "updatedAt": "29.10.2026",
+      "requiredGameVersion": null,
+      "pageUrl": "https://komunitni-preklady.org/preklad/orwell-keeping-an-eye-on-you",
+      "howToInstallHtml": "<p>Každý preklad má vlastný postup inštalácie. Otvorte stránku prekladu (tlačidlo „Otvoriť v prehliadači“ nižšie) — nájdete tam úplný návod na inštaláciu aj tlačidlo na stiahnutie.</p>",
+      "authorsHtml": "<p>one-man-team</p>",
+      "size": "208.9 MB",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Komunitní překlady",
+          "url": "https://komunitni-preklady.org/download/1057?sig=RmbDdjhF6VIGqOeNECmW_w",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "491950"
+    },
+    {
+      "title": "Orwell: Keeping an Eye on You",
+      "studio": "Komunitní překlady",
+      "studioUrl": "https://komunitni-preklady.org/preklad/orwell-keeping-an-eye-on-you-cz",
+      "language": "Čeština",
+      "hasText": false,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": true,
+      "version": "1.0",
+      "updatedAt": "29.10.2026",
+      "requiredGameVersion": null,
+      "pageUrl": "https://komunitni-preklady.org/preklad/orwell-keeping-an-eye-on-you-cz",
+      "howToInstallHtml": "<p>Každý překlad má vlastní postup instalace. Otevřete stránku překladu (tlačítko „Otevřít v prohlížeči“ níže) — najdete tam úplný návod k instalaci i tlačítko ke stažení.</p>",
+      "authorsHtml": "<p>one-man-team</p>",
+      "size": "208.9 MB",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Komunitní překlady",
+          "url": "https://komunitni-preklady.org/download/1058?sig=3lb1MmfRmTRhT7QeXQm1Kg",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "491950"
+    },
+    {
+      "title": "Orwell: Ignorance is Strength",
+      "studio": "Komunitní překlady",
+      "studioUrl": "https://komunitni-preklady.org/preklad/orwell-ignorance-is-strength",
+      "language": "Čeština",
+      "hasText": false,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": true,
+      "version": "1.0",
+      "updatedAt": "29.10.2026",
+      "requiredGameVersion": null,
+      "pageUrl": "https://komunitni-preklady.org/preklad/orwell-ignorance-is-strength",
+      "howToInstallHtml": "<p>Každý překlad má vlastní postup instalace. Otevřete stránku překladu (tlačítko „Otevřít v prohlížeči“ níže) — najdete tam úplný návod k instalaci i tlačítko ke stažení.</p>",
+      "authorsHtml": "<p>one-man-team</p>",
+      "size": "46.3 MB",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Komunitní překlady",
+          "url": "https://komunitni-preklady.org/download/1059?sig=fqZvnANFWGWtBYDCGC7WAA",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "633060"
+    },
+    {
+      "title": "Orwell: Ignorance is Strength",
+      "studio": "Komunitní překlady",
+      "studioUrl": "https://komunitni-preklady.org/preklad/orwell-ignorance-is-strength-sk",
+      "language": "Slovenčina",
+      "hasText": false,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": true,
+      "version": "1.0",
+      "updatedAt": "29.10.2026",
+      "requiredGameVersion": null,
+      "pageUrl": "https://komunitni-preklady.org/preklad/orwell-ignorance-is-strength-sk",
+      "howToInstallHtml": "<p>Každý preklad má vlastný postup inštalácie. Otvorte stránku prekladu (tlačidlo „Otvoriť v prehliadači“ nižšie) — nájdete tam úplný návod na inštaláciu aj tlačidlo na stiahnutie.</p>",
+      "authorsHtml": "<p>one-man-team</p>",
+      "size": "46.3 MB",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Komunitní překlady",
+          "url": "https://komunitni-preklady.org/download/1060?sig=pLtkvHWYKNgSfFd0js0SEA",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "633060"
+    },
+    {
+      "title": "Call of Duty: Modern Warfare III",
+      "studio": "Komunitní překlady",
+      "studioUrl": "https://komunitni-preklady.org/preklad/call-of-duty-modern-warfare-iii",
+      "language": "Čeština",
+      "hasText": false,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": true,
+      "version": null,
+      "updatedAt": "30.10.2026",
+      "requiredGameVersion": null,
+      "pageUrl": "https://komunitni-preklady.org/preklad/call-of-duty-modern-warfare-iii",
+      "howToInstallHtml": "<p>Každý překlad má vlastní postup instalace. Otevřete stránku překladu (tlačítko „Otevřít v prohlížeči“ níže) — najdete tam úplný návod k instalaci i tlačítko ke stažení.</p>",
+      "authorsHtml": "<p>Lokalizační penetrátor</p>",
+      "size": null,
+      "inDevelopment": true,
+      "mirrors": [],
+      "steamAppId": "3595270"
     },
     {
       "title": "Borderlands 4",
@@ -21930,11 +21983,11 @@
       "hasNeuralDub": false,
       "hasNeuralText": true,
       "version": null,
-      "updatedAt": "29.10.2026",
+      "updatedAt": "30.10.2026",
       "requiredGameVersion": null,
       "pageUrl": "https://komunitni-preklady.org/preklad/divinity-ii-dragon-knight-saga-",
       "howToInstallHtml": "<p>Každý překlad má vlastní postup instalace. Otevřete stránku překladu (tlačítko „Otevřít v prohlížeči“ níže) — najdete tam úplný návod k instalaci i tlačítko ke stažení.</p>",
-      "authorsHtml": "<p>one-man-team</p>",
+      "authorsHtml": "<p>Livi8D</p>",
       "size": null,
       "inDevelopment": true,
       "mirrors": []
