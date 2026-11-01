@@ -92,6 +92,28 @@
       "mirrors": []
     },
     {
+      "title": "Stubbs the Zombie in Rebel Without a Pulse",
+      "studio": "Lokalizace.net",
+      "studioUrl": "https://lokalizace.net/localizations/stubbs-the-zombie-in-rebel-without-a-pulse",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": null,
+      "updatedAt": null,
+      "pageUrl": "https://lokalizace.net/localizations/stubbs-the-zombie-in-rebel-without-a-pulse",
+      "howToInstallHtml": "<p>Stáhněte ZIP soubor a rozbalte ho do složky hry, nebo použijte aplikaci CZManager pro automatickou instalaci češtiny.</p>",
+      "changelogHtml": "<div><p><strong>Nová verze 1.0.1</strong></p><p>Preklad je teraz funkčný aj pre EPIC a tiež aj pre GOG. Takže funguje na všetkých troch - Steam, Epic, GOG</p></div>",
+      "authorsHtml": "<p>PERTIM</p>",
+      "size": null,
+      "inDevelopment": true,
+      "mirrors": [],
+      "steamAppId": "7800"
+    },
+    {
       "title": "Resident Evil 2 - RE:ENHANCE (1998)",
       "studio": "Lokalizace.net",
       "studioUrl": "https://lokalizace.net/localizations/resident-evil-2-re-enhance-1998",
@@ -14575,7 +14597,7 @@
       "steamAppId": "241540"
     },
     {
-      "title": "Batman Akham Knight",
+      "title": "Batman Arkham Knight",
       "studio": "Lokalizace.net",
       "studioUrl": "https://lokalizace.net/localizations/batman-akham-knight",
       "language": "Čeština",
@@ -14593,7 +14615,8 @@
       "authorsHtml": "<p>Lokalizace.Net</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": []
+      "mirrors": [],
+      "steamAppId": "208650"
     },
     {
       "title": "Sekiro Shadow Die Twice",
@@ -15379,7 +15402,7 @@
       "size": null,
       "inDevelopment": true,
       "mirrors": [],
-      "steamAppId": "202170"
+      "steamAppId": "215220"
     },
     {
       "title": "Evil Within 2",
@@ -15488,8 +15511,7 @@
       "authorsHtml": "<p>Lokalizace.Net</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "1332010"
+      "mirrors": []
     },
     {
       "title": "Dark Souls 3",
@@ -15859,8 +15881,7 @@
       "authorsHtml": "<p>Lokalizace.Net</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "287630"
+      "mirrors": []
     },
     {
       "title": "Vampyr",
@@ -15903,8 +15924,7 @@
       "authorsHtml": "<p>Lokalizace.Net</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "1196590"
+      "mirrors": []
     },
     {
       "title": "Dracula 4 + 5  Special Steam Edition",
@@ -15925,8 +15945,7 @@
       "authorsHtml": "<p>ADV Dream</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "279560"
+      "mirrors": []
     },
     {
       "title": "Dracula 5: The Blood Legacy",
@@ -16204,8 +16223,7 @@
       "authorsHtml": "<p>Lokalizace.Net</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "2050650"
+      "mirrors": []
     },
     {
       "title": "Red Dead Redemption 2",
@@ -16316,6 +16334,50 @@
       "inDevelopment": true,
       "mirrors": [],
       "steamAppId": "2369390"
+    },
+    {
+      "title": "Avatar Legends: The Fighting Game",
+      "studio": "Lokalizace.net",
+      "studioUrl": "https://lokalizace.net/localizations/avatar-legends-the-fighting-game",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": null,
+      "updatedAt": null,
+      "pageUrl": "https://lokalizace.net/localizations/avatar-legends-the-fighting-game",
+      "howToInstallHtml": "<p>Stáhněte ZIP soubor a rozbalte ho do složky hry, nebo použijte aplikaci CZManager pro automatickou instalaci češtiny.</p>",
+      "changelogHtml": null,
+      "authorsHtml": "<p>PERTIM</p>",
+      "size": null,
+      "inDevelopment": true,
+      "mirrors": [],
+      "steamAppId": "2424420"
+    },
+    {
+      "title": "Total Chaos",
+      "studio": "Lokalizace.net",
+      "studioUrl": "https://lokalizace.net/localizations/total-chaos",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": null,
+      "updatedAt": null,
+      "pageUrl": "https://lokalizace.net/localizations/total-chaos",
+      "howToInstallHtml": "<p>Stáhněte ZIP soubor a rozbalte ho do složky hry, nebo použijte aplikaci CZManager pro automatickou instalaci češtiny.</p>",
+      "changelogHtml": null,
+      "authorsHtml": "<p>PERTIM</p>",
+      "size": null,
+      "inDevelopment": true,
+      "mirrors": [],
+      "steamAppId": "2208350"
     },
     {
       "title": "What Remains of Edith Finch",
@@ -16490,8 +16552,7 @@
       "authorsHtml": "<p>Lokalizace.Net</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "1172710"
+      "mirrors": []
     },
     {
       "title": "Resident Evil 4 (2005)",
@@ -16600,8 +16661,7 @@
       "authorsHtml": "<p>miracle.flame</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "2333000"
+      "mirrors": []
     },
     {
       "title": "Resident Evil Code Veronica X (2000)",
@@ -16645,28 +16705,6 @@
       "inDevelopment": true,
       "mirrors": [],
       "steamAppId": "436780"
-    },
-    {
-      "title": "The Witcher 3: Wild Hunt — Remastered DABING",
-      "studio": "Lokalizace.net",
-      "studioUrl": "https://lokalizace.net/localizations/the-witcher-3-wild-hunt-remastered-dabing",
-      "language": "Čeština",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": null,
-      "updatedAt": null,
-      "pageUrl": "https://lokalizace.net/localizations/the-witcher-3-wild-hunt-remastered-dabing",
-      "howToInstallHtml": "<p>Stáhněte ZIP soubor a rozbalte ho do složky hry, nebo použijte aplikaci CZManager pro automatickou instalaci češtiny.</p>",
-      "changelogHtml": "<div><p>Nahrána nová verze překladu: 1.0.1</p><p><strong>Nová verze 1.0.0</strong></p><p>Jedná se jen o náhledovou stránku, postupně budu obnovovat dle hotových postav, ať máte představu jak bude dabing vypadat.</p></div>",
-      "authorsHtml": "<p>Czech dubbing</p>",
-      "size": null,
-      "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "292030"
     },
     {
       "title": "BLOODMONEY: REQUIEM",
@@ -16731,7 +16769,7 @@
       "size": null,
       "inDevelopment": true,
       "mirrors": [],
-      "steamAppId": "4929450"
+      "steamAppId": "5379690"
     },
     {
       "title": "Arctic Awakening",
