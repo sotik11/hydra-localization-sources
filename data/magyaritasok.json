@@ -59,10 +59,10 @@
       "language": "Magyar",
       "hasText": true,
       "hasVoice": false,
-      "version": "1.00",
-      "updatedAt": "30.10.2026",
+      "version": "1.01",
+      "updatedAt": "31.10.2026",
       "requiredGameVersion": null,
-      "size": "5.03 MB",
+      "size": "4.27 MB",
       "pageUrl": "https://magyaritasok.hu/games/the-wolf-among-us-remastered",
       "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
       "authorsHtml": "<p>FEARka, TaleHunters</p>",
@@ -70,7 +70,7 @@
       "mirrors": [
         {
           "label": "Magyarítások",
-          "url": "https://magyaritasok.hu/dl/thewolfamongus/TWAU_Remastered_HUN_1.00.exe",
+          "url": "https://magyaritasok.hu/dl/thewolfamongus/TWAU_Remastered_HUN_1.01.exe",
           "kind": "direct"
         }
       ]
@@ -23199,29 +23199,6 @@
       ]
     },
     {
-      "title": "Dragon Age II: The Exiled Prince",
-      "studio": "Magyarítások",
-      "studioUrl": "https://magyaritasok.hu",
-      "language": "Magyar",
-      "hasText": true,
-      "hasVoice": false,
-      "version": "1.0",
-      "updatedAt": "03.06.2014",
-      "requiredGameVersion": "1.4",
-      "size": "477 KB",
-      "pageUrl": "https://magyaritasok.hu/games/dragon-age-ii-the-exiled-prince",
-      "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
-      "authorsHtml": "<p>Mianmar Greenblod</p>",
-      "inDevelopment": false,
-      "mirrors": [
-        {
-          "label": "Magyarítások",
-          "url": "https://magyaritasok.hu/dl/dragonage/da2_exiled_prince_hu_setup.exe",
-          "kind": "direct"
-        }
-      ]
-    },
-    {
       "steamAppId": "307690",
       "title": "Sleeping Dogs: Definitive Edition",
       "studio": "Magyarítások",
@@ -25024,30 +25001,6 @@
         {
           "label": "Magyarítások",
           "url": "https://magyaritasok.hu/dl/settlers7/settlers7PTAK_hun.exe",
-          "kind": "direct"
-        }
-      ]
-    },
-    {
-      "steamAppId": "319630",
-      "title": "Life is Strange",
-      "studio": "Magyarítások",
-      "studioUrl": "https://magyaritasok.hu",
-      "language": "Magyar",
-      "hasText": true,
-      "hasVoice": false,
-      "version": "5.0",
-      "updatedAt": "19.08.2017",
-      "requiredGameVersion": null,
-      "size": "1.75 MB",
-      "pageUrl": "https://magyaritasok.hu/games/life-is-strange",
-      "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
-      "authorsHtml": "<p>Panyi, FileRise Fordítócsapat</p>",
-      "inDevelopment": false,
-      "mirrors": [
-        {
-          "label": "Magyarítások",
-          "url": "https://magyaritasok.hu/dl/lifeisstrange/LISHUN-5.0.exe",
           "kind": "direct"
         }
       ]
