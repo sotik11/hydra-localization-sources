@@ -52,7 +52,9 @@ const strip = (s) =>
 /* ----------------------------- catalogue index ---------------------------- */
 
 async function fetchCatalogue() {
-  const html = await getText(`${SITE}/seznam-prekladu`);
+  // The full catalogue renders server-side in ~11 s (2026-10-19) — past the
+  // default 8 s timeout, so every try aborted. Detail pages stay on the default.
+  const html = await getText(`${SITE}/seznam-prekladu`, { ms: 30000 });
   const slugs = [...new Set((html.match(/\/seznam-prekladu\/[a-z0-9-]+/gi) || []))];
   return slugs.map((s) => SITE + s);
 }

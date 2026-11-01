@@ -1052,7 +1052,7 @@
       ]
     },
     {
-      "steamAppId": "2229890",
+      "steamAppId": "2229870",
       "title": "Command & Conquer: Tiberian Dawn",
       "studio": "Mechanics VoiceOver",
       "studioUrl": "https://rgmvo.ru",
@@ -1435,7 +1435,7 @@
       ]
     },
     {
-      "steamAppId": "2229890",
+      "steamAppId": "2229870",
       "title": "Command & Conquer:  Red Alert",
       "studio": "Mechanics VoiceOver",
       "studioUrl": "https://rgmvo.ru",
@@ -2186,7 +2186,7 @@
       ]
     },
     {
-      "steamAppId": "5213750",
+      "steamAppId": "4193760",
       "title": "Shadows Of The Damned",
       "studio": "Mechanics VoiceOver",
       "studioUrl": "https://rgmvo.ru",
@@ -2697,7 +2697,7 @@
       "mirrors": []
     },
     {
-      "steamAppId": "2410750",
+      "steamAppId": "1271420",
       "title": "The Chronicles of Riddick",
       "studio": "Mechanics VoiceOver",
       "studioUrl": "https://rgmvo.ru",
@@ -2839,6 +2839,33 @@
       "pageUrl": "https://rgmvo.ru/game/clive-barkers-hellraiser-revival/",
       "inDevelopment": true,
       "mirrors": []
+    },
+    {
+      "steamAppId": "13600",
+      "title": "Prince of Persia - The Sands of Time",
+      "studio": "Mechanics VoiceOver",
+      "studioUrl": "https://rgmvo.ru",
+      "language": "Русский",
+      "hasVoice": true,
+      "hasText": true,
+      "version": "1.01",
+      "updatedAt": "21.10.2026",
+      "requiredGameVersion": "Любая",
+      "howToInstallHtml": "<p><strong>Установка:</strong></p><p>Следуйте инструкциям инсталлятора. Установка полностью автоматическая.</p><br><p><strong>Удаление:</strong></p><p>Зайдите в директорию Install_Rus_Snd и запустите файл unins***.exe.</p>",
+      "pageUrl": "https://rgmvo.ru/game/prince-of-persia-the-sands-of-time/",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Яндекс.Диск",
+          "url": "https://disk.yandex.ru/d/ZaqqOqEAZ3GYIA",
+          "kind": "yandex"
+        },
+        {
+          "label": "Google Drive",
+          "url": "https://drive.google.com/file/d/1MXDUE1go0zdUkSPyWJuvU-2WoLZ63cAP",
+          "kind": "google"
+        }
+      ]
     }
   ]
 }
