@@ -217,6 +217,62 @@
       "steamAppId": "2362060"
     },
     {
+      "title": "No Man's Sky",
+      "studio": "HerníPřeklady",
+      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/no-man-s-sky",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": null,
+      "updatedAt": null,
+      "requiredGameVersion": "7.06_Cosmos_180836",
+      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/no-man-s-sky",
+      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
+      "authorsHtml": "<p><strong>Překlad:</strong> Unread</p>",
+      "inDevelopment": false,
+      "size": "8.81 MB",
+      "mirrors": [
+        {
+          "label": "HerníPřeklady",
+          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=627",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "275850"
+    },
+    {
+      "title": "Cairn",
+      "studio": "HerníPřeklady",
+      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/cairn",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": "1.2",
+      "updatedAt": "13.04.2026",
+      "requiredGameVersion": "1.1.393s_1942",
+      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/cairn",
+      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
+      "authorsHtml": "<p><strong>Překlad a test:</strong> Andrewek</p>",
+      "inDevelopment": false,
+      "size": "2.71 MB",
+      "mirrors": [
+        {
+          "label": "HerníPřeklady",
+          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=551",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "1588550"
+    },
+    {
       "title": "Diablo II Resurrected Infernal Edition",
       "studio": "HerníPřeklady",
       "studioUrl": "https://hernipreklady.cz/seznam-prekladu/diablo-ii-resurrected-infernal-edition",
@@ -383,34 +439,6 @@
         }
       ],
       "steamAppId": "2005090"
-    },
-    {
-      "title": "Cairn",
-      "studio": "HerníPřeklady",
-      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/cairn",
-      "language": "Čeština",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": "1.2",
-      "updatedAt": "13.04.2026",
-      "requiredGameVersion": "1.1.393s_1942",
-      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/cairn",
-      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
-      "authorsHtml": "<p><strong>Překlad a test:</strong> Andrewek</p>",
-      "inDevelopment": false,
-      "size": "2.71 MB",
-      "mirrors": [
-        {
-          "label": "HerníPřeklady",
-          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=551",
-          "kind": "direct"
-        }
-      ],
-      "steamAppId": "1588550"
     },
     {
       "title": "Silver Chains",
@@ -958,34 +986,6 @@
         }
       ],
       "steamAppId": "1902960"
-    },
-    {
-      "title": "No Man's Sky",
-      "studio": "HerníPřeklady",
-      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/no-man-s-sky",
-      "language": "Čeština",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": null,
-      "updatedAt": null,
-      "requiredGameVersion": "7.06_Cosmos_180836",
-      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/no-man-s-sky",
-      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
-      "authorsHtml": "<p><strong>Překlad:</strong> Unread</p>",
-      "inDevelopment": false,
-      "size": "8.81 MB",
-      "mirrors": [
-        {
-          "label": "HerníPřeklady",
-          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=627",
-          "kind": "direct"
-        }
-      ],
-      "steamAppId": "275850"
     },
     {
       "title": "This War of Mine",
