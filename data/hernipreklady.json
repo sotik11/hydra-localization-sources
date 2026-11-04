@@ -217,6 +217,90 @@
       "steamAppId": "2362060"
     },
     {
+      "title": "Graveyard Keeper",
+      "studio": "HerníPřeklady",
+      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/graveyard-keeper",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": "1.36",
+      "updatedAt": "10.04.2026",
+      "requiredGameVersion": "1.407 (Win / PC)",
+      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/graveyard-keeper",
+      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
+      "authorsHtml": "<p><strong>Překlad:</strong> Jetro<br><strong>Testování:</strong> Jetro, Stan307, pesty, Merelen, Barbar</p>",
+      "inDevelopment": false,
+      "size": "9.77 MB",
+      "mirrors": [
+        {
+          "label": "HerníPřeklady",
+          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=550",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "599140"
+    },
+    {
+      "title": "Cairn",
+      "studio": "HerníPřeklady",
+      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/cairn",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": "1.2",
+      "updatedAt": "26.05.2026",
+      "requiredGameVersion": "1.1.393s_1942",
+      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/cairn",
+      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
+      "authorsHtml": "<p><strong>Překlad a test:</strong> Andrewek</p>",
+      "inDevelopment": false,
+      "size": "2.71 MB",
+      "mirrors": [
+        {
+          "label": "HerníPřeklady",
+          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=577",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "1588550"
+    },
+    {
+      "title": "Aliens: Dark Descent",
+      "studio": "HerníPřeklady",
+      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/aliens-dark-descent",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": "1.50",
+      "updatedAt": "04.01.2025",
+      "requiredGameVersion": "Aktuální",
+      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/aliens-dark-descent",
+      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
+      "authorsHtml": null,
+      "inDevelopment": false,
+      "size": "1.14 MB",
+      "mirrors": [
+        {
+          "label": "HerníPřeklady",
+          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=319",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "1150440"
+    },
+    {
       "title": "No Man's Sky",
       "studio": "HerníPřeklady",
       "studioUrl": "https://hernipreklady.cz/seznam-prekladu/no-man-s-sky",
@@ -245,34 +329,6 @@
       "steamAppId": "275850"
     },
     {
-      "title": "Cairn",
-      "studio": "HerníPřeklady",
-      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/cairn",
-      "language": "Čeština",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": "1.2",
-      "updatedAt": "13.04.2026",
-      "requiredGameVersion": "1.1.393s_1942",
-      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/cairn",
-      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
-      "authorsHtml": "<p><strong>Překlad a test:</strong> Andrewek</p>",
-      "inDevelopment": false,
-      "size": "2.71 MB",
-      "mirrors": [
-        {
-          "label": "HerníPřeklady",
-          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=551",
-          "kind": "direct"
-        }
-      ],
-      "steamAppId": "1588550"
-    },
-    {
       "title": "Diablo II Resurrected Infernal Edition",
       "studio": "HerníPřeklady",
       "studioUrl": "https://hernipreklady.cz/seznam-prekladu/diablo-ii-resurrected-infernal-edition",
@@ -299,34 +355,6 @@
         }
       ],
       "steamAppId": "2536520"
-    },
-    {
-      "title": "Daymare 1998",
-      "studio": "HerníPřeklady",
-      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/daymare-1998",
-      "language": "Čeština",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": "1.0",
-      "updatedAt": "03.02.2024",
-      "requiredGameVersion": "Aktuální",
-      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/daymare-1998",
-      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
-      "authorsHtml": null,
-      "inDevelopment": false,
-      "size": "1018 KB",
-      "mirrors": [
-        {
-          "label": "HerníPřeklady",
-          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=31",
-          "kind": "direct"
-        }
-      ],
-      "steamAppId": "842100"
     },
     {
       "title": "Cthulhu: The Cosmic Abyss",
@@ -2162,34 +2190,6 @@
       "steamAppId": "1454970"
     },
     {
-      "title": "Aliens: Dark Descent",
-      "studio": "HerníPřeklady",
-      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/aliens-dark-descent",
-      "language": "Čeština",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": "1.50",
-      "updatedAt": "04.01.2025",
-      "requiredGameVersion": "Aktuální",
-      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/aliens-dark-descent",
-      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
-      "authorsHtml": null,
-      "inDevelopment": false,
-      "size": "1.14 MB",
-      "mirrors": [
-        {
-          "label": "HerníPřeklady",
-          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=319",
-          "kind": "direct"
-        }
-      ],
-      "steamAppId": "1150440"
-    },
-    {
       "title": "Dyson Sphere Program",
       "studio": "HerníPřeklady",
       "studioUrl": "https://hernipreklady.cz/seznam-prekladu/dyson-sphere-program",
@@ -2550,34 +2550,6 @@
         }
       ],
       "steamAppId": "1345890"
-    },
-    {
-      "title": "Graveyard Keeper",
-      "studio": "HerníPřeklady",
-      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/graveyard-keeper",
-      "language": "Čeština",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": "1.36",
-      "updatedAt": "10.04.2026",
-      "requiredGameVersion": "1.407 (Win / PC)",
-      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/graveyard-keeper",
-      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
-      "authorsHtml": "<p><strong>Překlad:</strong> Jetro<br><strong>Testování:</strong> Jetro, Stan307, pesty, Merelen, Barbar</p>",
-      "inDevelopment": false,
-      "size": "9.77 MB",
-      "mirrors": [
-        {
-          "label": "HerníPřeklady",
-          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=550",
-          "kind": "direct"
-        }
-      ],
-      "steamAppId": "599140"
     },
     {
       "title": "Moss",
@@ -5079,6 +5051,34 @@
         }
       ],
       "steamAppId": "1096570"
+    },
+    {
+      "title": "Daymare 1998",
+      "studio": "HerníPřeklady",
+      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/daymare-1998",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": "1.0",
+      "updatedAt": "03.02.2024",
+      "requiredGameVersion": "Aktuální",
+      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/daymare-1998",
+      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
+      "authorsHtml": null,
+      "inDevelopment": false,
+      "size": "1018 KB",
+      "mirrors": [
+        {
+          "label": "HerníPřeklady",
+          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=31",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "842100"
     },
     {
       "title": "Kingdom Rush Vengeance",
