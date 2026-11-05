@@ -5,6 +5,33 @@
   "siteUrl": "https://www.calypsoceviri.com",
   "localizations": [
     {
+      "title": "Forever Ago",
+      "studio": "Calypso Çeviri",
+      "studioUrl": "https://www.calypsoceviri.com",
+      "language": "Türkçe",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": "1",
+      "updatedAt": "04.11.2026",
+      "pageUrl": "https://www.calypsoceviri.com/turkce-yamalar/forever-ago-turkce-yama-indir",
+      "howToInstallHtml": "<div>Aşağıda vermiş olduğumuz linkten indirdiğiniz Rar dosyasındaki Türkçe Yama exesini, oyunun kurulu olduğu ana dosya konumuna atarak, Türkçe yama exesini çalıştırın. Oyunun ana dosya konumunun seçili olduğunu kontrol ettikten sonra, hangi platformdan oynuyorsanız, o platformun yükle butonuna basarak yamayı yükleyebilirsiniz. <br><br>Yamayı kaldırmak isterseniz, oyunun dosyalarını doğrulamanız gerekiyor.</div>",
+      "authorsHtml": "<p>N.</p>",
+      "size": "4.20 MB",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Calypso Çeviri",
+          "url": "https://www.calypsoceviri.com/_files/archives/7d262d_1770115cfee2493390792595721d3f80.zip?dn=Forever%2520Ago%2520T%25C3%25BCrk%25C3%25A7e%2520Yama%2520V1.zip",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "1215940"
+    },
+    {
       "title": "Probably Stolen - Cyberpunk Shopkeeper Sim",
       "studio": "Calypso Çeviri",
       "studioUrl": "https://www.calypsoceviri.com",
@@ -42,8 +69,8 @@
       "hasNeuralVoice": false,
       "hasNeuralDub": false,
       "hasNeuralText": false,
-      "version": "2",
-      "updatedAt": "01.11.2026",
+      "version": "3",
+      "updatedAt": "04.11.2026",
       "pageUrl": "https://www.calypsoceviri.com/turkce-yamalar/phantom-blade-zero-turkce-yama-indir",
       "howToInstallHtml": "<div>Aşağıda vermiş olduğumuz linkten indirdiğiniz Rar dosyasındaki Türkçe Yama exesini, oyunun kurulu olduğu ana dosya konumuna atarak, Türkçe yama exesini çalıştırın. Oyunun ana dosya konumunun seçili olduğunu kontrol ettikten sonra, hangi platformdan oynuyorsanız, o platformun yükle butonuna basarak yamayı yükleyebilirsiniz. <br><br>Yamayı kaldırmak isterseniz, oyunun dosya konumundaki \"Phantom_YamaKaldır.exe\"'yi kullanarak, yamayı kaldırabilirsiniz.</div>",
       "authorsHtml": "<p>VolkTyson, Indra</p>",
@@ -52,7 +79,7 @@
       "mirrors": [
         {
           "label": "Calypso Çeviri",
-          "url": "https://www.calypsoceviri.com/_files/archives/7d262d_2fc9f13f9d8849898e69543d9596d5a9.zip?dn=Phantom%2520Blade%2520Zero%2520T%25C3%25BCrk%25C3%25A7e%2520Yama%2520V2.zip",
+          "url": "https://www.calypsoceviri.com/_files/archives/7d262d_d776e72113d143dd80ad54ee739d2704.zip?dn=Phantom%2520Blade%2520Zero%2520T%25C3%25BCrk%25C3%25A7e%2520Yama%2520V3.zip",
           "kind": "direct"
         }
       ],
