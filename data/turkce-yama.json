@@ -298,9 +298,9 @@
       "steamAppId": "1174180"
     },
     {
-      "title": "Rise of the Tomb Raider",
+      "title": "Assassin's Creed Valhalla",
       "studio": "Türkçe Yama",
-      "studioUrl": "https://turkce-yama.com/rise-of-the-tomb-raider-turkce-yama.htm",
+      "studioUrl": "https://turkce-yama.com/assassins-creed-valhalla-turkce-yama.htm",
       "language": "Türkçe",
       "hasText": true,
       "hasVoice": false,
@@ -309,20 +309,20 @@
       "hasNeuralDub": false,
       "hasNeuralText": false,
       "version": null,
-      "updatedAt": "19.01.2020",
-      "pageUrl": "https://turkce-yama.com/rise-of-the-tomb-raider-turkce-yama.htm",
+      "updatedAt": "15.03.2026",
+      "pageUrl": "https://turkce-yama.com/assassins-creed-valhalla-turkce-yama.htm",
       "howToInstallHtml": "<ol><li>Yama dosyasını yukarıdaki «İndir» butonuyla indirin.</li><li>Kurulum dosyasıysa (.exe) çalıştırın; arşivse (.rar/.zip) çıkartın.</li><li>Oyunun kurulu olduğu klasörü gösterin / dosyaları oraya kopyalayın.</li><li>Oyunu başlatın — Türkçe yama uygulanmış olacaktır.</li></ol>",
-      "authorsHtml": null,
-      "size": "173.4 MB",
+      "authorsHtml": "<p>Animus Projesi</p>",
+      "size": "19.3 MB",
       "inDevelopment": false,
       "mirrors": [
         {
           "label": "Türkçe Yama",
-          "url": "https://turkce-yama.com/rise-of-the-tomb-raider-turkce-yama.htm",
+          "url": "https://turkce-yama.com/assassins-creed-valhalla-turkce-yama.htm",
           "kind": "other"
         }
       ],
-      "steamAppId": "391220"
+      "steamAppId": "2208920"
     },
     {
       "title": "Call of Duty: Modern Warfare 2",
@@ -406,9 +406,35 @@
       "steamAppId": "750920"
     },
     {
-      "title": "Call of Duty 4 Modern Warfare",
+      "title": "Need for Speed: Underground 2",
       "studio": "Türkçe Yama",
-      "studioUrl": "https://turkce-yama.com/call-of-duty-4-modern-warfare-turkce-yama.htm",
+      "studioUrl": "https://turkce-yama.com/need-for-speed-underground-2-turkce-yama.htm",
+      "language": "Türkçe",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": null,
+      "updatedAt": "25.04.2014",
+      "pageUrl": "https://turkce-yama.com/need-for-speed-underground-2-turkce-yama.htm",
+      "howToInstallHtml": "<ol><li>Yama dosyasını yukarıdaki «İndir» butonuyla indirin.</li><li>Kurulum dosyasıysa (.exe) çalıştırın; arşivse (.rar/.zip) çıkartın.</li><li>Oyunun kurulu olduğu klasörü gösterin / dosyaları oraya kopyalayın.</li><li>Oyunu başlatın — Türkçe yama uygulanmış olacaktır.</li></ol>",
+      "authorsHtml": null,
+      "size": "117.4 MB",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Türkçe Yama",
+          "url": "https://turkce-yama.com/need-for-speed-underground-2-turkce-yama.htm",
+          "kind": "other"
+        }
+      ]
+    },
+    {
+      "title": "Pro Evolution Soccer 2013",
+      "studio": "Türkçe Yama",
+      "studioUrl": "https://turkce-yama.com/pro-evolution-soccer-2013-turkce-yama.htm",
       "language": "Türkçe",
       "hasText": true,
       "hasVoice": false,
@@ -418,19 +444,100 @@
       "hasNeuralText": false,
       "version": null,
       "updatedAt": "21.04.2014",
-      "pageUrl": "https://turkce-yama.com/call-of-duty-4-modern-warfare-turkce-yama.htm",
+      "pageUrl": "https://turkce-yama.com/pro-evolution-soccer-2013-turkce-yama.htm",
       "howToInstallHtml": "<ol><li>Yama dosyasını yukarıdaki «İndir» butonuyla indirin.</li><li>Kurulum dosyasıysa (.exe) çalıştırın; arşivse (.rar/.zip) çıkartın.</li><li>Oyunun kurulu olduğu klasörü gösterin / dosyaları oraya kopyalayın.</li><li>Oyunu başlatın — Türkçe yama uygulanmış olacaktır.</li></ol>",
-      "authorsHtml": null,
-      "size": "81.5 MB",
+      "authorsHtml": "<p>Konami</p>",
+      "size": "36.1 MB",
       "inDevelopment": false,
       "mirrors": [
         {
           "label": "Türkçe Yama",
-          "url": "https://turkce-yama.com/call-of-duty-4-modern-warfare-turkce-yama.htm",
+          "url": "https://turkce-yama.com/pro-evolution-soccer-2013-turkce-yama.htm",
           "kind": "other"
         }
       ],
-      "steamAppId": "7940"
+      "steamAppId": "221430"
+    },
+    {
+      "title": "Rise of the Tomb Raider",
+      "studio": "Türkçe Yama",
+      "studioUrl": "https://turkce-yama.com/rise-of-the-tomb-raider-turkce-yama.htm",
+      "language": "Türkçe",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": null,
+      "updatedAt": "19.01.2020",
+      "pageUrl": "https://turkce-yama.com/rise-of-the-tomb-raider-turkce-yama.htm",
+      "howToInstallHtml": "<ol><li>Yama dosyasını yukarıdaki «İndir» butonuyla indirin.</li><li>Kurulum dosyasıysa (.exe) çalıştırın; arşivse (.rar/.zip) çıkartın.</li><li>Oyunun kurulu olduğu klasörü gösterin / dosyaları oraya kopyalayın.</li><li>Oyunu başlatın — Türkçe yama uygulanmış olacaktır.</li></ol>",
+      "authorsHtml": null,
+      "size": "173.4 MB",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Türkçe Yama",
+          "url": "https://turkce-yama.com/rise-of-the-tomb-raider-turkce-yama.htm",
+          "kind": "other"
+        }
+      ],
+      "steamAppId": "391220"
+    },
+    {
+      "title": "Assassin's Creed Odyssey",
+      "studio": "Türkçe Yama",
+      "studioUrl": "https://turkce-yama.com/assassins-creed-odyssey-turkce-yama.htm",
+      "language": "Türkçe",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": null,
+      "updatedAt": "15.03.2026",
+      "pageUrl": "https://turkce-yama.com/assassins-creed-odyssey-turkce-yama.htm",
+      "howToInstallHtml": "<ol><li>Yama dosyasını yukarıdaki «İndir» butonuyla indirin.</li><li>Kurulum dosyasıysa (.exe) çalıştırın; arşivse (.rar/.zip) çıkartın.</li><li>Oyunun kurulu olduğu klasörü gösterin / dosyaları oraya kopyalayın.</li><li>Oyunu başlatın — Türkçe yama uygulanmış olacaktır.</li></ol>",
+      "authorsHtml": "<p>Animus Projesi</p>",
+      "size": "4.27 MB",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Türkçe Yama",
+          "url": "https://turkce-yama.com/assassins-creed-odyssey-turkce-yama.htm",
+          "kind": "other"
+        }
+      ],
+      "steamAppId": "812140"
+    },
+    {
+      "title": "Metro 2033 Redux",
+      "studio": "Türkçe Yama",
+      "studioUrl": "https://turkce-yama.com/metro-2033-redux-turkce-yama.htm",
+      "language": "Türkçe",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": null,
+      "updatedAt": "01.01.2019",
+      "pageUrl": "https://turkce-yama.com/metro-2033-redux-turkce-yama.htm",
+      "howToInstallHtml": "<ol><li>Yama dosyasını yukarıdaki «İndir» butonuyla indirin.</li><li>Kurulum dosyasıysa (.exe) çalıştırın; arşivse (.rar/.zip) çıkartın.</li><li>Oyunun kurulu olduğu klasörü gösterin / dosyaları oraya kopyalayın.</li><li>Oyunu başlatın — Türkçe yama uygulanmış olacaktır.</li></ol>",
+      "authorsHtml": null,
+      "size": "5.08 MB",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Türkçe Yama",
+          "url": "https://turkce-yama.com/metro-2033-redux-turkce-yama.htm",
+          "kind": "other"
+        }
+      ],
+      "steamAppId": "286690"
     },
     {
       "title": "Far Cry 3",
@@ -460,86 +567,6 @@
       "steamAppId": "220240"
     },
     {
-      "title": "Need for Speed: Underground 2",
-      "studio": "Türkçe Yama",
-      "studioUrl": "https://turkce-yama.com/need-for-speed-underground-2-turkce-yama.htm",
-      "language": "Türkçe",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": null,
-      "updatedAt": "25.04.2014",
-      "pageUrl": "https://turkce-yama.com/need-for-speed-underground-2-turkce-yama.htm",
-      "howToInstallHtml": "<ol><li>Yama dosyasını yukarıdaki «İndir» butonuyla indirin.</li><li>Kurulum dosyasıysa (.exe) çalıştırın; arşivse (.rar/.zip) çıkartın.</li><li>Oyunun kurulu olduğu klasörü gösterin / dosyaları oraya kopyalayın.</li><li>Oyunu başlatın — Türkçe yama uygulanmış olacaktır.</li></ol>",
-      "authorsHtml": null,
-      "size": "117.4 MB",
-      "inDevelopment": false,
-      "mirrors": [
-        {
-          "label": "Türkçe Yama",
-          "url": "https://turkce-yama.com/need-for-speed-underground-2-turkce-yama.htm",
-          "kind": "other"
-        }
-      ]
-    },
-    {
-      "title": "Call of Duty: Modern Warfare 3",
-      "studio": "Türkçe Yama",
-      "studioUrl": "https://turkce-yama.com/call-of-duty-modern-warfare-3-turkce-yama.htm",
-      "language": "Türkçe",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": null,
-      "updatedAt": "25.04.2014",
-      "pageUrl": "https://turkce-yama.com/call-of-duty-modern-warfare-3-turkce-yama.htm",
-      "howToInstallHtml": "<ol><li>Yama dosyasını yukarıdaki «İndir» butonuyla indirin.</li><li>Kurulum dosyasıysa (.exe) çalıştırın; arşivse (.rar/.zip) çıkartın.</li><li>Oyunun kurulu olduğu klasörü gösterin / dosyaları oraya kopyalayın.</li><li>Oyunu başlatın — Türkçe yama uygulanmış olacaktır.</li></ol>",
-      "authorsHtml": null,
-      "size": "2.20 GB",
-      "inDevelopment": false,
-      "mirrors": [
-        {
-          "label": "Türkçe Yama",
-          "url": "https://turkce-yama.com/call-of-duty-modern-warfare-3-turkce-yama.htm",
-          "kind": "other"
-        }
-      ],
-      "steamAppId": "3595270"
-    },
-    {
-      "title": "Grand Theft Auto: San Andreas",
-      "studio": "Türkçe Yama",
-      "studioUrl": "https://turkce-yama.com/grand-theft-auto-san-andreas-turkce-yama.htm",
-      "language": "Türkçe",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": null,
-      "updatedAt": "21.04.2014",
-      "pageUrl": "https://turkce-yama.com/grand-theft-auto-san-andreas-turkce-yama.htm",
-      "howToInstallHtml": "<ol><li>Yama dosyasını yukarıdaki «İndir» butonuyla indirin.</li><li>Kurulum dosyasıysa (.exe) çalıştırın; arşivse (.rar/.zip) çıkartın.</li><li>Oyunun kurulu olduğu klasörü gösterin / dosyaları oraya kopyalayın.</li><li>Oyunu başlatın — Türkçe yama uygulanmış olacaktır.</li></ol>",
-      "authorsHtml": "<p>Gta Bullet</p>",
-      "size": "589 KB",
-      "inDevelopment": false,
-      "mirrors": [
-        {
-          "label": "Türkçe Yama",
-          "url": "https://turkce-yama.com/grand-theft-auto-san-andreas-turkce-yama.htm",
-          "kind": "other"
-        }
-      ],
-      "steamAppId": "1547000"
-    },
-    {
       "title": "Mafia 2",
       "studio": "Türkçe Yama",
       "studioUrl": "https://turkce-yama.com/mafia-2-turkce-yama.htm",
@@ -565,33 +592,6 @@
         }
       ],
       "steamAppId": "50130"
-    },
-    {
-      "title": "Pro Evolution Soccer 2013",
-      "studio": "Türkçe Yama",
-      "studioUrl": "https://turkce-yama.com/pro-evolution-soccer-2013-turkce-yama.htm",
-      "language": "Türkçe",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": null,
-      "updatedAt": "21.04.2014",
-      "pageUrl": "https://turkce-yama.com/pro-evolution-soccer-2013-turkce-yama.htm",
-      "howToInstallHtml": "<ol><li>Yama dosyasını yukarıdaki «İndir» butonuyla indirin.</li><li>Kurulum dosyasıysa (.exe) çalıştırın; arşivse (.rar/.zip) çıkartın.</li><li>Oyunun kurulu olduğu klasörü gösterin / dosyaları oraya kopyalayın.</li><li>Oyunu başlatın — Türkçe yama uygulanmış olacaktır.</li></ol>",
-      "authorsHtml": "<p>Konami</p>",
-      "size": "36.1 MB",
-      "inDevelopment": false,
-      "mirrors": [
-        {
-          "label": "Türkçe Yama",
-          "url": "https://turkce-yama.com/pro-evolution-soccer-2013-turkce-yama.htm",
-          "kind": "other"
-        }
-      ],
-      "steamAppId": "221430"
     },
     {
       "title": "The Witcher 3: Wild Hunt",
@@ -781,60 +781,6 @@
         }
       ],
       "steamAppId": "5030940"
-    },
-    {
-      "title": "Assassin's Creed Valhalla",
-      "studio": "Türkçe Yama",
-      "studioUrl": "https://turkce-yama.com/assassins-creed-valhalla-turkce-yama.htm",
-      "language": "Türkçe",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": null,
-      "updatedAt": "15.03.2026",
-      "pageUrl": "https://turkce-yama.com/assassins-creed-valhalla-turkce-yama.htm",
-      "howToInstallHtml": "<ol><li>Yama dosyasını yukarıdaki «İndir» butonuyla indirin.</li><li>Kurulum dosyasıysa (.exe) çalıştırın; arşivse (.rar/.zip) çıkartın.</li><li>Oyunun kurulu olduğu klasörü gösterin / dosyaları oraya kopyalayın.</li><li>Oyunu başlatın — Türkçe yama uygulanmış olacaktır.</li></ol>",
-      "authorsHtml": "<p>Animus Projesi</p>",
-      "size": "19.3 MB",
-      "inDevelopment": false,
-      "mirrors": [
-        {
-          "label": "Türkçe Yama",
-          "url": "https://turkce-yama.com/assassins-creed-valhalla-turkce-yama.htm",
-          "kind": "other"
-        }
-      ],
-      "steamAppId": "2208920"
-    },
-    {
-      "title": "Assassin's Creed Odyssey",
-      "studio": "Türkçe Yama",
-      "studioUrl": "https://turkce-yama.com/assassins-creed-odyssey-turkce-yama.htm",
-      "language": "Türkçe",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": null,
-      "updatedAt": "15.03.2026",
-      "pageUrl": "https://turkce-yama.com/assassins-creed-odyssey-turkce-yama.htm",
-      "howToInstallHtml": "<ol><li>Yama dosyasını yukarıdaki «İndir» butonuyla indirin.</li><li>Kurulum dosyasıysa (.exe) çalıştırın; arşivse (.rar/.zip) çıkartın.</li><li>Oyunun kurulu olduğu klasörü gösterin / dosyaları oraya kopyalayın.</li><li>Oyunu başlatın — Türkçe yama uygulanmış olacaktır.</li></ol>",
-      "authorsHtml": "<p>Animus Projesi</p>",
-      "size": "4.27 MB",
-      "inDevelopment": false,
-      "mirrors": [
-        {
-          "label": "Türkçe Yama",
-          "url": "https://turkce-yama.com/assassins-creed-odyssey-turkce-yama.htm",
-          "kind": "other"
-        }
-      ],
-      "steamAppId": "812140"
     },
     {
       "title": "Assassin's Creed Origins",
@@ -5997,33 +5943,6 @@
         }
       ],
       "steamAppId": "287390"
-    },
-    {
-      "title": "Metro 2033 Redux",
-      "studio": "Türkçe Yama",
-      "studioUrl": "https://turkce-yama.com/metro-2033-redux-turkce-yama.htm",
-      "language": "Türkçe",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": null,
-      "updatedAt": "01.01.2019",
-      "pageUrl": "https://turkce-yama.com/metro-2033-redux-turkce-yama.htm",
-      "howToInstallHtml": "<ol><li>Yama dosyasını yukarıdaki «İndir» butonuyla indirin.</li><li>Kurulum dosyasıysa (.exe) çalıştırın; arşivse (.rar/.zip) çıkartın.</li><li>Oyunun kurulu olduğu klasörü gösterin / dosyaları oraya kopyalayın.</li><li>Oyunu başlatın — Türkçe yama uygulanmış olacaktır.</li></ol>",
-      "authorsHtml": null,
-      "size": "5.08 MB",
-      "inDevelopment": false,
-      "mirrors": [
-        {
-          "label": "Türkçe Yama",
-          "url": "https://turkce-yama.com/metro-2033-redux-turkce-yama.htm",
-          "kind": "other"
-        }
-      ],
-      "steamAppId": "286690"
     },
     {
       "title": "Knight Rider: The Game",
@@ -11192,7 +11111,8 @@
           "url": "https://turkce-yama.com/the-sims-3-turkce-yama.htm",
           "kind": "other"
         }
-      ]
+      ],
+      "steamAppId": "47890"
     },
     {
       "title": "Risen",
@@ -11218,7 +11138,8 @@
           "url": "https://turkce-yama.com/risen-turkce-yama.htm",
           "kind": "other"
         }
-      ]
+      ],
+      "steamAppId": "40300"
     },
     {
       "title": "Red Orchestra 2: Heroes of Stalingrad",
@@ -11349,7 +11270,8 @@
           "url": "https://turkce-yama.com/max-payne-3-turkce-yama.htm",
           "kind": "other"
         }
-      ]
+      ],
+      "steamAppId": "204100"
     },
     {
       "title": "Medal Of Honor",
@@ -11375,7 +11297,8 @@
           "url": "https://turkce-yama.com/medal-of-honor-turkce-yama.htm",
           "kind": "other"
         }
-      ]
+      ],
+      "steamAppId": "47790"
     },
     {
       "title": "Metro 2033",
@@ -11428,7 +11351,8 @@
           "url": "https://turkce-yama.com/mafia-turkce-yama.htm",
           "kind": "other"
         }
-      ]
+      ],
+      "steamAppId": "40990"
     },
     {
       "title": "Mark of the Ninja",
@@ -11454,7 +11378,8 @@
           "url": "https://turkce-yama.com/mark-of-the-ninja-turkce-yama.htm",
           "kind": "other"
         }
-      ]
+      ],
+      "steamAppId": "214560"
     },
     {
       "title": "Max Payne 2: The Fall of Max Payne",
@@ -11480,7 +11405,8 @@
           "url": "https://turkce-yama.com/max-payne-2-the-fall-of-max-payne-turkce-yama.htm",
           "kind": "other"
         }
-      ]
+      ],
+      "steamAppId": "12150"
     },
     {
       "title": "Medal of Honor: Airborne",
@@ -11506,7 +11432,8 @@
           "url": "https://turkce-yama.com/medal-of-honor-airborne-turkce-yama.htm",
           "kind": "other"
         }
-      ]
+      ],
+      "steamAppId": "47790"
     },
     {
       "title": "Mount & Blade: Ateş ve Kılıç",
@@ -11532,7 +11459,8 @@
           "url": "https://turkce-yama.com/mount-blade-ates-ve-kilic-turkce-yama.htm",
           "kind": "other"
         }
-      ]
+      ],
+      "steamAppId": "22100"
     },
     {
       "title": "Mount & Blade",
@@ -11558,7 +11486,8 @@
           "url": "https://turkce-yama.com/mount-blade-turkce-yama.htm",
           "kind": "other"
         }
-      ]
+      ],
+      "steamAppId": "22100"
     },
     {
       "title": "Mystery Case Files: 13th Skull",
@@ -11584,7 +11513,8 @@
           "url": "https://turkce-yama.com/mystery-case-files-13th-skull-turkce-yama.htm",
           "kind": "other"
         }
-      ]
+      ],
+      "steamAppId": "514700"
     },
     {
       "title": "Ninja Blade",
@@ -11663,7 +11593,8 @@
           "url": "https://turkce-yama.com/need-for-speed-prostreet-turkce-yama.htm",
           "kind": "other"
         }
-      ]
+      ],
+      "steamAppId": "1262540"
     },
     {
       "title": "Supercow",
@@ -11689,7 +11620,8 @@
           "url": "https://turkce-yama.com/supercow-turkce-yama.htm",
           "kind": "other"
         }
-      ]
+      ],
+      "steamAppId": "1883570"
     },
     {
       "title": "Need for Speed: Shift",
@@ -11715,7 +11647,8 @@
           "url": "https://turkce-yama.com/need-for-speed-shift-turkce-yama.htm",
           "kind": "other"
         }
-      ]
+      ],
+      "steamAppId": "1262540"
     },
     {
       "title": "S.T.A.L.K.E.R.: Shadow of Chernobyl",
@@ -11768,7 +11701,8 @@
           "url": "https://turkce-yama.com/need-for-speed-undercover-turkce-yama.htm",
           "kind": "other"
         }
-      ]
+      ],
+      "steamAppId": "1262540"
     },
     {
       "title": "S.T.A.L.K.E.R.: Clear Sky",
@@ -11953,7 +11887,8 @@
           "url": "https://turkce-yama.com/need-for-speed-underground-turkce-yama.htm",
           "kind": "other"
         }
-      ]
+      ],
+      "steamAppId": "1262540"
     },
     {
       "title": "Oddworld: Abe's Oddysee",
@@ -11979,7 +11914,8 @@
           "url": "https://turkce-yama.com/oddworld-abes-oddysee-turkce-yama.htm",
           "kind": "other"
         }
-      ]
+      ],
+      "steamAppId": "15700"
     },
     {
       "title": "Sniper Art Of Victory",
@@ -12005,7 +11941,8 @@
           "url": "https://turkce-yama.com/sniper-art-of-victory-turkce-yama.htm",
           "kind": "other"
         }
-      ]
+      ],
+      "steamAppId": "271500"
     },
     {
       "title": "Portal 2",
@@ -12031,7 +11968,8 @@
           "url": "https://turkce-yama.com/portal-2-turkce-yama.htm",
           "kind": "other"
         }
-      ]
+      ],
+      "steamAppId": "620"
     },
     {
       "title": "Tom Clancy's Splinter Cell: Pandora Tomorrow",
@@ -12057,7 +11995,8 @@
           "url": "https://turkce-yama.com/tom-clancys-splinter-cell-pandora-tomorrow-turkce-yama.htm",
           "kind": "other"
         }
-      ]
+      ],
+      "steamAppId": "3929740"
     },
     {
       "title": "Psychotoxic",
@@ -12109,7 +12048,8 @@
           "url": "https://turkce-yama.com/star-wars-jedi-knight-ii-jedi-outcast-turkce-yama.htm",
           "kind": "other"
         }
-      ]
+      ],
+      "steamAppId": "6030"
     },
     {
       "title": "Prince of Persia 2008",
@@ -12135,7 +12075,8 @@
           "url": "https://turkce-yama.com/prince-of-persia-2008-turkce-yama.htm",
           "kind": "other"
         }
-      ]
+      ],
+      "steamAppId": "19980"
     },
     {
       "title": "Prince of Persia: The Sands of Time",
@@ -12161,7 +12102,8 @@
           "url": "https://turkce-yama.com/prince-of-persia-the-sands-of-time-turkce-yama.htm",
           "kind": "other"
         }
-      ]
+      ],
+      "steamAppId": "13600"
     },
     {
       "title": "The Secret Legacy: A Kate Brooks Adventure",
@@ -12213,7 +12155,8 @@
           "url": "https://turkce-yama.com/prince-of-persia-the-two-thrones-turkce-yama.htm",
           "kind": "other"
         }
-      ]
+      ],
+      "steamAppId": "13530"
     },
     {
       "title": "The Walking Dead Episode 1 – A New Day",
@@ -12265,7 +12208,8 @@
           "url": "https://turkce-yama.com/prince-of-persia-warrior-within-turkce-yama.htm",
           "kind": "other"
         }
-      ]
+      ],
+      "steamAppId": "13500"
     },
     {
       "title": "The Walking Dead Episode 2 – Starved For Help",
@@ -12317,7 +12261,8 @@
           "url": "https://turkce-yama.com/penumbra-overture-episode-one-turkce-yama.htm",
           "kind": "other"
         }
-      ]
+      ],
+      "steamAppId": "22180"
     },
     {
       "title": "The Walking Dead Episode 3 – Long Road Ahead",
@@ -12448,7 +12393,8 @@
           "url": "https://turkce-yama.com/portal-turkce-yama.htm",
           "kind": "other"
         }
-      ]
+      ],
+      "steamAppId": "400"
     },
     {
       "title": "The Walking Dead Episode 5 – No Time Left",
@@ -12578,7 +12524,8 @@
           "url": "https://turkce-yama.com/prey-turkce-yama.htm",
           "kind": "other"
         }
-      ]
+      ],
+      "steamAppId": "480490"
     },
     {
       "title": "Mirror’s Edge",
@@ -12604,7 +12551,8 @@
           "url": "https://turkce-yama.com/mirrors-edge-turkce-yama.htm",
           "kind": "other"
         }
-      ]
+      ],
+      "steamAppId": "17410"
     },
     {
       "title": "The Saboteur",
@@ -12630,7 +12578,8 @@
           "url": "https://turkce-yama.com/the-saboteur-turkce-yama.htm",
           "kind": "other"
         }
-      ]
+      ],
+      "steamAppId": "24880"
     },
     {
       "title": "Tom Clancy's EndWar",
@@ -12656,7 +12605,8 @@
           "url": "https://turkce-yama.com/tom-clancys-endwar-turkce-yama.htm",
           "kind": "other"
         }
-      ]
+      ],
+      "steamAppId": "21800"
     },
     {
       "title": "Tomb Raider: Legend",
@@ -12682,7 +12632,8 @@
           "url": "https://turkce-yama.com/tomb-raider-legend-turkce-yama.htm",
           "kind": "other"
         }
-      ]
+      ],
+      "steamAppId": "7000"
     },
     {
       "title": "Toy Defense",
@@ -12734,7 +12685,8 @@
           "url": "https://turkce-yama.com/velvet-assassin-turkce-yama.htm",
           "kind": "other"
         }
-      ]
+      ],
+      "steamAppId": "16720"
     },
     {
       "title": "UEFA Euro 2008",
@@ -12786,7 +12738,8 @@
           "url": "https://turkce-yama.com/wall-e-turkce-yama.htm",
           "kind": "other"
         }
-      ]
+      ],
+      "steamAppId": "5449220"
     },
     {
       "title": "Wolfenstein",
@@ -12865,7 +12818,8 @@
           "url": "https://turkce-yama.com/alan-wake-american-nightmare-turkce-yama.htm",
           "kind": "other"
         }
-      ]
+      ],
+      "steamAppId": "202750"
     },
     {
       "title": "Pro Evolution Soccer 5",
@@ -13179,7 +13133,8 @@
           "url": "https://turkce-yama.com/dmc-devil-may-cry-turkce-yama.htm",
           "kind": "other"
         }
-      ]
+      ],
+      "steamAppId": "220440"
     },
     {
       "title": "Rise of Nations",
@@ -13232,7 +13187,8 @@
           "url": "https://turkce-yama.com/resident-evil-5-turkce-yama.htm",
           "kind": "other"
         }
-      ]
+      ],
+      "steamAppId": "21690"
     },
     {
       "title": "Fallout: New Vegas – Honest Hearts",
@@ -13258,7 +13214,8 @@
           "url": "https://turkce-yama.com/fallout-new-vegas-honest-hearts-turkce-yama.htm",
           "kind": "other"
         }
-      ]
+      ],
+      "steamAppId": "72740"
     },
     {
       "title": "Shaban",
@@ -13362,7 +13319,8 @@
           "url": "https://turkce-yama.com/sniper-ghost-warrior-turkce-yama.htm",
           "kind": "other"
         }
-      ]
+      ],
+      "steamAppId": "34830"
     },
     {
       "title": "SpongeBob SquarePants: Operation Krabby Patty",
@@ -13441,7 +13399,8 @@
           "url": "https://turkce-yama.com/orcs-must-die-turkce-yama.htm",
           "kind": "other"
         }
-      ]
+      ],
+      "steamAppId": "102600"
     },
     {
       "title": "Mortal Kombat: Komplete Edition",
@@ -13521,7 +13480,8 @@
           "url": "https://turkce-yama.com/tom-clancys-ghost-recon-future-soldier-turkce-yama.htm",
           "kind": "other"
         }
-      ]
+      ],
+      "steamAppId": "212630"
     },
     {
       "title": "The Incredible Adventures of Van Helsing",
@@ -13547,7 +13507,8 @@
           "url": "https://turkce-yama.com/the-incredible-adventures-of-van-helsing-turkce-yama.htm",
           "kind": "other"
         }
-      ]
+      ],
+      "steamAppId": "215530"
     },
     {
       "title": "Prince of Persia: The Forgotten Sands",
@@ -13573,7 +13534,8 @@
           "url": "https://turkce-yama.com/prince-of-persia-the-forgotten-sands-turkce-yama.htm",
           "kind": "other"
         }
-      ]
+      ],
+      "steamAppId": "33320"
     },
     {
       "title": "Magicka",
@@ -13599,7 +13561,35 @@
           "url": "https://turkce-yama.com/magicka-turkce-yama.htm",
           "kind": "other"
         }
-      ]
+      ],
+      "steamAppId": "42910"
+    },
+    {
+      "title": "Call of Duty: Modern Warfare 3",
+      "studio": "Türkçe Yama",
+      "studioUrl": "https://turkce-yama.com/call-of-duty-modern-warfare-3-turkce-yama.htm",
+      "language": "Türkçe",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": null,
+      "updatedAt": "25.04.2014",
+      "pageUrl": "https://turkce-yama.com/call-of-duty-modern-warfare-3-turkce-yama.htm",
+      "howToInstallHtml": "<ol><li>Yama dosyasını yukarıdaki «İndir» butonuyla indirin.</li><li>Kurulum dosyasıysa (.exe) çalıştırın; arşivse (.rar/.zip) çıkartın.</li><li>Oyunun kurulu olduğu klasörü gösterin / dosyaları oraya kopyalayın.</li><li>Oyunu başlatın — Türkçe yama uygulanmış olacaktır.</li></ol>",
+      "authorsHtml": null,
+      "size": "2.20 GB",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Türkçe Yama",
+          "url": "https://turkce-yama.com/call-of-duty-modern-warfare-3-turkce-yama.htm",
+          "kind": "other"
+        }
+      ],
+      "steamAppId": "3595270"
     },
     {
       "title": "The Sims 2",
@@ -13732,7 +13722,8 @@
           "url": "https://turkce-yama.com/medal-of-honor-2010-turkce-yama.htm",
           "kind": "other"
         }
-      ]
+      ],
+      "steamAppId": "47790"
     },
     {
       "title": "The Lord of the Rings: The Battle for Middle-earth II",
@@ -13917,7 +13908,8 @@
           "url": "https://turkce-yama.com/ihf-handball-challenge-12-turkce-yama.htm",
           "kind": "other"
         }
-      ]
+      ],
+      "steamAppId": "283490"
     },
     {
       "title": "Harry Potter and the Prisoner of Azkaban",
@@ -13969,7 +13961,8 @@
           "url": "https://turkce-yama.com/tomb-raider-the-last-revelation-turkce-yama.htm",
           "kind": "other"
         }
-      ]
+      ],
+      "steamAppId": "7000"
     },
     {
       "title": "Tomb Raider: The Angel of Darkness",
@@ -13995,7 +13988,8 @@
           "url": "https://turkce-yama.com/tomb-raider-the-angel-of-darkness-turkce-yama.htm",
           "kind": "other"
         }
-      ]
+      ],
+      "steamAppId": "7000"
     },
     {
       "title": "Football Manager 2005",
@@ -14021,7 +14015,8 @@
           "url": "https://turkce-yama.com/football-manager-2005-turkce-yama.htm",
           "kind": "other"
         }
-      ]
+      ],
+      "steamAppId": "4530370"
     },
     {
       "title": "The Walking Dead: 400 Days",
@@ -14047,7 +14042,8 @@
           "url": "https://turkce-yama.com/the-walking-dead-400-days-turkce-yama.htm",
           "kind": "other"
         }
-      ]
+      ],
+      "steamAppId": "207620"
     },
     {
       "title": "Omerta – City of Gangsters",
@@ -14073,7 +14069,8 @@
           "url": "https://turkce-yama.com/omerta-city-of-gangsters-turkce-yama.htm",
           "kind": "other"
         }
-      ]
+      ],
+      "steamAppId": "208520"
     },
     {
       "title": "Call of Duty 3",
@@ -14125,7 +14122,8 @@
           "url": "https://turkce-yama.com/hitman-contracts-turkce-yama.htm",
           "kind": "other"
         }
-      ]
+      ],
+      "steamAppId": "247430"
     },
     {
       "title": "Hitman Blood Money",
@@ -14151,7 +14149,8 @@
           "url": "https://turkce-yama.com/hitman-blood-money-turkce-yama.htm",
           "kind": "other"
         }
-      ]
+      ],
+      "steamAppId": "6860"
     },
     {
       "title": "Hell Forces",
@@ -14203,7 +14202,8 @@
           "url": "https://turkce-yama.com/homefront-turkce-yama.htm",
           "kind": "other"
         }
-      ]
+      ],
+      "steamAppId": "55100"
     },
     {
       "title": "Just Cause 2",
@@ -14229,7 +14229,8 @@
           "url": "https://turkce-yama.com/just-cause-2-turkce-yama.htm",
           "kind": "other"
         }
-      ]
+      ],
+      "steamAppId": "8190"
     },
     {
       "title": "Knights of Honor",
@@ -14255,7 +14256,8 @@
           "url": "https://turkce-yama.com/knights-of-honor-turkce-yama.htm",
           "kind": "other"
         }
-      ]
+      ],
+      "steamAppId": "25830"
     },
     {
       "title": "Knights Of The Temple Infernal Crusade",
@@ -14281,7 +14283,8 @@
           "url": "https://turkce-yama.com/knights-of-the-temple-infernal-crusade-turkce-yama.htm",
           "kind": "other"
         }
-      ]
+      ],
+      "steamAppId": "1194610"
     },
     {
       "title": "Korea: Forgotten Conflict",
@@ -14359,7 +14362,8 @@
           "url": "https://turkce-yama.com/lord-of-the-rings-battle-for-middle-earth-turkce-yama.htm",
           "kind": "other"
         }
-      ]
+      ],
+      "steamAppId": "5055340"
     },
     {
       "title": "Manhunt",
@@ -14385,7 +14389,8 @@
           "url": "https://turkce-yama.com/manhunt-turkce-yama.htm",
           "kind": "other"
         }
-      ]
+      ],
+      "steamAppId": "12130"
     },
     {
       "title": "Mass Effect 2",
@@ -14934,7 +14939,8 @@
           "url": "https://turkce-yama.com/driver-parallel-lines-turkce-yama.htm",
           "kind": "other"
         }
-      ]
+      ],
+      "steamAppId": "21780"
     },
     {
       "title": "Duke Nukem Forever",
@@ -14960,7 +14966,8 @@
           "url": "https://turkce-yama.com/duke-nukem-forever-turkce-yama.htm",
           "kind": "other"
         }
-      ]
+      ],
+      "steamAppId": "57900"
     },
     {
       "title": "Dreamfall: The Longest Journey",
@@ -14986,7 +14993,8 @@
           "url": "https://turkce-yama.com/dreamfall-the-longest-journey-turkce-yama.htm",
           "kind": "other"
         }
-      ]
+      ],
+      "steamAppId": "6300"
     },
     {
       "title": "Emergency 2012",
@@ -15039,7 +15047,8 @@
           "url": "https://turkce-yama.com/el-matador-turkce-yama.htm",
           "kind": "other"
         }
-      ]
+      ],
+      "steamAppId": "289280"
     },
     {
       "title": "Empire Total War",
@@ -15145,7 +15154,8 @@
           "url": "https://turkce-yama.com/fallout-new-vegas-dead-money-turkce-yama.htm",
           "kind": "other"
         }
-      ]
+      ],
+      "steamAppId": "72730"
     },
     {
       "title": "Far Cry",
@@ -15171,7 +15181,8 @@
           "url": "https://turkce-yama.com/far-cry-turkce-yama.htm",
           "kind": "other"
         }
-      ]
+      ],
+      "steamAppId": "13520"
     },
     {
       "title": "Ford Street Racing",
@@ -15224,7 +15235,8 @@
           "url": "https://turkce-yama.com/frontlines-fuel-of-war-turkce-yama.htm",
           "kind": "other"
         }
-      ]
+      ],
+      "steamAppId": "9460"
     },
     {
       "title": "Gears of War",
@@ -15277,7 +15289,8 @@
           "url": "https://turkce-yama.com/gray-matter-turkce-yama.htm",
           "kind": "other"
         }
-      ]
+      ],
+      "steamAppId": "260570"
     },
     {
       "title": "Grim Fandango",
@@ -15356,7 +15369,8 @@
           "url": "https://turkce-yama.com/hitman-codename-47-turkce-yama.htm",
           "kind": "other"
         }
-      ]
+      ],
+      "steamAppId": "6900"
     },
     {
       "title": "Colin Mcrae DIRT 2",
@@ -15434,7 +15448,8 @@
           "url": "https://turkce-yama.com/command-conquer-generals-turkce-yama.htm",
           "kind": "other"
         }
-      ]
+      ],
+      "steamAppId": "2229870"
     },
     {
       "title": "Command Conquer Generals Zero Hour",
@@ -15460,7 +15475,8 @@
           "url": "https://turkce-yama.com/command-conquer-generals-zero-hour-turkce-yama.htm",
           "kind": "other"
         }
-      ]
+      ],
+      "steamAppId": "2732960"
     },
     {
       "title": "Commandos 2",
@@ -15512,7 +15528,8 @@
           "url": "https://turkce-yama.com/company-of-heroes-turkce-yama.htm",
           "kind": "other"
         }
-      ]
+      ],
+      "steamAppId": "228200"
     },
     {
       "title": "Cities In Motion",
@@ -15538,7 +15555,8 @@
           "url": "https://turkce-yama.com/cities-in-motion-turkce-yama.htm",
           "kind": "other"
         }
-      ]
+      ],
+      "steamAppId": "73010"
     },
     {
       "title": "Cryostasis",
@@ -15617,7 +15635,8 @@
           "url": "https://turkce-yama.com/assassins-creed-brotherhood-turkce-yama.htm",
           "kind": "other"
         }
-      ]
+      ],
+      "steamAppId": "48190"
     },
     {
       "title": "Assassin’s Creed 2",
@@ -15643,7 +15662,8 @@
           "url": "https://turkce-yama.com/assassins-creed-2-turkce-yama.htm",
           "kind": "other"
         }
-      ]
+      ],
+      "steamAppId": "33230"
     },
     {
       "title": "Assassin's Creed Revelations",
@@ -15669,7 +15689,8 @@
           "url": "https://turkce-yama.com/assassins-creed-revelations-turkce-yama.htm",
           "kind": "other"
         }
-      ]
+      ],
+      "steamAppId": "201870"
     },
     {
       "title": "Battlefield 3",
@@ -15695,7 +15716,8 @@
           "url": "https://turkce-yama.com/battlefield-3-turkce-yama.htm",
           "kind": "other"
         }
-      ]
+      ],
+      "steamAppId": "1238820"
     },
     {
       "title": "Age of Empires II: The Age Of Kings",
@@ -15773,7 +15795,8 @@
           "url": "https://turkce-yama.com/half-life-2-turkce-yama.htm",
           "kind": "other"
         }
-      ]
+      ],
+      "steamAppId": "220"
     },
     {
       "title": "Crysis",
@@ -15853,7 +15876,8 @@
           "url": "https://turkce-yama.com/crysis-warhead-turkce-yama.htm",
           "kind": "other"
         }
-      ]
+      ],
+      "steamAppId": "17330"
     },
     {
       "title": "Call of Duty 1",
@@ -15905,7 +15929,35 @@
           "url": "https://turkce-yama.com/call-of-duty-2-turkce-yama.htm",
           "kind": "other"
         }
-      ]
+      ],
+      "steamAppId": "2630"
+    },
+    {
+      "title": "Call of Duty 4 Modern Warfare",
+      "studio": "Türkçe Yama",
+      "studioUrl": "https://turkce-yama.com/call-of-duty-4-modern-warfare-turkce-yama.htm",
+      "language": "Türkçe",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": null,
+      "updatedAt": "21.04.2014",
+      "pageUrl": "https://turkce-yama.com/call-of-duty-4-modern-warfare-turkce-yama.htm",
+      "howToInstallHtml": "<ol><li>Yama dosyasını yukarıdaki «İndir» butonuyla indirin.</li><li>Kurulum dosyasıysa (.exe) çalıştırın; arşivse (.rar/.zip) çıkartın.</li><li>Oyunun kurulu olduğu klasörü gösterin / dosyaları oraya kopyalayın.</li><li>Oyunu başlatın — Türkçe yama uygulanmış olacaktır.</li></ol>",
+      "authorsHtml": null,
+      "size": "81.5 MB",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Türkçe Yama",
+          "url": "https://turkce-yama.com/call-of-duty-4-modern-warfare-turkce-yama.htm",
+          "kind": "other"
+        }
+      ],
+      "steamAppId": "7940"
     },
     {
       "title": "Call of Duty: United Offensive",
@@ -15931,7 +15983,8 @@
           "url": "https://turkce-yama.com/call-of-duty-united-offensive-turkce-yama.htm",
           "kind": "other"
         }
-      ]
+      ],
+      "steamAppId": "2640"
     },
     {
       "title": "Call of Duty: World at War",
@@ -15957,7 +16010,8 @@
           "url": "https://turkce-yama.com/call-of-duty-world-at-war-turkce-yama.htm",
           "kind": "other"
         }
-      ]
+      ],
+      "steamAppId": "10090"
     },
     {
       "title": "Assassin’s Creed 3",
@@ -16117,7 +16171,8 @@
           "url": "https://turkce-yama.com/grand-theft-auto-episodes-from-liberty-city-turkce-yama.htm",
           "kind": "other"
         }
-      ]
+      ],
+      "steamAppId": "12220"
     },
     {
       "title": "Fahrenheit: Indigo Prophecy",
@@ -16143,7 +16198,8 @@
           "url": "https://turkce-yama.com/fahrenheit-indigo-prophecy-turkce-yama.htm",
           "kind": "other"
         }
-      ]
+      ],
+      "steamAppId": "312840"
     },
     {
       "title": "Darksiders",
@@ -16169,7 +16225,8 @@
           "url": "https://turkce-yama.com/darksiders-turkce-yama.htm",
           "kind": "other"
         }
-      ]
+      ],
+      "steamAppId": "50620"
     },
     {
       "title": "The Da Vinci Code",
@@ -16195,7 +16252,8 @@
           "url": "https://turkce-yama.com/the-da-vinci-code-turkce-yama.htm",
           "kind": "other"
         }
-      ]
+      ],
+      "steamAppId": "2666270"
     },
     {
       "title": "Devil May Cry 3 Special Edition",
@@ -16301,7 +16359,8 @@
           "url": "https://turkce-yama.com/football-manager-2009-turkce-yama.htm",
           "kind": "other"
         }
-      ]
+      ],
+      "steamAppId": "4530370"
     },
     {
       "title": "Football Manager 2013",
@@ -16353,7 +16412,8 @@
           "url": "https://turkce-yama.com/football-manager-2006-turkce-yama.htm",
           "kind": "other"
         }
-      ]
+      ],
+      "steamAppId": "4530370"
     },
     {
       "title": "Football Manager 2008",
@@ -16379,7 +16439,8 @@
           "url": "https://turkce-yama.com/football-manager-2008-turkce-yama.htm",
           "kind": "other"
         }
-      ]
+      ],
+      "steamAppId": "4530370"
     },
     {
       "title": "Football Manager 2007",
@@ -16405,7 +16466,8 @@
           "url": "https://turkce-yama.com/football-manager-2007-turkce-yama.htm",
           "kind": "other"
         }
-      ]
+      ],
+      "steamAppId": "4530370"
     },
     {
       "title": "Counter-Strike: Global Offensive",
@@ -16431,7 +16493,8 @@
           "url": "https://turkce-yama.com/counter-strike-global-offensive-turkce-yama.htm",
           "kind": "other"
         }
-      ]
+      ],
+      "steamAppId": "10"
     },
     {
       "title": "Football Manager 2012",
@@ -16457,7 +16520,8 @@
           "url": "https://turkce-yama.com/football-manager-2012-turkce-yama.htm",
           "kind": "other"
         }
-      ]
+      ],
+      "steamAppId": "4530370"
     },
     {
       "title": "Crysis 3",
@@ -16510,7 +16574,8 @@
           "url": "https://turkce-yama.com/black-mesa-source-turkce-yama.htm",
           "kind": "other"
         }
-      ]
+      ],
+      "steamAppId": "362890"
     },
     {
       "title": "Spec Ops: The Line",
@@ -16695,7 +16760,8 @@
           "url": "https://turkce-yama.com/far-cry-2-turkce-yama.htm",
           "kind": "other"
         }
-      ]
+      ],
+      "steamAppId": "19900"
     },
     {
       "title": "Need for Speed: Carbon",
@@ -16721,7 +16787,8 @@
           "url": "https://turkce-yama.com/need-for-speed-carbon-turkce-yama.htm",
           "kind": "other"
         }
-      ]
+      ],
+      "steamAppId": "1262540"
     },
     {
       "title": "Football Manager 2010",
@@ -16799,7 +16866,35 @@
           "url": "https://turkce-yama.com/call-of-duty-black-ops-turkce-yama.htm",
           "kind": "other"
         }
-      ]
+      ],
+      "steamAppId": "42700"
+    },
+    {
+      "title": "Grand Theft Auto: San Andreas",
+      "studio": "Türkçe Yama",
+      "studioUrl": "https://turkce-yama.com/grand-theft-auto-san-andreas-turkce-yama.htm",
+      "language": "Türkçe",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": null,
+      "updatedAt": "21.04.2014",
+      "pageUrl": "https://turkce-yama.com/grand-theft-auto-san-andreas-turkce-yama.htm",
+      "howToInstallHtml": "<ol><li>Yama dosyasını yukarıdaki «İndir» butonuyla indirin.</li><li>Kurulum dosyasıysa (.exe) çalıştırın; arşivse (.rar/.zip) çıkartın.</li><li>Oyunun kurulu olduğu klasörü gösterin / dosyaları oraya kopyalayın.</li><li>Oyunu başlatın — Türkçe yama uygulanmış olacaktır.</li></ol>",
+      "authorsHtml": "<p>Gta Bullet</p>",
+      "size": "589 KB",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Türkçe Yama",
+          "url": "https://turkce-yama.com/grand-theft-auto-san-andreas-turkce-yama.htm",
+          "kind": "other"
+        }
+      ],
+      "steamAppId": "1547000"
     },
     {
       "title": "Half Life 2: Episode One",
@@ -16825,7 +16920,8 @@
           "url": "https://turkce-yama.com/half-life-2-episode-one-turkce-yama.htm",
           "kind": "other"
         }
-      ]
+      ],
+      "steamAppId": "220"
     },
     {
       "title": "Half Life 2: Episode Two",
@@ -16851,7 +16947,8 @@
           "url": "https://turkce-yama.com/half-life-2-episode-two-turkce-yama.htm",
           "kind": "other"
         }
-      ]
+      ],
+      "steamAppId": "220"
     },
     {
       "title": "Half-Life: Source",
@@ -16877,7 +16974,8 @@
           "url": "https://turkce-yama.com/half-life-source-turkce-yama.htm",
           "kind": "other"
         }
-      ]
+      ],
+      "steamAppId": "70"
     },
     {
       "title": "Counter Strike Source",
@@ -16903,7 +17001,8 @@
           "url": "https://turkce-yama.com/counter-strike-source-turkce-yama.htm",
           "kind": "other"
         }
-      ]
+      ],
+      "steamAppId": "240"
     },
     {
       "title": "I Am Alive",
@@ -16956,7 +17055,8 @@
           "url": "https://turkce-yama.com/fallout-new-vegas-turkce-yama.htm",
           "kind": "other"
         }
-      ]
+      ],
+      "steamAppId": "22380"
     },
     {
       "title": "Zombie Shooter",
@@ -16982,7 +17082,8 @@
           "url": "https://turkce-yama.com/zombie-shooter-turkce-yama.htm",
           "kind": "other"
         }
-      ]
+      ],
+      "steamAppId": "33130"
     },
     {
       "title": "Dragon Age Witch Hunt",
@@ -17060,7 +17161,8 @@
           "url": "https://turkce-yama.com/sniper-elite-v2-turkce-yama.htm",
           "kind": "other"
         }
-      ]
+      ],
+      "steamAppId": "63380"
     },
     {
       "title": "Rome: Total War",
@@ -17113,7 +17215,8 @@
           "url": "https://turkce-yama.com/18-wheels-of-steel-haulin-turkce-yama.htm",
           "kind": "other"
         }
-      ]
+      ],
+      "steamAppId": "514180"
     },
     {
       "title": "City Car Driving (3D Instructor)",
@@ -17139,7 +17242,8 @@
           "url": "https://turkce-yama.com/city-car-driving-3d-instructor-turkce-yama.htm",
           "kind": "other"
         }
-      ]
+      ],
+      "steamAppId": "493490"
     },
     {
       "title": "Alan Wake",
@@ -17165,7 +17269,8 @@
           "url": "https://turkce-yama.com/alan-wake-turkce-yama.htm",
           "kind": "other"
         }
-      ]
+      ],
+      "steamAppId": "108710"
     },
     {
       "title": "Alcatraz",
@@ -17191,7 +17296,8 @@
           "url": "https://turkce-yama.com/alcatraz-turkce-yama.htm",
           "kind": "other"
         }
-      ]
+      ],
+      "steamAppId": "255280"
     },
     {
       "title": "Alien Shooter",
@@ -17217,7 +17323,8 @@
           "url": "https://turkce-yama.com/alien-shooter-turkce-yama.htm",
           "kind": "other"
         }
-      ]
+      ],
+      "steamAppId": "33100"
     },
     {
       "title": "Arx Fatalis",
@@ -17243,7 +17350,8 @@
           "url": "https://turkce-yama.com/arx-fatalis-turkce-yama.htm",
           "kind": "other"
         }
-      ]
+      ],
+      "steamAppId": "1700"
     },
     {
       "title": "Angry Birds Space",
@@ -17428,7 +17536,8 @@
           "url": "https://turkce-yama.com/black-mirror-2-turkce-yama.htm",
           "kind": "other"
         }
-      ]
+      ],
+      "steamAppId": "286460"
     },
     {
       "title": "Borderlands",
@@ -17481,7 +17590,8 @@
           "url": "https://turkce-yama.com/braid-turkce-yama.htm",
           "kind": "other"
         }
-      ]
+      ],
+      "steamAppId": "26800"
     },
     {
       "title": "Broken Sword: The Shadow of the Templars",
@@ -17507,7 +17617,8 @@
           "url": "https://turkce-yama.com/broken-sword-the-shadow-of-the-templars-turkce-yama.htm",
           "kind": "other"
         }
-      ]
+      ],
+      "steamAppId": "2544110"
     },
     {
       "title": "Bus Driver",
@@ -17533,7 +17644,8 @@
           "url": "https://turkce-yama.com/bus-driver-turkce-yama.htm",
           "kind": "other"
         }
-      ]
+      ],
+      "steamAppId": "302080"
     },
     {
       "title": "Silent Hill 4 The Room",
@@ -17585,7 +17697,8 @@
           "url": "https://turkce-yama.com/call-of-cthulhu-dark-corners-of-the-earth-turkce-yama.htm",
           "kind": "other"
         }
-      ]
+      ],
+      "steamAppId": "22340"
     },
     {
       "title": "Caesar IV",
@@ -17611,7 +17724,8 @@
           "url": "https://turkce-yama.com/caesar-iv-turkce-yama.htm",
           "kind": "other"
         }
-      ]
+      ],
+      "steamAppId": "517810"
     },
     {
       "title": "Call Of Juarez",
@@ -17637,7 +17751,8 @@
           "url": "https://turkce-yama.com/call-of-juarez-turkce-yama.htm",
           "kind": "other"
         }
-      ]
+      ],
+      "steamAppId": "3020"
     },
     {
       "title": "Call Of Juarez 2 Bound in Blood",
