@@ -216,6 +216,34 @@
       "steamAppId": "1268590"
     },
     {
+      "title": "Frostpunk 2",
+      "studio": "HerníPřeklady",
+      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/frostpunk-2",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": "1.08",
+      "updatedAt": null,
+      "requiredGameVersion": "1.6.1",
+      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/frostpunk-2",
+      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
+      "authorsHtml": "<p><strong>Překlad:</strong> Jetro, Ralph Shepard,<br><strong>Testování:</strong> Jetro, Andrewek</p>",
+      "inDevelopment": false,
+      "size": "3.44 MB",
+      "mirrors": [
+        {
+          "label": "HerníPřeklady",
+          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=638",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "1601580"
+    },
+    {
       "title": "Two Point Museum",
       "studio": "HerníPřeklady",
       "studioUrl": "https://hernipreklady.cz/seznam-prekladu/two-point-museum",
@@ -227,7 +255,7 @@
       "hasNeuralDub": false,
       "hasNeuralText": false,
       "version": "2.0",
-      "updatedAt": null,
+      "updatedAt": "08.10.2026",
       "requiredGameVersion": "Aktuální Steam",
       "pageUrl": "https://hernipreklady.cz/seznam-prekladu/two-point-museum",
       "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
@@ -242,34 +270,6 @@
         }
       ],
       "steamAppId": "2185060"
-    },
-    {
-      "title": "Stellar Blade",
-      "studio": "HerníPřeklady",
-      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/stellar-blade",
-      "language": "Čeština",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": "1.2",
-      "updatedAt": "27.01.2026",
-      "requiredGameVersion": "1.4.1",
-      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/stellar-blade",
-      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
-      "authorsHtml": "<p><strong>Překlad a test:</strong> Andrewek</p>",
-      "inDevelopment": false,
-      "size": "2.79 MB",
-      "mirrors": [
-        {
-          "label": "HerníPřeklady",
-          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=513",
-          "kind": "direct"
-        }
-      ],
-      "steamAppId": "3489700"
     },
     {
       "title": "Cthulhu: The Cosmic Abyss",
@@ -874,6 +874,34 @@
         }
       ],
       "steamAppId": "2488370"
+    },
+    {
+      "title": "Stellar Blade",
+      "studio": "HerníPřeklady",
+      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/stellar-blade",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": "1.2",
+      "updatedAt": "27.01.2026",
+      "requiredGameVersion": "1.4.1",
+      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/stellar-blade",
+      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
+      "authorsHtml": "<p><strong>Překlad a test:</strong> Andrewek</p>",
+      "inDevelopment": false,
+      "size": "2.79 MB",
+      "mirrors": [
+        {
+          "label": "HerníPřeklady",
+          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=513",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "3489700"
     },
     {
       "title": "Lost Records: Bloom & Rage",
@@ -1685,34 +1713,6 @@
         }
       ],
       "steamAppId": "1373960"
-    },
-    {
-      "title": "Frostpunk 2",
-      "studio": "HerníPřeklady",
-      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/frostpunk-2",
-      "language": "Čeština",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": "1.08",
-      "updatedAt": null,
-      "requiredGameVersion": "1.6.1",
-      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/frostpunk-2",
-      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
-      "authorsHtml": "<p><strong>Překlad:</strong> Jetro, Ralph Shepard,<br><strong>Testování:</strong> Jetro, Andrewek</p>",
-      "inDevelopment": false,
-      "size": "3.44 MB",
-      "mirrors": [
-        {
-          "label": "HerníPřeklady",
-          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=638",
-          "kind": "direct"
-        }
-      ],
-      "steamAppId": "1601580"
     },
     {
       "title": "Alone in the Dark",
