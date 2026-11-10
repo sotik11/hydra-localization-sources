@@ -5,6 +5,60 @@
   "siteUrl": "https://www.calypsoceviri.com",
   "localizations": [
     {
+      "title": "DREADMOOR",
+      "studio": "Calypso Çeviri",
+      "studioUrl": "https://www.calypsoceviri.com",
+      "language": "Türkçe",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": "1",
+      "updatedAt": "10.11.2026",
+      "pageUrl": "https://www.calypsoceviri.com/turkce-yamalar/dreadmoor-turkce-yama-indir",
+      "howToInstallHtml": "<div>Aşağıda vermiş olduğumuz linkten indirdiğiniz Rar dosyasındaki Türkçe Yama exesini, oyunun kurulu olduğu ana dosya konumuna atarak, Türkçe yama exesini çalıştırın. Oyunun ana dosya konumunun seçili olduğunu kontrol ettikten sonra, hangi platformdan oynuyorsanız, o platformun yükle butonuna basarak yamayı yükleyebilirsiniz. <br><br>Yamayı kaldırmak isterseniz, oyunun dosya konumundaki \"Dreadmoor_YamaKaldır.exe\"'si üzerinden kaldırabilirsiniz.</div>",
+      "authorsHtml": "<p>VolkTyson</p>",
+      "size": "37.7 MB",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Calypso Çeviri",
+          "url": "https://www.calypsoceviri.com/_files/archives/7d262d_88acd5875c3b4ef4b503671da196f4d9.zip?dn=Dreadmoor%2520T%25C3%25BCrk%25C3%25A7e%2520Yama%2520V1.zip",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "3629430"
+    },
+    {
+      "title": "The Wolf Among Us Remastered",
+      "studio": "Calypso Çeviri",
+      "studioUrl": "https://www.calypsoceviri.com",
+      "language": "Türkçe",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": "1",
+      "updatedAt": "09.11.2026",
+      "pageUrl": "https://www.calypsoceviri.com/turkce-yamalar/the-wolf-among-us-remastered-turkce-yama-indir",
+      "howToInstallHtml": "<div>Aşağıda vermiş olduğumuz linkten indirdiğiniz Rar dosyasındaki Türkçe Yama exesini, oyunun kurulu olduğu ana dosya konumuna atarak, Türkçe yama exesini çalıştırın. Oyunun ana dosya konumunun seçili olduğunu kontrol ettikten sonra, hangi platformdan oynuyorsanız, o platformun yükle butonuna basarak yamayı yükleyebilirsiniz. Yamayı kurduktan sonra oyuna girip, oyun içi ayarlardan Settings\\Audio/Video\\Display Language = Spanish yapılması gerekiyor. Spanish yaptıktan sonra oyun Türkçe olacaktır.<br><br>Yamayı kaldırmak isterseniz, oyunun dosya konumundaki \"WauRemastered_YamaKaldır.exe\"'si üzerinden kaldırabilirsiniz.</div>",
+      "authorsHtml": "<p>VolkTyson</p>",
+      "size": "5.88 MB",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Calypso Çeviri",
+          "url": "https://www.calypsoceviri.com/_files/archives/7d262d_d9541c161eb349b5a7442dba2e966fac.zip?dn=The%2520Wolf%2520Among%2520Us%2520Remastered%2520T%25C3%25BCrk%25C3%25A7e%2520Yama%2520V1.zip",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "3884860"
+    },
+    {
       "title": "Forever Ago",
       "studio": "Calypso Çeviri",
       "studioUrl": "https://www.calypsoceviri.com",
@@ -6053,8 +6107,8 @@
       "hasNeuralVoice": false,
       "hasNeuralDub": false,
       "hasNeuralText": false,
-      "version": "15",
-      "updatedAt": "31.10.2026",
+      "version": "16",
+      "updatedAt": "09.11.2026",
       "pageUrl": "https://www.calypsoceviri.com/turkce-yamalar/soulmask-turkce-yama-indir",
       "howToInstallHtml": "<div>Aşağıda vermiş olduğumuz linkten indirdiğiniz Rar dosyasındaki Türkçe Yama exesini, oyunun kurulu olduğu ana dosya konumuna atarak, Türkçe yama exesini çalıştırın. Oyunun ana dosya konumunun seçili olduğunu kontrol ettikten sonra, hangi platformdan oynuyorsanız, o platformun yükle butonuna basarak yamayı yükleyebilirsiniz. Yama yüklendikten sonra rar dosyasındaki kurulum notlarında yazan adımları, sırasıyla eksiksiz olarak tamamlamanız gerekiyor.<br><br>Yamayı kaldırmak için dosya konumundaki Soulmask_YamaKaldir.exe den yamayı kaldırabilirsiniz.</div>",
       "authorsHtml": "<p>VolkTyson</p>",
@@ -6063,7 +6117,7 @@
       "mirrors": [
         {
           "label": "Calypso Çeviri",
-          "url": "https://www.calypsoceviri.com/_files/archives/7d262d_7a00f6bf8cf8479886d1451bc71bf585.zip?dn=Soulmask%2520T%25C3%25BCrk%25C3%25A7e%2520Yama%2520V15.zip",
+          "url": "https://www.calypsoceviri.com/_files/archives/7d262d_458c7a500e3446a9af7dc5659c83dd63.zip?dn=Soulmask%2520T%25C3%25BCrk%25C3%25A7e%2520Yama%2520V16.zip",
           "kind": "direct"
         }
       ],

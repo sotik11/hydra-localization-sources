@@ -5,6 +5,62 @@
   "siteUrl": "https://hernipreklady.cz",
   "localizations": [
     {
+      "title": "Silver Pines",
+      "studio": "HerníPřeklady",
+      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/silver-pines",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": "1.00",
+      "updatedAt": null,
+      "requiredGameVersion": "Hotfix 3",
+      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/silver-pines",
+      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
+      "authorsHtml": null,
+      "inDevelopment": false,
+      "size": "7.61 MB",
+      "mirrors": [
+        {
+          "label": "HerníPřeklady",
+          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=651",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "2333000"
+    },
+    {
+      "title": "End of Abyss",
+      "studio": "HerníPřeklady",
+      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/end-of-abyss",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": "1.10",
+      "updatedAt": null,
+      "requiredGameVersion": "PC 1.0.1.8",
+      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/end-of-abyss",
+      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
+      "authorsHtml": null,
+      "inDevelopment": false,
+      "size": "1.68 MB",
+      "mirrors": [
+        {
+          "label": "HerníPřeklady",
+          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=650",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "530611"
+    },
+    {
       "title": "No Man's Sky",
       "studio": "HerníPřeklady",
       "studioUrl": "https://hernipreklady.cz/seznam-prekladu/no-man-s-sky",
@@ -58,28 +114,6 @@
           "kind": "direct"
         }
       ]
-    },
-    {
-      "title": "Silver Pines",
-      "studio": "HerníPřeklady",
-      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/silver-pines",
-      "language": "Čeština",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": "1.00",
-      "updatedAt": null,
-      "requiredGameVersion": "Hotfix 2",
-      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/silver-pines",
-      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
-      "authorsHtml": null,
-      "inDevelopment": true,
-      "size": null,
-      "mirrors": [],
-      "steamAppId": "2333000"
     },
     {
       "title": "System Shock Remake",
@@ -164,34 +198,6 @@
         }
       ],
       "steamAppId": "4358690"
-    },
-    {
-      "title": "End of Abyss",
-      "studio": "HerníPřeklady",
-      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/end-of-abyss",
-      "language": "Čeština",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": "1.00",
-      "updatedAt": null,
-      "requiredGameVersion": "PC 1.0.1.8",
-      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/end-of-abyss",
-      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
-      "authorsHtml": null,
-      "inDevelopment": false,
-      "size": "1.68 MB",
-      "mirrors": [
-        {
-          "label": "HerníPřeklady",
-          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=643",
-          "kind": "direct"
-        }
-      ],
-      "steamAppId": "530611"
     },
     {
       "title": "Millennia",
