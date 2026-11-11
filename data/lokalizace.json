@@ -214,7 +214,7 @@
       "updatedAt": null,
       "pageUrl": "https://lokalizace.net/localizations/resident-evil-2-re-enhance-1998",
       "howToInstallHtml": "<p>Stáhněte ZIP soubor a rozbalte ho do složky hry, nebo použijte aplikaci CZManager pro automatickou instalaci češtiny.</p>",
-      "changelogHtml": "<div><p><strong>Nová verze 1.0.5</strong></p><p>RE: ENHANCED verzia prekladu, ktorá má starší grafický mód ale hra vypadá bližšie k originálu z roku 1998</p></div>",
+      "changelogHtml": null,
       "authorsHtml": "<p>PERTIM</p>",
       "size": null,
       "inDevelopment": true,
@@ -2415,7 +2415,7 @@
       "updatedAt": null,
       "pageUrl": "https://lokalizace.net/localizations/peak",
       "howToInstallHtml": "<p>Stáhněte ZIP soubor a rozbalte ho do složky hry, nebo použijte aplikaci CZManager pro automatickou instalaci češtiny.</p>",
-      "changelogHtml": "<div><p><strong>Nová verze 1.0.5</strong></p><p>Aktualizovaná čeština na v3.0.1</p></div>",
+      "changelogHtml": "<div><p><strong>Nová verze 1.0.6</strong></p><p>Aktualizovaná čeština na v3.1.0</p></div>",
       "authorsHtml": "<p>HAVELU Translation</p>",
       "size": null,
       "inDevelopment": true,
@@ -4515,7 +4515,7 @@
       "updatedAt": null,
       "pageUrl": "https://lokalizace.net/localizations/twelve-minutes",
       "howToInstallHtml": "<p>Stáhněte ZIP soubor a rozbalte ho do složky hry, nebo použijte aplikaci CZManager pro automatickou instalaci češtiny.</p>",
-      "changelogHtml": "<div><p>Nahrána nová verze překladu: 1.00</p></div>",
+      "changelogHtml": "<div><p><strong>Nová verze 1.1</strong></p><p>Opravené a předělané všechny herní textové dialogy.</p><p>Aktualizované a fungující všechny fonty i z diakritikou.</p><p>Nahrána nová verze překladu: 1.00</p></div>",
       "authorsHtml": "<p>DickzillaTranslator</p>",
       "size": null,
       "inDevelopment": true,
@@ -13847,7 +13847,7 @@
       "size": null,
       "inDevelopment": true,
       "mirrors": [],
-      "steamAppId": "1505430"
+      "steamAppId": "212410"
     },
     {
       "title": "Stellaris",
