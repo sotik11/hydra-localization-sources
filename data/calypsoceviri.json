@@ -5,6 +5,32 @@
   "siteUrl": "https://www.calypsoceviri.com",
   "localizations": [
     {
+      "title": "Assassin's Creed 1 Director's Cut",
+      "studio": "Calypso Çeviri",
+      "studioUrl": "https://www.calypsoceviri.com",
+      "language": "Türkçe",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": "1",
+      "updatedAt": "11.11.2026",
+      "pageUrl": "https://www.calypsoceviri.com/turkce-yamalar/assassins-creed-1-directors-cut-edition-turkce-yama-indir",
+      "howToInstallHtml": "<div>Aşağıda vermiş olduğumuz linkten indirdiğiniz Rar dosyasındaki Türkçe Yama exesini, oyunun kurulu olduğu ana dosya konumuna atarak, Türkçe yama exesini çalıştırın. Oyunun ana dosya konumunun seçili olduğunu kontrol ettikten sonra, hangi platformdan oynuyorsanız, o platformun yükle butonuna basarak yamayı yükleyebilirsiniz. <br><br>Yamayı kaldırmak isterseniz, oyunun dosya konumundaki \"AC1_YamaKaldır.exe\"'si üzerinden kaldırabilirsiniz.</div>",
+      "authorsHtml": "<p>VolkTyson, Sweaty, bloxtbc</p>",
+      "size": "25.7 MB",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Calypso Çeviri",
+          "url": "https://www.calypsoceviri.com/_files/archives/7d262d_e5fc7409dc9145ad8290812903204d59.zip?dn=Assassins%2520Creed%25201%2520T%25C3%25BCrk%25C3%25A7e%2520Yama%2520V1.zip",
+          "kind": "direct"
+        }
+      ]
+    },
+    {
       "title": "DREADMOOR",
       "studio": "Calypso Çeviri",
       "studioUrl": "https://www.calypsoceviri.com",

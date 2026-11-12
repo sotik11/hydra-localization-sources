@@ -5,6 +5,28 @@
   "siteUrl": "https://lokalizace.net",
   "localizations": [
     {
+      "title": "The Sphere",
+      "studio": "Lokalizace.net",
+      "studioUrl": "https://lokalizace.net/localizations/the-sphere",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": null,
+      "updatedAt": null,
+      "pageUrl": "https://lokalizace.net/localizations/the-sphere",
+      "howToInstallHtml": "<p>Stáhněte ZIP soubor a rozbalte ho do složky hry, nebo použijte aplikaci CZManager pro automatickou instalaci češtiny.</p>",
+      "changelogHtml": "<div><p>Nahrána nová verze překladu: 1.00-CZ</p></div>",
+      "authorsHtml": "<p>Kwej</p>",
+      "size": null,
+      "inDevelopment": true,
+      "mirrors": [],
+      "steamAppId": "4696950"
+    },
+    {
       "title": "The Joy of Creation: Reborn",
       "studio": "Lokalizace.net",
       "studioUrl": "https://lokalizace.net/localizations/the-joy-of-creation-reborn",
@@ -200,7 +222,7 @@
       "mirrors": []
     },
     {
-      "title": "Resident Evil 2 - RE:ENHANCE (1998)",
+      "title": "Resident Evil 2 - RE:ENHANCE 4.0 (1998)",
       "studio": "Lokalizace.net",
       "studioUrl": "https://lokalizace.net/localizations/resident-evil-2-re-enhance-1998",
       "language": "Čeština",
@@ -214,7 +236,7 @@
       "updatedAt": null,
       "pageUrl": "https://lokalizace.net/localizations/resident-evil-2-re-enhance-1998",
       "howToInstallHtml": "<p>Stáhněte ZIP soubor a rozbalte ho do složky hry, nebo použijte aplikaci CZManager pro automatickou instalaci češtiny.</p>",
-      "changelogHtml": null,
+      "changelogHtml": "<div><p><strong>Nová verze 1.6</strong></p><p><span style=\"font-size: 14px; color: oklab(0.964427 0.000418067 -0.00125384)\">Hra teraz obsahuje rôzne vylepšenia, napríklad postavy teraz vedia otvárať ústa pri rozhovoroch a v menu je najnovšie na výber KONEC pre ukončenie hry (viem pri moderných hrách to znie vtipne)</span></p></div>",
       "authorsHtml": "<p>PERTIM</p>",
       "size": null,
       "inDevelopment": true,
@@ -417,6 +439,28 @@
       "mirrors": []
     },
     {
+      "title": "Sengoku Dynasty",
+      "studio": "Lokalizace.net",
+      "studioUrl": "https://lokalizace.net/localizations/sengoku-dynasty",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": null,
+      "updatedAt": null,
+      "pageUrl": "https://lokalizace.net/localizations/sengoku-dynasty",
+      "howToInstallHtml": "<p>Stáhněte ZIP soubor a rozbalte ho do složky hry, nebo použijte aplikaci CZManager pro automatickou instalaci češtiny.</p>",
+      "changelogHtml": "<div><p><strong>Nová verze 1.1</strong></p><p>v1.1   —    11. 11. 2026   —   plná verzia</p><p>•\\tPrešiel som preklad ešte raz celý, vetu po vete, a opravil všetko, čo mi pri prvom vydaní uniklo.</p><p>•\\tJaponské mená zakončené na -ō sa konečne skloňujú ako všetky ostatné: socha Jizōa, povedz to Kengyōovi, na dvore daimyōa. Predtým zostávali v základnom tvare a vo vete to škrípalo.</p><p>•\\tKeď hráte za ženu, postavy vás už oslovujú správne aj tam, kde predtým prehovorili v mužskom rode – a naopak.</p><p>•\\tZjednotil som názvoslovie, ktoré sa mi počas prekladu rozchádzalo: povstanie majú na svedomí povstalci, nie rebeli; vo svätyni sa prináša obeta; a stolár robí nábytok, kým tesár krovy.</p><p>•\\tPozdravy už nie sú všetky rovnaké. Kde postava zdraví zdvorilo, zdraví zdvorilo, kde familiárne, tam familiárne.</p><p>•\\tVysvetlivky japonských výrazov som presunul z názvov predmetov do ich opisov – v inventári sa dlhé názvy orezávali a nebolo vidieť, o čo ide.</p><p>•\\tVyhodil som slová, ktoré do 16. storočia nepatria, a zvolania k jedinému Bohu nahradil tými, ktoré v tomto svete dávajú zmysel.</p><p>•\\tPreložil som aj názvy klávesov v menu ovládania, ktoré doteraz zostávali v cudzom jazyku.</p><p>•\\tPopri kontrole som taktiež opravil preklepy a gramatické chyby.</p><p>Nahrána nová verze překladu: 1.0</p></div>",
+      "authorsHtml": "<p>SK/CZECH preklady</p>",
+      "size": null,
+      "inDevelopment": true,
+      "mirrors": [],
+      "steamAppId": "1702010"
+    },
+    {
       "title": "Santa Gets A Tower",
       "studio": "Lokalizace.net",
       "studioUrl": "https://lokalizace.net/localizations/santa-gets-a-tower",
@@ -460,7 +504,7 @@
       "steamAppId": "4249120"
     },
     {
-      "title": "Resident Evil (1996)",
+      "title": "Resident Evil 1 - OVERHAUL 3.0 (1996)",
       "studio": "Lokalizace.net",
       "studioUrl": "https://lokalizace.net/localizations/resident-evil-1996",
       "language": "Čeština",
@@ -474,12 +518,11 @@
       "updatedAt": null,
       "pageUrl": "https://lokalizace.net/localizations/resident-evil-1996",
       "howToInstallHtml": "<p>Stáhněte ZIP soubor a rozbalte ho do složky hry, nebo použijte aplikaci CZManager pro automatickou instalaci češtiny.</p>",
-      "changelogHtml": "<div><p><strong>Nová verze 1.2</strong></p><p>Preklad vylepšený o nový grafický mod. Ten starší je tiež stále k dispozícii</p></div>",
+      "changelogHtml": "<div><p><strong>Nová verze 1.3</strong></p><p>Pridané vylepšenia, nová verzia grafického módu</p></div>",
       "authorsHtml": "<p>PERTIM</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "4249100"
+      "mirrors": []
     },
     {
       "title": "Raft",
@@ -569,7 +612,7 @@
       "mirrors": []
     },
     {
-      "title": "Resident Evil 2 - OVERHAUL (1998)",
+      "title": "Resident Evil 2 - OVERHAUL RE:ENHANCE (1998)",
       "studio": "Lokalizace.net",
       "studioUrl": "https://lokalizace.net/localizations/resident-evil-2-1998",
       "language": "Čeština",
@@ -583,7 +626,7 @@
       "updatedAt": null,
       "pageUrl": "https://lokalizace.net/localizations/resident-evil-2-1998",
       "howToInstallHtml": "<p>Stáhněte ZIP soubor a rozbalte ho do složky hry, nebo použijte aplikaci CZManager pro automatickou instalaci češtiny.</p>",
-      "changelogHtml": "<div><p><strong>Nová verze 1.0.5</strong></p><p>Preklad už len vo verzii Overhaul ktorá má lepšiu grafiku a viac detailov. Kto by chcel starú Re-Enchanced verziu nech napíše</p></div>",
+      "changelogHtml": "<div><p><strong>Nová verze 1.6</strong></p><p>Toto je kombinácia OVERHAUL a RE:ENHANCE modov, grafika je OVERHAUL a ostatné vylepšenia sú z RE:ENHANCE ako otváranie úst pri rozhovoroch, celá hra je navyše v 60 FPS a v nastaveniach nájdete nové nastavenia ktoré sú ale experimentálne takže môžete skúšať ale môže vám padnúť hra. Rozhodne neodporúčam dávať rozlíšenie 16:9, všetko ej potom moc približené a titulky vo videách potom chýbajú...</p></div>",
       "authorsHtml": "<p>PERTIM</p>",
       "size": null,
       "inDevelopment": true,
@@ -2926,28 +2969,6 @@
       "steamAppId": "2479740"
     },
     {
-      "title": "Summer of 58",
-      "studio": "Lokalizace.net",
-      "studioUrl": "https://lokalizace.net/localizations/summer-of-58",
-      "language": "Čeština",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": null,
-      "updatedAt": null,
-      "pageUrl": "https://lokalizace.net/localizations/summer-of-58",
-      "howToInstallHtml": "<p>Stáhněte ZIP soubor a rozbalte ho do složky hry, nebo použijte aplikaci CZManager pro automatickou instalaci češtiny.</p>",
-      "changelogHtml": "<div><p>Nahrána nová verze překladu: 1.0.0</p></div>",
-      "authorsHtml": "<p>PERTIM</p>",
-      "size": null,
-      "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "1609080"
-    },
-    {
       "title": "The Room Two",
       "studio": "Lokalizace.net",
       "studioUrl": "https://lokalizace.net/localizations/the-room-two",
@@ -4674,7 +4695,7 @@
       "size": null,
       "inDevelopment": true,
       "mirrors": [],
-      "steamAppId": "1258590"
+      "steamAppId": "1925310"
     },
     {
       "title": "I'm counting to 6...",
@@ -13847,7 +13868,7 @@
       "size": null,
       "inDevelopment": true,
       "mirrors": [],
-      "steamAppId": "212410"
+      "steamAppId": "1505430"
     },
     {
       "title": "Stellaris",
@@ -17451,8 +17472,7 @@
       "authorsHtml": "<p>DarbyCzech</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "3048060"
+      "mirrors": []
     },
     {
       "title": "Final Fantasy XV (PC)",
