@@ -801,7 +801,7 @@
       "updatedAt": null,
       "pageUrl": "https://lokalizace.net/localizations/breathedge-2",
       "howToInstallHtml": "<p>Stáhněte ZIP soubor a rozbalte ho do složky hry, nebo použijte aplikaci CZManager pro automatickou instalaci češtiny.</p>",
-      "changelogHtml": "<div><p><strong>Nová verze 1.1</strong></p><p><span style=\"font-size: 12pt; color: white\">v1.1 – přeloženy také 3D meshe s&nbsp;textama, ve hře už by měli být přeloženy všechny plakáty, billboardy, logá, plakáty, neonové nápisy a podobně</span></p></div>",
+      "changelogHtml": "<div><p><strong>Nová verze 1.2</strong></p><p>v1.2 – nový a vylepšený překlad celé hry. Čeština teď nahrazuje polštinu.</p><p></p></div>",
       "authorsHtml": "<p>SK/CZECH preklady</p>",
       "size": null,
       "inDevelopment": true,
@@ -998,7 +998,7 @@
       "updatedAt": null,
       "pageUrl": "https://lokalizace.net/localizations/night-of-the-dead",
       "howToInstallHtml": "<p>Stáhněte ZIP soubor a rozbalte ho do složky hry, nebo použijte aplikaci CZManager pro automatickou instalaci češtiny.</p>",
-      "changelogHtml": "<div><p><strong>Nová verze 1.0</strong></p><p><span style=\"color: white\">v1.0 – Hru som celú prešiel, otestoval a&nbsp;opravil všetky nezrovnalosti, na ktoré som narazil tak snáď do ďalšieho updatu je to finálna verzia</span></p><p><strong>Nová verze 0.8</strong></p><p>v0.8 – ručná oprava nájdených chýb prekladu</p><p>       - pozmenené niektoré názvy predmetov pre lepšiu orientáciu</p><p>       – opravená chyba v&nbsp;inštalátore, ktorá znemožnila odinštalovanie slovenčiny kvôli nesprávnemu názvu .msg súboru</p></div>",
+      "changelogHtml": "<div><p><strong>Nová verze 1.1</strong></p><p><span style=\"font-size: 10pt\"><strong>v1.1&nbsp;&nbsp; —&nbsp;&nbsp; 13. 11. 2026&nbsp;&nbsp; —&nbsp;&nbsp; nový inštalátor</strong></span></p><p><span style=\"font-size: 10pt\">•&nbsp;&nbsp; Inštalátor teraz nájde hru v ktorejkoľvek knižnici Steamu. Doteraz hľadal pod nesprávnym číslom hry, a tak ju našiel, len ak bola na predvolenom mieste.</span></p><p><span style=\"font-size: 10pt\">•&nbsp;&nbsp; Na ploche a v Štart menu pribudne odkaz Night of the Dead (slovensky), ktorý spustí hru rovno bez anticheatu. Vo Vlastnostiach hry na Steame už netreba nič prestavovať.</span></p><p><span style=\"font-size: 10pt\">•&nbsp;&nbsp; Hneď v okne inštalátora vidno, či sa hra našla, a ak nie, priečinok sa dá jedným tlačidlom vybrať ručne.</span></p><p><span style=\"font-size: 10pt\">•&nbsp;&nbsp; Inštalátor slúži zároveň ako odinštalátor. Ak nájde nainštalovaný preklad, ukáže jeho verziu a ponúkne buď aktualizáciu, pri ktorej starú verziu najprv sám odinštaluje, alebo len odinštalovanie prekladu.</span></p><p><span style=\"font-size: 10pt\">•&nbsp;&nbsp; Inštalátor upozorní, ak je hra spustená, namiesto toho, aby inštalácia zlyhala na zamknutom súbore.</span></p><p><span style=\"font-size: 10pt\">•&nbsp;&nbsp; Odinštalovanie už funguje aj cez Nastavenia → Aplikácie a funkcie a po preklade v hre nezostane ani jeho záznamový súbor.</span></p><p><span style=\"font-size: 10pt\">•&nbsp;&nbsp; Samotný preklad je bez zmeny, zhodný s verziou 1.0.</span></p><p><strong>Nová verze 1.0</strong></p><p><span style=\"color: white\">v1.0 – Hru som celú prešiel, otestoval a&nbsp;opravil všetky nezrovnalosti, na ktoré som narazil tak snáď do ďalšieho updatu je to finálna verzia</span></p></div>",
       "authorsHtml": "<p>SK/CZECH preklady</p>",
       "size": null,
       "inDevelopment": true,
@@ -5439,6 +5439,28 @@
       "steamAppId": "220440"
     },
     {
+      "title": "Saint Kotar",
+      "studio": "Lokalizace.net",
+      "studioUrl": "https://lokalizace.net/localizations/saint-kotar",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": null,
+      "updatedAt": null,
+      "pageUrl": "https://lokalizace.net/localizations/saint-kotar",
+      "howToInstallHtml": "<p>Stáhněte ZIP soubor a rozbalte ho do složky hry, nebo použijte aplikaci CZManager pro automatickou instalaci češtiny.</p>",
+      "changelogHtml": "<div><p><strong>Nová verze 1.0</strong></p><p>Právě vychází překlad temné psychologické adventury <strong>Saint Kotar</strong> a jejího DLC <strong>Saint Kotar: The Ritual</strong>. Vydejte se do odlehlého chorvatského městečka, odhalte děsivá tajemství, okultní rituály a pátrejte po záhadném zmizení. <strong>Verze:</strong> Steam a GOG</p><p>Přejeme příjemný herní zážitek!<br><strong>Tým ADV Dream</strong></p></div>",
+      "authorsHtml": "<p>ADV Dream</p>",
+      "size": null,
+      "inDevelopment": true,
+      "mirrors": [],
+      "steamAppId": "1358530"
+    },
+    {
       "title": "Song of Nunu: A League of Legends Story",
       "studio": "Lokalizace.net",
       "studioUrl": "https://lokalizace.net/localizations/song-of-nunu-a-league-of-legends-story",
@@ -6154,7 +6176,7 @@
       "updatedAt": null,
       "pageUrl": "https://lokalizace.net/localizations/the-precinct",
       "howToInstallHtml": "<p>Stáhněte ZIP soubor a rozbalte ho do složky hry, nebo použijte aplikaci CZManager pro automatickou instalaci češtiny.</p>",
-      "changelogHtml": null,
+      "changelogHtml": "<div><p>Nahrána nová verze překladu: 1.5</p></div>",
       "authorsHtml": "<p>Sumilek86</p>",
       "size": null,
       "inDevelopment": true,
@@ -10499,8 +10521,7 @@
       "authorsHtml": "<p>Lost And Found</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "237850"
+      "mirrors": []
     },
     {
       "title": "L.A. Noire",
@@ -10521,8 +10542,7 @@
       "authorsHtml": "<p>Lost And Found</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "110800"
+      "mirrors": []
     },
     {
       "title": "Trine Enchanted Edition",
@@ -10543,8 +10563,7 @@
       "authorsHtml": "<p>Lost And Found</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "35700"
+      "mirrors": []
     },
     {
       "title": "Sherlock Holmes - The Awakened - Remastered",
@@ -10675,8 +10694,7 @@
       "authorsHtml": "<p>GWynter</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "1022710"
+      "mirrors": []
     },
     {
       "title": "A New Beginning - Final Cut",
@@ -10740,8 +10758,7 @@
       "authorsHtml": "<p>KriS</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "313120"
+      "mirrors": []
     },
     {
       "title": "Two Point Hospital",
@@ -10872,8 +10889,7 @@
       "authorsHtml": "<p>Lost And Found</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "351100"
+      "mirrors": []
     },
     {
       "title": "The Forgotten Land",
@@ -10894,8 +10910,7 @@
       "authorsHtml": "<p>Lost And Found</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "1099460"
+      "mirrors": []
     },
     {
       "title": "Warsaw",
@@ -11067,8 +11082,7 @@
       "authorsHtml": "<p>Lost And Found</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "320540"
+      "mirrors": []
     },
     {
       "title": "Zombie Solitaire 2 - Chapter 3",
@@ -11133,8 +11147,7 @@
       "authorsHtml": "<p>Lost And Found</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "327670"
+      "mirrors": []
     },
     {
       "title": "Woolfe: The Red Hood Diaries",
@@ -11177,8 +11190,7 @@
       "authorsHtml": "<p>Lost And Found</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "23490"
+      "mirrors": []
     },
     {
       "title": "Door Kickers",
@@ -11221,8 +11233,7 @@
       "authorsHtml": "<p>Lost And Found</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "8870"
+      "mirrors": []
     },
     {
       "title": "Star Wars: Knights of the Old Republic II - The Sith Lords",
@@ -11265,8 +11276,7 @@
       "authorsHtml": "<p>Majkyska češtiny</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "362680"
+      "mirrors": []
     },
     {
       "title": "Sniper Elite 5",
@@ -11309,8 +11319,7 @@
       "authorsHtml": "<p>Sumilek86</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "375910"
+      "mirrors": []
     },
     {
       "title": "Corsair: Conquest at Sea",
@@ -11374,8 +11383,7 @@
       "authorsHtml": "<p>Sumilek86</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "1238810"
+      "mirrors": []
     },
     {
       "title": "Sea of Stars: Sunset Edition",
@@ -11441,7 +11449,7 @@
       "size": null,
       "inDevelopment": true,
       "mirrors": [],
-      "steamAppId": "8850"
+      "steamAppId": "409720"
     },
     {
       "title": "Bioshock 2",
@@ -11506,8 +11514,7 @@
       "authorsHtml": "<p>Ctihy</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "21980"
+      "mirrors": []
     },
     {
       "title": "Call of Juarez",
@@ -11660,7 +11667,7 @@
       "size": null,
       "inDevelopment": true,
       "mirrors": [],
-      "steamAppId": "7670"
+      "steamAppId": "409710"
     },
     {
       "title": "Figment 2: Creed Valley",
@@ -11725,8 +11732,7 @@
       "authorsHtml": "<p>GWynter</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "423230"
+      "mirrors": []
     },
     {
       "title": "AOD: Art Of Defense",
@@ -11813,8 +11819,7 @@
       "authorsHtml": "<p>Tuax</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "310510"
+      "mirrors": []
     },
     {
       "title": "Beneath A Steel Sky",
@@ -11922,8 +11927,7 @@
       "authorsHtml": "<p>COTT</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "219760"
+      "mirrors": []
     },
     {
       "title": "Divine Divinity",
@@ -11944,8 +11948,7 @@
       "authorsHtml": "<p>COTT</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "214170"
+      "mirrors": []
     },
     {
       "title": "Legends of Eisenwald",
@@ -11988,8 +11991,7 @@
       "authorsHtml": "<p>COTT</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "202710"
+      "mirrors": []
     },
     {
       "title": "Deathloop",
@@ -12032,8 +12034,7 @@
       "authorsHtml": "<p>Kwej</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "288060"
+      "mirrors": []
     },
     {
       "title": "Goetia",
@@ -12054,8 +12055,7 @@
       "authorsHtml": "<p>Kwej</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "421740"
+      "mirrors": []
     },
     {
       "title": "Cooking Simulator",
@@ -12076,8 +12076,7 @@
       "authorsHtml": "<p>PrekladyWoytman</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "641320"
+      "mirrors": []
     },
     {
       "title": "Cities: Skylines",
@@ -12317,8 +12316,7 @@
       "authorsHtml": "<p>Kwej</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "242530"
+      "mirrors": []
     },
     {
       "title": "Gas Guzzlers Extreme",
@@ -12339,8 +12337,7 @@
       "authorsHtml": "<p>Kwej</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "243800"
+      "mirrors": []
     },
     {
       "title": "The Swapper",
@@ -12383,8 +12380,7 @@
       "authorsHtml": "<p>Kwej</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "260330"
+      "mirrors": []
     },
     {
       "title": "Amphora",
@@ -12405,8 +12401,7 @@
       "authorsHtml": "<p>Kwej</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "331510"
+      "mirrors": []
     },
     {
       "title": "Echo",
@@ -12600,8 +12595,7 @@
       "authorsHtml": "<p>labros.cz</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "249630"
+      "mirrors": []
     },
     {
       "title": "SUPER STAR TREK",
@@ -12644,8 +12638,7 @@
       "authorsHtml": "<p>labros.cz</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "223830"
+      "mirrors": []
     },
     {
       "title": "FTL: FASTER THAN LIGHT",
@@ -12753,8 +12746,7 @@
       "authorsHtml": "<p>GWynter</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "746850"
+      "mirrors": []
     },
     {
       "title": "Retro Machina",
@@ -12775,8 +12767,7 @@
       "authorsHtml": "<p>GWynter</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "1127970"
+      "mirrors": []
     },
     {
       "title": "Fallback",
@@ -12797,8 +12788,7 @@
       "authorsHtml": "<p>GWynter</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "864540"
+      "mirrors": []
     },
     {
       "title": "Software Inc.",
@@ -12819,8 +12809,7 @@
       "authorsHtml": "<p>MaFeJP</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "362620"
+      "mirrors": []
     },
     {
       "title": "Eastshade",
@@ -12863,8 +12852,7 @@
       "authorsHtml": "<p>GWynter</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "355680"
+      "mirrors": []
     },
     {
       "title": "Stargate: Timekeepers",
@@ -12885,8 +12873,7 @@
       "authorsHtml": "<p>Petr Cejpek</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "1523650"
+      "mirrors": []
     },
     {
       "title": "The Way",
@@ -12929,8 +12916,7 @@
       "authorsHtml": "<p>GWynter</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "788100"
+      "mirrors": []
     },
     {
       "title": "Remnant 2",
@@ -13061,8 +13047,7 @@
       "authorsHtml": "<p>GWynter</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "598550"
+      "mirrors": []
     },
     {
       "title": "Zombotron",
@@ -13083,8 +13068,7 @@
       "authorsHtml": "<p>GWynter</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "664830"
+      "mirrors": []
     },
     {
       "title": "Valfaris",
@@ -13105,8 +13089,7 @@
       "authorsHtml": "<p>GWynter</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "600130"
+      "mirrors": []
     },
     {
       "title": "Dungeon of the ENDLESS",
@@ -13171,8 +13154,7 @@
       "authorsHtml": "<p>Take of 🚀</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "2378900"
+      "mirrors": []
     },
     {
       "title": "Leisure Suit Larry 7: Love for Sail",
@@ -13516,8 +13498,7 @@
       "authorsHtml": "<p>Lokalizace.Net</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "291650"
+      "mirrors": []
     },
     {
       "title": "Freelancer",
@@ -13559,8 +13540,7 @@
       "authorsHtml": "<p>Starsoul</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "70"
+      "mirrors": []
     },
     {
       "title": "Q.U.B.E. 2",
@@ -13735,8 +13715,7 @@
       "authorsHtml": "<p>MikeCZ</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "367520"
+      "mirrors": []
     },
     {
       "title": "MADiSON",
@@ -16448,50 +16427,6 @@
       "steamAppId": "2369390"
     },
     {
-      "title": "Beyond Hanwell",
-      "studio": "Lokalizace.net",
-      "studioUrl": "https://lokalizace.net/localizations/beyond-hanwell",
-      "language": "Čeština",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": null,
-      "updatedAt": null,
-      "pageUrl": "https://lokalizace.net/localizations/beyond-hanwell",
-      "howToInstallHtml": "<p>Stáhněte ZIP soubor a rozbalte ho do složky hry, nebo použijte aplikaci CZManager pro automatickou instalaci češtiny.</p>",
-      "changelogHtml": null,
-      "authorsHtml": "<p>PERTIM</p>",
-      "size": null,
-      "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "2565550"
-    },
-    {
-      "title": "Avatar Legends: The Fighting Game",
-      "studio": "Lokalizace.net",
-      "studioUrl": "https://lokalizace.net/localizations/avatar-legends-the-fighting-game",
-      "language": "Čeština",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": null,
-      "updatedAt": null,
-      "pageUrl": "https://lokalizace.net/localizations/avatar-legends-the-fighting-game",
-      "howToInstallHtml": "<p>Stáhněte ZIP soubor a rozbalte ho do složky hry, nebo použijte aplikaci CZManager pro automatickou instalaci češtiny.</p>",
-      "changelogHtml": null,
-      "authorsHtml": "<p>PERTIM</p>",
-      "size": null,
-      "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "2424420"
-    },
-    {
       "title": "Total Chaos",
       "studio": "Lokalizace.net",
       "studioUrl": "https://lokalizace.net/localizations/total-chaos",
@@ -16668,28 +16603,6 @@
       "steamAppId": "254700"
     },
     {
-      "title": "Resident Evil 5 Gold Edition (2009)",
-      "studio": "Lokalizace.net",
-      "studioUrl": "https://lokalizace.net/localizations/resident-evil-5-gold-edition",
-      "language": "Čeština",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": null,
-      "updatedAt": null,
-      "pageUrl": "https://lokalizace.net/localizations/resident-evil-5-gold-edition",
-      "howToInstallHtml": "<p>Stáhněte ZIP soubor a rozbalte ho do složky hry, nebo použijte aplikaci CZManager pro automatickou instalaci češtiny.</p>",
-      "changelogHtml": null,
-      "authorsHtml": "<p>PERTIM</p>",
-      "size": null,
-      "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "21690"
-    },
-    {
       "title": "Clive Barker's Hellraiser: Revival",
       "studio": "Lokalizace.net",
       "studioUrl": "https://lokalizace.net/localizations/clive-barker-s-hellraiser-revival",
@@ -16726,7 +16639,7 @@
       "updatedAt": null,
       "pageUrl": "https://lokalizace.net/localizations/grand-theft-auto-vice-city-stories-ps2",
       "howToInstallHtml": "<p>Stáhněte ZIP soubor a rozbalte ho do složky hry, nebo použijte aplikaci CZManager pro automatickou instalaci češtiny.</p>",
-      "changelogHtml": "<div><p>Nahraná prvá verzia prekladu: 0.1</p></div>",
+      "changelogHtml": "<div><p><strong>Nová verze 0.1</strong></p><p>Nahraná prvá verzia slovenského prekladu (0.1 Pre-Alpha). Preklad je vo vývoji. Aktuálne je preložených 1 676 z 20 983 riadkov (7,99 %). Na preklade sa naďalej pracuje.</p></div>",
       "authorsHtml": "<p>Itenko14s Team</p>",
       "size": null,
       "inDevelopment": true,
@@ -16754,27 +16667,6 @@
       "inDevelopment": true,
       "mirrors": [],
       "steamAppId": "2333000"
-    },
-    {
-      "title": "Resident Evil Code Veronica X (2000)",
-      "studio": "Lokalizace.net",
-      "studioUrl": "https://lokalizace.net/localizations/resident-evil-code-veronica-x",
-      "language": "Čeština",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": null,
-      "updatedAt": null,
-      "pageUrl": "https://lokalizace.net/localizations/resident-evil-code-veronica-x",
-      "howToInstallHtml": "<p>Stáhněte ZIP soubor a rozbalte ho do složky hry, nebo použijte aplikaci CZManager pro automatickou instalaci češtiny.</p>",
-      "changelogHtml": null,
-      "authorsHtml": "<p>PERTIM</p>",
-      "size": null,
-      "inDevelopment": true,
-      "mirrors": []
     },
     {
       "title": "Tavern Keeper",
@@ -16929,28 +16821,6 @@
       "mirrors": []
     },
     {
-      "title": "SiN Reloaded",
-      "studio": "Lokalizace.net",
-      "studioUrl": "https://lokalizace.net/localizations/sin-reloaded",
-      "language": "Čeština",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": null,
-      "updatedAt": null,
-      "pageUrl": "https://lokalizace.net/localizations/sin-reloaded",
-      "howToInstallHtml": "<p>Stáhněte ZIP soubor a rozbalte ho do složky hry, nebo použijte aplikaci CZManager pro automatickou instalaci češtiny.</p>",
-      "changelogHtml": null,
-      "authorsHtml": "<p>PERTIM</p>",
-      "size": null,
-      "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "632950"
-    },
-    {
       "title": "Terraria",
       "studio": "Lokalizace.net",
       "studioUrl": "https://lokalizace.net/localizations/terraria",
@@ -17103,50 +16973,6 @@
       "inDevelopment": true,
       "mirrors": [],
       "steamAppId": "2769570"
-    },
-    {
-      "title": "METAL GEAR SOLID: Peace Walker - Master Collection Vol.2",
-      "studio": "Lokalizace.net",
-      "studioUrl": "https://lokalizace.net/localizations/metal-gear-solid-peace-walker-master-collection-version",
-      "language": "Čeština",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": null,
-      "updatedAt": null,
-      "pageUrl": "https://lokalizace.net/localizations/metal-gear-solid-peace-walker-master-collection-version",
-      "howToInstallHtml": "<p>Stáhněte ZIP soubor a rozbalte ho do složky hry, nebo použijte aplikaci CZManager pro automatickou instalaci češtiny.</p>",
-      "changelogHtml": null,
-      "authorsHtml": "<p>PERTIM</p>",
-      "size": null,
-      "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "3859630"
-    },
-    {
-      "title": "METAL GEAR SOLID 4: Guns of the Patriots - Master Collection Vol.2",
-      "studio": "Lokalizace.net",
-      "studioUrl": "https://lokalizace.net/localizations/metal-gear-solid-4-guns-of-the-patriots-master-collection",
-      "language": "Čeština",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": null,
-      "updatedAt": null,
-      "pageUrl": "https://lokalizace.net/localizations/metal-gear-solid-4-guns-of-the-patriots-master-collection",
-      "howToInstallHtml": "<p>Stáhněte ZIP soubor a rozbalte ho do složky hry, nebo použijte aplikaci CZManager pro automatickou instalaci češtiny.</p>",
-      "changelogHtml": null,
-      "authorsHtml": "<p>PERTIM</p>",
-      "size": null,
-      "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "2492670"
     },
     {
       "title": "Monolith",
