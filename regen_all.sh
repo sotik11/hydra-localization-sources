@@ -27,6 +27,22 @@ ORDER="revoiceai playground synthvoiceru gpp hernipreklady komunitni-preklady ku
 # those are refreshed locally from a residential IP instead (see refresh_local.sh).
 # Empty by default => run everything (so a local full run still covers all 14).
 SKIP_SOURCES="${SKIP_SOURCES:-}"
+
+# Frozen sources: the site started refusing automated requests, the feed is
+# kept as is. One probe a week (on PROBE_DAY, 1 = Monday) so the source comes
+# back by itself once the block is lifted, without a daily failure report.
+#   hernipreklady — WEDOS Global Protection answers 455 to scripts (since 2026-11-10)
+FROZEN_SOURCES="${FROZEN_SOURCES-hernipreklady}"
+PROBE_DAY="${PROBE_DAY:-1}"
+if [ -n "$FROZEN_SOURCES" ]; then
+  if [ "$(date -u +%u)" = "$PROBE_DAY" ]; then
+    echo "=== FROZEN: $FROZEN_SOURCES — weekly probe today ==="
+  else
+    echo "=== FROZEN: $FROZEN_SOURCES — skipped (probe on weekday $PROBE_DAY) ==="
+    SKIP_SOURCES="$SKIP_SOURCES $FROZEN_SOURCES"
+  fi
+fi
+
 filter() {
   out=""
   for x in $1; do
@@ -38,7 +54,7 @@ filter() {
 if [ -n "$SKIP_SOURCES" ]; then
   BASES="$(filter "$BASES")"
   ORDER="$(filter "$ORDER")"
-  echo "=== SKIP_SOURCES: $SKIP_SOURCES — пропускаю (обновляются локально) ==="
+  echo "=== SKIP_SOURCES: $SKIP_SOURCES — пропускаю (локальные + замороженные) ==="
 fi
 
 count() { node -e 'try{console.log(JSON.parse(require("fs").readFileSync(process.argv[1],"utf8")).localizations.length)}catch{console.log(0)}' "$1" 2>/dev/null; }
