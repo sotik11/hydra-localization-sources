@@ -15994,10 +15994,10 @@
       "language": "Magyar",
       "hasText": true,
       "hasVoice": false,
-      "version": "1.0",
-      "updatedAt": "15.10.2019",
+      "version": "1.1",
+      "updatedAt": "14.11.2026",
       "requiredGameVersion": null,
-      "size": "4.21 MB",
+      "size": "5.58 MB",
       "pageUrl": "https://magyaritasok.hu/games/darksiders-iii",
       "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
       "authorsHtml": "<p>Evin</p>",
@@ -16005,7 +16005,7 @@
       "mirrors": [
         {
           "label": "Magyarítások",
-          "url": "https://magyaritasok.hu/dl/DarksidersIII/Darksiders3_HUN.exe",
+          "url": "https://magyaritasok.hu/dl/DarksidersIII/DarksidersIII_HUN_v11.exe",
           "kind": "direct"
         }
       ]
