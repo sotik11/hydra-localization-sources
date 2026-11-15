@@ -352,9 +352,9 @@
       "steamAppId": "1547000"
     },
     {
-      "title": "Mafia 2",
+      "title": "Undertale",
       "studio": "Türkçe Yama",
-      "studioUrl": "https://turkce-yama.com/mafia-2-turkce-yama.htm",
+      "studioUrl": "https://turkce-yama.com/undertale-turkce-yama.htm",
       "language": "Türkçe",
       "hasText": true,
       "hasVoice": false,
@@ -363,47 +363,20 @@
       "hasNeuralDub": false,
       "hasNeuralText": false,
       "version": null,
-      "updatedAt": "21.04.2014",
-      "pageUrl": "https://turkce-yama.com/mafia-2-turkce-yama.htm",
+      "updatedAt": "21.01.2020",
+      "pageUrl": "https://turkce-yama.com/undertale-turkce-yama.htm",
       "howToInstallHtml": "<ol><li>Yama dosyasını yukarıdaki «İndir» butonuyla indirin.</li><li>Kurulum dosyasıysa (.exe) çalıştırın; arşivse (.rar/.zip) çıkartın.</li><li>Oyunun kurulu olduğu klasörü gösterin / dosyaları oraya kopyalayın.</li><li>Oyunu başlatın — Türkçe yama uygulanmış olacaktır.</li></ol>",
-      "authorsHtml": "<p>OyunÇeviri ve BSC</p>",
-      "size": "21.9 MB",
+      "authorsHtml": null,
+      "size": "25.1 MB",
       "inDevelopment": false,
       "mirrors": [
         {
           "label": "Türkçe Yama",
-          "url": "https://turkce-yama.com/mafia-2-turkce-yama.htm",
+          "url": "https://turkce-yama.com/undertale-turkce-yama.htm",
           "kind": "other"
         }
       ],
-      "steamAppId": "50130"
-    },
-    {
-      "title": "Need For Speed: Most Wanted",
-      "studio": "Türkçe Yama",
-      "studioUrl": "https://turkce-yama.com/need-for-speed-most-wanted-turkce-yama.htm",
-      "language": "Türkçe",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": null,
-      "updatedAt": "25.04.2014",
-      "pageUrl": "https://turkce-yama.com/need-for-speed-most-wanted-turkce-yama.htm",
-      "howToInstallHtml": "<ol><li>Yama dosyasını yukarıdaki «İndir» butonuyla indirin.</li><li>Kurulum dosyasıysa (.exe) çalıştırın; arşivse (.rar/.zip) çıkartın.</li><li>Oyunun kurulu olduğu klasörü gösterin / dosyaları oraya kopyalayın.</li><li>Oyunu başlatın — Türkçe yama uygulanmış olacaktır.</li></ol>",
-      "authorsHtml": "<p>Aygün İşler</p>",
-      "size": "2.16 MB",
-      "inDevelopment": false,
-      "mirrors": [
-        {
-          "label": "Türkçe Yama",
-          "url": "https://turkce-yama.com/need-for-speed-most-wanted-turkce-yama.htm",
-          "kind": "other"
-        }
-      ],
-      "steamAppId": "1262560"
+      "steamAppId": "391540"
     },
     {
       "title": "Metro 2033 Redux",
@@ -433,9 +406,9 @@
       "steamAppId": "286690"
     },
     {
-      "title": "Undertale",
+      "title": "Need For Speed: Most Wanted",
       "studio": "Türkçe Yama",
-      "studioUrl": "https://turkce-yama.com/undertale-turkce-yama.htm",
+      "studioUrl": "https://turkce-yama.com/need-for-speed-most-wanted-turkce-yama.htm",
       "language": "Türkçe",
       "hasText": true,
       "hasVoice": false,
@@ -444,20 +417,47 @@
       "hasNeuralDub": false,
       "hasNeuralText": false,
       "version": null,
-      "updatedAt": "21.01.2020",
-      "pageUrl": "https://turkce-yama.com/undertale-turkce-yama.htm",
+      "updatedAt": "25.04.2014",
+      "pageUrl": "https://turkce-yama.com/need-for-speed-most-wanted-turkce-yama.htm",
       "howToInstallHtml": "<ol><li>Yama dosyasını yukarıdaki «İndir» butonuyla indirin.</li><li>Kurulum dosyasıysa (.exe) çalıştırın; arşivse (.rar/.zip) çıkartın.</li><li>Oyunun kurulu olduğu klasörü gösterin / dosyaları oraya kopyalayın.</li><li>Oyunu başlatın — Türkçe yama uygulanmış olacaktır.</li></ol>",
-      "authorsHtml": null,
-      "size": "25.1 MB",
+      "authorsHtml": "<p>Aygün İşler</p>",
+      "size": "2.16 MB",
       "inDevelopment": false,
       "mirrors": [
         {
           "label": "Türkçe Yama",
-          "url": "https://turkce-yama.com/undertale-turkce-yama.htm",
+          "url": "https://turkce-yama.com/need-for-speed-most-wanted-turkce-yama.htm",
           "kind": "other"
         }
       ],
-      "steamAppId": "391540"
+      "steamAppId": "1262560"
+    },
+    {
+      "title": "Call of Duty 4 Modern Warfare",
+      "studio": "Türkçe Yama",
+      "studioUrl": "https://turkce-yama.com/call-of-duty-4-modern-warfare-turkce-yama.htm",
+      "language": "Türkçe",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": null,
+      "updatedAt": "21.04.2014",
+      "pageUrl": "https://turkce-yama.com/call-of-duty-4-modern-warfare-turkce-yama.htm",
+      "howToInstallHtml": "<ol><li>Yama dosyasını yukarıdaki «İndir» butonuyla indirin.</li><li>Kurulum dosyasıysa (.exe) çalıştırın; arşivse (.rar/.zip) çıkartın.</li><li>Oyunun kurulu olduğu klasörü gösterin / dosyaları oraya kopyalayın.</li><li>Oyunu başlatın — Türkçe yama uygulanmış olacaktır.</li></ol>",
+      "authorsHtml": null,
+      "size": "81.5 MB",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Türkçe Yama",
+          "url": "https://turkce-yama.com/call-of-duty-4-modern-warfare-turkce-yama.htm",
+          "kind": "other"
+        }
+      ],
+      "steamAppId": "7940"
     },
     {
       "title": "Need for Speed: Underground 2",
@@ -486,9 +486,9 @@
       ]
     },
     {
-      "title": "Shadow of the Tomb Raider",
+      "title": "Call of Duty: Black Ops",
       "studio": "Türkçe Yama",
-      "studioUrl": "https://turkce-yama.com/shadow-of-the-tomb-raider-turkce-yama.htm",
+      "studioUrl": "https://turkce-yama.com/call-of-duty-black-ops-turkce-yama.htm",
       "language": "Türkçe",
       "hasText": true,
       "hasVoice": false,
@@ -497,25 +497,25 @@
       "hasNeuralDub": false,
       "hasNeuralText": false,
       "version": null,
-      "updatedAt": "23.03.2019",
-      "pageUrl": "https://turkce-yama.com/shadow-of-the-tomb-raider-turkce-yama.htm",
+      "updatedAt": "21.04.2014",
+      "pageUrl": "https://turkce-yama.com/call-of-duty-black-ops-turkce-yama.htm",
       "howToInstallHtml": "<ol><li>Yama dosyasını yukarıdaki «İndir» butonuyla indirin.</li><li>Kurulum dosyasıysa (.exe) çalıştırın; arşivse (.rar/.zip) çıkartın.</li><li>Oyunun kurulu olduğu klasörü gösterin / dosyaları oraya kopyalayın.</li><li>Oyunu başlatın — Türkçe yama uygulanmış olacaktır.</li></ol>",
       "authorsHtml": null,
-      "size": "29.4 MB",
+      "size": "13.8 MB",
       "inDevelopment": false,
       "mirrors": [
         {
           "label": "Türkçe Yama",
-          "url": "https://turkce-yama.com/shadow-of-the-tomb-raider-turkce-yama.htm",
+          "url": "https://turkce-yama.com/call-of-duty-black-ops-turkce-yama.htm",
           "kind": "other"
         }
       ],
-      "steamAppId": "750920"
+      "steamAppId": "42700"
     },
     {
-      "title": "Assassin's Creed Valhalla",
+      "title": "Call of Duty: Modern Warfare 3",
       "studio": "Türkçe Yama",
-      "studioUrl": "https://turkce-yama.com/assassins-creed-valhalla-turkce-yama.htm",
+      "studioUrl": "https://turkce-yama.com/call-of-duty-modern-warfare-3-turkce-yama.htm",
       "language": "Türkçe",
       "hasText": true,
       "hasVoice": false,
@@ -524,20 +524,20 @@
       "hasNeuralDub": false,
       "hasNeuralText": false,
       "version": null,
-      "updatedAt": "15.03.2026",
-      "pageUrl": "https://turkce-yama.com/assassins-creed-valhalla-turkce-yama.htm",
+      "updatedAt": "25.04.2014",
+      "pageUrl": "https://turkce-yama.com/call-of-duty-modern-warfare-3-turkce-yama.htm",
       "howToInstallHtml": "<ol><li>Yama dosyasını yukarıdaki «İndir» butonuyla indirin.</li><li>Kurulum dosyasıysa (.exe) çalıştırın; arşivse (.rar/.zip) çıkartın.</li><li>Oyunun kurulu olduğu klasörü gösterin / dosyaları oraya kopyalayın.</li><li>Oyunu başlatın — Türkçe yama uygulanmış olacaktır.</li></ol>",
-      "authorsHtml": "<p>Animus Projesi</p>",
-      "size": "19.3 MB",
+      "authorsHtml": null,
+      "size": "2.20 GB",
       "inDevelopment": false,
       "mirrors": [
         {
           "label": "Türkçe Yama",
-          "url": "https://turkce-yama.com/assassins-creed-valhalla-turkce-yama.htm",
+          "url": "https://turkce-yama.com/call-of-duty-modern-warfare-3-turkce-yama.htm",
           "kind": "other"
         }
       ],
-      "steamAppId": "2208920"
+      "steamAppId": "3595270"
     },
     {
       "title": "Far Cry 3",
@@ -565,6 +565,33 @@
         }
       ],
       "steamAppId": "220240"
+    },
+    {
+      "title": "Mafia 2",
+      "studio": "Türkçe Yama",
+      "studioUrl": "https://turkce-yama.com/mafia-2-turkce-yama.htm",
+      "language": "Türkçe",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": null,
+      "updatedAt": "21.04.2014",
+      "pageUrl": "https://turkce-yama.com/mafia-2-turkce-yama.htm",
+      "howToInstallHtml": "<ol><li>Yama dosyasını yukarıdaki «İndir» butonuyla indirin.</li><li>Kurulum dosyasıysa (.exe) çalıştırın; arşivse (.rar/.zip) çıkartın.</li><li>Oyunun kurulu olduğu klasörü gösterin / dosyaları oraya kopyalayın.</li><li>Oyunu başlatın — Türkçe yama uygulanmış olacaktır.</li></ol>",
+      "authorsHtml": "<p>OyunÇeviri ve BSC</p>",
+      "size": "21.9 MB",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Türkçe Yama",
+          "url": "https://turkce-yama.com/mafia-2-turkce-yama.htm",
+          "kind": "other"
+        }
+      ],
+      "steamAppId": "50130"
     },
     {
       "title": "Pro Evolution Soccer 2013",
@@ -781,6 +808,33 @@
         }
       ],
       "steamAppId": "5030940"
+    },
+    {
+      "title": "Assassin's Creed Valhalla",
+      "studio": "Türkçe Yama",
+      "studioUrl": "https://turkce-yama.com/assassins-creed-valhalla-turkce-yama.htm",
+      "language": "Türkçe",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": null,
+      "updatedAt": "15.03.2026",
+      "pageUrl": "https://turkce-yama.com/assassins-creed-valhalla-turkce-yama.htm",
+      "howToInstallHtml": "<ol><li>Yama dosyasını yukarıdaki «İndir» butonuyla indirin.</li><li>Kurulum dosyasıysa (.exe) çalıştırın; arşivse (.rar/.zip) çıkartın.</li><li>Oyunun kurulu olduğu klasörü gösterin / dosyaları oraya kopyalayın.</li><li>Oyunu başlatın — Türkçe yama uygulanmış olacaktır.</li></ol>",
+      "authorsHtml": "<p>Animus Projesi</p>",
+      "size": "19.3 MB",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Türkçe Yama",
+          "url": "https://turkce-yama.com/assassins-creed-valhalla-turkce-yama.htm",
+          "kind": "other"
+        }
+      ],
+      "steamAppId": "2208920"
     },
     {
       "title": "Assassin's Creed Odyssey",
@@ -3717,6 +3771,33 @@
         }
       ],
       "steamAppId": "883710"
+    },
+    {
+      "title": "Shadow of the Tomb Raider",
+      "studio": "Türkçe Yama",
+      "studioUrl": "https://turkce-yama.com/shadow-of-the-tomb-raider-turkce-yama.htm",
+      "language": "Türkçe",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": null,
+      "updatedAt": "23.03.2019",
+      "pageUrl": "https://turkce-yama.com/shadow-of-the-tomb-raider-turkce-yama.htm",
+      "howToInstallHtml": "<ol><li>Yama dosyasını yukarıdaki «İndir» butonuyla indirin.</li><li>Kurulum dosyasıysa (.exe) çalıştırın; arşivse (.rar/.zip) çıkartın.</li><li>Oyunun kurulu olduğu klasörü gösterin / dosyaları oraya kopyalayın.</li><li>Oyunu başlatın — Türkçe yama uygulanmış olacaktır.</li></ol>",
+      "authorsHtml": null,
+      "size": "29.4 MB",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Türkçe Yama",
+          "url": "https://turkce-yama.com/shadow-of-the-tomb-raider-turkce-yama.htm",
+          "kind": "other"
+        }
+      ],
+      "steamAppId": "750920"
     },
     {
       "title": "Dishonored 1 – Definitive Edition",
@@ -13592,33 +13673,6 @@
       "steamAppId": "42910"
     },
     {
-      "title": "Call of Duty: Modern Warfare 3",
-      "studio": "Türkçe Yama",
-      "studioUrl": "https://turkce-yama.com/call-of-duty-modern-warfare-3-turkce-yama.htm",
-      "language": "Türkçe",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": null,
-      "updatedAt": "25.04.2014",
-      "pageUrl": "https://turkce-yama.com/call-of-duty-modern-warfare-3-turkce-yama.htm",
-      "howToInstallHtml": "<ol><li>Yama dosyasını yukarıdaki «İndir» butonuyla indirin.</li><li>Kurulum dosyasıysa (.exe) çalıştırın; arşivse (.rar/.zip) çıkartın.</li><li>Oyunun kurulu olduğu klasörü gösterin / dosyaları oraya kopyalayın.</li><li>Oyunu başlatın — Türkçe yama uygulanmış olacaktır.</li></ol>",
-      "authorsHtml": null,
-      "size": "2.20 GB",
-      "inDevelopment": false,
-      "mirrors": [
-        {
-          "label": "Türkçe Yama",
-          "url": "https://turkce-yama.com/call-of-duty-modern-warfare-3-turkce-yama.htm",
-          "kind": "other"
-        }
-      ],
-      "steamAppId": "3595270"
-    },
-    {
       "title": "The Sims 2",
       "studio": "Türkçe Yama",
       "studioUrl": "https://turkce-yama.com/the-sims-2-turkce-yama.htm",
@@ -15960,33 +16014,6 @@
       "steamAppId": "2630"
     },
     {
-      "title": "Call of Duty 4 Modern Warfare",
-      "studio": "Türkçe Yama",
-      "studioUrl": "https://turkce-yama.com/call-of-duty-4-modern-warfare-turkce-yama.htm",
-      "language": "Türkçe",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": null,
-      "updatedAt": "21.04.2014",
-      "pageUrl": "https://turkce-yama.com/call-of-duty-4-modern-warfare-turkce-yama.htm",
-      "howToInstallHtml": "<ol><li>Yama dosyasını yukarıdaki «İndir» butonuyla indirin.</li><li>Kurulum dosyasıysa (.exe) çalıştırın; arşivse (.rar/.zip) çıkartın.</li><li>Oyunun kurulu olduğu klasörü gösterin / dosyaları oraya kopyalayın.</li><li>Oyunu başlatın — Türkçe yama uygulanmış olacaktır.</li></ol>",
-      "authorsHtml": null,
-      "size": "81.5 MB",
-      "inDevelopment": false,
-      "mirrors": [
-        {
-          "label": "Türkçe Yama",
-          "url": "https://turkce-yama.com/call-of-duty-4-modern-warfare-turkce-yama.htm",
-          "kind": "other"
-        }
-      ],
-      "steamAppId": "7940"
-    },
-    {
       "title": "Call of Duty: United Offensive",
       "studio": "Türkçe Yama",
       "studioUrl": "https://turkce-yama.com/call-of-duty-united-offensive-turkce-yama.htm",
@@ -16010,8 +16037,7 @@
           "url": "https://turkce-yama.com/call-of-duty-united-offensive-turkce-yama.htm",
           "kind": "other"
         }
-      ],
-      "steamAppId": "2640"
+      ]
     },
     {
       "title": "Call of Duty: World at War",
@@ -16225,8 +16251,7 @@
           "url": "https://turkce-yama.com/fahrenheit-indigo-prophecy-turkce-yama.htm",
           "kind": "other"
         }
-      ],
-      "steamAppId": "312840"
+      ]
     },
     {
       "title": "Darksiders",
@@ -16252,8 +16277,7 @@
           "url": "https://turkce-yama.com/darksiders-turkce-yama.htm",
           "kind": "other"
         }
-      ],
-      "steamAppId": "50620"
+      ]
     },
     {
       "title": "The Da Vinci Code",
@@ -16279,8 +16303,7 @@
           "url": "https://turkce-yama.com/the-da-vinci-code-turkce-yama.htm",
           "kind": "other"
         }
-      ],
-      "steamAppId": "2666270"
+      ]
     },
     {
       "title": "Devil May Cry 3 Special Edition",
@@ -16386,8 +16409,7 @@
           "url": "https://turkce-yama.com/football-manager-2009-turkce-yama.htm",
           "kind": "other"
         }
-      ],
-      "steamAppId": "4530370"
+      ]
     },
     {
       "title": "Football Manager 2013",
@@ -16439,8 +16461,7 @@
           "url": "https://turkce-yama.com/football-manager-2006-turkce-yama.htm",
           "kind": "other"
         }
-      ],
-      "steamAppId": "4530370"
+      ]
     },
     {
       "title": "Football Manager 2008",
@@ -16466,8 +16487,7 @@
           "url": "https://turkce-yama.com/football-manager-2008-turkce-yama.htm",
           "kind": "other"
         }
-      ],
-      "steamAppId": "4530370"
+      ]
     },
     {
       "title": "Football Manager 2007",
@@ -16493,8 +16513,7 @@
           "url": "https://turkce-yama.com/football-manager-2007-turkce-yama.htm",
           "kind": "other"
         }
-      ],
-      "steamAppId": "4530370"
+      ]
     },
     {
       "title": "Counter-Strike: Global Offensive",
@@ -16520,8 +16539,7 @@
           "url": "https://turkce-yama.com/counter-strike-global-offensive-turkce-yama.htm",
           "kind": "other"
         }
-      ],
-      "steamAppId": "10"
+      ]
     },
     {
       "title": "Football Manager 2012",
@@ -16547,8 +16565,7 @@
           "url": "https://turkce-yama.com/football-manager-2012-turkce-yama.htm",
           "kind": "other"
         }
-      ],
-      "steamAppId": "4530370"
+      ]
     },
     {
       "title": "Crysis 3",
@@ -16601,8 +16618,7 @@
           "url": "https://turkce-yama.com/black-mesa-source-turkce-yama.htm",
           "kind": "other"
         }
-      ],
-      "steamAppId": "362890"
+      ]
     },
     {
       "title": "Spec Ops: The Line",
@@ -16814,8 +16830,7 @@
           "url": "https://turkce-yama.com/need-for-speed-carbon-turkce-yama.htm",
           "kind": "other"
         }
-      ],
-      "steamAppId": "1262540"
+      ]
     },
     {
       "title": "Football Manager 2010",
@@ -16870,33 +16885,6 @@
       ]
     },
     {
-      "title": "Call of Duty: Black Ops",
-      "studio": "Türkçe Yama",
-      "studioUrl": "https://turkce-yama.com/call-of-duty-black-ops-turkce-yama.htm",
-      "language": "Türkçe",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": null,
-      "updatedAt": "21.04.2014",
-      "pageUrl": "https://turkce-yama.com/call-of-duty-black-ops-turkce-yama.htm",
-      "howToInstallHtml": "<ol><li>Yama dosyasını yukarıdaki «İndir» butonuyla indirin.</li><li>Kurulum dosyasıysa (.exe) çalıştırın; arşivse (.rar/.zip) çıkartın.</li><li>Oyunun kurulu olduğu klasörü gösterin / dosyaları oraya kopyalayın.</li><li>Oyunu başlatın — Türkçe yama uygulanmış olacaktır.</li></ol>",
-      "authorsHtml": null,
-      "size": "13.8 MB",
-      "inDevelopment": false,
-      "mirrors": [
-        {
-          "label": "Türkçe Yama",
-          "url": "https://turkce-yama.com/call-of-duty-black-ops-turkce-yama.htm",
-          "kind": "other"
-        }
-      ],
-      "steamAppId": "42700"
-    },
-    {
       "title": "Half Life 2: Episode One",
       "studio": "Türkçe Yama",
       "studioUrl": "https://turkce-yama.com/half-life-2-episode-one-turkce-yama.htm",
@@ -16921,7 +16909,7 @@
           "kind": "other"
         }
       ],
-      "steamAppId": "220"
+      "steamAppId": "323150"
     },
     {
       "title": "Half Life 2: Episode Two",
@@ -16975,7 +16963,7 @@
           "kind": "other"
         }
       ],
-      "steamAppId": "70"
+      "steamAppId": "360"
     },
     {
       "title": "Counter Strike Source",
@@ -17002,7 +16990,7 @@
           "kind": "other"
         }
       ],
-      "steamAppId": "240"
+      "steamAppId": "10"
     },
     {
       "title": "I Am Alive",
@@ -17082,8 +17070,7 @@
           "url": "https://turkce-yama.com/zombie-shooter-turkce-yama.htm",
           "kind": "other"
         }
-      ],
-      "steamAppId": "33130"
+      ]
     },
     {
       "title": "Dragon Age Witch Hunt",
@@ -17161,8 +17148,7 @@
           "url": "https://turkce-yama.com/sniper-elite-v2-turkce-yama.htm",
           "kind": "other"
         }
-      ],
-      "steamAppId": "63380"
+      ]
     },
     {
       "title": "Rome: Total War",
@@ -17242,8 +17228,7 @@
           "url": "https://turkce-yama.com/city-car-driving-3d-instructor-turkce-yama.htm",
           "kind": "other"
         }
-      ],
-      "steamAppId": "493490"
+      ]
     },
     {
       "title": "Alan Wake",
@@ -17269,8 +17254,7 @@
           "url": "https://turkce-yama.com/alan-wake-turkce-yama.htm",
           "kind": "other"
         }
-      ],
-      "steamAppId": "108710"
+      ]
     },
     {
       "title": "Alcatraz",
@@ -17296,8 +17280,7 @@
           "url": "https://turkce-yama.com/alcatraz-turkce-yama.htm",
           "kind": "other"
         }
-      ],
-      "steamAppId": "255280"
+      ]
     },
     {
       "title": "Alien Shooter",
@@ -17350,8 +17333,7 @@
           "url": "https://turkce-yama.com/arx-fatalis-turkce-yama.htm",
           "kind": "other"
         }
-      ],
-      "steamAppId": "1700"
+      ]
     },
     {
       "title": "Angry Birds Space",
@@ -17536,8 +17518,7 @@
           "url": "https://turkce-yama.com/black-mirror-2-turkce-yama.htm",
           "kind": "other"
         }
-      ],
-      "steamAppId": "286460"
+      ]
     },
     {
       "title": "Borderlands",
@@ -17617,8 +17598,7 @@
           "url": "https://turkce-yama.com/broken-sword-the-shadow-of-the-templars-turkce-yama.htm",
           "kind": "other"
         }
-      ],
-      "steamAppId": "2544110"
+      ]
     },
     {
       "title": "Bus Driver",
@@ -17698,7 +17678,7 @@
           "kind": "other"
         }
       ],
-      "steamAppId": "22340"
+      "steamAppId": "399810"
     },
     {
       "title": "Caesar IV",
@@ -17751,8 +17731,7 @@
           "url": "https://turkce-yama.com/call-of-juarez-turkce-yama.htm",
           "kind": "other"
         }
-      ],
-      "steamAppId": "3020"
+      ]
     },
     {
       "title": "Call Of Juarez 2 Bound in Blood",
