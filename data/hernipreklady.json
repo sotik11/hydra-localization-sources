@@ -5,6 +5,34 @@
   "siteUrl": "https://hernipreklady.cz",
   "localizations": [
     {
+      "title": "No Man's Sky",
+      "studio": "HerníPřeklady",
+      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/no-man-s-sky",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": null,
+      "updatedAt": null,
+      "requiredGameVersion": "7.14_Forsaken_185034",
+      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/no-man-s-sky",
+      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
+      "authorsHtml": "<p><strong>Překlad:</strong> Unread</p>",
+      "inDevelopment": false,
+      "size": "10.1 MB",
+      "mirrors": [
+        {
+          "label": "HerníPřeklady",
+          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=652",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "275850"
+    },
+    {
       "title": "Silver Pines",
       "studio": "HerníPřeklady",
       "studioUrl": "https://hernipreklady.cz/seznam-prekladu/silver-pines",
@@ -17,13 +45,19 @@
       "hasNeuralText": false,
       "version": "1.00",
       "updatedAt": null,
-      "requiredGameVersion": "Hotfix 2",
+      "requiredGameVersion": "Hotfix 3",
       "pageUrl": "https://hernipreklady.cz/seznam-prekladu/silver-pines",
       "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
       "authorsHtml": null,
-      "inDevelopment": true,
-      "size": null,
-      "mirrors": [],
+      "inDevelopment": false,
+      "size": "7.61 MB",
+      "mirrors": [
+        {
+          "label": "HerníPřeklady",
+          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=651",
+          "kind": "direct"
+        }
+      ],
       "steamAppId": "2333000"
     },
     {
@@ -37,7 +71,7 @@
       "hasNeuralVoice": false,
       "hasNeuralDub": false,
       "hasNeuralText": false,
-      "version": "1.00",
+      "version": "1.10",
       "updatedAt": null,
       "requiredGameVersion": "PC 1.0.1.8",
       "pageUrl": "https://hernipreklady.cz/seznam-prekladu/end-of-abyss",
@@ -48,11 +82,66 @@
       "mirrors": [
         {
           "label": "HerníPřeklady",
-          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=643",
+          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=650",
           "kind": "direct"
         }
       ],
       "steamAppId": "530611"
+    },
+    {
+      "title": "Anno 117",
+      "studio": "HerníPřeklady",
+      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/anno-117",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": "1.10",
+      "updatedAt": null,
+      "requiredGameVersion": "3.0.1733841+",
+      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/anno-117",
+      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
+      "authorsHtml": "<p><strong>Překlad:</strong> Jetro, Ralph Shepard,<br><strong>Korektura:</strong> Jetro<br><strong>Testování:</strong> Andrewek, Jetro,</p>",
+      "inDevelopment": false,
+      "size": "3.89 MB",
+      "mirrors": [
+        {
+          "label": "HerníPřeklady",
+          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=648",
+          "kind": "direct"
+        }
+      ]
+    },
+    {
+      "title": "System Shock Remake",
+      "studio": "HerníPřeklady",
+      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/system-shock-remake",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": "1.50",
+      "updatedAt": null,
+      "requiredGameVersion": "Parity Patch (v2.1)",
+      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/system-shock-remake",
+      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
+      "authorsHtml": null,
+      "inDevelopment": false,
+      "size": "1.78 MB",
+      "mirrors": [
+        {
+          "label": "HerníPřeklady",
+          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=647",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "482400"
     },
     {
       "title": "Civilization VII",
@@ -65,22 +154,50 @@
       "hasNeuralVoice": false,
       "hasNeuralDub": false,
       "hasNeuralText": false,
-      "version": "1.10",
+      "version": "1.11",
       "updatedAt": null,
       "requiredGameVersion": "1.5.0 (PC - Win)",
       "pageUrl": "https://hernipreklady.cz/seznam-prekladu/civilization-vii",
       "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
       "authorsHtml": "<p><strong>Překlad:</strong> Jetro, Ralph Shepard, Coffin Corner, Sushi<br><strong>Korektura:</strong> Jetro<br><strong>Testování:</strong> Ralph Shepard, Andrewek, Jetro</p>",
       "inDevelopment": false,
-      "size": "3.38 MB",
+      "size": "3.42 MB",
       "mirrors": [
         {
           "label": "HerníPřeklady",
-          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=642",
+          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=645",
           "kind": "direct"
         }
       ],
       "steamAppId": "1295660"
+    },
+    {
+      "title": "Graveyard Keeper 2",
+      "studio": "HerníPřeklady",
+      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/graveyard-keeper-2",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": "1.06",
+      "updatedAt": null,
+      "requiredGameVersion": "1.011+ (Win/PC)",
+      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/graveyard-keeper-2",
+      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
+      "authorsHtml": "<p><strong>Překlad:</strong> Jetro<br><strong>Testování:</strong> Jetro, Andrewek</p>",
+      "inDevelopment": false,
+      "size": "2.33 MB",
+      "mirrors": [
+        {
+          "label": "HerníPřeklady",
+          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=644",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "4358690"
     },
     {
       "title": "Millennia",
@@ -103,90 +220,6 @@
       "size": null,
       "mirrors": [],
       "steamAppId": "1268590"
-    },
-    {
-      "title": "Astroneer",
-      "studio": "HerníPřeklady",
-      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/astroneer",
-      "language": "Čeština",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": null,
-      "updatedAt": null,
-      "requiredGameVersion": "1.45.1.0",
-      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/astroneer",
-      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
-      "authorsHtml": "<p><strong>Překlad:</strong> Unread</p>",
-      "inDevelopment": false,
-      "size": "3.66 MB",
-      "mirrors": [
-        {
-          "label": "HerníPřeklady",
-          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=641",
-          "kind": "direct"
-        }
-      ],
-      "steamAppId": "361420"
-    },
-    {
-      "title": "Code Vein 2",
-      "studio": "HerníPřeklady",
-      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/code-vein-2",
-      "language": "Čeština",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": "2.0",
-      "updatedAt": null,
-      "requiredGameVersion": "2.0.1",
-      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/code-vein-2",
-      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
-      "authorsHtml": null,
-      "inDevelopment": false,
-      "size": "9.52 MB",
-      "mirrors": [
-        {
-          "label": "HerníPřeklady",
-          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=640",
-          "kind": "direct"
-        }
-      ],
-      "steamAppId": "2362060"
-    },
-    {
-      "title": "Graveyard Keeper 2",
-      "studio": "HerníPřeklady",
-      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/graveyard-keeper-2",
-      "language": "Čeština",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": "1.05",
-      "updatedAt": null,
-      "requiredGameVersion": "1.010+ (Win/PC)",
-      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/graveyard-keeper-2",
-      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
-      "authorsHtml": "<p><strong>Překlad:</strong> Jetro<br><strong>Testování:</strong> Jetro, Andrewek</p>",
-      "inDevelopment": false,
-      "size": "2.33 MB",
-      "mirrors": [
-        {
-          "label": "HerníPřeklady",
-          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=639",
-          "kind": "direct"
-        }
-      ],
-      "steamAppId": "4358690"
     },
     {
       "title": "Frostpunk 2",
@@ -215,34 +248,6 @@
         }
       ],
       "steamAppId": "1601580"
-    },
-    {
-      "title": "No Man's Sky",
-      "studio": "HerníPřeklady",
-      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/no-man-s-sky",
-      "language": "Čeština",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": null,
-      "updatedAt": null,
-      "requiredGameVersion": "7.06_Cosmos_180836",
-      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/no-man-s-sky",
-      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
-      "authorsHtml": "<p><strong>Překlad:</strong> Unread</p>",
-      "inDevelopment": false,
-      "size": "8.81 MB",
-      "mirrors": [
-        {
-          "label": "HerníPřeklady",
-          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=627",
-          "kind": "direct"
-        }
-      ],
-      "steamAppId": "275850"
     },
     {
       "title": "Cthulhu: The Cosmic Abyss",
@@ -357,6 +362,34 @@
       "steamAppId": "2005090"
     },
     {
+      "title": "Code Vein 2",
+      "studio": "HerníPřeklady",
+      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/code-vein-2",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": "2.0",
+      "updatedAt": null,
+      "requiredGameVersion": "2.0.1",
+      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/code-vein-2",
+      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
+      "authorsHtml": null,
+      "inDevelopment": false,
+      "size": "9.52 MB",
+      "mirrors": [
+        {
+          "label": "HerníPřeklady",
+          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=640",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "2362060"
+    },
+    {
       "title": "Cairn",
       "studio": "HerníPřeklady",
       "studioUrl": "https://hernipreklady.cz/seznam-prekladu/cairn",
@@ -368,7 +401,7 @@
       "hasNeuralDub": false,
       "hasNeuralText": false,
       "version": "1.2",
-      "updatedAt": "13.04.2026",
+      "updatedAt": "26.05.2026",
       "requiredGameVersion": "1.1.393s_1942",
       "pageUrl": "https://hernipreklady.cz/seznam-prekladu/cairn",
       "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
@@ -378,7 +411,7 @@
       "mirrors": [
         {
           "label": "HerníPřeklady",
-          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=551",
+          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=577",
           "kind": "direct"
         }
       ],
@@ -687,33 +720,6 @@
       "steamAppId": "2464280"
     },
     {
-      "title": "Anno 117",
-      "studio": "HerníPřeklady",
-      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/anno-117",
-      "language": "Čeština",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": "1.09",
-      "updatedAt": null,
-      "requiredGameVersion": "2.1.0.1711091+",
-      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/anno-117",
-      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
-      "authorsHtml": "<p><strong>Překlad:</strong> Jetro, Ralph Shepard,<br><strong>Korektura:</strong> Jetro<br><strong>Testování:</strong> Andrewek, Jetro,</p>",
-      "inDevelopment": false,
-      "size": "3.59 MB",
-      "mirrors": [
-        {
-          "label": "HerníPřeklady",
-          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=624",
-          "kind": "direct"
-        }
-      ]
-    },
-    {
       "title": "Two Point Campus",
       "studio": "HerníPřeklady",
       "studioUrl": "https://hernipreklady.cz/seznam-prekladu/two-point-campus",
@@ -887,7 +893,7 @@
       "hasNeuralDub": false,
       "hasNeuralText": false,
       "version": "2.0",
-      "updatedAt": null,
+      "updatedAt": "08.10.2026",
       "requiredGameVersion": "Aktuální Steam",
       "pageUrl": "https://hernipreklady.cz/seznam-prekladu/two-point-museum",
       "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
@@ -958,6 +964,34 @@
         }
       ],
       "steamAppId": "282070"
+    },
+    {
+      "title": "Astroneer",
+      "studio": "HerníPřeklady",
+      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/astroneer",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": null,
+      "updatedAt": null,
+      "requiredGameVersion": "1.45.1.0",
+      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/astroneer",
+      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
+      "authorsHtml": "<p><strong>Překlad:</strong> Unread</p>",
+      "inDevelopment": false,
+      "size": "3.66 MB",
+      "mirrors": [
+        {
+          "label": "HerníPřeklady",
+          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=641",
+          "kind": "direct"
+        }
+      ],
+      "steamAppId": "361420"
     },
     {
       "title": "SCP: Fragmented Minds",
@@ -2971,34 +3005,6 @@
       "steamAppId": "1649010"
     },
     {
-      "title": "System Shock Remake",
-      "studio": "HerníPřeklady",
-      "studioUrl": "https://hernipreklady.cz/seznam-prekladu/system-shock-remake",
-      "language": "Čeština",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": "1.40",
-      "updatedAt": "20.03.2026",
-      "requiredGameVersion": "Parity Patch (v2.1)",
-      "pageUrl": "https://hernipreklady.cz/seznam-prekladu/system-shock-remake",
-      "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
-      "authorsHtml": null,
-      "inDevelopment": false,
-      "size": "1.46 MB",
-      "mirrors": [
-        {
-          "label": "HerníPřeklady",
-          "url": "https://hernipreklady.cz/component/dpattachments/?task=attachment.download&id=545",
-          "kind": "direct"
-        }
-      ],
-      "steamAppId": "482400"
-    },
-    {
       "title": "Broken Pieces",
       "studio": "HerníPřeklady",
       "studioUrl": "https://hernipreklady.cz/seznam-prekladu/broken-pieces",
@@ -3234,7 +3240,7 @@
       "hasNeuralDub": false,
       "hasNeuralText": false,
       "version": "2.7",
-      "updatedAt": null,
+      "updatedAt": "07.10.2026",
       "requiredGameVersion": "1.0.48274",
       "pageUrl": "https://hernipreklady.cz/seznam-prekladu/wartales-dlc",
       "howToInstallHtml": "<p><strong>Instalace:</strong><br>Postupujte podle pokynů instalátoru. Instalace je plně automatická.</p>",
@@ -4526,7 +4532,7 @@
           "kind": "direct"
         }
       ],
-      "steamAppId": "1520500"
+      "steamAppId": "985830"
     },
     {
       "title": "Twin Mirror",

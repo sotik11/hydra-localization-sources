@@ -5,6 +5,93 @@
   "siteUrl": "https://lokalizace.net",
   "localizations": [
     {
+      "title": "The Sphere",
+      "studio": "Lokalizace.net",
+      "studioUrl": "https://lokalizace.net/localizations/the-sphere",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": null,
+      "updatedAt": null,
+      "pageUrl": "https://lokalizace.net/localizations/the-sphere",
+      "howToInstallHtml": "<p>Stáhněte ZIP soubor a rozbalte ho do složky hry, nebo použijte aplikaci CZManager pro automatickou instalaci češtiny.</p>",
+      "changelogHtml": "<div><p>Nahrána nová verze překladu: 1.00-CZ</p></div>",
+      "authorsHtml": "<p>Kwej</p>",
+      "size": null,
+      "inDevelopment": true,
+      "mirrors": [],
+      "steamAppId": "4696950"
+    },
+    {
+      "title": "The Joy of Creation: Reborn",
+      "studio": "Lokalizace.net",
+      "studioUrl": "https://lokalizace.net/localizations/the-joy-of-creation-reborn",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": null,
+      "updatedAt": null,
+      "pageUrl": "https://lokalizace.net/localizations/the-joy-of-creation-reborn",
+      "howToInstallHtml": "<p>Stáhněte ZIP soubor a rozbalte ho do složky hry, nebo použijte aplikaci CZManager pro automatickou instalaci češtiny.</p>",
+      "changelogHtml": "<div><p><strong>Nová verze 1.1</strong></p><p>Text malinko upraven pro Lepší UI Podobu. Font trochu Upraven.</p><p>Pravděpodobně poslední aktualizace.</p><p><strong>Nová verze 1.0</strong></p><p>První Vydání. Pokud nebudou chyby či nepřeložené texty nalezeny. Tak poslední vydání.</p></div>",
+      "authorsHtml": "<p>GamerView Translations</p>",
+      "size": null,
+      "inDevelopment": true,
+      "mirrors": [],
+      "steamAppId": "2948730"
+    },
+    {
+      "title": "Alone in the Dark (2008) CZ DABING",
+      "studio": "Lokalizace.net",
+      "studioUrl": "https://lokalizace.net/localizations/alone-in-the-dark-2008-cz-dabing",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": null,
+      "updatedAt": null,
+      "pageUrl": "https://lokalizace.net/localizations/alone-in-the-dark-2008-cz-dabing",
+      "howToInstallHtml": "<p>Stáhněte ZIP soubor a rozbalte ho do složky hry, nebo použijte aplikaci CZManager pro automatickou instalaci češtiny.</p>",
+      "changelogHtml": "<div><p><strong>Nová verze 1.0.1</strong></p><p>Malá oprava</p></div>",
+      "authorsHtml": "<p>PERTIM</p>",
+      "size": null,
+      "inDevelopment": true,
+      "mirrors": [],
+      "steamAppId": "1310410"
+    },
+    {
+      "title": "Highway Hunter",
+      "studio": "Lokalizace.net",
+      "studioUrl": "https://lokalizace.net/localizations/highway-hunter",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": null,
+      "updatedAt": null,
+      "pageUrl": "https://lokalizace.net/localizations/highway-hunter",
+      "howToInstallHtml": "<p>Stáhněte ZIP soubor a rozbalte ho do složky hry, nebo použijte aplikaci CZManager pro automatickou instalaci češtiny.</p>",
+      "changelogHtml": "<div><p><strong>Nová verze 1.0</strong></p><p>První verze překladu</p></div>",
+      "authorsHtml": "<p>Pixel Guys</p>",
+      "size": null,
+      "inDevelopment": true,
+      "mirrors": []
+    },
+    {
       "title": "Prince of Persia: Dva trůny",
       "studio": "Lokalizace.net",
       "studioUrl": "https://lokalizace.net/localizations/prince-of-persia-dva-truny",
@@ -85,14 +172,57 @@
       "updatedAt": null,
       "pageUrl": "https://lokalizace.net/localizations/pan-prstenu-bitva-o-stredozem",
       "howToInstallHtml": "<p>Stáhněte ZIP soubor a rozbalte ho do složky hry, nebo použijte aplikaci CZManager pro automatickou instalaci češtiny.</p>",
-      "changelogHtml": "<div><p><strong>Verze RC5</strong></p><p>Tento update obsahuje vše co předchozí updaty.<br>- doplňuje titulky do 12 videí. Z toho je 6 tutoriálů ve \"Škole boje\"<br>- Dalších 6 videí jsou ingame videa, kterým se titulky také doplnili.<br><br>Tímhle updatem je už tato lokalizace v <strong>každém</strong> ohledu lepší než původní verze z roku 2005.</p><p><strong>Verze RC4</strong></p><p>Stačí kliknout na <strong>nainstalovat</strong> a čeština si najde hru přes .exe.</p><p>Verze RC4 opravuje skryté titulky při rozhovorech hrdinů během misí, aby nebyli skryté.<br>celkem jde o:<br><strong>Dobro:</strong> 1 726 titulků.<br><strong>Zlo:</strong> 1 055 titulků.</p><p></p><p><strong>Verze RC2 </strong>na verzi hry 1.03</p><p>Stačí kliknout na <strong>nainstalovat</strong> a čeština si najde hru přes .exe.<br><br><span style=\"color: rgb(34, 197, 94)\">Přeloženo je komplet vše na co jsem narazil.<br>Vypálil jsem titulky do načítání, kde je krátké vyprávění.<br>Rozchodil jsem titulky k vyprávění ve hře i World map.<br>Doplnil jsem fonty pro správné zobrazení diakritiky.</span></p><p><span style=\"color: rgb(249, 115, 22)\">Zbývá otestovat kompletní průchod kampaní, jestli se titulky zobrazí vždy u vyprávěcí sekvence a jestli nezůstali nějaké porušené znaky v textech.<br>Prosím případné chyby mi hlašte a já se pokusím je co nejrychleji vyřešit.</span></p></div>",
+      "changelogHtml": "<div><p><strong>Verze RC5</strong></p><p>Tento update obsahuje vše co předchozí updaty.<br>- doplňuje titulky do 12 videí. Z toho je 6 tutoriálů ve \"Škole boje\"<br>- Dalších 6 videí jsou ingame videa, kterým se titulky také doplnili.<br><br>Tímhle updatem je už tato lokalizace v <strong>každém</strong> ohledu lepší než původní verze z roku 2005.</p></div>",
       "authorsHtml": "<p>RetroGameplay_CZ</p>",
       "size": null,
       "inDevelopment": true,
       "mirrors": []
     },
     {
-      "title": "Resident Evil 2 - RE:ENHANCE (1998)",
+      "title": "What Remains of Edith Finch",
+      "studio": "Lokalizace.net",
+      "studioUrl": "https://lokalizace.net/localizations/what-remains-of-edith-finch",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": null,
+      "updatedAt": null,
+      "pageUrl": "https://lokalizace.net/localizations/what-remains-of-edith-finch",
+      "howToInstallHtml": "<p>Stáhněte ZIP soubor a rozbalte ho do složky hry, nebo použijte aplikaci CZManager pro automatickou instalaci češtiny.</p>",
+      "changelogHtml": "<div><p><strong>Nová verze 1.0.0</strong></p><p>Užite si s poriadným prekladom túto vynikajúcu atmosferickú príbehovú hru :)</p></div>",
+      "authorsHtml": "<p>PERTIM</p>",
+      "size": null,
+      "inDevelopment": true,
+      "mirrors": [],
+      "steamAppId": "501300"
+    },
+    {
+      "title": "Stubbs the Zombie (CZ DABING)",
+      "studio": "Lokalizace.net",
+      "studioUrl": "https://lokalizace.net/localizations/stubbs-the-zombie-in-rebel-without-a-pulse",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": null,
+      "updatedAt": null,
+      "pageUrl": "https://lokalizace.net/localizations/stubbs-the-zombie-in-rebel-without-a-pulse",
+      "howToInstallHtml": "<p>Stáhněte ZIP soubor a rozbalte ho do složky hry, nebo použijte aplikaci CZManager pro automatickou instalaci češtiny.</p>",
+      "changelogHtml": "<div><p><strong>Nová verze 1.0.1</strong></p><p>Preklad je teraz funkčný aj pre EPIC a tiež aj pre GOG. Takže funguje na všetkých troch - Steam, Epic, GOG</p></div>",
+      "authorsHtml": "<p>PERTIM</p>",
+      "size": null,
+      "inDevelopment": true,
+      "mirrors": []
+    },
+    {
+      "title": "Resident Evil 2 - RE:ENHANCE 4.0 (1998)",
       "studio": "Lokalizace.net",
       "studioUrl": "https://lokalizace.net/localizations/resident-evil-2-re-enhance-1998",
       "language": "Čeština",
@@ -106,7 +236,7 @@
       "updatedAt": null,
       "pageUrl": "https://lokalizace.net/localizations/resident-evil-2-re-enhance-1998",
       "howToInstallHtml": "<p>Stáhněte ZIP soubor a rozbalte ho do složky hry, nebo použijte aplikaci CZManager pro automatickou instalaci češtiny.</p>",
-      "changelogHtml": "<div><p><strong>Nová verze 1.0.5</strong></p><p>RE: ENHANCED verzia prekladu, ktorá má starší grafický mód ale hra vypadá bližšie k originálu z roku 1998</p></div>",
+      "changelogHtml": "<div><p><strong>Nová verze 1.6</strong></p><p><span style=\"font-size: 14px; color: oklab(0.964427 0.000418067 -0.00125384)\">Hra teraz obsahuje rôzne vylepšenia, napríklad postavy teraz vedia otvárať ústa pri rozhovoroch a v menu je najnovšie na výber KONEC pre ukončenie hry (viem pri moderných hrách to znie vtipne)</span></p></div>",
       "authorsHtml": "<p>PERTIM</p>",
       "size": null,
       "inDevelopment": true,
@@ -193,7 +323,7 @@
       "updatedAt": null,
       "pageUrl": "https://lokalizace.net/localizations/xenonauts-2",
       "howToInstallHtml": "<p>Stáhněte ZIP soubor a rozbalte ho do složky hry, nebo použijte aplikaci CZManager pro automatickou instalaci češtiny.</p>",
-      "changelogHtml": "<div><p><strong>Oprava Savu</strong></p><p>Dal jsem dohromady script pro lidi, kteří rozehráli novou hru s verzí lokalizace RC1 nebo RC2.<br>Script by měl doplnit chybějící hodnoty do uložené pozice pro správné zobrazení menu operací a jeho fungování.</p><p>Mám to úspěšně otestováno jen u sebe, ale věřím tomu, že to bude fungovat.</p><p><strong>Nová verze RC5</strong></p><p><span style=\"color: rgb(34, 197, 94)\">RC5 určená pro verzi 7.27.13 </span><br><span style=\"color: rgb(34, 197, 94)\">- Opravuje chybně přeložený klíčový text pro správné fungování Operačního panelu a jeho zobrazení</span><br><span style=\"color: rgb(34, 197, 94)\">- Změna rodu z mužského na ženský u Ředitele</span><br><span style=\"color: rgb(34, 197, 94)\">- Instalátor nainstaluje češtinu do jakékoliv verze (funkčnost není jistá na jiných verzích)</span></p><p><span style=\"color: rgb(249, 115, 22)\">Proč RC5?<br>- Objevil jsem závažný bug v lokalizaci ve verzi <strong>RC1 a RC2</strong>, kdy jsem omylem přeložil věc, přes kterou si engine dohledává jiné věci.<br>Konkrétně jde o nefunkční panel pro Operace a využívání Operačních bodů. Jde o chybu, která poškodí uloženou pozici už od začátku. (při Nové hře)<br>Nemělo by to mít vliv na jíž rozehranou hru, kde to menu je vidět. (Na 100% si jistý ale nejsem)</span></p><p><span style=\"color: rgb(234, 179, 8)\">Pokud jste rozehráli novou hru s verzí RC1 nebo RC2, připravil jsem opravný script, který doplní chybějící hodnoty do uložené pozice</span><br><span style=\"color: rgb(234, 179, 8)\"><strong>Všem se moc omlouvám, koho postihne tato chyba.</strong></span></p></div>",
+      "changelogHtml": "<div><p><strong>Oprava Savu</strong></p><p>Dal jsem dohromady script pro lidi, kteří rozehráli novou hru s verzí lokalizace RC1 nebo RC2.<br>Script by měl doplnit chybějící hodnoty do uložené pozice pro správné zobrazení menu operací a jeho fungování.</p><p>Mám to úspěšně otestováno jen u sebe, ale věřím tomu, že to bude fungovat.</p><p><strong>Nová verze RC5</strong></p><p><span style=\"color: rgb(34, 197, 94)\">RC5 určená pro verzi 7.27.13</span><span style=\"color: rgb(234, 179, 8)\">; Verze 7.28.0 je kompatibilní.</span><span style=\"color: rgb(234, 179, 8)\"><br></span><span style=\"color: rgb(34, 197, 94)\">- Opravuje chybně přeložený klíčový text pro správné fungování Operačního panelu a jeho zobrazení</span><br><span style=\"color: rgb(34, 197, 94)\">- Změna rodu z mužského na ženský u Ředitele</span><br><span style=\"color: rgb(34, 197, 94)\">- Instalátor nainstaluje češtinu do jakékoliv verze (funkčnost není jistá na jiných verzích)</span></p><p><span style=\"color: rgb(249, 115, 22)\">Proč RC5?<br>- Objevil jsem závažný bug v lokalizaci ve verzi <strong>RC1 a RC2</strong>, kdy jsem omylem přeložil věc, přes kterou si engine dohledává jiné věci.<br>Konkrétně jde o nefunkční panel pro Operace a využívání Operačních bodů. Jde o chybu, která poškodí uloženou pozici už od začátku. (při Nové hře)<br>Nemělo by to mít vliv na jíž rozehranou hru, kde to menu je vidět. (Na 100% si jistý ale nejsem)</span></p><p><span style=\"color: rgb(234, 179, 8)\">Pokud jste rozehráli novou hru s verzí RC1 nebo RC2, připravil jsem opravný script, který doplní chybějící hodnoty do uložené pozice</span><br><span style=\"color: rgb(234, 179, 8)\"><strong>Všem se moc omlouvám, koho postihne tato chyba.</strong></span></p></div>",
       "authorsHtml": "<p>RetroGameplay_CZ</p>",
       "size": null,
       "inDevelopment": true,
@@ -241,7 +371,7 @@
       "size": null,
       "inDevelopment": true,
       "mirrors": [],
-      "steamAppId": "4919380"
+      "steamAppId": "5508340"
     },
     {
       "title": "Grand Theft Auto: Liberty City Stories (PS2 & PSP)",
@@ -263,7 +393,7 @@
       "size": null,
       "inDevelopment": true,
       "mirrors": [],
-      "steamAppId": "4919380"
+      "steamAppId": "5508340"
     },
     {
       "title": "Grand Theft Auto: Vice City Stories (PS2 & PSP)",
@@ -285,7 +415,7 @@
       "size": null,
       "inDevelopment": true,
       "mirrors": [],
-      "steamAppId": "4919380"
+      "steamAppId": "5508340"
     },
     {
       "title": "StarCraft + Brood War (1998)",
@@ -307,6 +437,28 @@
       "size": null,
       "inDevelopment": true,
       "mirrors": []
+    },
+    {
+      "title": "Sengoku Dynasty",
+      "studio": "Lokalizace.net",
+      "studioUrl": "https://lokalizace.net/localizations/sengoku-dynasty",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": null,
+      "updatedAt": null,
+      "pageUrl": "https://lokalizace.net/localizations/sengoku-dynasty",
+      "howToInstallHtml": "<p>Stáhněte ZIP soubor a rozbalte ho do složky hry, nebo použijte aplikaci CZManager pro automatickou instalaci češtiny.</p>",
+      "changelogHtml": "<div><p><strong>Nová verze 1.1</strong></p><p>v1.1   —    11. 11. 2026   —   plná verzia</p><p>•\\tPrešiel som preklad ešte raz celý, vetu po vete, a opravil všetko, čo mi pri prvom vydaní uniklo.</p><p>•\\tJaponské mená zakončené na -ō sa konečne skloňujú ako všetky ostatné: socha Jizōa, povedz to Kengyōovi, na dvore daimyōa. Predtým zostávali v základnom tvare a vo vete to škrípalo.</p><p>•\\tKeď hráte za ženu, postavy vás už oslovujú správne aj tam, kde predtým prehovorili v mužskom rode – a naopak.</p><p>•\\tZjednotil som názvoslovie, ktoré sa mi počas prekladu rozchádzalo: povstanie majú na svedomí povstalci, nie rebeli; vo svätyni sa prináša obeta; a stolár robí nábytok, kým tesár krovy.</p><p>•\\tPozdravy už nie sú všetky rovnaké. Kde postava zdraví zdvorilo, zdraví zdvorilo, kde familiárne, tam familiárne.</p><p>•\\tVysvetlivky japonských výrazov som presunul z názvov predmetov do ich opisov – v inventári sa dlhé názvy orezávali a nebolo vidieť, o čo ide.</p><p>•\\tVyhodil som slová, ktoré do 16. storočia nepatria, a zvolania k jedinému Bohu nahradil tými, ktoré v tomto svete dávajú zmysel.</p><p>•\\tPreložil som aj názvy klávesov v menu ovládania, ktoré doteraz zostávali v cudzom jazyku.</p><p>•\\tPopri kontrole som taktiež opravil preklepy a gramatické chyby.</p><p>Nahrána nová verze překladu: 1.0</p></div>",
+      "authorsHtml": "<p>SK/CZECH preklady</p>",
+      "size": null,
+      "inDevelopment": true,
+      "mirrors": [],
+      "steamAppId": "1702010"
     },
     {
       "title": "Santa Gets A Tower",
@@ -352,7 +504,7 @@
       "steamAppId": "4249120"
     },
     {
-      "title": "Resident Evil (1996)",
+      "title": "Resident Evil 1 - OVERHAUL 3.0 (1996)",
       "studio": "Lokalizace.net",
       "studioUrl": "https://lokalizace.net/localizations/resident-evil-1996",
       "language": "Čeština",
@@ -366,12 +518,11 @@
       "updatedAt": null,
       "pageUrl": "https://lokalizace.net/localizations/resident-evil-1996",
       "howToInstallHtml": "<p>Stáhněte ZIP soubor a rozbalte ho do složky hry, nebo použijte aplikaci CZManager pro automatickou instalaci češtiny.</p>",
-      "changelogHtml": "<div><p><strong>Nová verze 1.2</strong></p><p>Preklad vylepšený o nový grafický mod. Ten starší je tiež stále k dispozícii</p></div>",
+      "changelogHtml": "<div><p><strong>Nová verze 1.3</strong></p><p>Pridané vylepšenia, nová verzia grafického módu</p></div>",
       "authorsHtml": "<p>PERTIM</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "4249100"
+      "mirrors": []
     },
     {
       "title": "Raft",
@@ -461,7 +612,7 @@
       "mirrors": []
     },
     {
-      "title": "Resident Evil 2 - OVERHAUL (1998)",
+      "title": "Resident Evil 2 - OVERHAUL RE:ENHANCE (1998)",
       "studio": "Lokalizace.net",
       "studioUrl": "https://lokalizace.net/localizations/resident-evil-2-1998",
       "language": "Čeština",
@@ -475,7 +626,7 @@
       "updatedAt": null,
       "pageUrl": "https://lokalizace.net/localizations/resident-evil-2-1998",
       "howToInstallHtml": "<p>Stáhněte ZIP soubor a rozbalte ho do složky hry, nebo použijte aplikaci CZManager pro automatickou instalaci češtiny.</p>",
-      "changelogHtml": "<div><p><strong>Nová verze 1.0.5</strong></p><p>Preklad už len vo verzii Overhaul ktorá má lepšiu grafiku a viac detailov. Kto by chcel starú Re-Enchanced verziu nech napíše</p></div>",
+      "changelogHtml": "<div><p><strong>Nová verze 1.6</strong></p><p>Toto je kombinácia OVERHAUL a RE:ENHANCE modov, grafika je OVERHAUL a ostatné vylepšenia sú z RE:ENHANCE ako otváranie úst pri rozhovoroch, celá hra je navyše v 60 FPS a v nastaveniach nájdete nové nastavenia ktoré sú ale experimentálne takže môžete skúšať ale môže vám padnúť hra. Rozhodne neodporúčam dávať rozlíšenie 16:9, všetko ej potom moc približené a titulky vo videách potom chýbajú...</p></div>",
       "authorsHtml": "<p>PERTIM</p>",
       "size": null,
       "inDevelopment": true,
@@ -650,7 +801,7 @@
       "updatedAt": null,
       "pageUrl": "https://lokalizace.net/localizations/breathedge-2",
       "howToInstallHtml": "<p>Stáhněte ZIP soubor a rozbalte ho do složky hry, nebo použijte aplikaci CZManager pro automatickou instalaci češtiny.</p>",
-      "changelogHtml": "<div><p><strong>Nová verze 1.1</strong></p><p><span style=\"font-size: 12pt; color: white\">v1.1 – přeloženy také 3D meshe s&nbsp;textama, ve hře už by měli být přeloženy všechny plakáty, billboardy, logá, plakáty, neonové nápisy a podobně</span></p></div>",
+      "changelogHtml": "<div><p><strong>Nová verze 1.2</strong></p><p>v1.2 – nový a vylepšený překlad celé hry. Čeština teď nahrazuje polštinu.</p><p></p></div>",
       "authorsHtml": "<p>SK/CZECH preklady</p>",
       "size": null,
       "inDevelopment": true,
@@ -847,7 +998,7 @@
       "updatedAt": null,
       "pageUrl": "https://lokalizace.net/localizations/night-of-the-dead",
       "howToInstallHtml": "<p>Stáhněte ZIP soubor a rozbalte ho do složky hry, nebo použijte aplikaci CZManager pro automatickou instalaci češtiny.</p>",
-      "changelogHtml": "<div><p><strong>Nová verze 1.0</strong></p><p><span style=\"color: white\">v1.0 – Hru som celú prešiel, otestoval a&nbsp;opravil všetky nezrovnalosti, na ktoré som narazil tak snáď do ďalšieho updatu je to finálna verzia</span></p><p><strong>Nová verze 0.8</strong></p><p>v0.8 – ručná oprava nájdených chýb prekladu</p><p>       - pozmenené niektoré názvy predmetov pre lepšiu orientáciu</p><p>       – opravená chyba v&nbsp;inštalátore, ktorá znemožnila odinštalovanie slovenčiny kvôli nesprávnemu názvu .msg súboru</p></div>",
+      "changelogHtml": "<div><p><strong>Nová verze 1.1</strong></p><p><span style=\"font-size: 10pt\"><strong>v1.1&nbsp;&nbsp; —&nbsp;&nbsp; 13. 11. 2026&nbsp;&nbsp; —&nbsp;&nbsp; nový inštalátor</strong></span></p><p><span style=\"font-size: 10pt\">•&nbsp;&nbsp; Inštalátor teraz nájde hru v ktorejkoľvek knižnici Steamu. Doteraz hľadal pod nesprávnym číslom hry, a tak ju našiel, len ak bola na predvolenom mieste.</span></p><p><span style=\"font-size: 10pt\">•&nbsp;&nbsp; Na ploche a v Štart menu pribudne odkaz Night of the Dead (slovensky), ktorý spustí hru rovno bez anticheatu. Vo Vlastnostiach hry na Steame už netreba nič prestavovať.</span></p><p><span style=\"font-size: 10pt\">•&nbsp;&nbsp; Hneď v okne inštalátora vidno, či sa hra našla, a ak nie, priečinok sa dá jedným tlačidlom vybrať ručne.</span></p><p><span style=\"font-size: 10pt\">•&nbsp;&nbsp; Inštalátor slúži zároveň ako odinštalátor. Ak nájde nainštalovaný preklad, ukáže jeho verziu a ponúkne buď aktualizáciu, pri ktorej starú verziu najprv sám odinštaluje, alebo len odinštalovanie prekladu.</span></p><p><span style=\"font-size: 10pt\">•&nbsp;&nbsp; Inštalátor upozorní, ak je hra spustená, namiesto toho, aby inštalácia zlyhala na zamknutom súbore.</span></p><p><span style=\"font-size: 10pt\">•&nbsp;&nbsp; Odinštalovanie už funguje aj cez Nastavenia → Aplikácie a funkcie a po preklade v hre nezostane ani jeho záznamový súbor.</span></p><p><span style=\"font-size: 10pt\">•&nbsp;&nbsp; Samotný preklad je bez zmeny, zhodný s verziou 1.0.</span></p><p><strong>Nová verze 1.0</strong></p><p><span style=\"color: white\">v1.0 – Hru som celú prešiel, otestoval a&nbsp;opravil všetky nezrovnalosti, na ktoré som narazil tak snáď do ďalšieho updatu je to finálna verzia</span></p></div>",
       "authorsHtml": "<p>SK/CZECH preklady</p>",
       "size": null,
       "inDevelopment": true,
@@ -1245,7 +1396,7 @@
       "size": null,
       "inDevelopment": true,
       "mirrors": [],
-      "steamAppId": "4919380"
+      "steamAppId": "5508340"
     },
     {
       "title": "Rayman® Origins",
@@ -1422,7 +1573,7 @@
       "steamAppId": "2123640"
     },
     {
-      "title": "7 Days to Die / 100% Přeloženo v3.3.0 (b18)",
+      "title": "7 Days to Die / 100% Přeloženo v 3.4.0 (B10)",
       "studio": "Lokalizace.net",
       "studioUrl": "https://lokalizace.net/localizations/cestina-do-hry-7-days-to-die-ai-edit",
       "language": "Čeština",
@@ -1436,7 +1587,7 @@
       "updatedAt": null,
       "pageUrl": "https://lokalizace.net/localizations/cestina-do-hry-7-days-to-die-ai-edit",
       "howToInstallHtml": "<p>Stáhněte ZIP soubor a rozbalte ho do složky hry, nebo použijte aplikaci CZManager pro automatickou instalaci češtiny.</p>",
-      "changelogHtml": "<div><p><strong>Nová verze 1.6.4</strong></p><p><span style=\"font-size: 14px; color: oklch(0.6 0.02 280)\">Aktualizace překladu češtiny pro verzi hry V3.3.0 (b18)</span></p><p><strong>Nová verze 1.5.1</strong></p><p>S novou verzí jsou přidané 2 jazykové klíče a jeden je vidět v UI. Nic závratného. :)</p><p><strong>Nová verze 1.5.0</strong></p><h2>Přeložena kompletní hra včetně titulků obchodníků.</h2><p>Hotova korektura i testování.</p><p>Pokavaď najdete nějakou chybu nebo něco nepřeloženého tak napište... </p><p></p><p><strong>Nová verze 1.4.1</strong></p><h2>Překlad:</h2><p>Přeložené některé texty a titulky některých obchodníků.</p><p></p><p><strong>Nová verze 1.3.5</strong></p><h2>Překlad:</h2><p>Přidané nové texty a menší opravy.</p><h2>Technická oprava:</h2><p>5 českých řádků mělo odstraněné placeholdery tak to někomu mohlo způsobovat problém ve hře.</p><p></p><p><strong>Nová verze 1.3.2</strong></p><p>Přidané další texty.</p><p><strong>Nová verze 1.2.1</strong></p><p></p></div>",
+      "changelogHtml": "<div><p><strong>Nová verze 1.7.0</strong></p><p><span style=\"font-size: 14px; color: oklch(0.6 0.02 280)\">Aktualizace překladu češtiny pro verzi hry 3.4.0 (B10)</span></p><p><strong>Nová verze 1.6.4</strong></p><p><span style=\"font-size: 14px; color: oklch(0.6 0.02 280)\">Aktualizace překladu češtiny pro verzi hry V3.3.0 (b18)</span></p><p><strong>Nová verze 1.5.1</strong></p><p>S novou verzí jsou přidané 2 jazykové klíče a jeden je vidět v UI. Nic závratného. :)</p><p><strong>Nová verze 1.5.0</strong></p><h2>Přeložena kompletní hra včetně titulků obchodníků.</h2><p>Hotova korektura i testování.</p><p>Pokavaď najdete nějakou chybu nebo něco nepřeloženého tak napište... </p><p></p><p><strong>Nová verze 1.4.1</strong></p><h2>Překlad:</h2><p>Přeložené některé texty a titulky některých obchodníků.</p><p></p><p><strong>Nová verze 1.3.5</strong></p><h2>Překlad:</h2><p>Přidané nové texty a menší opravy.</p><h2>Technická oprava:</h2><p>5 českých řádků mělo odstraněné placeholdery tak to někomu mohlo způsobovat problém ve hře.</p><p></p><p><strong>Nová verze 1.3.2</strong></p><p>Přidané další texty.</p><p><strong>Nová verze 1.2.1</strong></p><p></p></div>",
       "authorsHtml": "<p>QuietBit</p>",
       "size": null,
       "inDevelopment": true,
@@ -1940,7 +2091,7 @@
       "updatedAt": null,
       "pageUrl": "https://lokalizace.net/localizations/007-first-light-1",
       "howToInstallHtml": "<p>Stáhněte ZIP soubor a rozbalte ho do složky hry, nebo použijte aplikaci CZManager pro automatickou instalaci češtiny.</p>",
-      "changelogHtml": "<div><p><strong>Nová verze 1.3.9</strong></p><ul><li><p>oprava časovaní některých replik po updatu hry</p></li></ul><p></p><p><strong>Nová verze 1.3.1</strong></p><ul><li><p>doprelozeno z novehou updatu</p></li></ul><p></p></div>",
+      "changelogHtml": "<div><p><strong>Nová verze 1.4.2</strong></p><ul><li><p>srovnano s aktualni verzi hry</p></li></ul><p></p><p><strong>Nová verze 1.3.9</strong></p><ul><li><p>oprava časovaní některých replik po updatu hry</p></li></ul><p></p><p><strong>Nová verze 1.3.1</strong></p><ul><li><p>doprelozeno z novehou updatu</p></li></ul><p></p></div>",
       "authorsHtml": "<p>Lokalizace.Net</p>",
       "size": null,
       "inDevelopment": true,
@@ -2307,7 +2458,7 @@
       "updatedAt": null,
       "pageUrl": "https://lokalizace.net/localizations/peak",
       "howToInstallHtml": "<p>Stáhněte ZIP soubor a rozbalte ho do složky hry, nebo použijte aplikaci CZManager pro automatickou instalaci češtiny.</p>",
-      "changelogHtml": "<div><p><strong>Nová verze 1.0.5</strong></p><p>Aktualizovaná čeština na v3.0.1</p></div>",
+      "changelogHtml": "<div><p><strong>Nová verze 1.0.6</strong></p><p>Aktualizovaná čeština na v3.1.0</p></div>",
       "authorsHtml": "<p>HAVELU Translation</p>",
       "size": null,
       "inDevelopment": true,
@@ -2816,28 +2967,6 @@
       "inDevelopment": true,
       "mirrors": [],
       "steamAppId": "2479740"
-    },
-    {
-      "title": "Summer of 58",
-      "studio": "Lokalizace.net",
-      "studioUrl": "https://lokalizace.net/localizations/summer-of-58",
-      "language": "Čeština",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": null,
-      "updatedAt": null,
-      "pageUrl": "https://lokalizace.net/localizations/summer-of-58",
-      "howToInstallHtml": "<p>Stáhněte ZIP soubor a rozbalte ho do složky hry, nebo použijte aplikaci CZManager pro automatickou instalaci češtiny.</p>",
-      "changelogHtml": "<div><p>Nahrána nová verze překladu: 1.0.0</p></div>",
-      "authorsHtml": "<p>PERTIM</p>",
-      "size": null,
-      "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "1609080"
     },
     {
       "title": "The Room Two",
@@ -4407,7 +4536,7 @@
       "updatedAt": null,
       "pageUrl": "https://lokalizace.net/localizations/twelve-minutes",
       "howToInstallHtml": "<p>Stáhněte ZIP soubor a rozbalte ho do složky hry, nebo použijte aplikaci CZManager pro automatickou instalaci češtiny.</p>",
-      "changelogHtml": "<div><p>Nahrána nová verze překladu: 1.00</p></div>",
+      "changelogHtml": "<div><p><strong>Nová verze 1.1</strong></p><p>Opravené a předělané všechny herní textové dialogy.</p><p>Aktualizované a fungující všechny fonty i z diakritikou.</p><p>Nahrána nová verze překladu: 1.00</p></div>",
       "authorsHtml": "<p>DickzillaTranslator</p>",
       "size": null,
       "inDevelopment": true,
@@ -5280,7 +5409,7 @@
       "updatedAt": null,
       "pageUrl": "https://lokalizace.net/localizations/hearts-of-iron-4",
       "howToInstallHtml": "<p>Stáhněte ZIP soubor a rozbalte ho do složky hry, nebo použijte aplikaci CZManager pro automatickou instalaci češtiny.</p>",
-      "changelogHtml": "<div><p>Nahrána nová verze překladu: 1.19.3</p><p>Nahrána nová verze překladu: 1.19.2</p><p><strong>Nová verze 1.19.1</strong></p><p>Kompletní čeština pro verzi 1.19.1</p><p><strong>Nová verze 1.19.1-BETA</strong></p><p>Nejsou přeloženy 3 soubory. Kompletní překlad bude brzy.</p><p>Nahrána nová verze překladu: 1.18.3</p><p>Nahrána nová verze překladu: 1.18.2</p><p>Nahrána nová verze překladu: 1.18.1</p><p><strong>Nová verze 1.18.0</strong></p><p>plná verze překladu </p><p><strong>Nová verze 1.18.0-beta</strong></p><p>Jedna se o beta verzi. Stavající soubory doplněny na aktualní verzi. Z novych chybí přeložit tři soubory. Ty jsou v beta verzi v originale.</p><p><strong>Nová verze 1.17.5</strong></p><p>čeština pro verzi 1.17.5</p><p>Nahrána nová verze překladu: 1.17.4</p><p><strong>Nová verze 1.17.3</strong></p><p>Oprava chyb v překladu</p></div>",
+      "changelogHtml": "<div><p>Nahrána nová verze překladu: 1.19.5</p><p>Nahrána nová verze překladu: 1.19.3</p><p>Nahrána nová verze překladu: 1.19.2</p><p><strong>Nová verze 1.19.1</strong></p><p>Kompletní čeština pro verzi 1.19.1</p><p><strong>Nová verze 1.19.1-BETA</strong></p><p>Nejsou přeloženy 3 soubory. Kompletní překlad bude brzy.</p><p>Nahrána nová verze překladu: 1.18.3</p><p>Nahrána nová verze překladu: 1.18.2</p><p>Nahrána nová verze překladu: 1.18.1</p><p><strong>Nová verze 1.18.0</strong></p><p>plná verze překladu </p><p><strong>Nová verze 1.18.0-beta</strong></p><p>Jedna se o beta verzi. Stavající soubory doplněny na aktualní verzi. Z novych chybí přeložit tři soubory. Ty jsou v beta verzi v originale.</p><p><strong>Nová verze 1.17.5</strong></p><p>čeština pro verzi 1.17.5</p><p>Nahrána nová verze překladu: 1.17.4</p><p><strong>Nová verze 1.17.3</strong></p><p>Oprava chyb v překladu</p></div>",
       "authorsHtml": "<p>Paradox češtiny</p>",
       "size": null,
       "inDevelopment": true,
@@ -5308,6 +5437,28 @@
       "inDevelopment": true,
       "mirrors": [],
       "steamAppId": "220440"
+    },
+    {
+      "title": "Saint Kotar",
+      "studio": "Lokalizace.net",
+      "studioUrl": "https://lokalizace.net/localizations/saint-kotar",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": null,
+      "updatedAt": null,
+      "pageUrl": "https://lokalizace.net/localizations/saint-kotar",
+      "howToInstallHtml": "<p>Stáhněte ZIP soubor a rozbalte ho do složky hry, nebo použijte aplikaci CZManager pro automatickou instalaci češtiny.</p>",
+      "changelogHtml": "<div><p><strong>Nová verze 1.0</strong></p><p>Právě vychází překlad temné psychologické adventury <strong>Saint Kotar</strong> a jejího DLC <strong>Saint Kotar: The Ritual</strong>. Vydejte se do odlehlého chorvatského městečka, odhalte děsivá tajemství, okultní rituály a pátrejte po záhadném zmizení. <strong>Verze:</strong> Steam a GOG</p><p>Přejeme příjemný herní zážitek!<br><strong>Tým ADV Dream</strong></p></div>",
+      "authorsHtml": "<p>ADV Dream</p>",
+      "size": null,
+      "inDevelopment": true,
+      "mirrors": [],
+      "steamAppId": "1358530"
     },
     {
       "title": "Song of Nunu: A League of Legends Story",
@@ -5739,7 +5890,7 @@
       "updatedAt": null,
       "pageUrl": "https://lokalizace.net/localizations/the-alters",
       "howToInstallHtml": "<p>Stáhněte ZIP soubor a rozbalte ho do složky hry, nebo použijte aplikaci CZManager pro automatickou instalaci češtiny.</p>",
-      "changelogHtml": "<div><p><strong>Nová verze 1.0.0</strong></p><ul><li><p>uplně první release 😊</p></li></ul><p></p></div>",
+      "changelogHtml": "<div><p><strong>Nová verze 1.3.1</strong></p><ul><li><p>mraky oprav a kompletni preklad DLC</p></li></ul><p></p><p><strong>Nová verze 1.0.0</strong></p><ul><li><p>uplně první release 😊</p></li></ul><p></p></div>",
       "authorsHtml": "<p>Lokalizace.Net</p>",
       "size": null,
       "inDevelopment": true,
@@ -6025,7 +6176,7 @@
       "updatedAt": null,
       "pageUrl": "https://lokalizace.net/localizations/the-precinct",
       "howToInstallHtml": "<p>Stáhněte ZIP soubor a rozbalte ho do složky hry, nebo použijte aplikaci CZManager pro automatickou instalaci češtiny.</p>",
-      "changelogHtml": "<div><p><strong>Nová verze 4.0</strong></p><p>Vydána nová cz s dopřekladem pro verzi hry 1.13.24987.</p></div>",
+      "changelogHtml": "<div><p>Nahrána nová verze překladu: 1.5</p></div>",
       "authorsHtml": "<p>Sumilek86</p>",
       "size": null,
       "inDevelopment": true,
@@ -8363,7 +8514,7 @@
       "size": null,
       "inDevelopment": true,
       "mirrors": [],
-      "steamAppId": "420060"
+      "steamAppId": "3439000"
     },
     {
       "title": "Max: The Curse of Brotherhood (2014)",
@@ -9299,7 +9450,7 @@
       "updatedAt": null,
       "pageUrl": "https://lokalizace.net/localizations/age-of-empires-ii-definitive-edition",
       "howToInstallHtml": "<p>Stáhněte ZIP soubor a rozbalte ho do složky hry, nebo použijte aplikaci CZManager pro automatickou instalaci češtiny.</p>",
-      "changelogHtml": "<div><p><strong>Nová verze 1.33</strong></p><p>Překlad DLC The Last Chieftains - sedí na update 170934 z 12. 3. 2026</p></div>",
+      "changelogHtml": "<div><p><strong>Nová verze 1.34</strong></p><p><span style=\"font-size: 14px; color: oklch(0.6 0.02 280)\"><strong>Překlad DLC The Viking Sagas - sedí na update 188329 z 27. 10. 2026</strong></span></p><ul><li><p>Sasové přejmenováni na Teutony (nové DLC totiž přidalo civilizaci Sasové)</p></li></ul><p></p><p><strong>Nová verze 1.33</strong></p><p>Překlad DLC The Last Chieftains - sedí na update 170934 z 12. 3. 2026</p></div>",
       "authorsHtml": "<p>Sygfrost</p>",
       "size": null,
       "inDevelopment": true,
@@ -10370,8 +10521,7 @@
       "authorsHtml": "<p>Lost And Found</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "237850"
+      "mirrors": []
     },
     {
       "title": "L.A. Noire",
@@ -10392,8 +10542,7 @@
       "authorsHtml": "<p>Lost And Found</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "110800"
+      "mirrors": []
     },
     {
       "title": "Trine Enchanted Edition",
@@ -10414,8 +10563,7 @@
       "authorsHtml": "<p>Lost And Found</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "35700"
+      "mirrors": []
     },
     {
       "title": "Sherlock Holmes - The Awakened - Remastered",
@@ -10546,8 +10694,7 @@
       "authorsHtml": "<p>GWynter</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "1022710"
+      "mirrors": []
     },
     {
       "title": "A New Beginning - Final Cut",
@@ -10611,8 +10758,7 @@
       "authorsHtml": "<p>KriS</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "313120"
+      "mirrors": []
     },
     {
       "title": "Two Point Hospital",
@@ -10743,8 +10889,7 @@
       "authorsHtml": "<p>Lost And Found</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "351100"
+      "mirrors": []
     },
     {
       "title": "The Forgotten Land",
@@ -10765,8 +10910,7 @@
       "authorsHtml": "<p>Lost And Found</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "1099460"
+      "mirrors": []
     },
     {
       "title": "Warsaw",
@@ -10938,8 +11082,7 @@
       "authorsHtml": "<p>Lost And Found</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "320540"
+      "mirrors": []
     },
     {
       "title": "Zombie Solitaire 2 - Chapter 3",
@@ -11004,8 +11147,7 @@
       "authorsHtml": "<p>Lost And Found</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "327670"
+      "mirrors": []
     },
     {
       "title": "Woolfe: The Red Hood Diaries",
@@ -11048,8 +11190,7 @@
       "authorsHtml": "<p>Lost And Found</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "23490"
+      "mirrors": []
     },
     {
       "title": "Door Kickers",
@@ -11092,8 +11233,7 @@
       "authorsHtml": "<p>Lost And Found</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "8870"
+      "mirrors": []
     },
     {
       "title": "Star Wars: Knights of the Old Republic II - The Sith Lords",
@@ -11136,8 +11276,7 @@
       "authorsHtml": "<p>Majkyska češtiny</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "362680"
+      "mirrors": []
     },
     {
       "title": "Sniper Elite 5",
@@ -11180,8 +11319,7 @@
       "authorsHtml": "<p>Sumilek86</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "375910"
+      "mirrors": []
     },
     {
       "title": "Corsair: Conquest at Sea",
@@ -11245,8 +11383,7 @@
       "authorsHtml": "<p>Sumilek86</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "1238810"
+      "mirrors": []
     },
     {
       "title": "Sea of Stars: Sunset Edition",
@@ -11312,7 +11449,7 @@
       "size": null,
       "inDevelopment": true,
       "mirrors": [],
-      "steamAppId": "8850"
+      "steamAppId": "409720"
     },
     {
       "title": "Bioshock 2",
@@ -11377,8 +11514,7 @@
       "authorsHtml": "<p>Ctihy</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "21980"
+      "mirrors": []
     },
     {
       "title": "Call of Juarez",
@@ -11531,7 +11667,7 @@
       "size": null,
       "inDevelopment": true,
       "mirrors": [],
-      "steamAppId": "7670"
+      "steamAppId": "409710"
     },
     {
       "title": "Figment 2: Creed Valley",
@@ -11596,8 +11732,7 @@
       "authorsHtml": "<p>GWynter</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "423230"
+      "mirrors": []
     },
     {
       "title": "AOD: Art Of Defense",
@@ -11684,8 +11819,7 @@
       "authorsHtml": "<p>Tuax</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "310510"
+      "mirrors": []
     },
     {
       "title": "Beneath A Steel Sky",
@@ -11793,8 +11927,7 @@
       "authorsHtml": "<p>COTT</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "219760"
+      "mirrors": []
     },
     {
       "title": "Divine Divinity",
@@ -11815,8 +11948,7 @@
       "authorsHtml": "<p>COTT</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "214170"
+      "mirrors": []
     },
     {
       "title": "Legends of Eisenwald",
@@ -11859,8 +11991,7 @@
       "authorsHtml": "<p>COTT</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "202710"
+      "mirrors": []
     },
     {
       "title": "Deathloop",
@@ -11903,8 +12034,7 @@
       "authorsHtml": "<p>Kwej</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "288060"
+      "mirrors": []
     },
     {
       "title": "Goetia",
@@ -11925,8 +12055,7 @@
       "authorsHtml": "<p>Kwej</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "421740"
+      "mirrors": []
     },
     {
       "title": "Cooking Simulator",
@@ -11947,8 +12076,7 @@
       "authorsHtml": "<p>PrekladyWoytman</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "641320"
+      "mirrors": []
     },
     {
       "title": "Cities: Skylines",
@@ -12188,8 +12316,7 @@
       "authorsHtml": "<p>Kwej</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "242530"
+      "mirrors": []
     },
     {
       "title": "Gas Guzzlers Extreme",
@@ -12210,8 +12337,7 @@
       "authorsHtml": "<p>Kwej</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "243800"
+      "mirrors": []
     },
     {
       "title": "The Swapper",
@@ -12254,8 +12380,7 @@
       "authorsHtml": "<p>Kwej</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "260330"
+      "mirrors": []
     },
     {
       "title": "Amphora",
@@ -12276,8 +12401,7 @@
       "authorsHtml": "<p>Kwej</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "331510"
+      "mirrors": []
     },
     {
       "title": "Echo",
@@ -12471,8 +12595,7 @@
       "authorsHtml": "<p>labros.cz</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "249630"
+      "mirrors": []
     },
     {
       "title": "SUPER STAR TREK",
@@ -12515,8 +12638,7 @@
       "authorsHtml": "<p>labros.cz</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "223830"
+      "mirrors": []
     },
     {
       "title": "FTL: FASTER THAN LIGHT",
@@ -12624,8 +12746,7 @@
       "authorsHtml": "<p>GWynter</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "746850"
+      "mirrors": []
     },
     {
       "title": "Retro Machina",
@@ -12646,8 +12767,7 @@
       "authorsHtml": "<p>GWynter</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "1127970"
+      "mirrors": []
     },
     {
       "title": "Fallback",
@@ -12668,8 +12788,7 @@
       "authorsHtml": "<p>GWynter</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "864540"
+      "mirrors": []
     },
     {
       "title": "Software Inc.",
@@ -12690,8 +12809,7 @@
       "authorsHtml": "<p>MaFeJP</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "362620"
+      "mirrors": []
     },
     {
       "title": "Eastshade",
@@ -12734,8 +12852,7 @@
       "authorsHtml": "<p>GWynter</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "355680"
+      "mirrors": []
     },
     {
       "title": "Stargate: Timekeepers",
@@ -12756,8 +12873,7 @@
       "authorsHtml": "<p>Petr Cejpek</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "1523650"
+      "mirrors": []
     },
     {
       "title": "The Way",
@@ -12800,8 +12916,7 @@
       "authorsHtml": "<p>GWynter</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "788100"
+      "mirrors": []
     },
     {
       "title": "Remnant 2",
@@ -12932,8 +13047,7 @@
       "authorsHtml": "<p>GWynter</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "598550"
+      "mirrors": []
     },
     {
       "title": "Zombotron",
@@ -12954,8 +13068,7 @@
       "authorsHtml": "<p>GWynter</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "664830"
+      "mirrors": []
     },
     {
       "title": "Valfaris",
@@ -12976,8 +13089,7 @@
       "authorsHtml": "<p>GWynter</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "600130"
+      "mirrors": []
     },
     {
       "title": "Dungeon of the ENDLESS",
@@ -13042,8 +13154,7 @@
       "authorsHtml": "<p>Take of 🚀</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "2378900"
+      "mirrors": []
     },
     {
       "title": "Leisure Suit Larry 7: Love for Sail",
@@ -13387,8 +13498,7 @@
       "authorsHtml": "<p>Lokalizace.Net</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "291650"
+      "mirrors": []
     },
     {
       "title": "Freelancer",
@@ -13430,8 +13540,7 @@
       "authorsHtml": "<p>Starsoul</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "70"
+      "mirrors": []
     },
     {
       "title": "Q.U.B.E. 2",
@@ -13606,8 +13715,7 @@
       "authorsHtml": "<p>MikeCZ</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "367520"
+      "mirrors": []
     },
     {
       "title": "MADiSON",
@@ -13668,7 +13776,7 @@
       "updatedAt": null,
       "pageUrl": "https://lokalizace.net/localizations/the-planet-crafter",
       "howToInstallHtml": "<p>Stáhněte ZIP soubor a rozbalte ho do složky hry, nebo použijte aplikaci CZManager pro automatickou instalaci češtiny.</p>",
-      "changelogHtml": "<div><p>Nahrána nová verze překladu: 1.23</p><p>Nahrána nová verze překladu: 1.22</p><p>Nahrána nová verze překladu: 1.21</p></div>",
+      "changelogHtml": "<div><p>Nahrána nová verze překladu: 1.24.1</p><p>Nahrána nová verze překladu: 1.24</p><p>Nahrána nová verze překladu: 1.23</p></div>",
       "authorsHtml": "<p>Lukyn92</p>",
       "size": null,
       "inDevelopment": true,
@@ -13739,7 +13847,7 @@
       "size": null,
       "inDevelopment": true,
       "mirrors": [],
-      "steamAppId": "212410"
+      "steamAppId": "1505430"
     },
     {
       "title": "Stellaris",
@@ -13756,7 +13864,7 @@
       "updatedAt": null,
       "pageUrl": "https://lokalizace.net/localizations/stellaris",
       "howToInstallHtml": "<p>Stáhněte ZIP soubor a rozbalte ho do složky hry, nebo použijte aplikaci CZManager pro automatickou instalaci češtiny.</p>",
-      "changelogHtml": "<div><p><strong>Nová verze 4.5.2</strong></p><p>Opraven script.</p><p><strong>Nová verze 4.5.2</strong></p><p> Aktualizováno na verzi 4.5.2</p><p><strong>Nová verze 4.5.1</strong></p><p>Oprava chyb nahlášených Ralphem</p><p><strong>Nová verze 4.5.0</strong></p><p>Aktualizováno na verzi 4.5.0</p><p><strong>Nová verze 4.4.6</strong></p><p>Korektura od PredatorV</p><p><strong>Nová verze 4.4.6</strong></p><p>Opravena nelogická chyba - nikoli ve smyslu, že bych udělal nelogickou chybu, ale chyba, která nedává naprosto žádný smysl - prostý text 'Říše $COUNTRY|Y$ přijala...' se ve hře zobrazí jako kupříkladu Česká RepublikaŘíše  přijala...' Je to absurdní.. nicméně konkrétní pomatený odstavec opraven na '$COUNTRY|Y$ přijali...'   </p><p><strong>Nová verze 4.4.6</strong></p><p>Překlad aktualizován na verzi 4.4.6</p><p>Upozornění na dosud nevyřešený - nevyřešitelný problém. </p><p>Nová herní mechanika (nomádi) s sebou nese i své vlastní náhodně generované názvy. Bohužel je zde problém, neboť kvůli slovosledu a skloňování je přehozena logika generování jmen, což doposud fungovalo a funguje tak jak má u starších názvů. Bohužel u nových názvů a to konkrétně dvouslovných to již nefunguje - týká se to pouze nomádských říší. </p><p>Problém byl už u DLC Clona, kde byl vytvořen sekundární klíč a nastavena logika pro generování názvů enkláv. Jelikož konkrétní script pro náhodné generování čerpá z malého fondu, bylo to 'snadno' proveditelné.</p><p>Bohužel u nomádů toto provést nelze, neboť používají kompletní fond a jakýkoliv zásah rozbije to co doposud funguje a stejně by to nefungovalo. Problém spočívá v tom, že u těchto názvů je ve scriptu na pozici řídícího podstatného jména dané adjektivum - Takže se generátor nemá čeho chytit a nedoplní koncovku.</p><p>pro pochopení: Běžný stav 'Nuursk aliance' - řídící podstatné jméno je 'aliance' rod ženský, čili doplní do adjektiva 'á' - Nurská aliance</p><p>V případě nomádů je to Nomádsk Nuursk - řídící podstatné jméno je adjektivum 'Nuursk' - jelikož je to adjektivum a je řízeno podstatným jménem, kdy samo sebe považuje za podstatné jméno nedokáže doplnit správnou koncovku. - Nefunguje ani vynucené přehození Nuursk Nomádové - přestože druhé slovo je množné číslo, tudíš by to správně mělo doplnit koncovku na Nuurští - tak kvůli logice scriptu je zde adjectivum pořád na řídíci pozici. </p><p>Problém je pouze u dvouslovných názvů, tříslovné názvy fungují správně, i když si to vyžádalo pár pár let života.</p><p>V současné době nevím jak toto vyřešit.</p><p></p><p><strong>Nová verze 4.3.6</strong></p><p>Aktualizováno na verzi 4.3.6</p><p>Nahrána nová verze překladu: 4.3.5</p><p><strong>Nová verze 4.3.4</strong></p><p>Aktualizováno na verzi 4.3.4</p><p><strong>Nová verze 4.3.3</strong></p><p>Oprava chyb.</p><p><strong>Nová verze 4.3.3</strong></p><p>Aktualizováno na verzi 4.3.3</p><p>Nahrána nová verze překladu: 4.3.2</p><p><strong>Nová verze 4.3.1</strong></p><p>Aktualizováno na verzi 4.3.1</p><p><strong>Nová verze 4.2.4</strong></p><p>Opravena chyba</p><p><strong>Nová verze 4.2.4</strong></p><p>Dokončena korektura textů, kterou provedl dobrovolně a z vlastní vůle PredatorV.</p><p></p><p><strong>Nová verze 4.2.4</strong></p><p>Korekturu textů provedl zcela dobrovolně a z vlastní vůle PredatorV.</p><p>Nechť mu za to vesmír přeje. ;)</p><p>Nahrána nová verze překladu: 4.2.4</p><p><strong>Nová verze 4.2.4</strong></p><p>Pro nouzové použití, prosím použijte některý z odkazů na mód v popisu.</p><p>Pozměněn obsah archivu - smazán obrázek a manifest módu a přidán návod k instalaci.</p></div>",
+      "changelogHtml": "<div><p><strong>Nová verze 4.5.3</strong></p><p>Aktualizováno na verzi 4.5.3</p><p><strong>Nová verze 4.5.2</strong></p><p>Opraven script.</p><p><strong>Nová verze 4.5.2</strong></p><p> Aktualizováno na verzi 4.5.2</p><p><strong>Nová verze 4.5.1</strong></p><p>Oprava chyb nahlášených Ralphem</p><p><strong>Nová verze 4.5.0</strong></p><p>Aktualizováno na verzi 4.5.0</p><p><strong>Nová verze 4.4.6</strong></p><p>Korektura od PredatorV</p><p><strong>Nová verze 4.4.6</strong></p><p>Opravena nelogická chyba - nikoli ve smyslu, že bych udělal nelogickou chybu, ale chyba, která nedává naprosto žádný smysl - prostý text 'Říše $COUNTRY|Y$ přijala...' se ve hře zobrazí jako kupříkladu Česká RepublikaŘíše  přijala...' Je to absurdní.. nicméně konkrétní pomatený odstavec opraven na '$COUNTRY|Y$ přijali...'   </p><p><strong>Nová verze 4.4.6</strong></p><p>Překlad aktualizován na verzi 4.4.6</p><p>Upozornění na dosud nevyřešený - nevyřešitelný problém. </p><p>Nová herní mechanika (nomádi) s sebou nese i své vlastní náhodně generované názvy. Bohužel je zde problém, neboť kvůli slovosledu a skloňování je přehozena logika generování jmen, což doposud fungovalo a funguje tak jak má u starších názvů. Bohužel u nových názvů a to konkrétně dvouslovných to již nefunguje - týká se to pouze nomádských říší. </p><p>Problém byl už u DLC Clona, kde byl vytvořen sekundární klíč a nastavena logika pro generování názvů enkláv. Jelikož konkrétní script pro náhodné generování čerpá z malého fondu, bylo to 'snadno' proveditelné.</p><p>Bohužel u nomádů toto provést nelze, neboť používají kompletní fond a jakýkoliv zásah rozbije to co doposud funguje a stejně by to nefungovalo. Problém spočívá v tom, že u těchto názvů je ve scriptu na pozici řídícího podstatného jména dané adjektivum - Takže se generátor nemá čeho chytit a nedoplní koncovku.</p><p>pro pochopení: Běžný stav 'Nuursk aliance' - řídící podstatné jméno je 'aliance' rod ženský, čili doplní do adjektiva 'á' - Nurská aliance</p><p>V případě nomádů je to Nomádsk Nuursk - řídící podstatné jméno je adjektivum 'Nuursk' - jelikož je to adjektivum a je řízeno podstatným jménem, kdy samo sebe považuje za podstatné jméno nedokáže doplnit správnou koncovku. - Nefunguje ani vynucené přehození Nuursk Nomádové - přestože druhé slovo je množné číslo, tudíš by to správně mělo doplnit koncovku na Nuurští - tak kvůli logice scriptu je zde adjectivum pořád na řídíci pozici. </p><p>Problém je pouze u dvouslovných názvů, tříslovné názvy fungují správně, i když si to vyžádalo pár pár let života.</p><p>V současné době nevím jak toto vyřešit.</p><p></p><p><strong>Nová verze 4.3.6</strong></p><p>Aktualizováno na verzi 4.3.6</p><p>Nahrána nová verze překladu: 4.3.5</p><p><strong>Nová verze 4.3.4</strong></p><p>Aktualizováno na verzi 4.3.4</p><p><strong>Nová verze 4.3.3</strong></p><p>Oprava chyb.</p><p><strong>Nová verze 4.3.3</strong></p><p>Aktualizováno na verzi 4.3.3</p><p>Nahrána nová verze překladu: 4.3.2</p><p><strong>Nová verze 4.3.1</strong></p><p>Aktualizováno na verzi 4.3.1</p><p><strong>Nová verze 4.2.4</strong></p><p>Opravena chyba</p><p><strong>Nová verze 4.2.4</strong></p><p>Dokončena korektura textů, kterou provedl dobrovolně a z vlastní vůle PredatorV.</p><p></p><p><strong>Nová verze 4.2.4</strong></p><p>Korekturu textů provedl zcela dobrovolně a z vlastní vůle PredatorV.</p><p>Nechť mu za to vesmír přeje. ;)</p><p>Nahrána nová verze překladu: 4.2.4</p><p><strong>Nová verze 4.2.4</strong></p><p>Pro nouzové použití, prosím použijte některý z odkazů na mód v popisu.</p><p>Pozměněn obsah archivu - smazán obrázek a manifest módu a přidán návod k instalaci.</p></div>",
       "authorsHtml": "<p>Tomiket</p>",
       "size": null,
       "inDevelopment": true,
@@ -14435,7 +14543,7 @@
       "updatedAt": null,
       "pageUrl": "https://lokalizace.net/localizations/hogwarts-legacy",
       "howToInstallHtml": "<p>Stáhněte ZIP soubor a rozbalte ho do složky hry, nebo použijte aplikaci CZManager pro automatickou instalaci češtiny.</p>",
-      "changelogHtml": null,
+      "changelogHtml": "<div><p><strong>Nová verze 3.0.0-SteamEpic</strong></p><ul><li><p>update na poslední verzi hry</p></li></ul><p></p></div>",
       "authorsHtml": "<p>Lokalizace.Net</p>",
       "size": null,
       "inDevelopment": true,
@@ -14575,7 +14683,7 @@
       "steamAppId": "241540"
     },
     {
-      "title": "Batman Akham Knight",
+      "title": "Batman Arkham Knight",
       "studio": "Lokalizace.net",
       "studioUrl": "https://lokalizace.net/localizations/batman-akham-knight",
       "language": "Čeština",
@@ -14593,7 +14701,8 @@
       "authorsHtml": "<p>Lokalizace.Net</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": []
+      "mirrors": [],
+      "steamAppId": "208650"
     },
     {
       "title": "Sekiro Shadow Die Twice",
@@ -16318,9 +16427,9 @@
       "steamAppId": "2369390"
     },
     {
-      "title": "What Remains of Edith Finch",
+      "title": "Total Chaos",
       "studio": "Lokalizace.net",
-      "studioUrl": "https://lokalizace.net/localizations/what-remains-of-edith-finch",
+      "studioUrl": "https://lokalizace.net/localizations/total-chaos",
       "language": "Čeština",
       "hasText": true,
       "hasVoice": false,
@@ -16330,14 +16439,14 @@
       "hasNeuralText": false,
       "version": null,
       "updatedAt": null,
-      "pageUrl": "https://lokalizace.net/localizations/what-remains-of-edith-finch",
+      "pageUrl": "https://lokalizace.net/localizations/total-chaos",
       "howToInstallHtml": "<p>Stáhněte ZIP soubor a rozbalte ho do složky hry, nebo použijte aplikaci CZManager pro automatickou instalaci češtiny.</p>",
       "changelogHtml": null,
       "authorsHtml": "<p>PERTIM</p>",
       "size": null,
       "inDevelopment": true,
       "mirrors": [],
-      "steamAppId": "501300"
+      "steamAppId": "2208350"
     },
     {
       "title": "Stasis",
@@ -16450,28 +16559,6 @@
       "steamAppId": "1173780"
     },
     {
-      "title": "Henry the Stickmin (Dabing)",
-      "studio": "Lokalizace.net",
-      "studioUrl": "https://lokalizace.net/localizations/henry-the-stickmin",
-      "language": "Čeština",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": null,
-      "updatedAt": null,
-      "pageUrl": "https://lokalizace.net/localizations/henry-the-stickmin",
-      "howToInstallHtml": "<p>Stáhněte ZIP soubor a rozbalte ho do složky hry, nebo použijte aplikaci CZManager pro automatickou instalaci češtiny.</p>",
-      "changelogHtml": null,
-      "authorsHtml": "<p>Debilní Meloun Studios</p>",
-      "size": null,
-      "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "1089980"
-    },
-    {
       "title": "Dune: Awakening",
       "studio": "Lokalizace.net",
       "studioUrl": "https://lokalizace.net/localizations/dune-awakening",
@@ -16516,28 +16603,6 @@
       "steamAppId": "254700"
     },
     {
-      "title": "Resident Evil 5 Gold Edition (2009)",
-      "studio": "Lokalizace.net",
-      "studioUrl": "https://lokalizace.net/localizations/resident-evil-5-gold-edition",
-      "language": "Čeština",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": null,
-      "updatedAt": null,
-      "pageUrl": "https://lokalizace.net/localizations/resident-evil-5-gold-edition",
-      "howToInstallHtml": "<p>Stáhněte ZIP soubor a rozbalte ho do složky hry, nebo použijte aplikaci CZManager pro automatickou instalaci češtiny.</p>",
-      "changelogHtml": null,
-      "authorsHtml": "<p>PERTIM</p>",
-      "size": null,
-      "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "21690"
-    },
-    {
       "title": "Clive Barker's Hellraiser: Revival",
       "studio": "Lokalizace.net",
       "studioUrl": "https://lokalizace.net/localizations/clive-barker-s-hellraiser-revival",
@@ -16574,12 +16639,12 @@
       "updatedAt": null,
       "pageUrl": "https://lokalizace.net/localizations/grand-theft-auto-vice-city-stories-ps2",
       "howToInstallHtml": "<p>Stáhněte ZIP soubor a rozbalte ho do složky hry, nebo použijte aplikaci CZManager pro automatickou instalaci češtiny.</p>",
-      "changelogHtml": "<div><p>Nahraná prvá verzia prekladu: 0.1</p></div>",
+      "changelogHtml": "<div><p><strong>Nová verze 0.1</strong></p><p>Nahraná prvá verzia slovenského prekladu (0.1 Pre-Alpha). Preklad je vo vývoji. Aktuálne je preložených 1 676 z 20 983 riadkov (7,99 %). Na preklade sa naďalej pracuje.</p></div>",
       "authorsHtml": "<p>Itenko14s Team</p>",
       "size": null,
       "inDevelopment": true,
       "mirrors": [],
-      "steamAppId": "4919380"
+      "steamAppId": "5508340"
     },
     {
       "title": "Silver Pines",
@@ -16604,27 +16669,6 @@
       "steamAppId": "2333000"
     },
     {
-      "title": "Resident Evil Code Veronica X (2000)",
-      "studio": "Lokalizace.net",
-      "studioUrl": "https://lokalizace.net/localizations/resident-evil-code-veronica-x",
-      "language": "Čeština",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": null,
-      "updatedAt": null,
-      "pageUrl": "https://lokalizace.net/localizations/resident-evil-code-veronica-x",
-      "howToInstallHtml": "<p>Stáhněte ZIP soubor a rozbalte ho do složky hry, nebo použijte aplikaci CZManager pro automatickou instalaci češtiny.</p>",
-      "changelogHtml": null,
-      "authorsHtml": "<p>PERTIM</p>",
-      "size": null,
-      "inDevelopment": true,
-      "mirrors": []
-    },
-    {
       "title": "Tavern Keeper",
       "studio": "Lokalizace.net",
       "studioUrl": "https://lokalizace.net/localizations/tavern-keeper",
@@ -16645,28 +16689,6 @@
       "inDevelopment": true,
       "mirrors": [],
       "steamAppId": "436780"
-    },
-    {
-      "title": "The Witcher 3: Wild Hunt — Remastered DABING",
-      "studio": "Lokalizace.net",
-      "studioUrl": "https://lokalizace.net/localizations/the-witcher-3-wild-hunt-remastered-dabing",
-      "language": "Čeština",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": null,
-      "updatedAt": null,
-      "pageUrl": "https://lokalizace.net/localizations/the-witcher-3-wild-hunt-remastered-dabing",
-      "howToInstallHtml": "<p>Stáhněte ZIP soubor a rozbalte ho do složky hry, nebo použijte aplikaci CZManager pro automatickou instalaci češtiny.</p>",
-      "changelogHtml": "<div><p>Nahrána nová verze překladu: 1.0.1</p><p><strong>Nová verze 1.0.0</strong></p><p>Jedná se jen o náhledovou stránku, postupně budu obnovovat dle hotových postav, ať máte představu jak bude dabing vypadat.</p></div>",
-      "authorsHtml": "<p>Czech dubbing</p>",
-      "size": null,
-      "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "292030"
     },
     {
       "title": "BLOODMONEY: REQUIEM",
@@ -16797,28 +16819,6 @@
       "size": null,
       "inDevelopment": true,
       "mirrors": []
-    },
-    {
-      "title": "SiN Reloaded",
-      "studio": "Lokalizace.net",
-      "studioUrl": "https://lokalizace.net/localizations/sin-reloaded",
-      "language": "Čeština",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": null,
-      "updatedAt": null,
-      "pageUrl": "https://lokalizace.net/localizations/sin-reloaded",
-      "howToInstallHtml": "<p>Stáhněte ZIP soubor a rozbalte ho do složky hry, nebo použijte aplikaci CZManager pro automatickou instalaci češtiny.</p>",
-      "changelogHtml": null,
-      "authorsHtml": "<p>PERTIM</p>",
-      "size": null,
-      "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "632950"
     },
     {
       "title": "Terraria",
@@ -16973,72 +16973,6 @@
       "inDevelopment": true,
       "mirrors": [],
       "steamAppId": "2769570"
-    },
-    {
-      "title": "METAL GEAR SOLID: Peace Walker - Master Collection Vol.2",
-      "studio": "Lokalizace.net",
-      "studioUrl": "https://lokalizace.net/localizations/metal-gear-solid-peace-walker-master-collection-version",
-      "language": "Čeština",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": null,
-      "updatedAt": null,
-      "pageUrl": "https://lokalizace.net/localizations/metal-gear-solid-peace-walker-master-collection-version",
-      "howToInstallHtml": "<p>Stáhněte ZIP soubor a rozbalte ho do složky hry, nebo použijte aplikaci CZManager pro automatickou instalaci češtiny.</p>",
-      "changelogHtml": null,
-      "authorsHtml": "<p>PERTIM</p>",
-      "size": null,
-      "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "3859630"
-    },
-    {
-      "title": "METAL GEAR SOLID 4: Guns of the Patriots - Master Collection Vol.2",
-      "studio": "Lokalizace.net",
-      "studioUrl": "https://lokalizace.net/localizations/metal-gear-solid-4-guns-of-the-patriots-master-collection",
-      "language": "Čeština",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": null,
-      "updatedAt": null,
-      "pageUrl": "https://lokalizace.net/localizations/metal-gear-solid-4-guns-of-the-patriots-master-collection",
-      "howToInstallHtml": "<p>Stáhněte ZIP soubor a rozbalte ho do složky hry, nebo použijte aplikaci CZManager pro automatickou instalaci češtiny.</p>",
-      "changelogHtml": null,
-      "authorsHtml": "<p>PERTIM</p>",
-      "size": null,
-      "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "2492670"
-    },
-    {
-      "title": "Starfield",
-      "studio": "Lokalizace.net",
-      "studioUrl": "https://lokalizace.net/localizations/starfield",
-      "language": "Čeština",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": null,
-      "updatedAt": null,
-      "pageUrl": "https://lokalizace.net/localizations/starfield",
-      "howToInstallHtml": "<p>Stáhněte ZIP soubor a rozbalte ho do složky hry, nebo použijte aplikaci CZManager pro automatickou instalaci češtiny.</p>",
-      "changelogHtml": null,
-      "authorsHtml": "<p>Lokalizace.Net</p>",
-      "size": null,
-      "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "1716740"
     },
     {
       "title": "Monolith",
