@@ -5,6 +5,28 @@
   "siteUrl": "https://lokalizace.net",
   "localizations": [
     {
+      "title": "The Mystery of Oak Island Demo",
+      "studio": "Lokalizace.net",
+      "studioUrl": "https://lokalizace.net/localizations/the-mystery-of-oak-island-demo",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": null,
+      "updatedAt": null,
+      "pageUrl": "https://lokalizace.net/localizations/the-mystery-of-oak-island-demo",
+      "howToInstallHtml": "<p>Stáhněte ZIP soubor a rozbalte ho do složky hry, nebo použijte aplikaci CZManager pro automatickou instalaci češtiny.</p>",
+      "changelogHtml": "<div><p><strong>Nová verze 1.0-steam</strong></p><p>Přeloženy jsou vešketé dostupné texty, upravené fonty, aby uměly česky, překresleny potřebné textury, a ve videích jsou napevno vložené české titulky.</p></div>",
+      "authorsHtml": "<p>Zhilian</p>",
+      "size": null,
+      "inDevelopment": true,
+      "mirrors": [],
+      "steamAppId": "5349700"
+    },
+    {
       "title": "Road Rash 30th Anniversary Edition",
       "studio": "Lokalizace.net",
       "studioUrl": "https://lokalizace.net/localizations/road-rash-30th-anniversary-edition",
@@ -215,7 +237,7 @@
       "updatedAt": null,
       "pageUrl": "https://lokalizace.net/localizations/pan-prstenu-bitva-o-stredozem",
       "howToInstallHtml": "<p>Stáhněte ZIP soubor a rozbalte ho do složky hry, nebo použijte aplikaci CZManager pro automatickou instalaci češtiny.</p>",
-      "changelogHtml": "<div><p><strong>Nová verze 2.22</strong></p><p>Čeština uzpůsobená pro komunitní verzi <span style=\"color: rgb(34, 197, 94)\">2.22</span> skrze <span style=\"color: rgb(34, 197, 94)\">All In One Launcher</span>.</p><p><strong>Hru nainstalujte</strong> skrze All In One Launcher<strong> -&gt; Přepněte </strong>v launcheru<strong> na verzi 2.22 -&gt; Nainstalujte lokalizaci.</strong></p><p><span style=\"color: rgb(249, 115, 22)\">Pozor!<br>Funguje zatím pouze na Singleplayer!</span> Uvidíme, jestli půjde i Multiplayer.<br>Našel jsem i pár anomálií, kdy text chybí i v Anglické verzi. Například \"Vojáci kolem hrdiny získají\", ale není už nikde uvedeno co získají.<br>Pokud objevíte nějakou chybu, prosím udělejte screen a pošlete mi jej skrze zprávu.</p><p>Testoval jsem: Skirmish - Herní menu - Začátek kampaňe dobra - Škola boje</p><p><strong>Verze RC5</strong></p><p>Tento update obsahuje vše co předchozí updaty a je určená pouze pro <span style=\"color: rgb(34, 197, 94)\">Vanillu verzi 1.03</span>.<br>- doplňuje titulky do 12 videí. Z toho je 6 tutoriálů ve \"Škole boje\"<br>- Dalších 6 videí jsou ingame videa, kterým se titulky také doplnili.<br><br>Tímhle updatem je už tato lokalizace v <strong>každém</strong> ohledu lepší než původní verze z roku 2005.</p></div>",
+      "changelogHtml": "<div><p><strong>Verze 2.22 v7.0.14</strong></p><p>Verze 2.22 dostala update v All In One Launcheru.</p><p><strong>čeština je pro 2.22 v7.0.14</strong></p><p>Upravil jsem instalátor a popis <strong>Děsivé tváře</strong> na snížení zbroje o 10 %. Nové herní úpravy patche zůstaly zachované.</p><p><strong>Nová verze 2.22</strong></p><p>Čeština uzpůsobená pro komunitní verzi <span style=\"color: rgb(34, 197, 94)\">2.22 </span><span style=\"color: rgb(34, 197, 94)\"><strong>v7.0.13</strong></span> skrze <span style=\"color: rgb(34, 197, 94)\">All In One Launcher</span>.</p><p><strong>Hru nainstalujte</strong> skrze All In One Launcher<strong> -&gt; Přepněte </strong>v launcheru<strong> na verzi 2.22 -&gt; Nainstalujte lokalizaci.</strong></p><p><span style=\"color: rgb(249, 115, 22)\">Pozor!<br>Funguje zatím pouze na Singleplayer!</span> Uvidíme, jestli půjde i Multiplayer.<br>Našel jsem i pár anomálií, kdy text chybí i v Anglické verzi. Například \"Vojáci kolem hrdiny získají\", ale není už nikde uvedeno co získají.<br>Pokud objevíte nějakou chybu, prosím udělejte screen a pošlete mi jej skrze zprávu.</p><p>Testoval jsem: Skirmish - Herní menu - Začátek kampaňe dobra - Škola boje</p><p><strong>Verze RC5</strong></p><p>Tento update obsahuje vše co předchozí updaty a je určená pouze pro <span style=\"color: rgb(34, 197, 94)\">Vanillu verzi 1.03</span>.<br>- doplňuje titulky do 12 videí. Z toho je 6 tutoriálů ve \"Škole boje\"<br>- Dalších 6 videí jsou ingame videa, kterým se titulky také doplnili.<br><br>Tímhle updatem je už tato lokalizace v <strong>každém</strong> ohledu lepší než původní verze z roku 2005.</p></div>",
       "authorsHtml": "<p>RetroGameplay_CZ</p>",
       "size": null,
       "inDevelopment": true,
@@ -8600,8 +8622,7 @@
       "authorsHtml": "<p>Lost And Found</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "3439000"
+      "mirrors": []
     },
     {
       "title": "Max: The Curse of Brotherhood (2014)",
@@ -8710,8 +8731,7 @@
       "authorsHtml": "<p>Lost And Found</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "307670"
+      "mirrors": []
     },
     {
       "title": "The Book of Unwritten Tales 2 (2015)",
@@ -8732,8 +8752,7 @@
       "authorsHtml": "<p>Lost And Found</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "279940"
+      "mirrors": []
     },
     {
       "title": "Ghost of a Tale (2018)",
@@ -8755,7 +8774,7 @@
       "size": null,
       "inDevelopment": true,
       "mirrors": [],
-      "steamAppId": "417290"
+      "steamAppId": "2137510"
     },
     {
       "title": "TSIOQUE (2018)",
@@ -8776,8 +8795,7 @@
       "authorsHtml": "<p>Lost And Found</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "393190"
+      "mirrors": []
     },
     {
       "title": "Project Warlock (2018)",
@@ -8798,8 +8816,7 @@
       "authorsHtml": "<p>Lost And Found</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "893680"
+      "mirrors": []
     },
     {
       "title": "Nelly Cootalot: The Fowl Fleet (2016)",
@@ -8863,8 +8880,7 @@
       "authorsHtml": "<p>COTT</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "248390"
+      "mirrors": []
     },
     {
       "title": "Desperados III (2020)",
@@ -8885,8 +8901,7 @@
       "authorsHtml": "<p>Lokalizace.Net</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "610370"
+      "mirrors": []
     },
     {
       "title": "Blackguards 2 (2015)",
@@ -8929,8 +8944,7 @@
       "authorsHtml": "<p>Lost And Found</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "274520"
+      "mirrors": []
     },
     {
       "title": "Jotun: Valhalla Edition (2015)",
@@ -8951,8 +8965,7 @@
       "authorsHtml": "<p>Lost And Found</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "323580"
+      "mirrors": []
     },
     {
       "title": "Xenonauts 2 (2020)",
@@ -8973,8 +8986,7 @@
       "authorsHtml": "<p>Lost And Found</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "538030"
+      "mirrors": []
     },
     {
       "title": "Cold Waters (2017)",
@@ -8995,8 +9007,7 @@
       "authorsHtml": "<p>Spid3rCZ</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "541210"
+      "mirrors": []
     },
     {
       "title": "Bus Driver (2007)",
@@ -9017,8 +9028,7 @@
       "authorsHtml": "<p>Lost And Found</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "302080"
+      "mirrors": []
     },
     {
       "title": "Age of Empires II: HD Edition (2013)",
@@ -9060,8 +9070,7 @@
       "authorsHtml": "<p>Lost And Found</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "80"
+      "mirrors": []
     },
     {
       "title": "Empyrion - Galactic Survival (2015)",
@@ -9148,8 +9157,7 @@
       "authorsHtml": "<p>siSINka</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "408650"
+      "mirrors": []
     },
     {
       "title": "Hexcells Infinite (2014)",
@@ -9170,8 +9178,7 @@
       "authorsHtml": "<p>siSINka</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "304410"
+      "mirrors": []
     },
     {
       "title": "Six days in Fallujah",
@@ -9192,8 +9199,7 @@
       "authorsHtml": "<p>Spid3rCZ</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "1548850"
+      "mirrors": []
     },
     {
       "title": "Might & Magic: World of Enroth",
@@ -9257,8 +9263,7 @@
       "authorsHtml": "<p>COTT</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "268500"
+      "mirrors": []
     },
     {
       "title": "XCOM 2: War of the Chosen",
@@ -9279,8 +9284,7 @@
       "authorsHtml": "<p>COTT</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "593380"
+      "mirrors": []
     },
     {
       "title": "Destroy All Humans - Clone Carnage",
@@ -9323,8 +9327,7 @@
       "authorsHtml": "<p>COTT</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "882100"
+      "mirrors": []
     },
     {
       "title": "Gruntz",
@@ -9453,8 +9456,7 @@
       "authorsHtml": "<p>Karpo Pillarsy</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "560130"
+      "mirrors": []
     },
     {
       "title": "Destroy All Humans! 2 - Reprobed (2022)",
@@ -9475,8 +9477,7 @@
       "authorsHtml": "<p>COTT</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "1266700"
+      "mirrors": []
     },
     {
       "title": "Destroy All Humans! (2020)",
@@ -9563,8 +9564,7 @@
       "authorsHtml": "<p>Sygfrost</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "204100"
+      "mirrors": []
     },
     {
       "title": "Northmark: Hour of the Wolf (2014)",
@@ -9607,8 +9607,7 @@
       "authorsHtml": "<p>Point&Click team</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "5230710"
+      "mirrors": []
     },
     {
       "title": "Return to Monkey Island (2022)",
@@ -9629,8 +9628,7 @@
       "authorsHtml": "<p>Point&Click team</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "2060130"
+      "mirrors": []
     },
     {
       "title": "The Secret of Monkey Island: Special Edition (2009)",
@@ -9673,8 +9671,7 @@
       "authorsHtml": "<p>Point&Click team</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "6010"
+      "mirrors": []
     },
     {
       "title": "Elvira II: The Jaws of Cerberus (1991)",
@@ -9779,8 +9776,7 @@
       "authorsHtml": "<p>Point&Click team</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "1417950"
+      "mirrors": []
     },
     {
       "title": "The Dig (1995)",
@@ -16557,6 +16553,28 @@
       "steamAppId": "2369390"
     },
     {
+      "title": "Samson",
+      "studio": "Lokalizace.net",
+      "studioUrl": "https://lokalizace.net/localizations/samson",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": null,
+      "updatedAt": null,
+      "pageUrl": "https://lokalizace.net/localizations/samson",
+      "howToInstallHtml": "<p>Stáhněte ZIP soubor a rozbalte ho do složky hry, nebo použijte aplikaci CZManager pro automatickou instalaci češtiny.</p>",
+      "changelogHtml": null,
+      "authorsHtml": "<p>Lokalizace.Net</p>",
+      "size": null,
+      "inDevelopment": true,
+      "mirrors": [],
+      "steamAppId": "3634520"
+    },
+    {
       "title": "Suzy Says!",
       "studio": "Lokalizace.net",
       "studioUrl": "https://lokalizace.net/localizations/suzy-says",
@@ -16576,50 +16594,6 @@
       "size": null,
       "inDevelopment": true,
       "mirrors": []
-    },
-    {
-      "title": "The Mystery of Oak Island Demo",
-      "studio": "Lokalizace.net",
-      "studioUrl": "https://lokalizace.net/localizations/the-mystery-of-oak-island-demo",
-      "language": "Čeština",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": null,
-      "updatedAt": null,
-      "pageUrl": "https://lokalizace.net/localizations/the-mystery-of-oak-island-demo",
-      "howToInstallHtml": "<p>Stáhněte ZIP soubor a rozbalte ho do složky hry, nebo použijte aplikaci CZManager pro automatickou instalaci češtiny.</p>",
-      "changelogHtml": null,
-      "authorsHtml": "<p>Zhilian</p>",
-      "size": null,
-      "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "5349700"
-    },
-    {
-      "title": "Silent Storm Gold Edition",
-      "studio": "Lokalizace.net",
-      "studioUrl": "https://lokalizace.net/localizations/silent-storm-gold-edition",
-      "language": "Čeština",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": null,
-      "updatedAt": null,
-      "pageUrl": "https://lokalizace.net/localizations/silent-storm-gold-edition",
-      "howToInstallHtml": "<p>Stáhněte ZIP soubor a rozbalte ho do složky hry, nebo použijte aplikaci CZManager pro automatickou instalaci češtiny.</p>",
-      "changelogHtml": null,
-      "authorsHtml": "<p>PERTIM</p>",
-      "size": null,
-      "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "254960"
     },
     {
       "title": "Recreating Hell : Rebooting",
@@ -16817,28 +16791,6 @@
       "inDevelopment": true,
       "mirrors": [],
       "steamAppId": "1173780"
-    },
-    {
-      "title": "Dune: Awakening",
-      "studio": "Lokalizace.net",
-      "studioUrl": "https://lokalizace.net/localizations/dune-awakening",
-      "language": "Čeština",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": null,
-      "updatedAt": null,
-      "pageUrl": "https://lokalizace.net/localizations/dune-awakening",
-      "howToInstallHtml": "<p>Stáhněte ZIP soubor a rozbalte ho do složky hry, nebo použijte aplikaci CZManager pro automatickou instalaci češtiny.</p>",
-      "changelogHtml": null,
-      "authorsHtml": "<p>Lokalizace.Net</p>",
-      "size": null,
-      "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "1172710"
     },
     {
       "title": "Resident Evil 4 (2005)",
