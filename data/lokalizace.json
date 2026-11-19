@@ -308,7 +308,7 @@
       "mirrors": []
     },
     {
-      "title": "Resident Evil 2 - RE:ENHANCE 4.0 (1998)",
+      "title": "Resident Evil 2 - RE:ENHANCE 4.0 (1998) CZ TITULKY",
       "studio": "Lokalizace.net",
       "studioUrl": "https://lokalizace.net/localizations/resident-evil-2-re-enhance-1998",
       "language": "Čeština",
@@ -568,7 +568,7 @@
       "mirrors": []
     },
     {
-      "title": "Resident Evil 3 Nemesis (1999)",
+      "title": "Resident Evil 3 Nemesis (1999) CZ TITULKY",
       "studio": "Lokalizace.net",
       "studioUrl": "https://lokalizace.net/localizations/resident-evil-3-nemesis-1999",
       "language": "Čeština",
@@ -587,10 +587,10 @@
       "size": null,
       "inDevelopment": true,
       "mirrors": [],
-      "steamAppId": "4249120"
+      "steamAppId": "952060"
     },
     {
-      "title": "Resident Evil 1 - OVERHAUL 3.0 (1996)",
+      "title": "Resident Evil 1 - OVERHAUL 3.0 (1996) CZ TITULKY",
       "studio": "Lokalizace.net",
       "studioUrl": "https://lokalizace.net/localizations/resident-evil-1996",
       "language": "Čeština",
@@ -698,7 +698,7 @@
       "mirrors": []
     },
     {
-      "title": "Resident Evil 2 - OVERHAUL RE:ENHANCE (1998)",
+      "title": "Resident Evil 2 - OVERHAUL RE:ENHANCE (1998) CZ TITULKY",
       "studio": "Lokalizace.net",
       "studioUrl": "https://lokalizace.net/localizations/resident-evil-2-1998",
       "language": "Čeština",
@@ -2199,7 +2199,7 @@
       "updatedAt": null,
       "pageUrl": "https://lokalizace.net/localizations/007-first-light-1",
       "howToInstallHtml": "<p>Stáhněte ZIP soubor a rozbalte ho do složky hry, nebo použijte aplikaci CZManager pro automatickou instalaci češtiny.</p>",
-      "changelogHtml": "<div><p><strong>Nová verze 1.4.2</strong></p><ul><li><p>srovnano s aktualni verzi hry</p></li></ul><p></p><p><strong>Nová verze 1.3.9</strong></p><ul><li><p>oprava časovaní některých replik po updatu hry</p></li></ul><p></p><p><strong>Nová verze 1.3.1</strong></p><ul><li><p>doprelozeno z novehou updatu</p></li></ul><p></p></div>",
+      "changelogHtml": "<div><p><strong>Nová verze 1.4.5</strong></p><ul><li><p>upraveno pro novou verzi hry</p></li></ul><p></p><p><strong>Nová verze 1.4.2</strong></p><ul><li><p>srovnano s aktualni verzi hry</p></li></ul><p></p></div>",
       "authorsHtml": "<p>Lokalizace.Net</p>",
       "size": null,
       "inDevelopment": true,
@@ -10390,7 +10390,7 @@
       "size": null,
       "inDevelopment": true,
       "mirrors": [],
-      "steamAppId": "2252960"
+      "steamAppId": "961620"
     },
     {
       "title": "Spirit of the North",
@@ -13998,7 +13998,7 @@
       "size": null,
       "inDevelopment": true,
       "mirrors": [],
-      "steamAppId": "212410"
+      "steamAppId": "1505430"
     },
     {
       "title": "Stellaris",
@@ -15071,7 +15071,8 @@
       "authorsHtml": "<p>ADV Dream</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": []
+      "mirrors": [],
+      "steamAppId": "358870"
     },
     {
       "title": "Dead Synchronicity: Tomorrow Comes Today",
@@ -15268,7 +15269,8 @@
       "authorsHtml": "<p>Lokalizace.Net</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": []
+      "mirrors": [],
+      "steamAppId": "396750"
     },
     {
       "title": "Darksiders 3",
@@ -15418,7 +15420,8 @@
       "authorsHtml": "<p>ADV Dream</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": []
+      "mirrors": [],
+      "steamAppId": "345390"
     },
     {
       "title": "Memoranda",
@@ -15439,7 +15442,8 @@
       "authorsHtml": "<p>ADV Dream</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": []
+      "mirrors": [],
+      "steamAppId": "430410"
     },
     {
       "title": "Silence",
@@ -15460,7 +15464,8 @@
       "authorsHtml": "<p>ADV Dream</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": []
+      "mirrors": [],
+      "steamAppId": "1361000"
     },
     {
       "title": "The Whispered World Special Edition",
@@ -15589,7 +15594,8 @@
       "authorsHtml": "<p>ADV Dream</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": []
+      "mirrors": [],
+      "steamAppId": "255280"
     },
     {
       "title": "Moebius: Empire Rising",
@@ -15632,7 +15638,8 @@
       "authorsHtml": "<p>Lokalizace.Net</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": []
+      "mirrors": [],
+      "steamAppId": "202170"
     },
     {
       "title": "Evil Within 2",
@@ -15719,7 +15726,8 @@
       "authorsHtml": "<p>Lokalizace.Net</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": []
+      "mirrors": [],
+      "steamAppId": "960910"
     },
     {
       "title": "Stray",
@@ -15871,7 +15879,8 @@
       "authorsHtml": "<p>ADV Dream</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": []
+      "mirrors": [],
+      "steamAppId": "241910"
     },
     {
       "title": "Chaos on Deponia",
@@ -15958,7 +15967,8 @@
       "authorsHtml": "<p>ADV Dream</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": []
+      "mirrors": [],
+      "steamAppId": "368370"
     },
     {
       "title": "Dead mountaineer's hotel",
@@ -16154,7 +16164,7 @@
       "size": null,
       "inDevelopment": true,
       "mirrors": [],
-      "steamAppId": "304240"
+      "steamAppId": "1196590"
     },
     {
       "title": "Dracula 4 + 5  Special Steam Edition",
@@ -16239,7 +16249,8 @@
       "authorsHtml": "<p>ADV Dream</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": []
+      "mirrors": [],
+      "steamAppId": "18480"
     },
     {
       "title": "The Rockin' Dead",
@@ -16567,6 +16578,50 @@
       "steamAppId": "2369390"
     },
     {
+      "title": "Singularity (CZ TITULKY)",
+      "studio": "Lokalizace.net",
+      "studioUrl": "https://lokalizace.net/localizations/singularity-cz-titulky",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": null,
+      "updatedAt": null,
+      "pageUrl": "https://lokalizace.net/localizations/singularity-cz-titulky",
+      "howToInstallHtml": "<p>Stáhněte ZIP soubor a rozbalte ho do složky hry, nebo použijte aplikaci CZManager pro automatickou instalaci češtiny.</p>",
+      "changelogHtml": null,
+      "authorsHtml": "<p>PERTIM</p>",
+      "size": null,
+      "inDevelopment": true,
+      "mirrors": [],
+      "steamAppId": "42670"
+    },
+    {
+      "title": "Lake",
+      "studio": "Lokalizace.net",
+      "studioUrl": "https://lokalizace.net/localizations/lake",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": null,
+      "updatedAt": null,
+      "pageUrl": "https://lokalizace.net/localizations/lake",
+      "howToInstallHtml": "<p>Stáhněte ZIP soubor a rozbalte ho do složky hry, nebo použijte aplikaci CZManager pro automatickou instalaci češtiny.</p>",
+      "changelogHtml": null,
+      "authorsHtml": "<p>HAVELU Translation</p>",
+      "size": null,
+      "inDevelopment": true,
+      "mirrors": [],
+      "steamAppId": "1118240"
+    },
+    {
       "title": "The Legend of Zelda: Ocarina of Time (2026 remaster)",
       "studio": "Lokalizace.net",
       "studioUrl": "https://lokalizace.net/localizations/the-legend-of-zelda-ocarina-of-time-2026-remake",
@@ -16650,7 +16705,8 @@
       "authorsHtml": "<p>PERTIM</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": []
+      "mirrors": [],
+      "steamAppId": "2565550"
     },
     {
       "title": "Avatar Legends: The Fighting Game",
@@ -16693,7 +16749,8 @@
       "authorsHtml": "<p>PERTIM</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": []
+      "mirrors": [],
+      "steamAppId": "2208350"
     },
     {
       "title": "Stasis",
@@ -16740,7 +16797,7 @@
       "steamAppId": "209000"
     },
     {
-      "title": "Dino Crisis 2",
+      "title": "Dino Crisis 2 (CZ TITULKY)",
       "studio": "Lokalizace.net",
       "studioUrl": "https://lokalizace.net/localizations/dino-crisis-2",
       "language": "Čeština",
@@ -16762,7 +16819,7 @@
       "steamAppId": "4249140"
     },
     {
-      "title": "Dino Crisis",
+      "title": "Dino Crisis (CZ TITULKY)",
       "studio": "Lokalizace.net",
       "studioUrl": "https://lokalizace.net/localizations/dino-crisis",
       "language": "Čeština",
@@ -16780,7 +16837,8 @@
       "authorsHtml": "<p>PERTIM</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": []
+      "mirrors": [],
+      "steamAppId": "4249130"
     },
     {
       "title": "Final Fantasy II PR",
@@ -16805,7 +16863,7 @@
       "steamAppId": "1173780"
     },
     {
-      "title": "Resident Evil 4 (2005)",
+      "title": "Resident Evil 4 (2005) CZ TITULKY",
       "studio": "Lokalizace.net",
       "studioUrl": "https://lokalizace.net/localizations/resident-evil-4-2005-1",
       "language": "Čeština",
@@ -16824,7 +16882,7 @@
       "size": null,
       "inDevelopment": true,
       "mirrors": [],
-      "steamAppId": "254700"
+      "steamAppId": "2050650"
     },
     {
       "title": "Resident Evil 5 Gold Edition (2009)",
@@ -16845,7 +16903,8 @@
       "authorsHtml": "<p>PERTIM</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": []
+      "mirrors": [],
+      "steamAppId": "21690"
     },
     {
       "title": "Clive Barker's Hellraiser: Revival",
@@ -16914,7 +16973,7 @@
       "steamAppId": "2333000"
     },
     {
-      "title": "Resident Evil Code Veronica X (2000)",
+      "title": "Resident Evil Code Veronica X (2000) CZ TITULKY",
       "studio": "Lokalizace.net",
       "studioUrl": "https://lokalizace.net/localizations/resident-evil-code-veronica-x",
       "language": "Čeština",
@@ -16975,7 +17034,8 @@
       "authorsHtml": "<p>GamerView Translations</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": []
+      "mirrors": [],
+      "steamAppId": "5044390"
     },
     {
       "title": "Borderlands GOTY Enhanced",
@@ -17104,7 +17164,8 @@
       "authorsHtml": "<p>Sleeping Unicorn Studios</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": []
+      "mirrors": [],
+      "steamAppId": "105600"
     },
     {
       "title": "Five Nights at Freddy's: Help Wanted 2",
@@ -17235,7 +17296,8 @@
       "authorsHtml": "<p>Lokalizace.Net</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": []
+      "mirrors": [],
+      "steamAppId": "2769570"
     },
     {
       "title": "METAL GEAR SOLID: Peace Walker - Master Collection Vol.2",
@@ -17432,7 +17494,8 @@
       "authorsHtml": "<p>Lokalizace.Net</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": []
+      "mirrors": [],
+      "steamAppId": "801800"
     },
     {
       "title": "FF7 Rebirth Demo PC & XBOX",
