@@ -84,7 +84,7 @@
       "updatedAt": null,
       "pageUrl": "https://lokalizace.net/localizations/pan-prstenu-bitva-o-stredozem-2",
       "howToInstallHtml": "<p>Stáhněte ZIP soubor a rozbalte ho do složky hry, nebo použijte aplikaci CZManager pro automatickou instalaci češtiny.</p>",
-      "changelogHtml": "<div><p><strong>Nová verze 1</strong></p><p>Loklizace obsahuje všechny původní texty od Radka a Jerryho z <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" class=\"text-primary underline\" href=\"http://abcgames.cz\">abcgames.cz</a> + úpravy z mé strany.</p><p>Rozbalit -&gt; BFME2_Cestina_1.06_v1.1 -&gt; nainstalovat (pokud instalátor najde hru. Pokud ne, nutno zadat cestu, kde je .exe)</p></div>",
+      "changelogHtml": "<div><p><strong>Nová verze 1.2</strong></p><p>Loklizace obsahuje všechny původní texty od Radka a Jerryho z <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" class=\"text-primary underline\" href=\"http://abcgames.cz\"><strong><u>abcgames.cz</u></strong></a> + úpravy z mé strany.<br>- Všiml jsem si v jedné cinematic scéně špatně nastavených fontů a opravil jej.</p><p>Rozbalit -&gt; BFME2_Cestina_1.06_v1.2 -&gt; nainstalovat (pokud instalátor najde hru. Pokud ne, nutno zadat cestu, kde je .exe)</p><p><strong>Nová verze 1</strong></p><p>Loklizace obsahuje všechny původní texty od Radka a Jerryho z <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" class=\"text-primary underline\" href=\"http://abcgames.cz\">abcgames.cz</a> + úpravy z mé strany.</p><p>Rozbalit -&gt; BFME2_Cestina_1.06_v1.1 -&gt; nainstalovat (pokud instalátor najde hru. Pokud ne, nutno zadat cestu, kde je .exe)</p></div>",
       "authorsHtml": "<p>RetroGameplay_CZ</p>",
       "size": null,
       "inDevelopment": true,
@@ -1415,8 +1415,7 @@
       "authorsHtml": "<p>RetroVoice AI</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "1175830"
+      "mirrors": []
     },
     {
       "title": "The Legend of Kyrandia: Hand Of Fate - CZ dabing",
@@ -1437,8 +1436,7 @@
       "authorsHtml": "<p>RetroVoice AI</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "1175830"
+      "mirrors": []
     },
     {
       "title": "Mass Effect Legendary Edition",
@@ -2375,8 +2373,7 @@
       "authorsHtml": "<p>RetroVoice AI</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "1175830"
+      "mirrors": []
     },
     {
       "title": "HumanitZ",
@@ -3663,7 +3660,8 @@
       "authorsHtml": "<p>Zhilian</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": []
+      "mirrors": [],
+      "steamAppId": "239160"
     },
     {
       "title": "Sinking Island",
@@ -4674,28 +4672,6 @@
       "steamAppId": "1097200"
     },
     {
-      "title": "Callus",
-      "studio": "Lokalizace.net",
-      "studioUrl": "https://lokalizace.net/localizations/callus",
-      "language": "Čeština",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": null,
-      "updatedAt": null,
-      "pageUrl": "https://lokalizace.net/localizations/callus",
-      "howToInstallHtml": "<p>Stáhněte ZIP soubor a rozbalte ho do složky hry, nebo použijte aplikaci CZManager pro automatickou instalaci češtiny.</p>",
-      "changelogHtml": "<div><p><strong>Nová verze 1.0.0</strong></p><p>Opravené, otestované, dokončené</p></div>",
-      "authorsHtml": "<p>PERTIM</p>",
-      "size": null,
-      "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "4258330"
-    },
-    {
       "title": "Stray Gods",
       "studio": "Lokalizace.net",
       "studioUrl": "https://lokalizace.net/localizations/stray-gods",
@@ -5517,7 +5493,7 @@
       "updatedAt": null,
       "pageUrl": "https://lokalizace.net/localizations/hearts-of-iron-4",
       "howToInstallHtml": "<p>Stáhněte ZIP soubor a rozbalte ho do složky hry, nebo použijte aplikaci CZManager pro automatickou instalaci češtiny.</p>",
-      "changelogHtml": "<div><p>Nahrána nová verze překladu: 1.19.5</p><p>Nahrána nová verze překladu: 1.19.3</p><p>Nahrána nová verze překladu: 1.19.2</p><p><strong>Nová verze 1.19.1</strong></p><p>Kompletní čeština pro verzi 1.19.1</p><p><strong>Nová verze 1.19.1-BETA</strong></p><p>Nejsou přeloženy 3 soubory. Kompletní překlad bude brzy.</p><p>Nahrána nová verze překladu: 1.18.3</p><p>Nahrána nová verze překladu: 1.18.2</p><p>Nahrána nová verze překladu: 1.18.1</p><p><strong>Nová verze 1.18.0</strong></p><p>plná verze překladu </p><p><strong>Nová verze 1.18.0-beta</strong></p><p>Jedna se o beta verzi. Stavající soubory doplněny na aktualní verzi. Z novych chybí přeložit tři soubory. Ty jsou v beta verzi v originale.</p><p><strong>Nová verze 1.17.5</strong></p><p>čeština pro verzi 1.17.5</p><p>Nahrána nová verze překladu: 1.17.4</p><p><strong>Nová verze 1.17.3</strong></p><p>Oprava chyb v překladu</p></div>",
+      "changelogHtml": "<div><p><strong>Nová verze 1.20-Beta</strong></p><p>Jedná se o beta verzi. Tj stare soubory jsou zaktualizovane. 4 nove soubory jsou dosud neprelozene.</p><p>Nahrána nová verze překladu: 1.19.5</p><p>Nahrána nová verze překladu: 1.19.3</p><p>Nahrána nová verze překladu: 1.19.2</p><p><strong>Nová verze 1.19.1</strong></p><p>Kompletní čeština pro verzi 1.19.1</p><p><strong>Nová verze 1.19.1-BETA</strong></p><p>Nejsou přeloženy 3 soubory. Kompletní překlad bude brzy.</p><p>Nahrána nová verze překladu: 1.18.3</p><p>Nahrána nová verze překladu: 1.18.2</p><p>Nahrána nová verze překladu: 1.18.1</p><p><strong>Nová verze 1.18.0</strong></p><p>plná verze překladu </p><p><strong>Nová verze 1.18.0-beta</strong></p><p>Jedna se o beta verzi. Stavající soubory doplněny na aktualní verzi. Z novych chybí přeložit tři soubory. Ty jsou v beta verzi v originale.</p><p><strong>Nová verze 1.17.5</strong></p><p>čeština pro verzi 1.17.5</p><p>Nahrána nová verze překladu: 1.17.4</p><p><strong>Nová verze 1.17.3</strong></p><p>Oprava chyb v překladu</p></div>",
       "authorsHtml": "<p>Paradox češtiny</p>",
       "size": null,
       "inDevelopment": true,
@@ -8183,8 +8159,7 @@
       "authorsHtml": "<p>Old Bear</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "1175830"
+      "mirrors": []
     },
     {
       "title": "The Legend of Kyrandia: Malcolm's Revenge (1994)",
@@ -8205,8 +8180,7 @@
       "authorsHtml": "<p>Old Bear</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "1175830"
+      "mirrors": []
     },
     {
       "title": "The Legend of Kyrandia (1992)",
@@ -8227,8 +8201,7 @@
       "authorsHtml": "<p>Old Bear</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "1175830"
+      "mirrors": []
     },
     {
       "title": "King's Bounty mód Red Sands (2011)",
@@ -10063,7 +10036,8 @@
       "authorsHtml": "<p>Lost And Found</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": []
+      "mirrors": [],
+      "steamAppId": "239160"
     },
     {
       "title": "Warcraft 1 Remastered - CZ překlad a dabing",
@@ -12009,7 +11983,8 @@
       "authorsHtml": "<p>miracle.flame</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": []
+      "mirrors": [],
+      "steamAppId": "239160"
     },
     {
       "title": "The Almost Gone",
@@ -16640,8 +16615,7 @@
       "authorsHtml": "<p>miracle.flame</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "1175830"
+      "mirrors": []
     },
     {
       "title": "Samson",
