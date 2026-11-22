@@ -19610,30 +19610,6 @@
       ]
     },
     {
-      "steamAppId": "403190",
-      "title": "Planetbase",
-      "studio": "Magyarítások",
-      "studioUrl": "https://magyaritasok.hu",
-      "language": "Magyar",
-      "hasText": true,
-      "hasVoice": false,
-      "version": "1.2.3",
-      "updatedAt": "28.09.2018",
-      "requiredGameVersion": null,
-      "size": "932 KB",
-      "pageUrl": "https://magyaritasok.hu/games/planetbase",
-      "howToInstallHtml": "<ol><li>Töltsd le a magyarítást a fenti gombbal.</li><li>Ha telepítő (.exe), futtasd és kövesd a lépéseit; ha tömörített archívum, csomagold ki.</li><li>Másold a fájlokat a játék mappájába (ha rákérdez, írd felül).</li><li>Indítsd el a játékot — a magyarítás életbe lép. Néhány fordításnál a nyelvet a játék beállításaiban kell kiválasztani.</li></ol>",
-      "authorsHtml": "<p>Cyrus</p>",
-      "inDevelopment": false,
-      "mirrors": [
-        {
-          "label": "Magyarítások",
-          "url": "https://magyaritasok.hu/dl/planetbase/PlanetbaseHUN_v1.2.3.zip",
-          "kind": "direct"
-        }
-      ]
-    },
-    {
       "steamAppId": "1238840",
       "title": "Battlefield 1",
       "studio": "Magyarítások",
