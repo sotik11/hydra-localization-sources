@@ -5,6 +5,27 @@
   "siteUrl": "https://lokalizace.net",
   "localizations": [
     {
+      "title": "Pán Prstenů: Bitva o Středozem 2 - Vzkříšení Černokněžného krále",
+      "studio": "Lokalizace.net",
+      "studioUrl": "https://lokalizace.net/localizations/pan-prstenu-bitva-o-stredozem-2-vzkriseni-cernoknezneho-krale",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": null,
+      "updatedAt": null,
+      "pageUrl": "https://lokalizace.net/localizations/pan-prstenu-bitva-o-stredozem-2-vzkriseni-cernoknezneho-krale",
+      "howToInstallHtml": "<p>Stáhněte ZIP soubor a rozbalte ho do složky hry, nebo použijte aplikaci CZManager pro automatickou instalaci češtiny.</p>",
+      "changelogHtml": "<div><p><span style=\"color: rgb(59, 130, 246)\"><strong>2.02 v9.8.6</strong></span></p><p>Čeština pro <span style=\"color: rgb(59, 130, 246)\"><strong>The Battle for Middle-earth II: Rise of the Witch-king</strong></span>, aktualizovaná pro <span style=\"color: rgb(59, 130, 246)\"><strong>Singleplayer</strong></span> komunitní patch <span style=\"color: rgb(59, 130, 246)\"><strong>2.02 v9.8.6</strong></span>, vychází z původního českého překladu pro <span style=\"color: rgb(59, 130, 246)\">verzi 2.01 od </span><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" class=\"text-primary underline\" href=\"https://www.abcgames.cz/?p=uzivatel-autor&amp;id=10914\"><span style=\"color: rgb(59, 130, 246)\">David \"kramla\" Kramoliš</span></a> a tím i děkuji za jeho práci, kterou odvedl. Na požádání autora lokalizaci smažu či přenechám.<br><br>V případě problémů mi dejte vědět buďto zde nebo na Youtube či na Discord.</p><p></p></div>",
+      "authorsHtml": "<p>RetroGameplay_CZ</p>",
+      "size": null,
+      "inDevelopment": true,
+      "mirrors": []
+    },
+    {
       "title": "Suzy Says!",
       "studio": "Lokalizace.net",
       "studioUrl": "https://lokalizace.net/localizations/suzy-says",
@@ -84,7 +105,7 @@
       "updatedAt": null,
       "pageUrl": "https://lokalizace.net/localizations/pan-prstenu-bitva-o-stredozem-2",
       "howToInstallHtml": "<p>Stáhněte ZIP soubor a rozbalte ho do složky hry, nebo použijte aplikaci CZManager pro automatickou instalaci češtiny.</p>",
-      "changelogHtml": "<div><p><strong>Nová verze 1.2</strong></p><p>Loklizace obsahuje všechny původní texty od Radka a Jerryho z <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" class=\"text-primary underline\" href=\"http://abcgames.cz\"><strong><u>abcgames.cz</u></strong></a> + úpravy z mé strany.<br>- Všiml jsem si v jedné cinematic scéně špatně nastavených fontů a opravil jej.</p><p>Rozbalit -&gt; BFME2_Cestina_1.06_v1.2 -&gt; nainstalovat (pokud instalátor najde hru. Pokud ne, nutno zadat cestu, kde je .exe)</p><p><strong>Nová verze 1</strong></p><p>Loklizace obsahuje všechny původní texty od Radka a Jerryho z <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" class=\"text-primary underline\" href=\"http://abcgames.cz\">abcgames.cz</a> + úpravy z mé strany.</p><p>Rozbalit -&gt; BFME2_Cestina_1.06_v1.1 -&gt; nainstalovat (pokud instalátor najde hru. Pokud ne, nutno zadat cestu, kde je .exe)</p></div>",
+      "changelogHtml": "<div><p><span style=\"color: rgb(34, 197, 94)\"><strong>Nová verze 1.09</strong></span></p><p>Kompletní balík pro Verzi <span style=\"color: rgb(34, 197, 94)\">1.09 </span><br>- Stáhnout Anglickou verzi hry <span style=\"color: rgb(34, 197, 94)\">1.06</span> BFME2 -&gt; Aplikovat patch <span style=\"color: rgb(34, 197, 94)\">1.09</span> v Launcheru -&gt; V Launcheru se přepnout na <span style=\"color: rgb(34, 197, 94)\">Workshop</span> a stáhnout <span style=\"color: rgb(34, 197, 94)\">1.09 Singleplayer Addon</span>.<br><span style=\"color: rgb(249, 115, 22)\">Bez Singleplayer Addonu vám nebude fungovat kampaň ani bitva o prsten.</span><br>- Až budete mít <span style=\"color: rgb(34, 197, 94)\">1.09 Singleplayer Addon</span>, klikněte na něj v library, aby se aktivoval a až pak použít lokalizaci pro <span style=\"color: rgb(34, 197, 94)\">1.09</span></p><p></p><p><span style=\"color: rgb(34, 197, 94)\"><strong>verze 1.06</strong></span></p><p>Loklizace obsahuje všechny původní texty od Radka a Jerryho z <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" class=\"text-primary underline\" href=\"http://abcgames.cz\"><strong><u>abcgames.cz</u></strong></a> + úpravy z mé strany.<br>- Všiml jsem si v jedné cinematic scéně špatně nastavených fontů a opravil jej.</p><p>Rozbalit -&gt; BFME2_Cestina_1.06_v1.2 -&gt; nainstalovat (pokud instalátor najde hru. Pokud ne, nutno zadat cestu, kde je .exe)</p><p><strong>Nová verze 1</strong></p><p>Loklizace obsahuje všechny původní texty od Radka a Jerryho z <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" class=\"text-primary underline\" href=\"http://abcgames.cz\">abcgames.cz</a> + úpravy z mé strany.</p><p>Rozbalit -&gt; BFME2_Cestina_1.06_v1.1 -&gt; nainstalovat (pokud instalátor najde hru. Pokud ne, nutno zadat cestu, kde je .exe)</p></div>",
       "authorsHtml": "<p>RetroGameplay_CZ</p>",
       "size": null,
       "inDevelopment": true,
@@ -590,7 +611,7 @@
       "steamAppId": "952060"
     },
     {
-      "title": "Resident Evil 1 - OVERHAUL 3.0 (1996) CZ TITULKY",
+      "title": "Resident Evil 1 (1996) CZ TITULKY",
       "studio": "Lokalizace.net",
       "studioUrl": "https://lokalizace.net/localizations/resident-evil-1996",
       "language": "Čeština",
@@ -604,7 +625,7 @@
       "updatedAt": null,
       "pageUrl": "https://lokalizace.net/localizations/resident-evil-1996",
       "howToInstallHtml": "<p>Stáhněte ZIP soubor a rozbalte ho do složky hry, nebo použijte aplikaci CZManager pro automatickou instalaci češtiny.</p>",
-      "changelogHtml": "<div><p><strong>Nová verze 1.3</strong></p><p>Pridané vylepšenia, nová verzia grafického módu</p></div>",
+      "changelogHtml": "<div><p><strong>Nová verze 1.4</strong></p><p>Teraz sú k dispozícii obidva grafické módy aj nový OVERHAUL aj starý RE:ENHANCE</p></div>",
       "authorsHtml": "<p>PERTIM</p>",
       "size": null,
       "inDevelopment": true,
@@ -3506,7 +3527,7 @@
       "updatedAt": null,
       "pageUrl": "https://lokalizace.net/localizations/subliminal-episode-1",
       "howToInstallHtml": "<p>Stáhněte ZIP soubor a rozbalte ho do složky hry, nebo použijte aplikaci CZManager pro automatickou instalaci češtiny.</p>",
-      "changelogHtml": "<div><p><strong>Nová verze 1.09</strong></p><p><span style=\"font-size: 14px; color: oklch(0.6 0.02 280)\">Čeština pro verzi hry 1.0.9 </span><br><span style=\"font-size: 14px; color: oklch(0.6 0.02 280)\">(Kompatibilní s verzí 1.0.9.1)</span></p><p>Čeština pro verzi hry 1.0.3.5b</p></div>",
+      "changelogHtml": "<div><p><strong>Nová verze 1.09.2</strong></p><p>Čeština pro verzi hry 1.0.9.2</p><p><strong>Nová verze 1.09</strong></p><p><span style=\"font-size: 14px; color: oklch(0.6 0.02 280)\">Čeština pro verzi hry 1.0.9 </span><br><span style=\"font-size: 14px; color: oklch(0.6 0.02 280)\">(Kompatibilní s verzí 1.0.9.1)</span></p><p>Čeština pro verzi hry 1.0.3.5b</p></div>",
       "authorsHtml": "<p>Smile</p>",
       "size": null,
       "inDevelopment": true,
@@ -13627,8 +13648,7 @@
       "authorsHtml": "<p>Lokalizace.Net</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "291650"
+      "mirrors": []
     },
     {
       "title": "Freelancer",
@@ -13670,8 +13690,7 @@
       "authorsHtml": "<p>Starsoul</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "70"
+      "mirrors": []
     },
     {
       "title": "Q.U.B.E. 2",
@@ -13692,8 +13711,7 @@
       "authorsHtml": "<p>siSINka</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "359100"
+      "mirrors": []
     },
     {
       "title": "Kathy Rain + Kathy Rain Director's Cut",
@@ -13714,8 +13732,7 @@
       "authorsHtml": "<p>ADV Dream</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "370910"
+      "mirrors": []
     },
     {
       "title": "Magnetic Cage Closed",
@@ -13825,7 +13842,7 @@
       "size": null,
       "inDevelopment": true,
       "mirrors": [],
-      "steamAppId": "3837340"
+      "steamAppId": "1462040"
     },
     {
       "title": "Hollow Knight",
@@ -13846,8 +13863,7 @@
       "authorsHtml": "<p>MikeCZ</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "367520"
+      "mirrors": []
     },
     {
       "title": "MADiSON",
@@ -13890,8 +13906,7 @@
       "authorsHtml": "<p>Lukyn92</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "1967630"
+      "mirrors": []
     },
     {
       "title": "The Planet Crafter",
@@ -13978,8 +13993,7 @@
       "authorsHtml": "<p>AKPDJ Studio</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "212410"
+      "mirrors": []
     },
     {
       "title": "Stellaris",
@@ -14000,8 +14014,7 @@
       "authorsHtml": "<p>Tomiket</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "281990"
+      "mirrors": []
     },
     {
       "title": "Naval Action",
@@ -14022,8 +14035,7 @@
       "authorsHtml": "<p>Tomiket</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "311310"
+      "mirrors": []
     },
     {
       "title": "The Walking Dead: The Telltale Definitive Series",
@@ -14262,8 +14274,7 @@
       "authorsHtml": "<p>Spyker Tým</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "208730"
+      "mirrors": []
     },
     {
       "title": "Life is Strange: Remastered Collection",
@@ -14285,7 +14296,7 @@
       "size": null,
       "inDevelopment": true,
       "mirrors": [],
-      "steamAppId": "1537870"
+      "steamAppId": "2624870"
     },
     {
       "title": "Life is Strange: True Colors",
@@ -14306,8 +14317,7 @@
       "authorsHtml": "<p>Spyker Tým</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "936790"
+      "mirrors": []
     },
     {
       "title": "Life is Strange 2",
@@ -14328,8 +14338,7 @@
       "authorsHtml": "<p>Spyker Tým</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "532210"
+      "mirrors": []
     },
     {
       "title": "Life is Strange: Před bouří",
@@ -14372,8 +14381,7 @@
       "authorsHtml": "<p>Spyker Tým</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "239030"
+      "mirrors": []
     },
     {
       "title": "Mini Ninjas",
@@ -14394,8 +14402,7 @@
       "authorsHtml": "<p>Spyker Tým</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "35000"
+      "mirrors": []
     },
     {
       "title": "60 Seconds!",
@@ -14416,8 +14423,7 @@
       "authorsHtml": "<p>Spyker Tým</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "368360"
+      "mirrors": []
     },
     {
       "title": "Brothers: A Tale of Two Sons",
@@ -14504,8 +14510,7 @@
       "authorsHtml": "<p>Nowsterova nora</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "622650"
+      "mirrors": []
     },
     {
       "title": "Baldurs Gate 3",
@@ -14570,8 +14575,7 @@
       "authorsHtml": "<p>Lokalizace.Net</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "356190"
+      "mirrors": []
     },
     {
       "title": "Metal Gear Solid V",
@@ -14613,8 +14617,7 @@
       "authorsHtml": "<p>Lokalizace.Net</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "540840"
+      "mirrors": []
     },
     {
       "title": "Spyro: Reignited Trilogy",
@@ -14679,8 +14682,7 @@
       "authorsHtml": "<p>Lokalizace.Net</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "990080"
+      "mirrors": []
     },
     {
       "title": "Dishonored Dead Of The Outsider",
@@ -14723,8 +14725,7 @@
       "authorsHtml": "<p>Lokalizace.Net</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "403640"
+      "mirrors": []
     },
     {
       "title": "NieR: Automata™",
@@ -14745,8 +14746,7 @@
       "authorsHtml": "<p>Lokalizace.Net</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "524220"
+      "mirrors": []
     },
     {
       "title": "Dragon's Dogma: Dark Arisen",
@@ -14789,8 +14789,7 @@
       "authorsHtml": "<p>Lokalizace.Net</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "318600"
+      "mirrors": []
     },
     {
       "title": "State Of Decay",
@@ -14811,8 +14810,7 @@
       "authorsHtml": "<p>Lokalizace.Net</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "241540"
+      "mirrors": []
     },
     {
       "title": "Batman Arkham Knight",
@@ -14898,8 +14896,7 @@
       "authorsHtml": "<p>Lokalizace.Net</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "474960"
+      "mirrors": []
     },
     {
       "title": "Mass Effect Andromeda",
@@ -14986,8 +14983,7 @@
       "authorsHtml": "<p>ADV Dream</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "10240"
+      "mirrors": []
     },
     {
       "title": "Jack Keane 2: The Fire Within",
@@ -15052,8 +15048,7 @@
       "authorsHtml": "<p>ADV Dream</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "358870"
+      "mirrors": []
     },
     {
       "title": "Dead Synchronicity: Tomorrow Comes Today",
@@ -15118,8 +15113,7 @@
       "authorsHtml": "<p>ADV Dream</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "2769570"
+      "mirrors": []
     },
     {
       "title": "Firewatch",
@@ -15161,8 +15155,7 @@
       "authorsHtml": "<p>ADV Dream</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "465280"
+      "mirrors": []
     },
     {
       "title": "Ankh 3: Battle of the Gods",
@@ -15205,8 +15198,7 @@
       "authorsHtml": "<p>ADV Dream</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "403390"
+      "mirrors": []
     },
     {
       "title": "Call of Juarez Gunslinger",
@@ -15227,8 +15219,7 @@
       "authorsHtml": "<p>Lokalizace.Net</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "204450"
+      "mirrors": []
     },
     {
       "title": "Everspace",
@@ -15270,7 +15261,8 @@
       "authorsHtml": "<p>Lokalizace.Net</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": []
+      "mirrors": [],
+      "steamAppId": "606280"
     },
     {
       "title": "Leisure Suit Larry: Wet Dreams Dry Twice",
@@ -15396,8 +15388,7 @@
       "authorsHtml": "<p>ADV Dream</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "345390"
+      "mirrors": []
     },
     {
       "title": "Memoranda",
@@ -15418,8 +15409,7 @@
       "authorsHtml": "<p>ADV Dream</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "430410"
+      "mirrors": []
     },
     {
       "title": "Silence",
@@ -15547,8 +15537,7 @@
       "authorsHtml": "<p>ADV Dream</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "1227530"
+      "mirrors": []
     },
     {
       "title": "1954 Alcatraz",
@@ -15569,7 +15558,8 @@
       "authorsHtml": "<p>ADV Dream</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": []
+      "mirrors": [],
+      "steamAppId": "255280"
     },
     {
       "title": "Moebius: Empire Rising",
@@ -15590,8 +15580,7 @@
       "authorsHtml": "<p>ADV Dream</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "264520"
+      "mirrors": []
     },
     {
       "title": "Sleeping Dogs DE",
@@ -15613,7 +15602,7 @@
       "size": null,
       "inDevelopment": true,
       "mirrors": [],
-      "steamAppId": "215220"
+      "steamAppId": "202170"
     },
     {
       "title": "Evil Within 2",
@@ -15634,8 +15623,7 @@
       "authorsHtml": "<p>Lokalizace.Net</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "601430"
+      "mirrors": []
     },
     {
       "title": "Pharaoh: A New Era",
@@ -15700,8 +15688,7 @@
       "authorsHtml": "<p>Lokalizace.Net</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "960910"
+      "mirrors": []
     },
     {
       "title": "Stray",
@@ -15828,8 +15815,7 @@
       "authorsHtml": "<p>ADV Dream</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "421050"
+      "mirrors": []
     },
     {
       "title": "Goodbye Deponia",
@@ -15893,8 +15879,7 @@
       "authorsHtml": "<p>ADV Dream</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "264320"
+      "mirrors": []
     },
     {
       "title": "The Dark Eye: Chains of Satinav",
@@ -15958,8 +15943,7 @@
       "authorsHtml": "<p>ADV Dream</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "10230"
+      "mirrors": []
     },
     {
       "title": "Alpha Polaris",
@@ -16023,8 +16007,7 @@
       "authorsHtml": "<p>Lokalizace.Net</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "952060"
+      "mirrors": []
     },
     {
       "title": "Wasteland 2 (Directors Cut)",
@@ -16066,7 +16049,8 @@
       "authorsHtml": "<p>Lokalizace.Net</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": []
+      "mirrors": [],
+      "steamAppId": "1146310"
     },
     {
       "title": "The Council",
@@ -16087,8 +16071,7 @@
       "authorsHtml": "<p>Lokalizace.Net</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "287630"
+      "mirrors": []
     },
     {
       "title": "Vampyr",
@@ -16301,8 +16284,7 @@
       "authorsHtml": "<p>ADV Dream</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "34800"
+      "mirrors": []
     },
     {
       "title": "Art of Murder 3: Cards of the Destiny",
@@ -16539,8 +16521,49 @@
       "authorsHtml": "<p>Lokalizace.Net</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "2369390"
+      "mirrors": []
+    },
+    {
+      "title": "Alien Incident",
+      "studio": "Lokalizace.net",
+      "studioUrl": "https://lokalizace.net/localizations/alien-incident",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": null,
+      "updatedAt": null,
+      "pageUrl": "https://lokalizace.net/localizations/alien-incident",
+      "howToInstallHtml": "<p>Stáhněte ZIP soubor a rozbalte ho do složky hry, nebo použijte aplikaci CZManager pro automatickou instalaci češtiny.</p>",
+      "changelogHtml": null,
+      "authorsHtml": "<p>ADV Dream</p>",
+      "size": null,
+      "inDevelopment": true,
+      "mirrors": []
+    },
+    {
+      "title": "The Mystery of Woollley Mountain",
+      "studio": "Lokalizace.net",
+      "studioUrl": "https://lokalizace.net/localizations/the-mystery-of-woollley-mountain",
+      "language": "Čeština",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": null,
+      "updatedAt": null,
+      "pageUrl": "https://lokalizace.net/localizations/the-mystery-of-woollley-mountain",
+      "howToInstallHtml": "<p>Stáhněte ZIP soubor a rozbalte ho do složky hry, nebo použijte aplikaci CZManager pro automatickou instalaci češtiny.</p>",
+      "changelogHtml": null,
+      "authorsHtml": "<p>ADV Dream</p>",
+      "size": null,
+      "inDevelopment": true,
+      "mirrors": []
     },
     {
       "title": "Last Half of Darkness: Society of the Serpent Moon",
@@ -16625,8 +16648,7 @@
       "authorsHtml": "<p>miracle.flame</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "1175830"
+      "mirrors": []
     },
     {
       "title": "Samson",
@@ -16734,7 +16756,8 @@
       "authorsHtml": "<p>PERTIM</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": []
+      "mirrors": [],
+      "steamAppId": "2208350"
     },
     {
       "title": "Stasis",
@@ -16799,7 +16822,8 @@
       "authorsHtml": "<p>PERTIM</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": []
+      "mirrors": [],
+      "steamAppId": "4249140"
     },
     {
       "title": "Dino Crisis (CZ TITULKY)",
@@ -16820,8 +16844,7 @@
       "authorsHtml": "<p>PERTIM</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "4249130"
+      "mirrors": []
     },
     {
       "title": "Final Fantasy II PR",
@@ -16928,7 +16951,8 @@
       "authorsHtml": "<p>Itenko14s Team</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": []
+      "mirrors": [],
+      "steamAppId": "5508340"
     },
     {
       "title": "Silver Pines",
@@ -16949,8 +16973,7 @@
       "authorsHtml": "<p>miracle.flame</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "2333000"
+      "mirrors": []
     },
     {
       "title": "Resident Evil Code Veronica X (2000) CZ TITULKY",
@@ -17013,8 +17036,7 @@
       "authorsHtml": "<p>GamerView Translations</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "5044390"
+      "mirrors": []
     },
     {
       "title": "Borderlands GOTY Enhanced",
@@ -17078,8 +17100,7 @@
       "authorsHtml": "<p>GamerView Translations</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "1712830"
+      "mirrors": []
     },
     {
       "title": "Assassin's Creed II - Titulky & Dabing",
@@ -17163,8 +17184,7 @@
       "authorsHtml": "<p>GamerView Translations</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "2287520"
+      "mirrors": []
     },
     {
       "title": "Crash Bandicoot N. Sane Trilogy",
@@ -17207,7 +17227,8 @@
       "authorsHtml": "<p>GamerView Translations</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": []
+      "mirrors": [],
+      "steamAppId": "332800"
     },
     {
       "title": "Garten of Banban 2",
@@ -17250,8 +17271,7 @@
       "authorsHtml": "<p>Žižkovské Překlady</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "3812600"
+      "mirrors": []
     },
     {
       "title": "Fable (2027)",
@@ -17272,8 +17292,7 @@
       "authorsHtml": "<p>Lokalizace.Net</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "2769570"
+      "mirrors": []
     },
     {
       "title": "METAL GEAR SOLID: Peace Walker - Master Collection Vol.2",
@@ -17315,8 +17334,7 @@
       "authorsHtml": "<p>PERTIM</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "2492670"
+      "mirrors": []
     },
     {
       "title": "Monolith",
@@ -17337,8 +17355,7 @@
       "authorsHtml": "<p>ADV Dream</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "1542390"
+      "mirrors": []
     },
     {
       "title": "Luto",
@@ -17359,8 +17376,7 @@
       "authorsHtml": "<p>Smile</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "1729740"
+      "mirrors": []
     },
     {
       "title": "Bye Sweet Carole",
@@ -17381,8 +17397,7 @@
       "authorsHtml": "<p>Smile</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "2428980"
+      "mirrors": []
     },
     {
       "title": "Five Nights at Freddy's: Secret of the Mimic",
@@ -17447,8 +17462,7 @@
       "authorsHtml": "<p>ADV Dream</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "3209810"
+      "mirrors": []
     },
     {
       "title": "Atomfall",
@@ -17469,8 +17483,7 @@
       "authorsHtml": "<p>Lokalizace.Net</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "801800"
+      "mirrors": []
     },
     {
       "title": "FF7 Rebirth Demo PC & XBOX",
@@ -17512,8 +17525,7 @@
       "authorsHtml": "<p>Žižkovské Překlady</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "3298940"
+      "mirrors": []
     },
     {
       "title": "I Am Future: Cozy Apocalypse Survival",
@@ -17534,8 +17546,7 @@
       "authorsHtml": "<p>HAVELU Translation</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "1658040"
+      "mirrors": []
     },
     {
       "title": "Final Fantasy 16 DEMO PC & XBOX",
@@ -17619,8 +17630,7 @@
       "authorsHtml": "<p>LowFanProject</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "1671210"
+      "mirrors": []
     },
     {
       "title": "Trivia Murder Party 3",
@@ -17641,8 +17651,7 @@
       "authorsHtml": "<p>DarbyCzech</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "3048060"
+      "mirrors": []
     },
     {
       "title": "Final Fantasy XV (PC)",
@@ -17684,8 +17693,7 @@
       "authorsHtml": "<p>Lukyn92</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "1304930"
+      "mirrors": []
     },
     {
       "title": "Emily Is Away",
@@ -17706,8 +17714,7 @@
       "authorsHtml": "<p>Mikošek Dubbing</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "417860"
+      "mirrors": []
     },
     {
       "title": "Deltarune",
@@ -17728,8 +17735,7 @@
       "authorsHtml": "<p>Tým Překladu Deltarune</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "1671210"
+      "mirrors": []
     },
     {
       "title": "Pathfinder - Wrath of the Righteous",
@@ -17814,8 +17820,7 @@
       "authorsHtml": "<p>Spid3rCZ</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "2807150"
+      "mirrors": []
     },
     {
       "title": "Final Fantasy XVI",
@@ -17836,8 +17841,7 @@
       "authorsHtml": "<p>Nehbet 2022</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "2515020"
+      "mirrors": []
     },
     {
       "title": "The coffin of Andy and Renee",
@@ -17858,8 +17862,7 @@
       "authorsHtml": "<p>Take of 🚀</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "546080"
+      "mirrors": []
     },
     {
       "title": "Warhammer 40K: Rogue Trader",
@@ -17922,8 +17925,7 @@
       "authorsHtml": "<p>PrekladyWoytman</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "949230"
+      "mirrors": []
     },
     {
       "title": "Star Trek: Resurgence",
@@ -17966,8 +17968,7 @@
       "authorsHtml": "<p>Nehbet 2022</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "1608070"
+      "mirrors": []
     },
     {
       "title": "Final Fantasy VII Rebirth",
@@ -17988,8 +17989,7 @@
       "authorsHtml": "<p>Nehbet 2022</p>",
       "size": null,
       "inDevelopment": true,
-      "mirrors": [],
-      "steamAppId": "2909400"
+      "mirrors": []
     }
   ]
 }
