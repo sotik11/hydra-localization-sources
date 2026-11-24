@@ -324,9 +324,9 @@
       "steamAppId": "1547000"
     },
     {
-      "title": "Mafia 2",
+      "title": "Grand Theft Auto 4",
       "studio": "Türkçe Yama",
-      "studioUrl": "https://turkce-yama.com/mafia-2-turkce-yama.htm",
+      "studioUrl": "https://turkce-yama.com/grand-theft-auto-4-turkce-yama.htm",
       "language": "Türkçe",
       "hasText": true,
       "hasVoice": false,
@@ -336,19 +336,19 @@
       "hasNeuralText": false,
       "version": null,
       "updatedAt": "21.04.2014",
-      "pageUrl": "https://turkce-yama.com/mafia-2-turkce-yama.htm",
+      "pageUrl": "https://turkce-yama.com/grand-theft-auto-4-turkce-yama.htm",
       "howToInstallHtml": "<ol><li>Yama dosyasını yukarıdaki «İndir» butonuyla indirin.</li><li>Kurulum dosyasıysa (.exe) çalıştırın; arşivse (.rar/.zip) çıkartın.</li><li>Oyunun kurulu olduğu klasörü gösterin / dosyaları oraya kopyalayın.</li><li>Oyunu başlatın — Türkçe yama uygulanmış olacaktır.</li></ol>",
-      "authorsHtml": "<p>OyunÇeviri ve BSC</p>",
-      "size": "21.9 MB",
+      "authorsHtml": "<p>Ensar BAŞLANTI ve Oğuz Gürsel</p>",
+      "size": "1.35 MB",
       "inDevelopment": false,
       "mirrors": [
         {
           "label": "Türkçe Yama",
-          "url": "https://turkce-yama.com/mafia-2-turkce-yama.htm",
+          "url": "https://turkce-yama.com/grand-theft-auto-4-turkce-yama.htm",
           "kind": "other"
         }
       ],
-      "steamAppId": "50130"
+      "steamAppId": "12210"
     },
     {
       "title": "Call of Duty: Modern Warfare 2",
@@ -378,9 +378,9 @@
       "steamAppId": "3595230"
     },
     {
-      "title": "Far Cry 5",
+      "title": "Grand Theft Auto: Vice City",
       "studio": "Türkçe Yama",
-      "studioUrl": "https://turkce-yama.com/farcry-5-turkce-yama.htm",
+      "studioUrl": "https://turkce-yama.com/grand-theft-auto-vice-city-turkce-yama.htm",
       "language": "Türkçe",
       "hasText": true,
       "hasVoice": false,
@@ -389,20 +389,74 @@
       "hasNeuralDub": false,
       "hasNeuralText": false,
       "version": null,
-      "updatedAt": "11.04.2020",
-      "pageUrl": "https://turkce-yama.com/farcry-5-turkce-yama.htm",
+      "updatedAt": "21.04.2014",
+      "pageUrl": "https://turkce-yama.com/grand-theft-auto-vice-city-turkce-yama.htm",
       "howToInstallHtml": "<ol><li>Yama dosyasını yukarıdaki «İndir» butonuyla indirin.</li><li>Kurulum dosyasıysa (.exe) çalıştırın; arşivse (.rar/.zip) çıkartın.</li><li>Oyunun kurulu olduğu klasörü gösterin / dosyaları oraya kopyalayın.</li><li>Oyunu başlatın — Türkçe yama uygulanmış olacaktır.</li></ol>",
       "authorsHtml": null,
-      "size": "4.73 MB",
+      "size": "586 KB",
       "inDevelopment": false,
       "mirrors": [
         {
           "label": "Türkçe Yama",
-          "url": "https://turkce-yama.com/farcry-5-turkce-yama.htm",
+          "url": "https://turkce-yama.com/grand-theft-auto-vice-city-turkce-yama.htm",
           "kind": "other"
         }
       ],
-      "steamAppId": "552520"
+      "steamAppId": "1546990"
+    },
+    {
+      "title": "Assassin's Creed Valhalla",
+      "studio": "Türkçe Yama",
+      "studioUrl": "https://turkce-yama.com/assassins-creed-valhalla-turkce-yama.htm",
+      "language": "Türkçe",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": null,
+      "updatedAt": "15.03.2026",
+      "pageUrl": "https://turkce-yama.com/assassins-creed-valhalla-turkce-yama.htm",
+      "howToInstallHtml": "<ol><li>Yama dosyasını yukarıdaki «İndir» butonuyla indirin.</li><li>Kurulum dosyasıysa (.exe) çalıştırın; arşivse (.rar/.zip) çıkartın.</li><li>Oyunun kurulu olduğu klasörü gösterin / dosyaları oraya kopyalayın.</li><li>Oyunu başlatın — Türkçe yama uygulanmış olacaktır.</li></ol>",
+      "authorsHtml": "<p>Animus Projesi</p>",
+      "size": "19.3 MB",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Türkçe Yama",
+          "url": "https://turkce-yama.com/assassins-creed-valhalla-turkce-yama.htm",
+          "kind": "other"
+        }
+      ],
+      "steamAppId": "2208920"
+    },
+    {
+      "title": "Mafia 2",
+      "studio": "Türkçe Yama",
+      "studioUrl": "https://turkce-yama.com/mafia-2-turkce-yama.htm",
+      "language": "Türkçe",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": null,
+      "updatedAt": "21.04.2014",
+      "pageUrl": "https://turkce-yama.com/mafia-2-turkce-yama.htm",
+      "howToInstallHtml": "<ol><li>Yama dosyasını yukarıdaki «İndir» butonuyla indirin.</li><li>Kurulum dosyasıysa (.exe) çalıştırın; arşivse (.rar/.zip) çıkartın.</li><li>Oyunun kurulu olduğu klasörü gösterin / dosyaları oraya kopyalayın.</li><li>Oyunu başlatın — Türkçe yama uygulanmış olacaktır.</li></ol>",
+      "authorsHtml": "<p>OyunÇeviri ve BSC</p>",
+      "size": "21.9 MB",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Türkçe Yama",
+          "url": "https://turkce-yama.com/mafia-2-turkce-yama.htm",
+          "kind": "other"
+        }
+      ],
+      "steamAppId": "50130"
     },
     {
       "title": "Need For Speed: Most Wanted",
@@ -432,9 +486,9 @@
       "steamAppId": "1262560"
     },
     {
-      "title": "Metro 2033 Redux",
+      "title": "Pro Evolution Soccer 2013",
       "studio": "Türkçe Yama",
-      "studioUrl": "https://turkce-yama.com/metro-2033-redux-turkce-yama.htm",
+      "studioUrl": "https://turkce-yama.com/pro-evolution-soccer-2013-turkce-yama.htm",
       "language": "Türkçe",
       "hasText": true,
       "hasVoice": false,
@@ -443,73 +497,20 @@
       "hasNeuralDub": false,
       "hasNeuralText": false,
       "version": null,
-      "updatedAt": "01.01.2019",
-      "pageUrl": "https://turkce-yama.com/metro-2033-redux-turkce-yama.htm",
+      "updatedAt": "21.04.2014",
+      "pageUrl": "https://turkce-yama.com/pro-evolution-soccer-2013-turkce-yama.htm",
       "howToInstallHtml": "<ol><li>Yama dosyasını yukarıdaki «İndir» butonuyla indirin.</li><li>Kurulum dosyasıysa (.exe) çalıştırın; arşivse (.rar/.zip) çıkartın.</li><li>Oyunun kurulu olduğu klasörü gösterin / dosyaları oraya kopyalayın.</li><li>Oyunu başlatın — Türkçe yama uygulanmış olacaktır.</li></ol>",
-      "authorsHtml": null,
-      "size": "5.08 MB",
+      "authorsHtml": "<p>Konami</p>",
+      "size": "36.1 MB",
       "inDevelopment": false,
       "mirrors": [
         {
           "label": "Türkçe Yama",
-          "url": "https://turkce-yama.com/metro-2033-redux-turkce-yama.htm",
+          "url": "https://turkce-yama.com/pro-evolution-soccer-2013-turkce-yama.htm",
           "kind": "other"
         }
       ],
-      "steamAppId": "286690"
-    },
-    {
-      "title": "Call of Duty: Modern Warfare 3",
-      "studio": "Türkçe Yama",
-      "studioUrl": "https://turkce-yama.com/call-of-duty-modern-warfare-3-turkce-yama.htm",
-      "language": "Türkçe",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": null,
-      "updatedAt": "25.04.2014",
-      "pageUrl": "https://turkce-yama.com/call-of-duty-modern-warfare-3-turkce-yama.htm",
-      "howToInstallHtml": "<ol><li>Yama dosyasını yukarıdaki «İndir» butonuyla indirin.</li><li>Kurulum dosyasıysa (.exe) çalıştırın; arşivse (.rar/.zip) çıkartın.</li><li>Oyunun kurulu olduğu klasörü gösterin / dosyaları oraya kopyalayın.</li><li>Oyunu başlatın — Türkçe yama uygulanmış olacaktır.</li></ol>",
-      "authorsHtml": null,
-      "size": "2.20 GB",
-      "inDevelopment": false,
-      "mirrors": [
-        {
-          "label": "Türkçe Yama",
-          "url": "https://turkce-yama.com/call-of-duty-modern-warfare-3-turkce-yama.htm",
-          "kind": "other"
-        }
-      ],
-      "steamAppId": "3595270"
-    },
-    {
-      "title": "Need for Speed: Underground 2",
-      "studio": "Türkçe Yama",
-      "studioUrl": "https://turkce-yama.com/need-for-speed-underground-2-turkce-yama.htm",
-      "language": "Türkçe",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": null,
-      "updatedAt": "25.04.2014",
-      "pageUrl": "https://turkce-yama.com/need-for-speed-underground-2-turkce-yama.htm",
-      "howToInstallHtml": "<ol><li>Yama dosyasını yukarıdaki «İndir» butonuyla indirin.</li><li>Kurulum dosyasıysa (.exe) çalıştırın; arşivse (.rar/.zip) çıkartın.</li><li>Oyunun kurulu olduğu klasörü gösterin / dosyaları oraya kopyalayın.</li><li>Oyunu başlatın — Türkçe yama uygulanmış olacaktır.</li></ol>",
-      "authorsHtml": null,
-      "size": "117.4 MB",
-      "inDevelopment": false,
-      "mirrors": [
-        {
-          "label": "Türkçe Yama",
-          "url": "https://turkce-yama.com/need-for-speed-underground-2-turkce-yama.htm",
-          "kind": "other"
-        }
-      ]
+      "steamAppId": "221430"
     },
     {
       "title": "Far Cry 3",
@@ -537,33 +538,6 @@
         }
       ],
       "steamAppId": "220240"
-    },
-    {
-      "title": "Pro Evolution Soccer 2013",
-      "studio": "Türkçe Yama",
-      "studioUrl": "https://turkce-yama.com/pro-evolution-soccer-2013-turkce-yama.htm",
-      "language": "Türkçe",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": null,
-      "updatedAt": "21.04.2014",
-      "pageUrl": "https://turkce-yama.com/pro-evolution-soccer-2013-turkce-yama.htm",
-      "howToInstallHtml": "<ol><li>Yama dosyasını yukarıdaki «İndir» butonuyla indirin.</li><li>Kurulum dosyasıysa (.exe) çalıştırın; arşivse (.rar/.zip) çıkartın.</li><li>Oyunun kurulu olduğu klasörü gösterin / dosyaları oraya kopyalayın.</li><li>Oyunu başlatın — Türkçe yama uygulanmış olacaktır.</li></ol>",
-      "authorsHtml": "<p>Konami</p>",
-      "size": "36.1 MB",
-      "inDevelopment": false,
-      "mirrors": [
-        {
-          "label": "Türkçe Yama",
-          "url": "https://turkce-yama.com/pro-evolution-soccer-2013-turkce-yama.htm",
-          "kind": "other"
-        }
-      ],
-      "steamAppId": "221430"
     },
     {
       "title": "The Witcher 3: Wild Hunt",
@@ -672,6 +646,33 @@
         }
       ],
       "steamAppId": "371660"
+    },
+    {
+      "title": "Far Cry 5",
+      "studio": "Türkçe Yama",
+      "studioUrl": "https://turkce-yama.com/farcry-5-turkce-yama.htm",
+      "language": "Türkçe",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": null,
+      "updatedAt": "11.04.2020",
+      "pageUrl": "https://turkce-yama.com/farcry-5-turkce-yama.htm",
+      "howToInstallHtml": "<ol><li>Yama dosyasını yukarıdaki «İndir» butonuyla indirin.</li><li>Kurulum dosyasıysa (.exe) çalıştırın; arşivse (.rar/.zip) çıkartın.</li><li>Oyunun kurulu olduğu klasörü gösterin / dosyaları oraya kopyalayın.</li><li>Oyunu başlatın — Türkçe yama uygulanmış olacaktır.</li></ol>",
+      "authorsHtml": null,
+      "size": "4.73 MB",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Türkçe Yama",
+          "url": "https://turkce-yama.com/farcry-5-turkce-yama.htm",
+          "kind": "other"
+        }
+      ],
+      "steamAppId": "552520"
     },
     {
       "title": "Outlast 2",
@@ -886,6 +887,33 @@
         }
       ],
       "steamAppId": "812140"
+    },
+    {
+      "title": "Assassin's Creed Origins",
+      "studio": "Türkçe Yama",
+      "studioUrl": "https://turkce-yama.com/assassins-creed-origins-turkce-yama.htm",
+      "language": "Türkçe",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": null,
+      "updatedAt": "15.03.2026",
+      "pageUrl": "https://turkce-yama.com/assassins-creed-origins-turkce-yama.htm",
+      "howToInstallHtml": "<ol><li>Yama dosyasını yukarıdaki «İndir» butonuyla indirin.</li><li>Kurulum dosyasıysa (.exe) çalıştırın; arşivse (.rar/.zip) çıkartın.</li><li>Oyunun kurulu olduğu klasörü gösterin / dosyaları oraya kopyalayın.</li><li>Oyunu başlatın — Türkçe yama uygulanmış olacaktır.</li></ol>",
+      "authorsHtml": "<p>Animus Projesi</p>",
+      "size": "1.04 GB",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Türkçe Yama",
+          "url": "https://turkce-yama.com/assassins-creed-origins-turkce-yama.htm",
+          "kind": "other"
+        }
+      ],
+      "steamAppId": "582160"
     },
     {
       "title": "Assassin's Creed III Remastered",
@@ -2610,6 +2638,33 @@
       "steamAppId": "384190"
     },
     {
+      "title": "Terminator: Resistance",
+      "studio": "Türkçe Yama",
+      "studioUrl": "https://turkce-yama.com/terminator-resistance-turkce-yama.htm",
+      "language": "Türkçe",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": null,
+      "updatedAt": "28.11.2020",
+      "pageUrl": "https://turkce-yama.com/terminator-resistance-turkce-yama.htm",
+      "howToInstallHtml": "<ol><li>Yama dosyasını yukarıdaki «İndir» butonuyla indirin.</li><li>Kurulum dosyasıysa (.exe) çalıştırın; arşivse (.rar/.zip) çıkartın.</li><li>Oyunun kurulu olduğu klasörü gösterin / dosyaları oraya kopyalayın.</li><li>Oyunu başlatın — Türkçe yama uygulanmış olacaktır.</li></ol>",
+      "authorsHtml": null,
+      "size": "1.15 MB",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Türkçe Yama",
+          "url": "https://turkce-yama.com/terminator-resistance-turkce-yama.htm",
+          "kind": "other"
+        }
+      ],
+      "steamAppId": "954740"
+    },
+    {
       "title": "Batman: The Enemy Within",
       "studio": "Türkçe Yama",
       "studioUrl": "https://turkce-yama.com/batman-the-enemy-within-turkce-yama.htm",
@@ -3928,6 +3983,33 @@
         }
       ],
       "steamAppId": "211740"
+    },
+    {
+      "title": "Styx: Master of Shadows",
+      "studio": "Türkçe Yama",
+      "studioUrl": "https://turkce-yama.com/styx-master-of-shadows-turkce-yama.htm",
+      "language": "Türkçe",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": null,
+      "updatedAt": "19.03.2019",
+      "pageUrl": "https://turkce-yama.com/styx-master-of-shadows-turkce-yama.htm",
+      "howToInstallHtml": "<ol><li>Yama dosyasını yukarıdaki «İndir» butonuyla indirin.</li><li>Kurulum dosyasıysa (.exe) çalıştırın; arşivse (.rar/.zip) çıkartın.</li><li>Oyunun kurulu olduğu klasörü gösterin / dosyaları oraya kopyalayın.</li><li>Oyunu başlatın — Türkçe yama uygulanmış olacaktır.</li></ol>",
+      "authorsHtml": null,
+      "size": "300 KB",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Türkçe Yama",
+          "url": "https://turkce-yama.com/styx-master-of-shadows-turkce-yama.htm",
+          "kind": "other"
+        }
+      ],
+      "steamAppId": "242640"
     },
     {
       "title": "State of Decay: YOSE",
@@ -6021,6 +6103,33 @@
         }
       ],
       "steamAppId": "287390"
+    },
+    {
+      "title": "Metro 2033 Redux",
+      "studio": "Türkçe Yama",
+      "studioUrl": "https://turkce-yama.com/metro-2033-redux-turkce-yama.htm",
+      "language": "Türkçe",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": null,
+      "updatedAt": "01.01.2019",
+      "pageUrl": "https://turkce-yama.com/metro-2033-redux-turkce-yama.htm",
+      "howToInstallHtml": "<ol><li>Yama dosyasını yukarıdaki «İndir» butonuyla indirin.</li><li>Kurulum dosyasıysa (.exe) çalıştırın; arşivse (.rar/.zip) çıkartın.</li><li>Oyunun kurulu olduğu klasörü gösterin / dosyaları oraya kopyalayın.</li><li>Oyunu başlatın — Türkçe yama uygulanmış olacaktır.</li></ol>",
+      "authorsHtml": null,
+      "size": "5.08 MB",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Türkçe Yama",
+          "url": "https://turkce-yama.com/metro-2033-redux-turkce-yama.htm",
+          "kind": "other"
+        }
+      ],
+      "steamAppId": "286690"
     },
     {
       "title": "Knight Rider: The Game",
@@ -11166,6 +11275,273 @@
       ]
     },
     {
+      "title": "The Sims 3",
+      "studio": "Türkçe Yama",
+      "studioUrl": "https://turkce-yama.com/the-sims-3-turkce-yama.htm",
+      "language": "Türkçe",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": null,
+      "updatedAt": "26.04.2014",
+      "pageUrl": "https://turkce-yama.com/the-sims-3-turkce-yama.htm",
+      "howToInstallHtml": "<ol><li>Yama dosyasını yukarıdaki «İndir» butonuyla indirin.</li><li>Kurulum dosyasıysa (.exe) çalıştırın; arşivse (.rar/.zip) çıkartın.</li><li>Oyunun kurulu olduğu klasörü gösterin / dosyaları oraya kopyalayın.</li><li>Oyunu başlatın — Türkçe yama uygulanmış olacaktır.</li></ol>",
+      "authorsHtml": "<p>Görkem Çetin</p>",
+      "size": "1.83 MB",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Türkçe Yama",
+          "url": "https://turkce-yama.com/the-sims-3-turkce-yama.htm",
+          "kind": "other"
+        }
+      ],
+      "steamAppId": "47890"
+    },
+    {
+      "title": "Risen",
+      "studio": "Türkçe Yama",
+      "studioUrl": "https://turkce-yama.com/risen-turkce-yama.htm",
+      "language": "Türkçe",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": null,
+      "updatedAt": "25.04.2014",
+      "pageUrl": "https://turkce-yama.com/risen-turkce-yama.htm",
+      "howToInstallHtml": "<ol><li>Yama dosyasını yukarıdaki «İndir» butonuyla indirin.</li><li>Kurulum dosyasıysa (.exe) çalıştırın; arşivse (.rar/.zip) çıkartın.</li><li>Oyunun kurulu olduğu klasörü gösterin / dosyaları oraya kopyalayın.</li><li>Oyunu başlatın — Türkçe yama uygulanmış olacaktır.</li></ol>",
+      "authorsHtml": null,
+      "size": "5.11 MB",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Türkçe Yama",
+          "url": "https://turkce-yama.com/risen-turkce-yama.htm",
+          "kind": "other"
+        }
+      ],
+      "steamAppId": "40300"
+    },
+    {
+      "title": "Red Orchestra 2: Heroes of Stalingrad",
+      "studio": "Türkçe Yama",
+      "studioUrl": "https://turkce-yama.com/red-orchestra-2-heroes-of-stalingrad-turkce-yama.htm",
+      "language": "Türkçe",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": null,
+      "updatedAt": "25.04.2014",
+      "pageUrl": "https://turkce-yama.com/red-orchestra-2-heroes-of-stalingrad-turkce-yama.htm",
+      "howToInstallHtml": "<ol><li>Yama dosyasını yukarıdaki «İndir» butonuyla indirin.</li><li>Kurulum dosyasıysa (.exe) çalıştırın; arşivse (.rar/.zip) çıkartın.</li><li>Oyunun kurulu olduğu klasörü gösterin / dosyaları oraya kopyalayın.</li><li>Oyunu başlatın — Türkçe yama uygulanmış olacaktır.</li></ol>",
+      "authorsHtml": null,
+      "size": "181 KB",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Türkçe Yama",
+          "url": "https://turkce-yama.com/red-orchestra-2-heroes-of-stalingrad-turkce-yama.htm",
+          "kind": "other"
+        }
+      ],
+      "steamAppId": "35450"
+    },
+    {
+      "title": "Mass Effect 2: Lair of the Shadow Broker",
+      "studio": "Türkçe Yama",
+      "studioUrl": "https://turkce-yama.com/mass-effect-2-lair-of-the-shadow-broker-turkce-yama.htm",
+      "language": "Türkçe",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": null,
+      "updatedAt": "25.04.2014",
+      "pageUrl": "https://turkce-yama.com/mass-effect-2-lair-of-the-shadow-broker-turkce-yama.htm",
+      "howToInstallHtml": "<ol><li>Yama dosyasını yukarıdaki «İndir» butonuyla indirin.</li><li>Kurulum dosyasıysa (.exe) çalıştırın; arşivse (.rar/.zip) çıkartın.</li><li>Oyunun kurulu olduğu klasörü gösterin / dosyaları oraya kopyalayın.</li><li>Oyunu başlatın — Türkçe yama uygulanmış olacaktır.</li></ol>",
+      "authorsHtml": null,
+      "size": "519 KB",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Türkçe Yama",
+          "url": "https://turkce-yama.com/mass-effect-2-lair-of-the-shadow-broker-turkce-yama.htm",
+          "kind": "other"
+        }
+      ]
+    },
+    {
+      "title": "Mass Effect 2: Zaeed The Price of Revenge",
+      "studio": "Türkçe Yama",
+      "studioUrl": "https://turkce-yama.com/mass-effect-2-zaeed-the-price-of-revenge-turkce-yama.htm",
+      "language": "Türkçe",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": null,
+      "updatedAt": "25.04.2014",
+      "pageUrl": "https://turkce-yama.com/mass-effect-2-zaeed-the-price-of-revenge-turkce-yama.htm",
+      "howToInstallHtml": "<ol><li>Yama dosyasını yukarıdaki «İndir» butonuyla indirin.</li><li>Kurulum dosyasıysa (.exe) çalıştırın; arşivse (.rar/.zip) çıkartın.</li><li>Oyunun kurulu olduğu klasörü gösterin / dosyaları oraya kopyalayın.</li><li>Oyunu başlatın — Türkçe yama uygulanmış olacaktır.</li></ol>",
+      "authorsHtml": null,
+      "size": "2.02 MB",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Türkçe Yama",
+          "url": "https://turkce-yama.com/mass-effect-2-zaeed-the-price-of-revenge-turkce-yama.htm",
+          "kind": "other"
+        }
+      ]
+    },
+    {
+      "title": "Max Payne",
+      "studio": "Türkçe Yama",
+      "studioUrl": "https://turkce-yama.com/max-payne-turkce-yama.htm",
+      "language": "Türkçe",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": null,
+      "updatedAt": "25.04.2014",
+      "pageUrl": "https://turkce-yama.com/max-payne-turkce-yama.htm",
+      "howToInstallHtml": "<ol><li>Yama dosyasını yukarıdaki «İndir» butonuyla indirin.</li><li>Kurulum dosyasıysa (.exe) çalıştırın; arşivse (.rar/.zip) çıkartın.</li><li>Oyunun kurulu olduğu klasörü gösterin / dosyaları oraya kopyalayın.</li><li>Oyunu başlatın — Türkçe yama uygulanmış olacaktır.</li></ol>",
+      "authorsHtml": null,
+      "size": "47.4 MB",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Türkçe Yama",
+          "url": "https://turkce-yama.com/max-payne-turkce-yama.htm",
+          "kind": "other"
+        }
+      ]
+    },
+    {
+      "title": "Max Payne 3",
+      "studio": "Türkçe Yama",
+      "studioUrl": "https://turkce-yama.com/max-payne-3-turkce-yama.htm",
+      "language": "Türkçe",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": null,
+      "updatedAt": "25.04.2014",
+      "pageUrl": "https://turkce-yama.com/max-payne-3-turkce-yama.htm",
+      "howToInstallHtml": "<ol><li>Yama dosyasını yukarıdaki «İndir» butonuyla indirin.</li><li>Kurulum dosyasıysa (.exe) çalıştırın; arşivse (.rar/.zip) çıkartın.</li><li>Oyunun kurulu olduğu klasörü gösterin / dosyaları oraya kopyalayın.</li><li>Oyunu başlatın — Türkçe yama uygulanmış olacaktır.</li></ol>",
+      "authorsHtml": null,
+      "size": "46.1 MB",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Türkçe Yama",
+          "url": "https://turkce-yama.com/max-payne-3-turkce-yama.htm",
+          "kind": "other"
+        }
+      ],
+      "steamAppId": "204100"
+    },
+    {
+      "title": "Medal Of Honor",
+      "studio": "Türkçe Yama",
+      "studioUrl": "https://turkce-yama.com/medal-of-honor-turkce-yama.htm",
+      "language": "Türkçe",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": null,
+      "updatedAt": "25.04.2014",
+      "pageUrl": "https://turkce-yama.com/medal-of-honor-turkce-yama.htm",
+      "howToInstallHtml": "<ol><li>Yama dosyasını yukarıdaki «İndir» butonuyla indirin.</li><li>Kurulum dosyasıysa (.exe) çalıştırın; arşivse (.rar/.zip) çıkartın.</li><li>Oyunun kurulu olduğu klasörü gösterin / dosyaları oraya kopyalayın.</li><li>Oyunu başlatın — Türkçe yama uygulanmış olacaktır.</li></ol>",
+      "authorsHtml": null,
+      "size": "2.56 MB",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Türkçe Yama",
+          "url": "https://turkce-yama.com/medal-of-honor-turkce-yama.htm",
+          "kind": "other"
+        }
+      ],
+      "steamAppId": "47790"
+    },
+    {
+      "title": "Metro 2033",
+      "studio": "Türkçe Yama",
+      "studioUrl": "https://turkce-yama.com/metro-2033-turkce-yama.htm",
+      "language": "Türkçe",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": null,
+      "updatedAt": "25.04.2014",
+      "pageUrl": "https://turkce-yama.com/metro-2033-turkce-yama.htm",
+      "howToInstallHtml": "<ol><li>Yama dosyasını yukarıdaki «İndir» butonuyla indirin.</li><li>Kurulum dosyasıysa (.exe) çalıştırın; arşivse (.rar/.zip) çıkartın.</li><li>Oyunun kurulu olduğu klasörü gösterin / dosyaları oraya kopyalayın.</li><li>Oyunu başlatın — Türkçe yama uygulanmış olacaktır.</li></ol>",
+      "authorsHtml": null,
+      "size": "22.4 MB",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Türkçe Yama",
+          "url": "https://turkce-yama.com/metro-2033-turkce-yama.htm",
+          "kind": "other"
+        }
+      ],
+      "steamAppId": "43110"
+    },
+    {
+      "title": "Mafia",
+      "studio": "Türkçe Yama",
+      "studioUrl": "https://turkce-yama.com/mafia-turkce-yama.htm",
+      "language": "Türkçe",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": null,
+      "updatedAt": "25.04.2014",
+      "pageUrl": "https://turkce-yama.com/mafia-turkce-yama.htm",
+      "howToInstallHtml": "<ol><li>Yama dosyasını yukarıdaki «İndir» butonuyla indirin.</li><li>Kurulum dosyasıysa (.exe) çalıştırın; arşivse (.rar/.zip) çıkartın.</li><li>Oyunun kurulu olduğu klasörü gösterin / dosyaları oraya kopyalayın.</li><li>Oyunu başlatın — Türkçe yama uygulanmış olacaktır.</li></ol>",
+      "authorsHtml": "<p>gameportaltr</p>",
+      "size": "14.0 MB",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Türkçe Yama",
+          "url": "https://turkce-yama.com/mafia-turkce-yama.htm",
+          "kind": "other"
+        }
+      ],
+      "steamAppId": "40990"
+    },
+    {
       "title": "Mark of the Ninja",
       "studio": "Türkçe Yama",
       "studioUrl": "https://turkce-yama.com/mark-of-the-ninja-turkce-yama.htm",
@@ -11435,6 +11811,33 @@
       "steamAppId": "1883570"
     },
     {
+      "title": "Need for Speed: Shift",
+      "studio": "Türkçe Yama",
+      "studioUrl": "https://turkce-yama.com/need-for-speed-shift-turkce-yama.htm",
+      "language": "Türkçe",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": null,
+      "updatedAt": "25.04.2014",
+      "pageUrl": "https://turkce-yama.com/need-for-speed-shift-turkce-yama.htm",
+      "howToInstallHtml": "<ol><li>Yama dosyasını yukarıdaki «İndir» butonuyla indirin.</li><li>Kurulum dosyasıysa (.exe) çalıştırın; arşivse (.rar/.zip) çıkartın.</li><li>Oyunun kurulu olduğu klasörü gösterin / dosyaları oraya kopyalayın.</li><li>Oyunu başlatın — Türkçe yama uygulanmış olacaktır.</li></ol>",
+      "authorsHtml": "<p>nForcer ve dieAR</p>",
+      "size": "3.00 MB",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Türkçe Yama",
+          "url": "https://turkce-yama.com/need-for-speed-shift-turkce-yama.htm",
+          "kind": "other"
+        }
+      ],
+      "steamAppId": "1262540"
+    },
+    {
       "title": "S.T.A.L.K.E.R.: Shadow of Chernobyl",
       "studio": "Türkçe Yama",
       "studioUrl": "https://turkce-yama.com/s-t-a-l-k-e-r-shadow-of-chernobyl-turkce-yama.htm",
@@ -11675,6 +12078,32 @@
       "steamAppId": "1262540"
     },
     {
+      "title": "Need for Speed: Underground 2",
+      "studio": "Türkçe Yama",
+      "studioUrl": "https://turkce-yama.com/need-for-speed-underground-2-turkce-yama.htm",
+      "language": "Türkçe",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": null,
+      "updatedAt": "25.04.2014",
+      "pageUrl": "https://turkce-yama.com/need-for-speed-underground-2-turkce-yama.htm",
+      "howToInstallHtml": "<ol><li>Yama dosyasını yukarıdaki «İndir» butonuyla indirin.</li><li>Kurulum dosyasıysa (.exe) çalıştırın; arşivse (.rar/.zip) çıkartın.</li><li>Oyunun kurulu olduğu klasörü gösterin / dosyaları oraya kopyalayın.</li><li>Oyunu başlatın — Türkçe yama uygulanmış olacaktır.</li></ol>",
+      "authorsHtml": null,
+      "size": "117.4 MB",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Türkçe Yama",
+          "url": "https://turkce-yama.com/need-for-speed-underground-2-turkce-yama.htm",
+          "kind": "other"
+        }
+      ]
+    },
+    {
       "title": "Oddworld: Abe's Oddysee",
       "studio": "Türkçe Yama",
       "studioUrl": "https://turkce-yama.com/oddworld-abes-oddysee-turkce-yama.htm",
@@ -11727,6 +12156,33 @@
         }
       ],
       "steamAppId": "271500"
+    },
+    {
+      "title": "Portal 2",
+      "studio": "Türkçe Yama",
+      "studioUrl": "https://turkce-yama.com/portal-2-turkce-yama.htm",
+      "language": "Türkçe",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": null,
+      "updatedAt": "25.04.2014",
+      "pageUrl": "https://turkce-yama.com/portal-2-turkce-yama.htm",
+      "howToInstallHtml": "<ol><li>Yama dosyasını yukarıdaki «İndir» butonuyla indirin.</li><li>Kurulum dosyasıysa (.exe) çalıştırın; arşivse (.rar/.zip) çıkartın.</li><li>Oyunun kurulu olduğu klasörü gösterin / dosyaları oraya kopyalayın.</li><li>Oyunu başlatın — Türkçe yama uygulanmış olacaktır.</li></ol>",
+      "authorsHtml": "<p>Valve</p>",
+      "size": "6.31 MB",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Türkçe Yama",
+          "url": "https://turkce-yama.com/portal-2-turkce-yama.htm",
+          "kind": "other"
+        }
+      ],
+      "steamAppId": "620"
     },
     {
       "title": "Tom Clancy's Splinter Cell: Pandora Tomorrow",
@@ -12096,6 +12552,32 @@
         {
           "label": "Türkçe Yama",
           "url": "https://turkce-yama.com/the-walking-dead-episode-4-around-every-corner-turkce-yama.htm",
+          "kind": "other"
+        }
+      ]
+    },
+    {
+      "title": "Police Force",
+      "studio": "Türkçe Yama",
+      "studioUrl": "https://turkce-yama.com/police-force-turkce-yama.htm",
+      "language": "Türkçe",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": null,
+      "updatedAt": "25.04.2014",
+      "pageUrl": "https://turkce-yama.com/police-force-turkce-yama.htm",
+      "howToInstallHtml": "<ol><li>Yama dosyasını yukarıdaki «İndir» butonuyla indirin.</li><li>Kurulum dosyasıysa (.exe) çalıştırın; arşivse (.rar/.zip) çıkartın.</li><li>Oyunun kurulu olduğu klasörü gösterin / dosyaları oraya kopyalayın.</li><li>Oyunu başlatın — Türkçe yama uygulanmış olacaktır.</li></ol>",
+      "authorsHtml": "<p>Berkcan AYTAÇ</p>",
+      "size": "117 KB",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Türkçe Yama",
+          "url": "https://turkce-yama.com/police-force-turkce-yama.htm",
           "kind": "other"
         }
       ]
@@ -13188,6 +13670,33 @@
       "steamAppId": "224060"
     },
     {
+      "title": "Tom Clancy’s Ghost Recon: Future Soldier",
+      "studio": "Türkçe Yama",
+      "studioUrl": "https://turkce-yama.com/tom-clancys-ghost-recon-future-soldier-turkce-yama.htm",
+      "language": "Türkçe",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": null,
+      "updatedAt": "25.04.2014",
+      "pageUrl": "https://turkce-yama.com/tom-clancys-ghost-recon-future-soldier-turkce-yama.htm",
+      "howToInstallHtml": "<ol><li>Yama dosyasını yukarıdaki «İndir» butonuyla indirin.</li><li>Kurulum dosyasıysa (.exe) çalıştırın; arşivse (.rar/.zip) çıkartın.</li><li>Oyunun kurulu olduğu klasörü gösterin / dosyaları oraya kopyalayın.</li><li>Oyunu başlatın — Türkçe yama uygulanmış olacaktır.</li></ol>",
+      "authorsHtml": null,
+      "size": "23.9 MB",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Türkçe Yama",
+          "url": "https://turkce-yama.com/tom-clancys-ghost-recon-future-soldier-turkce-yama.htm",
+          "kind": "other"
+        }
+      ],
+      "steamAppId": "212630"
+    },
+    {
       "title": "The Incredible Adventures of Van Helsing",
       "studio": "Türkçe Yama",
       "studioUrl": "https://turkce-yama.com/the-incredible-adventures-of-van-helsing-turkce-yama.htm",
@@ -13267,6 +13776,33 @@
         }
       ],
       "steamAppId": "42910"
+    },
+    {
+      "title": "Call of Duty: Modern Warfare 3",
+      "studio": "Türkçe Yama",
+      "studioUrl": "https://turkce-yama.com/call-of-duty-modern-warfare-3-turkce-yama.htm",
+      "language": "Türkçe",
+      "hasText": true,
+      "hasVoice": false,
+      "hasTextures": false,
+      "hasNeuralVoice": false,
+      "hasNeuralDub": false,
+      "hasNeuralText": false,
+      "version": null,
+      "updatedAt": "25.04.2014",
+      "pageUrl": "https://turkce-yama.com/call-of-duty-modern-warfare-3-turkce-yama.htm",
+      "howToInstallHtml": "<ol><li>Yama dosyasını yukarıdaki «İndir» butonuyla indirin.</li><li>Kurulum dosyasıysa (.exe) çalıştırın; arşivse (.rar/.zip) çıkartın.</li><li>Oyunun kurulu olduğu klasörü gösterin / dosyaları oraya kopyalayın.</li><li>Oyunu başlatın — Türkçe yama uygulanmış olacaktır.</li></ol>",
+      "authorsHtml": null,
+      "size": "2.20 GB",
+      "inDevelopment": false,
+      "mirrors": [
+        {
+          "label": "Türkçe Yama",
+          "url": "https://turkce-yama.com/call-of-duty-modern-warfare-3-turkce-yama.htm",
+          "kind": "other"
+        }
+      ],
+      "steamAppId": "3595270"
     },
     {
       "title": "The Sims 2",
@@ -15771,60 +16307,6 @@
       "steamAppId": "1546970"
     },
     {
-      "title": "Grand Theft Auto: Vice City",
-      "studio": "Türkçe Yama",
-      "studioUrl": "https://turkce-yama.com/grand-theft-auto-vice-city-turkce-yama.htm",
-      "language": "Türkçe",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": null,
-      "updatedAt": "21.04.2014",
-      "pageUrl": "https://turkce-yama.com/grand-theft-auto-vice-city-turkce-yama.htm",
-      "howToInstallHtml": "<ol><li>Yama dosyasını yukarıdaki «İndir» butonuyla indirin.</li><li>Kurulum dosyasıysa (.exe) çalıştırın; arşivse (.rar/.zip) çıkartın.</li><li>Oyunun kurulu olduğu klasörü gösterin / dosyaları oraya kopyalayın.</li><li>Oyunu başlatın — Türkçe yama uygulanmış olacaktır.</li></ol>",
-      "authorsHtml": null,
-      "size": "586 KB",
-      "inDevelopment": false,
-      "mirrors": [
-        {
-          "label": "Türkçe Yama",
-          "url": "https://turkce-yama.com/grand-theft-auto-vice-city-turkce-yama.htm",
-          "kind": "other"
-        }
-      ],
-      "steamAppId": "1546990"
-    },
-    {
-      "title": "Grand Theft Auto 4",
-      "studio": "Türkçe Yama",
-      "studioUrl": "https://turkce-yama.com/grand-theft-auto-4-turkce-yama.htm",
-      "language": "Türkçe",
-      "hasText": true,
-      "hasVoice": false,
-      "hasTextures": false,
-      "hasNeuralVoice": false,
-      "hasNeuralDub": false,
-      "hasNeuralText": false,
-      "version": null,
-      "updatedAt": "21.04.2014",
-      "pageUrl": "https://turkce-yama.com/grand-theft-auto-4-turkce-yama.htm",
-      "howToInstallHtml": "<ol><li>Yama dosyasını yukarıdaki «İndir» butonuyla indirin.</li><li>Kurulum dosyasıysa (.exe) çalıştırın; arşivse (.rar/.zip) çıkartın.</li><li>Oyunun kurulu olduğu klasörü gösterin / dosyaları oraya kopyalayın.</li><li>Oyunu başlatın — Türkçe yama uygulanmış olacaktır.</li></ol>",
-      "authorsHtml": "<p>Ensar BAŞLANTI ve Oğuz Gürsel</p>",
-      "size": "1.35 MB",
-      "inDevelopment": false,
-      "mirrors": [
-        {
-          "label": "Türkçe Yama",
-          "url": "https://turkce-yama.com/grand-theft-auto-4-turkce-yama.htm",
-          "kind": "other"
-        }
-      ],
-      "steamAppId": "12210"
-    },
-    {
       "title": "Grand Theft Auto: Episodes from Liberty City",
       "studio": "Türkçe Yama",
       "studioUrl": "https://turkce-yama.com/grand-theft-auto-episodes-from-liberty-city-turkce-yama.htm",
@@ -15929,7 +16411,8 @@
           "url": "https://turkce-yama.com/the-da-vinci-code-turkce-yama.htm",
           "kind": "other"
         }
-      ]
+      ],
+      "steamAppId": "2666270"
     },
     {
       "title": "Devil May Cry 3 Special Edition",
